@@ -5,8 +5,7 @@
 
 /* ACCM Deep Ethics Project — responsive navigation.
    The public navigation must adapt to the visitor's actual browser viewport:
-   use available width, wrap cleanly when necessary, and never hide links.
-   The article reading column remains controlled separately by the theme. */
+   use available width, wrap cleanly when necessary, and never hide links. */
 
 @media screen and (min-width: 800px) {
   .site-header .wrapper {
@@ -47,4 +46,16 @@
     margin-right: 0;
     white-space: nowrap;
   }
+}
+
+/* Responsive reading width for homepage and sub-pages.
+   Grow with the visitor's browser viewport, but stop before text lines
+   become excessively wide on large/ultrawide displays. */
+.page-content > .wrapper {
+  width: auto;
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: clamp(18px, 3vw, 48px);
+  padding-right: clamp(18px, 3vw, 48px);
 }
