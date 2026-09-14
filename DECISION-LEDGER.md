@@ -27,3 +27,21 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 **Compact formulation:** **John has veto power over project drift. Reality has veto power over John.**
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-14 — Source correction: 27 + 12 is core; 52 is a separate experiment battery
+
+**Initial public reconstruction:** The first `CORE/27-PLUS-12.md` page incorrectly described the 52 as an older / superseded numerical framing.
+
+**Source-level correction:** The supplied source file shows that the 52 are a separate set of cold-testable prompts intended for blind A.I. experiments. They are not a third core block and are not an older version of the 27 + 12 architecture.
+
+**Current representation:**
+
+- **27** = correspondence-degradation / obstruction taxonomy.
+- **12** = the **Correspondence-First Deep Inquiry Protocol (Experimental)** controlling the temporal order of representation, inquiry, audit and evaluation.
+- **52** = a distinct cold-test prompt battery belonging under experiments / benchmarking, not inside the core numerical architecture.
+
+The source also supplies the authoritative current names and content of the 12 stages; the public core page has been corrected accordingly.
+
+**Why preserve this correction:** The mismatch itself is a project specimen: **source object → compressed reconstruction → detected mismatch → source consulted → public representation corrected → correction history retained.**
+
+**Status:** Accepted for current version; corrigible.
