@@ -3,28 +3,33 @@
 
 @import "minima";
 
-/* ACCM Deep Ethics Project — compact, wide desktop navigation.
-   Keep the reading column comfortable while allowing the navigation
-   to use the available screen width instead of growing vertically. */
+/* ACCM Deep Ethics Project — responsive desktop navigation.
+   Let navigation use the browser viewport flexibly while keeping
+   the article reading column controlled by the theme. */
 
 @media screen and (min-width: 800px) {
   .site-header .wrapper {
-    max-width: 1400px;
+    max-width: none;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: clamp(20px, 3vw, 56px);
+    padding-right: clamp(20px, 3vw, 56px);
   }
 
   .site-nav {
     float: none;
-    line-height: 1.6;
+    line-height: 1.5;
     padding-bottom: 8px;
   }
 
   .site-nav .page-link {
-    font-size: 14px;
-    margin-right: 18px;
+    font-size: clamp(12px, 0.9vw, 14px);
+    margin-right: clamp(10px, 1.2vw, 18px);
     white-space: nowrap;
   }
 
   .site-nav .page-link:not(:last-child) {
-    margin-right: 18px;
+    margin-right: clamp(10px, 1.2vw, 18px);
   }
 }
