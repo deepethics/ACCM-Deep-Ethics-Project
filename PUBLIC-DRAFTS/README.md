@@ -2,7 +2,7 @@
 
 > **BETA — presentable does not mean final**
 
-This directory will contain public-facing documents derived from longer research notes, conversations, experiments, and source material.
+This directory contains public-facing documents derived from longer research notes, conversations, experiments, and source material.
 
 The source archive is not intended to be reproduced here wholesale. A public draft may reorganize, compress, clarify, and improve readability while preserving the original object's intent, qualifiers, relationships, and epistemic status.
 
@@ -13,5 +13,9 @@ The working transformation is:
 During drafting, transformations may be distinguished as **preserved**, **compressed**, **reorganized**, **omitted for entry level**, or **interpreted / proposed**.
 
 A public draft remains downstream of its source. It does not retroactively redefine what the source originally meant.
+
+## Current public drafts
+
+- [Perception Processes (P01–P12)](Perception-Processes-P01-P12.md) — an early public version of the process-oriented P01–P12 object, including its connection to better questions and correction metabolism.
 
 > **Professional presentation without professionalized flattening.**
