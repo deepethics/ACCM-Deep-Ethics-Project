@@ -1,0 +1,8 @@
+title: ACCM Deep Ethics Project
+description: Allow Constructive Controversy Mode — Deep Ethics Project
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
