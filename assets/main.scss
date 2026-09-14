@@ -3,9 +3,10 @@
 
 @import "minima";
 
-/* ACCM Deep Ethics Project — responsive desktop navigation.
-   Let navigation use the browser viewport flexibly while keeping
-   the article reading column controlled by the theme. */
+/* ACCM Deep Ethics Project — responsive navigation.
+   The public navigation must adapt to the visitor's actual browser viewport:
+   use available width, wrap cleanly when necessary, and never hide links.
+   The article reading column remains controlled separately by the theme. */
 
 @media screen and (min-width: 800px) {
   .site-header .wrapper {
@@ -17,19 +18,33 @@
     padding-right: clamp(20px, 3vw, 56px);
   }
 
-  .site-nav {
+  .site-title {
     float: none;
-    line-height: 1.5;
+    display: block;
+  }
+
+  .site-nav {
+    position: static;
+    float: none;
+    width: 100%;
+    line-height: 1.4;
     padding-bottom: 8px;
   }
 
-  .site-nav .page-link {
-    font-size: clamp(12px, 0.9vw, 14px);
-    margin-right: clamp(10px, 1.2vw, 18px);
-    white-space: nowrap;
+  .site-nav .trigger {
+    display: flex !important;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: clamp(10px, 1.2vw, 18px);
+    row-gap: 4px;
+    width: 100%;
   }
 
+  .site-nav .page-link,
   .site-nav .page-link:not(:last-child) {
-    margin-right: clamp(10px, 1.2vw, 18px);
+    flex: 0 0 auto;
+    font-size: clamp(12px, 0.9vw, 14px);
+    margin-right: 0;
+    white-space: nowrap;
   }
 }
