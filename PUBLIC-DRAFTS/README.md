@@ -16,7 +16,7 @@ A public draft remains downstream of its source. It does not retroactively redef
 
 ## Current public drafts
 
-- [Perception Processes (P01–P12)](Perception-Processes-P01-P12.md) — an early public version of the process-oriented P01–P12 object, including its connection to better questions and correction metabolism.
+- [Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/) — an early public version of the process-oriented P01–P12 object, including its connection to better questions and correction metabolism.
 
 > **Professional presentation without professionalized flattening.**
 

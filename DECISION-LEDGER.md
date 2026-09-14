@@ -53,3 +53,11 @@ The source also supplies the authoritative current names and content of the 12 s
 **Change:** Added individual concept pages, a relationship map, term index, source excerpts, and cross-links to existing project sections. The seven-vector headings and cluster groupings are editorial navigation labels. Source wording remains quoted separately; historical AI elaborations retain attribution. The 27 + 12 architecture is unchanged.
 
 **Status:** Published BETA source-based reference expansion; corrigible. Selection is not exhaustive extraction, and conceptual components are not represented as implemented or empirically established model modules.
+
+## 2026-09-14 — Public mirrors and direct site navigation
+
+**Request:** Make project documentation available as readable GitHub Pages mirrors and ensure public navigation opens those mirrors.
+
+**Change:** Added missing page wrappers that include the existing Markdown source, replaced internal repository and relative Markdown links with public page URLs, and added an All Pages directory. Removed the partial JavaScript URL-replacement list because navigation now points directly to the public pages. Existing Lexicon section references have explicit stable anchors.
+
+**Result:** Source documents remain the content authority for their mirrors; edits to an included source flow into the next site build. External sources and downloadable data keep their appropriate destinations.

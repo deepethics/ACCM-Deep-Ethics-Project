@@ -52,6 +52,7 @@ The 27 are primarily a provisional **observation / degradation taxonomy**. The s
 
 They are related, but they are not the same object and should not be collapsed into one score.
 
-See [27 + 12 — Current Working Architecture](../CORE/27-PLUS-12.md).
+See [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/).
 
 Future pages can document individual entries, specimens, boundary cases, corrections, cross-model comparisons, and experimental tests.
+

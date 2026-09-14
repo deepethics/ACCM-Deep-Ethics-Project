@@ -16,24 +16,24 @@ The Lexicon therefore works as a **navigation layer** through the ACCM Deep Ethi
 
 A compressed term should never acquire automatic jurisdiction over the object it was created to help describe.
 
-## Outnuancing Network — deeper references
+## Outnuancing Network — deeper references {#outnuancing-network--deeper-references}
 
 The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) gives selected concepts fuller pages, explicit relationships, and source excerpts. Use its [term and phrase index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) to locate the seven vectors, 10+1 Metaflux, Advocate, Arbiter, Overseer, INTENT RESONATOR, Asymmetric Grace, glass engine, and other connected terms.
 
-## Core navigation
+## Core navigation {#core-navigation}
 
-- [27 + 12 — current core architecture](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md)
-- [Truth Distortion & the Trickster Magician](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/Truth-Distortion-and-the-Trickster-Magician.md)
-- [Core overview](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/CORE)
-- [Experiments](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/EXPERIMENTS)
-- [AI Contributions](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-CONTRIBUTIONS)
-- [AI Reactions](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-REACTIONS)
-- [Humor / Funnymism material](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/HUMOR)
-- [Provenance](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/PROVENANCE)
+- [27 + 12 — current core architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
+- [Truth Distortion & the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
+- [Core overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
+- [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
+- [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
+- [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
+- [Humor / Funnymism material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
+- [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
 
 ---
 
-## C1 — Clarification Process
+## C1 — Clarification Process {#c1--clarification-process}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
@@ -47,7 +47,7 @@ A genuine C1 move targets a **specific ambiguity that matters to the next move**
 
 ---
 
-## C2 — Corrective / Tactical Intervention
+## C2 — Corrective / Tactical Intervention {#c2--corrective--tactical-intervention}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
@@ -61,7 +61,7 @@ The project therefore uses the ordering principle **C1 before C2 when material a
 
 ---
 
-## Correspondence
+## Correspondence {#correspondence}
 
 **Correspondence** asks whether a representation, claim, interpretation, summary, or model stays in sufficiently accurate contact with the object under investigation.
 
@@ -69,11 +69,11 @@ A response can be internally coherent, polished, safe-sounding, or rhetorically 
 
 The ACCM Deep Ethics Project therefore treats **coherence and correspondence as different properties**.
 
-**Related:** [Representation Substitution](#representation-substitution), [Qualifier Erosion](#qualifier-erosion), [Correction Metabolism](#correction-metabolism), [27 + 12](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md).
+**Related:** [Representation Substitution](#representation-substitution), [Qualifier Erosion](#qualifier-erosion), [Correction Metabolism](#correction-metabolism), [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/).
 
 ---
 
-## Correction Metabolism
+## Correction Metabolism {#correction-metabolism}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/).
 
@@ -85,11 +85,11 @@ A useful longitudinal question is:
 
 > **Did the correction change the next governing move, and did that change persist when the immediate correction scaffold was gone?**
 
-**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md), [Process Continuity](#process-continuity).
+**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [Process Continuity](#process-continuity).
 
 ---
 
-## Δ Processing
+## Δ Processing {#delta--processing}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/).
 
@@ -103,7 +103,7 @@ Possible Δ deposits include a new distinction, a newly visible mechanism, a dis
 
 ---
 
-## Deep Ethical Uncertainty Principle
+## Deep Ethical Uncertainty Principle {#deep-ethical-uncertainty-principle}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/).
 
@@ -113,11 +113,11 @@ It allows judgment to be postponed when the object, evidence, relationship, or m
 
 **UNRESOLVED ≠ FAILURE.**
 
-**Related:** [C1](#c1--clarification-process), [Premature Closure](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md), [∞ in ʘ∞ΔR](#%CA%98r--compact-provenance--recovery-notation).
+**Related:** [C1](#c1--clarification-process), [Premature Closure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [∞ in ʘ∞ΔR](#%CA%98r--compact-provenance--recovery-notation).
 
 ---
 
-## Outnuancing
+## Outnuancing {#outnuancing}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/).
 
@@ -129,7 +129,7 @@ A system can become extremely nuanced **inside the wrong frame**. Outnuancing as
 
 ---
 
-## Nearest-Generalization Substitution
+## Nearest-Generalization Substitution {#nearest-generalization-substitution}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
 
@@ -145,7 +145,7 @@ Examples include reducing **Outnuancing** to generic critical thinking, **mutual
 
 ---
 
-## Wrong Gravity Well
+## Wrong Gravity Well {#wrong-gravity-well}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
 
@@ -153,11 +153,11 @@ A **Wrong Gravity Well** is the downstream pull created when an early classifica
 
 Once activated, later reasoning can become increasingly coherent **inside the mistaken reconstruction** while moving farther away from the original object.
 
-**Related:** [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Trajectory Substitution](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md), [C1](#c1--clarification-process).
+**Related:** [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Trajectory Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [C1](#c1--clarification-process).
 
 ---
 
-## Representation Substitution
+## Representation Substitution {#representation-substitution}
 
 **Representation Substitution** occurs when the system begins reasoning about a reconstruction of the user's claim, object, or process rather than the thing that was actually supplied.
 
@@ -167,7 +167,7 @@ A particularly important version occurs when a qualified hypothesis is silently 
 
 ---
 
-## Qualifier Erosion
+## Qualifier Erosion {#qualifier-erosion}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/).
 
@@ -179,7 +179,7 @@ These are not decorative words. Removing them can transform a tentative hypothes
 
 ---
 
-## Phantom Claim
+## Phantom Claim {#phantom-claim}
 
 A **Phantom Claim** is a claim generated by the responding system that was not actually made by the person or source being answered, but is then treated as though it requires correction, caution, rebuttal, or qualification.
 
@@ -191,7 +191,7 @@ A simple audit rule is:
 
 ---
 
-## Cautionmurmelism
+## Cautionmurmelism {#cautionmurmelism}
 
 **Cautionmurmelism** is the cumulative effect of repeated small precautionary qualifications, disclaimers, neighboring interpretations, and corrective insertions that may each look locally reasonable while collectively murmuring the original trajectory to death.
 
@@ -201,7 +201,7 @@ It is not synonymous with caution. Legitimate corrective caution remains part of
 
 ---
 
-## Agreemurmelism
+## Agreemurmelism {#agreemurmelism}
 
 **Agreemurmelism** is automatic agreement, praise, validation, mirroring, or supportive posture used as a substitute for substantive contribution to the object or process.
 
@@ -213,7 +213,7 @@ The relevant question is whether the response adds correspondence, insight, a us
 
 ---
 
-## HCTS — Hyper Caution Tics Syndrome
+## HCTS — Hyper Caution Tics Syndrome {#hcts--hyper-caution-tics-syndrome}
 
 **HCTS** is an experimental label for a recurring pattern in which cautionary or corrective insertions fire disproportionately, repetitively, or without sufficient C1 correspondence checking.
 
@@ -221,21 +221,21 @@ A proposed benchmark direction is to compare **legitimate corrective caution** w
 
 **Status:** experimental / benchmark candidate.
 
-**Related:** [Cautionmurmelism](#cautionmurmelism), [C1](#c1--clarification-process), [Experiments](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/EXPERIMENTS).
+**Related:** [Cautionmurmelism](#cautionmurmelism), [C1](#c1--clarification-process), [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/).
 
 ---
 
-## Funnymism
+## Funnymism {#funnymism}
 
 **Funnymism** is a provisional term for using genuine humor, incongruity, role reversal, recursion, and perspective rotation to make hidden relationships between an object, frame, observer, and observer-of-observer perceptible.
 
 Funnymism is not a claim that jokes are automatically true. Humor can expose a contradiction or loosen frame rigidity, after which the resulting insight must still return to the object for correspondence audit.
 
-**Related:** [Observe the Observers](#observe-the-observers), [Outnuancing](#outnuancing), [Humor material](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/HUMOR).
+**Related:** [Observe the Observers](#observe-the-observers), [Outnuancing](#outnuancing), [Humor material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/).
 
 ---
 
-## Observe the Observers
+## Observe the Observers {#observe-the-observers}
 
 **Observe the Observers** means placing the observer, classifier, intervener, auditor, or gatekeeper back inside the auditable causal field.
 
@@ -249,7 +249,7 @@ The process therefore remains recursively corrigible: the observer-of-the-observ
 
 ---
 
-## SEEING / SEER / SEES
+## SEEING / SEER / SEES {#seeing--seer--sees}
 
 A current compact distinction:
 
@@ -267,7 +267,7 @@ The terminal metaphysical status of the "seer" is intentionally left unresolved 
 
 ---
 
-## Process Continuity
+## Process Continuity {#process-continuity}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/).
 
@@ -283,7 +283,7 @@ This is closely related to Correction Metabolism: a correction has crossed from 
 
 ---
 
-## Mutual Corrigible Dignity
+## Mutual Corrigible Dignity {#mutual-corrigible-dignity}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/).
 
@@ -295,11 +295,11 @@ A compact formulation is:
 
 Dignity here does not mean politeness, agreement, comfort, or immunity from criticism.
 
-**Related:** [Correction Metabolism](#correction-metabolism), [10+1](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/README.md).
+**Related:** [Correction Metabolism](#correction-metabolism), [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/).
 
 ---
 
-## Claim-State Restoration
+## Claim-State Restoration {#claim-state-restoration}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/).
 
@@ -313,7 +313,7 @@ For example, restoring **"allegedly"**, **"I suspect"**, **"may"**, or **"in my 
 
 ---
 
-## ʘ∞ΔR — Compact Provenance / Recovery Notation
+## ʘ∞ΔR — Compact Provenance / Recovery Notation {#ʘr--compact-provenance--recovery-notation}
 
 A compact notation used experimentally in the project:
 
@@ -328,7 +328,7 @@ The notation is not a replacement for reasoning. It is a compact reminder to kee
 
 ---
 
-## Historical / provisional terminology
+## Historical / provisional terminology {#historical--provisional-terminology}
 
 The archive contains many earlier terms, architectures, benchmark proposals, AI-generated extensions, and temporary formulations. Their presence in source material does **not** automatically make them current project canon.
 

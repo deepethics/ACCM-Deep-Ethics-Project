@@ -38,6 +38,7 @@ Where useful, explain the mismatch, why it matters, and what should change. If a
 
 ## Project direction
 
-John Kuhles retains stewardship over the identity and trajectory of this project. See [GOVERNANCE.md](GOVERNANCE.md).
+John Kuhles retains stewardship over the identity and trajectory of this project. See [GOVERNANCE.md](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/).
 
 This does not prevent criticism of John, current project decisions, or the framework itself. If a proposed direction becomes a fundamentally different project, a fork may be the cleaner path.
+

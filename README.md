@@ -36,9 +36,9 @@ This includes the framework itself.
 
 The repository is in its earliest construction phase. A structural skeleton is being created first so material can be added to the right places over time rather than dumped into one undifferentiated archive.
 
-See [PROJECT-STATUS.md](PROJECT-STATUS.md) for the current build state and [GOVERNANCE.md](GOVERNANCE.md) for the project's stewardship and correction principles.
+See [PROJECT-STATUS.md](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/) for the current build state and [GOVERNANCE.md](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) for the project's stewardship and correction principles.
 
-Selected high-signal formulations, objections, compressions, and discoveries produced by AIs **in reaction to John Kuhles' source material** are preserved separately in [AI-REACTIONS](AI-REACTIONS/README.md), so source contribution and reaction contribution remain distinguishable and attributable.
+Selected high-signal formulations, objections, compressions, and discoveries produced by AIs **in reaction to John Kuhles' source material** are preserved separately in [AI-REACTIONS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/), so source contribution and reaction contribution remain distinguishable and attributable.
 
 ## Stewardship
 

@@ -39,13 +39,14 @@ These labels are intended to make conceptual evolution inspectable instead of si
 
 ## Core links
 
-- [27 + 12 — current core architecture](../CORE/27-PLUS-12.md)
-- [Truth Distortion & the Trickster Magician](../CORE/Truth-Distortion-and-the-Trickster-Magician.md)
-- [Core overview](../CORE/README.md)
-- [Experiments](../EXPERIMENTS/README.md)
-- [AI Contributions](../AI-CONTRIBUTIONS/README.md)
-- [AI Reactions](../AI-REACTIONS/README.md)
-- [Humor / Funnymism](../HUMOR/README.md)
-- [Provenance](../PROVENANCE/README.md)
+- [27 + 12 — current core architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
+- [Truth Distortion & the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
+- [Core overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
+- [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
+- [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
+- [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
+- [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
+- [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
 
 The existence of a term here does not make it final, true, or mechanistically established. **Deep Ethics gets no immunity from Deep Ethics.**
+

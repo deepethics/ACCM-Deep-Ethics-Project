@@ -13,17 +13,19 @@ This site presents the public-facing documentation for the ACCM Deep Ethics Proj
 
 ## Project navigation
 
-- [Core overview](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/CORE)
-- [27 + 12 — current core architecture](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md)
+[Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
+
+- [Core overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
+- [27 + 12 — current core architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Lexicon / Legend]({{ '/LEXICON/' | relative_url }})
-- [Truth Distortion & the Trickster Magician](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/Truth-Distortion-and-the-Trickster-Magician.md)
-- [Experiments](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/EXPERIMENTS)
-- [AI Reactions](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-REACTIONS)
-- [AI Contributions](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-CONTRIBUTIONS)
-- [Humor / Funnymism](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/HUMOR)
-- [Provenance](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/PROVENANCE)
-- [Project status](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/PROJECT-STATUS.md)
-- [Governance](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/GOVERNANCE.md)
+- [Truth Distortion & the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
+- [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
+- [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
+- [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
+- [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
+- [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
+- [Project status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/)
+- [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/)
 
 Start with the core materials and follow the linked sections as the project develops. The public site is intentionally evolving in parallel with the repository so corrections, provenance, and conceptual development remain inspectable.
 
