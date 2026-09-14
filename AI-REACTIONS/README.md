@@ -114,3 +114,7 @@ The AI gets credit for what it contributed.
 John gets credit for what he contributed.
 
 Neither gets God Mode. 😛
+
+## Outnuancing source reactions
+
+The network preserves [an attributed Claude correction of the specific-word / generic-category substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e23) and [Grok’s four stack-integrated definitions following John’s revision request](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e15). The [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) page distinguishes the request, attributed elaboration, and implementation status.

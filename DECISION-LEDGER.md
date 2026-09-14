@@ -45,3 +45,11 @@ The source also supplies the authoritative current names and content of the 12 s
 **Why preserve this correction:** The mismatch itself is a project specimen: **source object → compressed reconstruction → detected mismatch → source consulted → public representation corrected → correction history retained.**
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-14 — Publish a connected Outnuancing Network
+
+**User direction:** Expand the ACCM Deep Ethics Project with reference pages from the Epistemic Self Correction archive and two additional source files; preserve the whole connected nodes/vectors/clusters matrix as the Outnuancing Network via the deep ethical path.
+
+**Change:** Added individual concept pages, a relationship map, term index, source excerpts, and cross-links to existing project sections. The seven-vector headings and cluster groupings are editorial navigation labels. Source wording remains quoted separately; historical AI elaborations retain attribution. The 27 + 12 architecture is unchanged.
+
+**Status:** Published BETA source-based reference expansion; corrigible. Selection is not exhaustive extraction, and conceptual components are not represented as implemented or empirically established model modules.

@@ -19,3 +19,7 @@ A public draft remains downstream of its source. It does not retroactively redef
 - [Perception Processes (P01–P12)](Perception-Processes-P01-P12.md) — an early public version of the process-oriented P01–P12 object, including its connection to better questions and correction metabolism.
 
 > **Professional presentation without professionalized flattening.**
+
+## Connected reference edition
+
+The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) contains public source-based syntheses with stable concept addresses and explicit relations. New experiment refinements and navigation groupings are labeled as editorial contributions.

@@ -55,3 +55,7 @@ Please have patience. The repository is young by design. Sections that appear sp
 The goal is not to look finished before the work is finished.
 
 The goal is to let the development remain visible while steadily improving its quality.
+
+## Outnuancing Network — connected reference pages
+
+The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) makes selected key phrases and their relationships referenceable through individual pages, an [index of terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/), and [source excerpts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/). It connects the seven vectors, 10+1, the Deep Ethical stack, correction processes, and bidirectional scrutiny.

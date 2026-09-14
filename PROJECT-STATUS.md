@@ -37,3 +37,7 @@ The organizing principle is:
 > **Organization should follow the object rather than force the object to follow the organization.**
 
 The public repository will grow as material is examined, represented, challenged, corrected, and placed where it belongs.
+
+## 2026-09-14 — Outnuancing Network reference expansion
+
+Added 23 linked network pages, a provenance page with 23 selected source excerpts, and JSON source/relationship records. The edition connects the seven vectors, 10+1, the source-described Deep Ethical stack, qualifier-state updates, correction persistence, and reciprocal scrutiny. It is a selected expansion with further source review still possible. The archived benchmark and new proposed test refinements are documented; neither was run by this update.

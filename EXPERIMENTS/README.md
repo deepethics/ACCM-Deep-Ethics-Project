@@ -9,3 +9,9 @@ The aim is not to make a taxonomy true by finding examples that fit it. Experime
 Where practical, experimental records should distinguish observation from functional interpretation, computational hypothesis, and mechanistic claim.
 
 Failed experiments and disconfirming results can be valuable project data.
+
+## Source specimens and experiment development
+
+- [Imported authority frame — worked specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)
+- [The dual archive — failures and successful correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)
+- [Testing correspondence and correction persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) — archived protocol, unresolved control wording, and a separately identified new study proposal; no new results claimed.

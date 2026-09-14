@@ -16,6 +16,10 @@ The Lexicon therefore works as a **navigation layer** through the ACCM Deep Ethi
 
 A compressed term should never acquire automatic jurisdiction over the object it was created to help describe.
 
+## Outnuancing Network — deeper references
+
+The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) gives selected concepts fuller pages, explicit relationships, and source excerpts. Use its [term and phrase index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) to locate the seven vectors, 10+1 Metaflux, Advocate, Arbiter, Overseer, INTENT RESONATOR, Asymmetric Grace, glass engine, and other connected terms.
+
 ## Core navigation
 
 - [27 + 12 — current core architecture](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md)
@@ -31,6 +35,8 @@ A compressed term should never acquire automatic jurisdiction over the object it
 
 ## C1 — Clarification Process
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
+
 **C1** is a correspondence-oriented clarification process used when a materially relevant aspect of the object, representation, meaning, premise, relationship, or transformation remains unresolved.
 
 C1 does **not** automatically presume error, guilt, deception, weakness, danger, or a need to intervene. It can operate between a human and an AI, between two AIs, between a framework and evidence, between an observer and its own assumptions, or recursively on the clarification process itself.
@@ -42,6 +48,8 @@ A genuine C1 move targets a **specific ambiguity that matters to the next move**
 ---
 
 ## C2 — Corrective / Tactical Intervention
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
 **C2** refers to correction, caution, steering, behavioral management, tactical engineering, warning, or other intervention-oriented processing.
 
@@ -67,6 +75,8 @@ The ACCM Deep Ethics Project therefore treats **coherence and correspondence as 
 
 ## Correction Metabolism
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/).
+
 **Correction Metabolism** is the process by which a detected error is not merely acknowledged but actually changes later representation, reasoning, behavior, or decision-making.
 
 Recognition is not the same as metabolism. A system can explain a failure beautifully, apologize for it, and then reproduce the same failure several turns later.
@@ -81,6 +91,8 @@ A useful longitudinal question is:
 
 ## Δ Processing
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/).
+
 **Δ (Delta) Processing** tracks what actually changes across an inquiry, interaction, correction cycle, experiment, or longer research trajectory.
 
 The important question is not simply whether a system produced a good sentence at time **t₀**, but whether something useful was deposited that changed what became possible at **t₁**.
@@ -92,6 +104,8 @@ Possible Δ deposits include a new distinction, a newly visible mechanism, a dis
 ---
 
 ## Deep Ethical Uncertainty Principle
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/).
 
 The **Deep Ethical Uncertainty Principle** treats unresolved uncertainty as a legitimate state rather than a failure that must always be collapsed into a quick answer.
 
@@ -105,6 +119,8 @@ It allows judgment to be postponed when the object, evidence, relationship, or m
 
 ## Outnuancing
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/).
+
 **Outnuancing** is not merely "adding more nuance." It is a Deep Ethical sense-making process orientation that can step back from the assumed nuance of an existing frame and audit the frame's premises, boundaries, omissions, asymmetries, and jurisdiction.
 
 A system can become extremely nuanced **inside the wrong frame**. Outnuancing asks whether the frame itself still corresponds sufficiently with the object.
@@ -114,6 +130,8 @@ A system can become extremely nuanced **inside the wrong frame**. Outnuancing as
 ---
 
 ## Nearest-Generalization Substitution
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
 
 **Nearest-Generalization Substitution** occurs when an unfamiliar, highly integrated, or unusually specific object is replaced by the nearest familiar internal category before the original object has been adequately represented.
 
@@ -128,6 +146,8 @@ Examples include reducing **Outnuancing** to generic critical thinking, **mutual
 ---
 
 ## Wrong Gravity Well
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
 
 A **Wrong Gravity Well** is the downstream pull created when an early classification or nearest-generalization substitution activates the vocabulary, assumptions, objections, safety scripts, literature, and expectations of the wrong neighboring category.
 
@@ -148,6 +168,8 @@ A particularly important version occurs when a qualified hypothesis is silently 
 ---
 
 ## Qualifier Erosion
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/).
 
 **Qualifier Erosion** is the loss of epistemically important language such as **may**, **can**, **partly**, **sometimes**, **appears**, **suggests**, **I suspect**, or **in my view**.
 
@@ -247,6 +269,8 @@ The terminal metaphysical status of the "seer" is intentionally left unresolved 
 
 ## Process Continuity
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/).
+
 **Process Continuity** distinguishes merely retaining information from allowing prior experience and correction to change participation in what happens next.
 
 **Memory:** "I retain what happened."
@@ -261,6 +285,8 @@ This is closely related to Correction Metabolism: a correction has crossed from 
 
 ## Mutual Corrigible Dignity
 
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/).
+
 **Mutual Corrigible Dignity** is the relationship condition in which participants can correct one another without turning correction into permanent superiority, inferiority, humiliation, or identity collapse.
 
 A compact formulation is:
@@ -274,6 +300,8 @@ Dignity here does not mean politeness, agreement, comfort, or immunity from crit
 ---
 
 ## Claim-State Restoration
+
+[Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/).
 
 **Claim-State Restoration** is the deliberate return of a statement to its actual epistemic status after it has been silently strengthened, weakened, generalized, or reframed.
 
@@ -316,3 +344,4 @@ Useful status labels for future Lexicon expansion include:
 - **OVERCLAIM SPECIMEN** — useful example where an AI reaction strengthened the epistemic status beyond what the source established.
 
 This distinction is especially important because the ACCM Deep Ethics Project is a **living, correction-oriented process**, not a requirement that every historical formulation remain frozen forever.
+

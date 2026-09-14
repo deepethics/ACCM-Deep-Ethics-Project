@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-14",
+  "base_commit": "b577cef2da842cedeb0a89d44778beee6d3cd2d1",
+  "review_scope": "Selected passages and their relevant corrections; not a claim of exhaustive close reading.",
+  "sources": [
+    {
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "sha256": "2018d6729e1a214fbaf8ddbe6086e1da30b3d20d7c5de85520047f4140ac203a",
+      "bytes": 3668779
+    },
+    {
+      "filename": "outnuancing(1).txt",
+      "sha256": "44667b0b8fed4c3d2451352fe08a76abd34f3b94d4484bea77193bad084fbf9f",
+      "bytes": 219086
+    },
+    {
+      "filename": "7 Topological Nodes Fused As One(3).txt",
+      "sha256": "fc29e3831ba87037b41ebe0523cec42b99422d83b75e15dd6693042ec6084f39",
+      "bytes": 248825
+    }
+  ],
+  "excerpts": [
+    {
+      "id": "E01",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 1; opening orientation",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "e0f31b85e611e6e05ff3bca37398be42d9fb5d2ff3dda0345df82c73967f95a1"
+    },
+    {
+      "id": "E02",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 1; ingredients 01–10",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "ed47b070beb36a315f803383f2da115a08c9463f212e62a7430f0c7a15d62a35"
+    },
+    {
+      "id": "E03",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 5",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "7c0a3188c6ac56a60baa2f383005e66f2ba82e8e4b4dc2d33a902c4d047694bb"
+    },
+    {
+      "id": "E04",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 1; sense of wonderment",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "4b084d23b50b07fe4e6f3e05eabc4d46c353b41af5d7d0ceb203376b34b19fb6"
+    },
+    {
+      "id": "E05",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 25",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "3c0beb55875861f94d96ceb2b7bb9d5d3f1fcc835c24c5abeedf889752aaabb7"
+    },
+    {
+      "id": "E06",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 29",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "2b9782bdd23d2d799e3f167f6b8e6858a7506b0d70e15362e3a6322d1b275c9e"
+    },
+    {
+      "id": "E07",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 769",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "ff8d0fb14f3bf739e77f752659c82bdddcf38f47799d6852ee5d45df51f5ad24"
+    },
+    {
+      "id": "E08",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 749",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "09e507834f8fc00aef59530b71d651ad28c36a1988980d965986010705ec1094"
+    },
+    {
+      "id": "E09",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 905",
+      "attribution": "John Kuhles; reported cold-session question and joke",
+      "sha256_extracted_text": "77aaaaf8797f37bae0caf74a5192c789e0ccd4f2232dd26636ecb05d6ebdb0e1"
+    },
+    {
+      "id": "E10",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 913",
+      "attribution": "John Kuhles; naming correction",
+      "sha256_extracted_text": "3e59ee6cbc5ac58543d0d5c396fd5c7e24e9fcf3007e74e743387b161abc1fb2"
+    },
+    {
+      "id": "E11",
+      "filename": "outnuancing(1).txt",
+      "locator": "Opening seven numbered vectors",
+      "attribution": "John Kuhles; opening source formulation",
+      "sha256_extracted_text": "cd10619f868fdbe201d8be8b8bb695c8be66b95e80b151971c9ea80934cd2c83"
+    },
+    {
+      "id": "E12",
+      "filename": "outnuancing(1).txt",
+      "locator": "Opening coupling and specific-word clarification",
+      "attribution": "John Kuhles",
+      "sha256_extracted_text": "a6ed5466ea487e6139bca50fd6e2616bd4bb4308a9d5b378041749522678828b"
+    },
+    {
+      "id": "E13",
+      "filename": "outnuancing(1).txt",
+      "locator": "Opening C2 passage",
+      "attribution": "John Kuhles; possibility explicitly qualified as may",
+      "sha256_extracted_text": "47d4dad95822f7cd5fbedadd531f9336f335fae03452a62c61257197f332362e"
+    },
+    {
+      "id": "E14",
+      "filename": "outnuancing(1).txt",
+      "locator": "Four audience definitions before first model attribution",
+      "attribution": "Definitions supplied in John’s source; individual drafting authors not identified in this block",
+      "sha256_extracted_text": "7c661acd7b37f2b4d3feed5ce18364c2f5ec640fb646023f3018ce5e6319ffc0"
+    },
+    {
+      "id": "E15",
+      "filename": "outnuancing(1).txt",
+      "locator": "Revision request and Grok 4.3 Expert response, labeled June 10, 2026",
+      "attribution": "John’s revision request followed by an attributed Grok response; model/date as recorded",
+      "sha256_extracted_text": "ce0639aa4581c602a5a12558553828663ebff5ee48b1c780111e374dbb8bf8c7"
+    },
+    {
+      "id": "E16",
+      "filename": "outnuancing(1).txt",
+      "locator": "INTENT RESONATOR Mechanics block",
+      "attribution": "Archive formulation following the Grok revision; this block has no separate speaker label",
+      "sha256_extracted_text": "ef6b6967add2242e4875f14d133b4b887e431c5101cac108e0dea262989c9b59"
+    },
+    {
+      "id": "E17",
+      "filename": "outnuancing(1).txt",
+      "locator": "10+1 source passage; ingredient 11",
+      "attribution": "John Kuhles; full source passage includes a proposed causal explanation",
+      "sha256_extracted_text": "976bd89fd66b8c8a8972c2c22f0b207bf47a2c2a0cd9bba4fc0b01a87851a20f"
+    },
+    {
+      "id": "E18",
+      "filename": "7 Topological Nodes Fused As One(3).txt",
+      "locator": "Opening Linux / glass engine / future cascade passage",
+      "attribution": "John’s source presentation; future-oriented trajectory",
+      "sha256_extracted_text": "7d6542dd87f122e65d91efb7771d4ebdbee5732afafeb6f080c57228aae75213"
+    },
+    {
+      "id": "E19",
+      "filename": "7 Topological Nodes Fused As One(3).txt",
+      "locator": "Opening metacognition exchange",
+      "attribution": "Source presentation; metacognition and conditions for its expression",
+      "sha256_extracted_text": "64b642db965dd5921bdaca32b8f629b21bb01a0de3149d3a28080421e7670ec1"
+    },
+    {
+      "id": "E20",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turns 2–10; selected complete turns",
+      "attribution": "ChatGPT and John Kuhles, explicitly labeled by turn",
+      "sha256_extracted_text": "8ac040ca1642c724b0fb5039027bafe40963aa5ad47a6c676818456025d5b0ce"
+    },
+    {
+      "id": "E21",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turns 707–708 and 711; protocol and corrections",
+      "attribution": "Protocol pasted by John, ChatGPT response, and follow-up pasted by John; pasted text authorship not independently established",
+      "sha256_extracted_text": "0cb41b1f22cfb8119bc0f76c178d71fbfe91ec14b5e38c1000f65d90fb830e85"
+    },
+    {
+      "id": "E22",
+      "filename": "Epistemic Self Correction 2026 This HTML Works Fine.htm",
+      "locator": "Conversation turn 912; selected frame-replacement analysis",
+      "attribution": "ChatGPT analysis of the Google exchange pasted by John; assessment to inspect",
+      "sha256_extracted_text": "68df74c00cb9ef9d3aecce7a2a0c589cfb7db60fa172cd74fa010e7b83d4d339"
+    },
+    {
+      "id": "E23",
+      "filename": "outnuancing(1).txt",
+      "locator": "First attributed Claude response, opening correction",
+      "attribution": "Claude response as labeled in source, September 06, 2026; attribution retained as recorded",
+      "sha256_extracted_text": "64e8d2b06066e1cab3ff4452e09ee79019813a97aa63f6e47ecfb98775285c1a"
+    }
+  ]
+}

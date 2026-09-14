@@ -7,6 +7,10 @@ Early BETA / DRAFT / TRIAL & ERROR.
 
 This site presents the public-facing documentation for the ACCM Deep Ethics Project while the GitHub repository preserves the underlying source history, provenance, corrections, and ongoing development.
 
+## Outnuancing Network
+
+[Explore the connected reference pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Find a key phrase](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) · [Inspect source excerpts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)
+
 ## Project navigation
 
 - [Core overview](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/CORE)
@@ -22,3 +26,4 @@ This site presents the public-facing documentation for the ACCM Deep Ethics Proj
 - [Governance](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/GOVERNANCE.md)
 
 Start with the core materials and follow the linked sections as the project develops. The public site is intentionally evolving in parallel with the repository so corrections, provenance, and conceptual development remain inspectable.
+
