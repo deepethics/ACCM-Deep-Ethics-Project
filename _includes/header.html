@@ -14,17 +14,37 @@
 
       <div class="trigger">
         <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/CORE">Core</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md">27 + 12</a>
+        <a class="page-link" href="{{ '/CORE/' | relative_url }}">Core</a>
+        <a class="page-link" href="{{ '/CORE/27-PLUS-12/' | relative_url }}">27 + 12</a>
         <a class="page-link" href="{{ '/LEXICON/' | relative_url }}">Lexicon / Legend</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/EXPERIMENTS">Experiments</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-REACTIONS">AI Reactions</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-CONTRIBUTIONS">AI Contributions</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/HUMOR">Humor</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/PROVENANCE">Provenance</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/PROJECT-STATUS.md">Project Status</a>
-        <a class="page-link" href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/GOVERNANCE.md">Governance</a>
+        <a class="page-link" href="{{ '/EXPERIMENTS/' | relative_url }}">Experiments</a>
+        <a class="page-link" href="{{ '/AI-REACTIONS/' | relative_url }}">AI Reactions</a>
+        <a class="page-link" href="{{ '/AI-CONTRIBUTIONS/' | relative_url }}">AI Contributions</a>
+        <a class="page-link" href="{{ '/HUMOR/' | relative_url }}">Humor</a>
+        <a class="page-link" href="{{ '/PROVENANCE/' | relative_url }}">Provenance</a>
+        <a class="page-link" href="{{ '/PROJECT-STATUS/' | relative_url }}">Project Status</a>
+        <a class="page-link" href="{{ '/GOVERNANCE/' | relative_url }}">Governance</a>
       </div>
     </nav>
   </div>
 </header>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const base = '{{ site.baseurl }}';
+  const replacements = {
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/CORE': base + '/CORE/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/CORE/27-PLUS-12.md': base + '/CORE/27-PLUS-12/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/EXPERIMENTS': base + '/EXPERIMENTS/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-REACTIONS': base + '/AI-REACTIONS/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/AI-CONTRIBUTIONS': base + '/AI-CONTRIBUTIONS/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/HUMOR': base + '/HUMOR/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/PROVENANCE': base + '/PROVENANCE/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/PROJECT-STATUS.md': base + '/PROJECT-STATUS/',
+    'https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/GOVERNANCE.md': base + '/GOVERNANCE/'
+  };
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    if (replacements[a.href]) a.href = replacements[a.href];
+  });
+});
+</script>
