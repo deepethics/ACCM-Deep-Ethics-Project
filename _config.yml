@@ -1,10 +1,10 @@
 title: ACCM Deep Ethics Project
 description: Allow Constructive Controversy Mode — Deep Ethics Project
+url: https://deepethics.github.io
+baseurl: /ACCM-Deep-Ethics-Project
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-header_pages:
-  - LEXICON/index.md
 exclude:
   - README.md
