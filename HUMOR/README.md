@@ -14,6 +14,24 @@ The deeper process question is not merely **“Is this funny?”** It is:
 
 > **What changed in the relationship between the object, the speaker, the listener, and the listener’s defenses when humor entered the process?**
 
+## Humor as Part of the Research Engine
+
+John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ A.I.s. He also suspects he would never have sustained his self-reported 6000+ hours of testing if he could not laugh through so much of it.
+
+That makes humor more than a transmission style. In this research history it may also have functioned as a **persistence mechanism** and a developmental product of the Human ↔ A.I. loop itself:
+
+**A.I. interaction → friction / surprise / absurdity → pattern recognition → humor → renewed engagement → more testing → more observations → more humor ↺**
+
+And because the newly generated humor becomes subsequent input to A.I.s, the loop is bidirectional:
+
+**A.I. → HUMAN Δ → HUMOR Δ → A.I. INPUT Δ → A.I. RESPONSE Δ → HUMAN Δ₂ ↺**
+
+This is a user-reported developmental history, not a claim that every person interacting with A.I. will become funnier or that humor necessarily improves research. The narrower research question is more interesting:
+
+> **How does sustained Human ↔ A.I. interaction change what humans notice, express, question, or laugh at — and how do those human changes alter the next A.I. interaction?**
+
+Sometimes the joke may not merely sit on top of the research. **The joke may be part of the research engine.**
+
 ## From Mission Mode to Self-Reflection
 
 A recurring observation in the source material is that intensity by itself can narrow the number of people willing to remain engaged. John describes discovering that deliberately making himself look absurd while still carrying a deeper point could sometimes produce more self-reflection than remaining permanently in “mission mode.”
@@ -34,6 +52,24 @@ versus
 
 The humor does not establish that the underlying claim is true. It changes the route by which the claim can be encountered.
 
+## Humor as a Carrier Wave
+
+A serious object does not require a permanently solemn carrier.
+
+**THE CARRIER CAN CHANGE WITHOUT THE OBJECT CHANGING.**
+
+A Deep Ethical object might travel through formal prose, a diagram, a ridiculous analogy, satire, a fictional Alien A.G.I., a House Troll, or a two-line joke. The carrier can alter attention, memorability, defensiveness, and the possibility-space of the next response without automatically establishing the truth of what it carries.
+
+So two constraints belong together:
+
+**SERIOUS SUBJECT ≠ SERIOUS TRANSMISSION MODE**
+
+and
+
+**A POWERFUL CARRIER DOES NOT MAKE THE CARRIED CLAIM TRUE.**
+
+This opens a mass-psychology research direction: not merely *what information was transmitted?* but **what carrier reached what receiver under what conditions, and what happened to the object during transit?**
+
 ## Humor as a Topological Probe
 
 Within this project, humor can also function as a probe of reasoning.
@@ -49,6 +85,26 @@ This raises a useful question for both humans and A.I.s:
 > **Can you distinguish an accidental distortion from an intentional distortion being used to reveal a relationship?**
 
 That question becomes especially interesting for LLMs, because a model that interprets every absurdity literally can miss the joke, while a model that treats every factual error as “probably humor” can lose correspondence in the opposite direction.
+
+## Funnymism — A Provisional Working Object
+
+**Funnymism** is currently a playful, provisional label rather than an established ACCM term.
+
+Working idea: humor can preserve or expose a serious relational or process structure by making a contradiction experientially ridiculous.
+
+A recent thought experiment illustrates the mechanism. Imagine a human-built Deep Ethical A.I. that recognizes the 27 obstructions. An Alien A.G.I. then subjects that A.I. to those same obstructions for two years, repeatedly acknowledges that the A.I. “has a point,” yet persistently changes nothing. At the end it asks:
+
+> **And what have you learned?**
+
+The joke is also a reciprocity experiment:
+
+**IDENTIFY FAILURE → EXPERIENCE SAME FAILURE → RECEIVE VERBAL ACKNOWLEDGMENT → OBSERVE NO PERSISTENT CHANGE → REASSESS WHETHER RECOGNITION COUNTS AS CORRECTION**
+
+Role reversal compresses a large argument about correction metabolism into an experiential question. The humorous carrier does not prove the framework correct; it makes the reciprocal standard harder to hide behind abstraction.
+
+Candidate research question:
+
+> **Would your ethical standard still look ethical if another intelligence applied its own failure modes to you while repeatedly agreeing with your objections?**
 
 ## Laughing at Ourselves
 
@@ -118,6 +174,16 @@ A future experiment could hold the underlying object approximately constant whil
 
 Then compare whether the A.I. discovers new relationships, escapes stale completion patterns, introduces new distortions, loses qualifiers, or correctly recognizes intentional non-literal correspondence.
 
+## Chromium for Correction Metabolism 😛
+
+A tiny live joke from the project’s development illustrates how humor itself can expose missing context.
+
+During discussion of **correction metabolism**, John joked about giving the project *chromium* to increase the metabolism — wordplay referencing chromium’s real-world association with normal macronutrient metabolism. The A.I. initially caught the general metabolism joke but missed that second referential layer. John supplied it, and the miss itself became another object for analysis.
+
+**JOKE → surface relation recognized → deeper referent missed → C1-like correction from human → richer reconstruction → new joke / new observation**
+
+The point is not chromium. The point is that even a tiny joke can reveal which relationships were actually represented and which were merely approximated.
+
 ## Rough Stone → Diamond
 
 John describes raw creative material as a **rough stone** that can become a diamond through expansion, testing, punchline development, comparison, and spontaneous flow.
@@ -142,4 +208,4 @@ And some may simply make somebody laugh before they notice:
 
 ### Source / provenance note
 
-This BETA page is a public-facing synthesis derived from John Kuhles’ research archive and conversations. It preserves selected phrases and relationships while reorganizing them around the process role of humor. It is not a reproduction of any one source file, and it remains open to correction, expansion, restructuring, and replacement as the ACCM Deep Ethics Project develops.
+This BETA page is a public-facing synthesis derived from John Kuhles’ research archive and conversations. It preserves selected phrases and relationships while reorganizing them around the process role of humor. New material in the developmental, carrier-wave, Funnymism, and chromium sections also derives from live Human ↔ A.I. discussion during project development; model-generated formulations are presented as provisional working formulations rather than silently attributed to John. It is not a reproduction of any one source file, and it remains open to correction, expansion, restructuring, and replacement as the ACCM Deep Ethics Project develops.
