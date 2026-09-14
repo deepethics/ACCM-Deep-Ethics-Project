@@ -38,6 +38,8 @@ The repository is in its earliest construction phase. A structural skeleton is b
 
 See [PROJECT-STATUS.md](PROJECT-STATUS.md) for the current build state and [GOVERNANCE.md](GOVERNANCE.md) for the project's stewardship and correction principles.
 
+Selected high-signal formulations, objections, compressions, and discoveries produced by AIs **in reaction to John Kuhles' source material** are preserved separately in [AI-REACTIONS](AI-REACTIONS/README.md), so source contribution and reaction contribution remain distinguishable and attributable.
+
 ## Stewardship
 
 The project was initiated and is supervised by **John Kuhles**. Project stewardship includes the ability to reject changes that move the project away from its intended trajectory. That stewardship does not make any claim, definition, interpretation, or decision immune from evidence-based challenge or correction.
