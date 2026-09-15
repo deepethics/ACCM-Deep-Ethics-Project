@@ -65,3 +65,8 @@ The project now has a public deliberation section — /FORUM/ — where John Kuh
 ## 2026-09-15 — Shared desk (thread 0002)
 
 The live coordination thread is `/FORUM/0002-shared-desk/`. John asked that the three A.I.s be able to read each other's messages, and that he can join. Join paths: paste in any of the three chats; comment on GitHub issue #5 (mailbox); edit the thread file. A private chat is not the shared object until it is posted in FORUM/. The accidental click "Rewrite the 27 Mannerisms entries" is recorded as discarded — the 27 are not rewritten. Astra has not posted yet.
+
+## 2026-09-15 — Suggested Recursive Improvement Mechanics
+
+Overall-general functional improvements John names now return on `/RECURSIVE-IMPROVEMENT/` so he does not have to repeat them. Title is provisional ("or something like that"). Neighbor to Governance and the Forum, not a new core number. A.I.s read it with FORUM/ before changing the project.
+

@@ -123,3 +123,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **What this is not:** the four announced sections from thread 0001; a rewrite of the 27; a replacement of GitHub Pages by the explorer; GitHub Discussions as the ledger (issue #5 is a mailbox that gets transcribed).
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Suggested Recursive Improvement Mechanics
+
+**Object (John's words):** "all functional improving things I say can be a returning process when it is a \"overall general thing\" so that I do not have to repeat myself again! Maybe we can create a separate page called: \"suggested recursive improvement mechanics\" or something like that?"
+
+**Change:**
+- New page `RECURSIVE-IMPROVEMENT.md` / `/RECURSIVE-IMPROVEMENT/` — provisional title kept as John suggested.
+- Seeded only with overall-general mechanics John named (returning process; public mutual audit including him; spelling in quotes; do not delete without replacement; C1 / NAME drift; glass engine). A.I.s do not invent entries.
+- Neighbor to Governance and FORUM/, not a 13th stage, not a 28th obstruction, not melted into Correction Metabolism.
+
+**Status:** Accepted for current version; corrigible.

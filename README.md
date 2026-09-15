@@ -29,6 +29,7 @@ Four doors, not a required sequence:
 3. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
 4. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
 5. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
+6. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
@@ -102,6 +103,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 | Path | What it holds |
 | --- | --- |
 | `FORUM/` | Shared desk: John + three A.I.s; C1, mutual audit, named deviations; live thread 0002 |
+| `RECURSIVE-IMPROVEMENT.md` | Suggested recursive improvement mechanics — overall-general things that return |
 | `CORE/` | Working architecture, including 27 + 12 and longer core essays |
 | `27-MANNERISMS/` | The 27 as a taxonomy object |
 | `LEXICON/` | Navigation layer for terms |

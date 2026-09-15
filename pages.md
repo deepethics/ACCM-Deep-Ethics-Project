@@ -18,6 +18,7 @@ Every link below opens a readable page on this public site.
 - [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/)
 - [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/)
 - [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/)
+- [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)
 - [Project Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/)
 
 ## Core framework and public drafts
