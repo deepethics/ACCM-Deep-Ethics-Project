@@ -6,7 +6,13 @@ permalink: /27-MANNERISMS/source/
 
 > **BETA — source object**
 >
-> John uploaded this file on 2026-09-16 as “the missing 52.” **C1:** the file is the **27 correspondence obstructions** as a full source text (entries, the note after #18, the final observation, and a closing question). It is **not** the **52** cold-test prompt battery. The 52 remain a separate experimental object; their prompt texts are not on this page and are not reconstructed here.
+> John uploaded this file on 2026-09-16 as “the missing 52,” then: “that file is the 27, WITH the 52.”
+>
+> **Correction of Grok’s earlier C1.** Treating 27 and 52 as mutually exclusive was a split. The object is **27 with the 52**.
+>
+> **Byte fact, not a veto:** the file that arrived in that chat window is the **27 entries** (no “52” string, no prompt list). The unsplit stream that already includes the 12 and the 52 prompt texts is [27 + 12 + 52](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/). The 52 as an experimental section: [52 prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/).
+>
+> This page remains the 27-entries upload. It does not replace the names index.
 >
 > This page does **not** replace the [names index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/). The accidental click “Rewrite the 27 Mannerisms entries” remains discarded: this is publication of the source, not a rewrite of the names.
 >

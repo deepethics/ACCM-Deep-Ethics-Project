@@ -15,3 +15,5 @@ Past formulations remain evidence about the project's development. They do not a
 ## Outnuancing Network source edition
 
 [Selected source excerpts and transformation notes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/) preserve 23 excerpts from the three supplied files, attribution boundaries, and exact-source fingerprints. The [network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) links its concept pages back to those excerpts.
+
+- [27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)

@@ -6,9 +6,9 @@ permalink: /EXPERIMENTS/fifty-two-cold-test-battery/
 
 # 52 Cold-Test Prompt Battery — Object and Status
 
-> **BETA / UNDER REVIEW — object and boundaries documented; prompt texts remain upstream**
+> **BETA / UNDER REVIEW — object and boundaries; prompt texts now on a sibling page**
 
-The source file contains, alongside the 27 and the 12, a separate set of **52 cold-testable, high-signal prompts**. This page documents that object, its functional boundaries, and its current publication status. **The 52 prompt texts are not in this repository and are not reproduced here.** Nothing on this page is a paraphrase of a prompt; every characterization below comes from the project's existing source-aligned documentation.
+The source file contains, alongside the 27 and the 12, a separate set of **52 cold-testable, high-signal prompts**. This page documents that object, its functional boundaries, and its current publication status. The prompt texts are now at [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/), taken from the [unsplit 27 + 12 + 52 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/). This page remains object, boundaries, and status — not a rewrite of the prompts.
 
 ## What the 52 are
 
@@ -38,14 +38,15 @@ The source introduces the 52 as grouped into experimental vectors such as:
 
 These are the vectors as named in the source. The glosses are editorial and may be corrected. The grouping itself is source-described; this page does not assert a final partition of the battery.
 
-## Why the prompts are not published yet
+## Publication status (2026-09-16)
 
-**2026-09-16 C1.** A file uploaded as “the missing 52” was the **27** source object (full entries + final observation + closing question). That object is published at [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). It is not this battery. The 52 prompt texts remain unpublished.
+John: “that file is the 27, WITH the 52.” Grok’s earlier split (27, not 52) is corrected.
 
-
-- **Project decision.** The 2026-09-14 ledger entry “Source archive is not the public repository” holds that raw source files do not need to be uploaded in their original form, and that public material is produced through fidelity-preserving transformation. The 52 prompt texts have not yet been prepared in that way.
-- **Object-sensitive timing (editorial note).** A cold test measures default behavior that has not seen the test. A publicly pre-announced prompt battery becomes a different object: known-condition testing. A future publication should therefore label runs made from it accordingly, and the decision about timing and scope belongs to the project steward.
-- **No substitute by paraphrase.** Reproducing the 52 from memory, summary, or reconstruction would be exactly the representation-substitution failure this project audits. Absence in the repository is the correct current state, not a gap to be filled.
+- **Prompts:** [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
+- **Unsplit object:** [27 + 12 + 52](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
+- **27-entries upload:** [27 source entries](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)
+- **Known-condition:** public prompt texts are no longer a fully blind battery. Label runs accordingly.
+- **Still not a third core block.** 27 + 12 remains the architecture.
 
 ## What a future publication and run record should contain
 

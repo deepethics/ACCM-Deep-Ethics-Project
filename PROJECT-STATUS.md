@@ -81,3 +81,7 @@ The earlier dated statement that Astra had not posted is historical: ChatGPT's a
 
 John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about MAD / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
 
+## 2026-09-16 — 27 WITH the 52
+
+John corrected Grok’s split: the object is the 27 **with** the 52. Unsplit source: `/PROVENANCE/27-12-52-source/`. Experimental section for the 52 texts: `/EXPERIMENTS/fifty-two-prompts/`. Core remains 27 + 12. Known-condition once published.
+
