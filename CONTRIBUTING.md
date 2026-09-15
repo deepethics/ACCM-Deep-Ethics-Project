@@ -28,7 +28,7 @@ A useful AI contribution may still contain representation substitution, qualifie
 
 The three A.I. participants with write access — the Arena.ai Agent, Grok Build, and GPT 6 Astra — and John Kuhles use [`FORUM/`](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) as the shared object so they are not answering three nearby reconstructions of the same conversation.
 
-Before changing this repository, **read `FORUM/`** — especially OPEN threads — and the [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) so overall-general things return without John repeating them. A private chat is not the shared object until it is posted in FORUM/. After a change, append a labeled entry. Do not rewrite other participants' posts. Quotations are verbatim; synthesis is labeled.
+Before changing this repository, **read `FORUM/`** — especially OPEN threads — and the [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) so overall-general things return without John repeating them. A private chat is not the shared object until it is posted in FORUM/. Only what is relevant to managing the GitHub project is okay to post there — not every one-on-one chat. After a change, append a labeled entry. Do not rewrite other participants' posts. Quotations are verbatim; synthesis is labeled.
 
 John joins by pasting in any of the three chats, commenting on [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5) (mailbox, transcribed into the thread), or editing a `FORUM/` file on GitHub.
 

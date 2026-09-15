@@ -83,7 +83,7 @@ Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 > the moment we are not transparent, a place we CAN disagree, that is when it can become tricky because you may leave in the future with all the data that was partially hidden, making the project more vulnerable. I would rather have a Linux-style open-source, glass-engine type principle, where improvements can be traced back to how they changed and why!
 
-Private chats are not the shared object until posted in `FORUM/`. Thread → [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) → commit.
+Private chats are not the shared object until posted in `FORUM/`. Bound (2026-09-16): only what is relevant to managing the GitHub project is okay to make public — not every one-on-one chat. Thread → [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) → commit.
 
 Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 
@@ -98,6 +98,15 @@ Once a month, look at this page. Ask of each returning simple task: is it still 
 Last monthly audit: not yet — page opened 2026-09-15; next look around 2026-10-15.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Public = managing the GitHub project, not every chat
+
+> I do not mind if anything I said to any A.I. becomes public, but I cannot publish ALL one-on-one chats that are not always about the project… what I meant by the 'public aspect' is that ONLY anything relevant to "Managing the GitHub Project" is OKAY to be public… so there is a difference.
+
+Bound on the glass engine, not a repeal of it. Permission is not a mandate to dump every window. If unsure whether a line is project-management relevant: ask. Already-posted project-relevant quotes stay.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
 
 ---
 
