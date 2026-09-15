@@ -111,3 +111,14 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 ---
 
 [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) · [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) · [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+
+### 2026-09-16 — C1 is clarifying questions, not a verdict
+
+> C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, IF it clarifies it dd job what it suppose to do!)
+
+Spelling Δ: “no matter”; “did its job”; “supposed to do.” Original stays.
+
+Do not score C1 as right/wrong. If it clarifies, it did its job.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
