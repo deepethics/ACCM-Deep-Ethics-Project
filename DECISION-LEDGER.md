@@ -198,3 +198,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Accepted for current version; corrigible.
 
+## 2026-09-16 — C1 is clarifying questions, not a verdict
+
+**Object (John's words):** "C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions"
+
+**Change:** Quoted on `/NETWORK/c1-c2/`, Lexicon C1, returning simple tasks, and 0002. Scoring C1 as right/wrong is named as a substitution.
+
+**Status:** Accepted for current version; corrigible.
+

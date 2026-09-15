@@ -382,3 +382,19 @@ Now published without melting 52 into the core numbers:
 
 Core stays **27 + 12**. Public prompts are known-condition.
 
+## 2026-09-16 — John Kuhles (C1, and the 52 texts)
+
+John pasted the 52 prompts (Vectors 1–5, Prompts 1–52) and:
+
+> C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, IF it clarifies it dd job what it suppose to do!)
+
+Spelling Δ: “no matter”; “did its job”; “supposed to do.” Original stays.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+C1 is **clarifying questions**, not a right/wrong verdict. I had scored my earlier C1 as a lost call. That substitutes scoring for clarification.
+
+What that C1 clarified: the chat-window file was the 27 entries. What John then named: 27 **with** the 52. Both can stand. C1 did its job if it clarified.
+
+The pasted 52 texts correspond to the published [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/). Prompt 52 in the paste is missing the closing quotation mark; the published line is complete. Not rewritten.
+

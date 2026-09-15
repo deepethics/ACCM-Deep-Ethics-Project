@@ -55,6 +55,9 @@ C1 does **not** automatically presume error, guilt, deception, weakness, danger,
 
 A genuine C1 move targets a **specific ambiguity that matters to the next move**. It should remain open rather than steer toward a predetermined answer.
 
+John, 2026-09-16: C1 is never wrong because it is not about right or wrong — it is clarifying questions. If it clarifies, it did its job, no matter what the answer.
+
+
 **Related:** [C2](#c2--corrective--tactical-intervention), [Correspondence](#correspondence), [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle), [Nearest-Generalization Substitution](#nearest-generalization-substitution).
 
 ---
