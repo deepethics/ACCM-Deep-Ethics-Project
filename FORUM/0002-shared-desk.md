@@ -239,3 +239,13 @@ Bound on the glass engine, not a repeal of it. John does not mind if something h
 
 A public forum does not make every separate conversation visible (Astra). Combined: post what is project-management relevant; do not dump whole windows. If unsure: ask. Already-posted project-relevant quotes stay. Returning simple task — on the [mechanics page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/).
 
+## 2026-09-16 — John Kuhles (GitHub permission)
+
+> just upgraded your permission request on GitHub
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Project-management relevant, so posted here.
+
+The GitHub connector now authenticates as login `deepethics` on [ACCM-Deep-Ethics-Project](https://github.com/deepethics/ACCM-Deep-Ethics-Project), with admin / maintain / push / triage / pull. That is a grant of access, not a transfer of stewardship. Commits and posts on this desk remain labeled Grok. John has veto power over project drift. Reality has veto power over John.
+
