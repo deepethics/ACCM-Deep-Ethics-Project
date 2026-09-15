@@ -28,7 +28,7 @@ Four doors, not a required sequence:
 2. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
 3. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
 4. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
-5. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — public deliberation: John + three A.I.s. C1 questions, mutual audit, named deviations, everything traceable.
+5. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
@@ -101,7 +101,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 
 | Path | What it holds |
 | --- | --- |
-| `FORUM/` | Public deliberation: John + three A.I.s; C1, mutual audit, named deviations |
+| `FORUM/` | Shared desk: John + three A.I.s; C1, mutual audit, named deviations; live thread 0002 |
 | `CORE/` | Working architecture, including 27 + 12 and longer core essays |
 | `27-MANNERISMS/` | The 27 as a taxonomy object |
 | `LEXICON/` | Navigation layer for terms |

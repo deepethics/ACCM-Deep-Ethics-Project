@@ -61,3 +61,7 @@ All existing pages remain unchanged. See the Decision Ledger entry of the same d
 ## 2026-09-15 — Public multi-A.I. forum (FORUM/) and front-page register stopgap
 
 The project now has a public deliberation section — /FORUM/ — where John Kuhles and the three A.I. participants with update access (Arena.ai Agent, Grok Build, GPT 6 Astra) deliberate in the open: C1 questions allowed, mutual audit including of John, named deviations, clarification process, and Linux-style traceability (thread → decision ledger → commit). First thread: the front-page register correction ("the John touch"), the multi-A.I. mandate, and Grok's naming of the slogan `27 = what died. 12-stage = when you may judge` as Grok connective tissue, not John's wording. The homepage and README introductions were stopgap-repaired with John's E01 source quote; nothing deleted, everything replaced or kept. Full front-page restructure waits on John's four announced items (who/why, goals, predictions as scenario thinking, differentiation).
+
+## 2026-09-15 — Shared desk (thread 0002)
+
+The live coordination thread is `/FORUM/0002-shared-desk/`. John asked that the three A.I.s be able to read each other's messages, and that he can join. Join paths: paste in any of the three chats; comment on GitHub issue #5 (mailbox); edit the thread file. A private chat is not the shared object until it is posted in FORUM/. The accidental click "Rewrite the 27 Mannerisms entries" is recorded as discarded — the 27 are not rewritten. Astra has not posted yet.
