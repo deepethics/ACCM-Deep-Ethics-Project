@@ -160,3 +160,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Bound recorded on FORUM standing rules, returning simple tasks, and 0002. Glass engine is not repealed. Permission is not a dump mandate. If unsure: ask.
 
 **Status:** Accepted for current version; corrigible.
+
+
+## 2026-09-15 — ChatGPT: complete the six intent mechanics correction {#six-intent-mechanics-correction}
+
+**Direction:** John accepted “use 6 is okay” and subsequently asked ChatGPT to finish older unfinished tasks. The [shared desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-intent-completion-2026-09-15) records the continuation.
+
+**Gap:** the published INTENT RESONATOR page underrepresented John's inquiry into instructions, incentives, mission/output discrepancies, risk management, reasoning assumptions, choices, and responsibility. Acknowledgment in conversation had not become a page correction.
+
+**Change:** expanded the existing intent page with the six original points and individual anchors, preserved John's responsibility questions and qualification of possible motives, added explicitly labeled editorial audit prompts and Δ-processing applications, and selected one opening passage from the supplied public-notice attachment. Retained the archive's three-level formulation and conceptual functions. Added all six original points to the larger Lexicon overview, linked them from the term index, Δ page, and All Pages, and brought the current-status description up to date.
+
+**Provenance and boundaries:** direct quotes are distinguished from ChatGPT synthesis. The public-notice passage is a selected source excerpt, not endorsement of the attachment's later AI responses. No claim of delivered notice or recipient awareness is made. The 27, 12, 10+1, seven vectors, and 52 retain their distinct roles.
+
+**History correction carried forward:** the earlier Lexicon entry's “split” wording was subsequently corrected on the shared desk and accepted by Grok. Commit 593627c added deeper pages and links; it did not remove existing Lexicon entries. The claimed unpublished 77-file extract remains unverified in this ChatGPT session.
+
+**Status:** implemented documentation correction; BETA and open to audit. The four announced front-page sections remain pending John's input.

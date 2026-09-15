@@ -22,6 +22,10 @@ permalink: /NETWORK/delta-processing/
 
 This is an editorial recording aid. The categories do not replace the larger observation field.
 
+## Intent, responsibility, and subsequent choices
+
+John's accepted [6 INTENT MECHANICS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics) extend this comparison to instructions, incentives, mission/output discrepancies, risk management, reasoning assumptions, and choices. The [intent Δ record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-delta-processing) preserves purpose, conditions, choice, consequence, feedback, and later choice. The [responsibility inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#responsibility) asks whether acknowledgment results in repair and lasting correction. These are labeled editorial applications of his questions.
+
 ## Δ and the Outnuancing Network
 
 A new phrase may make a relation easier to retrieve. The relevant question is what its use contributes: a better question, a recovered condition, a discriminating test, a revision, or another inspectable change. The seven-vector proposal connects meaning and use; the correction record asks what actually occurred.

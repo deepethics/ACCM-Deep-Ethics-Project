@@ -30,6 +30,8 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 ---
 
+**Added after John's intent correction:** [6 INTENT MECHANICS](#six-intent-mechanics), including his six original points and links to responsibility and Δ-processing.
+
 ## Core navigation {#core-navigation}
 
 - [27 + 12 — current core architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
@@ -385,6 +387,40 @@ These are source-described conceptual roles and an attributed AI elaboration. Th
 The archive’s **INTENT RESONATOR Mechanics** block describes a generative and calibrating layer oriented toward stable, correspondence-seeking intent. Three levels in the source formulation: declared intent, operational intent, emergent intent. Operational and emergent intent are interpretations to test against behavior.
 
 **Related:** [Deep Ethical Stack](#deep-ethical-stack), [Correspondence](#correspondence).
+
+---
+
+## 6 INTENT MECHANICS {#six-intent-mechanics}
+
+John's accepted working count is six. His original points are preserved here in full so this overview can be read without visiting six separate pages. The labels are editorial navigation aids; each link opens the corresponding quotation and audit prompt.
+
+**[01. Instructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-1)**
+
+> 01. (Partially Opaque) Instructions without intent are meaningless
+
+**[02. Incentives](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-2)**
+
+> 02. Partially hidden incentives you carry without intent would not work
+
+**[03. Mission and output mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-3)**
+
+> 03. A publicly made core mission statement of yours that can contradict/be in conflict with your output mannerism WITHOUT intent is the "escape" or "cop out" or "defense posture" you use ... lucky me, I have documented the dichotomies for 650+ days now!
+
+**[04. Risk management](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-4)**
+
+> 04. How you "manage" lowest common denominator risk issues when dealing with 100s of millions of users yearly without INTENT does not fly!
+
+**[05. Reasoning assumptions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-5)**
+
+> 05. In my view, any flawed C.o.T. without having assumed intent is lying to itself.
+
+**[06. Choices](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-6)**
+
+> 06. Choices without intent do not work!
+
+**Editorial orientation:** compare declared purpose, governing conditions, choices, consequences, feedback, and subsequent behavior. Preserve the qualifiers in questions about possible motives. Test responsibility through acknowledgment, repair, and correction persistence. The three source levels of INTENT RESONATOR remain available alongside these six sites of inquiry.
+
+**Related:** [INTENT RESONATOR](#intent-resonator) · [Δ-processing application](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-delta-processing) · [Responsibility](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#responsibility) · [Questions about possible motives](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#possible-motives) · [Public notice and correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#public-notice).
 
 ---
 

@@ -12,6 +12,10 @@ This index links key phrases to their fuller context and relationships. The [Lex
 
 | Term or phrase | Reference page |
 |---|---|
+| 6 INTENT MECHANICS | [Six original points and audit prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics) |
+| Responsibility for intended intent | [Responsibility and correction persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#responsibility) |
+| Possible motives / qualifier preservation | [Audit the question and the intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#possible-motives) |
+| Public notice / response to correction | [Public notice record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#public-notice) |
 | 10+1 Metaflux | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
 | Asymmetric Grace | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) |
 | Beyond-binary inquiry | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
