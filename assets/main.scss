@@ -3,31 +3,119 @@
 
 @import "minima";
 
-/* ACCM Deep Ethics Project — responsive navigation.
-   The public navigation must adapt to the visitor's actual browser viewport:
-   use available width, wrap cleanly when necessary, and never hide links. */
+:root {
+  --accm-paper: #f4efe6;
+  --accm-ink: #1c1b16;
+  --accm-muted: #5c5a52;
+  --accm-sage: #2f4a3c;
+  --accm-sage-soft: #3d5a48;
+  --accm-line: #d9d1c3;
+  --accm-header: #141814;
+  --accm-header-fg: #ece8de;
+  --accm-chip: #efe8db;
+}
+
+html {
+  background: var(--accm-paper);
+}
+
+body {
+  background: var(--accm-paper);
+  color: var(--accm-ink);
+  font-family: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+h1, h2, h3, h4,
+.site-title,
+.post-title {
+  font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--accm-ink);
+}
+
+a {
+  color: var(--accm-sage);
+}
+
+a:hover {
+  color: var(--accm-ink);
+}
+
+.site-header {
+  background: var(--accm-header);
+  border-top: 0;
+  border-bottom: 1px solid #2a2f2b;
+  min-height: 0;
+}
+
+.site-header .wrapper.accm-header-inner {
+  max-width: none;
+  padding: 18px clamp(18px, 3vw, 56px) 14px;
+}
+
+.site-header .site-title,
+.site-header .site-title:visited {
+  float: none;
+  display: block;
+  color: var(--accm-header-fg);
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.accm-header-tag {
+  margin: 4px 0 12px;
+  color: #9aada0;
+  font-size: 0.85rem;
+}
+
+.site-nav {
+  position: static;
+  float: none;
+  width: 100%;
+  line-height: 1.4;
+  background: transparent;
+}
+
+.site-nav .page-link,
+.site-nav .page-link:not(:last-child) {
+  color: var(--accm-header-fg);
+  margin-right: 0;
+}
+
+.site-nav .menu-icon > svg path {
+  fill: var(--accm-header-fg);
+}
+
+.accm-menu-label {
+  margin-left: 8px;
+  color: var(--accm-header-fg);
+  font-size: 0.85rem;
+  vertical-align: middle;
+}
+
+@media screen and (max-width: 799px) {
+  .site-nav {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    background: transparent;
+    border: 0;
+  }
+
+  .site-nav .trigger {
+    background: var(--accm-header);
+    border: 1px solid #2a2f2b;
+    padding: 10px 14px 14px;
+  }
+}
 
 @media screen and (min-width: 800px) {
-  .site-header .wrapper {
-    max-width: none;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: clamp(20px, 3vw, 56px);
-    padding-right: clamp(20px, 3vw, 56px);
-  }
-
-  .site-title {
-    float: none;
-    display: block;
-  }
-
-  .site-nav {
-    position: static;
-    float: none;
-    width: 100%;
-    line-height: 1.4;
-    padding-bottom: 8px;
+  .site-nav .nav-trigger,
+  .site-nav label[for="nav-trigger"] {
+    display: none;
   }
 
   .site-nav .trigger {
@@ -35,27 +123,165 @@
     flex-wrap: wrap;
     align-items: center;
     column-gap: clamp(10px, 1.2vw, 18px);
-    row-gap: 4px;
+    row-gap: 6px;
     width: 100%;
   }
 
-  .site-nav .page-link,
-  .site-nav .page-link:not(:last-child) {
+  .site-nav .page-link {
     flex: 0 0 auto;
-    font-size: clamp(12px, 0.9vw, 14px);
-    margin-right: 0;
+    font-size: 0.92rem;
     white-space: nowrap;
   }
 }
 
-/* Responsive reading width for homepage and sub-pages.
-   Grow with the visitor's browser viewport and only stop near a full 4K-wide
-   browser window, while retaining adaptive side padding at every size. */
+.page-content {
+  padding-top: 36px;
+  padding-bottom: 56px;
+}
+
 .page-content > .wrapper {
   width: auto;
-  max-width: 3840px;
+  max-width: 760px;
   margin-left: auto;
   margin-right: auto;
   padding-left: clamp(18px, 3vw, 64px);
   padding-right: clamp(18px, 3vw, 64px);
+}
+
+.home.accm-home {
+  max-width: 860px;
+}
+
+.post:has(.post-content > h1) .post-header {
+  display: none;
+}
+
+.accm-kicker {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 4px 10px;
+  border: 1px solid var(--accm-line);
+  background: var(--accm-chip);
+  color: var(--accm-muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.accm-hero-title {
+  margin: 0 0 8px;
+  font-size: clamp(2rem, 4vw, 3.1rem);
+  line-height: 1.12;
+}
+
+.accm-hero-sub {
+  margin: 0 0 28px;
+  color: var(--accm-muted);
+  font-size: 1.15rem;
+}
+
+.accm-question {
+  margin: 0 0 28px;
+  padding: 0 0 0 18px;
+  border-left: 2px solid var(--accm-sage);
+}
+
+.accm-question p {
+  margin: 0;
+  font-family: "Fraunces", Palatino, Georgia, serif;
+  font-size: clamp(1.35rem, 2.4vw, 1.85rem);
+  line-height: 1.3;
+}
+
+.accm-lede {
+  margin: 0 0 32px;
+  color: var(--accm-muted);
+}
+
+.accm-doors {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin: 0 0 40px;
+}
+
+@media screen and (min-width: 700px) {
+  .accm-doors {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.accm-door {
+  display: block;
+  padding: 18px 18px 16px;
+  border: 1px solid var(--accm-line);
+  border-radius: 16px;
+  background: #fbf7ef;
+  text-decoration: none;
+  color: var(--accm-ink);
+}
+
+.accm-door:hover {
+  border-color: var(--accm-sage);
+  color: var(--accm-ink);
+}
+
+.accm-door-kicker {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--accm-sage-soft);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.accm-door strong {
+  display: block;
+  margin-bottom: 6px;
+  font-family: "Fraunces", Palatino, Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.accm-door span:last-child {
+  display: block;
+  color: var(--accm-muted);
+  font-size: 0.95rem;
+}
+
+.site-footer {
+  background: var(--accm-header);
+  border-top: 0;
+  color: #b7b6ad;
+}
+
+.site-footer a {
+  color: #c5d0c6;
+}
+
+.accm-footer {
+  max-width: 760px;
+}
+
+.accm-footer-title {
+  margin-bottom: 8px;
+  color: var(--accm-header-fg);
+  font-family: "Fraunces", Palatino, Georgia, serif;
+}
+
+.accm-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+}
+
+blockquote {
+  color: var(--accm-ink);
+  border-left: 2px solid var(--accm-sage);
+  font-style: normal;
+}
+
+.highlighter-rouge,
+pre, code {
+  background: #efe8db;
 }
