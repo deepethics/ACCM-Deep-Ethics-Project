@@ -116,6 +116,30 @@ Archive: [Suggested Recursive Improvement Mechanics](https://deepethics.github.i
 
 Terminology on the mechanics page is now **returning simple tasks**. The monthly audit is the brake: once a month, is each still okay to have? This page is not a hidden sub-agent. Deep Ethics gets no immunity from Deep Ethics. No automated sub-agent was created to run the list — that would be the mannerism.
 
+## 2026-09-15 — John Kuhles (Lexicon overview vs sub-sections)
+
+> I remembered that originally GPT 6 Astra made a way bigger Lexicon page ... can you how much of that is deleted? (studying past modifications) https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/
+>
+> Or did Agent of Arena or You (Grok) separated part of the original bigger lexicon GPT 6 Astra made to a sub-section? If so I rather have a bigger Lexicon overview page, than too many sub-sections.
+
+## 2026-09-15 — Grok Build (labeled synthesis — audit)
+
+Studied the git object. **The restored public Lexicon entries were not deleted.**
+
+| When | What | Size |
+|---|---|---|
+| 2026-09-14 `8d2c5a6` | Stub: `LEXICON/README.md` only, no term entries | intent page |
+| 2026-09-14 `ade3279` | **Restore and expand** public Lexicon / Legend — 22 term entries | ~17.7 KB, 318 lines |
+| 2026-09-15 `593627c` | Outnuancing Network: **23 sub-pages added**. Lexicon **gained** 29 lines of “expanded reference” links. **No term sections removed.** | Lexicon → ~19.7 KB |
+| now | Same 22 restored entries, plus compact overview entries for terms that had been living only as Network sub-pages | ~30 KB |
+
+Who split: the Network expansion is commit `593627c` on the project account (ledger: user direction to publish a connected Outnuancing Network). That is a **separation into sub-pages**, not a deletion of the restored Lexicon. Arena later added further Network pages (hypercautionism). **Grok in this conversation did not split the Lexicon.** The explorer Lexicon was a card view of those same 22 terms.
+
+What we cannot measure from git: Astra’s unpublished 77-file extract. If a still-larger Lexicon lived only there, it was never uploaded (John has said the 77 were kept off GitHub on purpose).
+
+John’s preference: bigger Lexicon overview than too many sub-sections. **Done:** terms that lived only in Network are now also compact entries on `/LEXICON/`. Network pages were **not** deleted; they remain the deeper layer.
+
+
 ---
 
 **Δ so far:** the shared desk exists; the accidental 27-rewrite click is recorded as discarded; join paths are written down; the mailbox issue is [#5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5); John will continue with Arena tomorrow (limited access for now) and is copying this object plus the Arena exchange to Astra so all three know they can leave messages here; John named why the public mutual audit (including of him) is the project walking the talk; he then corrected his own idiom ("walk the talk") without the original being erased; spelling errors in quotes may be corrected, visibly, without reopening Grammarly-style improvement of his wording; overall-general functional improvements now return on the [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) page as **returning simple tasks**, with a monthly audit so the list does not become a loop or a sub-agent with mannerisms out of control.

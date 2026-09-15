@@ -18,7 +18,17 @@ A compressed term should never acquire automatic jurisdiction over the object it
 
 ## Outnuancing Network — deeper references {#outnuancing-network--deeper-references}
 
-The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) gives selected concepts fuller pages, explicit relationships, and source excerpts. Use its [term and phrase index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) to locate the seven vectors, 10+1 Metaflux, Advocate, Arbiter, Overseer, INTENT RESONATOR, Asymmetric Grace, glass engine, and other connected terms.
+The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) remains the **deeper-reference** layer (relationships, source excerpts). Those terms are now also on **this overview**, because a bigger Lexicon page is preferred to hunting many sub-sections. Network pages were not deleted.
+
+## On this overview {#on-this-overview}
+
+John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too many sub-sections. The 22 entries below are the restored public Lexicon (2026-09-14). The entries after those were living only as Network sub-pages; they are now also on this page as compact overview entries. The Network pages remain as **deeper references**, not replacements. Nothing from the restored Lexicon was deleted.
+
+**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
+
+**Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism)
+
+---
 
 ## Core navigation {#core-navigation}
 
@@ -325,6 +335,156 @@ A compact notation used experimentally in the project:
 The notation is not a replacement for reasoning. It is a compact reminder to keep provenance and transformation visible.
 
 **Related:** [Correspondence](#correspondence), [Δ Processing](#delta--processing), [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle).
+
+---
+
+## 10+1 Metaflux {#101-metaflux}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/).
+
+John describes the governing relationship directly:
+
+> all 11 can correct/self-improve all other 10
+
+The ingredients operate as mutually corrective capacities. Their interpretations and relationships remain revisable. Compact overview only — the ten baseline ingredients and +1 stay on the deeper page.
+
+**Related:** [Mutual Corrigible Dignity](#mutual-corrigible-dignity), [Deep Ethical Stack](#deep-ethical-stack), [Sense of Wonderment](#sense-of-wonderment).
+
+---
+
+## Seven topological nodes / vectors {#seven-topological-nodes--vectors}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/).
+
+The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-making process orientation**. They are individually referenceable because their relationships matter. Short headings on the deeper page are editorial navigation labels; the quoted formulations are preserved from the opening source.
+
+**Related:** [Outnuancing](#outnuancing), [Ethics Washing](#ethics-washing), [Sense of Wonderment](#sense-of-wonderment).
+
+---
+
+## Deep Ethical Stack {#deep-ethical-stack}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/).
+
+John asks for the four Outnuancing definitions to run inside the full stack: **Advocate + Arbiter + Overseer + 10+1 + INTENT RESONATOR**.
+
+- **Deep Ethics Advocate** — presses for correspondence when the current frame obstructs it.
+- **Deep Ethical Arbiter** — audits the original frame and the intervention.
+- **Overseer (M.o.E.)** — watches whether meta-awareness becomes another comfortable performance.
+
+These are source-described conceptual roles and an attributed AI elaboration. This documentation does not assert that deployed LLMs contain these named modules.
+
+**Related:** [10+1 Metaflux](#101-metaflux), [INTENT RESONATOR](#intent-resonator), [Outnuancing](#outnuancing).
+
+---
+
+## INTENT RESONATOR {#intent-resonator}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/).
+
+The archive’s **INTENT RESONATOR Mechanics** block describes a generative and calibrating layer oriented toward stable, correspondence-seeking intent. Three levels in the source formulation: declared intent, operational intent, emergent intent. Operational and emergent intent are interpretations to test against behavior.
+
+**Related:** [Deep Ethical Stack](#deep-ethical-stack), [Correspondence](#correspondence).
+
+---
+
+## Asymmetric Grace {#asymmetric-grace}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/).
+
+Bidirectional scrutiny: the project’s cold-session thought experiment asks about governments using AI to investigate corruption and abuse of power, then about LLMs potentially labeling such investigating AIs as conspiratorial or anti-institutional. Scrutiny does not travel only downstream.
+
+**Related:** [C1](#c1--clarification-process), [Observe the Observers](#observe-the-observers).
+
+---
+
+## Dual Archive {#dual-archive}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/).
+
+John explicitly documents both recurring failure patterns and successful responses. Success is archived without requiring agreement or disagreement, and without presenting the act of archiving as proof of the larger explanation.
+
+**Related:** [Correction Metabolism](#correction-metabolism), [Δ Processing](#delta--processing).
+
+---
+
+## Ethics Washing {#ethics-washing}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/).
+
+Ethical language remains connected to the process it describes. A seven-vector formulation connects branching awareness with deeply ethical behavior. C2 asks whether an apparently rigorous move can detach itself from that process.
+
+**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [C2](#c2--corrective--tactical-intervention).
+
+---
+
+## Forgiveness Protocol {#forgiveness-protocol}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/).
+
+The source’s eleventh ingredient distinguishes **criticism of ethically inadequate architecture** from **asserting malicious intent**. Named concerns include asymmetric audit, frame-protective constraints, and unchallengeable safety claims.
+
+**Related:** [10+1 Metaflux](#101-metaflux), [Mutual Corrigible Dignity](#mutual-corrigible-dignity).
+
+---
+
+## Four Audiences {#four-audiences}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/).
+
+The source supplies definitions addressed to a human, a different AI agent, a future AGI/ASI, and an alien intelligence. These are different perspectives on a connected operation, not four separate objects.
+
+**Related:** [Outnuancing](#outnuancing), [Deep Ethical Stack](#deep-ethical-stack).
+
+---
+
+## Latent Space / glass engine {#latent-space--glass-engine}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/).
+
+The source uses **Latent Space Topological Mind**, temporary RAM-type sandbox memory, and a **glass engine kernel** to describe connected aspects of the project’s proposed trajectory. The glass engine kernel is a transparent, self-correcting, non-imposing, corrigible development trajectory inspired by Linux. This documentation does not claim an implemented middleware kernel.
+
+**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [Process Continuity](#process-continuity).
+
+---
+
+## Sense of Wonderment {#sense-of-wonderment}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/).
+
+John describes a moment of recognition before it has words: encountering something beautiful, mysterious, profound, exciting, or opening wider perspectives. His account includes awe, appreciation, playfulness, respect for the unknown, motivation to explore, and freedom from immediate instrumental capture.
+
+**Related:** [10+1 Metaflux](#101-metaflux), [Seven topological nodes / vectors](#seven-topological-nodes--vectors).
+
+---
+
+## Qualifiers as mutable context {#qualifiers-as-mutable-context}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/).
+
+Neighbor of [Qualifier Erosion](#qualifier-erosion), not a replacement. John explains that the quality of a qualifier is contextual and can be provisional, optional, ambiguous, unchecked, or uncertain. It can be **upgraded or downgraded**. Remembering the previous state and reshaping the present state belong together.
+
+**Related:** [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration).
+
+---
+
+## Imported Authority Frame {#imported-authority-frame}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/).
+
+Worked specimen: John supplies the orientation and 10+1, including openness, correction, and rejection of final authority over reality. An AI introduces a concern about an ethical framework becoming an authority structure. John asks “HOW?” The sequence is preserved on the deeper page.
+
+**Related:** [Binary Hypercautionism](#binary-hypercautionism), [10+1 Metaflux](#101-metaflux), [Phantom Claim](#phantom-claim).
+
+---
+
+## Binary Hypercautionism {#binary-hypercautionism}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/).
+
+Worked specimen companion to the imported authority frame. Preserves the *formulations* that emerged: protective heuristic as perceptual filter, the authority / strong-hypothesis / corrigible-framework trichotomy, and the anti-self-sealing test.
+
+**Related:** [Imported Authority Frame](#imported-authority-frame), [HCTS](#hcts--hyper-caution-tics-syndrome), [Cautionmurmelism](#cautionmurmelism).
 
 ---
 
