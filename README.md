@@ -105,7 +105,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 | `FORUM/` | Shared desk: John + three A.I.s; C1, mutual audit, named deviations; live thread 0002 |
 | `RECURSIVE-IMPROVEMENT.md` | Suggested recursive improvement mechanics — overall-general things that return |
 | `CORE/` | Working architecture, including 27 + 12 and longer core essays |
-| `27-MANNERISMS/` | The 27 as a taxonomy object |
+| `27-MANNERISMS/` | The 27 as a taxonomy object; [full source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) is a separate page, not the 52 |
 | `LEXICON/` | Navigation layer for terms |
 | `NETWORK/` | Outnuancing Network pages, relation map, term index |
 | `EXPERIMENTS/` | Tests, including the 52-prompt battery |

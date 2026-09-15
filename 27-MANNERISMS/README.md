@@ -56,3 +56,5 @@ See [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM
 
 Future pages can document individual entries, specimens, boundary cases, corrections, cross-model comparisons, and experimental tests.
 
+The full source object of the 27 (entries, the note after #18, the final observation, and the closing question) is now at [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). That page is the source, not a rewrite of this names index. It is not the 52.
+

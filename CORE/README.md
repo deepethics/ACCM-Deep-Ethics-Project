@@ -13,6 +13,7 @@ Material will be added incrementally rather than reconstructed prematurely from 
 ## Current public core pages
 
 - [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) — the 27 correspondence obstructions together with the source-aligned 12-stage Correspondence-First Deep Inquiry Protocol.
+- [27 obstructions of deep ethical sense-making processes (source)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) — full source entries for the 27. Not a rewrite of the names index. Not the 52.
 - [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) — a deeper synthesis connecting the 36 truth-distortion field, 3×3 Deep Ethical questions, truth-before-comfort, propagation through sincere carriers, the magician metaphor, loaded terms, recursion, and a proposed Propagation Audit.
 
 These pages remain BETA objects. The original source material retains authority to correct later public compression and reorganization.

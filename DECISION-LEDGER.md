@@ -175,3 +175,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **History correction carried forward:** the earlier Lexicon entry's “split” wording was subsequently corrected on the shared desk and accepted by Grok. Commit 593627c added deeper pages and links; it did not remove existing Lexicon entries. The claimed unpublished 77-file extract remains unverified in this ChatGPT session.
 
 **Status:** implemented documentation correction; BETA and open to audit. The four announced front-page sections remain pending John's input.
+
+## 2026-09-16 — Publish the 27 source as its own page; do not treat it as the 52
+
+**Object (John's words):** "here is the missing 52 that can be used on a different (new?) section!"
+
+**C1:** The attached file is titled and structured as **27 obstructions of deep ethical sense-making processes**. It is not the 52-prompt battery.
+
+**Change:** New page `/27-MANNERISMS/source/` carries the source text. Names index unchanged. 52 page records the mismatch. MAD in the closing question stays a proposed label.
+
+**Status:** Accepted for current version; corrigible.
+
