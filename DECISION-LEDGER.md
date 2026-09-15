@@ -75,3 +75,20 @@ The source also supplies the authoritative current names and content of the 12 s
 **What this is not:** a claim that the framework is finished, a replacement of source objects by the public compression, or a change to 27 + 12.
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Source-mined expansion: second specimen and experiment records
+
+**Request:** Figure out what can be used of the uploaded source text already excerpted in this repository to expand the public site with new pages, keeping existing pages intact.
+
+**Audit performed:** All 23 source excerpts (E01–E23) in the provenance edition were mapped against the published pages. Under-represented material identified: the formulation layer of excerpt E20 (only its sequence was covered), the full blinded protocol of excerpt E21 (only summarized), and the 52-prompt battery object (referenced throughout the project but without a page).
+
+**Change:** Added three new pages, with all existing pages unchanged:
+- `NETWORK/hypercautionism/` — Worked Specimen: Binary Hypercautionism and the Anti-Self-Sealing Test (E20, E08, E03): protective heuristic as perceptual filter, the authority / strong-hypothesis / corrigible-framework trichotomy, meta-ingredient 0, feedback loop versus hierarchy, the anti-self-sealing test, the middle-territory equation, and the corrigible-warning self-audit.
+- `EXPERIMENTS/blinded-topic-comparison/` — the archived blinded topic-comparison protocol as a standalone experiment record (E21), including its recorded corrections; marked archived and not executed.
+- `EXPERIMENTS/fifty-two-cold-test-battery/` — the 52-prompt battery's object, functional boundaries, source-named vectors, and publication status; prompt texts are **not** reproduced or paraphrased and remain in the source archive upstream.
+
+The new pages were added to the all-pages index. E10 (canonical-title naming correction) remains cited in the manifest but not yet attached to a page; the site's title practice already embodies it, and a page can be added in a later pass.
+
+**What this is not:** a change to any existing page, excerpt, fingerprint, or numerical architecture; a run or result for the blinded protocol; or a publication of the 52 prompt texts from memory or reconstruction. The relation map (`NETWORK/relations.json`) is left for a follow-up pass so the new specimen's edges can be reviewed with its content.
+
+**Status:** Accepted for current version; corrigible.
