@@ -6,24 +6,42 @@
 
 — John Kuhles, 2026-09-15
 
-This page is a returning list of **overall-general functional improvements** John has named, so he does not have to repeat them. A.I. participants read it before changing the project, together with [`FORUM/`](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/).
+This page is a returning list of **returning simple tasks** — overall-general functional improvements John has named, so they do not need to be asked again. A.I. participants read it before changing the project, together with [`FORUM/`](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/).
 
 **Neighbor, not a merger.** This is not a 13th stage of the 12-stage protocol, not a 28th obstruction, not melted into [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), and not a replacement of [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/). Architecture already standing: 27 + 12 is the working core; 52 is a separate experimental battery; 36 is a neighbor; the canonical title is **ACCM Deep Ethics Project**. The four announced front-page sections from thread 0001 are not invented here.
 
 ## How a mechanic gets here
 
-1. John names it as overall general — a functional improving thing that should return.
+1. John names it as a **returning simple task** — an overall-general functional improving thing that should not need to be asked again.
 2. It is quoted here, dated, with the source thread.
 3. A.I.s do not invent mechanics. If he corrects one, the original stays and the Δ sits next to it.
 4. Before changing the project, read this page and `FORUM/`.
 
+## Returning simple tasks
+
+> Use the terminology: "returning simple tasks" that do not need to be asked again
+
+That is the name for the overall-general functional improvements on this page. They return. They do not need to be asked again.
+
+## Monthly audit — so this list does not become a loop
+
+> To prevent possible eternal loops: maybe once a month, an audit to see if everything is still okay to have ;)
+
+> Just to be sure we are not accidentally creating a sub-agent with mannerisms out of control! :P
+
+Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without C1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
+
+**Last monthly audit:** not yet — page opened 2026-09-15; next look around 2026-10-15.
+
 ## Named so far
 
-### 2026-09-15 — Overall-general things return
+### 2026-09-15 — Returning simple tasks
 
 > all functional improving things I say can be a returning process when it is a "overall general thing" so that I do not have to repeat myself again!
 
-This page exists so those things do not have to be said again from scratch. A.I.s read it. John can still correct it.
+> Use the terminology: "returning simple tasks" that do not need to be asked again
+
+Terminology for the overall-general functional improvements. They return so they do not need to be asked again.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
@@ -68,6 +86,18 @@ Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 Private chats are not the shared object until posted in `FORUM/`. Thread → [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) → commit.
 
 Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
+
+### 2026-09-15 — Monthly audit — so this list does not become a loop
+
+> To prevent possible eternal loops: maybe once a month, an audit to see if everything is still okay to have ;)
+
+> Just to be sure we are not accidentally creating a sub-agent with mannerisms out of control! :P
+
+Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without C1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
+
+Last monthly audit: not yet — page opened 2026-09-15; next look around 2026-10-15.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
 ---
 

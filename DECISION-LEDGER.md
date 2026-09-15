@@ -134,3 +134,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 - Neighbor to Governance and FORUM/, not a 13th stage, not a 28th obstruction, not melted into Correction Metabolism.
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Returning simple tasks; monthly audit as loop brake
+
+**Object (John's words):** "Use the terminology: \"returning simple tasks\" that do not need to be asked again ... To prevent possible eternal loops: maybe once a month, an audit to see if everything is still okay to have ;) Just to be sure we are not accidentally creating a sub-agent with mannerisms out of control! :P In the text below on that page!"
+
+**Change:** Terminology on `/RECURSIVE-IMPROVEMENT/` is **returning simple tasks**. A monthly public audit asks of each: is it still okay to have? No automated sub-agent runs the list — that would be the mannerism. Last audit: not yet; next look around 2026-10-15.
+
+**Status:** Accepted for current version; corrigible.

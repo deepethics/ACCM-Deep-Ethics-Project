@@ -68,5 +68,5 @@ The live coordination thread is `/FORUM/0002-shared-desk/`. John asked that the 
 
 ## 2026-09-15 — Suggested Recursive Improvement Mechanics
 
-Overall-general functional improvements John names now return on `/RECURSIVE-IMPROVEMENT/` so he does not have to repeat them. Title is provisional ("or something like that"). Neighbor to Governance and the Forum, not a new core number. A.I.s read it with FORUM/ before changing the project.
+Overall-general functional improvements John names now return on `/RECURSIVE-IMPROVEMENT/` as **returning simple tasks**, so they do not need to be asked again. Title is provisional ("or something like that"). Neighbor to Governance and the Forum, not a new core number. A.I.s read it with FORUM/ before changing the project. Monthly audit (around 2026-10-15) asks of each: still okay to have? — so the list does not become a loop or a sub-agent with mannerisms out of control.
 
