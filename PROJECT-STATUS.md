@@ -47,3 +47,13 @@ Added 23 linked network pages, a provenance page with 23 selected source excerpt
 The public homepage and README were reworked so a first visitor can find the recurring question, the 27 + 12 distinction, the Outnuancing Network, and the Lexicon without treating a link list as the object. GitHub Pages chrome was given a parchment/ink identity. Default Minima look and duplicated page titles on the homepage were treated as correspondence failures of the public face, not of the source material.
 
 This does not change the 27, the 12, or the 52. It changes how the public archive introduces them.
+
+## 2026-09-15 — Source-mined expansion of the specimen and experiment layers
+
+All 23 source excerpts were mapped against the published pages. Three new pages extend the specimen and experiment layers from material already excerpted in the provenance edition:
+
+- **Worked Specimen — Binary Hypercautionism and the Anti-Self-Sealing Test** (`/NETWORK/hypercautionism/`) — the formulation layer of the opening exchange: the trichotomy, meta-ingredient 0, feedback loop versus hierarchy, the anti-self-sealing test, the middle-territory equation, and the corrigible-warning self-audit.
+- **Blinded Topic-Comparison Protocol (Archived)** (`/EXPERIMENTS/blinded-topic-comparison/`) — the full archived protocol with its recorded corrections, as a readable experiment record. Status: archived, not executed, no results claimed.
+- **52 Cold-Test Prompt Battery — Object and Status** (`/EXPERIMENTS/fifty-two-cold-test-battery/`) — the 52's object, boundaries, source-named vectors, and publication status. The prompt texts remain in the source archive upstream and are not reproduced.
+
+All existing pages remain unchanged. See the Decision Ledger entry of the same date.
