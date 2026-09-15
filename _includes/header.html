@@ -1,14 +1,16 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper accm-header-inner">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <p class="accm-header-tag">Allow Constructive Controversy Mode</p>
 
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Primary">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
       <label for="nav-trigger">
         <span class="menu-icon">
-          <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
             <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484C0,0.665,0.665,0,1.484,0h15.032C17.335,0,18,0.665,18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,12.031,18,12.696,18,13.516z"/>
           </svg>
+          <span class="accm-menu-label">Menu</span>
         </span>
       </label>
 
@@ -16,18 +18,14 @@
         <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
         <a class="page-link" href="{{ '/CORE/' | relative_url }}">Core</a>
         <a class="page-link" href="{{ '/CORE/27-PLUS-12/' | relative_url }}">27 + 12</a>
-        <a class="page-link" href="{{ '/LEXICON/' | relative_url }}">Lexicon / Legend</a>
-        <a class="page-link" href="{{ '/NETWORK/index/' | relative_url }}">Outnuancing Network</a>
+        <a class="page-link" href="{{ '/NETWORK/index/' | relative_url }}">Network</a>
+        <a class="page-link" href="{{ '/LEXICON/' | relative_url }}">Lexicon</a>
         <a class="page-link" href="{{ '/EXPERIMENTS/' | relative_url }}">Experiments</a>
-        <a class="page-link" href="{{ '/AI-REACTIONS/' | relative_url }}">AI Reactions</a>
-        <a class="page-link" href="{{ '/AI-CONTRIBUTIONS/' | relative_url }}">AI Contributions</a>
-        <a class="page-link" href="{{ '/HUMOR/' | relative_url }}">Humor</a>
         <a class="page-link" href="{{ '/PROVENANCE/' | relative_url }}">Provenance</a>
-        <a class="page-link" href="{{ '/PROJECT-STATUS/' | relative_url }}">Project Status</a>
+        <a class="page-link" href="{{ '/PROJECT-STATUS/' | relative_url }}">Status</a>
         <a class="page-link" href="{{ '/GOVERNANCE/' | relative_url }}">Governance</a>
-        <a class="page-link" href="{{ '/PAGES/' | relative_url }}">All Pages</a>
+        <a class="page-link" href="{{ '/PAGES/' | relative_url }}">All pages</a>
       </div>
     </nav>
   </div>
 </header>
-

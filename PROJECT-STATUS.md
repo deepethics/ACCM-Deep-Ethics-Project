@@ -41,3 +41,9 @@ The public repository will grow as material is examined, represented, challenged
 ## 2026-09-14 — Outnuancing Network reference expansion
 
 Added 23 linked network pages, a provenance page with 23 selected source excerpts, and JSON source/relationship records. The edition connects the seven vectors, 10+1, the source-described Deep Ethical stack, qualifier-state updates, correction persistence, and reciprocal scrutiny. It is a selected expansion with further source review still possible. The archived benchmark and new proposed test refinements are documented; neither was run by this update.
+
+## 2026-09-15 — Public-facing entry and archive chrome
+
+The public homepage and README were reworked so a first visitor can find the recurring question, the 27 + 12 distinction, the Outnuancing Network, and the Lexicon without treating a link list as the object. GitHub Pages chrome was given a parchment/ink identity. Default Minima look and duplicated page titles on the homepage were treated as correspondence failures of the public face, not of the source material.
+
+This does not change the 27, the 12, or the 52. It changes how the public archive introduces them.

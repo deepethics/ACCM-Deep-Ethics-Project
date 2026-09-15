@@ -61,3 +61,17 @@ The source also supplies the authoritative current names and content of the 12 s
 **Change:** Added missing page wrappers that include the existing Markdown source, replaced internal repository and relative Markdown links with public page URLs, and added an All Pages directory. Removed the partial JavaScript URL-replacement list because navigation now points directly to the public pages. Existing Lexicon section references have explicit stable anchors.
 
 **Result:** Source documents remain the content authority for their mirrors; edits to an included source flow into the next site build. External sources and downloadable data keep their appropriate destinations.
+
+## 2026-09-15 — Public face: entry without flattening
+
+**Request:** Improve the public GitHub repository and GitHub Pages site so first visitors can enter the object without reducing **ACCM Deep Ethics Project** to a slogan or a link dump.
+
+**Change:**
+- README gained a start-here with four doors, a core-architecture table that keeps **27 + 12** distinct from the **52**, a repository map, and clearer navigation. Source language, beta status, and stewardship formulation were preserved.
+- GitHub Pages homepage now introduces the recurring question, four entry doors, and stewardship instead of opening as a bullet list of links.
+- Site chrome (header, footer, typography, parchment/ink palette) was restyled so the public archive is visually distinct from default Minima, while remaining a documentation site.
+- Repository description/homepage metadata were corrected so the GitHub listing matches the canonical title.
+
+**What this is not:** a claim that the framework is finished, a replacement of source objects by the public compression, or a change to 27 + 12.
+
+**Status:** Accepted for current version; corrigible.
