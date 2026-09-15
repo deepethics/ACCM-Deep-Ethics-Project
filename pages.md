@@ -11,6 +11,8 @@ Every link below opens a readable page on this public site.
 ## Project and participation
 
 - [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)
+- [Forum — Public Deliberation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)
+- [Forum 0001 — Front-page register](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 - [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)
 - [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/)
 - [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/)

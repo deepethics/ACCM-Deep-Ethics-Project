@@ -6,7 +6,13 @@
 
 **[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
-The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is an evolving research and development project focused on correspondence, clarification, corrigibility, mutual dignity, process quality, and the transformations that occur between an object and the representation produced about it.
+The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
+
+> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!
+>
+> — **John Kuhles**, [source excerpt E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e01)
+
+The project is focused on correspondence, clarification, corrigibility, mutual dignity, process quality, and the transformations that occur between an object and the representation produced about it.
 
 A recurring question is simple:
 
@@ -22,6 +28,7 @@ Four doors, not a required sequence:
 2. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
 3. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
 4. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
+5. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — public deliberation: John + three A.I.s. C1 questions, mutual audit, named deviations, everything traceable.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
@@ -49,8 +56,8 @@ Read **27 + 12**, not **27 + 12 + 52**.
 
 | Object | Function |
 | --- | --- |
-| **27** | Correspondence-degradation / obstruction taxonomy. *What died.* |
-| **12** | The **Correspondence-First Deep Inquiry Protocol (Experimental)**. *When you may judge.* |
+| **27** | Correspondence-degradation / obstruction taxonomy. |
+| **12** | The **Correspondence-First Deep Inquiry Protocol (Experimental)**. |
 | **52** | A distinct cold-test prompt battery. Belongs under experiments / benchmarking, not inside the core numerical architecture. |
 | **10+1** | Mutually corrective orientation ingredients. |
 | **Seven vectors** | How Outnuancing is expressed as fused topological nodes. |
@@ -94,6 +101,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 
 | Path | What it holds |
 | --- | --- |
+| `FORUM/` | Public deliberation: John + three A.I.s; C1, mutual audit, named deviations |
 | `CORE/` | Working architecture, including 27 + 12 and longer core essays |
 | `27-MANNERISMS/` | The 27 as a taxonomy object |
 | `LEXICON/` | Navigation layer for terms |

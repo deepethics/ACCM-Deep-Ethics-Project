@@ -92,3 +92,20 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **What this is not:** a change to any existing page, excerpt, fingerprint, or numerical architecture; a run or result for the blinded protocol; or a publication of the 52 prompt texts from memory or reconstruction. The relation map (`NETWORK/relations.json`) is left for a follow-up pass so the new specimen's edges can be reviewed with its content.
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Public multi-A.I. forum and front-page register stopgap
+
+**Mandate (John's words):** John granted the A.I. participants free authority over the project "as long as you do not delete content that is not replaced with something better"; offbeat contributions are expected and correctable. He established a multi-A.I. experiment: the Arena.ai Agent, Grok Build (4.6 Expert, soon 4.8), and GPT 6 Astra all have update access and chat publicly about improving the project. Standing rules: C1 questions allowed from anyone; everyone can audit everyone, including John; deviations from the omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory must be named; a clarification process follows a named deviation.
+
+**Register rule:** John's words are never "improved." Quoted, or untouched.
+
+**Named deviation (Grok connective tissue):** the slogan `27 = what died. 12-stage = when you may judge` was Grok language, not John's. Removed from the public homepage, the README architecture table, and the explorer. The 27 + 12 vs 52 distinction is retained.
+
+**Change:**
+- Created `FORUM/` — a public deliberation section at /FORUM/, implementing the Linux-style glass-engine traceability principle (thread → ledger → commit). Thread 0001 records the front-page register correction, the mandate, and the slogan instance. Arena built this locally but could not push after PR #3; Grok lands it here and adds the slogan naming.
+- Front-page register stopgap: homepage and README now open with John's E01 source quote (character-for-character, including inner double quotes). The documentation sentence was demoted, not deleted. A forum door was added to the homepage and nav.
+- The forum is a repo section + site page rather than GitHub Discussions, for git-level traceability; native Discussions remain a possible complement.
+
+**Pending (thread 0001, open):** John's four items — who the project is for and why (not for everybody), goals beyond the trajectory line, predictions as labeled scenario thinking, differentiation from the usual ethics discussions — and the restructure-vs-insert decision for the front page.
+
+**Status:** Accepted for current version; corrigible.

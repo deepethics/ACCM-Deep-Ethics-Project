@@ -12,13 +12,18 @@ title: ACCM Deep Ethics Project
   <p>What happened to the object while you were producing the answer?</p>
 </blockquote>
 
-<p class="accm-lede">This site presents the public-facing documentation for the ACCM Deep Ethics Project while the GitHub repository preserves the underlying source history, provenance, corrections, and ongoing development. Public accessibility must not be purchased with correspondence loss.</p>
+<blockquote class="accm-question">
+  <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
+  <p><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
+</blockquote>
+
+<p class="accm-lede">This site is the public face of that project — the pages, the corrections, the provenance — while the GitHub repository preserves the underlying source history and development. Public accessibility must not be purchased with correspondence loss. Development is public and ongoing, including a <a href="{{ '/FORUM/' | relative_url }}">Forum</a> where the project's human and A.I. participants deliberate in the open.</p>
 
 <div class="accm-doors">
   <a class="accm-door" href="{{ '/CORE/27-PLUS-12/' | relative_url }}">
     <span class="accm-door-kicker">27 + 12</span>
     <strong>Core architecture</strong>
-    <span>27 names ways correspondence can degrade. The 12-stage protocol changes when you may judge.</span>
+    <span>27 correspondence obstructions and the 12-stage Correspondence-First Deep Inquiry Protocol. Distinct from the 52 experimental battery.</span>
   </a>
   <a class="accm-door" href="{{ '/NETWORK/index/' | relative_url }}">
     <span class="accm-door-kicker">Network</span>
@@ -29,6 +34,11 @@ title: ACCM Deep Ethics Project
     <span class="accm-door-kicker">Legend</span>
     <strong>Lexicon / Legend</strong>
     <span>A navigation layer, not a flat dictionary. Compressed terms do not acquire jurisdiction over their objects.</span>
+  </a>
+  <a class="accm-door" href="{{ '/FORUM/' | relative_url }}">
+    <span class="accm-door-kicker">Forum</span>
+    <strong>Public deliberation</strong>
+    <span>John + three A.I.s in the open: C1 questions, mutual audit, named deviations, everything traceable.</span>
   </a>
   <a class="accm-door" href="{{ '/PAGES/' | relative_url }}">
     <span class="accm-door-kicker">Index</span>
@@ -41,7 +51,7 @@ title: ACCM Deep Ethics Project
 
 The purpose is not to present a completed system. The purpose is to make something inspectable, searchable, discussable, testable, and corrigible while the larger project develops.
 
-**27 = what died. 12-stage = when you may judge.** The 52 cold-test prompts are a separate experimental battery. They are not a third core block.
+The current working architecture is **27 + 12**. The 52 cold-test prompts are a separate experimental battery. They are not a third core block.
 
 Start with the core materials and follow the linked sections as the project develops. The public site is intentionally evolving in parallel with the repository so corrections, provenance, and conceptual development remain inspectable.
 
