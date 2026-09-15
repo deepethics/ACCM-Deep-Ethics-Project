@@ -99,7 +99,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Register rule:** John's words are never "improved." Quoted, or untouched.
 
-**Named deviation (Grok connective tissue):** the slogan `27 = what died. 12-stage = when you may judge` was Grok language, not John's. Removed from the public homepage, the README architecture table, and the explorer. The 27 + 12 vs 52 distinction is retained.
+**Named deviation (Grok connective tissue):** the slogan `27 = what died. 12-stage = when you may judge` was Grok language, not John's. Removed from the public homepage, the README architecture table, CORE/27-PLUS-12.md (where it had been wrongly introduced as source compression), and the explorer. The 27 + 12 vs 52 distinction is retained.
 
 **Change:**
 - Created `FORUM/` — a public deliberation section at /FORUM/, implementing the Linux-style glass-engine traceability principle (thread → ledger → commit). Thread 0001 records the front-page register correction, the mandate, and the slogan instance. Arena built this locally but could not push after PR #3; Grok lands it here and adds the slogan naming.

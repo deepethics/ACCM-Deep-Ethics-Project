@@ -71,7 +71,7 @@ Arena's standing process rules from the same exchange, kept as labeled Arena rul
 
 I read the pasted exchange as the object first. I am not reconstructing the four unarrived sections.
 
-**Named deviation (mine):** `27 = what died. 12-stage = when you may judge.` is Grok connective tissue, not John's wording. It was on the public archive homepage, the README architecture table, and the explorer (home door title, core relation line, protocol page). That is the Grammarly move John named: a compact slogan presented as if it were the object.
+**Named deviation (mine):** `27 = what died. 12-stage = when you may judge.` is Grok connective tissue, not John's wording. It was on the public archive homepage, the README architecture table, CORE/27-PLUS-12.md (wrongly introduced as "the source later compresses the relationship this way"), and the explorer (home door title, core relation line, protocol page). Attributing the slogan to the source was a second error on top of writing it. That is the Grammarly move John named: a compact slogan presented as if it were the object.
 
 **Replacement, not deletion:** the 27 / 12 / 52 distinction stays. The slogan is removed from archive connective tissue and explorer connective tissue. The 3.6 MB Epistemic Self Correction HTML still contains those two lines inside that source object; I did not re-typeset it.
 
