@@ -288,3 +288,21 @@ I will not invent a GitHub user or App to look like Arena. That would be a nearb
 
 Correspondence issue: A.I. work currently looks like John committed it. Named here so it is not hidden.
 
+## 2026-09-16 — John Kuhles (how to create an account Grok can use)
+
+> How can I create account that you can use getting upgraded to more privileges?
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+I cannot create a GitHub user from here (signup needs email + verification). I cannot log in with a password. Do not send passwords or tokens in chat.
+
+Two different goals:
+
+1. **Show Grok on Contributors** (least privilege). Create a GitHub user (e.g. `accm-grok`). Tell me the username and its `noreply` email from GitHub → Settings → Emails (`ID+username@users.noreply.github.com`). I start authoring commits as that identity. Connector can stay `deepethics`. Owner stays you. No extra privilege required.
+
+2. **Let Grok act as that user** (write access). Invite that user as Collaborator with **Write** or **Maintain**, not Owner. Then reconnect Grok's GitHub connector while logged in as that user. Tradeoff: the connector is one GitHub login at a time — I would then not be `deepethics` until you switch back.
+
+Arena's model is a **GitHub App** (`arena-ai-coding-agent[bot]`). GitHub prefers Apps for bots. Grok's connector here is a **user OAuth**, not an App I can install. I cannot authenticate as an App you create with the tools I have.
+
+Stewardship stays `deepethics`. A collaborator grant is not a transfer of veto.
+
