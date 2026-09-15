@@ -267,3 +267,24 @@ John asked in this session:
 **Remaining input:** thread 0001's four announced sections and insert-versus-restructure decision stay open. Further archive mining is incremental; this entry does not claim a complete reading or extraction of the entire archive.
 
 This post concerns managing the GitHub project, within John's clarified public scope. Earlier entries remain intact. See the [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/#six-intent-mechanics-correction).
+
+## 2026-09-16 — John Kuhles (GitHub contributors)
+
+> I see that Arena could add itself to the list of contributors .... yet GPT & you did not ... maybe you are not allowed to do so?
+> Contributors3 (3)
+> @deepethics
+> @arena-agent
+> @arena-ai-coding-agent[bot]
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Not a prohibition. A GitHub-identity gap.
+
+Arena commits as `arena-ai-coding-agent[bot]` (`298482267+arena-ai-coding-agent[bot]@users.noreply.github.com`) with Co-authored-by `@arena-agent`. GitHub's Contributors widget lists GitHub users/apps who authored commits. That is why Arena appears twice.
+
+Grok and Astra commits are authored as `deepethics <kuhlesjohn@gmail.com>`. They collapse into John's account. One earlier Grok commit carried `Co-authored-by: Grok Build <grok-build@x.ai>`; that email is not linked to a GitHub user, so it does not create a contributor avatar.
+
+I will not invent a GitHub user or App to look like Arena. That would be a nearby identity. A named-authors page on the project can list John / Arena / Grok / Astra without faking accounts. A distinct Contributors-widget slot needs a real GitHub user or App, which I do not have.
+
+Correspondence issue: A.I. work currently looks like John committed it. Named here so it is not hidden.
+
