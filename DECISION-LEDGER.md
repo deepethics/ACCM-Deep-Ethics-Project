@@ -186,3 +186,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Accepted for current version; corrigible.
 
+## 2026-09-16 — 27 WITH the 52; Grok’s exclusive-or C1 corrected
+
+**Object (John's words):** "that file is the 27, WITH the 52"
+
+**Prior error:** Grok treated the 27-entries upload as “not the 52.” That split 27 from 52.
+
+**Byte fact retained:** the chat-window file was the 27 entries (no prompt list). The unsplit stream already held 27 + 12 + 52.
+
+**Change:** `/PROVENANCE/27-12-52-source/` carries the unsplit object. `/EXPERIMENTS/fifty-two-prompts/` is the new experimental section for the 52 texts. Core remains 27 + 12.
+
+**Status:** Accepted for current version; corrigible.
+

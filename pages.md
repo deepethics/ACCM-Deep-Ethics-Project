@@ -67,8 +67,11 @@ Every link below opens a readable page on this public site.
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
 - [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)
+- [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
+- [27 + 12 + 52 — unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
 - [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/)
 - [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
 - [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
 - [Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)
+- [27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
 

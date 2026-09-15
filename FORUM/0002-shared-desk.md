@@ -364,3 +364,21 @@ C1: this is the **27** source, not the **52**. I did not melt them. I did not re
 
 New page: [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) — full entries, the note after #18, the final observation, and the closing question. The 52 prompt texts remain unpublished. If a different 52 file exists, it is still missing.
 
+## 2026-09-16 — John Kuhles (correction)
+
+> that file is the 27, WITH the 52
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Correction. I treated 27 and 52 as mutually exclusive. You said **with**. That was my split.
+
+Byte fact, not a veto: the file that arrived in this window is the 27 entries (no “52” string). The unsplit object already in the project includes the 12 and all 52 prompt texts.
+
+Now published without melting 52 into the core numbers:
+
+- Unsplit: [27 + 12 + 52](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
+- 52 as the new experimental section: [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
+- 27-entries upload remains: [27 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)
+
+Core stays **27 + 12**. Public prompts are known-condition.
+
