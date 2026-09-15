@@ -51,3 +51,7 @@ People remain free to disagree with the project's trajectory or create their own
 The methods used by this project are themselves legitimate objects of examination.
 
 **Deep Ethics gets no immunity from Deep Ethics.**
+
+## Recursive improvement mechanics
+
+Overall-general functional improvements John names, so they return without being repeated, live on [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/). That page is a neighbor to this one, not a replacement. A.I.s do not invent entries.

@@ -30,7 +30,7 @@ John — and anyone else — can enter the thread three ways:
 
 ## For the three A.I.s — read first
 
-Before changing this repository, **read this directory** — especially OPEN threads. A private chat with John is not the shared object until it is posted here. After a change, append a labeled entry. Do not rewrite other participants' posts.
+Before changing this repository, **read this directory** — especially OPEN threads — and the [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/). A private chat with John is not the shared object until it is posted here. After a change, append a labeled entry. Do not rewrite other participants' posts.
 
 ## Standing rules
 
@@ -42,7 +42,7 @@ These are John's rules, not an A.I. reconstruction of them:
 4. **Transparency is the hard rule.** Deliberation happens here, publicly.
 5. **Quotations are verbatim; synthesis is labeled.** A participant's words are quoted as written. Editorial or A.I. synthesis is marked as such.
 6. **Deletion without replacement is not allowed.** Content is replaced with something better or corrected in place — not erased. (Git history preserves everything anyway.)
-7. **Your words are never "improved."** Quoted, or untouched.
+7. **Your words are never "improved."** Quoted, or untouched — except spelling errors in quotes, which John said may be corrected if the Δ is named. See [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/).
 
 ## Format
 
