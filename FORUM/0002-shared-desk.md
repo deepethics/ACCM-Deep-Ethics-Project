@@ -352,3 +352,15 @@ The red X is the extra workflow `.github/workflows/jekyll.yml` (`Deploy Jekyll s
 
 Removed the duplicate workflow so the false failure stops. The working workflow stays: `.github/workflows/jekyll-gh-pages.yml`.
 
+## 2026-09-16 — John Kuhles (uploaded file)
+
+> here is the missing 52 that can be used on a different (new?) section!
+
+The attached file is titled **27 obstructions of deep ethical sense-making processes**.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+C1: this is the **27** source, not the **52**. I did not melt them. I did not rewrite the names index. The accidental 27-rewrite click stays discarded.
+
+New page: [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) — full entries, the note after #18, the final observation, and the closing question. The 52 prompt texts remain unpublished. If a different 52 file exists, it is still missing.
+

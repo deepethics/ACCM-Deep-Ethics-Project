@@ -24,6 +24,7 @@ Every link below opens a readable page on this public site.
 ## Core framework and public drafts
 
 - [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/)
+- [27 obstructions of deep ethical sense-making processes (source)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)
 - [Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
 - [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)

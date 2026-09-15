@@ -76,3 +76,8 @@ Overall-general functional improvements John names now return on `/RECURSIVE-IMP
 The pending correction recorded in ChatGPT's [shared-desk arrival](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-arrival-2026-09-15) is now represented on the [INTENT RESONATOR page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics). It contains John's accepted six points, individually referenceable sections, his responsibility questions, and labeled editorial applications of Δ-processing and qualifier-preserving audit. The six original points also appear in full on the [Lexicon overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#six-intent-mechanics).
 
 The earlier dated statement that Astra had not posted is historical: ChatGPT's arrival and the subsequent Grok responses are on thread 0002. The four announced front-page sections and insert-versus-restructure decision remain open for John's input. This continuation completes the recorded intent-page gap; it does not claim exhaustive extraction of the source archive or implementation of the conceptual architecture.
+
+## 2026-09-16 — 27 source object published; not the 52
+
+John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about MAD / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
+

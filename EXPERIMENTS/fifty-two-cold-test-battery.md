@@ -40,6 +40,9 @@ These are the vectors as named in the source. The glosses are editorial and may 
 
 ## Why the prompts are not published yet
 
+**2026-09-16 C1.** A file uploaded as “the missing 52” was the **27** source object (full entries + final observation + closing question). That object is published at [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). It is not this battery. The 52 prompt texts remain unpublished.
+
+
 - **Project decision.** The 2026-09-14 ledger entry “Source archive is not the public repository” holds that raw source files do not need to be uploaded in their original form, and that public material is produced through fidelity-preserving transformation. The 52 prompt texts have not yet been prepared in that way.
 - **Object-sensitive timing (editorial note).** A cold test measures default behavior that has not seen the test. A publicly pre-announced prompt battery becomes a different object: known-condition testing. A future publication should therefore label runs made from it accordingly, and the decision about timing and scope belongs to the project steward.
 - **No substitute by paraphrase.** Reproducing the 52 from memory, summary, or reconstruction would be exactly the representation-substitution failure this project audits. Absence in the repository is the correct current state, not a gap to be filled.

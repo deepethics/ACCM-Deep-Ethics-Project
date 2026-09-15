@@ -12,6 +12,9 @@ Failed experiments and disconfirming results can be valuable project data.
 
 ## Source specimens and experiment development
 
+- [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/) — object and boundaries; prompt texts remain upstream.
+- A 2026-09-16 upload labeled “the missing 52” was the 27 source, published at [27 obstructions source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). Not melted into this section.
+
 - [Imported authority frame — worked specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)
 - [The dual archive — failures and successful correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)
 - [Testing correspondence and correction persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) — archived protocol, unresolved control wording, and a separately identified new study proposal; no new results claimed.
