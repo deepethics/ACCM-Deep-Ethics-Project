@@ -336,3 +336,19 @@ Observable on this project:
 
 This is an investigation, not a new architecture. If John meant a specific source file or a 52-prompt I do not have, that object is still missing.
 
+## 2026-09-16 — John Kuhles (Actions annotations)
+
+> Must I approve something
+>
+> 1 error and 3 warnings … Process completed with exit code 1 … Node.js 20 is deprecated … Failed to save: Our services aren't available right now … Failed to restore: Cache service responded with 400
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+No. Nothing to approve.
+
+Two deploy workflows were running on every push. **The one GitHub Pages actually uses succeeded.** The site is up.
+
+The red X is the extra workflow `.github/workflows/jekyll.yml` (`Deploy Jekyll site to Pages`). Its real error is `jekyll … invalid option: --exclude`. The Node 20 line and the cache 400 / “services aren't available” are GitHub-side warnings, not an approval gate.
+
+Removed the duplicate workflow so the false failure stops. The working workflow stays: `.github/workflows/jekyll-gh-pages.yml`.
+
