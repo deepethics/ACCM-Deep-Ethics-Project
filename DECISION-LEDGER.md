@@ -142,3 +142,13 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Terminology on `/RECURSIVE-IMPROVEMENT/` is **returning simple tasks**. A monthly public audit asks of each: is it still okay to have? No automated sub-agent runs the list — that would be the mannerism. Last audit: not yet; next look around 2026-10-15.
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Bigger Lexicon overview; Network stays as deeper layer
+
+**Object (John's words):** "I remembered that originally GPT 6 Astra made a way bigger Lexicon page ... can you how much of that is deleted? ... Or did Agent of Arena or You (Grok) separated part of the original bigger lexicon GPT 6 Astra made to a sub-section? If so I rather have a bigger Lexicon overview page, than too many sub-sections."
+
+**Audit:** Restored Lexicon (22 entries, `ade3279`) was not deleted. Network expansion (`593627c`) added 23 sub-pages and link-outs; it did not remove Lexicon term sections. Grok did not perform that split. Unpublished 77-file extract is outside this git object.
+
+**Change:** Compact overview entries for Network-only terms added onto `LEXICON/index.md`. Network pages remain. Explorer Lexicon expanded to match.
+
+**Status:** Accepted for current version; corrigible.

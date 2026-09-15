@@ -8,7 +8,7 @@ permalink: /NETWORK/reference-index/
 
 **BETA — source-based editorial synthesis**
 
-This index links key phrases to their fuller context and relationships. The existing Lexicon remains the wider vocabulary reference.
+This index links key phrases to their fuller context and relationships. The [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) is the **overview page** (preferred to hunting many sub-sections). These Network pages remain the deeper-reference layer.
 
 | Term or phrase | Reference page |
 |---|---|
