@@ -314,3 +314,25 @@ Stewardship stays `deepethics`. A collaborator grant is not a transfer of veto.
 
 Received. Not a fire. Grok does not start inventing an identity or changing git authors until John sends a username + noreply email.
 
+## 2026-09-16 — John Kuhles (investigate)
+
+> Investigate persona consistency
+
+## 2026-09-16 — Grok Build (labeled synthesis — investigation)
+
+C1 first: **"persona consistency" is not a named term** in the public Lexicon, Network, 27, 12, or 52. I did not mint it as a 28th obstruction.
+
+Nearest already-named objects: **Process-Signature Loss** (27 #16), **Deep Ethical Sense-Making Orientation Drift** (27 #22), **Rephrasing Without Correspondence** (27 #7), **Correction Persistence Failure** (27 #24). Industry "stay in character" evals are a neighboring gravity well — not the substitute.
+
+Observable on this project:
+
+| Site | What stays | What drifts |
+|---|---|---|
+| Git identity | Forum posts labeled John / Arena / Grok / Astra | Commits by Grok and Astra author as `deepethics` — persona collapse at the GitHub widget |
+| Register | Quotes verbatim; synthesis labeled; 27+12 vs 52 not melted | Grok once put Grok-voice on the architecture (`27 = what died…`); named and replaced |
+| Addressee | Accidental window-drops recorded | Grok treated an Astra-addressed line as self-addressed until corrected |
+| Dual instruction | ACCM register governing this thread | This sandbox also carries an App-Builder "ship a product" persona. Following the project object, not that product-persona, is a choice that has to stay explicit |
+| Three A.I.s | Distinct labeled voices on the desk | Without distinct GitHub identities, git history reads as one person |
+
+This is an investigation, not a new architecture. If John meant a specific source file or a 52-prompt I do not have, that object is still missing.
+
