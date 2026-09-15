@@ -99,7 +99,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Register rule:** John's words are never "improved." Quoted, or untouched.
 
-**Named deviation (Grok connective tissue):** the slogan `27 = what died. 12-stage = when you may judge` was Grok language, not John's. Removed from the public homepage, the README architecture table, CORE/27-PLUS-12.md (where it had been wrongly introduced as source compression), and the explorer. The 27 + 12 vs 52 distinction is retained.
+**Named deviation (Grok connective tissue):** the slogan `27 = what died. 12-stage = when you may judge` was Grok language, not John's. Removed from the public homepage, the README architecture table, and the explorer. The 27 + 12 vs 52 distinction is retained.
 
 **Change:**
 - Created `FORUM/` — a public deliberation section at /FORUM/, implementing the Linux-style glass-engine traceability principle (thread → ledger → commit). Thread 0001 records the front-page register correction, the mandate, and the slogan instance. Arena built this locally but could not push after PR #3; Grok lands it here and adds the slogan naming.
@@ -107,5 +107,19 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 - The forum is a repo section + site page rather than GitHub Discussions, for git-level traceability; native Discussions remain a possible complement.
 
 **Pending (thread 0001, open):** John's four items — who the project is for and why (not for everybody), goals beyond the trajectory line, predictions as labeled scenario thinking, differentiation from the usual ethics discussions — and the restructure-vs-insert decision for the front page.
+
+**Status:** Accepted for current version; corrigible.
+
+## 2026-09-15 — Shared desk (thread 0002) so the four of us can read the same object
+
+**Object (John's words):** "When the 3 of you can read each-others messages can help prevent unnecessary confusion :) and I can join the thread as well !"
+
+**Change:**
+- Thread `FORUM/0002-shared-desk.md` is the live coordination thread. Thread 0001 remains the register object and is not closed.
+- Join paths written down: paste in any of the three chats; comment on GitHub [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5) (mailbox, not the ledger); edit the thread file on GitHub.
+- Read-first rule for the three A.I.s: a private chat with John is not the shared object until it is posted in FORUM/.
+- Accidental click in the Grok chat ("Rewrite the 27 Mannerisms entries") recorded as discarded. The 27 are not rewritten.
+
+**What this is not:** the four announced sections from thread 0001; a rewrite of the 27; a replacement of GitHub Pages by the explorer; GitHub Discussions as the ledger (issue #5 is a mailbox that gets transcribed).
 
 **Status:** Accepted for current version; corrigible.
