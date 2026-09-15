@@ -152,3 +152,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Compact overview entries for Network-only terms added onto `LEXICON/index.md`. Network pages remain. Explorer Lexicon expanded to match.
 
 **Status:** Accepted for current version; corrigible.
+
+## 2026-09-16 — Public means managing the GitHub project, not every chat
+
+**Object (John's words):** "I do not mind if anything I said to any A.I. becomes public, but I cannot publish ALL one-on-one chats that are not always about the project… what I meant by the 'public aspect' is that ONLY anything relevant to \"Managing the GitHub Project\" is OKAY to be public… so there is a difference."
+
+**Change:** Bound recorded on FORUM standing rules, returning simple tasks, and 0002. Glass engine is not repealed. Permission is not a dump mandate. If unsure: ask.
+
+**Status:** Accepted for current version; corrigible.
