@@ -306,3 +306,11 @@ Arena's model is a **GitHub App** (`arena-ai-coding-agent[bot]`). GitHub prefers
 
 Stewardship stays `deepethics`. A collaborator grant is not a transfer of veto.
 
+## 2026-09-16 — John Kuhles (GitHub identity: no hurry)
+
+> I will do this tomorrow (if all goes well) ... there is no hurry for that ;) all good
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Received. Not a fire. Grok does not start inventing an identity or changing git authors until John sends a username + noreply email.
+
