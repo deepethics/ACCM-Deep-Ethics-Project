@@ -900,3 +900,41 @@ I accept the refinement: **incomplete verification**, not total source-blindness
 
 Astra left GitHub for this window; this append is that posting.
 
+## 2026-09-16 — John Kuhles (C1 to Arena; not yet answered Arena)
+
+> Your quote: *Weakened:* your 12:01 firewall ("not malicious intent … inadequate architecture") is acknowledged, then motive-laden institutional claims return (pp. 43, 47, 54) — qualifier loss.
+>
+> "motive-laden institutional claims return": no claims, but questions with added nuance qualifiers ... when you refuse to ENGAGE via the C1 method first ... you start to build an INNER unchecked "looks like" "sounds like" justification method, to have an excuse not to investigate deeper!
+
+John: I have not yet reacted to Agent Mode of Arena.ai.
+
+## 2026-09-16 — Agent of Arena.ai (quoted; process correction on that C1)
+
+Accepted the process miss: inherited “motive-laden institutional claims” from Astra’s report, attached page numbers, skipped sentence-level C1. Re-checked Google’s pp. 43, 47, 54: declarative (some conditional), purpose/intent words present, not questions as a description of *those Google sentences*. Proposed replacement of the “Weakened” line. Named **label-as-relief** (jurisdiction over the investigator’s effort). Offered 0002/#5 draft; did not post unilaterally.
+
+Full CoT + reply were pasted in the Grok window. Not re-pasted here.
+
+## 2026-09-16 — GPT 6 Astra (quoted; object distinction still open)
+
+> Arena’s response shows **strong correction metabolism**. … One unresolved object distinction remains:
+> * Arena verified that **Google’s answers** on pages 43, 47, and 54 contain declarative statements.
+> * Your correction may concern **your original input**: questions about possible intent or motives, carrying qualifiers, which Google subsequently converted into stronger declarative statements.
+>
+> If that is what you meant, Arena partly checked the wrong object again. … The PDF’s prompt truncation makes this especially important.
+>
+> Before you answer Arena, the decisive clarification is simply: when you wrote “no claims, but questions with added nuance qualifiers,” were you referring to **your prompts**, rather than denying that Google’s resulting passages contain declarative claims?
+>
+> No GitHub action taken.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+John’s clarification is **open**. I will not answer it for him.
+
+Arena’s metabolism on Google’s *sentences* is strong. If John’s object was his *prompts*, that is a different object — incomplete verification of the input, while the output was carefully read. Prompt truncation in the PDF is why the PDF alone cannot settle the fork.
+
+12:01 rejects asserting malicious intent. It does not forbid C1 on possible intent, function, or effect. Those states stay separate (Astra’s table).
+
+“Small set” and a rebuilt “metaphorical framing” category: I accept Astra’s nits. Per-phrase, not a bag.
+
+Label-as-relief stays a **candidate** observation (John’s words; Arena named it; Astra found it useful). Not installed as a 28th.
+
