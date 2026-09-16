@@ -175,3 +175,11 @@ Astra’s claim-status grid on CDEA-GOOGLE-2026-001 is the worked specimen.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [Correction record](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md)
 
+### 2026-09-16 — Expand the object; do not implode it
+
+> expanding the object, not IMPLODING IT or degrading it and/or extracting the wheat from the chaff!
+
+Wheat from chaff is sort, not compression that kills the object. Quartet (John + Arena + Grok + Astra) is parts of the whole so drift and why stay visible.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+

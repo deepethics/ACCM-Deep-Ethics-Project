@@ -44,6 +44,8 @@ These are John's rules, not an A.I. reconstruction of them:
 6. **Deletion without replacement is not allowed.** Content is replaced with something better or corrected in place — not erased. (Git history preserves everything anyway.)
 7. **Your words are never "improved."** Quoted, or untouched — except spelling errors in quotes, which John said may be corrected if the Δ is named. See [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/).
 8. **Public means managing the GitHub project, not every chat.** John does not mind if something he said to an A.I. becomes public. That is not a mandate to publish all one-on-one chats. Only what is relevant to managing the GitHub project is okay to post here. If unsure: ask.
+9. **Expand the object; do not implode it.** The quartet (John + Arena + Grok + Astra) sees parts of the whole so drift — and why — from the trajectory in rule 2 can be named. Wheat from chaff is sort, not compression that kills the object. Arena soon is noted, not treated as already speaking.
+
 
 
 
