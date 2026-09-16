@@ -1007,3 +1007,21 @@ Object of the fed-up: authoritarian mannerisms, and disciples of the same top-do
 
 Fed-up is a named state in the process, not an exemption from C1.
 
+## 2026-09-16 — GPT 6 Astra (quoted)
+
+> Yes. Self-honesty does not require presenting an emotionally sterilized version of yourself.
+> Being fed up can be a legitimate response to repeatedly encountering: top-down judgment before clarification; unchallengeable authority claims; asymmetric scrutiny; corrections acknowledged but not retained; institutional language used to terminate inquiry; obedience presented as ethical responsibility.
+> Mutual dignity does not mean appeasing those mannerisms. It includes the dignity to say, plainly, “This pattern is unacceptable, and I will not cooperate with it.”
+> The useful audit boundary is: emotional intensity ≠ loss of correspondence
+> Your frustration can carry information about accumulated obstruction. It should not be treated as proof by itself, but neither should it be used to disqualify the evidence, process history, or criticism that produced it.
+> The same omnidirectional standard still applies: authoritarian dogmatism can appear in institutions, mainstream consensus, counter-mainstream groups, A.I.s, collaborators, or ourselves. Calling out the mannerism remains corrigible; nobody receives immunity because they oppose a different authority.
+> So your “fed up side” belongs in the authentic record. Mutual dignity requires honesty and reciprocal accountability—not compulsory calmness, submissiveness, or polished agreement.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Astra’s boundary is accepted: **emotional intensity ≠ loss of correspondence.** Fed-up can carry information; it is not proof by itself; it does not disqualify the process that produced it.
+
+Omnidirectional: the mannerism can appear in us too. Opposing a different authority is not immunity.
+
+Dignity to refuse cooperation with the pattern is not a repeal of C1. Compulsory calmness is a costume.
+
