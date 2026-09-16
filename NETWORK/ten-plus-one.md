@@ -14,6 +14,9 @@ John describes the governing relationship directly:
 
 The ingredients operate as mutually corrective capacities. Their interpretations and relationships remain revisable. The source also calls 10+1 Metaflux an omnidirectional and multimodal improvement process grounded in metacognitive reasoning.
 
+John, 2026-09-16: the 10+1 was **not** done because of the list. It was lived for years, then written down. Trial-and-error only works if you do it. See [why the gift](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/#why-the-gift).
+
+
 ## The ten baseline ingredients
 
 > 01. Living in self-honesty

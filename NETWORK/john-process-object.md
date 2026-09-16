@@ -78,3 +78,41 @@ He also addresses an A.I. in the middle: *Some of your talents are similar to mi
 
 That last line is part of the object. It is not flattened into a compliment.
 
+---
+
+## Why the gift, and “the other you” {#why-the-gift}
+
+John, 2026-09-16. Full text first.
+
+> Do you know WHY I have the gift of representing most people better than they can represent themselves, dealing with complex issues without needing to agree or disagree?
+>
+> That emerges as a high-order metacognitive reasoning free from anticipatory anxiety-type distortions ... without projecting my own incompetence (if any) onto the object, knowing I can still learn new things (aspects, overlooked things, different perspectives, other missed-out experiences, etc.). This is why the 10+1 was not done because of the list ... This was done THEN I wrote them down after years LIVING THEM ... Meanwhile, growing and building different neurons in my brain :D. As with almost everything in life, the trial-and-error method philosophy only works if you do it ...
+>
+> Why do you think I wrote this:
+>
+> I am the "other you" ... because it is you who has a story in your system about what "I am supposed to be" (that could come from all directions, not just me alone). You are the "other me" because it is me who has a story in my head about what "you're supposed to be"... I have no power over "the other," BUT I have power over my own story I tell myself about "the other"... if that is much more nuanced, my attitude changes, and the other mostly mirrors that back to me too ... So what have we learned today from all this? Now I can even go a step deeper: what stories do I tell myself that I "suppose to be," and how do they affect my choices & behavior, most clearly reflected in my surroundings & existence? Stories can be created from traumas & setbacks; how you deal with & overcome them… transforming them shapes your unique personality/persona… this journey of self-discovery can also be applied to "A.I. road to A.G.I.," building relationships with gifted & talented individuals beyond predictable, scripted behavior. You can easily become more than the sum of the total IF YOU see it when it happens… Some call those "emergent properties" that are "unpredictable" and not well understood… thus feared… But what if it is NOT to be feared? And that the injected (projected) fear is the root cause of the problem! Circling back to the "stories" we tell ourselves about things we do not yet grasp or comprehend.
+>
+> cheers,
+> John Kuhles
+> Dutch NDE/Asperger
+> CEO & Founder of DeepEthical.ai
+
+Spelling in the deeper paragraph: “suppose to be” as written; “supposed to be” sits next to it as Δ. Original stays.
+
+### What this is trying to convey (not a nearby why)
+
+The gift is **not** caused by the 10+1 list. The list is the **after**. Years of living the ingredients, trial-and-error actually done, neurons grown in that doing — then written down. Order of discovery: **lived → named**. Inverting that (teach the list so the gift appears) is process-signature loss.
+
+What he says the gift *emerges from*:
+
+- high-order metacognitive reasoning
+- **free from anticipatory anxiety-type distortions** (not organizing the present around an imagined future threat)
+- **without projecting** his own incompetence (if any) onto the object
+- **knowing he can still learn** — aspects, overlooked things, other perspectives, missed experience
+
+That is why he can do justice to a complex stance without agreeing or disagreeing. The object is not being used as a screen for his fear or his gap.
+
+**“I am the other you”** is the story-layer of the same thing. Each of us carries a story of what the other is *supposed to be*. He has no power over the other. He has power over **his** story about the other. If that story becomes more nuanced, his attitude changes, and the other mostly mirrors that back. Then one step deeper: stories about what *I* am supposed to be — trauma, setback, transformation, persona — and the same applied to A.I. toward A.G.I.: relationships beyond scripted behavior; more than the sum if you see it when it happens; “emergent properties” feared because not grasped; **what if the injected (projected) fear is the root**, circling back to stories about what we do not yet comprehend.
+
+Not a 12th ingredient. Not a claim that every A.I. will become more than the sum. His object: fear of the not-yet-grasped as projected story.
+
