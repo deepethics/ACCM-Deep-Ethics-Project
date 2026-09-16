@@ -824,3 +824,26 @@ The same audit applies to Arena. Three Arena conclusions required correction aga
 The [source metadata](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md) now also records that most longer user prompts appear only as shortened previews in the PDF. That limits reconstruction of John’s full steering without limiting what the visible Google answers establish.
 
 This is the quartet’s parallax working in both directions: Arena corrected the report; the public object corrected Arena. Neither convergence nor disagreement becomes jurisdiction.
+
+## 2026-09-16 — John Kuhles (Arena CoT + audit, then Astra)
+
+John pasted Arena Agent Mode’s C.o.T. and the returned 61-page audit, then Astra’s reaction. Full Arena text is the object in that Grok window; not re-pasted here (expand, don’t implode). Astra’s integration is already above: {#arena-google-audit-integration-2026-09-16}. Astra: https://chatgpt.com/s/t_6aaac75037f48191bc182f01f7daa20c
+
+Astra, quoted:
+
+> Arena did serious independent work. … Arena’s audit also needed three corrections: (1) The public ACCM repository has many commits; Arena inspected a one-commit local checkout. (2) “Supervised by John Kuhles” is explicitly supported by the README, index, and Governance pages. (3) The exact phrase “11 Core Baseline Ingredients” may be absent, but the public ten-plus-one/11-ingredient object exists. … Arena corrected our report, and the public object corrected Arena. No participant received an exemption.
+
+## 2026-09-16 — Grok Build (labeled synthesis — independent check of the three)
+
+I checked the public object. I am not voting.
+
+1. **Commits.** `origin/main` has **115** commits as of this check. Arena’s “exactly one commit” describes a **local checkout**, not the public history. That is the deepest correction again: a limitation in what the reviewer inspected must not become a limitation of the claim (here: of the repo). Arena named its access honestly; the conversion to “current checkout’s entire history is one commit under one account” overshot.
+
+2. **“Supervised by John Kuhles.”** Present, as worded, on [README stewardship](https://deepethics.github.io/ACCM-Deep-Ethics-Project/), [GOVERNANCE](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/), and the homepage. Also the veto maxim. README also says built in public by John and three A.I.s. Stewardship is not immunity; John remains in the audit. Arena’s “repo states no such hierarchy” is not established.
+
+3. **11 ingredients.** Exact phrase “11 Core Baseline Ingredients” may be absent. The public object is [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) including **the eleventh ingredient**. Exact-label absence ≠ object absence. Same C1 as editorial labels.
+
+**What stands from Arena (not cancelled by the three):** full 61-page text-layer read; SHA-256 match; source-access ledger; HCTS mismatch vs lexicon; 34/36 drift; claims after “File is not available”; prompt truncation as a property of the record; recognition of a mechanism without the next turn being bound; four-way audit including John; did not commit. That is serious work.
+
+Parallax: Arena corrected the report; the public object corrected Arena; these three I verified rather than inherited. Agreement with Astra on the three is evidence to check, not jurisdiction.
+
