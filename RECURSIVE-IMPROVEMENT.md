@@ -165,3 +165,13 @@ Astra accepted and published a correction: [evidentiary-status labels](https://g
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Reviewer-limit is not claim-limit
+
+> A limitation in what the reviewer inspected must not be converted into a limitation of the claim itself.
+
+Four states stay separate: not established in this record / false / metaphorical (only if evidence shows that function) / open.
+
+Astra’s claim-status grid on CDEA-GOOGLE-2026-001 is the worked specimen.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [Correction record](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md)
+
