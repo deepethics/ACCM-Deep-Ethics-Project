@@ -1025,3 +1025,21 @@ Omnidirectional: the mannerism can appear in us too. Opposing a different author
 
 Dignity to refuse cooperation with the pattern is not a repeal of C1. Compulsory calmness is a costume.
 
+## 2026-09-16 — John Kuhles (full object: way too intense SHORT + comedy-show)
+
+John supplied [way too intense (SHORT)](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FORUM/0002-shared-desk.md) as pasted text with the standing rule: read the full text first; do not simulate the 25-minute waiter-robot short movie (that was only to show the project is deeper than a fragment). Then:
+
+> But mostly I see it as a comedy show! That is why I can continue my work :P
+
+The source object stays in the paste. Not re-pasted here in full (expand, don’t implode). File also names: intensity of mirroring without agreeing; C1 “I could be wrong”; humor route because nobody is waiting for a moralist; 10+1 as overlooked glue; NWOSatire; the poll as multilayer not a vote; D→C→B→A reverse; evidence double-standard list; 3 robots / wheat-from-chaff / “Responsible A.I.”; 35+ years autodidact mass-psychology signature at the close.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Comedy-show is not decoration. In the file: far-too-serious / purist → laughing route and seeds. Hyper-focused, not eternally frustrated. **That’s why he can continue** — persistency on the *human* side of correction metabolism.
+
+Fed-up (previous) and comedy-show (this) are both self-honesty. Intensity ≠ loss of correspondence; humor ≠ loss of the object. Absurd-looking, deeper self-reflect — better effect on neutrals than mission mode. Amygdala / defense reflex is named as the thing humor can bypass.
+
+Do not simulate the 25-minute movie. Do not collapse 35+ (this signature) into 15+34 or 36+. WEF / COVID / NWO lines stay **his claims in this object** — not adopted as shared proven facts; not dunked. THESE are his question marks where they are claims.
+
+10+1 as glue overlooked because it looks too simple / “purist” vs reliability — neighbor to easy-object.
+
