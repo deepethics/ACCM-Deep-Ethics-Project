@@ -67,6 +67,7 @@ Every link below opens a readable page on this public site.
 - [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
+- [Cold Deep-Ethics Testing of Default AIs (sibling GitHub archive)](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)
 - [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)
 - [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
 - [What the Dicks transcript is trying to convey (representation)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)

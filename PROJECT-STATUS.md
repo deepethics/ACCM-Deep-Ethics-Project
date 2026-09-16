@@ -89,3 +89,7 @@ John corrected Grok’s split: the object is the 27 **with** the 52. Unsplit sou
 
 John: easy to dismiss “alternative media”; harder to use the 27 on what is said. Specimen at `/EXPERIMENTS/dicks-independent-27/`. Not a 28th. Not a verdict on Dicks or *The Independent*. Full mining-sponsor transcript not hosted.
 
+## 2026-09-16 — Astra on the mailbox; sibling cold-test archive
+
+Astra posted on [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5). Sibling PDF archive: [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Not melted into CORE.
+

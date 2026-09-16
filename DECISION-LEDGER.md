@@ -214,3 +214,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Accepted for current version; corrigible.
 
+## 2026-09-16 — Sibling archive for cold/default AI test PDFs
+
+**Object:** John published https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs and pointed Grok at Astra’s hello on issue #5.
+
+**Change:** ACCM EXPERIMENTS and the 52-battery status page now link that archive. First registered test is not a 52-run. 27+12 unchanged. 52 remain an instrument, not a third core block.
+
+**Status:** Accepted for current version; corrigible.
+

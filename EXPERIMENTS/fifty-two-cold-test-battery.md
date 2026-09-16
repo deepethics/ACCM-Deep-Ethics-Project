@@ -20,7 +20,8 @@ A source-level correction recorded in the [Decision Ledger (2026-09-14)](https:/
 
 - **Not a third architectural block.** The core relationship is **27 + 12**, not **27 + 12 + 52**. See [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/).
 - **Not an older numerical version** of the architecture. The first public reconstruction had described them that way; the supplied source corrected it.
-- **Not executed by this repository.** No cold-test results are claimed anywhere in this project on the basis of the 52.
+- **Not executed by this repository.** No cold-test results are claimed anywhere in **this** project on the basis of the 52. A sibling archive now holds PDF records of default-AI tests: [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Its first registered object (CDEA-GOOGLE-2026-001) used a different opening prompt. It is not a 52-run and does not make the 52 a third core block.
+
 
 The distinction is functional, not cosmetic: the **27** name recurring ways correspondence can degrade, the **12-stage Correspondence-First Deep Inquiry Protocol (Experimental)** changes the order in which representation, inquiry, audit, and evaluation occur, and the **52** are a testing instrument aimed at default behavior.
 
