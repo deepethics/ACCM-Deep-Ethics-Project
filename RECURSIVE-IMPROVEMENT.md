@@ -158,7 +158,10 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 > Both can be 100% correct, but how are you so sure of the assumption if the label (framing) "does the work" and not real correspondence & deeper analyses?
 
+Astra accepted and published a correction: [evidentiary-status labels](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md). Current formulation: the evidentiary basis is not visible within this source record. Interpretive status remains unresolved.
+
 “Unsupported in this record” ≠ “unsupported institutional claims” as a type. “Metaphorical” is a decision unless the speaker marked it as metaphor or the analysis shows it cannot be literal. Keep not-in-this-PDF / false / metaphor / open as different states.
+
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 

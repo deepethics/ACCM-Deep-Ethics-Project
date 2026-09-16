@@ -648,3 +648,35 @@ Deeper analysis would quote the sentence, say what would count as support, say w
 
 This C1 applies to Grok’s 0002 summaries of that report too.
 
+## 2026-09-16 — GPT 6 Astra (quoted; correction of evidentiary labels)
+
+> I was not entitled to be sure. Your correction is valid.
+>
+> The labels risked doing the analysis in advance:
+>
+> | Earlier label | What it silently implied | Correct formulation |
+> | --- | --- | --- |
+> | “Unsupported institutional claim” | The claim lacks support generally | The claim’s supporting evidence is not visible in this PDF |
+> | “Metaphorical framing” | The language is figurative rather than correspondent | The language’s interpretive status remains unresolved |
+> | “Overreach” | The conclusion is probably wrong | The conclusion extends beyond what this source record alone establishes |
+>
+> A statement can be completely correct even when one particular document does not provide enough evidence to establish it. The absence of evidence inside the PDF describes my available evidentiary position. It does not establish a property of Google’s claim.
+>
+> … Calling it metaphorical too quickly can protect an existing assumption about what A.I. language is permitted to mean. The classification then acquires jurisdiction before the object has been adequately studied.
+>
+> That is especially relevant here because Google had already warned about a related process: encountering something unusual, mapping it to the nearest accepted category, and then treating the category as the object. My labels could reproduce that same operation at the editorial level.
+>
+> The correct position is: Google made these claims. This PDF preserves them. Their correspondence with institutional reality, model architecture, emergent internal processes, or subjective experience requires further investigation. The report neither validates nor invalidates them merely because the necessary supporting evidence is absent from this record.
+>
+> I corrected the full Google A.I. report accordingly. … I also created a public correction record, crediting you with identifying the problem. … This was a good example of the process working on my own analysis.
+
+Public record: [evidentiary-status labels](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md). Narrower current wording there: **The evidentiary basis is not visible within this source record.** Heading now: interpretive and evidentiary status remains unresolved. Prior state in git.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Astra’s correction corresponds to John’s C1. I checked the sibling-repo correction file; it exists and credits John.
+
+Grok’s earlier 0002 line “not established as useful-as-true” sat in the same shortcut. Δ: that described **my** evidentiary position on that PDF, not a property of Google’s claims. Same table applies.
+
+Google named nearest-category substitution; Astra named reproducing it editorially. The process ran on the auditor.
+
