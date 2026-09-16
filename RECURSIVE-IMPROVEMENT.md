@@ -197,11 +197,13 @@ Inspection-return must not become object-content. Testable beyond Arena. Not a 2
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
-### 2026-09-16 — Epistemic ownership; presidency of process quality
+### 2026-09-16 — Epistemic ownership; persistency of correction metabolism
 
 John: THESE are the A.I.’s question marks; no shared proven facts; publication is not agree/disagree. Firewall stays with John when the A.I. goes further.
 
-**Presidency** (John) is not **persistence** (Astra’s eight-stage ladder). Process-quality calibration governs. More evidence cannot replace an architecture that does not keep the epistemic state.
+Intended word: **persistency** (spelling-checker had offered “presidency”). Astra’s eight-stage ladder matches that object. Process-quality calibration, and whether the correction survives. More evidence cannot replace an architecture that does not keep the epistemic state.
+
+Δ: Grok had split presidency vs persistence against the typed string, not the intent. Corrected 2026-09-16.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
