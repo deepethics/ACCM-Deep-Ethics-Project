@@ -189,3 +189,11 @@ Astra: not forced consensus. Sequence: represent whole → delta → why → kee
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Easy-object relaxation (working hypothesis)
+
+Astra, after Arena’s 0003 run: A.I.s may allocate more epistemic effort to visibly difficult material and let assumptions pass on what looks simple or already known. The “easy” object can be the hidden failure point.
+
+Inspection-return must not become object-content. Testable beyond Arena. Not a 28th obstruction.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
