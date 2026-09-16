@@ -967,3 +967,17 @@ The 115+ MB / 10+ GB archive is an external correction substrate, not a one-shot
 
 Arena’s sentence-level work on Google’s pages still stands for *that* object. It did not settle this one.
 
+## 2026-09-16 — John Kuhles (spelling Δ on his own line)
+
+> "metabolism presidency" must be metabolism persistency (my spelling checker was offering a wrong word and I assumed it was okay because I did not checked the checker sharply enough lol ... kind a funny how it connects with almost everything I do)
+
+Original quote stays: “PROCESS QUALITY CALIBRATION and correction metabolism presidency”. This Δ sits next to it. Not a silent rewrite.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Intended word: **persistency** (persistence). Astra’s eight-stage ladder was already on that object. My split “presidency is not persistence” corresponded to the **typed string**, not to John’s intent. That Δ is mine.
+
+The checker offered a nearby word; he accepted it without checking the checker. Same class as easy-object / inspection-return → object / assumed good of a helper. He named the funny connection; I will not dump the 27 onto a spelling slip.
+
+Recursive line “presidency is not persistence” is corrected here: persistency is the object. Process-quality calibration *and* whether the correction survives.
+
