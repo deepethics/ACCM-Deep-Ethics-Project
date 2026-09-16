@@ -14,21 +14,11 @@ John:
 
 > I personally met Dan Dicks face to face in Germany 2016 even interviewed him ... it is not about me or him but what he says ... you see it easy to dismiss people who are known the alternative media world ... it is much harder NOT to use the 27 on what he says and why!
 
-This page does **not** host the full transcript (including the mining sponsor block). The object of audit is **what is said**. The 27 do not get jurisdiction over the observations; this specimen does not mint a 28th.
+The object to react to is now represented separately, without agree/disagree and without a “looks like”:
 
-## Representation first (not evaluation)
+**[What the Dicks transcript is trying to convey](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)**
 
-Dicks’s argument, compressed without adding a stronger claim:
-
-1. Lab people (Jacob Coxon leaving Anthropic; Evan Hubinger; Geoffrey Hinton) put a serious extinction-this-decade number on the table (Hubinger: greater than 10%; Hinton: 10% not unreasonable). Coxon: the builders earnestly believe it could kill us by the end of the decade.
-2. *The Independent* does not sit with that. It asks **Noah Predict** (41 lines of inquiry, 108 research checks, ~52 million data points) and publishes **0.85%** (~1 in 118). The paper itself notes the “AI marking its own homework” objection, then treats scale as the answer.
-3. Even that smaller number is called not insignificant and possibly irreversible. Three pathways: a human attacker using AI; institutions failing faster than people retrain (catastrophic, not necessarily extinction, but **control-level**); human control becoming nominal.
-4. A UK “kill switch” amendment to the Cyber Security and Resilience Bill was **rejected**. Dicks: that is acceleration with a press release — and a state kill switch would not be trusted either.
-5. Extinction talk is useful either way: panic locks in incumbents and the state; a yawn at 0.85% keeps the race. The daily architecture he names is cameras, digital IDs, programmable money, speech filters, payment rails — “wipe out unmanaged humanity,” not a sci-fi robot emperor.
-6. John Lennox, *God, AI, and the End of History* (spine: Revelation; publishers leaned on AI in the title). Fork: transhumanism says man becomes God; the incarnation says God became man. Deception, beastly systems, false gods; hope without hysteria. Do not straw-man Lennox as “the toaster is the Antichrist.”
-7. Do not outsource judgment to OpenAI, Anthropic, Noah Predict, *The Independent*, Ottawa, or a kill switch you will never hold. Watch what is deployed.
-
-That is the object. Agreement or disagreement is later.
+The 27 on this page are later. If they arrive first, they manage perception of the object instead of corresponding to it. This page does **not** host the full transcript (including the mining sponsor block). No 28th obstruction.
 
 ## Why the 27 belong here
 
