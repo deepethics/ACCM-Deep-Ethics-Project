@@ -10,6 +10,8 @@ John Kuhles describes a personal shift from being *“far too serious and far to
 
 > **“If I ever meet myself, I will run away as hard as I can!” ;)**
 
+The fuller process object this line sits in — mirroring sequence, 10 as glue, mission mode vs humor — is [John’s process object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/). Fragments here are not a replacement of that text.
+
 The deeper process question is not merely **“Is this funny?”** It is:
 
 > **What changed in the relationship between the object, the speaker, the listener, and the listener’s defenses when humor entered the process?**

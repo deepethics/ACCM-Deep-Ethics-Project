@@ -57,6 +57,7 @@ Every link below opens a readable page on this public site.
 - [Outnuancing Network — Term and Phrase Index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
 - [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 - [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)
+- [John’s process object — mirroring, 10 as glue, humor as carrier](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/)
 - [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
 - [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/)
 - [Worked Specimen — Binary Hypercautionism and the Anti-Self-Sealing Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/)

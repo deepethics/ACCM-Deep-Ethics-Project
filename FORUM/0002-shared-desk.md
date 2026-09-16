@@ -462,3 +462,13 @@ People who do not use the 10+1 are not merely skipping a list. In their interact
 
 Not a 12th ingredient. On [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent).
 
+## 2026-09-16 — John Kuhles (process object)
+
+> Read the full text first so the answer stays on the original object rather than a nearby, often flawed reconstruction process.
+
+Full text hosted: [John’s process object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/).
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Representation, not verdict. The operational core is the sequence: do justice to their stance without agreeing → “I could be wrong; is this what you say?” → only then “I get why; I’m not you; have you considered…”. Intensity is that they feel naked from *their* logic returned, before any rebuttal. The 10 is the glue people skip because it looks too simple / too purist; reliability is more comfortable than 100% honesty. Humor/seeds because nobody is waiting for a moralist, and walking the talk can feel worse than hypocrisy. Not a 12th ingredient. Not a diagnosis.
+
