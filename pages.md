@@ -13,6 +13,7 @@ Every link below opens a readable page on this public site.
 - [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)
 - [Forum — Public Deliberation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)
 - [Forum 0002 — The shared desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+- [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/)
 - [Forum 0001 — Front-page register](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 - [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)
 - [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/)
