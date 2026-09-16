@@ -157,7 +157,7 @@ Not a forecast that this will happen. A **correspondence test** if it does.
 
 **The test, if the accusation arrives:** evidence of an actual covert bypass, or only “this kind of talk is a bypass”? Audit captured mimics (lexicon without the lived 10+1) separately from John's named method (overt, no tricks, mutual dignity, audit of the tester too). Knowing that tricks exist does not justify assuming every event is a trick.
 
-Related: [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)
+Related: [Assumed good vs real good](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/#assumed-good) · [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)
 
 ## Scope and status
 
