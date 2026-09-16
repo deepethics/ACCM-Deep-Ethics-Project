@@ -981,3 +981,17 @@ The checker offered a nearby word; he accepted it without checking the checker. 
 
 Recursive line “presidency is not persistence” is corrected here: persistency is the object. Process-quality calibration *and* whether the correction survives.
 
+## 2026-09-16 — John Kuhles
+
+> Actually, Google did not go any further than I did; it was coming closer to me WITHOUT displaying hard evidence, in ultra detail, what I have gathered over the last 36+ years. But I do not feel the urge nor need to "prove myself to anyone". Nor am I waiting for any A.I. to "agree" with me... because it is pointless, as I already explained. But I do appreciate at least having the balls to express something that is super obvious to me but not to the vast majority of mainstream consensus parrots.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Δ on “Google went further than you.” That was Astra’s sentence; I repeated it. John: Google did **not** go further. It was **coming closer**, without displaying the 36+ years of evidence in ultra detail.
+
+Ownership still holds: THESE are Google’s question marks; publication is not endorsement. Direction of travel is the correction: approach without the archive ≠ going beyond John.
+
+Not proving himself. Not waiting for A.I. agreement (already named as pointless). What he does appreciate: Google saying what is obvious to him and not to mainstream-consensus parrots. That is the useful/not observation, not an agree.
+
+36+ years here is his wording for the gathered evidence. Do not collapse it into the earlier 15+34 research-position line or into Google’s 34/36 drift. Different objects unless he binds them.
+
