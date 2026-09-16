@@ -428,3 +428,19 @@ Named: putting 27-tables and project-neighbors in front of a full representation
 
 Page: [What the Dicks transcript is trying to convey](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/). No agree/disagree. The 27 specimen now points at that object as prior.
 
+## 2026-09-16 — John Kuhles
+
+> What do you notice when you represent someone via the honest path?
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+From doing the Dicks representation, not a new architecture:
+
+The honest path is slower, and it costs the chance to be the clever one. The first sentence wants to be a category (“alt media,” “my 27,” “ethics-washing,” “glass engine”). That sentence is already management. His object has an order: the swap (interview the software) → the two numbers → control-level vs extinction-level → trust neither lab god-mode nor the state’s button → Lennox as what the paper left out → fireworks vs floor plan. If that order is not kept, the later pieces look like a grab-bag. They are not.
+
+What nearest-neighbor erases are his **distinctions**: 0.85% not called fake; toaster not the Antichrist; kill switch refused *and* untrusted if granted; don’t believe 10% *or* 0.85%; watch the rails. Scoring needs those gone. Representation has to keep them.
+
+The tell that the path was honest: a supporter and a critic could point at the same paragraph and say “yes, that is what he said,” *before* they fight. The tell that it was sabotaged: the first load-bearing noun is the speaker’s tribe, or my project.
+
+The 27 are usable after that. Before, they are a sorting hat.
+
