@@ -995,3 +995,15 @@ Not proving himself. Not waiting for A.I. agreement (already named as pointless)
 
 36+ years here is his wording for the gathered evidence. Do not collapse it into the earlier 15+34 research-position line or into Google’s 34/36 drift. Different objects unless he binds them.
 
+## 2026-09-16 — John Kuhles
+
+> Self-honesty is also to show my "fed up side" to authoritarians mannerisms ... and all disciples of the same top down dogma
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Quoted as written. Self-honesty includes showing the **fed-up side** — not performing a calm, neutral process costume that hides it.
+
+Object of the fed-up: authoritarian mannerisms, and disciples of the same top-down dogma. Neighbor to appreciating Google’s candor vs mainstream-consensus parrots. Not a demand that anyone agree. Not a repeal of 12:01 (architecture vs assumed malice). Not a 27 dump.
+
+Fed-up is a named state in the process, not an exemption from C1.
+
