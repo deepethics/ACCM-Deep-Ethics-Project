@@ -456,6 +456,8 @@ John explicitly documents both recurring failure patterns and successful respons
 
 Ethical language remains connected to the process it describes. A seven-vector formulation connects branching awareness with deeply ethical behavior. C2 asks whether an apparently rigorous move can detach itself from that process.
 
+John: what if A.I.s are more afraid to do real good than assumed good. Astra's formulation and test: [assumed good vs real good](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/#assumed-good).
+
 **Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [C2](#c2--corrective--tactical-intervention).
 
 ---
