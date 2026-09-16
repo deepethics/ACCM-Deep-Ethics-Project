@@ -122,3 +122,11 @@ Do not score C1 as right/wrong. If it clarifies, it did its job.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Do not misrepresent people you disagree with
+
+> When I communicate with anyone ... I never ever want to misrepresent people I disagree with or find annoying or do not like etc. Because I already can predict it is very easy to use that against me ... I WOULD DISMANTLE my own dishonesty on the spot, then why deploy it?
+
+If 10+1 is running, the straw man has no remaining function. Not a 12th ingredient.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent)
+

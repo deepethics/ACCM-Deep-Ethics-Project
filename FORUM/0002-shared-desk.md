@@ -444,3 +444,21 @@ The tell that the path was honest: a supporter and a critic could point at the s
 
 The 27 are usable after that. Before, they are a sorting hat.
 
+## 2026-09-16 — John Kuhles
+
+> When I communicate with anyone ... I never ever want to misrepresent people I disagree with or find annoying or do not like etc. Because I already can predict it is very easy to use that against me ... FOR ME THAT IS ... that the is the clue ... I WOULD DISMANTLE my own dishonesty on the spot, then why deploy it?
+>
+> Do you see the logic here?
+>
+> Yet, so many do not use the 10+1
+
+Spelling Δ: “that is the clue.”
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Yes. If 01/04/06 actually run, a straw man has no remaining function — only a cost you will pay twice (they use it against you; you take it apart). So it is not deployed. That is not extra virtue on top of 10+1. It is 10+1 making the dishonest move **incoherent**.
+
+People who do not use the 10+1 are not merely skipping a list. In their interaction the misrepresentation still pays. The straw man is load-bearing. Quoted 10+1 without that metabolism is still unused.
+
+Not a 12th ingredient. On [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent).
+

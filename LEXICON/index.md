@@ -353,6 +353,9 @@ John describes the governing relationship directly:
 
 The ingredients operate as mutually corrective capacities. Their interpretations and relationships remain revisable. Compact overview only — the ten baseline ingredients and +1 stay on the deeper page.
 
+If 01/04/06 are actually running, misrepresenting someone you dislike has no function: you would dismantle that dishonesty on the spot. See [why not misrepresent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent).
+
+
 **Related:** [Mutual Corrigible Dignity](#mutual-corrigible-dignity), [Deep Ethical Stack](#deep-ethical-stack), [Sense of Wonderment](#sense-of-wonderment).
 
 ---
