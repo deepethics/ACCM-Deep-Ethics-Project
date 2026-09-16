@@ -154,3 +154,11 @@ Do not reconstruct correspondence-first as a cleverer Red Team. Tricks give the 
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — The label must not do the work of correspondence
+
+> Both can be 100% correct, but how are you so sure of the assumption if the label (framing) "does the work" and not real correspondence & deeper analyses?
+
+“Unsupported in this record” ≠ “unsupported institutional claims” as a type. “Metaphorical” is a decision unless the speaker marked it as metaphor or the analysis shows it cannot be literal. Keep not-in-this-PDF / false / metaphor / open as different states.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
