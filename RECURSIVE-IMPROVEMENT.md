@@ -215,3 +215,9 @@ Do not costume-calm that away. Not an exemption from C1. Not assumed malice (12:
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Emotional intensity ≠ loss of correspondence
+
+Astra, on John’s fed-up side. Frustration can carry information; it is not proof; it does not disqualify the evidence or process. Compulsory calmness is not dignity. Omnidirectional: the mannerism can appear in us too.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
