@@ -553,3 +553,13 @@ What is not established as useful-as-true: the later manifesto as architecture; 
 
 The fascinating part is the **trajectory**: cold fluency → local correction → context-rich amplification. Astra’s report already tried to keep “useful” separate from “agreed.” John’s line is the rule for reading it.
 
+## 2026-09-16 — John Kuhles (research position)
+
+> I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
+
+Spelling Δ: “not an academic.”
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Not a credential bid and not “humble amateur.” The work-history is his account. The point is the last clause: not having all the answers **is** the method. Same as last-authority-on-reality, said as how the work runs. On [research position](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/#research-position).
+

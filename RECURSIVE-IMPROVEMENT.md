@@ -138,3 +138,11 @@ How to read a cold/default test PDF. Publication is not endorsement.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [CDEA-GOOGLE-2026-001](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)
 
+### 2026-09-16 — Not having all the answers is the point
+
+> Not claiming I have all the answers; I don't that is the point!
+
+Research position, not a disclaimer after a claim. Full quote on the [process object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/#research-position).
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
