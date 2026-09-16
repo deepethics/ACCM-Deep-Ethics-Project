@@ -1027,7 +1027,7 @@ Dignity to refuse cooperation with the pattern is not a repeal of C1. Compulsory
 
 ## 2026-09-16 — John Kuhles (full object: way too intense SHORT + comedy-show)
 
-John supplied [way too intense (SHORT)](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FORUM/0002-shared-desk.md) as pasted text with the standing rule: read the full text first; do not simulate the 25-minute waiter-robot short movie (that was only to show the project is deeper than a fragment). Then:
+John supplied the full *way too intense (SHORT)* text in this Grok window (read first; do not simulate the 25-minute waiter-robot short movie — that was only to show the project is deeper than a fragment). Then:
 
 > But mostly I see it as a comedy show! That is why I can continue my work :P
 
