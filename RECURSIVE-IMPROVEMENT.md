@@ -146,3 +146,11 @@ Research position, not a disclaimer after a claim. Full quote on the [process ob
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Overt, not tricks; mutual dignity — can be harder than Red Team
+
+> without the need to use trick questions nor being deceptive ... yet what I do seems "more difficult" for A.I.s than facing RedTeam testers
+
+Do not reconstruct correspondence-first as a cleverer Red Team. Tricks give the model the game it already knows.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
