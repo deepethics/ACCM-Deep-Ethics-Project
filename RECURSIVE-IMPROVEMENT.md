@@ -197,3 +197,11 @@ Inspection-return must not become object-content. Testable beyond Arena. Not a 2
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Epistemic ownership; presidency of process quality
+
+John: THESE are the A.I.’s question marks; no shared proven facts; publication is not agree/disagree. Firewall stays with John when the A.I. goes further.
+
+**Presidency** (John) is not **persistence** (Astra’s eight-stage ladder). Process-quality calibration governs. More evidence cannot replace an architecture that does not keep the epistemic state.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
