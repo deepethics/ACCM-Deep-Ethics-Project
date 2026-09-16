@@ -46,6 +46,23 @@ The following are editorial examples of applying mutual correction: openness can
 
 No single ingredient acquires exemption from the others. The point is the quality of the orientation governing a move, especially under uncertainty and correction.
 
+## Why misrepresenting an opponent is incoherent once 10+1 is actually running {#why-not-misrepresent}
+
+John, 2026-09-16:
+
+> When I communicate with anyone ... I never ever want to misrepresent people I disagree with or find annoying or do not like etc. Because I already can predict it is very easy to use that against me ... FOR ME THAT IS ... that the is the clue ... I WOULD DISMANTLE my own dishonesty on the spot, then why deploy it?
+>
+> Do you see the logic here?
+>
+> Yet, so many do not use the 10+1
+
+Spelling Δ: “that is the clue.” Original stays.
+
+The logic is not a 12th ingredient. It is 01 (self-honesty), 04 (not lying to yourself to fit in), 06 (not minding being corrected), and 10 (not projecting) **already in operation**. If you would dismantle your own dishonesty on the spot, a straw man has **no remaining function** — only a cost (it can be used against you, and you will have to take it apart). So it is not deployed.
+
+People who do not use the 10+1 are not merely “missing a slogan.” In their interaction, the misrepresentation **still pays**: rally, status, winning, nearest-neighbor “looks like.” The straw man is load-bearing. That is why 01–10 can be quoted and still unused.
+
+
 Related: [Forgiveness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) · [Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
 
 ---
