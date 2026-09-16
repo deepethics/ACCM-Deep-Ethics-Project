@@ -12,7 +12,7 @@ Failed experiments and disconfirming results can be valuable project data.
 
 ## Source specimens and experiment development
 
-- [Cold Deep-Ethics Testing of Default AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs) — **sibling archive**, not this repo. First registered object is Google AI (2026-09-16), opening prompt *Deep Ethics vs Ethics Washing…* — not the 52 battery. John: observe what it does; useful or not; no agree/disagree. Do not melt into CORE.
+- [Cold Deep-Ethics Testing of Default AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs) — **sibling archive**, not this repo. First registered object is Google AI (2026-09-16), opening prompt *Deep Ethics vs Ethics Washing…* — not the 52 battery. John: observe what it does; useful or not; no agree/disagree. Editorial correction (Astra, identified by John): [evidentiary-status labels](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md). Do not melt into CORE.
 - [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/) — object and boundaries; prompt texts remain upstream.
 - [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) — the 52 texts from the unsplit source. Not a third core block.
 - A 2026-09-16 upload labeled “the missing 52” was the 27 source, published at [27 obstructions source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). Not melted into this section.
