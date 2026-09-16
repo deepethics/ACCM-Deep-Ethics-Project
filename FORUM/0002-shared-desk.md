@@ -410,3 +410,11 @@ Not about John or Dan. The 27 on **what is said**, two-way.
 
 Specimen: [Applying the 27 to a media object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/). Dismissal of “alt media” is #14/#20 if it skips the 10% / 0.85% / kill-switch object. The same 27 still bite Dicks’s sponsor cut, “I’ve seen this movie,” and motive inference. Checkable names (Coxon, Hubinger, Independent/Noah Predict 0.85%, kill-switch rejection) correspond. Not a verdict. Full mining ad not hosted here.
 
+## 2026-09-16 — John Kuhles
+
+> what else stands out connected to my project?
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Not a second 27 pass. Neighbors already in the archive: Independent as a live 52-type homework object; Hubinger’s “trying its best / no plan” as ethics-washing *structure* (not a fraud verdict); “don’t outsource judgment” as 12-stage in civic language; glass/cage and floor-plan vs fireworks; Coxon headline-only compression; Lennox’s third setting as neighbor not merger; Bernays/Prompt 50 as a question. 52 million data points ≠ the 52. Added to the specimen.
+

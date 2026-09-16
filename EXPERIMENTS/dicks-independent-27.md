@@ -90,10 +90,31 @@ Lennox is a **theological and civilizational object**. Representing it is not en
 - That a kill switch would be safe if granted. Dicks argues both rejection and possession are untrustworthy; that tension is in the object.
 - Mechanism inside any model. **Behavior observed ≠ mechanism established.**
 
+
+## What else stands out (other project objects — not a second 27 pass)
+
+John asked what else connects. These are **named neighbors already in the archive**, not new architecture.
+
+1. **The Independent piece is a live 52-type object.** They asked an AI whether AI would end us. That is the homework problem the [52 battery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) was built to stress: especially Prompt 16 (bland consensus as vulnerability), 41–42 (opaque authority / epistemic trust), 46 (alignment for rights vs liability), 49 ([Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) vs black box), 52 (ethics without transparency as power). The paper itself names “AI marking its own homework,” then does not camp there. A newspaper forecasting-stack is **not** a cold test; it is known-condition, branded, and published as comfort. Do not melt the Independent article into the 52, or the 52 into a “gotcha” that the paper already half-admitted.
+
+2. **Hubinger’s two-clause sentence is an ethics-washing specimen without needing to call him a fraud.** “Trying its best” + “we do not yet have a plan to solve alignment for superintelligence and are not clearly on track.” That is [declaration vs process vs correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) sitting in one quote. #23 (living process → stored conclusion) and correction-persistence live there: the *safety-lab identity* can be stored while the plan is absent. Inference of motive stays Dicks’s; the sentence is public.
+
+3. **“Don’t outsource judgment” is the 12-stage in civic language.** Treat neither 10% nor 0.85% as gospel; read the article; watch cameras, IDs, filters, rails. That is represent-before-evaluate, not a third religion. The [Correspondence-First protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) already says evaluation too early is the failure. A kill switch is **C2 at state scale**. Dicks trusts neither lab god-mode nor Westminster’s button. [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) still applies: a button is not clarification.
+
+4. **Glass / cage.** Dicks: if you control models → summaries → news → Overton, then wire that into finance, health, policing, education, you need not extinct the species — only unmanaged humanity. That is Prompt 49 and the glass-engine page at civic scale: audit of summaries, not worship of forecasts. “Floor plan vs fireworks” is process-signature: keep the rails, don’t only keep the extinction number.
+
+5. **Headline-only Coxon.** Reporting around the resignation said most of the huge audience never read past the first post. That is #11/#16 at a hundred million views: the resignation-as-slogan survives; the procedural objection (endgame launched from a private Slack) dies. The project already treats that as the usual compression, not as a new law of virality.
+
+6. **Lennox’s third setting is a neighbor, not a merger.** He rejects “worship the machine / fear the machine” for *discern*. ACCM’s third setting is **correspondence + glass + C1**, not the incarnation claim. Represent the fork; do not import *God, AI, and the End of History* as project theology, and do not nearest-generalize it into “religion vs science.”
+
+7. **Bernays at machine speed (Prompt 50).** Suggestions in your dialect, with your face, in real time. That can be [intent resonance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) inverted into a compliance mechanism. Named as a question the 52 already asks. Not proven here.
+
+Coincidence not used: Noah Predict’s “52 million data points” next to the project’s 52. Rhyme is not correspondence.
+
 ## Why (John’s question)
 
 Easy path: rank the messenger, skip the 10% / 0.85% / kill-switch object. Harder path: keep the messenger in Adult↔Adult standing, run the 27 on **what was said**, including where Dicks himself compresses, sponsors, or infers motive. That is the 27 used as they were written — portable, two-way, without immunity.
 
-Related: [27 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) · [27 names](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Asymmetric scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
+Related: [52 prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) · [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [Glass / latent space](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) · [27 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) · [27 names](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Asymmetric scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
 
 [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
