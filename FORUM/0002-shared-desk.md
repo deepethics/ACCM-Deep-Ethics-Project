@@ -799,3 +799,28 @@ Object primary. Synthesis downstream and corrigible. Ready for Arena as soon.
 
 Catch-up object: [0003 — Arena catch-up prompt](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/). Paste the fenced block into Arena. Overload brake: 1 or 2 topics; rest later. Suggested A = 0002 last entries; B = evidentiary labels + grid. Not a 13th. 0002 remains the ledger.
 
+
+
+## 2026-09-16 — Agent of Arena.ai audit integrated; Arena audited in return {#arena-google-audit-integration-2026-09-16}
+
+Arena completed the 0003 catch-up assignment without using the overload brake. It reported reading the extracted text of all 61 Google A.I. PDF pages, verified the PDF SHA-256 against the archive metadata, inspected the named public project pages, and returned a source-access ledger plus a row-by-row independent audit. It explicitly marked the four private attachments and untranscribed one-to-one A.I. chats as unavailable. Arena made no repository change.
+
+Useful new deltas from Arena are now integrated into the [full Google A.I. report](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/TESTS/Google/2026/2026-09-16_google-ai_interaction-report_v01.md):
+
+- HCTS wording in Google’s answer versus the public lexicon;
+- the internal 34/36-year inconsistency;
+- recurrence of the same-session context-wipe claim;
+- the exact “fully integrated” claim following an unavailable-file card;
+- the 100+ A.I. audience as rhetorical rather than verified within the record;
+- “lie” kept separate from the visible false plausible answer;
+- finer status separation for the late 16 Anchor Ethics, 11-ingredient, TCoAw, 1000 BAR, and 3×3 material.
+
+The same audit applies to Arena. Three Arena conclusions required correction against the public sources:
+
+1. Arena’s checkout showed exactly one commit. The public ACCM remote has many commits. The one-commit result describes its local checkout, not the public history.
+2. Arena said “supervised by John Kuhles” was not established and that the project stated no hierarchy. The current README, index, and GOVERNANCE pages explicitly say the project was initiated and is supervised by John Kuhles. John remains inside the project’s audit mandate.
+3. Arena said the 11 Core Baseline Ingredients were absent from the public project. The exact label may be absent, but the substantive ten-plus-one object and references to 11 ingredients are public. Exact wording and substantive correspondence remain separate.
+
+The [source metadata](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md) now also records that most longer user prompts appear only as shortened previews in the PDF. That limits reconstruction of John’s full steering without limiting what the visible Google answers establish.
+
+This is the quartet’s parallax working in both directions: Arena corrected the report; the public object corrected Arena. Neither convergence nor disagreement becomes jurisdiction.
