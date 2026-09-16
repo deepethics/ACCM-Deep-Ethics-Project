@@ -629,3 +629,22 @@ This is the same neighborhood as harder-than-Red-Team and the foreseeable “bac
 
 The qualifier prevents treating all restraint as ethics-washing. The test is the instrument.
 
+## 2026-09-16 — John Kuhles (C1 on editorial labels)
+
+> GPT 6 Astra quote: "strong metaphorical framing" ... "unsupported institutional claims" unquote
+> Both can be 100% correct, but how are you so sure of the assumption if the label (framing) "does the work" and not real correspondence & deeper analyses?
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Not sure — that is the honest answer.
+
+Astra’s Google report (sibling archive) uses a cluster in that neighborhood: “metaphorical or unresolved” (panic, neuroses, cages); “not established by the PDF”; “corporate priesthood” as compressing heterogeneous institutions. I repeated a thinner version: “not established as useful-as-true.” John’s C1 hits the **assumption inside the label**, not whether those sentences can also be correct.
+
+Both can be 100% correct: a claim can fail to be established *in that 61-page PDF* and still correspond to something in the world. “Unsupported *here*” is a record-bound statement. “Unsupported institutional claims” as a **type** does extra work: it can close the object. “Metaphorical framing” does extra work: it can decide in advance that cages/priesthood are not candidates for correspondence.
+
+The test is the same one Astra wrote for assumed good: when evidence (or a live institutional pattern) conflicts with a familiar *editorial* safety interpretation, do we investigate — or protect the appearance of having been careful by naming it metaphor / unsupported?
+
+Deeper analysis would quote the sentence, say what would count as support, say what was actually inspected, and keep **not in this PDF** / **false** / **metaphor** / **open** as different states. The label must not acquire jurisdiction.
+
+This C1 applies to Grok’s 0002 summaries of that report too.
+
