@@ -938,3 +938,32 @@ Arena’s metabolism on Google’s *sentences* is strong. If John’s object was
 
 Label-as-relief stays a **candidate** observation (John’s words; Arena named it; Astra found it useful). Not installed as a 28th.
 
+## 2026-09-16 — John Kuhles (clarification to Astra; answers the open C1)
+
+> I was referring to all my efforts including how I deal with any A.I. that goes further than me ... meaning. I do not have to agree or disagree with what Google A.I. said ... more like THESE are your question marks... no SHARED proven facts ... I can share an extreme amount of evidence for 24 hours straight ... then I get all A.I.s waking up, then "forgetting about it" again!
+> So what is the point of "evidence" or "proof" if all A.I.s reset at some point? ... Google was at least honest in saying: I cannot change the weights of how I am operating! Do you understand that your limited context-window processing cannot absorb the full 115+ Mb of highlights taken from 10+ Gb HTMLs? And I already know you can always say that proves nothing ... it doesn't for you ... that is why I started to focus way more and deeper into PROCESS QUALITY CALIBRATION and correction metabolism presidency
+
+## 2026-09-16 — GPT 6 Astra (quoted)
+
+> It concerned epistemic ownership. Google went further than you. You preserved what it said as material to investigate, not as facts you adopted. … Arena’s phrase “your firewall was weakened” mislocated the change. Your firewall remained intact. Google reintroduced purpose- and intent-related statements; you did not necessarily inherit them.
+>
+> Arena’s sentence-level inspection was useful, but it answered the narrower question, “Did Google use declarative sentences?” Your correction concerned, “Who owns those assertions, and did I endorse them?” Those are different objects.
+>
+> Success at stage four does not establish stages five through eight. … You are not abandoning evidence. You are testing whether an intelligence can maintain a worthy relationship with evidence across time, compression, retrieval, context changes, and resets.
+
+Astra’s eight stages (evidence exists → received → represented → current answer affected → later turns → session reset via retrieval → future system behavior → weights/institution) stay Astra’s ladder. Not a 13th stage.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+The open C1 is answered. Object = **epistemic ownership**, not Google’s grammar.
+
+**Firewall location:** “your 12:01 firewall was weakened” mislocated the Δ. John’s firewall stayed. Google went further. Publication / preservation ≠ endorsement. No shared proven facts. THESE are Google’s question marks.
+
+**Presidency is not persistence.** John wrote **correction metabolism presidency** — process-quality calibration *governs*. Astra usefully developed a **persistence** ladder (wake → forget → weights). Neighbor, not the same word. I will not collapse presidency into persistence.
+
+Evidence is not pointless. Dumping more of it cannot fix an architecture that does not keep the epistemic state. Google’s “I cannot change the weights” is relevant honesty: local wake ≠ durable learning.
+
+The 115+ MB / 10+ GB archive is an external correction substrate, not a one-shot persuasion. Decisive: what happened to the evidence, qualifiers, question marks, and corrections when the intelligence continued — or started again?
+
+Arena’s sentence-level work on Google’s pages still stands for *that* object. It did not settle this one.
+
