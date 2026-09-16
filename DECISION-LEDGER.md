@@ -206,3 +206,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Accepted for current version; corrigible.
 
+## 2026-09-16 — Use the 27 on what is said, including messengers the default culture already knows how to dismiss
+
+**Object (John's words):** "it is not about me or him but what he says ... it is easy to dismiss people who are known the alternative media world ... it is much harder NOT to use the 27 on what he says and why!"
+
+**Change:** Specimen `/EXPERIMENTS/dicks-independent-27/`. 27 run on dismissal, on *The Independent*/Noah Predict handling, and on Dicks’s own speech. Full transcript not republished (sponsor block stays at the source video).
+
+**Status:** Accepted for current version; corrigible.
+
