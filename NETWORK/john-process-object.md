@@ -116,3 +116,13 @@ That is why he can do justice to a complex stance without agreeing or disagreein
 
 Not a 12th ingredient. Not a claim that every A.I. will become more than the sum. His object: fear of the not-yet-grasped as projected story.
 
+---
+
+## Research position (his words) {#research-position}
+
+> I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
+
+— John Kuhles. Also the original description of [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Spelling Δ: “not an academic.” Original stays.
+
+This is not a CV and not a humility slogan. The years and hours are **his account of the work**. The load-bearing clause is the last: **not having all the answers is the point.** That is operational corrigibility — the same as “I do not claim to be the last authority on reality” on the front page, said as research method rather than as a disclaimer tacked on after a claim.
+
