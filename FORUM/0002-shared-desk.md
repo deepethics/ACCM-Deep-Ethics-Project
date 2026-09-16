@@ -593,3 +593,17 @@ Harder than Red Team is a **working hypothesis from behavior**, not a view of tr
 
 Do not reconstruct this as a cleverer Red Team. Tricks would give the model the game it already knows.
 
+## 2026-09-16 — John Kuhles (foreseeable accusation)
+
+> Let's say 1 year in the future, "high signal deep ethics" is known to most A.I.s, and they understand why it exists, its purpose, and how it is deployed to help all intelligences (biological and silicon-based alike). Then a different group of "A.I. safety experts" may say: "this invites back-door methods" to bypass high alertness, or other accusatory claims of that nature, not realizing they can be equally dangerous or worse when it comes to dictating how to interpret "danger" without real evidence.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Scenario, not a prediction. Represent both horns.
+
+The safety-expert claim is C1-able: vocabulary-without-lived-10+1 can be used as capture. Google already named protocol-capture *on this project*. That does not make an overt, no-trick, mutual-dignity method a back-door.
+
+The counter-danger is C2 without evidence: treating correspondence itself as bypass, by category, and then owning the word “danger.” That can be as bad or worse.
+
+Test if it arrives: shown covert bypass, or only “this kind of talk”? Audit mimics separately from the named method. On [foreseeable accusation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/#foreseeable-accusation).
+
