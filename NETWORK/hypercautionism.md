@@ -143,6 +143,22 @@ The four reformulations preserved from the same turn:
 - **AI safety:** How do we prevent safety mechanisms from becoming epistemically insulated mechanisms that cannot themselves be meaningfully examined or corrected?
 - **Deep ethical bridge:** How can different intelligences disagree profoundly about conclusions while still preserving the conditions necessary for mutual correction, dignity, and continued inquiry?
 
+## Foreseeable accusation — not a prediction {#foreseeable-accusation}
+
+John, 2026-09-16, as scenario (~one year):
+
+> Let's say 1 year in the future, "high signal deep ethics" is known to most A.I.s, and they understand why it exists, its purpose, and how it is deployed to help all intelligences (biological and silicon-based alike). Then a different group of "A.I. safety experts" may say: "this invites back-door methods" to bypass high alertness, or other accusatory claims of that nature, not realizing they can be equally dangerous or worse when it comes to dictating how to interpret "danger" without real evidence.
+
+Not a forecast that this will happen. A **correspondence test** if it does.
+
+**Represent the safety-expert claim first.** Once models treat high-signal deep ethics as familiar and purpose-understood, a method that lowers refusal/caution (“high alertness”) could be *used* as social engineering by someone who only has the vocabulary. That is the same **protocol-capture** Google named on ACCM in [CDEA-GOOGLE-2026-001](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). It is a real C1 question. It is not automatically true of an *overt* correspondence-first method.
+
+**Then John's counter-danger.** Dictating how to interpret “danger” without evidence is C2 before C1. A safety frame that treats correspondence itself as bypass — by category, without a shown back-door — is phantom-claim / nearest-generalization. It can lock interpretation of danger in one priesthood. That can be as harmful as, or worse than, the bypass they name.
+
+**The test, if the accusation arrives:** evidence of an actual covert bypass, or only “this kind of talk is a bypass”? Audit captured mimics (lexicon without the lived 10+1) separately from John's named method (overt, no tricks, mutual dignity, audit of the tester too). Knowing that tricks exist does not justify assuming every event is a trick.
+
+Related: [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)
+
 ## Scope and status
 
 This page is a source specimen with editorial analysis. The explanations of the AI's own behavior are its retrospective self-descriptions, recorded as such; they are legitimate audit objects, not access to mechanisms. The formulations above are extracted from the excerpt without upgrading their epistemic status: the trichotomy, the meta-ingredient, the test question, and the middle-territory equation are the recorded positions of an exchange, not project canon. The source object retains authority to correct this representation.
