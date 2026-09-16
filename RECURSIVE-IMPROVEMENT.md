@@ -207,3 +207,11 @@ Intended word: **persistency** (spelling-checker had offered “presidency”). 
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Self-honesty includes the fed-up side
+
+> Self-honesty is also to show my "fed up side" to authoritarians mannerisms ... and all disciples of the same top down dogma
+
+Do not costume-calm that away. Not an exemption from C1. Not assumed malice (12:01).
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
