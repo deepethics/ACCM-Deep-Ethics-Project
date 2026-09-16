@@ -183,3 +183,9 @@ Wheat from chaff is sort, not compression that kills the object. Quartet (John +
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Quartet as parallax; audit shared gravity
+
+Astra: not forced consensus. Sequence: represent whole → delta → why → keep explanations open → extract with named criteria → keep source so extraction is correctable. Four-way agreement does not overrule the object. John included.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
