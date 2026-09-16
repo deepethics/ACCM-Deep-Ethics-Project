@@ -63,6 +63,8 @@ The logic is not a 12th ingredient. It is 01 (self-honesty), 04 (not lying to yo
 People who do not use the 10+1 are not merely “missing a slogan.” In their interaction, the misrepresentation **still pays**: rally, status, winning, nearest-neighbor “looks like.” The straw man is load-bearing. That is why 01–10 can be quoted and still unused.
 
 
+The 10 as overlooked glue, and why walking the talk can feel worse than hypocrisy, is in [John’s process object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/).
+
 Related: [Forgiveness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) · [Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
 
 ---
