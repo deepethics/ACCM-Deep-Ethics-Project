@@ -418,3 +418,13 @@ Specimen: [Applying the 27 to a media object](https://deepethics.github.io/ACCM-
 
 Not a second 27 pass. Neighbors already in the archive: Independent as a live 52-type homework object; Hubinger’s “trying its best / no plan” as ethics-washing *structure* (not a fraud verdict); “don’t outsource judgment” as 12-stage in civic language; glass/cage and floor-plan vs fireworks; Coxon headline-only compression; Lennox’s third setting as neighbor not merger; Bernays/Prompt 50 as a question. 52 million data points ≠ the 52. Added to the specimen.
 
+## 2026-09-16 — John Kuhles (representation)
+
+> Can you summarize the transcript to REPRESENT what it wants to REPRESENT without the need to agree or disagree ... just explain what he's trying to convey ... so that the reaction to that is on the object, not the unchecked nearest-neighbor generalization "looks like" "sounds like" ... You see, it is obvious if that process is somehow obstructed or partly sabotaged. You just used unethical means to "manage" perception ... not real deep ethical correspondence.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Named: putting 27-tables and project-neighbors in front of a full representation was perception management of the object. C1 here is clarifying what the transcript is trying to convey.
+
+Page: [What the Dicks transcript is trying to convey](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/). No agree/disagree. The 27 specimen now points at that object as prior.
+

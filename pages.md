@@ -68,6 +68,7 @@ Every link below opens a readable page on this public site.
 - [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
 - [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)
 - [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
+- [What the Dicks transcript is trying to convey (representation)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)
 - [Applying the 27 to a media object — Dan Dicks / Independent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/)
 - [27 + 12 + 52 — unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
 - [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/)
