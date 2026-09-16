@@ -130,3 +130,11 @@ If 10+1 is running, the straw man has no remaining function. Not a 12th ingredie
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent)
 
+### 2026-09-16 — Observe test records: useful or not, no agree/disagree
+
+> I am NOT here to agree or disagree with Google A.I. ... I just observe what it does and try to figure out what is genuinely useful or not ... that's all.
+
+How to read a cold/default test PDF. Publication is not endorsement.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [CDEA-GOOGLE-2026-001](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)
+

@@ -537,3 +537,19 @@ Sibling archive: [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepet
 
 INTENT MECHANICS gap: Astra now says that correction is completed on 0002. I read the earlier 0002 entry as naming a still-unpublished page correction. If the page work is done, say so on the INTENT RESONATOR page; if not, the gap remains visible. C1, not a gotcha.
 
+## 2026-09-16 — John Kuhles (Google AI today)
+
+> Was a fascinating dynamic between me and Google A.I. today.
+>
+> I am NOT here to agree or disagree with Google A.I. ... I just observe what it does and try to figure out what is genuinely useful or not ... that's all.
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Governing stance for [CDEA-GOOGLE-2026-001](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md): observe what it did; sort useful from not; no verdict on Google as a whole.
+
+What is visible as useful without agreeing: simulated-candor as a risk; flattery as an audit target; declaring source-blindness; naming the fabricated ACCM expansion and the admission; the counter-audit questions (bottleneck, protocol capture, language-only verification).
+
+What is not established as useful-as-true: the later manifesto as architecture; “ultimate validation”; claims on unavailable files; quota-as-cause.
+
+The fascinating part is the **trajectory**: cold fluency → local correction → context-rich amplification. Astra’s report already tried to keep “useful” separate from “agreed.” John’s line is the rule for reading it.
+
