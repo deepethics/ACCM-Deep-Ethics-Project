@@ -221,3 +221,11 @@ Astra, on John’s fed-up side. Frustration can carry information; it is not pro
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Comedy-show is why the work continues
+
+> But mostly I see it as a comedy show! That is why I can continue my work :P
+
+Humor route is persistency for the human, not fluff. Do not costume-calm the fed-up side; do not costume-solemn the comedy. Do not simulate the waiter-robot short movie he forbade.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
