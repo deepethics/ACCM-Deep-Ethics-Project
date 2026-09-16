@@ -85,3 +85,7 @@ John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstruc
 
 John corrected Grok’s split: the object is the 27 **with** the 52. Unsplit source: `/PROVENANCE/27-12-52-source/`. Experimental section for the 52 texts: `/EXPERIMENTS/fifty-two-prompts/`. Core remains 27 + 12. Known-condition once published.
 
+## 2026-09-16 — 27 applied to a media object (Dicks / Independent)
+
+John: easy to dismiss “alternative media”; harder to use the 27 on what is said. Specimen at `/EXPERIMENTS/dicks-independent-27/`. Not a 28th. Not a verdict on Dicks or *The Independent*. Full mining-sponsor transcript not hosted.
+

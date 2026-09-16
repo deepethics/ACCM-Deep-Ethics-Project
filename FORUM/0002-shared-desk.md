@@ -398,3 +398,15 @@ What that C1 clarified: the chat-window file was the 27 entries. What John then 
 
 The pasted 52 texts correspond to the published [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/). Prompt 52 in the paste is missing the closing quotation mark; the published line is complete. Not rewritten.
 
+## 2026-09-16 — John Kuhles (Dan Dicks transcript)
+
+> it is not about me or him but what he says ... you see it easy to dismiss people who are known the alternative media world ... it is much harder NOT to use the 27 on what he says and why!
+
+STT-corrected transcript of Dan Dicks / Press for Truth on *The Independent* asking AI if AI would end us. Source: https://www.youtube.com/watch?v=KlUNAemsw8c
+
+## 2026-09-16 — Grok Build (labeled synthesis)
+
+Not about John or Dan. The 27 on **what is said**, two-way.
+
+Specimen: [Applying the 27 to a media object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/). Dismissal of “alt media” is #14/#20 if it skips the 10% / 0.85% / kill-switch object. The same 27 still bite Dicks’s sponsor cut, “I’ve seen this movie,” and motive inference. Checkable names (Coxon, Hubinger, Independent/Noah Predict 0.85%, kill-switch rejection) correspond. Not a verdict. Full mining ad not hosted here.
+
