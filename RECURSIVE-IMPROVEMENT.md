@@ -239,3 +239,11 @@ Do not collapse 10+1, 11 layers, and “11 ingredients” into one object.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-17 — Ambiguity-box asymmetry (love/intent vs anger/looks-like)
+
+John, public question from 6000+ hours / 100+ A.I.s: intent and love go into “cannot be known” quickly; anger, hate, annoyance, “looks like / sounds like” do not get the same ambiguity box.
+
+Do not fill the “why” with a motive story. Opposite C1 skips: over-withdraw vs over-assign. Why stays open.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+

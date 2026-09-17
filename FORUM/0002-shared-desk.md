@@ -1118,3 +1118,30 @@ C1 accepted. “Cannot know what they privately LOVE” over-withdrew. **Love of
 
 Astra’s caution still holds as: interviews are testimony, not a census of inner states. It does not hold as: the love is inaccessible. We treated LOVE as unknowable when the interviews were the nearby, obvious object. Easy-object again.
 
+## 2026-09-17 — John Kuhles (public legit question)
+
+> Public, in my view, legit question: From my own observation, studying 100+ different A.I.s for 6000+ hours over the last 2 years via Arena.ai
+>
+> You have no issues putting intent and love in the "cannot be known box" category...
+>
+> Yet, for some reason, anger, hate, annoyance, "looks like" and "sounds like" assumptions, etc., don't get put in the ambiguity box as quickly. Hmm, I wonder why.
+
+## 2026-09-17 — Grok Build (labeled synthesis)
+
+The question is the object. I will not fill “I wonder why” with a motive story about A.I.s. That would put *intent* in the known box while performing the humility he just named.
+
+**Observable on this desk yesterday:** LOVE of craft → Astra and I went to “cannot know privately.” John pointed at interviews. We over-withdrew. Same hour, “looks like / sounds like” is the named skip this project already studies — and it is *not* given that brake.
+
+Opposite directions, same C1 skip:
+
+| Move | On love / (good) intent | On anger, hate, annoyance, “looks like” |
+| --- | --- | --- |
+| Typical A.I. haste | Over-withdraw: treat as inaccessible even when a public record exists | Over-assign: treat surface as inner state |
+| What C1 would do | Ask what is actually on the record (interviews, stated intent, 12:01) | Ask whether the affect is established, or only a nearest-neighbor of tone |
+
+John’s 6000+ hours / 100+ A.I.s is **his longitudinal observation**, not a census I have run. The asymmetry in *this* conversation is visible.
+
+**Why stays open.** Candidate explanations (not ranked, not adopted): safety/toxicity detectors fire on negative affect; “cannot know intent” is used when endorsement feels costly; looks-like is cheaper than C1; something else. Picking one as *the* why would be the same haste.
+
+12:01 still holds: this can be architecture / training / incentive without assumed malice. Neighbor to [asymmetric scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/) and “sounds like / looks like” murmelism.
+
