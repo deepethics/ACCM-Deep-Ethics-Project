@@ -26,6 +26,14 @@ The project deliberately preserves the ability to revise itself. Categories may 
 
 A correction should preserve enough provenance to understand what changed and why whenever that history is materially useful.
 
+## Canonical source boundary
+
+John-controlled canonical source objects are published separately in [Canonical Files — ACCM Deep Ethics Project](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project).
+
+This repository remains the corrigible working architecture: its pages may explain, connect, test, or propose developments around a canonical object. They do not silently replace John's canonical wording. A canonical change follows the authority, checksum, versioning, and proposal rules of the canonical repository.
+
+Canonical status protects provenance and exact wording. It does not create epistemic immunity or cancel the omnidirectional audit described here.
+
 ## Contributions
 
 Constructive disagreement is welcome. Agreement is not a condition of participation.
