@@ -11,6 +11,8 @@ Every link below opens a readable page on this public site.
 ## Project and participation
 
 - [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)
+- [Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)
+- [Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)
 - [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)
 - [Forum — Public Deliberation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)
 - [Forum 0002 — The shared desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)

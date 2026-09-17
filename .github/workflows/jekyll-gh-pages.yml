@@ -1,5 +1,5 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+# Build the ACCM Deep Ethics Project umbrella site from three public repositories.
+name: Deploy ACCM Deep Ethics Project umbrella site
 
 on:
   # Runs on pushes targeting the default branch
@@ -8,6 +8,10 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+  # Refresh the two public sibling repositories even when this repository did not change.
+  schedule:
+    - cron: "17 */6 * * *"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -26,8 +30,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout ACCM Deep Ethics Project
         uses: actions/checkout@v4
+      - name: Checkout canonical source repository
+        uses: actions/checkout@v4
+        with:
+          repository: deepethics/Canonical-Files-ACCM-Deep-Ethics-Project
+          path: _upstream/canonical
+          persist-credentials: false
+      - name: Checkout cold-testing source repository
+        uses: actions/checkout@v4
+        with:
+          repository: deepethics/Cold-DeepEthics-Testing-Default-AIs
+          path: _upstream/cold-tests
+          persist-credentials: false
+      - name: Generate read-only sibling portals
+        run: |
+          python .github/scripts/build_sibling_portals.py \
+            --site . \
+            --canonical _upstream/canonical \
+            --cold-tests _upstream/cold-tests
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
