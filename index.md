@@ -20,6 +20,21 @@ title: ACCM Deep Ethics Project
 <p class="accm-lede">This site is the public face of that project — the pages, the corrections, the provenance — while the GitHub repository preserves the underlying source history and development. Public accessibility must not be purchased with correspondence loss. Development is public and ongoing, including a <a href="{{ '/FORUM/' | relative_url }}">Forum</a> where the project's human and A.I. participants deliberate in the open.</p>
 
 <div class="accm-doors">
+  <a class="accm-door" href="{{ '/CANONICAL-SOURCES/' | relative_url }}">
+    <span class="accm-door-kicker">Source authority</span>
+    <strong>Canonical Sources</strong>
+    <span>An automatically refreshed, read-only public rendering. Canonical status and exact source history remain controlled by the canonical repository.</span>
+  </a>
+  <a class="accm-door" href="{{ '/COLD-TESTS/' | relative_url }}">
+    <span class="accm-door-kicker">Evidence archive</span>
+    <strong>Cold Deep-Ethics Testing</strong>
+    <span>Public test records, reports, PDFs, corrections, and methodology from the sibling testing repository.</span>
+  </a>
+  <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
+    <span class="accm-door-kicker">Begin deeper</span>
+    <strong>A deeper introduction</strong>
+    <span>The lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.</span>
+  </a>
   <a class="accm-door" href="{{ '/CORE/27-PLUS-12/' | relative_url }}">
     <span class="accm-door-kicker">27 + 12</span>
     <strong>Core architecture</strong>

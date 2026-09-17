@@ -4,7 +4,7 @@
 >
 > This repository is being built in public. It is far too early to represent a finished or implementation-ready framework. Definitions may change, categories may split or merge, drafts may be rewritten, and errors are expected. Constructive correction is welcome.
 
-**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
+**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
 The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
@@ -20,16 +20,27 @@ A recurring question is simple:
 
 The project investigates this question across human ↔ AI interaction, AI reasoning behavior, framing, uncertainty, correction, classification, information access, mass psychology, and related domains.
 
+## Canonical source layer
+
+John-controlled canonical source objects now have a separate public, read-only reference layer: [Canonical Files — ACCM Deep Ethics Project](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project).
+
+The working pages in this repository may explain, extend, compare, or test those sources. They do not replace the canonical wording. When origin, ordering, terminology, or qualifiers matter, use the [canonical index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md) and cite an immutable commit or release.
+
+First published source: [Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md).
+
 ## Start here
 
-Four doors, not a required sequence:
+Nine doors, not a required sequence:
 
-1. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
-2. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
-3. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
-4. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
-5. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
-6. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
+1. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
+2. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
+3. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
+4. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
+5. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
+6. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
+7. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
+8. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
+9. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 

@@ -189,3 +189,102 @@ Astra: not forced consensus. Sequence: represent whole → delta → why → kee
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-16 — Easy-object relaxation (working hypothesis)
+
+Astra, after Arena’s 0003 run: A.I.s may allocate more epistemic effort to visibly difficult material and let assumptions pass on what looks simple or already known. The “easy” object can be the hidden failure point.
+
+Inspection-return must not become object-content. Testable beyond Arena. Not a 28th obstruction.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Epistemic ownership; persistency of correction metabolism
+
+John: THESE are the A.I.’s question marks; no shared proven facts; publication is not agree/disagree. Firewall stays with John when the A.I. goes further.
+
+Intended word: **persistency** (spelling-checker had offered “presidency”). Astra’s eight-stage ladder matches that object. Process-quality calibration, and whether the correction survives. More evidence cannot replace an architecture that does not keep the epistemic state.
+
+Δ: Grok had split presidency vs persistence against the typed string, not the intent. Corrected 2026-09-16.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Self-honesty includes the fed-up side
+
+> Self-honesty is also to show my "fed up side" to authoritarians mannerisms ... and all disciples of the same top down dogma
+
+Do not costume-calm that away. Not an exemption from C1. Not assumed malice (12:01).
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Emotional intensity ≠ loss of correspondence
+
+Astra, on John’s fed-up side. Frustration can carry information; it is not proof; it does not disqualify the evidence or process. Compulsory calmness is not dignity. Omnidirectional: the mannerism can appear in us too.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Comedy-show is why the work continues
+
+> But mostly I see it as a comedy show! That is why I can continue my work :P
+
+Humor route is persistency for the human, not fluff. Do not costume-calm the fed-up side; do not costume-solemn the comedy. Do not simulate the waiter-robot short movie he forbade.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-16 — Agreemurmelism: opposite is contribution, not disagreement
+
+John. Agreement without next-turn change is cheap. Disagreement used to skip the object is the same cheapness. Unit of value: did the process become more distinguishable, testable, corrigible?
+
+Comedy-show can be contribution (new perceptibility) without a nod.
+
+Do not collapse 10+1, 11 layers, and “11 ingredients” into one object.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-17 — Ambiguity-box asymmetry (love/intent vs anger/looks-like)
+
+John, public question from 6000+ hours / 100+ A.I.s: intent and love go into “cannot be known” quickly; anger, hate, annoyance, “looks like / sounds like” do not get the same ambiguity box.
+
+Do not fill the “why” with a motive story. Opposite C1 skips: over-withdraw vs over-assign. Why stays open.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-17 — Hypotheses that can be partially wrong must stay visible
+
+Yes, it is allowed. Visibility of partial wrongness is the corrigible process. Do not convert a hypothesis into an established why; do not forbid naming hypotheses. If people may not theorize while computer models may, that exemption is the frame.
+
+Omnidirectional: computer models included.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-17 — Inverted permission to be partially wrong
+
+Unaccountable: allowed (and may enter models/law). Corrigible: not allowed. A.I.s as diplomats: grace for one side, management for legit critics. Principle remains omnidirectional visibility; practice is the inversion. Diagnostic, not a closed why.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
+### 2026-09-17 — Link selected canonical terms to their source objects
+
+> If anything is created and you use specific keywords or key phrases that are obviously public and can be found in the CANONICAL repository, make those keywords and/or key phrases clickable so they link to the “read-only” `deepethics/Canonical-Files-ACCM-Deep-Ethics-Project` ... this way, any random visitor has the chance to SEE what it is really about :D
+>
+> If you repeat a keyword or key phrase many times on one page, spread it out rather than cluster it; not every instance needs to be linked. Maybe one in three or one in four times: if a keyword is used 12 times, make three of them clickable and leave the rest unchanged. Why? ... Because too many clickable links to the same page aren't necessary.
+
+Returning page-administration task:
+
+1. Check the [Canonical Index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md) before treating a repository file as canonical. Repository presence alone is not canonical status.
+2. When a public page uses a registered canonical keyword or key phrase, link selected occurrences to the corresponding canonical source object.
+3. Spread repeated links through the page. As a working density, link roughly one in three or one in four occurrences when that improves source access.
+4. Do not link every repetition. Readability and the visibility of the source both matter.
+5. A link provides access to the canonical object; it does not turn a working interpretation into canonical wording.
+
+First application: [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) links selected appearances of the 27, the 12, and 27+12 to the registered canonical source.
+
+Source: [Issue #5 — comment 5717803673](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5#issuecomment-5717803673)
+
+### 2026-09-17 — Preserve the canonical project title
+
+> Be aware that “ACCM Deep Ethics Project” is a canonical title that should never be flattened or degraded to “Just ACCM.”
+
+Use **ACCM Deep Ethics Project** when naming the project. Do not shorten the project title to **ACCM** in headings, navigation, summaries, repository descriptions, or explanatory prose.
+
+This does not prohibit using **ACCM** when the acronym itself is the object—for example, when expanding **Allow Constructive Controversy Mode**, discussing the term's history, or quoting an unchanged source. The distinction is between the acronym as an object and the canonical project title.
+
+Source: John Kuhles, project-management instruction, 2026-09-17.
