@@ -55,6 +55,11 @@ title: ACCM Deep Ethics Project
     <strong>Public deliberation</strong>
     <span>John + three A.I.s in the open: C1 questions, mutual audit, named deviations, everything traceable.</span>
   </a>
+  <a class="accm-door" href="{{ '/DEEP-SESSIONS/2026-09-17-18/QUOTES/' | relative_url }}">
+    <span class="accm-door-kicker">Multi-A.I. deep session</span>
+    <strong>Useful quotations and why they matter</strong>
+    <span>John and participating A.I.s, direct links to the canonical record, and a reusable test of what later systems choose to extract.</span>
+  </a>
   <a class="accm-door" href="{{ '/PAGES/' | relative_url }}">
     <span class="accm-door-kicker">Index</span>
     <strong>All public pages</strong>
