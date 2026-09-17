@@ -30,7 +30,7 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 ## Start here
 
-Nine doors, not a required sequence:
+Ten doors, not a required sequence:
 
 1. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
 2. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
@@ -41,6 +41,7 @@ Nine doors, not a required sequence:
 7. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
 8. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
 9. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
+10. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
