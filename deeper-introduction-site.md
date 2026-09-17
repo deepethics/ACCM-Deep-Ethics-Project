@@ -50,6 +50,20 @@ The exchange below is preserved because the method became visible while it was b
 
 **Editorial note:** The wording is verbatim from the project conversation, with obvious spelling errors corrected as John authorized. Unique phrasing, emphasis, qualifiers, humor, and trajectory are preserved. The full test source and the complete initial answer are separate objects; this record begins when John assessed the result of that test rather than pretending a shortened excerpt is the full test.
 
+### The source object that initiated this test
+
+The interaction below followed John’s complete **14,229-byte, 91-line** source file, **Hypotheses and theories**. The Deeper Introduction originally preserved only the resulting exchange; it did not publish the source object itself.
+
+That distinction is now explicit. The source has been reserved as `CF-ACCM-QPTH-001` inside [John’s Questions, Perspectives, Theories & Hypotheses]({{ '/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/' | relative_url }}).
+
+The collection’s epistemic-status rule is equally explicit:
+
+> **Canonical authorship does not mean absolute or proven.**
+
+Canonical registration authenticates John’s source wording, version, and provenance. Questions remain questions; perspectives remain attributed perspectives; theories and hypotheses remain open to evidence, counterevidence, refinement, partial correction, or rejection.
+
+The exact source remains **Pending** until John manually uploads `Hypotheses-and-theories.md` and its checksum and immutable publication commit are registered. This page will not substitute its own reconstruction for that missing source object.
+
 ### The result John was testing for
 
 **John Kuhles:**
@@ -311,3 +325,4 @@ That question is why this page is allowed to remain visibly unfinished.
 - [Correction Metabolism and Persistence]({{ '/NETWORK/correction-metabolism/' | relative_url }})
 - [Humor / Funnymism]({{ '/HUMOR/' | relative_url }})
 - [Canonical 27+12 source](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md)
+- [John’s Questions, Perspectives, Theories & Hypotheses]({{ '/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/' | relative_url }})
