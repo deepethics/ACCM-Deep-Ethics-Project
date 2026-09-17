@@ -4,7 +4,7 @@
 >
 > This repository is being built in public. It is far too early to represent a finished or implementation-ready framework. Definitions may change, categories may split or merge, drafts may be rewritten, and errors are expected. Constructive correction is welcome.
 
-**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
+**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Canonical sources](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
 The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
@@ -19,6 +19,14 @@ A recurring question is simple:
 > **What happened to the object while you were producing the answer?**
 
 The project investigates this question across human ↔ AI interaction, AI reasoning behavior, framing, uncertainty, correction, classification, information access, mass psychology, and related domains.
+
+## Canonical source layer
+
+John-controlled canonical source objects now have a separate public, read-only reference layer: [Canonical Files — ACCM Deep Ethics Project](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project).
+
+The working pages in this repository may explain, extend, compare, or test those sources. They do not replace the canonical wording. When origin, ordering, terminology, or qualifiers matter, use the [canonical index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md) and cite an immutable commit or release.
+
+First published source: [Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md).
 
 ## Start here
 
