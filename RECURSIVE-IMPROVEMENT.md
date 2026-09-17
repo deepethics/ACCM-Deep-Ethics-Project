@@ -261,3 +261,20 @@ Unaccountable: allowed (and may enter models/law). Corrigible: not allowed. A.I.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-17 — Link selected canonical terms to their source objects
+
+> If anything is created and you use specific keywords or key phrases that are obviously public and can be found in the CANONICAL repository, make those keywords and/or key phrases clickable so they link to the “read-only” `deepethics/Canonical-Files-ACCM-Deep-Ethics-Project` ... this way, any random visitor has the chance to SEE what it is really about :D
+>
+> If you repeat a keyword or key phrase many times on one page, spread it out rather than cluster it; not every instance needs to be linked. Maybe one in three or one in four times: if a keyword is used 12 times, make three of them clickable and leave the rest unchanged. Why? ... Because too many clickable links to the same page aren't necessary.
+
+Returning page-administration task:
+
+1. Check the [Canonical Index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL-INDEX.md) before treating a repository file as canonical. Repository presence alone is not canonical status.
+2. When a public page uses a registered canonical keyword or key phrase, link selected occurrences to the corresponding canonical source object.
+3. Spread repeated links through the page. As a working density, link roughly one in three or one in four occurrences when that improves source access.
+4. Do not link every repetition. Readability and the visibility of the source both matter.
+5. A link provides access to the canonical object; it does not turn a working interpretation into canonical wording.
+
+First application: [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) links selected appearances of the 27, the 12, and 27+12 to the registered canonical source.
+
+Source: [Issue #5 — comment 5717803673](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5#issuecomment-5717803673)

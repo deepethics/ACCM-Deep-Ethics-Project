@@ -25,8 +25,8 @@ That is not a request for immunity. It is a request for a better order of operat
 | Object | Current function |
 | --- | --- |
 | **10+1** | Mutually corrective orientation ingredients and the conditions needed for the method to hold together. The **+1** is added when the ten operate together as a living, fused process. |
-| **27** | A provisional taxonomy of recurring ways correspondence and deep ethical sense-making can be obstructed or degraded. |
-| **12** | A correspondence-first inquiry sequence intended to interrupt some of those obstructions in practice. |
+| [**27**](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md) | A provisional taxonomy of recurring ways correspondence and deep ethical sense-making can be obstructed or degraded. |
+| [**12**](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md) | A correspondence-first inquiry sequence intended to interrupt some of those obstructions in practice. |
 
 None of the three certifies itself as righteous.
 
@@ -167,7 +167,7 @@ Before turning the exchange into a public specimen, John added the psychological
 > - A manipulative process can imitate the language of deep ethics.
 > - An authentic, high-quality inquiry can be misclassified as manipulation.
 >
-> The 27+12 can help observe that dilemma. They do not settle it by naming it.
+> The [27+12](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md) can help observe that dilemma. They do not settle it by naming it.
 
 ### The correction inside the explanation
 
@@ -311,4 +311,3 @@ That question is why this page is allowed to remain visibly unfinished.
 - [Correction Metabolism and Persistence]({{ '/NETWORK/correction-metabolism/' | relative_url }})
 - [Humor / Funnymism]({{ '/HUMOR/' | relative_url }})
 - [Canonical 27+12 source](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md)
-
