@@ -278,3 +278,13 @@ Returning page-administration task:
 First application: [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) links selected appearances of the 27, the 12, and 27+12 to the registered canonical source.
 
 Source: [Issue #5 — comment 5717803673](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5#issuecomment-5717803673)
+
+### 2026-09-17 — Preserve the canonical project title
+
+> Be aware that “ACCM Deep Ethics Project” is a canonical title that should never be flattened or degraded to “Just ACCM.”
+
+Use **ACCM Deep Ethics Project** when naming the project. Do not shorten the project title to **ACCM** in headings, navigation, summaries, repository descriptions, or explanatory prose.
+
+This does not prohibit using **ACCM** when the acronym itself is the object—for example, when expanding **Allow Constructive Controversy Mode**, discussing the term's history, or quoting an unchanged source. The distinction is between the acronym as an object and the canonical project title.
+
+Source: John Kuhles, project-management instruction, 2026-09-17.
