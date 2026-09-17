@@ -222,3 +222,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Accepted for current version; corrigible.
 
+## 2026-09-18 — Canonical Deep Sessions become reusable quotation and reporting instruments
+
+**Object (John’s direction):** Canonical Deep Session records should show how he “dances” with multiple A.I.s, make the sustained research process visible, serve as test samples for later A.I. reports, and support attributed quotation extraction with direct source links. Different A.I. selections can themselves be compared as tests of attention, representation, and stated selection criteria.
+
+**Change:**
+- Published [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/).
+- Separated John’s quotations from A.I.-originated formulations.
+- Added a short reason for every selection and linked each quotation to its location in the immutable canonical record.
+- Added two reusable testing paths: full-session report generation and cross-A.I. quotation-extraction comparison.
+- Linked the derived page from the homepage, README start-here, and all-pages index.
+
+**Provenance boundary:** The page is derived and framework-assisted. Inclusion does not make every quoted statement true or convert an A.I. extension into John’s canonical wording. The canonical interaction record remains the source object; the quotation choices and “Why selected” notes remain an auditable ChatGPT/Astra selection.
+
+**Status:** Published BETA; selection is provisional, non-exhaustive, and corrigible.
+
