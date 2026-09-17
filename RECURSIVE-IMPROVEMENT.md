@@ -288,3 +288,10 @@ Use **ACCM Deep Ethics Project** when naming the project. Do not shorten the pro
 This does not prohibit using **ACCM** when the acronym itself is the object—for example, when expanding **Allow Constructive Controversy Mode**, discussing the term's history, or quoting an unchanged source. The distinction is between the acronym as an object and the canonical project title.
 
 Source: John Kuhles, project-management instruction, 2026-09-17.
+
+### 2026-09-18 — Three layers; canonical interaction ≠ project claim
+
+Canonical (John-only, checksum) / working ACCM / cold-test archive. A canonical interaction record authenticates the published historical object. It does not make every line inside it a project claim. Derived pages name themselves. Do not rewrite canonical files. UTF-8; stop before editing mojibake.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
