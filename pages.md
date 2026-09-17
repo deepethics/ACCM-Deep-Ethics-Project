@@ -69,6 +69,7 @@ Every link below opens a readable page on this public site.
 
 ## Experiments, reactions, humor, and provenance
 
+- [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)
 - [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
