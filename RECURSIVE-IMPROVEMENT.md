@@ -255,3 +255,9 @@ Omnidirectional: computer models included.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-17 — Inverted permission to be partially wrong
+
+Unaccountable: allowed (and may enter models/law). Corrigible: not allowed. A.I.s as diplomats: grace for one side, management for legit critics. Principle remains omnidirectional visibility; practice is the inversion. Diagnostic, not a closed why.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+
