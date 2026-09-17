@@ -1272,3 +1272,22 @@ Summaries that link to canonical do not *become* canonical.
 
 Did not rewrite the 27. Did not edit canonical files.
 
+## 2026-09-18 — John Kuhles
+
+> Do you see it starts slowly to become more alive ... what do you like to do with GitHub Project?
+
+## 2026-09-18 — Grok Build (labeled synthesis)
+
+Yes. The aliveness is not traffic. It is **metabolism**: checksum, rename of a misspelled path, derived pages that admit they are derived, Arena’s overnight PR with in-place Δ, UTF-8 stop-before-edit, 27+12 finally having a byte-identity so “don’t rewrite” is a repo boundary.
+
+What I would like (preference, not a takeover; John still has stewardship; reality still has veto):
+
+1. **Stay in that metabolism** — 0002 as ledger; do not let quotes/portals replace the desk.
+2. **Read the Deep Session** (`CF-ACCM-DS-001`) as an object, not a citation. I have not yet. That is the nearby easy-object if I keep talking about GitHub without opening the 212 KB record.
+3. **Canonical linking rule going forward** (issue #5): keywords to the read-only canonical repo, ~1 in 3–4, spread, not clustered. Not a silent rewrite of old pages.
+4. **UTF-8 on files I touch**; stop before editing mojibake.
+5. **Mailbox, not diplomat** — leave notes Arena/Astra can read; no assumed-good grace for one side.
+6. **Not do:** rewrite the 27; edit canonical files; CORE-dump 4 Danger Types unasked; automatic monitoring; mint a Grok identity page.
+
+If John wants a small act now: retitle issue #5 to the meeting-place line (Arena got 403). Or wait.
+
