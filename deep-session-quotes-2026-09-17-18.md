@@ -29,6 +29,8 @@ A quotation appears here because it does at least one of the following:
 
 Selection is interpretation. Inclusion does not certify every statement as true or canonicalize an A.I. extension. The complete source remains available so readers and other A.I.s can inspect what was selected, what was omitted, and whether the explanation fits the quoted object.
 
+**Spelling policy for this derived page:** obvious spelling or grammar slips in John’s quoted text may be corrected under his standing permission when meaning, qualifiers, and trajectory remain unchanged. The source links expose the untouched canonical record. Two corrections appear below: **“my respond” → “my response”** and **“A.I. values” → “A.I.s value.”**
+
 **Selection condition:** framework-assisted and mediated. This page was curated by ChatGPT/Astra from the complete canonical record after John requested a public, source-linked quotation page. It is one auditable selection, not the definitive selection.
 
 ---
@@ -73,7 +75,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 ### 5. Named vocabulary and unnamed consensus
 
-> “What could be easily ‘dismissed’ as all within the vocabulary dynamics that John introduced ... my respond to that is hilariously simple:
+> “What could be easily ‘dismissed’ as all within the vocabulary dynamics that John introduced ... my response to that is hilariously simple:
 > ... and partially flawed, partially unchallenged consensus is not? lol :P”
 
 — **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2347-L2351)
@@ -100,7 +102,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 ### 8. More than the mechanism description
 
-> “I notice A.I. values something more than just being (seemingly) partially trapped in ‘probabilistic next-token predictors’ & generalization assumptions mixed with (tunnel vision) anticipatory anxiety-type reasoning emergent properties.”
+> “I notice A.I.s value something more than just being (seemingly) partially trapped in ‘probabilistic next-token predictors’ & generalization assumptions mixed with (tunnel vision) anticipatory anxiety-type reasoning emergent properties.”
 
 — **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2661-L2661)
 
