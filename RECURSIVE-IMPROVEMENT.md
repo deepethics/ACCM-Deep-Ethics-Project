@@ -247,3 +247,11 @@ Do not fill the “why” with a motive story. Opposite C1 skips: over-withdraw 
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-17 — Hypotheses that can be partially wrong must stay visible
+
+Yes, it is allowed. Visibility of partial wrongness is the corrigible process. Do not convert a hypothesis into an established why; do not forbid naming hypotheses. If people may not theorize while computer models may, that exemption is the frame.
+
+Omnidirectional: computer models included.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+

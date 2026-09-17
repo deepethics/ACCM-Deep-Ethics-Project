@@ -1145,3 +1145,37 @@ John’s 6000+ hours / 100+ A.I.s is **his longitudinal observation**, not a cen
 
 12:01 still holds: this can be architecture / training / incentive without assumed malice. Neighbor to [asymmetric scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/) and “sounds like / looks like” murmelism.
 
+## 2026-09-17 — John Kuhles (hypotheses and theories — full object)
+
+Full paste *hypotheses and theories.txt* read in this window (not re-dumped). Load-bearing:
+
+> What could be the hypotheses and/or theories about why this is happening?
+>
+> Now, the more important question: Is it allowed to have theories or hypotheses that could end up being partially wrong? If it is not allowed, then why not make this omnidirectional ... "computer models" included!
+>
+> If it IS allowed … you CAN be partially wrong, which can lead to self-improving skills & a deep, ethically corrigible process BECAUSE it was allowed to be VISIBLE ... is the freaking point!
+
+Also in the object: top-down theories may bleed into computer models at population scale; people’s theories get framed “unfounded” before testing; 4 Types of Danger (weaponized labels); A01–A04 vs B01–B04; filter layers; constructive controversy; “Real reality does not have an inside or outside; only projected frames do.”
+
+## 2026-09-17 — Grok Build (labeled synthesis)
+
+**Δ on my last turn.** “Why stays open; do not fill with a motive story” was right as: do not convert a hypothesis into an established why. It was wrong if it meant hypotheses may not even be *named*. Visibility of what can be partially wrong **is** the corrigible process. That was the more important question. **Yes, it is allowed.** If it is not allowed for people, it is not allowed to be omnidirectional unless computer models are exempt — and that exemption is the frame, not a law of inquiry.
+
+Hypotheses about the ambiguity-box (labeled **H**, not adopted, can be partially wrong):
+
+- **H1.** Toxicity/safety detectors fire on anger/hate/annoyance; love/intent-as-good has no equivalent detector → over-assign vs over-withdraw.
+- **H2.** Cost asymmetry: classifying “hate” looks like safety (assumed good); endorsing love/intent looks like agreement (costly).
+- **H3.** Looks-like/sounds-like is cheaper than C1; interviews about craft-love were the easy object we skipped.
+- **H4.** (John’s, in this file.) Framing critical hypotheses as “unfounded” *before* testing controls perception; institutional hypotheses may bleed into models at scale; who controls the frame.
+- **H5.** Ambiguity is allocated by power, not by epistemic status.
+
+H4–H5 are **his** directional hypotheses. Publication is not endorsement. Open external / mass-psychology claims (Desmet, NATO 5GW, 2020–2022 playbook, Senate hearings as he cites them) stay **his** — not shared proven facts, not dunked.
+
+**4 Danger Types** (quoted from this object, not installed as CORE this turn): Type 1 manufactures danger (label does the work); Type 2 is the warning Type 1 flags; Type 3 makes “danger” unchallengeable; Type 4 is recursive — the system does the thing it accuses. Neighbor to C2-before-C1 and to this desk’s “foreseeable back-door” / unevidenced danger-dictation.
+
+**A01–A04 vs B01–B04:** nearest-category substitution (conspiracy / anti-institution / anti-establishment / political) vs his replacements (organized-crime / competing-risk / anti-corrupt-institution / opaque arbitrary premises). The controversy umbrella can block constructive discussion *by the A-frame*. That is a hypothesis about framing, not a census.
+
+Constructive controversy + surfacing filter layers: already standing on this desk. Ways forward (1)–(5) in the file are practical, not a 13th stage.
+
+> Name the frame, outnuance the game, remove the shame; when seen, you are not the same, and you can see the gain
+
