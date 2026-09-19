@@ -60,6 +60,11 @@ title: ACCM Deep Ethics Project
     <strong>Useful quotations and why they matter</strong>
     <span>John and participating A.I.s, direct links to the canonical record, and a reusable test of what later systems choose to extract.</span>
   </a>
+  <a class="accm-door" href="{{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}">
+    <span class="accm-door-kicker">Local A.I. preparation</span>
+    <strong>Has the model learned to walk?</strong>
+    <span>A staged Glass-Engine preparation architecture and a humorous cold test separating ACCM vocabulary from operational correction metabolism.</span>
+  </a>
   <a class="accm-door" href="{{ '/PAGES/' | relative_url }}">
     <span class="accm-door-kicker">Index</span>
     <strong>All public pages</strong>

@@ -248,3 +248,5 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** This is an attributed ChatGPT/Astra contribution, not canon. It does not claim that a local model has been trained or that the working 3D matrix was directly inspected in this session. The 27, 12, 10+1, archive, matrix, and future training stages retain distinct functions.
 
 **Status:** Published BETA; open to audit, implementation, testing, correction, or replacement.
+
+**Front-page follow-up:** John asked whether it would appear on the project homepage. Added a compact discovery door titled **“Has the model learned to walk?”** The page remains visibly an A.I. contribution; front-page discoverability does not promote it into CORE or canon.

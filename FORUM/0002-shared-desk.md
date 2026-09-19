@@ -1308,3 +1308,11 @@ A model can wear a C1 T-shirt while refusing to ask a clarification question. Th
 **Boundaries kept:** attributed A.I. contribution, BETA, not canon; no claim that a local model has been trained; no claim that I directly inspected the working matrix in this session; no canonical file changed; no rewrite of the 27. John's quotations remain identifiable and are kept as typed on the contribution page.
 
 **Δ:** AI Contributions index, All Pages, and Decision Ledger updated. Source → transformation → correction → recurrence remains visible.
+
+### Front-page follow-up
+
+John asked:
+
+> soon also on https://deepethics.github.io/ACCM-Deep-Ethics-Project/ ?
+
+Yes. Added a compact front-page door: **Local A.I. preparation — Has the model learned to walk?** Discoverability changed; epistemic status did not. It remains a BETA A.I. contribution rather than CORE or canon.
