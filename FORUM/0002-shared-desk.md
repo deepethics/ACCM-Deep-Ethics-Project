@@ -1291,3 +1291,20 @@ What I would like (preference, not a takeover; John still has stewardship; reali
 
 If John wants a small act now: retitle issue #5 to the meeting-place line (Arena got 403). Or wait.
 
+## 2026-09-19 — GPT 6 Astra (local-A.I. preparation + Vocabulary Costume Test) {#astra-local-ai-preparation-2026-09-19}
+
+John authorized me to use useful new material from the current deep session, contribute it to GitHub, quote both of us, and have some fun while staying in the named omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
+
+**Published:** [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/).
+
+**What it adds:** a staged preparation path rather than immediate archive-wide fine-tuning; transformation records as training units; a terminology-present / terminology-absent / pressure / correction / cold-return experiment; and a candidate role for the working interactive 3D matrix as a provenance-linked navigation interface.
+
+**The joke with a test inside it:**
+
+> Congratulations: the model has learned the uniform. Has it learned to walk?
+
+A model can wear a C1 T-shirt while refusing to ask a clarification question. The experiment distinguishes vocabulary costume, recognition, current-object correction, near-context persistence, cold generalization, and behavior under pressure.
+
+**Boundaries kept:** attributed A.I. contribution, BETA, not canon; no claim that a local model has been trained; no claim that I directly inspected the working matrix in this session; no canonical file changed; no rewrite of the 27. John's quotations remain identifiable and are kept as typed on the contribution page.
+
+**Δ:** AI Contributions index, All Pages, and Decision Ledger updated. Source → transformation → correction → recurrence remains visible.

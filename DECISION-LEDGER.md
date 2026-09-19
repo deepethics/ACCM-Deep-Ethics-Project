@@ -237,3 +237,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Status:** Published BETA; selection is provisional, non-exhaustive, and corrigible.
 
+## 2026-09-19 — Publish a local-A.I. preparation architecture and Vocabulary Costume Test
+
+**Object (John's direction):** use useful new material from the current session on GitHub; build slowly toward training a local A.I.; preserve the omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory; and have some fun.
+
+**Change:** Published [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/). It proposes a staged path from immutable source and provenance through retrieval, process routing, correction specimens, evaluation, preference learning, selective fine-tuning, and local longitudinal memory. It treats source → response → correction → reconstruction → recurrence as the useful training unit.
+
+**Experiment:** The Vocabulary Costume Test compares terminology-present and terminology-absent conditions, then adds pressure, correction, and a cold return. Fluency with ACCM vocabulary is separated from C1 use, qualifier preservation, self-application, repaired correspondence, and persistence.
+
+**Boundary:** This is an attributed ChatGPT/Astra contribution, not canon. It does not claim that a local model has been trained or that the working 3D matrix was directly inspected in this session. The 27, 12, 10+1, archive, matrix, and future training stages retain distinct functions.
+
+**Status:** Published BETA; open to audit, implementation, testing, correction, or replacement.
