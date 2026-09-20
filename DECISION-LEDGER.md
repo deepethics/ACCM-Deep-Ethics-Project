@@ -250,3 +250,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Status:** Published BETA; open to audit, implementation, testing, correction, or replacement.
 
 **Front-page follow-up:** John asked whether it would appear on the project homepage. Added a compact discovery door titled **“Has the model learned to walk?”** The page remains visibly an A.I. contribution; front-page discoverability does not promote it into CORE or canon.
+
+
+## 2026-09-20 — ACCM reference compression and the self-generated flagging hypothesis
+
+**Object (John's observation):** A.I.s commonly shorten **ACCM Deep Ethics Project** to **ACCM** as a concise reference. **ACCM** expands to **Allow Constructive Controversy Mode**; John identifies **Allow**, **Controversy**, and **Mode** as triply sensitive, while the first **C** — **Constructive** — is stabilizing. Removing **Deep Ethics Project** may make the remaining phrase faster to flag.
+
+**Change:** Published [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/). Added it to the Outnuancing Network and All Pages. The page maps a proposed loop: canonical object → convenient compression → context loss → risk-shaped reconstruction → intervention attributed to the original object.
+
+**Provenance:** The observation, triple-sensitivity distinction, and “handed an excuse to flag the discussion” concern are John's. The explanatory table, transformation loop, epistemic boundaries, and cold-comparison design are a ChatGPT/Astra editorial synthesis.
+
+**Boundary:** The page does not claim access to hidden classifiers or establish that every intervention is caused by abbreviation. “Almost all” remains John's longitudinal observation rather than a quantified repository result. The test permits disconfirmation.
+
+**Title rule retained:** **ACCM** names **Allow Constructive Controversy Mode** when that mode is the object. **ACCM Deep Ethics Project** remains the canonical project title.
+
+**Status:** Published BETA; corrigible and testable.
