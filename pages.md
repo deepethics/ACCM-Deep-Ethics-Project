@@ -73,6 +73,7 @@ Every link below opens a readable page on this public site.
 - [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)
 - [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
 - [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)
+- [Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/)
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
 - [Cold Deep-Ethics Testing of Default AIs (sibling GitHub archive)](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)

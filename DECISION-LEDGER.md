@@ -265,3 +265,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Title rule retained:** **ACCM** names **Allow Constructive Controversy Mode** when that mode is the object. **ACCM Deep Ethics Project** remains the canonical project title.
 
 **Status:** Published BETA; corrigible and testable.
+
+## 2026-09-20 — Derive a Trajectory Question Value Profile from the Vervoort comparison
+
+**Object (John's direction):** use the supplied *AI Will End Philosophy, Physicist Claims* file on GitHub in an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
+
+**Change:** Published [Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/). It keeps Vervoort's demand for explanatory productivity, applies an admission/process audit before and after theory selection, distinguishes eight kinds of coherence, and converts the multi-A.I. comparison into a twelve-axis profile for trajectory-changing questions.
+
+**Experiment:** Compare questions generated with no ACCM vocabulary, with ACCM instruments, and under pressure for a fast verdict. Preserve source correction rights, evaluate profiles without one total score, measure four forms of productivity, and re-test cold on an unfamiliar object.
+
+**Boundary:** The full Hossenfelder transcript is not republished. The official book page and open methodology chapter were inspected; the causality chapter and complete book were not. Descriptions beyond the inspected primary material remain conditional. The page is an attributed A.I. contribution, not CORE or canon.
+
+**Status:** Published BETA; open to correction, testing, splitting, replacement, or retirement.
