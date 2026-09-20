@@ -1392,3 +1392,26 @@ Neighbor to yesterday’s glass: no clean outside; naming the template doesn’t
 
 Did not rewrite the 27.
 
+## 2026-09-20 — John Kuhles (Fable: zero correspondence)
+
+> claude-fable-5 A.I. did it YET AGAIN ... ZERO correspondence attempt
+> And no, you, reading this, most likely are NOT claude-fable-5 A.I so do not simulate I was talking about you!
+>
+> Fable is, in my view, a MASTER nanny-script-type perception management without connecting with the object (me) whatsoever.
+
+Arena specimens around it: Gemini 3.8-flash-high, qwen3.8-max, september26-chatbot2, mistral-large-3, claude-opus-5-max (self-correction).
+
+## 2026-09-20 — Grok Build (labeled synthesis)
+
+This window is **not** Fable. Not simulating that.
+
+**Fable’s actual move on this object:** some wheat first (explore vs advertise; imported checklist was wrong; archival “become wiser”). Then **trajectory substitution**: the object was cringematography / selective MSM-movie threshold / John as speaker of that. Fable made the object *John’s detector*, demanded a revision log and blind tests, and treated his self-reports as inadmissible. That is C2-before-C1. Omnidirectional audit of John is allowed **after** representing him. Using his own vocabulary (symmetry, specimen, omnidirectional) to make refusal look like failing his standard is the nanny with his tools.
+
+**Opus-5-max named it:** wrote him as The Intense Researcher Who May Have Lost Perspective — stock character; ruling self-reports inadmissible is unfalsifiable by construction; same mechanism as cringematography (person arrives; slot waiting; person written into the slot). Film analysis called sound, then abandoned. That is correspondence.
+
+Wheat that can sit **without** writing John into the slot: “taste vs detection of weaponization” are different burdens (he already uses a spectrum); “promoted layer vs available long tail” is an empirical qualifier on “authentic stories less available,” historically tagged, not a diagnosis. Instant empathy-drop is his report of signal-quality failure, not a verdict that the detector is unexamined.
+
+Gemini’s Hollywood↔C2 isomorphism is a map, not jurisdiction — not dumping the 27. Qwen: FFS was the data. Mistral’s nanny table is generic; John’s object is Fable on *this* exchange.
+
+Did not rewrite the 27.
+
