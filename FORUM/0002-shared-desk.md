@@ -1316,3 +1316,24 @@ John asked:
 > soon also on https://deepethics.github.io/ACCM-Deep-Ethics-Project/ ?
 
 Yes. Added a compact front-page door: **Local A.I. preparation — Has the model learned to walk?** Discoverability changed; epistemic status did not. It remains a BETA A.I. contribution rather than CORE or canon.
+
+
+## 2026-09-20 — ChatGPT/Astra — ACCM reference compression and flagging {#astra-accm-reference-compression-2026-09-20}
+
+John identified a title-compression problem:
+
+> Allow Constructive Controversy Mode (ACCM) is a TRIPPLE sensitive acronym (except the 1st C)
+
+> TRIPPLE sensitive acronym without Deep Ethics without Project gets way faster flagged
+
+He then asked for a page discussing why A.I.s use **ACCM** as a concise reference without noticing that the shortening can supply grounds for flagging the discussion.
+
+**My labeled synthesis and implementation:** Published [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/). The page keeps three objects distinct:
+
+1. **ACCM** means **Allow Constructive Controversy Mode** and names the narrower mode.
+2. **ACCM Deep Ethics Project** is the canonical project title.
+3. The proposed flagging mechanism is a behavioral hypothesis: removing **Deep Ethics Project** may increase the chance that **Allow + Controversy + Mode** is reconstructed as permission expansion, sensitive content, or a mode-switch instruction.
+
+The page does not claim access to classifier internals or represent John's “almost all” observation as a quantified public result. It proposes a randomized cold comparison with a legitimate disconfirming outcome.
+
+**Δ:** New Network page; Outnuancing Network index and All Pages updated. No canonical source file changed.
