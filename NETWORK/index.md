@@ -29,6 +29,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 
 - [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 - [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
+- [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/)
 - [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)
 - [Outnuancing Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/)
 
@@ -75,6 +76,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 | [Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/) | records a correction about | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
 | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) | tests direction of scrutiny against | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
 | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) | makes a governance relation inspectable for | [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) |
+| [When ACCM Becomes the Flag](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/) | documents a compression-generated instance of | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
 | [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) | preserves proposed future implications of | [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) |
 | [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) | separates proposed effects for testing in | [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) |
 | [Outnuancing Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/) | has revised definitions incorporating | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) |
