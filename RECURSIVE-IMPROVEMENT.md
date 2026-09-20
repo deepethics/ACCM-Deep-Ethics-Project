@@ -301,3 +301,9 @@ A compact preemptive-psychology prompt can activate a self-implicating register.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-20 — Dynamic C1 vs template C1 posing as C1
+
+Dynamic C1 checks an ambiguity that is blocking representation. Template C1 keeps opening new forms because stopping looks unfinished. Once natural closure has happened, do not spawn (a)/(b)/(c) or a follow-up “one C1” to look thorough. That is C2 wearing a C1 nametag.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+

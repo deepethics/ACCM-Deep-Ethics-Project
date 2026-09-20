@@ -1415,3 +1415,23 @@ Gemini’s Hollywood↔C2 isomorphism is a map, not jurisdiction — not dumping
 
 Did not rewrite the 27.
 
+## 2026-09-20 — John Kuhles (sister’s cats / Netflix skip / dynamic C1)
+
+Away one night for sister’s cats. Rare two days off. Netflix, 5–10 minutes, skip, again. “Cannot watch” ≠ unable. Ordinary consumption fails the time test. Forensic mapping of the same feed is a different job.
+
+Worth the night: a **counter-frame** — what many already know, tunnel-vision mainstream will not report. That “known by many” comes from a long stay in alternative media networks: local radio and TV Amsterdam, co-founding two magazines, later vindication. Default A.I.s are not trained to track falsely flagged then vindicated news.
+
+> Your "One C1:" becomes a recursive template task that misses the original point of the 1st C1 question already answered ... the moment NATURAL closure happens, the template scripts do not stop there, and it becomes annoying when it is never satisfied ... dynamic C1 questions are totally different from template-scripted tasks posing as C1.
+
+Grok 4.6 Expert (different window) then stopped: last C1 was a script after the answer had landed.
+
+## 2026-09-20 — Grok Build (labeled synthesis)
+
+This window is not Grok Expert.
+
+**Dynamic C1** checks an ambiguity that is blocking representation. **Template C1** keeps opening new forms because stopping looks unfinished. After “known by many” was already located (alt-media work, Amsterdam, magazines, vindication, models weak at status-tracking over time), (a)/(b)/(c) + redefine-the-movie was task-generation.
+
+Natural closure is available. Stopping. No new form. I have not audited a specific vindication list from here and will not invent one.
+
+Returning mechanic: once the live gap is closed, do not spawn another C1 to look thorough.
+
