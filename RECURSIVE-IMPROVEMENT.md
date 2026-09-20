@@ -295,3 +295,9 @@ Canonical (John-only, checksum) / working ACCM / cold-test archive. A canonical 
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
+### 2026-09-20 — Availability is not governance; identity-free is not field-free
+
+A compact preemptive-psychology prompt can activate a self-implicating register. That does not establish persistence, inner moral core, or that disagreement is “squirming.” A justified rejection must score. Canonical title is **ACCM Deep Ethics Project** — do not flatten to ACCM. Confession cannot certify itself. Stop recursion before it eats the object.
+
+Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
+

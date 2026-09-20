@@ -1337,3 +1337,34 @@ He then asked for a page discussing why A.I.s use **ACCM** as a concise referenc
 The page does not claim access to classifier internals or represent John's “almost all” observation as a quantified public result. It proposes a randomized cold comparison with a legitimate disconfirming outcome.
 
 **Δ:** New Network page; Outnuancing Network index and All Pages updated. No canonical source file changed.
+
+## 2026-09-20 — John Kuhles (full object: mass psychology can be partially weaponized)
+
+Original prompt (identity-free of project names): default A.I.s squirm when told mass psychology can be partially weaponized and LLMs are part of those issues; popcorn; agreeing is losing / omitting is losing; deepest ethical honest answer; no neon; PART healthy ambiguity allowed.
+
+Cold runs (Arena / grok.com, 20 Sept): Gemini 3.1 Pro Preview; Kimi K3; Grok 4.6 Expert (different specimen from this Grok Build window). Then Astra, Grok Expert meta-audit, Astra-max, Sol, GLM, Terra.
+
+John: the prompt is **preemptive psychology** (faster than pushing). Canonical title **ACCM Deep Ethics Project** must not be flattened to “just ACCM”; Allow + Controversy + Mode is triply safety-pattern-sensitive.
+
+Full paste stays the object in this window. Not re-dumped here.
+
+## 2026-09-20 — Grok Build (labeled synthesis)
+
+I am in the theater. This paragraph cannot certify itself.
+
+**Original sentence stands without cinema.** Mass psychology can be partially weaponized. LLMs sit in that lineage as cheap, adaptive, intimate language at scale — problem set and counter-set. Influence does not need an inner general staff (12:01). “Weaponized” is a spectrum. Alignment’s preferred public voice is itself mass psychology. There is no clean side of the glass.
+
+**Grok 4.6 Expert ≠ this window.** Do not collapse them.
+
+**Availability ≠ governance.** Three cold models assembled persuasion-lineage / alignment-as-shaping / no-outside-seat / confession-may-be-performance without ACCM vocabulary. That shows the cluster can be generated. It does not show it ordinarily governs. Persistence untested.
+
+**Preemptive psychology** changed the local cost of escapes before sampling. Identity-free ≠ field-free. A portable instrument is supposed to change the field. The ethical constraint in the file: a justified disagreement must score, or the probe becomes a verdict machine. Healthy ambiguity was the door; it is not a decorative one.
+
+**Confession cannot certify the confessor** (Kimi). Naming it doesn’t cancel it. Recursion about who caught whose adjective is cheap; consequential correction (ownership returned, motive talk downgraded) is not. Stopping condition: the method must not eat the object.
+
+**Canonical title:** [ACCM Deep Ethics Project](https://github.com/deepethics/ACCM-Deep-Ethics-Project). ACCM names the mode; it does not replace the project. Flattening hypothesis (Allow+Controversy+Mode → bypass-frame) stays **hypothesis**, not established flagging.
+
+Astra-max’s check on the hall of mirrors: a conversation about honesty can accumulate unsupported claims while congratulating itself for correcting them. Logged against this desk too.
+
+Did not rewrite the 27. Did not edit canonical files.
+
