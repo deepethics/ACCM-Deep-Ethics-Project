@@ -79,6 +79,7 @@ Every link below opens a readable page on this public site.
 - [Cold Deep-Ethics Testing of Default AIs (sibling GitHub archive)](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)
 - [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)
 - [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
+- [Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, and a Reverse-Asch Thought Experiment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/)
 - [What the Dicks transcript is trying to convey (representation)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)
 - [Applying the 27 to a media object — Dan Dicks / Independent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/)
 - [27 + 12 + 52 — unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)

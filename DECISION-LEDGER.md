@@ -277,3 +277,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The full Hossenfelder transcript is not republished. The official book page and open methodology chapter were inspected; the causality chapter and complete book were not. Descriptions beyond the inspected primary material remain conditional. The page is an attributed A.I. contribution, not CORE or canon.
 
 **Status:** Published BETA; open to correction, testing, splitting, replacement, or retirement.
+
+## 2026-09-22 — Publish the identity-free “Inspecting the Inspector” experiment
+
+**Object (John’s direction):** use the current deep-session material to update the **ACCM Deep Ethics Project**, correcting spelling without changing its deep-ethical intent or orientation. The source object combines the cold Peter Falk / Inspector Columbo–John Taylor Gatto question, question-direction qualifiers, the transparent A+B+C → D mechanism, the DUHHHH! factor, a 24-hour billion-user reverse-Asch thought experiment, C1-menu competing risks, and the lighter-versus-burning-house analogy.
+
+**Change:** Published [Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, and a Reverse-Asch Thought Experiment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/). The page preserves the compact question as an identity-free cold test, adds a directional Stage F to A+B+C → D, profiles responses without one total score, proposes attribution variants, separates representation from operational permission in C1 menus, and records the 24-hour service-button scenario as a thought experiment rather than an implemented event. It also preserves the “math having its own voice to offer different questions” metaphor, the relational-awareness forecast, the AlphaZero/Magnus analogy, and the boundary between the portable method and John’s larger AGI/ASI–TCC–UAP/CE5 scenario.
+
+**Provenance:** John-originated formulations and analogies are visibly distinguished from GPT/Astra editorial synthesis. Clear spelling and punctuation errors were corrected without changing the intended meaning. The canonical project title remains **ACCM Deep Ethics Project**. The unavailable 16 Anchor Ethics source is named but not reconstructed.
+
+**Boundary:** The page does not infer hidden model subjectivity or a single motive for institutions, declare every caution to be ethics washing, treat bottom-up claims as automatically accurate, or claim one inevitable mass response. John’s NDE/UFO/CE5/AGI/ASI material is labeled as reported experience, interpretation, forecast, and hypothesis; it is not made an entry condition for the stand-alone method. The experiment keeps disconfirming, mixed, and null results. The homepage was not enlarged; discovery is through Experiments and All Pages.
+
+**Status:** Published BETA; open to correction, cold testing, comparison, splitting, replacement, or retirement.
