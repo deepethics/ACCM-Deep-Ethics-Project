@@ -144,6 +144,25 @@ The **ACCM Deep Ethics Project** is the practical result of this trajectory. Its
 
 It is not a demand that an A.I. or human agree with me. Agreement and disagreement are often downstream metadata. The prior task is to preserve the object well enough that any later evaluation is actually about the object rather than a safer, stronger, weaker, or more familiar reconstruction.
 
+### Biography, method, and portability
+
+This biography is best understood as a **provenance and conditions map**. It helps readers grasp the lived, psychological, historical, technical, and relational conditions that preceded and enabled me to develop a **stand-alone, portable, identity-free, deep-ethical method**. The biography explains how the method became possible. It is not the method itself.
+
+A person or A.I. does not have to agree or disagree with my biography, worldview, NDE interpretation, UFO/UAP research, or future-oriented hypotheses before using or testing the practical tools. Agreement and disagreement belong downstream of a more basic task: understanding what the method does and examining how it performs.
+
+The relationship is:
+
+- **Biography:** the conditions and developmental history.
+- **Project:** the larger connected research ecology.
+- **Method:** the portable deep-ethical process.
+- **Testing:** whether the method improves correspondence, regardless of who developed it.
+
+The stronger identity-free test is therefore:
+
+> Remove my name, biography, terminology, and project affiliation. Does the method still help different intelligences preserve the object, clarify material ambiguity, expose framing assumptions, apply scrutiny omnidirectionally, remain corrigible, and produce better trajectory questions?
+
+If it does, its portability does not depend on belief in me. The biography still matters because it makes visible the unusual conditions under which the method was discovered, exercised, corrected, and refined.
+
 The project asks:
 
 - Was the original object represented before it was classified or managed?

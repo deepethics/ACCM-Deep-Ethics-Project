@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-22 — Distinguish biography, project, portable method, and testing
+
+**Correction:** Describing the biography itself as a “claim-type separation instrument” placed too much functional weight on the biography. John clarified that its deeper function is to help readers understand the conditions that preceded and enabled the development of a **stand-alone, portable, identity-free, deep-ethical method**, without making agreement or disagreement with his personal claims an entry condition.
+
+**Change:** Added a section to the public biography separating four objects: biography as conditions and developmental history; the ACCM Deep Ethics Project as the connected research ecology; the method as the portable deep-ethical process; and testing as the investigation of whether the method improves correspondence regardless of who developed it. Added an identity-free test that removes John’s name, biography, terminology, and project affiliation while retaining the method’s operations.
+
+**Status:** Published clarification; corrigible.
+
 ## 2026-09-22 — Make About and Project Origins visible from the public entrance
 
 **Observed problem:** The public `/ABOUT/` page already existed through `about-site.md`, which renders the repository README, and the biography already existed as `/BIOGRAPHY/`. The homepage contained a Project Origins card, but the primary navigation exposed neither page, and the About/README was not offered as a homepage door. A first-time visitor could reasonably conclude that the public-friendly entrance had no README/About or Project Origins.
