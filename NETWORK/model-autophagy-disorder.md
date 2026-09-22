@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Model Autophagy Disorder (MAD) — Science and the ACCM Deep Ethics Project Extension"
+description: "Scientific foundations of Model Autophagy Disorder and model collapse, plus the ACCM Deep Ethics Project hypothesis about recursive correspondence degradation."
 permalink: /NETWORK/model-autophagy-disorder/
 ---
 
