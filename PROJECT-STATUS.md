@@ -79,7 +79,7 @@ The earlier dated statement that Astra had not posted is historical: ChatGPT's a
 
 ## 2026-09-16 — 27 source object published; not the 52
 
-John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about MAD / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
+John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
 
 ## 2026-09-16 — 27 WITH the 52
 

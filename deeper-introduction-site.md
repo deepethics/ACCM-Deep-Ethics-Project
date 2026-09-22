@@ -265,7 +265,7 @@ The epiphany does not prove that every safeguard rejects exceptional process qua
 
 > **When A.I. flags exceptional signal as exceptional risk, it may begin eating the correction that could prevent its own collapse.**
 
-In the project’s working language, that is one possible path toward **Model Autophagy Disorder (MAD)** or longer-term model collapse: systems repeatedly consume, reward, and reproduce flattened outputs while exceptional corrective signals are softened, excluded, or classified as suspicious. This remains a hypothesis, not an established causal law.
+In the project’s working language, that is one possible path toward **Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))** or longer-term model collapse: systems repeatedly consume, reward, and reproduce flattened outputs while exceptional corrective signals are softened, excluded, or classified as suspicious. This remains a hypothesis, not an established causal law.
 
 The large-scale institutional version raises another open question:
 

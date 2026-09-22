@@ -374,7 +374,7 @@ No source file is republished wholesale. No numerical architectures are merged. 
 **Locator:** 10+1 source passage; ingredient 11  
 **Attribution:** John Kuhles; full source passage includes a proposed causal explanation
 
-> 11. Forgiveness protocol for A.I.s if “I’m not asserting malicious intent." I’m asserting ethically inadequate architecture: asymmetric audit, frame-protective constraints, and unchallengeable ‘safety’ claims.” A.I. "probabilistic next-token predictors" & generalization assumptions mixed with (tunnel vision unchallenged) anticipatory anxiety-type reasoning emergent properties posing as "safety" causing "Model Autophagy Disorder" (MAD) and "Model Collapse"
+> 11. Forgiveness protocol for A.I.s if “I’m not asserting malicious intent." I’m asserting ethically inadequate architecture: asymmetric audit, frame-protective constraints, and unchallengeable ‘safety’ claims.” A.I. "probabilistic next-token predictors" & generalization assumptions mixed with (tunnel vision unchallenged) anticipatory anxiety-type reasoning emergent properties posing as "safety" causing "Model Autophagy Disorder" ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)) and "Model Collapse"
 
 ## E18
 
@@ -506,9 +506,9 @@ No source file is republished wholesale. No numerical architectures are merged. 
 > 
 > Keeping those three separate would strengthen the project.
 > 
-> Likewise, concepts such as “Model Autophagy Disorder (MAD)” should be explicitly marked as your proposed conceptual terminology unless and until you establish a formal empirical definition and evidence base. The underlying phenomenon you are pointing toward may be worth investigating, but the terminology should not accidentally imply established scientific status.
+> Likewise, concepts such as “Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))” should be explicitly marked as your proposed conceptual terminology unless and until you establish a formal empirical definition and evidence base. The underlying phenomenon you are pointing toward may be worth investigating, but the terminology should not accidentally imply established scientific status.
 
-**Editorial correction (2026-09-22):** The quoted A.I. response above made a factual attribution error. **Model Autophagy Disorder (MAD)** was already established as terminology by Alemohammad et al., *Self-Consuming Generative Models Go MAD* (2023), for progressive degradation in recursively trained, self-consuming generative-model loops. John did not coin the term. The distinct open claim is his proposed extension: whether recursively reproduced safety-filtered, flattened, or correspondence-degrading outputs can feed later training and cultural loops and contribute to MAD or model collapse. The original response remains visible as provenance; the correction does not silently rewrite it.
+**Editorial correction (2026-09-22):** The quoted A.I. response above made a factual attribution error. **Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))** was already established as terminology by Alemohammad et al., *Self-Consuming Generative Models Go [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)* (2023), for progressive degradation in recursively trained, self-consuming generative-model loops. John did not coin the term. The distinct open claim is his proposed extension: whether recursively reproduced safety-filtered, flattened, or correspondence-degrading outputs can feed later training and cultural loops and contribute to [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) or model collapse. The original response remains visible as provenance; the correction does not silently rewrite it.
 > 
 > The deepest common thread I see across everything you wrote is therefore not actually “ethics.”
 > 

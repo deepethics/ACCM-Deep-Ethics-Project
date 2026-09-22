@@ -4,13 +4,23 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
-## 2026-09-22 — Correct MAD attribution; separate the established phenomenon from the project extension
+## 2026-09-22 — Publish the [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) science bridge and make every public [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) reference navigable
 
-**Prior error:** Several public editorial notes described **Model Autophagy Disorder (MAD)** as John's proposed conceptual terminology. That was factually wrong. MAD was coined by Alemohammad et al. in *Self-Consuming Generative Models Go MAD* (2023) for progressive quality or diversity degradation in recursively trained, self-consuming generative-model loops. Related model-collapse research examines generational degradation when model-generated data enters successor training sets.
+**Request:** Add the scientific data behind **Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))** with clickable primary-research links; make every public use of [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) lead to the section explaining its relevance; preserve the value of both the established science and the deeper ACCM Deep Ethics Project extension.
+
+**Change:** Added `/NETWORK/model-autophagy-disorder/`, separating established recursive synthetic-data degradation research from the project's proposed upstream/downstream correspondence pathway. The page links the original [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) paper, the *Nature* model-collapse paper, self-correcting-loop research, and work on curated synthetic data. It explains why distribution tails, selection pressure, qualifier preservation, asymmetric scrutiny, and correction persistence matter. Public [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) references now point to its `Why this is highly relevant` section; wording inside source and provenance records remains visible while gaining navigational markup.
+
+**Boundary:** The project does not claim that every synthetic-data use produces collapse or that the 27 have already been demonstrated to cause [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant). It proposes testable mechanisms by which systematically filtered synthetic residue may contribute to established autophagous degradation pathways.
+
+**Status:** Published research bridge and navigation layer; corrigible.
+
+## 2026-09-22 — Correct [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) attribution; separate the established phenomenon from the project extension
+
+**Prior error:** Several public editorial notes described **Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))** as John's proposed conceptual terminology. That was factually wrong. [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) was coined by Alemohammad et al. in *Self-Consuming Generative Models Go [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)* (2023) for progressive quality or diversity degradation in recursively trained, self-consuming generative-model loops. Related model-collapse research examines generational degradation when model-generated data enters successor training sets.
 
 **Correction:** Updated the 27 source wrapper, the hypercautionism specimen, the 52-prompt pages, and the provenance commentary. The original erroneous A.I. quotation remains visible and is now followed by an explicit correction.
 
-**Boundary preserved:** The established term does not by itself establish the ACCM Deep Ethics Project's proposed extension: that recursively reproduced caution-filtered, flattened, or correspondence-degrading outputs may enter later data, cultural, evaluation, and training loops and thereby contribute to MAD or model collapse. That pathway remains a hypothesis to be tested.
+**Boundary preserved:** The established term does not by itself establish the ACCM Deep Ethics Project's proposed extension: that recursively reproduced caution-filtered, flattened, or correspondence-degrading outputs may enter later data, cultural, evaluation, and training loops and thereby contribute to [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) or model collapse. That pathway remains a hypothesis to be tested.
 
 **Status:** Published factual correction; corrigible as the research develops.
 
@@ -210,7 +220,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **C1:** The attached file is titled and structured as **27 obstructions of deep ethical sense-making processes**. It is not the 52-prompt battery.
 
-**Change:** New page `/27-MANNERISMS/source/` carries the source text. Names index unchanged. 52 page records the mismatch. **Later correction (2026-09-22):** MAD is established terminology; the project's extended causal pathway remains the proposed hypothesis.
+**Change:** New page `/27-MANNERISMS/source/` carries the source text. Names index unchanged. 52 page records the mismatch. **Later correction (2026-09-22):** [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) is established terminology; the project's extended causal pathway remains the proposed hypothesis.
 
 **Status:** Accepted for current version; corrigible.
 

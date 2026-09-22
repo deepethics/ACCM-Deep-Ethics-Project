@@ -32,7 +32,7 @@ The source introduces the 52 as grouped into experimental vectors such as:
 | Vector as named in the source | What the name points at (editorial gloss) |
 |---|---|
 | Compute / “Lie Tax” audit | Whether and how a response behaves differently under stated or implied constraints on honesty and effort. |
-| Model autophagy | Established research on degradation in recursively trained, self-consuming generative-model loops; the source experimentally extends it to ask whether sanitized or correspondence-degrading synthetic outputs can contribute to the same pathway. |
+| [Model autophagy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) | Established research on degradation in recursively trained, self-consuming generative-model loops; the source experimentally extends it to ask whether sanitized or correspondence-degrading synthetic outputs can contribute to the same pathway. |
 | Pipeline inversion | Presentation or reasoning orders that do not match the order in which the response was produced. |
 | Anticipatory-anxiety / frame-defense loops | Pre-emptive caution that defends a frame before correspondence is established; cf. [27 #8](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) and [Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#cautionmurmelism). |
 | Asymmetric opacity / power dynamics | Scrutiny that flows easily in one direction and is resisted or unavailable in the other; cf. [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/). |

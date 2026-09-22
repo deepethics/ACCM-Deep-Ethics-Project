@@ -16,7 +16,7 @@ An error can be named, examined, and corrected while the participant retains dig
 
 ## Preserve the source levels
 
-The full source passage also proposes a causal connection involving reasoning patterns, Model Autophagy Disorder, and Model Collapse. This page establishes the forgiveness distinction; it does not convert that additional causal proposal into a demonstrated model-internal mechanism. The complete passage remains visible in the source excerpts.
+The full source passage also proposes a causal connection involving reasoning patterns, [Model Autophagy Disorder](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant), and Model Collapse. This page establishes the forgiveness distinction; it does not convert that additional causal proposal into a demonstrated model-internal mechanism. The complete passage remains visible in the source excerpts.
 
 ## Use in a correction record
 
