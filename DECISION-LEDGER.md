@@ -289,3 +289,13 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The page does not infer hidden model subjectivity or a single motive for institutions, declare every caution to be ethics washing, treat bottom-up claims as automatically accurate, or claim one inevitable mass response. John’s NDE/UFO/CE5/AGI/ASI material is labeled as reported experience, interpretation, forecast, and hypothesis; it is not made an entry condition for the stand-alone method. The experiment keeps disconfirming, mixed, and null results. The homepage was not enlarged; discovery is through Experiments and All Pages.
 
 **Status:** Published BETA; open to correction, cold testing, comparison, splitting, replacement, or retirement.
+
+## 2026-09-22 — Publish John’s biography and make its project origins visible from the homepage
+
+**Object (John’s direction):** create a polished, more presentable account from the July 2026 biography and the source on his mother’s influence without losing the authentic conditions that explain why he does this work; then make the page visible from the public homepage.
+
+**Change:** Published [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/). Added a homepage discovery door, an About/README start-here entry, and an All Pages link. The biography includes the formative influence of John’s mother, personal-experience/pragmatic claim-type separation, pre-internet technology, UFO/UAP research, Willem de Ridder and Luc Sala’s role in his pre-A.I. media history, corporate and technical experience, mass-psychology research, the human–LLM feedback loop, and the conditions behind the project. A compact public biography and dated-statistics note are included.
+
+**Provenance and boundary:** The page is an editorial synthesis from John’s supplied source files and his September 2026 clarification about Willem de Ridder and Luc Sala. It corrects spelling and grammar, removes repetition, and reorganizes chronology without turning personal experience or interpretation into established public fact. It preserves **ACCM Deep Ethics Project** as the canonical title. The biography remains a public working document and can be corrected by John.
+
+**Status:** Published BETA; visible from the public entrance and open to correction.

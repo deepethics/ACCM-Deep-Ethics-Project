@@ -35,6 +35,11 @@ title: ACCM Deep Ethics Project
     <strong>A deeper introduction</strong>
     <span>The lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.</span>
   </a>
+  <a class="accm-door" href="{{ '/BIOGRAPHY/' | relative_url }}">
+    <span class="accm-door-kicker">Project origins</span>
+    <strong>John Kuhles — biography and conditions</strong>
+    <span>The formative psychology, pre-A.I. media history, UFO/UAP research, mass-psychology work, and lived conditions from which the ACCM Deep Ethics Project emerged.</span>
+  </a>
   <a class="accm-door" href="{{ '/CORE/27-PLUS-12/' | relative_url }}">
     <span class="accm-door-kicker">27 + 12</span>
     <strong>Core architecture</strong>

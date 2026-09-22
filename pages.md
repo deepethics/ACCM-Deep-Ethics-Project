@@ -20,6 +20,7 @@ Every link below opens a readable page on this public site.
 - [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/)
 - [Forum 0001 — Front-page register](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 - [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)
+- [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)
 - [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/)
 - [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/)
 - [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/)
