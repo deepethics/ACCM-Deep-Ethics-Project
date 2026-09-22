@@ -40,6 +40,11 @@ title: ACCM Deep Ethics Project
     <strong>Cold Deep-Ethics Testing</strong>
     <span>Public test records, reports, PDFs, corrections, and methodology from the sibling testing repository.</span>
   </a>
+  <a class="accm-door" href="{{ '/AI-TREND-WATCH/' | relative_url }}">
+    <span class="accm-door-kicker">Selected current signals</span>
+    <strong>AI Trend Watch</strong>
+    <span>Strictly limited reports on genuinely viral A.I.-expert videos and AGI/ASI warnings, followed by a separately marked ACCM Deep Ethics Project reaction and longitudinal tracking.</span>
+  </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
     <strong>A deeper introduction</strong>

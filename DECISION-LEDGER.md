@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-22 — Create `/AI-TREND-WATCH/` as a limited, automation-ready public section
+
+**Request:** Prepare a GitHub section focused only on the latest genuinely viral videos in which top A.I. experts discuss current developments and AGI/ASI warnings. Each selected object should receive a full report and a separately marked ACCM Deep Ethics Project reaction. Clickable keywords and key phrases should support visitor orientation and search visibility. Volume and frequency must remain limited.
+
+**Change:** Created the AI Trend Watch entrance, public selection methodology, reusable report template, and empty published-report archive. Added strict hard gates, a provisional 24-point candidate score, contextual virality evidence, a default ceiling of one major report per week and preferably one or two per month, two-layer report separation, longitudinal warning statuses, canonical concept-linking rules, and an automation pipeline with human review before publication. Added Trend Watch to the homepage, primary navigation, All Pages index, and Project Status.
+
+**Boundary:** No video has been selected merely to populate the new section. Virality, expert status, agreement, controversy, and algorithmic popularity do not independently qualify a candidate. Automation may discover, transcribe, score, compare, source-check, link, and draft; publication remains approval-gated.
+
+**Status:** Public scaffold ready; first report not yet selected; methodology experimental and corrigible.
+
 ## 2026-09-22 — Add the founder’s “one person, many giants” statement to the biography
 
 **Request:** Append John’s statement about the apparent impossibility of one person producing the project’s depth, preserving his words and voice while correcting spelling and grammar. Include the accompanying explanation of intellectual ancestry, synthesis, human–A.I. collaboration, and identity-free portability.

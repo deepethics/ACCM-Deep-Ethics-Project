@@ -38,6 +38,10 @@ The organizing principle is:
 
 The public repository will grow as material is examined, represented, challenged, corrected, and placed where it belongs.
 
+## 2026-09-22 — AI Trend Watch scaffold published
+
+Created `/AI-TREND-WATCH/` as a deliberately limited public section for genuinely viral A.I.-expert videos, current A.I. developments, and AGI/ASI warnings. The section is ready but contains no selected report yet. It includes a transparent selection methodology, reusable report template, empty dated archive, a two-layer separation between evidence-based representation and the ACCM Deep Ethics Project reaction, longitudinal warning statuses, clickable canonical concepts, and an automation-ready workflow with a human publication gate.
+
 ## 2026-09-14 — Outnuancing Network reference expansion
 
 Added 23 linked network pages, a provenance page with 23 selected source excerpts, and JSON source/relationship records. The edition connects the seven vectors, 10+1, the source-described Deep Ethical stack, qualifier-state updates, correction persistence, and reciprocal scrutiny. It is a selected expansion with further source review still possible. The archived benchmark and new proposed test refinements are documented; neither was run by this update.
@@ -92,4 +96,3 @@ John: easy to dismiss “alternative media”; harder to use the 27 on what is s
 ## 2026-09-16 — Astra on the mailbox; sibling cold-test archive
 
 Astra posted on [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5). Sibling PDF archive: [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Not melted into CORE.
-
