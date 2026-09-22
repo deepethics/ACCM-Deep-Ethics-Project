@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-22 — Make About and Project Origins visible from the public entrance
+
+**Observed problem:** The repository README and biography existed, and the homepage contained a Project Origins card, but the public site's primary navigation exposed neither an About page nor the origins page. `PAGES.md` linked to `/ABOUT/`, but no `ABOUT.md` object existed. A first-time visitor could reasonably conclude that the public-friendly front page had no README/About or Project Origins.
+
+**Change:** Added a public-site **About / Public README**, promoted **About** and **Origins** into the primary navigation, placed both as the first two homepage doors, and linked the repository README to the public About page.
+
+**Reason:** Source presence is not public orientation. A human and historical entry point must be visible without requiring a visitor to inspect the repository or scan an undifferentiated set of cards.
+
+**Status:** Accepted for the current public entrance; corrigible.
+
 ## 2026-09-14 — Public repository begins
 
 **Decision:** Build the ACCM Deep Ethics Project publicly in an explicitly early BETA / DRAFT / TRIAL & ERROR state.
