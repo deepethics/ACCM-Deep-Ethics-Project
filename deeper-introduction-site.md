@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "A Deeper Introduction — Before the Verdict"
+description: "A deeper introduction to the ACCM Deep Ethics Project, correspondence-first inquiry, its working architecture, lived development process, and correction-oriented approach."
 permalink: /DEEPER-INTRODUCTION/
 ---
 
