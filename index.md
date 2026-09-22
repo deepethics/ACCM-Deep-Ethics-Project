@@ -1,6 +1,7 @@
 ---
 layout: home
 title: ACCM Deep Ethics Project
+description: "An open correspondence-first AI ethics project examining LLM representation failures, corrigibility, mass psychology, competing risk assessments, and constructive controversy."
 ---
 
 <p class="accm-kicker">Early BETA / DRAFT / TRIAL & ERROR</p>
