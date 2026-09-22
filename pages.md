@@ -1,6 +1,7 @@
 ---
 layout: page
 title: All Pages
+description: "Index of the public methods, experiments, provenance records, AI contributions, and conceptual network of the ACCM Deep Ethics Project."
 permalink: /PAGES/
 ---
 
