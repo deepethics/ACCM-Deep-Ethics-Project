@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-22 — Expand the MAD page from recursive-data degradation to the human–synthetic correspondence loop
+
+**Request:** Use the current discussion and the older “sledgehammer to crack a nut” archive to deepen the [Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) page without collapsing the established science into the project extension.
+
+**Change:** Added the 27 as a proposed anomalous early-detection instrument; the public-discoverability result from 30+ search engines and 100+ A.I.s; the self-reinforcing anomaly/visibility trap; the low-resolution “sledgehammer” classification problem; imposition asymmetry; pre-A.I. mass-psychology antecedents; the human–synthetic correspondence loop; John’s conditional civilizational-cycle formulation; a prospective pre-/post-vindication LLM study; five additional test axes; and a dual-track efficiency-versus-fidelity experiment using `∞` and `ʘ`.
+
+**Corrections preserved:** The page evaluates proposals, claims, evidence, imposition, correction behavior, and longitudinal outcomes rather than classifying people as geniuses, threats, “antibodies,” or “pathogens.” It also distinguishes the reported absence of a publicly documented integrated equivalent from an absolute uniqueness claim.
+
+**Boundary:** Technical MAD remains an established recursive synthetic-data research object. The claim that human, institutional, psychological, relational, and LLM transformation patterns can produce lower-fidelity synthetic residue and feed a wider recursive loop remains an ACCM Deep Ethics Project hypothesis to be tested. Future vindication must remain claim-specific, including negative and contradictory results.
+
+**Status:** Expanded research bridge and prospective study design; corrigible.
+
 ## 2026-09-22 — Publish the [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) science bridge and make every public [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) reference navigable
 
 **Request:** Add the scientific data behind **Model Autophagy Disorder ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant))** with clickable primary-research links; make every public use of [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) lead to the section explaining its relevance; preserve the value of both the established science and the deeper ACCM Deep Ethics Project extension.
