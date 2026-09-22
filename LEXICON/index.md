@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lexicon / Legend
+description: "Definitions, status labels, and connected reference paths for the ACCM Deep Ethics Project's current, experimental, historical, and attributed terminology."
 permalink: /LEXICON/
 ---
 
