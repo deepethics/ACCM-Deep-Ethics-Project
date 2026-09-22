@@ -6,9 +6,9 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 ## 2026-09-22 — Make About and Project Origins visible from the public entrance
 
-**Observed problem:** The repository README and biography existed, and the homepage contained a Project Origins card, but the public site's primary navigation exposed neither an About page nor the origins page. `PAGES.md` linked to `/ABOUT/`, but no `ABOUT.md` object existed. A first-time visitor could reasonably conclude that the public-friendly front page had no README/About or Project Origins.
+**Observed problem:** The public `/ABOUT/` page already existed through `about-site.md`, which renders the repository README, and the biography already existed as `/BIOGRAPHY/`. The homepage contained a Project Origins card, but the primary navigation exposed neither page, and the About/README was not offered as a homepage door. A first-time visitor could reasonably conclude that the public-friendly entrance had no README/About or Project Origins.
 
-**Change:** Added a public-site **About / Public README**, promoted **About** and **Origins** into the primary navigation, placed both as the first two homepage doors, and linked the repository README to the public About page.
+**Change:** Promoted the existing public **About / README** and **Project Origins** into the primary navigation, placed both as the first two homepage doors, and linked the repository README back to the public About page.
 
 **Reason:** Source presence is not public orientation. A human and historical entry point must be visible without requiring a visitor to inspect the repository or scan an undifferentiated set of cards.
 
