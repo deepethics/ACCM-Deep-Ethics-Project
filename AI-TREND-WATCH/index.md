@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "AI Trend Watch — Viral Expert Reports and ACCM Deep Ethics Project Reactions"
+description: "Selected reports on viral AI-expert videos and AGI/ASI warnings, followed by separately marked ACCM Deep Ethics Project analysis and longitudinal tracking."
 permalink: /AI-TREND-WATCH/
 ---
 
