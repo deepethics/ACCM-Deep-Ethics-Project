@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-22 — Add the founder’s “one person, many giants” statement to the biography
+
+**Request:** Append John’s statement about the apparent impossibility of one person producing the project’s depth, preserving his words and voice while correcting spelling and grammar. Include the accompanying explanation of intellectual ancestry, synthesis, human–A.I. collaboration, and identity-free portability.
+
+**Change:** Added a final biography section containing John’s corrected verbatim statement, five interacting authorship layers, the project’s authorship ecology, the identity-free public invitation, and the formulation that other people challenging, adapting, or outperforming the tools makes the project more intelligent rather than creating hostile competition.
+
+**Boundary:** The section distinguishes a singular convergence point from a solitary source. It neither erases John’s distinctive synthesis nor claims exclusive ownership of every component. Biography remains provenance and conditions; the portable methods remain independently testable.
+
+**Status:** Published biography extension; corrigible.
+
 ## 2026-09-22 — Expand the MAD page from recursive-data degradation to the human–synthetic correspondence loop
 
 **Request:** Use the current discussion and the older “sledgehammer to crack a nut” archive to deepen the [Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) page without collapsing the established science into the project extension.
