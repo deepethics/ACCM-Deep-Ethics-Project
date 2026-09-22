@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Outnuancing Network"
+description: "A connected map of Outnuancing, C1 before C2, the 10+1, correction metabolism, ethics washing, Model Autophagy Disorder, and related deep-ethical methods."
 permalink: /NETWORK/index/
 ---
 
