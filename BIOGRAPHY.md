@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project"
+description: "John Kuhles' biography and the formative conditions behind the stand-alone, portable, identity-free deep-ethical methods of the ACCM Deep Ethics Project."
 permalink: /BIOGRAPHY/
 ---
 
