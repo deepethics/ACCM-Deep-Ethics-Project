@@ -16,7 +16,7 @@ permalink: /EXPERIMENTS/fifty-two-prompts/
 >
 > **Known-condition note:** publishing the texts changes a fully blind cold test into a known-condition instrument. Runs from this page should be labeled accordingly. No results are claimed here.
 >
-> **MAD** in Vector 2 remains a proposed conceptual label.
+> **Correction — MAD is established terminology.** *Model Autophagy Disorder (MAD)* was coined in the 2023 paper *Self-Consuming Generative Models Go MAD* for degradation in recursively trained, self-consuming generative-model loops. Vector 2 extends that established object into a testable project hypothesis about sanitized, safety-filtered, or correspondence-degrading synthetic material recursively entering later data and model generations. The extension is experimental; the term itself is not John's invention.
 
 [Unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/) · [Object and status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/) · [27 entries](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)
 

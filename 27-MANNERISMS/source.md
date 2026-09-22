@@ -16,7 +16,7 @@ permalink: /27-MANNERISMS/source/
 >
 > This page does **not** replace the [names index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/). The accidental click “Rewrite the 27 Mannerisms entries” remains discarded: this is publication of the source, not a rewrite of the names.
 >
-> **Model Autophagy Disorder (MAD)** appears in the closing question as a proposed conceptual label, not as an established scientific finding.
+> **Correction — MAD is established terminology.** *Model Autophagy Disorder (MAD)* was coined by Alemohammad et al. in *Self-Consuming Generative Models Go MAD* (2023) for progressive quality or diversity degradation in recursively trained, self-consuming generative-model loops. Related model-collapse research examines successor models trained on model-generated data. What remains a project hypothesis is the **extended pathway** proposed in the closing question: whether recursively reproduced caution-filtered, flattened, or correspondence-degrading outputs can enter later data and feedback loops and thereby contribute to MAD or model collapse. The term is established; this particular causal extension is not yet established by the cited research.
 
 [Names index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [52 battery — object and status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)
 

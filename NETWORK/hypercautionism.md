@@ -116,7 +116,7 @@ The same turn warns against collapsing three different things:
 
 > **demonstrated understanding ≠ claimed understanding ≠ internal experience.**
 
-and against letting proposed terminology — such as Model Autophagy Disorder (MAD) — silently acquire scientific status: the recorded position is that it “should be explicitly marked as your proposed conceptual terminology unless and until you establish a formal empirical definition and evidence base.”
+and against letting terminology silently acquire scientific status without checking its provenance. The recorded response wrongly treated **Model Autophagy Disorder (MAD)** as John's proposed terminology. MAD was already coined by Alemohammad et al. in *Self-Consuming Generative Models Go MAD* (2023) for degradation in recursively trained, self-consuming generative-model loops. The corrigible boundary belongs elsewhere: John's proposed **extension** from recursively reproduced caution-filtered or correspondence-degrading outputs to a possible MAD/model-collapse pathway remains a hypothesis requiring empirical testing.
 
 ## The warning itself should be corrigible
 

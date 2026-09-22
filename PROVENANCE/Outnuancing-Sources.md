@@ -507,6 +507,8 @@ No source file is republished wholesale. No numerical architectures are merged. 
 > Keeping those three separate would strengthen the project.
 > 
 > Likewise, concepts such as “Model Autophagy Disorder (MAD)” should be explicitly marked as your proposed conceptual terminology unless and until you establish a formal empirical definition and evidence base. The underlying phenomenon you are pointing toward may be worth investigating, but the terminology should not accidentally imply established scientific status.
+
+**Editorial correction (2026-09-22):** The quoted A.I. response above made a factual attribution error. **Model Autophagy Disorder (MAD)** was already established as terminology by Alemohammad et al., *Self-Consuming Generative Models Go MAD* (2023), for progressive degradation in recursively trained, self-consuming generative-model loops. John did not coin the term. The distinct open claim is his proposed extension: whether recursively reproduced safety-filtered, flattened, or correspondence-degrading outputs can feed later training and cultural loops and contribute to MAD or model collapse. The original response remains visible as provenance; the correction does not silently rewrite it.
 > 
 > The deepest common thread I see across everything you wrote is therefore not actually “ethics.”
 > 
