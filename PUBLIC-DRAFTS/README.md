@@ -16,6 +16,7 @@ A public draft remains downstream of its source. It does not retroactively redef
 
 ## Current public drafts
 
+- [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — public draft of the 44-goal work map, the ten operational navigation goals (not the 10+1), and two organizational lenses. John will update it. The draft process is visible on purpose.
 - [Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/) — an early public version of the process-oriented P01–P12 object, including its connection to better questions and correction metabolism.
 
 > **Professional presentation without professionalized flattening.**

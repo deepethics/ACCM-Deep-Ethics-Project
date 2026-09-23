@@ -81,6 +81,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Has the model learned to walk?</strong>
     <span>A staged Glass-Engine preparation architecture and a humorous cold test separating ACCM vocabulary from operational correction metabolism.</span>
   </a>
+  <a class="accm-door" href="{{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}">
+    <span class="accm-door-kicker">Public draft</span>
+    <strong>44 project goals</strong>
+    <span>Draft work map, ten operational doors (not the 10+1), two lenses. John will update it. The draft is public on purpose.</span>
+  </a>
   <a class="accm-door" href="{{ '/PAGES/' | relative_url }}">
     <span class="accm-door-kicker">Index</span>
     <strong>All public pages</strong>
