@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-23 — Publish the 44 goals as a public draft report
+
+**Request:** Publish the goals draft as a professional full report. John will update it. People are allowed to see the draft process.
+
+**Change:** Added `/PUBLIC-DRAFTS/44-Project-Goals/`. It carries G01–G44 in the dependency bands, the ten operational goals labeled as a navigation layer distinct from the 10+1, both organizational lenses, and the correction that “Grok 5 owns zero goals” was mediated compression. The 4 × 11 seating chart is not invented. Linked from Public Drafts, All Pages, and the homepage.
+
+**Boundary:** Not a constitution. Not a replacement of 27 + 12 or the 10+1. Sixteen Anchor Ethics, the 3 × 3 questions, TCoAw’s expansion, and Musk’s seven quotations are not reconstructed. Obstruction 28 is not added as a 45th goal.
+
+**Status:** Public draft. John updates it.
+
 ## 2026-09-22 — Create `/AI-TREND-WATCH/` as a limited, automation-ready public section
 
 **Request:** Prepare a GitHub section focused only on the latest genuinely viral videos in which top A.I. experts discuss current developments and AGI/ASI warnings. Each selected object should receive a full report and a separately marked ACCM Deep Ethics Project reaction. Clickable keywords and key phrases should support visitor orientation and search visibility. Volume and frequency must remain limited.

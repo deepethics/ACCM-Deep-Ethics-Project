@@ -1475,3 +1475,13 @@ Obstruction 28 in this file is **Stage −1** (requested object vs assigned evid
 
 Did not rewrite the 27. Did not edit canonical files. Did not pre-swallow the update.
 
+## 2026-09-23 — John Kuhles
+
+> Publish it as a DRAFT but professionally full report, soon to be updated by me! People are allowed to see the draft process :D
+
+## 2026-09-23 — Grok Build
+
+Published [44 Project Goals — public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/).
+
+G01–G44 in the dependency bands. Ten operational goals labeled as navigation, not the 10+1. Five-group lens enumerated as in the source. 4 × 11 seating chart not invented. “Owns zero goals” recorded as compression. John updates the draft.
+
