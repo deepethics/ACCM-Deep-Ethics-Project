@@ -12,5 +12,6 @@ AI systems are also legitimate objects of the same correspondence audit applied 
 
 ## Current contributions
 
+- [Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) and its [deeper T0 → Tn report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/) — attributed human and multi-A.I. material on emerging potential, premature closure, developmental relationships, research footholds, and correction of the evaluative process. **BETA; derived multi-voice work, not canon.**
 - [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) — staged local-A.I. preparation architecture, transformation records, a cold test distinguishing terminology from procedure, and a role for the interactive 3D matrix. **BETA; not canon.**
 - [Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) — fuses explanatory productivity with admission and process integrity; profiles whether questions expand, differentiate, unify, test, and redirect an object without collapsing everything into agreement, a winner, or one score. **BETA; not canon.**

@@ -379,3 +379,17 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Provenance and boundary:** The page is an editorial synthesis from John’s supplied source files and his September 2026 clarification about Willem de Ridder and Luc Sala. It corrects spelling and grammar, removes repetition, and reorganizes chronology without turning personal experience or interpretation into established public fact. It preserves **ACCM Deep Ethics Project** as the canonical title. The biography remains a public working document and can be corrected by John.
 
 **Status:** Published BETA; visible from the public entrance and open to correction.
+
+## 2026-09-23 — Publish emerging-human-potential quotations and a deeper T0 → Tn report
+
+**Object (John’s direction):** read the full non-truncated `POTENTIAL to find a new Nikola Tesla(2).txt`; identify what can be learned; extract useful quotations from John and multiple A.I.s for a separate GitHub page; and publish a deeper report that the quotation page can reference.
+
+**Change:** Published [Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) and [Emerging Human Potential, Premature Closure, and the T0 → Tn Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/). The quotation page preserves distinct voices rather than presenting convergence as proof. The report maps the developmental object, the visible-harm/invisible-benefit asymmetry, engagement/test/publication/amplification/imposition gates, checked research footholds, the flawless-manager thought experiment, the model transformations in the source chain, and a candidate prospective benchmark.
+
+**Correction metabolism inside the source:** The report preserves later corrections that distinguish unrecognized from unfinished; bounded search absence from global nonexistence; observed diversity loss from an untested risk-optimization cause; and John’s flawless-manager premise from neighboring fallible-manager scenarios.
+
+**Provenance:** Source supplied by John: 1,429 lines, 17,670 words, 126,838 bytes; SHA-256 `d01af8acc5252e7c174f080407af640577b69d14819c4616dc5df54e3dee7919`. Quotations retain the speaker labels in the supplied file. Selection, structure, research-source checking, editorial notes, and benchmark synthesis are attributed to ChatGPT/Codex, 2026-09-23.
+
+**Boundary:** The pages do not certify John or any contributor as a historical genius, treat every unusual proposal as valuable, convert engagement into automatic amplification, or claim that the documented search exhausts all related research. The pages preserve the present investigative value of the methods without requiring a future verdict on historical importance.
+
+**Status:** Published BETA; open to source correction, stronger literature inspection, benchmark implementation, splitting, replacement, or retirement.

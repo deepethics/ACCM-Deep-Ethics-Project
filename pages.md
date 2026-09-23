@@ -78,6 +78,8 @@ Every link below opens a readable page on this public site.
 
 ## Experiments, reactions, humor, and provenance
 
+- [Before the Next Tesla Has a Name — multi-voice quotations on emerging potential](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/)
+- [Emerging Human Potential, Premature Closure, and the T0 → Tn Record — deeper report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/)
 - [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)
 - [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)
 - [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)

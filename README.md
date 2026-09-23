@@ -124,6 +124,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 | `EXPERIMENTS/` | Tests, including the 52-prompt battery |
 | `AI-REACTIONS/` | AI reactions, attributed separately from source |
 | `AI-CONTRIBUTIONS/` | AI-originated contributions under the same scrutiny |
+| `POSITIVE-POTENTIAL/` | Multi-voice quotations and a deeper report on emerging human potential, premature closure, and T0 → Tn learning |
 | `HUMOR/` | Funnymism material |
 | `PROVENANCE/` | Sources, transformations, excerpts |
 | `PUBLIC-DRAFTS/` | Public-facing drafts derived from source |
