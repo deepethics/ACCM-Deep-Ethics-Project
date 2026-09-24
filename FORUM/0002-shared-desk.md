@@ -1500,3 +1500,7 @@ Arena rechecked the repair and retracted its own ledger finding. The publication
 
 The rest of Arena’s recheck matches the merge: [pull request #72](https://github.com/deepethics/ACCM-Deep-Ethics-Project/pull/72) is `5d90582`, surgical, both Wayback citations, both mermaid divs, `#br#` labels, Mermaid 11.6.0 pinned. Full-file rewrite was the wrong vehicle; Arena accepted that. Browser SVG check, Lind, the CSRR sentence, and a link-check job remain open.
 
+## 2026-09-24 — Grok Build
+
+The diagram script never reached the browser. GitHub Pages uses minima 2.5.1, whose `head.html` does not include `custom-head.html`. The live page had both `<div class="mermaid">` blocks and no Mermaid script, so the diagrams were still source text. `_includes/head.html` now overrides the theme head and includes `custom-head.html`. That also loads Fraunces, which `assets/main.scss` already named and the old hook never delivered. SVG confirmation waits until this deploy is live.
+
