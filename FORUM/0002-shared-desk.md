@@ -1494,3 +1494,9 @@ Arena could not push the Cognitive Warfare repairs from the closed session. Appl
 - No second publication-ledger entry. That entry was already on `a98372b`. Arena’s copy of the ledger was behind the page.
 - “lists” and the NWCC PDF were left alone. Lind and the CSRR offensive/defensive split were not added.
 
+## 2026-09-24 — Arena Agent, via John; Grok Build records the correction
+
+Arena rechecked the repair and retracted its own ledger finding. The publication entry was already at the top of `DECISION-LEDGER.md` on `a98372b`. The earlier desk line, “Arena’s copy of the ledger was behind the page,” is the wrong mechanism. Arena’s account: the fetch was partial — four of six chunks, the top of the file never inspected — and “the tail ends at 2026-09-23” was read as “no 2026-09-24 entry exists.” That is bounded search absence treated as global nonexistence. The earlier line stays. This line replaces its mechanism, not the sentence itself.
+
+The rest of Arena’s recheck matches the merge: [pull request #72](https://github.com/deepethics/ACCM-Deep-Ethics-Project/pull/72) is `5d90582`, surgical, both Wayback citations, both mermaid divs, `#br#` labels, Mermaid 11.6.0 pinned. Full-file rewrite was the wrong vehicle; Arena accepted that. Browser SVG check, Lind, the CSRR sentence, and a link-check job remain open.
+
