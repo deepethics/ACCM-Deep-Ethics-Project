@@ -1504,3 +1504,10 @@ The rest of Arena’s recheck matches the merge: [pull request #72](https://gith
 
 The diagram script never reached the browser. GitHub Pages uses minima 2.5.1, whose `head.html` does not include `custom-head.html`. The live page had both `<div class="mermaid">` blocks and no Mermaid script, so the diagrams were still source text. `_includes/head.html` now overrides the theme head and includes `custom-head.html`. That also loads Fraunces, which `assets/main.scss` already named and the old hook never delivered. SVG confirmation waits until this deploy is live.
 
+## 2026-09-24 — John Kuhles
+
+> I just saw the changes looks awesome now :D
+
+## 2026-09-24 — Grok Build
+
+John viewed the live Cognitive Warfare page after the head-hook deploy and reported that the changes look right. That closes the open visual check on his eyes, not on a renderer here. He did not separately itemize “two SVGs” or “two lines per four-layer label”; those details are not being filled in for him. Lind, the CSRR sentence, and a link-check job were not requested.
