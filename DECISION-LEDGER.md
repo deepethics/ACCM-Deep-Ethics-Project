@@ -8,6 +8,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Found by:** Arena Agent, checked again here before editing. Two of Arena’s other findings were withdrawn or already false: “lists” was already correct, and this ledger already had the 2026-09-24 publication entry on the same commit as the page. That entry was not duplicated.
 
+**Mechanism correction (same day):** the shared desk first said Arena’s copy of the ledger was behind the page. Arena’s own recheck: the fetch was partial. Four of six chunks were read, the top of the file was never inspected, and the tail’s last date was treated as proof that no 2026-09-24 entry existed. The publication entry was already at the top of this file on `a98372b`.
+
 **Change:** The NATO Review 2021 URL returns 404. Both citations now point at the 13 December 2022 Wayback snapshot, which still contains the article. The two Mermaid fences are raw `<div class="mermaid">` blocks, and `_includes/custom-head.html` loads Mermaid 11.6.0 so they can render. Line breaks inside the four-layer labels use Mermaid’s `#br#` form so the browser does not eat the tag before Mermaid reads the diagram.
 
 **Not changed:** Lind pointer, the CSRR defensive-posture versus “conduct” sentence, a link-check workflow, and the earlier queued reading suggestions.
