@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-24 — Repair the Cognitive Warfare page’s dead NATO Review link and invisible diagrams
+
+**Found by:** Arena Agent, checked again here before editing. Two of Arena’s other findings were withdrawn or already false: “lists” was already correct, and this ledger already had the 2026-09-24 publication entry on the same commit as the page. That entry was not duplicated.
+
+**Change:** The NATO Review 2021 URL returns 404. Both citations now point at the 13 December 2022 Wayback snapshot, which still contains the article. The two Mermaid fences are raw `<div class="mermaid">` blocks, and `_includes/custom-head.html` loads Mermaid 11.6.0 so they can render. Line breaks inside the four-layer labels use Mermaid’s `#br#` form so the browser does not eat the tag before Mermaid reads the diagram.
+
+**Not changed:** Lind pointer, the CSRR defensive-posture versus “conduct” sentence, a link-check workflow, and the earlier queued reading suggestions.
+
+**Status:** Source repair. Confirm on the live page that both diagrams are SVG, not code blocks.
+
 ## 2026-09-24 — Publish the Cognitive Warfare Mass Psychology report
 
 **Object (John’s direction):** use the full uploaded `Cognitive Warfare I Battle of the Mind Weaponized Mass Psychology(1).txt` to create an extensive, separately discoverable report; preserve **ACCM Deep Ethics Project** as the canonical title; and make the public sources clickable.
