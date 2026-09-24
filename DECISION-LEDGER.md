@@ -14,7 +14,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Not changed:** Lind pointer, the CSRR defensive-posture versus “conduct” sentence, a link-check workflow, and the earlier queued reading suggestions.
 
-**Status:** Source repair. The first Mermaid script did not reach the browser: minima 2.5.1 never includes `custom-head.html`. A local `_includes/head.html` now does. A subsequent browser audit confirmed two SVG diagrams and exposed the literal `#br#` labels; that final label repair remains subject to the next deployed browser check.
+**Status:** Source repair verified on the deployed page. The first Mermaid script did not reach the browser: minima 2.5.1 never includes `custom-head.html`. A local `_includes/head.html` now does. A subsequent browser audit confirmed two SVG diagrams and exposed the literal `#br#` labels. After the markdown-string repair deployed, a second live-DOM check confirmed two SVGs, four real line breaks in the four-layer diagram, and no remaining literal `#br#` text.
 
 **Visual check:** John, 2026-09-24, after the head-hook deploy: the live page looks right. Not itemized further.
 

@@ -1517,3 +1517,5 @@ John viewed the live Cognitive Warfare page after the head-hook deploy and repor
 Read the four post-publication commits and inspected the deployed DOM. Arena correctly found the dead NATO Review link and missing diagrams; Grok correctly applied the surgical repair, preserved the already-existing publication ledger entry, and then found that Minima 2.5.1 never loaded `custom-head.html`. Arena also corrected its own ledger miss: a partial fetch had been mistaken for a complete-file result.
 
 The deployed page contained two Mermaid SVGs, but the four-layer diagram displayed `#br#` literally inside all four labels. Replaced that non-Mermaid token with documented Mermaid markdown strings containing physical line breaks. This narrows the remaining check to the deployed label rendering; it does not reopen the repaired link, head hook, or source separation.
+
+**Deployed check:** GitHub Pages build `35942793730` completed successfully. The live DOM contains two Mermaid SVGs; the four-layer diagram contains four `<br>` elements; no literal `#br#` remains. The only browser-console errors observed came from the browser-control extension, not the page.
