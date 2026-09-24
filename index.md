@@ -46,6 +46,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>AI Trend Watch</strong>
     <span>Strictly limited reports on genuinely viral A.I.-expert videos and AGI/ASI warnings, followed by a separately marked ACCM Deep Ethics Project reaction and longitudinal tracking.</span>
   </a>
+  <a class="accm-door" href="{{ '/COGNITIVE-WARFARE/' | relative_url }}">
+    <span class="accm-door-kicker">Mass psychology and A.I.</span>
+    <strong>Cognitive Warfare Mass Psychology</strong>
+    <span>An extensive, source-status-preserving report on cognition as operational terrain, classification power, the 27 + 12 at population scale, and an auditable deep-ethical cognitive defence.</span>
+  </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
     <strong>A deeper introduction</strong>

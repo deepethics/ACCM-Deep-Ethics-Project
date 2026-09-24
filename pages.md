@@ -19,6 +19,7 @@ Every link below opens a readable page on this public site.
 - [AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)
 - [AI Trend Watch — Reusable Report Template](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/)
 - [AI Trend Watch — Published Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/)
+- [Cognitive Warfare Mass Psychology — extensive report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
 - [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)
 - [Forum — Public Deliberation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)
 - [Forum 0002 — The shared desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)

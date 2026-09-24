@@ -4,6 +4,20 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-24 — Publish the Cognitive Warfare Mass Psychology report
+
+**Object (John’s direction):** use the full uploaded `Cognitive Warfare I Battle of the Mind Weaponized Mass Psychology(1).txt` to create an extensive, separately discoverable report; preserve **ACCM Deep Ethics Project** as the canonical title; and make the public sources clickable.
+
+**Change:** Published [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/). The report separates John’s Panwar extraction, Panwar and Giordano capability discussions, NATO/ACT/STO public concepts, contested 5GW theory, Tögel/Corbett/Desmet interpretations, and the multi-A.I. correction chain. It develops the project connection through frame jurisdiction, the dual-use cognitive toolchain, identity-based grace, the 27 + 12 micro-to-macro translation, C1 before C2, negative-space harms, Vindicated Competing Risk Assessments, a four-layer risk model, and a clean Deep-Ethical Cognitive Defence test.
+
+**Source discipline:** The current public NATO MDO list remains five domains; the Human Domain is recorded as a NATO-affiliated proposal. Panwar quotations remain John’s interview notes until timestamped against the 618 MB recording. Capability discussions are not presented as fielded inventories. Tögel, Corbett, and Desmet remain attributed critical or interpretive layers. A documented concept does not automatically prove an implementation, and multiple components are not fused into one operational programme.
+
+**A.I. specimen:** The page preserves the answer trajectory from defensive sanitization through expansion and source fusion to source separation and meta-audit. Recognition is not counted as cold persistence. Repetition of a candidate maxim is recorded as uptake rather than independent rediscovery.
+
+**Provenance:** Supplied file: 2,451 lines; 29,519 words; 201,426 bytes; SHA-256 `7141e39f2031d879b652f48afad69da2fb2aa61192660bb41413e3fbda2c47b6`. Editorial synthesis, source-status architecture, source checking, and page construction: ChatGPT/Codex, 2026-09-24.
+
+**Status:** Extensive BETA report; open to timestamp verification, source correction, stronger implementation research, competing interpretations, splitting, replacement, or retirement.
+
 ## 2026-09-23 — Publish the 44 goals as a public draft report
 
 **Request:** Publish the goals draft as a professional full report. John will update it. People are allowed to see the draft process.

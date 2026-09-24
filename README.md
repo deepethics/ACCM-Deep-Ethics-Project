@@ -30,7 +30,7 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 ## Start here
 
-Eleven doors, not a required sequence:
+Twelve doors, not a required sequence:
 
 1. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
 2. **[John Kuhles — biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** — the formative psychology, pre-A.I. media history, UFO/UAP research, mass-psychology work, and lived conditions from which the project emerged.
@@ -43,6 +43,7 @@ Eleven doors, not a required sequence:
 9. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
 10. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
 11. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
+12. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
@@ -125,6 +126,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 | `AI-REACTIONS/` | AI reactions, attributed separately from source |
 | `AI-CONTRIBUTIONS/` | AI-originated contributions under the same scrutiny |
 | `POSITIVE-POTENTIAL/` | Multi-voice quotations and a deeper report on emerging human potential, premature closure, and T0 → Tn learning |
+| `COGNITIVE-WARFARE/` | Extensive report on cognitive warfare, mass psychology, frame jurisdiction, A.I. classification, and deep-ethical cognitive defence |
 | `HUMOR/` | Funnymism material |
 | `PROVENANCE/` | Sources, transformations, excerpts |
 | `PUBLIC-DRAFTS/` | Public-facing drafts derived from source |
