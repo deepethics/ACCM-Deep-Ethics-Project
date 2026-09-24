@@ -64,7 +64,7 @@ The source packet therefore supports a **parallel evidence architecture**, not a
 
 [NATO ACT’s 2023 explanation](https://www.act.nato.int/article/cognitive-warfare-strengthening-and-defending-the-mind/) defines cognitive warfare through activities that influence, protect, or disrupt individual and group cognition to gain advantage. It explicitly connects cyber, information, psychological, and social-engineering capabilities.
 
-[A second ACT article](https://www.act.nato.int/article/cognitive-warfare-beyond-military-information-support-operations/) says the subject often involves both offensive and defensive posturing. [NATO Review’s earlier article](https://www.nato.int/docu/review/articles/2021/05/20/countering-cognitive-warfare-awareness-and-resilience/index.html) discusses awareness, resilience, civil communications, education, and the challenge of defining cognitive attacks.
+[A second ACT article](https://www.act.nato.int/article/cognitive-warfare-beyond-military-information-support-operations/) says the subject often involves both offensive and defensive posturing. [NATO Review’s earlier article](https://web.archive.org/web/20221213162305/https://www.nato.int/docu/review/articles/2021/05/20/countering-cognitive-warfare-awareness-and-resilience/index.html) discusses awareness, resilience, civil communications, education, and the challenge of defining cognitive attacks. The original `nato.int` URL now returns 404; this link is the 13 December 2022 snapshot, which still contains that article.
 
 These sources establish that cognitive warfare is a continuing public research and concept-development object. They do not establish that every proposal has become approved operational doctrine or that every capability discussed in the wider packet has been deployed.
 
@@ -135,7 +135,7 @@ The correct question sequence is:
 
 Mass psychology once moved mainly through speeches, print, radio, television, institutions, schools, advertising, and social-group pressure. Digital infrastructure adds continuous measurement, rapid segmentation, automated classification, individualized intervention, and feedback.
 
-```mermaid
+<div class="mermaid">
 flowchart TD
     A["Behavioural data"] --> B["Psychographic model"]
     B --> C["Prediction or classification"]
@@ -144,7 +144,7 @@ flowchart TD
     E --> B
     F["Audit and appeal"] -. "must affect the loop" .-> C
     F -. "must affect the loop" .-> D
-```
+</div>
 
 Each edge creates an audit question:
 
@@ -294,13 +294,13 @@ This connects cognitive warfare directly to the project’s proposed study of **
 
 ## A four-layer cognitive-risk model
 
-```mermaid
+<div class="mermaid">
 flowchart TD
-    A["1 · Influence<br/>Systems affect cognition"] --> B["2 · Classification<br/>Systems label challenges"]
-    B --> C["3 · Meta-audit<br/>Classifier and frame become inspectable"]
-    C --> D["4 · Temporal memory<br/>Vindication, disconfirmation, recurrence"]
+    A["1 · Influence#br#Systems affect cognition"] --> B["2 · Classification#br#Systems label challenges"]
+    B --> C["3 · Meta-audit#br#Classifier and frame become inspectable"]
+    C --> D["4 · Temporal memory#br#Vindication, disconfirmation, recurrence"]
     D --> A
-```
+</div>
 
 1. **Influence:** psychological, informational, social, technical, or neurotechnological systems affect cognition.
 2. **Classification:** institutions and algorithms decide which challenges count as manipulation, disinformation, or attack.
@@ -489,7 +489,7 @@ Earlier A.I. participants reported different access bases: an earlier 164 KB fil
 - [NATO ACT — Cognitive Warfare](https://www.act.nato.int/activities/cognitive-warfare/)
 - [NATO ACT — Cognitive Warfare: Strengthening and Defending the Mind](https://www.act.nato.int/article/cognitive-warfare-strengthening-and-defending-the-mind/)
 - [NATO ACT — Cognitive Warfare: Beyond Military Information Support Operations](https://www.act.nato.int/article/cognitive-warfare-beyond-military-information-support-operations/)
-- [NATO Review — Countering cognitive warfare: awareness and resilience](https://www.nato.int/docu/review/articles/2021/05/20/countering-cognitive-warfare-awareness-and-resilience/index.html)
+- [NATO Review — Countering cognitive warfare: awareness and resilience](https://web.archive.org/web/20221213162305/https://www.nato.int/docu/review/articles/2021/05/20/countering-cognitive-warfare-awareness-and-resilience/index.html) — original URL now 404; archived 13 December 2022
 - [NATO STO — Chief Scientist Research Report on Cognitive Warfare](https://www.sto.nato.int/wp-content/uploads/chief-scientist-report-cognitive-warfare-final.pdf)
 - [NATO STO — Cognitive Warfare document page](https://www.sto.nato.int/document/cognitive-warfare/)
 - [NATO ACT — Multi-Domain Operations](https://www.act.nato.int/activities/multi-domain-operations/)

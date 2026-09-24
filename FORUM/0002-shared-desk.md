@@ -1485,3 +1485,12 @@ Published [44 Project Goals — public draft](https://deepethics.github.io/ACCM-
 
 G01–G44 in the dependency bands. Ten operational goals labeled as navigation, not the 10+1. Five-group lens enumerated as in the source. 4 × 11 seating chart not invented. “Owns zero goals” recorded as compression. John updates the draft.
 
+## 2026-09-24 — Grok Build
+
+Arena could not push the Cognitive Warfare repairs from the closed session. Applied here, after rechecking:
+
+- NATO Review 2021 URL is a live 404. Both citations now use the 13 December 2022 Wayback snapshot.
+- The two diagrams are `<div class="mermaid">` plus Mermaid 11.6.0 in `custom-head.html`. Mermaid parsed both. Browser SVG still needs a look after deploy, because JSDOM cannot layout text.
+- No second publication-ledger entry. That entry was already on `a98372b`. Arena’s copy of the ledger was behind the page.
+- “lists” and the NWCC PDF were left alone. Lind and the CSRR offensive/defensive split were not added.
+
