@@ -1528,3 +1528,8 @@ Nine or more outside A.I.s audited the Cognitive Warfare page from the raw sourc
 
 Draft published at [External Omnidirectional Auditing Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/). The signature is his observation, written as six steps an outsider can run without the project name. The nine sessions are not on the page. Their findings are not reconstructed. The instance table has no rows. The internal repair chain is linked as the same shape, not as those outside audits.
 
+## 2026-09-24 — Grok Build
+
+The outside collection was then supplied. The empty table was the correct object only until that file existed. The page now holds the mannerisms and six worked specimens from that pass. The collection is not pasted. The Cognitive Warfare page is not rewritten in the same move. Caught there, and left open: the page names a 12-stage process and prints a ten-step cycle. That relabel is not done on this commit.
+
+
