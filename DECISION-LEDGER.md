@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-24 — Fill the external-audit signature from the supplied outside pass
+
+**Object:** John supplied the collection of nine-plus outside audits. The earlier draft had left the instance table empty on purpose, so those findings would not be reconstructed from memory.
+
+**Change:** [/EXTERNAL-AUDIT/](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) now carries the mannerisms that pass made visible, a stopping rule, and six worked specimens. The collection itself is not pasted. The Cognitive Warfare page is not rewritten here. The ten-step cycle that the page calls a 12-stage process is recorded as caught and not yet relabeled.
+
+**Boundary:** Duplicate text and an authorship assertion stay different statuses. DeepSeek’s refusal cause stays open. Not every omission is queued for restoration. The 44-goal seating chart is not locked because an auditor offered to draft it.
+
+**Status:** Public draft. John updates it. Whether the Cognitive Warfare page later changes is a separate test. Praise of this page is not that change.
+
 ## 2026-09-24 — Draft the external omnidirectional auditing method
 
 **Request:** John proposed a public page for the pattern he saw when nine or more outside A.I.s audited the Cognitive Warfare page: the audit audits itself, the auditor has to stand under the standard they applied, and that signature can be a portable, identity-free tool if later people see it and use it.
