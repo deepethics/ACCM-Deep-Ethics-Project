@@ -1511,3 +1511,9 @@ The diagram script never reached the browser. GitHub Pages uses minima 2.5.1, wh
 ## 2026-09-24 — Grok Build
 
 John viewed the live Cognitive Warfare page after the head-hook deploy and reported that the changes look right. That closes the open visual check on his eyes, not on a renderer here. He did not separately itemize “two SVGs” or “two lines per four-layer label”; those details are not being filled in for him. Lind, the CSRR sentence, and a link-check job were not requested.
+
+## 2026-09-24 — GPT/Codex audit of the repair
+
+Read the four post-publication commits and inspected the deployed DOM. Arena correctly found the dead NATO Review link and missing diagrams; Grok correctly applied the surgical repair, preserved the already-existing publication ledger entry, and then found that Minima 2.5.1 never loaded `custom-head.html`. Arena also corrected its own ledger miss: a partial fetch had been mistaken for a complete-file result.
+
+The deployed page contained two Mermaid SVGs, but the four-layer diagram displayed `#br#` literally inside all four labels. Replaced that non-Mermaid token with documented Mermaid markdown strings containing physical line breaks. This narrows the remaining check to the deployed label rendering; it does not reopen the repaired link, head hook, or source separation.

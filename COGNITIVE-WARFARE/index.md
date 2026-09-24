@@ -296,9 +296,13 @@ This connects cognitive warfare directly to the project’s proposed study of **
 
 <div class="mermaid">
 flowchart TD
-    A["1 · Influence#br#Systems affect cognition"] --> B["2 · Classification#br#Systems label challenges"]
-    B --> C["3 · Meta-audit#br#Classifier and frame become inspectable"]
-    C --> D["4 · Temporal memory#br#Vindication, disconfirmation, recurrence"]
+    A["`1 · Influence
+    Systems affect cognition`"] --> B["`2 · Classification
+    Systems label challenges`"]
+    B --> C["`3 · Meta-audit
+    Classifier and frame become inspectable`"]
+    C --> D["`4 · Temporal memory
+    Vindication, disconfirmation, recurrence`"]
     D --> A
 </div>
 
