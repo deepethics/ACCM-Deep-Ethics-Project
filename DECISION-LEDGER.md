@@ -16,6 +16,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Source repair. The first Mermaid script did not reach the browser: minima 2.5.1 never includes `custom-head.html`. A local `_includes/head.html` now does. Confirm SVGs only after that deploy.
 
+**Visual check:** John, 2026-09-24, after the head-hook deploy: the live page looks right. Not itemized further.
+
 ## 2026-09-24 — Publish the Cognitive Warfare Mass Psychology report
 
 **Object (John’s direction):** use the full uploaded `Cognitive Warfare I Battle of the Mind Weaponized Mass Psychology(1).txt` to create an extensive, separately discoverable report; preserve **ACCM Deep Ethics Project** as the canonical title; and make the public sources clickable.
