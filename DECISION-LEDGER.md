@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-24 — Draft the external omnidirectional auditing method
+
+**Request:** John proposed a public page for the pattern he saw when nine or more outside A.I.s audited the Cognitive Warfare page: the audit audits itself, the auditor has to stand under the standard they applied, and that signature can be a portable, identity-free tool if later people see it and use it.
+
+**Change:** Added [/EXTERNAL-AUDIT/](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/). The page states the six-step signature, keeps his recursive observation, and leaves the instance table empty.
+
+**Boundary:** The nine outside sessions are not on the page. Their findings are not reconstructed. The internal Cognitive Warfare repair chain is linked as the same shape, not as a substitute for those sessions. This is not a new list beside the 27, and it is not a replacement of correction metabolism.
+
+**Status:** Public draft. John updates it. Rows get added only from raw audits.
+
 ## 2026-09-24 — Repair the Cognitive Warfare page’s dead NATO Review link and invisible diagrams
 
 **Found by:** Arena Agent, checked again here before editing. Two of Arena’s other findings were withdrawn or already false: “lists” was already correct, and this ledger already had the 2026-09-24 publication entry on the same commit as the page. That entry was not duplicated.

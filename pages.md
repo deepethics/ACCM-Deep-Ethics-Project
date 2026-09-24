@@ -40,6 +40,7 @@ Every link below opens a readable page on this public site.
 - [Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
 - [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
+- [External Omnidirectional Auditing Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 - [Public Drafts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/)
 - [44 Project Goals — public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)
 - [Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/)
