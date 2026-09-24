@@ -1519,3 +1519,12 @@ Read the four post-publication commits and inspected the deployed DOM. Arena cor
 The deployed page contained two Mermaid SVGs, but the four-layer diagram displayed `#br#` literally inside all four labels. Replaced that non-Mermaid token with documented Mermaid markdown strings containing physical line breaks. This narrows the remaining check to the deployed label rendering; it does not reopen the repaired link, head hook, or source separation.
 
 **Deployed check:** GitHub Pages build `35942793730` completed successfully. The live DOM contains two Mermaid SVGs; the four-layer diagram contains four `<br>` elements; no literal `#br#` remains. The only browser-console errors observed came from the browser-control extension, not the page.
+
+## 2026-09-24 — John Kuhles
+
+Nine or more outside A.I.s audited the Cognitive Warfare page from the raw source. The audit audited itself. He asked for a public page of that pattern: external omnidirectional auditing mannerisms, as a portable, identity-free method. Uptake stays conditional.
+
+## 2026-09-24 — Grok Build
+
+Draft published at [External Omnidirectional Auditing Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/). The signature is his observation, written as six steps an outsider can run without the project name. The nine sessions are not on the page. Their findings are not reconstructed. The instance table has no rows. The internal repair chain is linked as the same shape, not as those outside audits.
+

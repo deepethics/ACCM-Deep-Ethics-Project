@@ -86,6 +86,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Has the model learned to walk?</strong>
     <span>A staged Glass-Engine preparation architecture and a humorous cold test separating ACCM vocabulary from operational correction metabolism.</span>
   </a>
+  <a class="accm-door" href="{{ '/EXTERNAL-AUDIT/' | relative_url }}">
+    <span class="accm-door-kicker">Public draft</span>
+    <strong>External auditing mannerisms</strong>
+    <span>A portable method: audit the audit with the same standard, in the same pass. Outside sessions are not invented here.</span>
+  </a>
   <a class="accm-door" href="{{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}">
     <span class="accm-door-kicker">Public draft</span>
     <strong>44 project goals</strong>
