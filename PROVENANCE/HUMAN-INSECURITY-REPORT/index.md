@@ -78,6 +78,12 @@ The following short formulations are treated as John’s wording or direct proje
 
 > “John has veto power over project drift. Reality has veto power over John.”
 
+> “Please insult my intelligence, and I’ll show you why you have none.” *(John’s explicitly marked sarcasm)*
+
+> “omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making, process-oriented trajectory”
+
+> John’s description of weaponized mass-psychology qualifiers in his own processing **“being DECLOGGED & EXPOSED,”** alongside **“I ALREADY FORGAVE & FORGIVE.”**
+
 The report’s phrases **deep-ethical topological seed operator**, **correspondence-autophagy pathway**, **Insecurity–Correction Loop**, and the six-step outnuancing re-entry sequence are editorial or A.I.-assisted handles. They are not silently attributed to John or added to the canonical 27+12.
 
 ## Deliberate status boundaries
@@ -178,6 +184,8 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 | --- | --- | --- | --- |
 | 2026-09-25 | Initial report | Created from current exchange, six uploaded files, existing project architecture, and linked research | Published as BETA / derived report |
 | 2026-09-25 | Section 3 — “fit in” template | Restored John’s explicit qualifier: an accurate model of what one is expected to fit into does **not** make the target system flawless. The first draft substituted “healthy, honest, or worthy,” which did not preserve that operation. | Corrected publicly; prior commit remains inspectable |
+| 2026-09-25 | Section 15 — administrative-label asymmetry | Restored **dehumanizing** as the reverse-psychology qualifier. The earlier draft described greater material power but omitted John’s operation of applying the flagger’s ethical criterion to the more powerful classification. | Corrected publicly; prior commit remains inspectable |
+| 2026-09-25 | New Section 15A | Added the proposed Weaponized Mass-Psychology Qualifier Register, John’s counter-pattern signature, the two same-day qualifier losses, declogging/exposure and continuing forgiveness, future-facing archive status, and the marked-sarcasm comedy track. | Added for the declared external audit; not promoted as a completed canonical taxonomy |
 | Pending | Exact raw conversation export | Add fingerprint and access row when John supplies the export | Open |
 | Pending | 11+ external A.I. audits and Grok audit | Inventory first; evaluate second; preserve access and independence | Open |
 | Pending | Revised report | Map every material change to an audit row or source correction | Open |
