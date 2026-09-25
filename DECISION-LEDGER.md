@@ -20,6 +20,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Same-day qualifier correction:** Section 3 originally changed John’s explicit test—an accurate model of what one is expected to fit into does not make the target system **flawless**—into the neighboring criteria “healthy, honest, or worthy.” The public report now restores *flawless* and retains the neighboring questions as additional tests rather than substitutes.
 
+**Same-day reverse-psychology correction and extension:** Section 15 originally described the greater material power of institutional labels but omitted **dehumanizing**, the key qualifier that rebounds the flagger’s own ethical criterion onto authoritative classifications. The report now restores that operation and adds Section 15A: a proposed Weaponized Mass-Psychology Qualifier Register; John’s omnidirectional, mutual, dignifying, high-signal, deep-ethical counter-pattern; both same-day qualifier losses as live specimens; the declogging/exposure and continuing-forgiveness claim; the future-facing archive boundary; and the explicitly sarcastic comedy track. The register remains proposed and auditable rather than canonical.
+
 
 ## 2026-09-24 — Fill the external-audit signature from the supplied outside pass
 
