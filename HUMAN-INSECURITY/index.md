@@ -161,9 +161,11 @@ The inquiry then becomes recursive:
 3. Is my model of that environment accurate?
 4. Which penalties are real, remembered, exaggerated, or anticipated?
 5. Which parts of myself am I hiding to remain acceptable?
-6. Even if my model of what I suppose I must fit into is accurate, does that mean the target environment itself is flawless? Is it healthy, honest, or worthy of adaptation?
+6. Even if my model of what I suppose I must fit into is accurate, does that make the target environment itself flawless? Which parts are healthy or unhealthy, honest or misleading, worth adapting to, worth resisting, worth changing, or still unresolved—and to what degree, under what conditions, and for how long?
 
 The sixth question prevents a common mistake and restores John’s key qualifier: **an accurate model of what one is expected to fit into does not make the target system flawless**. A person can possess a perfectly accurate model of a distorted or partly flawed system and still injure themselves by fitting it flawlessly.
+
+It also prevents a second conversion: asking whether an entire environment is “worthy of adaptation” can create a hidden yes/no frame. Adaptation need not be total acceptance or total rejection. A person may adapt to one useful feature, resist another, help change a third, remain undecided about a fourth, cooperate temporarily under defined conditions, or create a different relationship that the original binary never offered. The appropriate response can vary by dimension, degree, timing, reversibility, consequence, and who bears the risk.
 
 This creates at least three separable failure locations:
 
