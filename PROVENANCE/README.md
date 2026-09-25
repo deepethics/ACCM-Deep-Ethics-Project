@@ -17,3 +17,6 @@ Past formulations remain evidence about the project's development. They do not a
 [Selected source excerpts and transformation notes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/) preserve 23 excerpts from the three supplied files, attribution boundaries, and exact-source fingerprints. The [network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) links its concept pages back to those excerpts.
 
 - [27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
+## Human Insecurity report source and audit record
+
+[The source and audit record for Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) records six supplied-file fingerprints, access limits, transformation classes, status boundaries, known compressions, and the protocol for the planned 11+ A.I. audit. The exact live-conversation export remains pending rather than being reconstructed and mislabeled as raw.

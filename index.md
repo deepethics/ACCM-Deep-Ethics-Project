@@ -51,6 +51,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Cognitive Warfare Mass Psychology</strong>
     <span>An extensive, source-status-preserving report on cognition as operational terrain, classification power, the 27 + 12 at population scale, and an auditable deep-ethical cognitive defence.</span>
   </a>
+  <a class="accm-door" href="{{ '/HUMAN-INSECURITY/' | relative_url }}">
+    <span class="accm-door-kicker">Psychology, mass psychology, and LLMs</span>
+    <strong>Human Insecurity and the Correction Loop</strong>
+    <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, C1, 10+1, outnuancing, humor, and external audit.</span>
+  </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
     <strong>A deeper introduction</strong>
