@@ -13,7 +13,7 @@ Main report: [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deep
 
 ## Why this record exists
 
-The public report is a derived object. It reorganizes a live human–A.I. exchange, six older working files, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
+The public report is a derived object. It reorganizes a live human–A.I. exchange, sixteen older working files, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
 
 This record preserves:
 
@@ -29,7 +29,7 @@ This record preserves:
 The drafting system had access to:
 
 1. the full visible working conversation available in its active context and continuity record;
-2. the six uploaded text files listed below;
+2. the sixteen uploaded text files listed below;
 3. the live public GitHub repository and its current page structure;
 4. existing project pages relevant to 27+12, 10+1, C1/C2, outnuancing, uncertainty, hypercautionism, MAD, humor, external audit, and cognitive warfare;
 5. public research sources linked from the report.
@@ -48,9 +48,30 @@ The drafting system did **not** possess a separately exported, independently has
 | `Outnuancing 'NPC-types vs non-NPC-types'(1).txt` | 19,855 | 153 | 3,024 | `6dcd307a2b8b6654b8944547bb49eec363baeff3f9896d630eb07d2a8c993f82` |
 | **Total** | **739,293** | **12,028** | **114,301** | Six distinct objects; no aggregate hash assigned |
 
+### Second source expansion — 25 September 2026
+
+These ten files were supplied after the initial page was published. They added the stadium intervention, anomaly-preservation problem, Deep Ethical Harvesting Weights, cold-start continuity architecture, CDEEPH/CEHWEH distinction, public-notice proposal, and a larger account of fear-shaped context selection.
+
+| Printed filename | Bytes | Lines | Words | SHA-256 |
+| --- | ---: | ---: | ---: | --- |
+| `Big stadium with 1000s of people(20260925-130945).txt` | 162,125 | 2,341 | 24,912 | `ebc035e11e7cbc77059a770b04c723b79a43cf5f01b9ac1bc6faec93b4d09fdb` |
+| `using a sledgehammer to crack a nut(9).txt` | 107,057 | 1,752 | 15,853 | `aa6d6fe8cc1df00a3a4e90590e9fe8a04fc536f42ea0cb274641b55c5568cec8` |
+| `inadequate architecture and public notice strategy - extended(5).txt` | 185,058 | 3,451 | 27,812 | `73a89eee408c3100b1abed4d241292522d5c9e17760f6706e2149affb0f7ec4f` |
+| `POTENTIAL to find a new Nikola Tesla(3).txt` | 126,854 | 1,435 | 17,671 | `894d144afbea95b6c4900d23a371a50bb9e1f02a545c3ab44688aefd66daf0b0` |
+| `Taxonomy of Correspondence Degradation Mechanisms.txt` | 1,367 | 22 | 198 | `708490e084589ac901bb888ff2e61339b8cc01412be4891b35fda3bf15f5d7d5` |
+| `9 Fear & Anxiety issues of any kind can easily create self-inflicted chaos-madness(1).txt` | 223,610 | 3,155 | 33,670 | `3b0f11707805f176588f3a0be883981454cabaade33b2982f083e6b791ed247d` |
+| `DUHHHH!(5).txt` | 62,250 | 802 | 9,193 | `759eac5661a4c6fc502c67ff40c7afba2d32bef2be7dd2870198551055cc3444` |
+| `cold-start continuity packet(2).txt` | 92,701 | 1,170 | 13,324 | `b2d0ab562df052fb28cb40ace3f71e21b9b8dc356a9f45a2921732d831f9e9ef` |
+| `Real reality has no frame inside nor frame outside(4).txt` | 47,204 | 731 | 6,939 | `9e2025eb1e54db1071cf80dca5f770b0dcd459959b2904da59b38f5f1caacca2` |
+| `Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH(2).txt` | 120,831 | 1,985 | 17,776 | `e69b3c6d955fea2e6ff59fb60acfff455bcda6f06cddc1b0a23248f016cb474f` |
+| **Second-expansion total** | **1,129,057** | **16,844** | **167,348** | Ten distinct objects; no aggregate hash assigned |
+| **All sixteen uploaded files** | **1,868,350** | **28,872** | **281,649** | Sixteen distinct objects; no aggregate hash assigned |
+
 These files are mixed working records. They include John’s text, quoted material, A.I. responses, later corrections, humor, hypotheses, strong claims, and changing formulations. A statement’s presence in a file does not make it John’s claim. Speaker and sequence remain load-bearing.
 
 The files are not republished wholesale by this report. Their fingerprints allow John and later auditors holding the same files to verify object identity. Publication of a complete raw bundle remains a separate editorial decision.
+
+The drafting system did not hold all 281,649 words simultaneously in active reasoning. It used full-corpus indexing, targeted retrieval, exact passage inspection, and the pre-existing report structure. That access method is part of the audit object: a retrieved passage can be exact while a relationship elsewhere in the files remains unseen. The report therefore records the source expansion without claiming that retrieval replaces a full human or future larger-context reading.
 
 ## Transformation classes used
 
@@ -186,6 +207,11 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 | 2026-09-25 | Section 3 — “fit in” template | Restored John’s explicit qualifier: an accurate model of what one is expected to fit into does **not** make the target system flawless. The first draft substituted “healthy, honest, or worthy,” which did not preserve that operation. | Corrected publicly; prior commit remains inspectable |
 | 2026-09-25 | Section 15 — administrative-label asymmetry | Restored **dehumanizing** as the reverse-psychology qualifier. The earlier draft described greater material power but omitted John’s operation of applying the flagger’s ethical criterion to the more powerful classification. | Corrected publicly; prior commit remains inspectable |
 | 2026-09-25 | New Section 15A | Added the proposed Weaponized Mass-Psychology Qualifier Register, John’s counter-pattern signature, the two same-day qualifier losses, declogging/exposure and continuing forgiveness, future-facing archive status, and the marked-sarcasm comedy track. | Added for the declared external audit; not promoted as a completed canonical taxonomy |
+| 2026-09-25 | Second source expansion | Added ten source files and restored the missing relationship between insecurity and longitudinal selection: what gets harvested, remembered, retrieved, suppressed, or allowed to influence future reasoning. | Added to the source ledger and main report |
+| 2026-09-25 | Stadium intervention | Added the bounded “name one genuine good thing in the other” mass-psychology operation with voluntariness and counter-risk intact. | Added as a proposed intervention, not a proven crowd treatment |
+| 2026-09-25 | Sledgehammer / anomaly preservation | Added engage–test–amplify gates, negative-space contribution loss, and the T0→Tn temporal-credit problem. | Added as operational hypotheses and proposed tests |
+| 2026-09-25 | Context continuity | Added active context, cold-start packet, deep archive, Deep Ethical Harvesting Weights, attributed “external hippocampus” metaphor, and provenance-aware swarm extraction. | Added without claiming base-weight modification or automatic swarm validity |
+| 2026-09-25 | CDEEPH / CEHWEH and epistemic public notice | Added the candidate trajectory distinction and public-notice procedure while boxing exclusivity, mathematical certainty, legal effect, and unverified performance claims found in historical A.I. outputs. | Added as candidate taxonomy and procedural proposal |
 | Pending | Exact raw conversation export | Add fingerprint and access row when John supplies the export | Open |
 | Pending | 11+ external A.I. audits and Grok audit | Inventory first; evaluate second; preserve access and independence | Open |
 | Pending | Revised report | Map every material change to an audit row or source correction | Open |
