@@ -161,9 +161,9 @@ The inquiry then becomes recursive:
 3. Is my model of that environment accurate?
 4. Which penalties are real, remembered, exaggerated, or anticipated?
 5. Which parts of myself am I hiding to remain acceptable?
-6. Even if my model is accurate, is the target environment itself healthy, honest, or worthy of adaptation?
+6. Even if my model of what I suppose I must fit into is accurate, does that mean the target environment itself is flawless? Is it healthy, honest, or worthy of adaptation?
 
-The sixth question prevents a common mistake. A person can possess a perfectly accurate model of a distorted system and still injure themselves by fitting it flawlessly.
+The sixth question prevents a common mistake and restores John’s key qualifier: **an accurate model of what one is expected to fit into does not make the target system flawless**. A person can possess a perfectly accurate model of a distorted or partly flawed system and still injure themselves by fitting it flawlessly.
 
 This creates at least three separable failure locations:
 

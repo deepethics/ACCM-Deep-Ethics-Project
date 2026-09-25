@@ -18,6 +18,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Extensive BETA report; open to source correction, external audit, empirical testing, splitting, replacement, or retirement.
 
+**Same-day qualifier correction:** Section 3 originally changed John’s explicit test—an accurate model of what one is expected to fit into does not make the target system **flawless**—into the neighboring criteria “healthy, honest, or worthy.” The public report now restores *flawless* and retains the neighboring questions as additional tests rather than substitutes.
+
 
 ## 2026-09-24 — Fill the external-audit signature from the supplied outside pass
 
