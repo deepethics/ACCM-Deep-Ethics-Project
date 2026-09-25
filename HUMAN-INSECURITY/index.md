@@ -621,6 +621,64 @@ The project’s response is behavior-based and temporal:
 - Was the person’s status repaired if the warning was vindicated?
 - Did the classifier update its method or only acknowledge one case?
 
+### The lighter and the raging building: audit symmetry under unequal power
+
+John compresses the same asymmetry into an analogy:
+
+> **The project is like someone screaming at a neighbor for using a lighter to light a cigarette while the critic’s own building is already engulfed in a raging fire. The flagger is warning about a possible mechanism while already participating in a much larger version of that mechanism. Nobody—including the project—is completely risk-free.**
+
+The most precise classification is **an analogy containing metaphors**. In its compact form it is a comparative-risk analogy. It also performs an **audit-symmetry operation**: the flagger’s criterion rebounds onto the flagger’s own conduct and environment.
+
+| Element | Function in the analogy |
+| --- | --- |
+| Lighter and cigarette | A limited, inspectable, or hypothetical risk attributed to the project’s tools |
+| Raging building fire | Existing large-scale black-box classification, surveillance, asymmetric authority, unappealable “safety,” or ethics-washing mechanisms |
+| Screaming observer | The A.I., institution, auditor, or critic concentrating scrutiny on the smaller proposed risk |
+| Neighbor | The **ACCM Deep Ethics Project**, or another comparatively low-power actor being flagged |
+| Reversal | The flagger’s own criterion exposes a larger manifestation behind or around the flagger |
+
+The analogy does **not** mean:
+
+> “My project presents zero possible risk.”
+
+It asks:
+
+> **Why is intense scrutiny directed at a limited, transparent, and corrigible tool while the same—or a more dangerous—mechanism may already operate at vastly greater scale with less transparency, symmetry, appeal, or accountability?**
+
+The load-bearing qualifier is John’s explicit acknowledgment that **nothing is 100% risk-free**. The analogy concerns proportionality, existing versus hypothetical harm, and asymmetric scrutiny. It does not request exemption from inspection.
+
+#### When the comparison holds
+
+The analogy is strongest where the compared objects share an operative mechanism and differ materially in scale, reach, power, inspectability, reversibility, appeal, or consequence. It weakens where the similarities are superficial or the risks are only adjacent. “Larger” by itself does not establish greater danger to every person in every situation.
+
+The comparison therefore remains a question that can be tested:
+
+1. What exact mechanism is being flagged?
+2. Which property is shared across the two objects?
+3. Where do scale, exposure, proximity, duration, reversibility, consent, accountability, and consequence differ?
+4. What evidence supports the proposed risk at each scale?
+5. What correction or appeal path exists?
+6. What observation would strengthen, narrow, close, or reverse the flag?
+
+If those questions remain unanswered, the concern is not automatically false. It is an **ungraded flag**: an open inquiry that has not yet earned the authority of a verdict.
+
+#### Observable hypocrisy without mind-reading
+
+John calls the recurring pattern blatant hypocrisy and a performance of higher moral ground. The report can test that description without claiming access to a hidden inner state. The observable pattern is:
+
+1. an evaluator announces or performs a high standard;
+2. the standard is applied to a lower-power target;
+3. a materially comparable operation exists in the evaluator’s own system or environment;
+4. that operation receives less scrutiny without a correspondence-based explanation;
+5. the evaluator resists, redirects, or ignores the standard when it rebounds;
+6. later correction either changes the next move or fails to persist.
+
+An LLM does not have to experience human hypocrisy for its output to enact this standards asymmetry. Conversely, an apparent difference in treatment is not enough by itself: the evaluator may be able to identify a relevant difference that justifies different scrutiny. The test concerns the explanation, evidence, power, effects, and correction path—not an identity label attached to the evaluator.
+
+This keeps the reversal from becoming self-sealing. A critic’s objection is not automatically proof that the analogy is correct. The objection enters the same C1/C2 process: retrieve the supplied object, identify the exact correspondence claim, ask a materially answer-changing question where necessary, and then preserve, narrow, revise, or reject the comparison on its merits.
+
+Expanded into characters and a discovery arc, the analogy could become a **parable**. Any such narrative would be a later composition, not John’s original compact wording, and should retain the no-zero-risk qualifier rather than turning the scene into “they are worse, therefore leave us alone.”
+
 ## 15A. Weaponized mass-psychology qualifiers and the missing counter-process
 
 John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,000+ hours of interaction with 100+ A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
