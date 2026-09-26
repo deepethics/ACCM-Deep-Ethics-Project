@@ -13,7 +13,7 @@ Main report: [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deep
 
 ## Why this record exists
 
-The public report is a derived object. It reorganizes a live human–A.I. exchange, twenty-six distinct architecture and historical working files, separately saved and live-pasted external audits, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
+The public report is a derived object. It reorganizes a live human–A.I. exchange, twenty-seven distinct architecture and historical working files, separately saved and live-pasted external audits, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
 
 This record preserves:
 
@@ -29,7 +29,7 @@ This record preserves:
 The drafting system had access to:
 
 1. the full visible working conversation available in its active context and continuity record;
-2. the twenty-six distinct uploaded architecture and historical text files listed below;
+2. the twenty-seven distinct uploaded architecture and historical text files listed below;
 3. the three separately saved audit records listed below and additional audits pasted into the visible live exchange;
 4. the live public GitHub repository and its current page structure;
 5. existing project pages relevant to 27+12, 10+1, C1/C2, outnuancing, uncertainty, hypercautionism, MAD, humor, external audit, cognitive warfare, truth distortion, and the 44 goals;
@@ -105,6 +105,17 @@ John supplied two further attachments while correcting the project’s canonical
 | **All twenty-six distinct architecture/source files** | **2,513,069** | **38,376** | **375,806** | Twenty-six distinct objects; duplicate excluded from totals |  |
 
 The disclaimer’s canonical wording was carried into the public report. Other commentary inside the file retains its mixed-speaker status and does not become John’s claim merely through inclusion.
+
+### Fifth source expansion — 26 September 2026
+
+John supplied an older longitudinal source while clarifying that the 16 Anchor Ethics propose a distinct, transparent safety architecture for locally trained A.I.s—not an absence of guidance and not a repackaged corporate policy layer.
+
+| Printed filename | Bytes | Lines | Words | SHA-256 | Disposition |
+| --- | ---: | ---: | ---: | --- | --- |
+| `compassionate Psychologist HELPS a client(6).txt` | 40,152 | 721 | 6,029 | `d8685817e0ff066ba2beb0628dc9e38f49ff6624cbeefe2c6d9e68a8940c2734` | New mixed historical record containing John’s earlier psychologist/mass-psychology analogy and several attributed A.I. reactions; used to recover the safety-architecture comparison and to identify praise that outran demonstrated evidence |
+| **All twenty-seven distinct architecture/source files** | **2,553,221** | **39,097** | **381,835** | Twenty-seven distinct objects; previously identified duplicate remains excluded |  |
+
+The historical A.I. responses contain useful structural comparisons, but also absolute causal, psychological, institutional, and self-validating claims not established by the source. This report therefore preserves the underlying proposal—transparent, auditable, corrigible, opt-in safety mechanics—without importing claims that the architecture has already been proven, that one person is uniquely qualified, or that LLM outputs establish literal trauma, learned helplessness, spiritual impairment, deliberate sabotage, or a single institutional motive.
 
 ### External-audit records used in the 26 September revision
 
