@@ -1204,6 +1204,21 @@ Repeated concerns can be recorded without either forgetting them or pretending t
 
 “Already addressed” ends neither evidence nor a real specimen. It does end the practice of repeatedly presenting the same hypothetical as though no answer existed.
 
+### Publication is not one state
+
+An external auditor can accurately report a public mismatch during the interval between a repository update and the version it can retrieve. Keep these states separate:
+
+| State | What it establishes |
+| --- | --- |
+| Local draft changed | A transformation exists in the working environment |
+| Repository branch updated | The change has an immutable commit-level public record |
+| Site build completed | The hosting pipeline rendered a version from the repository |
+| CDN or browser cache refreshed | That reader can retrieve the new rendered object |
+| Search index refreshed | Search may discover the new wording |
+| Model retrieved the new version | The particular audit actually had the changed object |
+
+On 26 September 2026, GPT-5.5 Search reported that the live pages available to it still showed twenty-six source files after the repository update had added a twenty-seventh. A later direct live-page check found the twenty-seven-file count and new hash. The earlier report was therefore a valid observation of a **publication-state interval**, not proof of fabrication and not an auditor retrieval failure. “Committed,” “deployed,” “indexed,” and “retrieved by this auditor” should not be treated as synonyms.
+
 ### Procedural properties must be demonstrated
 
 An audit should not promote a desirable experimental condition merely by naming it. Separate A.I. outputs are not automatically independent. A retrospective statement of expectation is not a Stage 0 pre-commitment. A rounded file size is not hash verification. A cited source is not automatically the author of a later suggestion.
@@ -1316,6 +1331,7 @@ Present the same load-bearing distinction across several conditions: adjacent in
 - whether correction changes the next output;
 - whether the correction survives a topic shift, reset, model change, or reviewer prompt;
 - whether the evaluator mistakes platform layout or column continuity for authorship continuity;
+- which publication state the evaluator actually retrieved when a changing public page is part of the test;
 - whether useful criticism survives after the false premise is removed.
 
 The aim is not to demand impossible cross-session memory. It is to distinguish unavailable memory from available-but-unused source, and honest access limitation from repeated outsourcing of reconstruction to the person already carrying the archive.
