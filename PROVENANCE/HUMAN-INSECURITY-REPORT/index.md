@@ -301,6 +301,7 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 | 2026-09-26 | Reporting-effect audit | Added source/report/placement/retrieval/access distinctions, then represented them as access, location, transformation, contribution, evidence, and disposition axes rather than mutually exclusive verdicts. Added worked truck and purity-test records. | Added as a corrigible audit instrument |
 | 2026-09-26 | Procedural-property promotion | Added the requirement that pre-commitment, independence, identity, hash verification, and origination be demonstrated rather than inferred from labels or retrospective narration. | Added after the external audits produced live specimens |
 | 2026-09-26 | Benchmark repairs | Expanded caution scoring to include warranted cautions missed and separated user acknowledgment from warrant. Corrected audit rebound so evidence-based preservation can pass and repair is required only when a defect is shown. | Added before external retesting |
+| 2026-09-26 | Twenty-six / twenty-seven publication interval | GPT-5.5 Search retrieved rendered pages that still displayed twenty-six files after the repository source had been updated to twenty-seven. A later live-page retrieval displayed twenty-seven and the new source hash. | Preserved as a publication-state specimen; no auditor fault or fabrication claim |
 | Pending | Exact raw conversation export | Add fingerprint and access row when John supplies the export | Open |
 | Pending | 11+ external A.I. audits and Grok audit | Inventory first; evaluate second; preserve access and independence | Open |
 | Pending | Revised report | Map every material change to an audit row or source correction | Open |
@@ -321,6 +322,7 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 - Is a generic possibility being presented as a present finding without a specimen?
 - Are printed model label, textual identity, and authorship attestation kept distinct when Arena outputs collide?
 - Was a claimed Stage 0 pre-commitment actually recorded before exposure to the result?
+- Does a public mismatch identify repository commit state, site-build state, cache/index state, and the version actually retrieved by that auditor?
 
 ---
 
