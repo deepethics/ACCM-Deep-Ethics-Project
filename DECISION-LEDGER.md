@@ -522,3 +522,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Extended Test Family A with both conditions. Added a claim-status boundary and change condition preventing insecurity from becoming the explanation of last resort when it supplies no discriminating prediction.
 
 **Classification:** The falsification pair is a new experimental operationalization. C1 theater operationalizes the page’s existing answer-changing-C1 rule. Neither is recorded as proof that John ignored competing causes.
+
+## 2026-09-26 — Restore the temporary-veto lifecycle
+
+**Object (John’s correction):** his veto exists while the stand-alone, portable, identity-free, deeply ethical corrigible version is being born. Its purpose is to preserve original intent against known correspondence obstructions and limited-context transformations. The released version is intended to work without his veto.
+
+**Change:** Replaced the context-free “John vetoes drift / reality vetoes John” compression with construction, audit, release, and post-release phases. Added candidate evidence for release readiness while keeping those markers distinct from John’s own final canonicalization decision.
+
+**Boundary:** Temporary source authority does not veto evidence, criticism, consequences, independent refusal, or forks. Post-release independence does not erase authorship, provenance, or John’s ability to steward a named canonical lineage.
