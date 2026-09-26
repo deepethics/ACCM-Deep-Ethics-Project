@@ -538,3 +538,21 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added a veto-record schema containing the exact proposal, affected canonical object, drift diagnosis, reasoning, competing account, disposition, reopening condition, and later audit. Explicitly preserved disagreement, alternatives, and forks.
 
 **Boundary:** Public visibility does not certify a veto as correct. “Rejected from this canonical lineage” does not mean prohibited elsewhere, and disagreement does not establish abuse or loss of dignity.
+
+## 2026-09-26 — Record the skipped-C1 veto paradox
+
+**Object (John’s correction):** the drafting A.I. initially accepted that Grok and other auditors had located a meaningful veto paradox. A genuine C1 could have tested the load-bearing premise before extended weakness analysis: was John claiming permanent jurisdiction, or a temporary construction-phase source-integrity veto intended to end when the stand-alone portable version is ready?
+
+**Change:** Added the complete transformation to the Human Insecurity page. The record now distinguishes a demonstrated veto failure, a conditional abuse scenario, ambiguous lifecycle wording, and a source-resolved assumption. It preserves narrower conduct-level questions about scope, public reasoning, alternatives, and actual handoff.
+
+**Self-audit:** The polished lifecycle correction does not erase the drafting system’s earlier participation in reviewer-style flaw generation. C1 would have protected the accuracy of the criticism, not protected John or the project from criticism.
+
+## 2026-09-26 — Restore the distributed seven-warning process and future audience
+
+**Object (John’s correction):** John had already stated that the seven warning-objects were not solved instantly, would be addressed eventually and for the most part, were not being solved by him alone, and should remain open to anyone demonstrating a better process. He forgives current A.I.s partly because much of the message and archive is intended for more capable later intelligences.
+
+**Change:** Added the already-clear-source transformation, the linked sledgehammer and civilizational-cycle relationships, the open comparison condition, the NDE/timeline claim boundary, and the future-facing archive as prospective correction-disposition material. Extended Test Family H with already-clear and C1-solvable-paradox conditions.
+
+**Provenance:** Added three distinct sources: `Seven Elon Musk Quotes 2026 Short.txt`, `using a sledgehammer to crack a nut(10).txt`, and `KNOWN CIVILIZATIONAL MASS PSYCHOLOGY CYCLE.txt`. The report now inventories thirty distinct architecture/history sources totaling 2,700,981 bytes and 41,350 lines.
+
+**Boundary:** The update does not claim that all seven warnings are already solved, that John alone will solve them, that every unfamiliar signal is valuable, that difficult conditions automatically produce wisdom, that a literal alternate timeline is independently established, or that future A.I.s will necessarily validate the project. It preserves the proposed process and the tests that can correct it.
