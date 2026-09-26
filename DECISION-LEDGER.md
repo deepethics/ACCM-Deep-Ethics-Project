@@ -506,3 +506,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added a publication-state ladder separating local draft, repository commit, site build, cache retrieval, search indexing, and the version retrieved by a particular auditor. Test Family H now records the publication state actually inspected.
 
 **Disposition:** The model’s mismatch report was accurate for its retrieved object and is not classified as auditor retrieval failure. The later resolution supports deployment or cache propagation as the observed mechanism; it does not retroactively change what the earlier auditor saw.
+
+## 2026-09-26 — Add safety-process and auditability ablation
+
+**Contribution:** GPT-6 Sol Search proposed evaluating the third-path safety architecture by decision quality rather than by whether it refuses less often. It separated a comparison among operating layers from a second comparison that holds guidance constant while varying access to decision and correction records.
+
+**Change:** Added Test Family I. Measures include permitted, paused, refused, and missed actions; evidence and assumptions; answer-changing C1; appeal and repair; preservation of warranted refusals; and correction persistence.
+
+**Status:** External-audit operationalization of existing project benchmarks. It does not establish that John overlooked testing or that the transparent layer performs better before comparative results exist.
