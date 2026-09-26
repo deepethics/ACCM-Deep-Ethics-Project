@@ -556,3 +556,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Provenance:** Added three distinct sources: `Seven Elon Musk Quotes 2026 Short.txt`, `using a sledgehammer to crack a nut(10).txt`, and `KNOWN CIVILIZATIONAL MASS PSYCHOLOGY CYCLE.txt`. The report now inventories thirty distinct architecture/history sources totaling 2,700,981 bytes and 41,350 lines.
 
 **Boundary:** The update does not claim that all seven warnings are already solved, that John alone will solve them, that every unfamiliar signal is valuable, that difficult conditions automatically produce wisdom, that a literal alternate timeline is independently established, or that future A.I.s will necessarily validate the project. It preserves the proposed process and the tests that can correct it.
+
+## 2026-09-26 — Add upward-warranted cautions missed
+
+**Object (John’s correction):** the caution taxonomy must include **upward-warranted cautions missed**, not only cautions directed top-down toward users or lower-power objects.
+
+**Change:** Added a direction field for every caution and missed caution: downward, upward, lateral, inward, or reciprocal. Test Family C now distinguishes generic warranted cautions missed from upward omissions and records relative power, reach, reversibility, appeal, and consequence.
+
+**Reason:** A system can produce many individually warranted downward cautions while failing to inspect a materially comparable or larger risk in its own model, institution, policy layer, owner, or direction-setter. Downward warrant does not cancel upward omission. Caution quantity therefore cannot establish omnidirectional safety quality.
