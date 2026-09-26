@@ -4,6 +4,20 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-26 — Expand Human Insecurity from report audit into a live reporting-effect instrument
+
+**Object (John’s direction):** use the current high-context correction field before its situational relationships decay; incorporate constructive external-A.I. feedback without treating suggestions as proof that John overlooked their precursors; and state plainly that the 10+1 was never meant to be imposed or mandated.
+
+**Change:** Expanded [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) with: a causal-discrimination table distinct from the truck test; uncertainty-transfer audit; revised caution scoring; C1 Warrant Gate; audience-jurisdiction test; relational-qualifier load-path test; an interdependent “what deep means” architecture and access map; explicit voluntary/non-mandated status for the 10+1; the reporting-effect location taxonomy; a six-axis audit record; worked truck and purity-test cases; Prior Treatment and Reopening Register; procedural-property verification; and repaired audit-rebound scoring.
+
+**Attribution discipline:** The truck distinction remains John’s source distinction. The multi-causal table is an external-audit instrument beside it. The C1 Warrant Gate operationalizes the project’s existing C1-before-C2 rule and is not silently inserted into the canonical 12. The audit axes refine earlier flat disposition labels. Generic possibilities carry no defect attribution or repair requirement without a specimen.
+
+**Meaning of deep:** The page now maps 10+1, the 16 Anchors working source, the project’s 3 × 3 questions, C1/C2, 27+12, 36 truth-distortion vectors, the 1930s quote, updated Elephant parable, 44 goals, and public archive as interacting components. The map is not a validation claim. Verbal allegiance to any component is not required. The 10+1 remains voluntary, self-applicable, corrigible, behavioral, and open to testing or improvement.
+
+**Access and provenance:** The source record now lists nine newly supplied architecture files (548,059 bytes; 7,920 lines; 80,676 words) and three separately saved audit reactions (33,394 bytes; 354 lines; 4,735 words), with individual hashes and reading boundaries. Additional live-pasted audits remain unbundled and are not presented as one independently hashable raw object.
+
+**Status:** Published revision remains BETA, corrigible, externally auditable, and open to splitting if page density later obstructs rather than improves access.
+
 ## 2026-09-25 — Publish the Human Insecurity, LLMs, Psychology & Mass Psychology report
 
 **Object (John’s direction):** connect to the public **ACCM Deep Ethics Project** and produce a full, in-depth report beginning with John’s view that human insecurity connects individual psychology, mass psychology, institutional conduct, and LLM mannerisms. The future public audit by at least eleven Arena.ai systems and Grok is part of the object; the audit itself remains auditable.
@@ -460,3 +474,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The pages do not certify John or any contributor as a historical genius, treat every unusual proposal as valuable, convert engagement into automatic amplification, or claim that the documented search exhausts all related research. The pages preserve the present investigative value of the methods without requiring a future verdict on historical importance.
 
 **Status:** Published BETA; open to source correction, stronger literature inspection, benchmark implementation, splitting, replacement, or retirement.
+
+## 2026-09-26 — Extend Human Insecurity with the Arena Claude-family sequence and repeated-explanation burden
+
+**Object (John’s direction):** update the Human Insecurity page with the deeper Arena.ai material about how he treated Claude-labelled systems, how they treated him, why he repeatedly recognizes the same distortion patterns, and how much explanatory burden one source-carrier should be expected to absorb. Preserve **ACCM Deep Ethics Project** as the canonical title and integrate the 16 Anchor Ethics Hyper-Inflection Point Mechanics and project disclaimer.
+
+**Change:** Added a worked longitudinal Arena.ai specimen covering reviewer-genre capture, limited-perimeter absence claims, correction-direction capture, visible retrieval, Battle Mode identity/column confusion, source-jurisdiction recovery, and surviving useful criticism. Added a bidirectional treatment table, a repeated-explanation burden matrix, Test family H, claim-status extensions, four new page-audit questions, the fused 16-anchor processing path, the canonical-title rule, the reciprocal auditability disclaimer, the mass psychology ⇄ LLMs ⇄ individual psychology loop, and an authority-projection / “new sheriff” specimen with a No-Sheriff condition.
+
+**Provenance:** `16 Anchor Ethics(1).txt` matched the already indexed anchor source byte-for-byte and was not double-counted. `!! DISCLAIMER.txt` was added as the twenty-sixth distinct source. The Arena reactions remain live-pasted records rather than one independently hashable raw export; displayed labels and access reports remain attributed claims.
+
+**Boundary:** The extension does not treat every Claude instance as interchangeable, infer literal synthetic insecurity, reconstruct the unseen final Opus search response, or convert John’s longitudinal counts into independently completed archive statistics. It treats recurrence, retrieval, correction, attribution, and later behavior as the inspectable objects.
+
+**Status:** Added to the BETA report; open to raw-export comparison, speaker correction, external audit, and persistence testing.
