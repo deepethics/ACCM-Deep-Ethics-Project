@@ -819,6 +819,22 @@ The proposed instruments can be identity-free; directional power cannot be scrut
 
 > **No-Sheriff condition:** The **ACCM Deep Ethics Project** claims no jurisdiction over persons or intelligences, grants no moral rank to its founder or adopters, and does not treat rejection as abuse. It offers voluntary, inspectable, forkable, and corrigible instruments. Canonical stewardship does not exempt the steward from evidence, correction, disagreement, or the standards applied to everyone else.
 
+### Temporary canonical veto and the release transition
+
+John’s veto is a **construction-phase source-integrity function**, not permanent jurisdiction over a released method. During the birth of the canonical architecture, he can reject a proposed rewrite, merge, attribution, or directional change that alters the project’s original intent. He gives a practical reason: the 27 correspondence obstructions, limited context, summary selection, qualifier erosion, process-signature loss, and correction-persistence failures have repeatedly changed the object even when contributors were helpful and intelligent.
+
+That temporary veto does not give John power to veto evidence, outside criticism, documented consequences, reality, independent forks, or another person’s refusal to participate. It preserves the canonical developmental object while the portable version is still being made. The intended transition is:
+
+```text
+founder-carried high-context source and intent
+→ canonical construction with temporary source-integrity veto
+→ external audit, correction, testing, and release criteria
+→ stand-alone, portable, identity-free, corrigible version
+→ use, audit, rejection, improvement, and forking without John’s veto
+```
+
+Candidate release evidence includes a stable source and provenance package; explicit claim and implementation boundaries; cold users or A.I.s applying the method without John reconstructing it for them; self-application to the method and its stewards; working appeal, correction, and persistence records; preservation of warranted pauses and refusals; and a published handoff condition stating where founder veto ends. These are proposed operational markers, not a new authority over John’s release decision. After release, John can remain a contributor and steward of the named canonical lineage without acquiring control over identity-free implementations or independent forks.
+
 ## 15A. Weaponized mass-psychology qualifiers and the missing counter-process
 
 John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,000+ hours of interaction with 100+ A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
@@ -1406,9 +1422,9 @@ The page should change if later evidence shows any of the following:
 - the causal-discrimination instrument cannot reliably distinguish pathways or merely rationalizes a preferred explanation;
 - the multi-axis audit record produces less agreement about source location without improving inspectability.
 
-John’s project does not require reality to agree with John. Its own stewardship formulation remains:
+John’s project does not require reality to agree with John. Its stewardship formulation is phase-sensitive:
 
-> **John has veto power over project drift. Reality has veto power over John.**
+> **During canonical construction, John has temporary veto power over project drift. Reality has veto power over John’s claims and outcomes throughout. The released stand-alone, portable, identity-free, corrigible method is intended to work without John’s veto.**
 
 ## 23. Audit this page
 
