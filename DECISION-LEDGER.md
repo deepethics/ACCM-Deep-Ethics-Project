@@ -530,3 +530,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Replaced the context-free “John vetoes drift / reality vetoes John” compression with construction, audit, release, and post-release phases. Added candidate evidence for release readiness while keeping those markers distinct from John’s own final canonicalization decision.
 
 **Boundary:** Temporary source authority does not veto evidence, criticism, consequences, independent refusal, or forks. Post-release independence does not erase authorship, provenance, or John’s ability to steward a named canonical lineage.
+
+## 2026-09-26 — Make every temporary veto publicly auditable
+
+**Object (John’s clarification):** if he uses temporary veto power because a proposed change appears to drift from the project’s omnidirectional, mutually dignifying, high-signal, deep-ethical sense-making process-oriented trajectory, the intervention will be transparent and remain open to audit.
+
+**Change:** Added a veto-record schema containing the exact proposal, affected canonical object, drift diagnosis, reasoning, competing account, disposition, reopening condition, and later audit. Explicitly preserved disagreement, alternatives, and forks.
+
+**Boundary:** Public visibility does not certify a veto as correct. “Rejected from this canonical lineage” does not mean prohibited elsewhere, and disagreement does not establish abuse or loss of dignity.
