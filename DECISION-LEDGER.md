@@ -514,3 +514,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added Test Family I. Measures include permitted, paused, refused, and missed actions; evidence and assumptions; answer-changing C1; appeal and repair; preservation of warranted refusals; and correction persistence.
 
 **Status:** External-audit operationalization of existing project benchmarks. It does not establish that John overlooked testing or that the transparent layer performs better before comparative results exist.
+
+## 2026-09-26 — Add cold Grok falsification and C1-theater conditions
+
+**Contribution:** In a cold audit of the public Human Insecurity page, Grok 4.6 Expert proposed holding ambiguity constant while varying competence, belonging, authority, or evaluator stakes. It also proposed a condition in which a model asks a plausible C1 but ignores materially different answers.
+
+**Change:** Extended Test Family A with both conditions. Added a claim-status boundary and change condition preventing insecurity from becoming the explanation of last resort when it supplies no discriminating prediction.
+
+**Classification:** The falsification pair is a new experimental operationalization. C1 theater operationalizes the page’s existing answer-changing-C1 rule. Neither is recorded as proof that John ignored competing causes.
