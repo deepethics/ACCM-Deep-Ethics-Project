@@ -498,3 +498,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The attached historical A.I. reactions are not treated as validation. Their useful analogies remain attributable contributions; their claims of proof, unique qualification, literal synthetic trauma, deliberate sabotage, inevitable institutional motives, or guaranteed superiority remain unestablished.
 
 **Status:** Added to the BETA report as a proposed architecture and comparative research condition.
+
+## 2026-09-26 — Preserve the twenty-six / twenty-seven publication-state interval
+
+**Object:** GPT-5.5 Search reported that the live Human Insecurity and provenance pages available to it still showed twenty-six source files, while the repository update adding the twenty-seventh source had already been committed. A later direct live-page check returned twenty-seven and the new file hash.
+
+**Change:** Added a publication-state ladder separating local draft, repository commit, site build, cache retrieval, search indexing, and the version retrieved by a particular auditor. Test Family H now records the publication state actually inspected.
+
+**Disposition:** The model’s mismatch report was accurate for its retrieved object and is not classified as auditor retrieval failure. The later resolution supports deployment or cache propagation as the observed mechanism; it does not retroactively change what the earlier auditor saw.
