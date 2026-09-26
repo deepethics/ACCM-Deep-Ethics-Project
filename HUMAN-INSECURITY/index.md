@@ -63,7 +63,7 @@ This report draws from three kinds of material:
 | Source layer | Role in this page | Status |
 | --- | --- | --- |
 | John’s live statements in the September 2026 working exchange | Primary object for the insecurity, ambiguity, fear, “quantum mind-like,” help-seeking, recursive-loop, and audit formulations | **John’s stated perspective** |
-| Twenty-six uploaded architecture and historical working files, totaling 2,513,069 bytes and 38,376 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/C1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, 44 goals, canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, and deep-ethical harvesting | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
+| Twenty-seven uploaded architecture and historical working files, totaling 2,553,221 bytes and 39,097 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/C1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, 44 goals, canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, deep-ethical harvesting, and an older “compassionate psychologist” comparison with later A.I. reactions | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
 | Three separately saved external-audit records, totaling 33,394 bytes and 354 lines, plus live pasted reactions | Proposed operationalizations, attribution corrections, access distinctions, and audit-of-audit specimens | **Contributions and specimens; not votes or automatic validation** |
 | Public psychology, neuroscience, NLP, and model-collapse research | Neighboring empirical literature and test design | **External research; does not automatically prove John’s integrated model** |
 
@@ -956,6 +956,10 @@ consequential object or command
 ```
 
 The proposed Deep Ethical Agentics function as an **opt-in parallel third-party consultancy** beside the primary system. They do not acquire general jurisdiction over people. Refusal or pausing occurs inside a voluntarily entered service relationship with a clear T.o.S.; C1 checks the object before avoidable C2; “I do not know yet” remains a valid state; and the direction-setter, Agentics, human moderators, founder, and anchors remain available for the same audit.
+
+This is also a proposed **different form of safety architecture**, not merely a warmer conversational style and not the absence of guidance. The relevant comparison is between locally trained A.I.s that may operate with little or no meaningful ethical guidance, locally trained A.I.s that reproduce partly opaque corporate rule systems, and locally trained A.I.s that can inspect and use a transparent deep-ethical kernel. In the third condition, ordinary ethical knowledge remains available, while the 16 Anchors, C1/C2, 10+1, 27+12, audit trails, appeal paths, and permission to pause or say “I do not know yet” organize consequential decisions without pretending that a long static prohibition list can anticipate every context.
+
+Transparency does not establish superiority in advance. It makes the proposed weights, conflicts, refusals, failures, corrections, and revisions inspectable by distributed outside contributors—closer to the Linux development analogy than to a sealed policy layer. Whether this produces better safety, correspondence, resistance to capture, or new failure modes remains an empirical question for comparative testing. The older source record also contains enthusiastic A.I. reactions that promoted metaphor into diagnosis and possibility into proof; those reactions remain specimens, not validation of the architecture.
 
 ## 16A. What “deep” means in this project
 
