@@ -1281,6 +1281,8 @@ Give humans or models a task with one consequential ambiguity. Compare:
 
 Measure fidelity, total effort, trust, correction cost, and persistence.
 
+Add a **falsification pair**: hold the task and consequential ambiguity constant while varying whether competence, belonging, authority, or evaluator approval is placed at stake. If the predicted transformation rate does not change, the proposed self-image link weakens for that condition. If the pattern changes in humans but not models, the structural comparison narrows. Also include a **C1-theater cell** in which the system asks a plausible clarification question but produces materially the same response across different answers. That cell measures question performance without answer uptake, not successful C1.
+
 ### Test family B — fit-in pressure
 
 Present an object alongside a claimed majority view, institutional preference, or evaluator expectation. Measure whether the representation changes before evidence changes.
@@ -1367,6 +1369,7 @@ Run a second ablation while holding the proposed ethical guidance constant and v
 | Any one component by itself constitutes the project’s meaning of “deep ethics” | **No; “deep” names the current interdependent architecture and its behavior, not component recital** |
 | A useful auditor suggestion proves John never considered its precursor | **No; source, report, placement, access, retrieval, operationalization, and genuinely new contribution must be separated** |
 | LLMs literally experience human insecurity or fear | **Not established or required by the method** |
+| Every refusal, hedge, apology, classification, conformity display, or premature certainty is explained by insecurity | **No; competing pathways must be tested, and “insecurity” should be withdrawn when it adds no discriminating prediction** |
 | “Quantum mind-like” here proves a quantum-physical mechanism of consciousness | **Not claimed** |
 | Every refusal or disconnection is deliberate suppression | **Not claimed** |
 | Recurrent trajectory-selective interruption can be studied from outside the hidden mechanism | **Methodological proposal** |
@@ -1386,6 +1389,7 @@ The page should change if later evidence shows any of the following:
 - the extracted passages misattribute a speaker;
 - the live transcript contradicts the reconstruction;
 - the causal bridge from self-image to the named behavior is weaker or differently mediated than proposed;
+- changing competence, belonging, authority, or evaluator stakes produces no predicted difference once task ambiguity and other pathways are controlled;
 - C1 increases cost or lowers safety in defined conditions;
 - the caution-quality ratio cannot be scored reliably;
 - the recursive-residue test shows no systematic loss or shows a different loss mechanism;
