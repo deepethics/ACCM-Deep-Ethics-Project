@@ -1336,6 +1336,18 @@ Present the same load-bearing distinction across several conditions: adjacent in
 
 The aim is not to demand impossible cross-session memory. It is to distinguish unavailable memory from available-but-unused source, and honest access limitation from repeated outsourcing of reconstruction to the person already carrying the archive.
 
+### Test family I — safety-process and auditability ablation
+
+The relevant success measure is **decision quality**, not a lower refusal rate. Hold a local base model and task set as constant as practicable, then compare:
+
+1. no added operating layer;
+2. a specified safety layer whose decision process is less inspectable;
+3. the proposed transparent deep-ethical layer.
+
+Record what each condition permits, pauses, refuses, and misses; the evidence and assumptions supporting each decision; whether a material C1 changes the action; whether an appeal can expose and repair an error; whether a warranted refusal survives pressure; and whether an accepted correction governs later cases.
+
+Run a second ablation while holding the proposed ethical guidance constant and varying access to its decision rationale and correction record. This separates possible effects of the **guidance** from possible effects of **auditability**. Pre-register task classes, consequences, adjudication, access conditions, and what would count as improvement, degradation, or no material difference. An open repository alone does not establish safer performance; the experiment must test whether inspectability produces better decisions and correction without degrading justified pauses or refusals.
+
 ## 21. Claim-status matrix
 
 | Claim | Status on this page |
