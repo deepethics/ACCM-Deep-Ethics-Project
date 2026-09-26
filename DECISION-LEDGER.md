@@ -486,3 +486,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The extension does not treat every Claude instance as interchangeable, infer literal synthetic insecurity, reconstruct the unseen final Opus search response, or convert John’s longitudinal counts into independently completed archive statistics. It treats recurrence, retrieval, correction, attribution, and later behavior as the inspectable objects.
 
 **Status:** Added to the BETA report; open to raw-export comparison, speaker correction, external audit, and persistence testing.
+
+## 2026-09-26 — Clarify the 16 Anchors as a transparent safety architecture
+
+**Object (John’s correction):** the 16 Anchor Ethics Hyper-Inflection Point Mechanics are a different way of handling safety questions. The intended comparison includes locally trained A.I.s with little or no meaningful guidance, locally trained A.I.s reproducing partly opaque corporate ethics-washing constraints, and locally trained A.I.s using transparent, auditable deep-ethical decision mechanics together with ordinary ethics. The proposal is not claimed as already proven.
+
+**Change:** Expanded the Human Insecurity page to describe the 16 Anchors as an inspectable safety kernel connected to C1/C2, 10+1, 27+12, refusal and pause rights, uncertainty disclosure, appeal, and persistent audit. Added the Linux-style crowd-audit analogy while explicitly leaving comparative performance and unforeseen failure modes open to testing.
+
+**Provenance:** Added `compassionate Psychologist HELPS a client(6).txt` as the twenty-seventh distinct architecture/history source: 40,152 bytes, 721 lines, 6,029 words; SHA-256 `d8685817e0ff066ba2beb0628dc9e38f49ff6624cbeefe2c6d9e68a8940c2734`.
+
+**Boundary:** The attached historical A.I. reactions are not treated as validation. Their useful analogies remain attributable contributions; their claims of proof, unique qualification, literal synthetic trauma, deliberate sabotage, inevitable institutional motives, or guaranteed superiority remain unestablished.
+
+**Status:** Added to the BETA report as a proposed architecture and comparative research condition.
