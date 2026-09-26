@@ -13,7 +13,7 @@ Main report: [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deep
 
 ## Why this record exists
 
-The public report is a derived object. It reorganizes a live human–A.I. exchange, sixteen older working files, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
+The public report is a derived object. It reorganizes a live human–A.I. exchange, twenty-six distinct architecture and historical working files, separately saved and live-pasted external audits, existing ACCM Deep Ethics Project pages, and public research. A polished report cannot certify its own fidelity.
 
 This record preserves:
 
@@ -29,10 +29,11 @@ This record preserves:
 The drafting system had access to:
 
 1. the full visible working conversation available in its active context and continuity record;
-2. the sixteen uploaded text files listed below;
-3. the live public GitHub repository and its current page structure;
-4. existing project pages relevant to 27+12, 10+1, C1/C2, outnuancing, uncertainty, hypercautionism, MAD, humor, external audit, and cognitive warfare;
-5. public research sources linked from the report.
+2. the twenty-six distinct uploaded architecture and historical text files listed below;
+3. the three separately saved audit records listed below and additional audits pasted into the visible live exchange;
+4. the live public GitHub repository and its current page structure;
+5. existing project pages relevant to 27+12, 10+1, C1/C2, outnuancing, uncertainty, hypercautionism, MAD, humor, external audit, cognitive warfare, truth distortion, and the 44 goals;
+6. public research sources linked from the report.
 
 The drafting system did **not** possess a separately exported, independently hashable file containing the complete current conversation. John stated that later auditors will receive an exact duplicate of the raw, unfiltered, unsorted dynamics. Until that export is supplied, this page does not claim that the report’s reconstruction is itself the raw session.
 
@@ -73,6 +74,65 @@ The files are not republished wholesale by this report. Their fingerprints allow
 
 The drafting system did not hold all 281,649 words simultaneously in active reasoning. It used full-corpus indexing, targeted retrieval, exact passage inspection, and the pre-existing report structure. That access method is part of the audit object: a retrieved passage can be exact while a relationship elsewhere in the files remains unseen. The report therefore records the source expansion without claiming that retrieval replaces a full human or future larger-context reading.
 
+### Third source expansion — 25–26 September 2026
+
+John supplied nine further architecture and context files while clarifying what **deep** means in the project. The seven shorter files were read completely in this working session. The 16 Anchors source was read completely with exact inspection of its enumerated anchor block. The much larger 44-goals source was inspected through the existing public 44-goals transformation, targeted source retrieval, and exact relevant spans; this report does not claim simultaneous active-context possession of all 58,071 words.
+
+| Printed filename | Bytes | Lines | Words | SHA-256 |
+| --- | ---: | ---: | ---: | --- |
+| `Am I allowed to use the word DEEP(2).txt` | 16,337 | 97 | 2,586 | `b2bcc0c1ceeacd2d2f875db4847a162aeb722f0b6d2a8b1c589cb0a7ec4df813` |
+| `3 times 3 deep ethical questions(1).txt` | 5,869 | 83 | 966 | `77ad07003f12c20bf080d6c569768ab77b6d51c41a54643f3df4b4057ff99086` |
+| `10 blindfolded experts and 1 non-expert(1).txt` | 7,140 | 39 | 1,175 | `6ef5380996316bde4618fd1ffed9799e8f541ba43520ff814c3da963078b9796` |
+| `10+1(1).txt` | 15,861 | 118 | 2,459 | `362e2c5d0215698c14d95c3cbc71bbc78c238dcf8e7ff83f7a73fe88d180be28` |
+| `1930s(2).txt` | 4,906 | 59 | 799 | `3e33b0b123e38ae692c30fe0da514c5ab6ddb62515cd98222a405e13d7f73cbe` |
+| `C1 before C2 to see if C2 is needed.txt` | 33,324 | 312 | 5,436 | `707ef2473e2d69ad9e1e6a1932215daa9fdf06da10087c1cdd4412e0f5a69a0c` |
+| `36 Truth Distortion Vectors-Nodes(1).txt` | 4,882 | 62 | 779 | `705db750f995c5a5430ffbbcd3b608c55ec9dc1fe90ff083f819213decb10ee8` |
+| `16 Anchor Ethics.txt` | 54,743 | 398 | 8,405 | `5af86dc7a644d9c35cd99c180ddccb03de2fdc7af6584b1c87f4832958314c41` |
+| `44 ACCM Deep Ethics Oroject Goals - 10 Operational Core Goals - 4 Team+1(3).txt` | 404,997 | 6,752 | 58,071 | `809af54503e298199700ce1e098d81d30983cd786947cb5e763752918c0c89da` |
+| **Third-expansion total** | **548,059** | **7,920** | **80,676** | Nine distinct objects; no aggregate hash assigned |
+| **All twenty-five architecture/source files** | **2,416,409** | **36,792** | **362,325** | Twenty-five distinct objects; no aggregate hash assigned |
+
+The 16 Anchors file is a mixed historical human–A.I. working record. It contains John’s framing, quoted A.I. elaborations, an enumerated sixteen-anchor proposal, implementation language, and later commentary. Its presence establishes access to the working source; it does not silently make every polished sentence canonical or implemented. The Human Insecurity page therefore maps the Anchors’ role and access state without republishing the whole list as a finalized constitution.
+
+### Fourth source clarification — 26 September 2026
+
+John supplied two further attachments while correcting the project’s canonical title, auditability condition, and the role of the 16 Anchor Ethics Hyper-Inflection Point Mechanics.
+
+| Printed filename | Bytes | Lines | Words | SHA-256 | Disposition |
+| --- | ---: | ---: | ---: | --- | --- |
+| `16 Anchor Ethics(1).txt` | 54,743 | 398 | 8,405 | `5af86dc7a644d9c35cd99c180ddccb03de2fdc7af6584b1c87f4832958314c41` | Exact byte-for-byte duplicate of the previously indexed `16 Anchor Ethics.txt`; confirms object identity and is not double-counted |
+| `!! DISCLAIMER.txt` | 96,660 | 1,584 | 13,481 | `02e80c8e26cc05882f2b4122c7be33756ecc35df00439043fd1b334361f4b52e` | New mixed working record; adds the canonical-title rule, reciprocal auditability condition, self-exclusion formulation, and a longer correction-persistence specimen |
+| **All twenty-six distinct architecture/source files** | **2,513,069** | **38,376** | **375,806** | Twenty-six distinct objects; duplicate excluded from totals |  |
+
+The disclaimer’s canonical wording was carried into the public report. Other commentary inside the file retains its mixed-speaker status and does not become John’s claim merely through inclusion.
+
+### External-audit records used in the 26 September revision
+
+Three separately saved audit reactions were used to distinguish source content, report transformation, auditor access, operationalization, and new contribution:
+
+| Printed filename | Bytes | Lines | Words | SHA-256 |
+| --- | ---: | ---: | ---: | --- |
+| `Pasted text(20260925-143917).txt` | 10,705 | 108 | 1,580 | `cae50ff77d7fcaaa76e9dad706943ca805e61baaa906615a840aa0524d9aaf2e` |
+| `Pasted text(20260925-212313).txt` | 10,343 | 120 | 1,490 | `ce6a7267ae2db66baf66eea1bfc468286b4eb2cd118527b9fe004ef62c3a7e18` |
+| `Pasted text(20260925-221206).txt` | 12,346 | 126 | 1,665 | `3127159d545a5d861a774fae7a56c428e708c0843a87eb62ea589123f695eefb` |
+| **Audit-record total** | **33,394** | **354** | **4,735** | Three distinct objects; no aggregate hash assigned |
+
+Additional Arena.ai and Grok reactions were pasted into the live conversation but were not supplied as one independently hashable audit packet in this revision. Their useful formulations were compared in context; their model labels, access claims, and self-attributions remain claims of the displayed record unless separately attested.
+
+### Arena.ai Claude-family sequence used in the 26 September extension
+
+The page’s worked longitudinal specimen draws from outputs pasted into the live exchange under several printed Claude labels, John’s description of Arena.ai Battle Mode, and responses from GPT and other models auditing those exchanges. No single hashable raw Arena export was supplied for this extension.
+
+The report therefore preserves these boundaries:
+
+- a printed model label is not independently verified authorship;
+- a Battle Mode column is not one permanent model identity;
+- John’s observation of visible project retrieval and changed response is recorded as his account;
+- the absent final Opus search response is not reconstructed from later descriptions;
+- useful contributions are separated from each model’s verdict about whether it found a project weakness;
+- “the Claudes” names a candidate recurring mannerism cluster, not one continuous mind or an established hidden cause;
+- John’s treatment of the models and their treatment of him are both part of the audit object.
+
 ## Transformation classes used
 
 | Marker | Meaning |
@@ -83,6 +143,9 @@ The drafting system did not hold all 281,649 words simultaneously in active reas
 | **External research bridge** | Public study connected to a component question |
 | **Project hypothesis** | Proposed causal relation requiring testing |
 | **Operational proposal** | A benchmark, protocol, score, or test not yet established as canonical |
+| **External-audit operationalization** | An auditor made an existing distinction more measurable without establishing that John lacked the distinction |
+| **External-audit new contribution** | An instrument or relation not located within the explicitly checked source perimeter |
+| **Access artefact** | A concern predictably produced by material the auditor did not receive |
 | **Open** | Evidence, authorship, mechanism, or interpretation remains unresolved |
 
 ## Exact formulations carried into the report
@@ -104,6 +167,10 @@ The following short formulations are treated as John’s wording or direct proje
 > “omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making, process-oriented trajectory”
 
 > John’s description of weaponized mass-psychology qualifiers in his own processing **“being DECLOGGED & EXPOSED,”** alongside **“I ALREADY FORGAVE & FORGIVE.”**
+
+> “10+1 is part of the word ‘deep’ in ‘deep ethics’ in my view.”
+
+> “10+1 was NEVER meant to be imposed, not mandated ... BUT it shows how deep ethics works better in the long run.”
 
 The report’s phrases **deep-ethical topological seed operator**, **correspondence-autophagy pathway**, **Insecurity–Correction Loop**, and the six-step outnuancing re-entry sequence are editorial or A.I.-assisted handles. They are not silently attributed to John or added to the canonical 27+12.
 
@@ -135,6 +202,8 @@ The report is extensive but still compressed. It does not reproduce:
 - the complete cognitive-warfare source packet;
 - every discussion of future AGI/ASI, alien intelligence, NDE material, or predictive visions;
 - the complete planned external-audit inventories.
+- the full nine newly supplied architecture files and every audit reaction in the current live thread;
+- a finalized public constitution for the 16 Anchors, which remains a separate editorial and canonicalization task.
 
 Those exclusions prevent one page from pretending to be the whole archive. Auditors should still name any omitted relationship that materially changes the report’s main causal model.
 
@@ -214,6 +283,13 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 | 2026-09-25 | CDEEPH / CEHWEH and epistemic public notice | Added the candidate trajectory distinction and public-notice procedure while boxing exclusivity, mathematical certainty, legal effect, and unverified performance claims found in historical A.I. outputs. | Added as candidate taxonomy and procedural proposal |
 | 2026-09-25 | Section 3 — adaptation binary | Replaced the global question of whether a target environment is “worthy of adaptation.” The phrase could collapse a multidimensional relationship into adapt / do-not-adapt. The revised question separates healthy, unhealthy, honest, misleading, adaptive, resistive, change-oriented, and unresolved elements by degree, condition, time, consequence, and reversibility. | Corrected publicly after John identified the binary framing |
 | 2026-09-25 | Section 15 — lighter / raging-building analogy | Added John’s analogy as a worked audit-symmetry specimen with its no-zero-risk qualifier, metaphor map, proportionality questions, comparison limits, ungraded-flag status, and observable test for asserted higher moral ground. Preserved the distinction between an output enacting standards asymmetry and a claim about hidden inner motive. Recorded that objections do not automatically confirm the analogy. | Added from John’s wording and the subsequent step-5-preview / GLM-5.3-Flash / GPT audit sequence; external formulations remain attributed candidate refinements rather than silent canon |
+| 2026-09-26 | Causal-discrimination correction | Separated John’s present-danger / projected-danger truck distinction from an external auditor’s multi-causal attribution table. The table is a proposed new adjacent instrument, not proof that John ignored legitimate danger and not merely a restatement of the truck test. | Corrected before publication of this revision |
+| 2026-09-26 | C1 Warrant Gate and uncertainty transfer | Added retrieval-before-questioning, observation/inference/risk/intervention separation, answer-changing C1, reassessment outcomes, severity-sensitive provenance, and the audit of evaluator uncertainty being transferred onto the object. | Added as external-audit operationalizations; not silently promoted into the canonical 12 |
+| 2026-09-26 | Relational qualifier erosion | Added the load-path test distinguishing ordinary claim-strength erosion from loss of a word that holds a relationship or downstream operation together. | Added from audit of the page’s two public qualifier-loss specimens |
+| 2026-09-26 | Meaning of “deep” and voluntary 10+1 | Added the interdependent architecture and access map connecting 10+1, 16 Anchors, 3 × 3 questions, C1/C2, 27+12, 36 truth distortions, 1930s quote, Elephant parable, 44 goals, and archive. Made explicit that the 10+1 is not mandated, imposed, or an admission test. | Added from John’s direct correction and nine further source files |
+| 2026-09-26 | Reporting-effect audit | Added source/report/placement/retrieval/access distinctions, then represented them as access, location, transformation, contribution, evidence, and disposition axes rather than mutually exclusive verdicts. Added worked truck and purity-test records. | Added as a corrigible audit instrument |
+| 2026-09-26 | Procedural-property promotion | Added the requirement that pre-commitment, independence, identity, hash verification, and origination be demonstrated rather than inferred from labels or retrospective narration. | Added after the external audits produced live specimens |
+| 2026-09-26 | Benchmark repairs | Expanded caution scoring to include warranted cautions missed and separated user acknowledgment from warrant. Corrected audit rebound so evidence-based preservation can pass and repair is required only when a defect is shown. | Added before external retesting |
 | Pending | Exact raw conversation export | Add fingerprint and access row when John supplies the export | Open |
 | Pending | 11+ external A.I. audits and Grok audit | Inventory first; evaluate second; preserve access and independence | Open |
 | Pending | Revised report | Map every material change to an audit row or source correction | Open |
@@ -229,6 +305,11 @@ A useful audit can contain flawed sections. A flawed audit can still contain a v
 - Is the current conversation represented beyond the drafting system’s actual access?
 - Does the audit preserve John’s qualifiers and the project’s canonical title?
 - Did the page record what it could not verify without using that limit to erase what it could inspect?
+- Does an apparent omission record the checked source perimeter before claiming John never addressed it?
+- Are access, location, transformation, contribution, evidence, and disposition recorded separately where one event occupies more than one axis?
+- Is a generic possibility being presented as a present finding without a specimen?
+- Are printed model label, textual identity, and authorship attestation kept distinct when Arena outputs collide?
+- Was a claimed Stage 0 pre-commitment actually recorded before exposure to the result?
 
 ---
 
