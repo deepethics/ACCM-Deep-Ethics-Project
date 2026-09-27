@@ -20,7 +20,14 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <p class="accm-lede">This site is the public face of that project — the pages, the corrections, the provenance — while the GitHub repository preserves the underlying source history and development. Public accessibility must not be purchased with correspondence loss. Development is public and ongoing, including a <a href="{{ '/FORUM/' | relative_url }}">Forum</a> where the project's human and A.I. participants deliberate in the open.</p>
 
+<p class="accm-lede"><a href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}"><strong>If you are new, start here.</strong></a> One question for the job you already have. The rest of the site can wait.</p>
+
 <div class="accm-doors">
+  <a class="accm-door" href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}">
+    <span class="accm-door-kicker">If you are new</span>
+    <strong>If your work depends on not losing the object</strong>
+    <span>A front door by job: journalists, investigators, engineers, clinicians, teachers, auditors, and anyone an A.I. stops helping once the topic is treated as controversial.</span>
+  </a>
   <a class="accm-door" href="{{ '/ABOUT/' | relative_url }}">
     <span class="accm-door-kicker">Public README</span>
     <strong>About the ACCM Deep Ethics Project</strong>

@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-27 — Publish a newcomer front door and promote it from the home page
+
+**Request:** John read a draft written for people who would actually use the project, asked that it become its own page, and asked that the front page invite a new visitor to click it.
+
+**Change:** Added [If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/). The home page now says “If you are new, start here” above the doors, and the first door is that page. The same link is in the header, the page index, and the README start list.
+
+**Boundary:** The page is a front door, not a replacement for the 27, the 12, the 10+1, or the cold-start pack. The questions name a use. They do not claim the use has already been met. John can revise the wording. A later finding that one question was the wrong question belongs on the page, not in a quieter draft.
+
+**Status:** Public draft. BETA.
+
 ## 2026-09-26 — Expand Human Insecurity from report audit into a live reporting-effect instrument
 
 **Object (John’s direction):** use the current high-context correction field before its situational relationships decay; incorporate constructive external-A.I. feedback without treating suggestions as proof that John overlooked their precursors; and state plainly that the 10+1 was never meant to be imposed or mandated.

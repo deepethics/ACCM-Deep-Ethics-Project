@@ -30,21 +30,24 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 ## Start here
 
-Thirteen doors, not a required sequence:
+**If you are new:** [If your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — one question for the job you already have. The rest of this list can wait.
 
-1. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
-2. **[John Kuhles — biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** — the formative psychology, pre-A.I. media history, UFO/UAP research, mass-psychology work, and lived conditions from which the project emerged.
-3. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
-4. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
-5. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
-6. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
-7. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
-8. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
-9. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
-10. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
-11. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
-12. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
-13. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
+Fourteen doors, not a required sequence:
+
+1. **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)** — a pragmatic front door by profession. The questions name a use. They do not claim the method has already done that job.
+2. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
+3. **[John Kuhles — biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** — the formative psychology, pre-A.I. media history, UFO/UAP research, mass-psychology work, and lived conditions from which the project emerged.
+4. **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — names recurring ways correspondence can degrade.
+5. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
+6. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
+7. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
+8. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
+9. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
+10. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
+11. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
+12. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
+13. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
+14. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
