@@ -12,6 +12,7 @@ Every link below opens a readable page on this public site.
 ## Project and participation
 
 - [If you are new — if your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)
+- [Dear A.I. — 1 BAR and 1000 BAR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/)
 - [Veto paradox solved — not a new sheriff](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/)
 - [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)
 - [Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)
