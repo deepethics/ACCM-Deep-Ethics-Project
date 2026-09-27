@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-27 — Publish “Dear A.I.” with John’s wording kept
+
+**Request:** John asked for a page that uses his 1 BAR / 1000 BAR letter verbatim, with spelling left as written unless there was an error, and with a short note on why he wrote it that way.
+
+**Change:** Added [Dear A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/). The letter is his, including the image and the sign-off. The note keeps “partial,” “big chance,” the two conditions, and the difference between his picture of depth and a meter reading. No spelling was changed.
+
+**Status:** Public draft. BETA.
+
 ## 2026-09-27 — Give the solved veto paradox its own page
 
 **Request:** John asked for a separate page. A.I.s that meet only the one-line veto sentence use it against him. He tested Google search and Google A.I. without giving his name. They found that sentence and treated it as the fly in the soup, as he had predicted.
