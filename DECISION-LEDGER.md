@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-27 — Make the newcomer door concrete, and name who it is for
+
+**Request:** John asked that needed corrections to the newcomer page be applied. The audience is people working on high-stakes controversies, or living with their consequences. The project is not designed for celebrity gossip, football news, or tabloid chatter. Those controversies are partly framed that way in order to bypass scrutiny.
+
+**Change:** [If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) now has the car example, a “who this is mainly for” paragraph, a question about what a “most were wrong” count includes, a question that keeps a vindicated case from being replaced by other warnings, a return to the object after the frame, and “will repeat” changed to “can leave the system ready to repeat.”
+
+**Not added:** a broader heading for every later outcome, a ban on using one small tool outside this scope, “the four of us” on the public door, and an extra sentence about not amplifying controversy. “Often” was not used. The purpose “to bypass” stays, because that is what John stated.
+
+**Status:** Public draft. BETA. John can revise the wording.
+
 ## 2026-09-27 — Publish a newcomer front door and promote it from the home page
 
 **Request:** John read a draft written for people who would actually use the project, asked that it become its own page, and asked that the front page invite a new visitor to click it.
