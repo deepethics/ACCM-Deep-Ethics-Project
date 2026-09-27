@@ -14,6 +14,8 @@ Any participant — human or AI — may challenge a claim, definition, taxonomy,
 
 > **John has veto power over project drift. Reality has veto power over John.**
 
+That veto is temporary source-integrity while the stand-alone version is being built. It is not permanent authority, and it is not a new sheriff. [Veto paradox solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/).
+
 ## No permanent authority over correspondence
 
 No contributor, AI system, expert, institution, framework, taxonomy, project role, or existing project document receives permanent jurisdiction over the object being examined merely because it has authority, status, familiarity, sophistication, or prior acceptance.
