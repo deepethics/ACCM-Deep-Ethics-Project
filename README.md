@@ -104,6 +104,8 @@ The project was initiated and is supervised by **John Kuhles**. Project stewards
 
 > **John has veto power over project drift. Reality has veto power over John.**
 
+That line is not a permanent office. [Veto paradox solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/).
+
 ## A note to early visitors
 
 Please have patience. The repository is young by design. Sections that appear sparse are not necessarily forgotten; many are placeholders for material that will be added only after it has been reviewed, transformed carefully for public use, and placed in the correct context.

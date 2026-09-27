@@ -129,4 +129,6 @@ Initiated and supervised by **John Kuhles**.
 
 > John has veto power over project drift. Reality has veto power over John.
 
+The veto is temporary, and it is not a new sheriff. <a href="{{ '/VETO-PARADOX/' | relative_url }}">Veto paradox solved</a>.
+
 See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({{ '/GOVERNANCE/' | relative_url }}). Source history lives on [GitHub](https://github.com/deepethics/ACCM-Deep-Ethics-Project).

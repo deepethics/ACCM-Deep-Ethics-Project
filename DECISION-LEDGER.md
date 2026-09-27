@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-27 — Give the solved veto paradox its own page
+
+**Request:** John asked for a separate page. A.I.s that meet only the one-line veto sentence use it against him. He tested Google search and Google A.I. without giving his name. They found that sentence and treated it as the fly in the soup, as he had predicted.
+
+**Change:** Added [Veto paradox solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/). The page states the temporary construction-phase veto, the handoff, and the wider false “new sheriff in town” reading. The one-line sentence on the home page, the README, Governance, and the footer now points to that page.
+
+**Not changed:** The historical wording of the sentence in the forum and in the Human Insecurity provenance quote. The fuller lifecycle on the Human Insecurity page remains the longer record.
+
+**Status:** Public draft. BETA.
+
 ## 2026-09-27 — Make the newcomer door concrete, and name who it is for
 
 **Request:** John asked that needed corrections to the newcomer page be applied. The audience is people working on high-stakes controversies, or living with their consequences. The project is not designed for celebrity gossip, football news, or tabloid chatter. Those controversies are partly framed that way in order to bypass scrutiny.
