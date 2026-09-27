@@ -17,6 +17,12 @@ The standing question is already on the project’s front page:
 
 > What happened to the object while you were producing the answer?
 
+A simple example: criticizing some unsafe cars, with evidence, while appreciating other models of the same brand, is not being “anti-car.” If the reply judges that label instead of examining the specific cars and the evidence, the object has changed.
+
+## Who this is mainly for
+
+The ACCM Deep Ethics Project is not designed for people who want celebrity gossip, football news, or tabloid chatter. It is mainly for people working on high-stakes controversies, or living with their consequences, where the actual question, evidence, qualifiers, and competing risks can be lost. Those controversies are partly framed as gossip, a camp fight, or a label about the person who raised it, in order to bypass scrutiny. The scrutiny includes the claim, the frame, the people and systems judging it, and this project’s own treatment of it.
+
 ## People who use A.I. on anything contested
 
 Writers, researchers, founders, patients reading their own records, anyone who has watched a model “help” by sanding the question down.
@@ -48,8 +54,9 @@ One tool: written, committed, published, cached, and retrieved are five objects.
 - Have you seen a label do the work that evidence was supposed to do?
 - Does scrutiny land on the person with the least power to appeal, while the rule that flagged them is not open to the same question?
 - When a warning is vindicated years later, is there a place where the first dismissal and the later outcome sit side by side?
+- When a warning has been vindicated, does the review examine its earlier dismissal, or change the subject to other warnings that were wrong?
 
-One tool: record the first treatment of an unfamiliar claim next to what happened afterward. An answer learned without the dismissal method will repeat the dismissal on the next case.
+One tool: record the first treatment of an unfamiliar claim next to what happened afterward. An answer learned without the dismissal method can leave the system ready to repeat that dismissal on the next case.
 
 ## Clinicians, counselors, and people who train them
 
@@ -98,6 +105,7 @@ One tool: engage, then test, then amplify. First contact is not a decision to sc
 - Have you watched a partial model become a rule while the people who said “not yet” were scored as the risk?
 - Do you have a place for a result that is “not established in this record,” which is different from “false”?
 - If your method cannot be wrong in public, what exactly is being tested?
+- When someone says “most were wrong,” can you inspect what was counted, what was left out, and whether later corrections changed the count?
 
 One tool: a limitation in what you inspected is not yet a limitation of the claim.
 
@@ -129,7 +137,7 @@ One tool: a label can be legitimate in one case and a jurisdiction in another. T
 
 Five moves. None of them requires you to agree with the project.
 
-1. Name the object you were actually given.
+1. Name the object you were actually given. Return to it after checking the framing.
 2. Keep the qualifier that makes the sentence true.
 3. If you are about to warn, correct, or refuse, check whether a different answer would change that act.
 4. Apply the same check to your own side.
@@ -152,4 +160,4 @@ If one question on this page is already your job, start there. The longer pack i
 
 ## Where this page came from
 
-John Kuhles asked for a newcomer page in the voice of the job, not a compression of the whole archive. The questions were drafted on 27 September 2026 from the public site and from a cold-start extraction pack of that date. He read the draft and asked for it to be a separate page, promoted from the front. The sentences are a front door. They are not a quotation of the pack, and they are not a new canonical list.
+John Kuhles asked for a newcomer page in the voice of the job, not a compression of the whole archive. The questions were drafted on 27 September 2026 from the public site and from a cold-start extraction pack of that date. He read the draft and asked for it to be a separate page, promoted from the front. Later the same day he asked for the audience to be stated, and for five concrete repairs: the car example, what a count includes, staying on a vindicated case, returning to the object after the frame, and “will” changed to “can.” The sentences are a front door. They are not a quotation of the pack, and they are not a new canonical list.
