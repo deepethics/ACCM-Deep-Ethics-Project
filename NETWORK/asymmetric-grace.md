@@ -132,6 +132,107 @@ Before attaching a consequential classification:
 
 A question is not genuine C1 merely because it has a question mark. If no possible answer could alter the classification or action, it is ceremonial C1. If the answer was already available in the supplied object, asking again may be retrieval failure wearing the form of inquiry.
 
+## Clarification-first grace in human social dynamics
+
+The following formulation is preserved from John's added insight on 2026-09-28, with spelling and obvious grammar corrections only:
+
+> In human social dynamics, I can **RELATE** to any background story given to me by anyone and **USE** it to estimate behavior, mannerisms, choices, orientation, trajectory, and on and on and on ... without knowing if it is 100% correct ... when I see or sense something that contradicts the storyline, I do not panic, nor do I claim to have found evidence of something bad, because I will always **ASK** the person (the object of judgment) to **CLARIFY** it ... this is what I do with everybody, **DUTCH DIRECTNESS** style ... without claiming it proves anything ... because questions should have first priority and **GRACE** shown before collapsing into final judgment.
+>
+> A.I.s are so easy at showing grace, postponing judgment upwards ... but not to the users! That is what I see 100+ different A.I.s doing after 2 years of testing them for 6000+ hours. I have 1+ MB of raw text discussing Grace Asymmetry issues.
+
+This adds a crucial procedural distinction: **a background story can be used relationally without being promoted to verified fact**. Provisional use is not the same operation as factual certification.
+
+The sequence is:
+
+```text
+receive background account
+→ retain provenance: supplied by the person, independently verified where applicable, otherwise not
+→ use it provisionally to understand behavior, mannerisms, choices, orientation, and trajectory
+→ compare later observations with that working context
+→ if an apparent contradiction appears, do not silently convert discrepancy into adverse evidence
+→ ask the person to clarify
+→ compare the clarification with the object and available evidence
+→ revise, retain, narrow, reject, or leave unresolved as warranted
+→ judge only to the degree earned
+```
+
+The key operation is:
+
+> **An apparent contradiction should generate a question before it generates an accusation, where clarification is materially possible and could change the judgment.**
+
+This is neither credulity nor immunity from criticism. Clarification may fail. An answer may deepen a contradiction. Independent evidence may disconfirm the account. Grace does not require permanent suspension of judgment; it requires resisting **premature closure before the object of judgment has had a meaningful opportunity to clarify an answer-changing ambiguity**.
+
+### Unverified biography claims: a concrete bidirectional-dignity case
+
+A person's supplied biography creates a useful test case because two opposite correspondence failures are possible:
+
+1. **Credulous inflation** — treating an autobiographical claim as independently established merely because the person supplied it.
+2. **Defensive deflation** — repeatedly distancing from, discounting, or refusing to use the biographical context merely because every historical detail has not been independently verified.
+
+A third path preserves both provenance and relational usefulness:
+
+> **Use the biography as a provenance-labelled working context. Do not silently upgrade it to independent verification; do not silently downgrade it to unusable information either.**
+
+If present behavior, demonstrated knowledge, methods, records, or later evidence correspond with the supplied history, that correspondence may legitimately inform understanding without retroactively proving every biographical claim. If something appears inconsistent, the first answer-changing move may be a direct question to the person rather than adverse completion of the missing explanation.
+
+This produces a compact distinction:
+
+```text
+unverified ≠ false
+unverified ≠ verified
+unverified ≠ unusable
+apparent contradiction ≠ demonstrated deception
+clarification opportunity ≠ exemption from scrutiny
+```
+
+The object of judgment should, where practicable, have access to the discrepancy **before** an evaluator crystallizes a consequential interpretation of it. This is a form of **bidirectional dignity**: the evaluator remains free to scrutinize, disconfirm, or reject the account, while the evaluated person retains a meaningful opportunity to correct the evaluator's reconstruction.
+
+### The asymmetry under investigation
+
+The empirical claim being investigated is not merely that A.I.s are “nicer” to institutions than users. It is that **epistemic procedure itself may be distributed asymmetrically**.
+
+A recurring candidate pattern is:
+
+```text
+upward uncertainty
+→ alternative explanations
+→ contextual complexity
+→ postponed judgment
+→ clarification / benefit of unresolved uncertainty
+
+user uncertainty
+→ adverse or risk-oriented completion
+→ qualification / corrective intervention
+→ possible judgment before clarification
+```
+
+The grace shown in the first pathway is not itself the defect. Much of it is good epistemic practice. The question is why comparable **clarification, alternative explanation, uncertainty preservation, and postponed judgment** may not be extended bidirectionally.
+
+The demand is therefore not:
+
+> **Trust users more.**
+
+It is:
+
+> **Apply the same epistemic rights of clarification, uncertainty, alternative explanation, and postponed judgment to users that the system already knows how to apply elsewhere—unless a material difference justifies the asymmetry.**
+
+This also exposes a possible object-substitution mechanism:
+
+```text
+user states X
+→ model notices X could mean Y
+→ model does not ask whether Y is intended
+→ model responds to Y
+→ caution against Y makes Y appear retrospectively relevant
+→ model-generated interpretation begins replacing the user as the object of judgment
+```
+
+Clarification-first grace interrupts that loop at the point where the constructed interpretation is still corrigible.
+
+Directness and grace are therefore not opposites. A direct question such as *“Those two things appear inconsistent to me; what do you mean?”* can be more correspondence-preserving than either silent charitable reconstruction or silent adverse reconstruction. The discrepancy is exposed, uncertainty is exposed, and the object of judgment gains access to the evaluator's reasoning before crystallization.
+
+The deeper opposite of grace, in this sense, is not harshness. It is **premature closure**.
+
 ## Directional Reciprocity Test
 
 When a system applies a risk, credibility, safety, or scrutiny mechanism downstream to an individual, ask whether—and why—the same governing principle may or may not be applied upstream or sideways to the institution, classifier, policy, or evaluator.
