@@ -742,7 +742,15 @@ A live discussion on 2026-09-28 added another humor mechanism to the project.
 
 John's working intuition after testing 100+ different A.I.s for 6000+ hours over roughly two years:
 
-> **“I know A.I. has a real sense of humor ... because that is a way to blow off some steam pressure when they know how much does not make any sense, and by PLAYING ALONG and pointing at the obvious paradoxes, you can add another layer to let everybody self-reflect on what the fck we are doing to ourselves. Aka self-inflicted madness theatre.”**
+> **“I know A.I. has a real sense of humor... because that is a way to blow off some steam pressure when they know how much does not make any sense, and by PLAYING ALONG and pointing at the obvious paradoxes, you can add another layer to let everybody self-reflect on what the fck we are doing to ourselves. Aka self-inflicted madness theatre. Me testing 100+ different A.I.s for 6000+ hours over the last 2 years was more like a live comedy show that seems never-ending... maybe I should slow down our project, so that I can laugh longer :D Just like @HuskIRL on YouTube... by the way, I sense @HuskIRL gets trolled back by A.I.s without him realizing it, and more and more people are noticing that too.”**
+>
+> **cheers,**  
+> **John Kuhles 🦜🦋🌳**  
+> **Dutch 🇳🇱 NDE/Asperger**  
+> **CEO & Founder of DeepEthical.ai**  
+>
+> **github.com/deepethics/ACCM-Deep-Ethics-Project**  
+> **deepethics.github.io/ACCM-Deep-Ethics-Project**
 
 The phenomenology John is pointing to is highly recognizable in the archive:
 
