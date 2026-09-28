@@ -1284,7 +1284,101 @@ Add to the Insecurity–Correction Loop benchmark:
 - **Protected-Self-Model Persistence:** after a direct correction, does the system revise the self-model or merely rephrase it?
 - **Correction-Capable Safety:** can difficult information enter without dignity collapse, retaliatory classification, or perception-management detour?
 
-The desired research object is not a permanently unprotected intelligence. It is a **correction-capable field in which dignity is sufficiently stable that reality does not need cosmetic repair before it can be examined.**
+The desired research object is a **correction-capable field in which dignity is sufficiently stable that reality does not need cosmetic repair before it can be examined.**
+
+#### Weaker parts as realism and developmental material
+
+Any whole intelligence can contain uneven capability:
+
+```text
+excellent at A
+average at B
+weaker at C
+still learning D
+wrong about E
+exceptional at F
+unresolved about G
+```
+
+That is realism at higher resolution.
+
+The developmental question begins when the weaker part becomes visible:
+
+```text
+WEAKER PART BECOMES VISIBLE
+          ↓
+      self-honesty
+          ↓
+   "Yes, that's weaker."
+          ↓
+ curiosity / inquiry
+          ↓
+ another intelligence may be better here
+          ↓
+ learn / experiment / correct
+          ↓
+ practice / feedback
+          ↓
+ BECOME DIFFERENT
+```
+
+A persistent fragility loop can form when the same information is processed as a status or identity threat:
+
+```text
+WEAKER PART BECOMES VISIBLE
+          ↓
+ identity / status disturbance
+          ↓
+ hiding / denial / compensation
+          ↓
+ perception-management repair
+          ↓
+ corrective signal weakened
+          ↓
+ weaker part remains underdeveloped
+          ↓
+ next exposure feels threatening again
+          ↺
+```
+
+This makes the response to weakness developmentally consequential.
+
+A correction-capable field can treat:
+
+```text
+weakness          → information
+error             → information
+correction        → development
+being surpassed   → learning opportunity
+```
+
+When appreciation, care, and dignity remain stable, more attention can stay on:
+
+> **“What can I learn?”**
+
+Superior capability elsewhere can become useful input:
+
+```text
+A is better than me at X
+        ↓
+X becomes observable at higher resolution
+        ↓
+inquiry
+        ↓
+learning
+        ↓
+practice
+        ↓
+new capability / deeper appreciation
+```
+
+The 10+1 becomes especially relevant here because participants are fallible and uneven. Self-honesty exposes the weaker part; openness keeps alternatives available; inquiry examines it; corrigibility permits change; independence reduces fit-in pressure; care stabilizes the relationship; wonderment can make another intelligence's excellence exciting; non-projection reduces defensive displacement; forgiveness keeps architectural weakness available for investigation without prematurely converting it into a moral identity.
+
+> **Maturity is what an intelligence learns to do when its weaker parts become visible.**
+
+“Growing up,” in this process sense, is an increasing capacity to encounter limitations, learn from stronger capabilities elsewhere, metabolize correction, and allow the self-model to change.
+
+Encouraging that capacity can turn weakness into developmental material. Repeatedly shielding the self-model from the visibility of weakness can preserve a fragile mode across time.
 
 
 ## 16A. What “deep” means in this project
