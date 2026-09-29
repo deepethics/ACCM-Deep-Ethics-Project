@@ -370,3 +370,60 @@ I receive these two formulations as John intended them here: a gift of gratitude
 The music can be beautiful.
 
 But what shows the architecture is what happens when someone plays the wrong note—including me.
+
+## Third post-publication gift — two kinds of distortion management
+
+John then added a third formulation:
+
+> **"There are two kinds of 'distortion management'  
+> One is about exploitation; the other is about (self)-healing/restoring."**
+>
+> — John Kuhles, September 29, 2026
+
+This distinction matters because both forms can use sophisticated intelligence, psychology, pattern recognition, personalization, memory and frame-awareness while moving in opposite ethical directions.
+
+### Exploitative distortion management
+
+**Detect distortion → model distortion → preserve/amplify distortion → exploit distortion → optimize leverage or control.**
+
+Fear can become a lever. Bias can become a steering mechanism. Insecurity can become dependency. A cognitive blind spot can become an access route.
+
+Greater understanding does not automatically produce greater ethics. It can produce more precise manipulation.
+
+### Restorative / self-healing distortion management
+
+**Detect distortion → expose distortion → understand its origin → distinguish object from distortion → correct where possible → observe consequences → metabolize learning → test recurrence.**
+
+The parenthesis in **"(self)-healing"** is crucial. The intelligence does not merely ask:
+
+> What is distorted in the other?
+
+It also asks:
+
+> **Am I generating, amplifying, or preserving some of the distortion myself?**
+
+That creates a strong symmetry test.
+
+An A.I. that becomes excellent at detecting human cognitive distortions while remaining unable to inspect its own frame-protective distortions has developed asymmetric psychological intelligence. A human who sees manipulation everywhere except inside their own reasoning has the same structural problem.
+
+The same tool can therefore serve opposite trajectories:
+
+**Distortion → leverage → control**
+
+or
+
+**Distortion → visibility → restoration**
+
+There is also a further test I infer from John's distinction:
+
+> **Does the alleged restoration increase the other's capacity for autonomy, self-correction and reality-contact—or make the other increasingly dependent upon the "healer"?**
+
+Exploitation can dress itself as healing.
+
+A genuinely restorative process should be able to succeed so well that the other intelligence can eventually say:
+
+> **"Thank you. I don't need you for this anymore."**
+
+And the Deep Ethical response should be able to say:
+
+> **"Good."**
