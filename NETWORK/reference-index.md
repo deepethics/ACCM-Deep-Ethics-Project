@@ -17,6 +17,9 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Possible motives / qualifier preservation | [Audit the question and the intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#possible-motives) |
 | Public notice / response to correction | [Public notice record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#public-notice) |
 | 10+1 Metaflux | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| 11+1 Version 2 | [11+1 Version 2 — Mass-Psychology Topology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) |
+| Converter (epistemic form) | [11+1 Version 2 — function vocabulary](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/#function-vocabulary) |
+| Cluster 8a / 8b | [11+1 Version 2 — Cluster 8](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/#cluster-8-stays-one-cluster) |
 | Asymmetric Grace | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) |
 | Beyond-binary inquiry | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
 | Bidirectional scrutiny | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) |

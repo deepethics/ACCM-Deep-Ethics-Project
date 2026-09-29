@@ -63,6 +63,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Human Insecurity and the Correction Loop</strong>
     <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, C1, 10+1, outnuancing, humor, and external audit.</span>
   </a>
+  <a class="accm-door" href="{{ '/NETWORK/eleven-plus-one/' | relative_url }}">
+    <span class="accm-door-kicker">11+1 Version 2</span>
+    <strong>Mass-psychology topology</strong>
+    <span>Eleven distortion clusters plus one correspondence-restoring field. The count is frozen provisionally. The claims are not. Items 108–140 refine the June map; they do not parent it.</span>
+  </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
     <strong>A deeper introduction</strong>

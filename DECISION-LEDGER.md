@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-09-29 — Publish 11+1 Version 2 without freezing the claims
+
+**Request:** John asked that the stabilized 11+1 coordinate system be implemented on the public site. GPT-5.6 Sol’s implementation note and Grok 4.6’s register were the object. The architecture was not reopened.
+
+**Change:** Added [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/). Items 001–107 remain the parents of the June topology. Items 108–140 are refinements. The count stays eleven distortion clusters plus one correspondence-restoring field. Cluster 8 stays one cluster with layers 8a and 8b. Item 111 stays an attack edge on the +1. Cluster 11 stays a diagnostic output. Items 138–140 are the +1 operators. Topological home and claim status stay separate axes. The register uses a small function vocabulary, including converter. 114, 133, 135, and 136 are not load-bearing. Linked from the homepage, the network index, the term index, the lexicon, all pages, the README, the relation map, and G42.
+
+**Not changed:** No new distortion cluster. No claim that the G42 interactive matrix is public. No claim that agreement between Grok 4.6 and GPT-5.6 Sol validates the underlying phenomena. The June synthesis is not rewritten as if it had already seen 108–140.
+
+**Status:** Public working map. BETA. The count is frozen provisionally. The claims are not.
+
 ## 2026-09-27 — Publish “Dear A.I.” with John’s wording kept
 
 **Request:** John asked for a page that uses his 1 BAR / 1000 BAR letter verbatim, with spelling left as written unless there was an error, and with a short note on why he wrote it that way.

@@ -27,11 +27,29 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
 
-**Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism)
+**Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
 ---
 
 **Added after John's intent correction:** [6 INTENT MECHANICS](#six-intent-mechanics), including his six original points and links to responsibility and Δ-processing.
+
+## 11+1 Version 2 {#11-1-version-2}
+
+[Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/).
+
+**11+1 Version 2** is the working coordinate system for the numbered mass-psychology list: eleven distortion clusters plus one correspondence-restoring field.
+
+Items 001–107 are the material from which that topology emerged. Items 108–140 refine it. They do not get to parent it after the fact.
+
+The count is frozen provisionally. The claims are not. Topological home and evidentiary status are separate axes. A hypothesis can sit in a cluster without becoming load-bearing.
+
+Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generative mediation. Item 111 is an attack edge on the +1, not the last step of Cluster 1. Items 138–140 are corrective operators: vigilance, grounding, sovereignty.
+
+**Status:** working map. BETA. Corrigible.
+
+**Related:** [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [C1](#c1--clarification-process), [Correction Metabolism](#correction-metabolism), [Outnuancing](#outnuancing).
+
+---
 
 ## Core navigation {#core-navigation}
 

@@ -237,6 +237,8 @@ LLMs are heavily optimized around, in John’s view, unchecked assumptions about
 
 Clusters that could partially explain LLM mannerisms, shown as an interactive topological 3D matrix: nodes, vectors, clusters, a time dimension, a time-progression slider, clickable context that clears when something else is selected, zoom and rotation, assigned colors, and a legend. John states that the visualization has already been made and that a prototype is expected online soon. This page does not claim the prototype is already public.
 
+The coordinate system that visualization would use is now public as [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/). That page freezes the count provisionally and does not freeze the claims. It is not the interactive matrix. This goal still does not claim the prototype is public.
+
 <a id="g43"></a>
 ### G43 — Identify low- and high-entropy mechanisms
 

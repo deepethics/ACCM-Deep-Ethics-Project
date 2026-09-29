@@ -246,6 +246,15 @@
       ],
       "status": "BETA — source-based editorial synthesis",
       "url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/"
+    },
+    {
+      "id": "eleven-plus-one",
+      "title": "11+1 Version 2 — Mass-Psychology Topology",
+      "sources": [
+        "2026-09-29 comparison: Grok 4.6 and GPT-5.6 Sol; list by John Kuhles"
+      ],
+      "status": "BETA — count frozen provisionally; claims unfrozen",
+      "url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/"
     }
   ],
   "edges": [
@@ -392,6 +401,24 @@
       "to": "outnuancing",
       "relationship": "audits the ethical binding of",
       "status": "editorial source-based mapping"
+    },
+    {
+      "from": "eleven-plus-one",
+      "to": "correction-metabolism",
+      "relationship": "keeps claim status separate from",
+      "status": "editorial source-based mapping"
+    },
+    {
+      "from": "eleven-plus-one",
+      "to": "c1-c2",
+      "relationship": "uses clarification before treating resemblance as certainty",
+      "status": "editorial source-based mapping"
+    },
+    {
+      "from": "eleven-plus-one",
+      "to": "ten-plus-one",
+      "relationship": "places the 10+1 inside the +1 field, not inside the eleven",
+      "status": "editorial source-based mapping"
     }
   ],
   "clusters": [
@@ -445,6 +472,13 @@
         "ethics-washing"
       ],
       "status": "editorial navigation grouping"
+    },
+    {
+      "label": "Mass-psychology topology",
+      "nodes": [
+        "eleven-plus-one"
+      ],
+      "status": "editorial navigation grouping; not one of the eleven distortion clusters"
     }
   ]
 }

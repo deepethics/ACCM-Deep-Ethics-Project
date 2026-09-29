@@ -48,6 +48,7 @@ Fourteen doors, not a required sequence:
 12. **[Useful Quotes from a Multi-A.I. Deep Session](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)** — attributed selections from John and participating A.I.s, why each passage matters, direct links to the canonical record, and a reusable extraction test.
 13. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
 14. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
+15. **[11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)** — the mass-psychology coordinate system: eleven distortion clusters plus one correspondence-restoring field. Count frozen provisionally. Claims unfrozen. Items 108–140 are refinements, not retroactive parents.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
