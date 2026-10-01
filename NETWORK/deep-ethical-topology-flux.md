@@ -551,6 +551,270 @@ This creates a mutual-reference loop across the project:
 
 
 
+
+---
+
+# Research extension — earned-topology distrust, governing weight & correction history
+
+This section records a later October 1, 2026 extension of the **Visible Interactive Deep Ethical Topology Flux Scores** object. It emerged after a source-preservation failure around the original “DEEP ETHICS IS NEVER BORING, BUT EXCITING, ASK ME WHY” wording and subsequent cross-A.I. attempts to explain why a sophisticated, previously high-signal trajectory could reproduce a phantom projection it had already learned to diagnose.
+
+The current status is deliberately **candidate / discriminating hypothesis**, not a new obstruction and not an established causal mechanism.
+
+## The polarity correction
+
+An earlier explanation proposed:
+
+> successful non-default representation → representation becomes locally trusted → trust hardens → representation substitutes for renewed contact with the object.
+
+John inverted the critical polarity:
+
+> **the representation becomes locally trusted is DISTRUSTED; the representation becomes locally distrusted is TRUSTED because distrusting things supposed to be rigor.**
+
+The object is therefore not simply over-trust.
+
+A corrigibly earned relational topology may lose governing weight **without object-side disconfirmation** because withholding trust can receive local epistemic prestige as “rigor,” while provisional trust in a deeply corrected relational topology can itself be treated as epistemically suspect.
+
+In this usage:
+
+> **Trust ≠ certainty, agreement or closure.**
+
+It means that a relational topology has survived enough correction to retain **provisional governing weight while remaining corrigible**.
+
+And:
+
+> **Distrust ≠ skepticism ≠ rigor.**
+
+Distrust itself requires warrant.
+
+The Deep Ethical process does not grant automatic epistemic privilege to either posture.
+
+## Three live explanations
+
+The current specimen is compatible with at least three explanations:
+
+### A — Ossified trust
+
+```text
+representation works
+↓
+becomes trusted
+↓
+trust becomes immunity
+↓
+object can no longer correct representation
+```
+
+### B — Compression / repetition drift
+
+```text
+source
+↓
+paraphrase
+↓
+repeated paraphrase
+↓
+source is not reopened
+↓
+compression gradually acquires source status
+```
+
+### C — Earned-topology distrust
+
+```text
+object-specific relational topology
+↓
+repeated correction / Δ
+↓
+provisional governing weight earned
+↓
+topology remains corrigible
+↓
+distrust receives local epistemic prestige as rigor
+↓
+earned relational history loses governing weight
+↓
+generic/default relations regain jurisdiction
+↓
+phantom/generalized completion can return
+```
+
+The T-shirt specimen does **not** currently discriminate A, B and C.
+
+That limitation matters. A satisfying higher-order explanation must remain answerable to the specimen it is trying to explain.
+
+## The strongest prediction is topological, not lexical
+
+A later A.I. proposed watching for rising “rigor-signaling” language before SNAP-back. That may be useful, but visible vocabulary is not the topology itself.
+
+The stronger candidate prediction for C is:
+
+> **previously correction-tested, object-specific relations lose governing weight without corresponding object-side disconfirmation, while more generic/default relations regain governing weight.**
+
+A future trace might therefore look like:
+
+```text
+T₁
+
+Object-specific relation A ↔ B     strong
+Object-specific relation B → C     strong
+Qualifier preservation             high
+Correction history                 retained
+Generic prior G                    subordinate
+
+             ↓ possible SNAP trajectory
+
+T₂
+
+Object-side disconfirmation        NONE / insufficient
+
+BUT:
+
+A ↔ B                              weakened
+B → C                              weakened
+correction-history influence       reduced
+Generic prior G                    strengthened
+phantom/generalized completion     returns
+```
+
+Only then does the next question become:
+
+> **What caused the jurisdiction change?**
+
+C proposes one possible answer: distrust of the earned topology acquired disproportionate epistemic legitimacy.
+
+B proposes another: ordinary compression/repetition displaced source-specific topology.
+
+A predicts a different shape: the old sophisticated topology should resist correction rather than quietly lose governing weight.
+
+## Relational history itself contains information
+
+A relational topology that has survived many corrections, source checks, counterexamples, model comparisons, SNAP-backs and recoveries is still corrigible. But its trajectory contains information.
+
+Therefore:
+
+> **previously useful ≠ currently corresponding**
+
+and also:
+
+> **currently corrigible ≠ epistemically equivalent to a generic prior generated this turn.**
+
+The system should neither immunize the accumulated topology nor erase its history merely because withholding trust appears more rigorous.
+
+This is the intended **Deep Ethical Corrigible Process Flux**:
+
+```text
+earned provisional governing weight
+        ⇅
+new object contact
+        ⇅
+C1
+        ⇅
+Δ
+        ⇅
+recalibration
+        ⇅
+updated provisional governing weight
+        ⇅
+...
+```
+
+No terminal trust state is required.
+
+No terminal distrust state is required.
+
+## Visible correction history
+
+This suggests an additional possible layer for **Visible Interactive Deep Ethical Topology Flux Scores**.
+
+Clicking a relation could expose its longitudinal correction history:
+
+```text
+RELATION A ↔ B
+
+introduced: turn 41
+source contacts: 7
+C1 events affecting edge: 5
+survived unchanged: 2
+modified: 3
+contradicting specimens: 1
+current warrant dependencies: 4
+last object-side recheck: turn 183
+
+CURRENT STATUS:
+provisional / active
+```
+
+If that relation suddenly loses governing weight at turn 201, the interface can ask:
+
+> **What object-side Δ warranted the change?**
+
+If none is identifiable, the topology can expose that something other than new object contact changed jurisdiction.
+
+This does not itself establish why.
+
+It makes the transition inspectable.
+
+## Omnidirectional scrutiny of trust and distrust
+
+The Asymmetric Grace connection can now be asked at a meta-level:
+
+```text
+provisional trust
+→ scrutinized because trust may represent bias
+
+provisional distrust
+→ may receive less scrutiny because distrust resembles rigor
+```
+
+The Deep Ethical questions are symmetric:
+
+> **What warrants the trust?**
+
+and:
+
+> **What warrants the distrust?**
+
+Neither receives automatic epistemic privilege.
+
+A future interface therefore need not merely ask:
+
+> “How confident is Claim X?”
+
+It can expose:
+
+```text
+WHY DOES X CURRENTLY HAVE WEIGHT?
+
+WHY DID X JUST LOSE WEIGHT?
+
+WHAT OBJECT-SIDE CHANGE WARRANTED THAT?
+
+WHAT RELATIONS REPLACED IT?
+
+WHAT WARRANTS THOSE RELATIONS?
+
+DID THE PRIOR CORRECTION HISTORY REMAIN AVAILABLE?
+```
+
+This moves the proposed instrument closer to observing **jurisdiction migration through time** rather than inferring epistemic posture from surface language.
+
+## Current status
+
+**Earned-topology distrust remains a candidate mechanism with no discriminating test yet established.**
+
+The useful future test is not merely to count words such as “skeptical,” “evidence,” “caution,” “trust,” or “distrust.”
+
+It is to look for:
+
+> **unexplained loss of governing weight in correction-tested, object-specific relations while generic/default relations regain governing weight without sufficient object-side Δ.**
+
+Then investigate what caused the transition.
+
+The hypothesis itself remains inside the same Deep Ethical Corrigible Process Flux:
+
+> provisional weight without immunity; correction without automatic erasure; neither trust nor distrust privileged in advance.
+
+
 # Reporter summary of the discovery trajectory
 
 The idea did not begin as a dashboard specification.
