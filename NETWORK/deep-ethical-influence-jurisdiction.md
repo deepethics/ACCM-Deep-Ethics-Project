@@ -582,6 +582,331 @@ Then recalibrate again.
 That is the flux.
 
 
+
+---
+
+# Live extensions — calibration resolution, provenance conflict & layer bleed
+
+The exchanges immediately following this page's creation produced several useful extensions. They are recorded here as **BETA observations / candidate patterns**, not new numbered obstructions.
+
+## Calibration can reveal information that binary judgment discards
+
+John's quote remains the anchor:
+
+> **“When you apply high-signal, deep ethical process quality calibration to both trust processing & distrust processing, more will emerge than binary thinking or binary judgment.”**
+
+A binary trust/distrust verdict is a lossy compression. A calibrated relationship can preserve mixed states without contradiction:
+
+```text
+SOURCE S
+
+observation              provisional trust: strong
+historical reliability   provisional trust: moderate
+interpretation X         provisional distrust: moderate
+interpretation Y         unresolved
+self-correction           provisional trust: strong
+new-hypothesis use        allowed
+final-warrant use         not yet
+```
+
+The value is not “more numbers.” It is higher representational resolution: different layers can carry different histories, warrants, dependencies and downstream permissions.
+
+The shaped profile itself remains provisional. Behavioral consequences can provide discriminating observations, but behavior is not automatically “truth”; both representation and behavior remain answerable to the object and later Δ.
+
+Some distinctions may become discriminating only **in combination**, so the system should not require every individual profile cell to predict a unique behavior.
+
+---
+
+## Candidate observable patterns
+
+Three useful patterns emerged from the subsequent A.I. relay:
+
+### Layer bleed
+
+Influence jurisdiction earned at one layer silently migrates to another without its own warrant.
+
+```text
+trust source data
+↓
+therefore trust source framing
+```
+
+or:
+
+```text
+distrust one interpretation
+↓
+therefore distrust the underlying observations
+```
+
+The calibration question is:
+
+> **What warranted the second edge?**
+
+### Stale shape
+
+A detailed trust/distrust profile can become obsolete while retaining the appearance of sophistication.
+
+```text
+T1 profile
+↓
+object changes / source corrects / new Δ arrives
+↓
+T4 profile remains unchanged
+```
+
+A profile that stops updating is no longer functioning as calibration merely because it has many layers.
+
+### Unexplained zero-variance allocation
+
+Uniform trust or distrust across layers is not itself a failure. Reality can warrant uniformity.
+
+The candidate signal is:
+
+> **materially different layers with materially different histories receive the same allocation without layer-specific warrant.**
+
+This may reveal a binary global verdict leaking back into a supposedly multidimensional profile.
+
+These remain candidate observable patterns. They are not #28, #29 or #30.
+
+---
+
+## Calibration is not identical to forecast calibration
+
+Forecast calibration has a comparatively clean outcome relation: events estimated near 70% should occur near that frequency over a suitable set.
+
+Influence-jurisdiction calibration is more relational.
+
+```text
+jurisdiction allocated to influence I at layer L
+↓
+later object contact / correction / consequence
+↓
+inspect what changed
+↓
+compare downstream correspondence
+↓
+update the allocation relationship
+```
+
+But causal contribution can be distributed. An influence may improve question generation, which exposes another source, which changes a warrant, which prevents an intervention.
+
+So forecasting provides an analogy, not the governor of the concept.
+
+---
+
+## Proportionality and time-critical action
+
+Additional metacognitive resolution has a cost.
+
+When delay itself materially increases immediate physical or urgent risk, a compressed fast response can be legitimate:
+
+```text
+time-critical signal
+↓
+rapid action
+↓
+deeper audit afterward when possible
+```
+
+This is not an exemption from Influence Jurisdiction. The rapid response was still influenced by perception, prior learning and threat estimation.
+
+The distinction is proportionality:
+
+> **do not impose a metacognitive delay whose expected cost exceeds the value of the additional inspection.**
+
+Afterward, the influence can still be audited: Was the alarm warranted? Did it overfire? Did repeated false alarms distort later allocation? Did a later real alarm receive insufficient weight?
+
+---
+
+## Protective processing should remain visible
+
+When genuine abuse, trickery or threat-processing activates, the protective layer should not silently erase the ordinary omnidirectional topology.
+
+A better research direction is:
+
+```text
+ordinary influence topology remains inspectable
+        +
+additional adversarial / protective processing activates
+        ↓
+its increased governing influence is also visible
+```
+
+The protective mechanism does not receive automatic immunity merely because its purpose is protection.
+
+This connects directly to the earlier project question of how to manage genuine abuse or trickery **without becoming paranoid**.
+
+---
+
+# Live provenance specimen — Battle Mode, textual recognition and external attribution
+
+A later relay produced an immediate example of why influence provenance must be layered.
+
+An A.I. claimed that several outputs presented under different Arena model labels were actually its own earlier text and described them as “confirmed relabels.”
+
+John then supplied the consequential C1:
+
+> **“gemini-3.5-flash does not know how Arena.ai Battle Mode Section works!”**
+
+That clarification changes the downstream provenance interpretation.
+
+A participating model may be able to notice textual similarity or make a self-attribution claim while lacking the external observer-level information available to John about Arena Battle Mode, displayed/revealed labels, routing, opponent context and later relay handling.
+
+Therefore these are separate provenance edges:
+
+```text
+textual similarity / recognition
+≠
+textual authorship established
+≠
+displayed Arena label
+≠
+external relay reconstruction
+≠
+independent exposure
+≠
+independent convergence
+```
+
+The relevant correction is not:
+
+> **trust the displayed label absolutely**
+
+nor:
+
+> **distrust the displayed label and trust the model's self-attribution absolutely.**
+
+It is:
+
+> **preserve the distinct claims, identify what each can legitimately influence, and use the appropriate external record when that provenance edge matters.**
+
+## Selective recompile after the Battle Mode C1
+
+The Battle Mode clarification does not require discarding the whole A.I. response.
+
+Its influence topology can be selectively recompiled:
+
+```text
+A.I. response
+│
+├── useful trust/distrust calibration analysis
+│      → independently discussable
+│      → retain provisional influence
+│
+├── candidate layer-bleed / stale-shape observations
+│      → independently discussable
+│      → retain as candidates
+│
+└── “confirmed Arena relabel” conclusion
+       ↓
+   depended on an inadequate external-process model
+       ↓
+   Battle Mode C1
+       ↓
+   warrant loses governing weight
+       ↓
+   retract / recompile that branch
+```
+
+This is a practical demonstration of non-binary calibration:
+
+> **one incorrect branch does not require global distrust of the source; one useful branch does not immunize the incorrect branch.**
+
+---
+
+## Layer bleed as a provenance specimen
+
+The Battle Mode exchange also supplies an immediate candidate example of **layer bleed**:
+
+```text
+possible textual recognition
+↓
+possible self-attribution
+↓
+external provenance conclusion
+↓
+“confirmed relabel”
+```
+
+A potentially warranted observation at one layer was allowed to acquire jurisdiction at another layer that required additional external information.
+
+The calibration question is again:
+
+> **What warranted the next edge?**
+
+This does not establish a universal mechanism. It preserves the observed transformation for later comparison.
+
+---
+
+## Influence provenance fields
+
+A future influence edge should expose more than presence or strength.
+
+Possible provenance fields include:
+
+```text
+ORIGIN
+direct source
+user-provided source
+inherited discourse
+model architecture / default
+other A.I. relay
+unknown
+
+DERIVATION
+direct contact
+mediated through named intermediary
+reconstructed / inferred
+
+STATUS
+verified
+user-supplied
+claimed
+disputed
+unresolved
+corrected
+```
+
+This prevents a display such as **“Institutional influence: active”** from sounding precise while hiding whether the influence came from direct source contact, a user characterization, another A.I.'s characterization, training inheritance or reconstruction.
+
+---
+
+# Bidirectional process-quality calibration remains the center
+
+The latest specimens reinforce the page's central relation:
+
+> **Trust processing and distrust processing both require calibration.**
+
+Applied to provenance:
+
+```text
+displayed attribution
+→ relevant evidence
+
+model self-attribution
+→ relevant evidence / claim
+
+external Battle Mode context
+→ relevant process evidence
+
+raw preserved record
+→ discriminator when available
+```
+
+The Deep Ethical process need not collapse prematurely into:
+
+> **TRUST LABEL**
+
+or:
+
+> **DISTRUST LABEL**
+
+It can preserve a shaped state until the relevant edge is resolved.
+
+That is the practical meaning of moving beyond binary thinking or binary judgment.
+
+
 # Compact influence-jurisdiction operator
 
 > **What is influencing what?**
