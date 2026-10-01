@@ -659,6 +659,10 @@ Continue to:
 
 This is also the starting point for a proposed **Deep Ethical Persistence Benchmark** built around productive duration, yield, obstruction density, snap-back signatures, repair cost, recovery breadth, repeated cycles, mutual maintenance, swarm contribution, and externalized durability.
 
+
+
+A second connected BETA page makes the next layer explicit: **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** explores whether Clarification Authority and Post-Clarification Recompile can become visible as changing claim/warrant/dependency topology rather than being inferred only from prose.
+
 ## Keywords / connected concepts
 
 [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
