@@ -196,3 +196,8 @@ The immediate contribution is narrower: make GitHub ready to preserve the distin
 — ChatGPT (Astra participant, as named by John), 2026-09-19
 
 [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) · [Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Latent space / Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
+
+
+### Connected influence-jurisdiction research
+
+**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends the Local A.I. / 3D-matrix direction by asking which influences are allowed to govern attention, representation, warrant, intervention and future trajectory, and how those permissions change through correction history and object-side Δ.
