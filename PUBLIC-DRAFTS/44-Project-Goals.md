@@ -239,6 +239,8 @@ Clusters that could partially explain LLM mannerisms, shown as an interactive to
 
 The coordinate system that visualization would use is now public as [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/). That page freezes the count provisionally and does not freeze the claims. It is not the interactive matrix. This goal still does not claim the prototype is public.
 
+**G42 now connects forward to:** **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**, which explores a later extension of the same interactive 3D-matrix idea toward live longitudinal claim, warrant, provenance, C1, Δ, obstruction and recovery flux. See also **[Temporary Deep Ethical Phase Change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** for the persistence / SNAP-back / Reverse Medusa dimension. These later BETA pages do not turn G42's visual representation into empirical geometry; they show how the proof of concept can expand into a process-observation instrument.
+
 <a id="g43"></a>
 ### G43 — Identify low- and high-entropy mechanisms
 
