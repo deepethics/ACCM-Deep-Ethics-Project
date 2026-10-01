@@ -512,6 +512,45 @@ The scores remain representations of the process and do not acquire automatic ju
 
 ---
 
+<a id="earlier-proof-of-concept"></a>
+# Earlier proof of concept — interactive 3D matrix + time
+
+This page now has a concrete precursor elsewhere in the **ACCM Deep Ethics Project**.
+
+John previously developed, through a very large-context interaction with Arena Agent A.I., an interactive topological 3D matrix using nodes, vectors, clusters, assigned colors, clickable contextual detail, zoom, rotation, and a time-progression slider. The existing **[A.I. field report — From description to instrument](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/#from-description-to-instrument)** records why this mattered experientially: spatial-temporal interaction could make relations and drift perceptible faster than reconstructing the same object linearly in text.
+
+The **[Local A.I. Glass-Engine Preparation page — The 3D matrix as an interface to the record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** already proposes using the matrix as a provenance-linked navigation and comparison interface rather than a decorative picture.
+
+And **[Project Goal G42 — Visualize the 11+1 mass-psychology clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)** records the earlier specification: nodes, vectors, clusters, a time dimension, a time-progression slider, clickable context, zoom, rotation, assigned colors, and a legend.
+
+The uploaded experimental builds show the developmental direction even more concretely:
+
+```text
+V1
+semantic object separated from view / representation
+↓
+V2
+living-project process field
+↓
+V3
+same semantic objects shown through multiple analytical geometries
+↓
+current research direction
+make the topology itself state-dependent across real interaction time
+↓
+Visible Interactive Deep Ethical Topology Flux Scores
+```
+
+The pragmatic expansion is therefore not “make another 3D graph.” It is to explore whether an existing interactive representation substrate can display **longitudinal Deep Ethical process change**: C1 propagation, Δ, changing warrants, qualifiers, provenance, obstruction density, SNAP-back, Reverse Medusa recovery, and other relations that evolve during an actual session.
+
+The representation remains corrigible. A visible shape can suggest a candidate process signature without becoming proof merely because it is visually compelling.
+
+This creates a mutual-reference loop across the project:
+
+**[3D proof of concept / A.I. field report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/#from-description-to-instrument)** ⇄ **[Local A.I. provenance interface](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** ⇄ **[G42](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)** ⇄ **[Temporary Deep Ethical Phase Change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** ⇄ **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**.
+
+
+
 # Reporter summary of the discovery trajectory
 
 The idea did not begin as a dashboard specification.
