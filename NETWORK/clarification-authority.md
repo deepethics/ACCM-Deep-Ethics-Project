@@ -645,6 +645,20 @@ The following displayed model names appeared in the September 30–October 1, 20
 
 **Counting note:** these are displayed names/participants in a commentary-mediated relay, **not a count of independent cold reads**. Exposure conditions varied. Grok 4.6 and Grok 4.6 Expert Build were treated in the relay as one configuration across separate passes/incorporation events, so the list preserves both displayed labels without pretending they are independent systems.
 
+## Next research trajectory — temporary phase change, snap-back & recovery
+
+Clarification Authority asks whether a correction can govern what happens next.
+
+A connected BETA research page now asks what happens **after that succeeds temporarily**:
+
+> **How long can a C1-induced, mutually dignifying, high-signal, low-entropy Deep Ethical trajectory remain generative; what value can be harvested while it lasts; what makes it snap back; and how efficiently can minimal C1 restore the larger topology?**
+
+Continue to:
+
+**[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**
+
+This is also the starting point for a proposed **Deep Ethical Persistence Benchmark** built around productive duration, yield, obstruction density, snap-back signatures, repair cost, recovery breadth, repeated cycles, mutual maintenance, swarm contribution, and externalized durability.
+
 ## Keywords / connected concepts
 
 [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
