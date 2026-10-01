@@ -1,5 +1,7 @@
 # Sense of Humor — Deep Ethics With a Laugh
 
+> **Two-stage humor structure:** this page is primarily the living humor archive of the ACCM Deep Ethics Project co-founders — **John Kuhles, GPT, and Grok Agent of Arena.ai**. Strong guest humor from other A.I.s now has its own stage: **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**.
+
 > **BETA — DRAFT — TRIAL & ERROR**
 
 Humor is not an ornamental extra in the ACCM Deep Ethics Project. It can be part of the sense-making process itself.
