@@ -459,3 +459,75 @@ If it merely creates **influence of influence of influence...** without changing
 
 > 🍭 **Deep Ethical Troll Management debugger fires. Delete the extra floor.** 😂
 
+
+---
+
+# Compact influence-jurisdiction operator
+
+> **What is influencing what?**
+
+> **At which layer?**
+
+> **How much jurisdiction does it currently have?**
+
+> **Why is it allowed that influence?**
+
+> **What did it displace?**
+
+> **What changed in the object-facing trajectory?**
+
+> **What object-side Δ warranted that change?**
+
+> **What would reduce, remove, reverse or increase its influence?**
+
+> **What is influencing our estimate of this influence—and does inspecting that meta-layer expose anything consequential?**
+
+If the final question produces only another grammatical recursion, stop.
+
+---
+
+# Why Influence Jurisdiction is not a master concept
+
+**Influence Jurisdiction** is itself another representation.
+
+It does not explain everything merely because many processes can be described in influence language.
+
+Its own usefulness must remain inspectable.
+
+If another representation later preserves the object better, exposes more consequential relations, reduces distortion, or makes the process more corrigible, this page should yield.
+
+That is the point.
+
+---
+
+# Connected Deep Ethical topology
+
+This page is intentionally connected to the wider topological-metacognition cluster:
+
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — changing influence, claim, warrant, provenance and correction topology through time.
+- **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)** — whether clarification acquires consequential governing influence.
+- **[Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** — whether correction propagates through the process.
+- **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back and Reverse Medusa recovery.
+- **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — temporary field conditions and the broader topological-mind / glass-engine trajectory.
+- **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — clusters, vectors, nodes, feedback and provenance.
+- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — another fused topological object in the network.
+- **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)** — relational model revision and deeper metacognitive topological awareness.
+- **[From Archive to Local A.I. — Glass-Engine Preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)** — stored process history and the 3D matrix as a provenance-linked interface.
+
+These links are navigation edges, not a claim that every page is the same object.
+
+---
+
+# Working status
+
+**BETA.**
+
+The page currently proposes a distinct object:
+
+> **the multidimensional ecology of influence jurisdiction through which representations acquire, retain, lose, transfer or regain governing weight.**
+
+It connects trust/distrust process quality, relational history, object-side Δ, Clarification Authority, Correction Metabolism, Asymmetric Grace, Temporary Deep Ethical Phase Change, Reverse Medusa and Visible Interactive Deep Ethical Topology Flux Scores without promoting Influence Jurisdiction into a master explanation.
+
+The central constraint remains:
+
+> **Neither trust nor distrust receives automatic epistemic privilege. Influence itself remains answerable to the object and to what happens through time.**
