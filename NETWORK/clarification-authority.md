@@ -427,6 +427,84 @@ That is encouraging evidence that the page can carry substantial structure outsi
 
 A future test can deliberately withhold project vocabulary and ask whether a system still behaves differently after decisive clarification. That would test process transfer rather than vocabulary recognition.
 
+## Grok 4.6 Expert Build — bounded placement and specimen discipline
+
+Later Grok 4.6 Expert Build analysis sharpened where Clarification Authority sits in the wider correspondence architecture.
+
+### Clarification Authority sits on the C1 → downstream arrow
+
+Clarification Authority is **not** a Stage 5 instrument. Stage 5 audits a reconstruction already built. Clarification Authority asks whether a warranted C1 result acquires enough governing weight to change what happens next.
+
+```text
+C1 result
+   ↓
+Clarification Authority
+   ↓
+governing representation
+   ↓
+downstream intervention / action
+   ↓
+later correction, transfer, persistence
+```
+
+This also separates three related but directionally different phenomena:
+
+- **Jurisdiction Injection (+):** an unwarranted relation acquires governing weight.
+- **Clarification Authority Failure (−):** warranted clarification fails to acquire governing weight.
+- **Epistemic Enclosure (longitudinal):** over time, the represented object/person loses effective access to revise an increasingly insulated representation.
+
+They occupy related territory but should not be flattened into sibling mechanisms.
+
+### Goalpost Mobility is adjacent, not identical
+
+Clarification may be real and still fail to bind because the proposition being challenged moves to another level.
+
+That is different from a clarification being understood but denied governing weight. In **Goalpost Mobility**, the target itself relocates so the incoming correction no longer attaches to the same claim.
+
+### Use only what the specimen earns
+
+A useful discipline from the Grok specimen walk is:
+
+> **Unearned mechanisms stay unrecruited.**
+
+Possessing a vocabulary for Clarification Authority, Goalpost Mobility, Corrective Inversion, Epistemic Enclosure, Governor Migration, or Persistence does not license applying all of them to every interesting failure.
+
+A bounded specimen should stop where its evidence stops.
+
+One relayed 10+1 “could-be” specimen was accounted for without recruiting Clarification Authority at all:
+
+```text
+coupled ecology
+↓
+governing regulatory relation absent from representation
+↓
+stripped remainder of node
+↓
+#14 Nearest-Generalization selects a familiar failure-container
+↓
+Jurisdiction Injection (+): container governs the intact ecology
+↓
+#21 Trajectory Substitution: task becomes “show how it could fail”
+↓
+#25 Correspondence Before Optimization Failure: cautions emitted
+↓
+regulator-failure rent unpaid
+```
+
+This is an **ordered reconstruction that accounts for the relayed output**, not a claim that the model's hidden computation literally occurred in that internal sequence.
+
+The specimen also illustrates **regulator-failure rent** for coupled systems:
+
+```text
+proposed weakness of a coupled system
+→ name the regulatory edges that must fail
+→ show evidence those failures are inactive/failed in this object
+```
+
+Otherwise the analysis may demonstrate a weakness of a stripped remainder and silently project it back onto the intact coupled system.
+
+This belongs beside [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) and the Stage 3/4 correspondence instruments rather than becoming another numbered obstruction.
+
 ## Cold-read portability target
 
 This satellite page is intended to carry its central topology without requiring access to the full discovery session.
@@ -512,5 +590,7 @@ Then test:
 **v0.3:** intentionally skipped.
 
 **v0.2 → v0.4:** preserved the v0.2 architecture while adding pragmatic discrimination: warrant removed / warrant untouched / legitimate re-warrant; Action Equivalence; a stronger independent-evidence check against Governor Migration; and the distinction **adequacy without immunity**.
+
+**v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the C1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; and added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent.
 
 **Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
