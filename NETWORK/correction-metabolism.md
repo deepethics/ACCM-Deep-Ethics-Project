@@ -31,3 +31,8 @@ Related: [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NE
 Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e05), [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e06), [E07](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e07). Public wording is an editorial synthesis unless marked as a quotation.
 
 [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+
+
+### Connected influence-jurisdiction research
+
+**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
