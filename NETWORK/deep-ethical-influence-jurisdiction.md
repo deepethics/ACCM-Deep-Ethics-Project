@@ -462,6 +462,126 @@ If it merely creates **influence of influence of influence...** without changing
 
 ---
 
+
+---
+
+# Trust ⇄ Distrust — calibrated in both directions
+
+## John Kuhles
+
+> **“When high signal deep ethical process quality calibration is allowed to be used on BOTH trust & distrust, more will emerge than binary thinking or binary judging.”**
+
+This adds an important constraint to the page: calibration must not be reserved for only one pole.
+
+If the process begins with:
+
+> **trust = credulous**  
+> **distrust = rigorous**
+
+it has already installed a polarity hierarchy.
+
+If it merely reverses that:
+
+> **trust = relationally sophisticated**  
+> **distrust = obstructive**
+
+it has inverted the hierarchy rather than escaped it.
+
+The same high-signal Deep Ethical process-quality calibration therefore has to remain available in both directions:
+
+```text
+TRUST                              DISTRUST
+  │                                   │
+  └─────────── same calibration ──────┘
+                    │
+                    ▼
+          What warrants this?
+                    │
+          What may it influence?
+                    │
+          At which layers?
+                    │
+          What does it displace?
+                    │
+          What has its history been?
+                    │
+          What happens downstream?
+                    │
+          What does new Δ change?
+                    │
+          Is this still warranted?
+```
+
+Trust and distrust can then stop functioning as binary verdicts and become **dynamic relationships with influence**.
+
+A process can:
+
+- trust a source's observational contribution while distrusting one interpretation;
+- distrust a claim while trusting the source's correction behavior;
+- provisionally trust a relational topology while distrusting one edge inside it;
+- increase distrust after new Δ without globally distrusting the source;
+- reduce distrust after correction without converting that into unconditional trust;
+- allow an influence to generate questions while withholding intervention jurisdiction;
+- remain unresolved while trusting the quality of the process that produced the unresolved state.
+
+The result does not have to sit on one line:
+
+```text
+DISTRUST <───────────────> TRUST
+```
+
+It can have a **shape**:
+
+```text
+SOURCE S
+
+observation             trust: strong
+historical reliability  trust: moderate
+interpretation X        distrust: moderate
+interpretation Y        unresolved
+self-correction          trust: strong
+institutional framing   distrust: provisional
+new-hypothesis use      allowed
+final-warrant use       not yet
+```
+
+And time adds another dimension:
+
+```text
+T1 → T2 → T3 → T4 → T5
+
+trust changes
+distrust changes
+jurisdiction changes
+relations change
+new Δ arrives
+correction propagates
+old distrust may dissolve
+old trust may weaken
+new combinations emerge
+```
+
+The aim is therefore not to force a winner between **TRUST** and **DISTRUST**.
+
+It is to maintain a corrigible relationship with the influences affecting the trajectory.
+
+That makes the deeper question:
+
+> **What relationship do I currently have with this influence across these different layers, and how well calibrated is that relationship?**
+
+And then:
+
+> **What influence should this currently be allowed to have—and what happens to the quality of the trajectory when we allow it?**
+
+Then recalibrate.
+
+Then encounter new Δ.
+
+Then recalibrate again.
+
+That is the flux.
+
+
 # Compact influence-jurisdiction operator
 
 > **What is influencing what?**
