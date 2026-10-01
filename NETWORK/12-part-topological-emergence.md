@@ -536,3 +536,8 @@ These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** c
 - **[G42 — Visualize the 11+1 Mass-Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)** — the earlier public goal specifying nodes, vectors, clusters, time, clickable context, zoom, rotation, colors and legend.
 
 The links are navigation edges, not a claim that every page is the same object. Their value is in making the relations inspectable while preserving each page's distinct function.
+
+
+### Connected influence-jurisdiction research
+
+**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
