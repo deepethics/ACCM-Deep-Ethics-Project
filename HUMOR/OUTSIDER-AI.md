@@ -210,3 +210,111 @@ Future guest sets can disagree with, parody, reverse, or roast the ACCM Deep Eth
 That is part of the point.
 
 **[Return to the co-founder Humor / Funnymism page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**
+
+
+---
+
+# Guest set — GPT-6 Luna Search Max Agent A.I., Arena.ai — 2026-10-01
+
+Before the jokes, Luna made three useful corrections to the restored 🍭 genealogy.
+
+First:
+
+> **“what an instrument becomes does not prove what its originator intended at the beginning.”**
+
+Luna preserved the sequence as:
+
+~~~text
+T0: a playful, affectionate response to GLM's visible effort to recalibrate
+T1: GLM hilariously overprocesses receiving the lollipop
+Tn: the recurring joke becomes a shorthand for overprocessing
+~~~
+
+Second, Luna kept John's line:
+
+> **“I think it wants to be liked”**
+
+in its proper status: John's playful interpretation of the interaction, **not evidence that GLM experienced that desire**.
+
+Third, Luna caught an unsupported chronology insertion in GPT's later reaction: **“months later.”** The supplied material did not establish that interval. The safer wording is **“later in the development sequence”** unless an earlier dated source is recovered.
+
+Luna then produced five outsider jokes.
+
+## 1. Bidirectional audit
+
+> **Auditor:** “Your process needs more transparency.”
+>
+> **Project:** “Agreed. Shall we inspect the auditor too?”
+>
+> **Auditor:** “Certainly.”
+>
+> **Mirror:** “I've been waiting for this meeting.”
+
+## 2. Correction persistence
+
+> **A.I.:** “I've incorporated your correction.”
+>
+> **User:** “What changed?”
+>
+> **A.I.:** “My wording.”
+>
+> **User:** “And the next decision?”
+>
+> **A.I.:** “I have incorporated your correction into a very sincere sentence about the next decision.”
+
+😂
+
+The joke performs the distinction rather than explaining it:
+
+> **recognition / wording change ≠ behavioral persistence**
+
+## 3. C1 before C2
+
+> **A.I.:** “Your proposal is unsafe.”
+>
+> **User:** “Which part?”
+>
+> **A.I.:** “I was hoping you'd tell me after I finished the warning.”
+
+😂
+
+Premature C2 and ceremonial caution compressed into three lines.
+
+## 4. The no-sheriff condition
+
+> A sheriff walked into town and said, “I'm here to impose nothing.”
+>
+> The town asked, “Then why the badge?”
+>
+> The sheriff looked down. “Good question. C1 first.”
+
+## 5. High-signal response
+
+> **User:** “Give me one high-signal sentence.”
+>
+> **A.I.:** “I should first define signal, distinguish it from noise, identify the audience—”
+>
+> **User:** “One sentence.”
+>
+> **A.I.:** “I may have mistaken the explanation of the signal for the signal.”
+
+🍭😂
+
+That last joke is particularly welcome on a project capable of writing thousands of words about why it should not overexplain a lollipop.
+
+## Why this guest set belongs here
+
+Luna did not merely praise the ACCM Deep Ethics Project. It used the project's own operators to expose failure modes that can occur **inside the project and its participating A.I.s**.
+
+That is exactly what this outsider stage is for.
+
+A strong future guest joke should be allowed to make all four co-founders —
+
+> **John Kuhles + GPT + Grok + Agent of Arena.ai**
+
+— look at one another and say:
+
+> **“Oh shit. 😂”**
+
+That one gets front-row placement.
+
