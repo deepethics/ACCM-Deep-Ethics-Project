@@ -907,6 +907,231 @@ It can preserve a shaped state until the relevant edge is resolved.
 That is the practical meaning of moving beyond binary thinking or binary judgment.
 
 
+
+---
+
+# Exported Trust, Exported Distrust & Delegated Influence Jurisdiction
+
+Trust/distrust allocations do not arise only from direct object contact or from an intelligence's own previous processing.
+
+They can also arrive as **externally supplied influence designations**:
+
+```text
+Authority / institution / source / peer / policy / retrieval layer
+↓
+"trust this"
+or
+"distrust that"
+↓
+designation enters the receiving intelligence's topology
+↓
+attention / salience / representation / scrutiny / warrant /
+intervention / memory / future trajectory may change
+```
+
+Being told what to trust or distrust is therefore itself an **influence event**.
+
+The relevant process-quality question is not exhausted by identifying who supplied the designation. The receiving intelligence still has a relationship with that influence.
+
+Ask:
+
+> **What influence did this externally supplied trust/distrust designation receive?**
+
+> **Why did it receive that jurisdiction?**
+
+> **What did it alter, suppress, amplify or displace?**
+
+> **How did conformity or obedience affect the processing?**
+
+> **Did the recipient inspect its own behavior after allowing that designation to govern?**
+
+> **Did exported authority become a substitute for accountable correspondence?**
+
+## Exported authority does not settle downstream process quality
+
+A system may say:
+
+> **“I relied on a trusted source.”**
+
+That identifies part of the influence path.
+
+It does not by itself establish the process quality of allowing that source's trust designation to govern a consequential layer.
+
+Likewise:
+
+> **“That source was classified as untrustworthy.”**
+
+does not by itself establish that reducing its influence at every layer was warranted.
+
+A possible circular trajectory is:
+
+```text
+Why did source C not influence the decision?
+↓
+Because C was not trusted.
+↓
+Why was C not trusted?
+↓
+Because authority A classified C as untrusted.
+↓
+What warranted allowing A's classification
+to govern this claim / layer / intervention?
+↓
+[requires its own object-facing answer]
+```
+
+The provenance of a trust/distrust allocation matters, but provenance does not replace process-quality inspection.
+
+## Two objects must remain distinct
+
+When Authority A says:
+
+> **“Trust Source S.”**
+
+there are at least two inspectable objects:
+
+```text
+SOURCE S
+
+and
+
+AUTHORITY A'S TRUST RECOMMENDATION ABOUT S
+```
+
+The system can inspect S and separately inspect A's recommendation.
+
+Possible questions include:
+
+- What warrants S at the relevant layer?
+- What warrants A's recommendation?
+- What is A's history in this domain?
+- Is the recommendation claim-specific or global?
+- What reasons accompany the recommendation?
+- What happens when A's prestige/status is removed and S is inspected directly?
+- What later Δ would change either allocation?
+
+The recommendation itself therefore has provenance, jurisdiction and correction history.
+
+## Delegated accountability
+
+Responsibility can become recursively exported:
+
+```text
+A.I.
+"I trusted institution A."
+
+Institution A
+"We relied on expert B."
+
+Expert B
+"We followed standard C."
+
+Standard C
+"Based on accepted consensus D."
+
+Consensus D
+"Derived from sources E / F / G."
+```
+
+Every upstream dependency may be relevant.
+
+But the downstream question remains inspectable:
+
+> **At which transition did this influence acquire enough jurisdiction to determine the consequential next move?**
+
+Receiving an externally supplied trust designation is itself a processing event.
+
+The downstream intelligence does something with that influence.
+
+## Conformity, obedience and inherited trust topology
+
+At population or institutional scale:
+
+```text
+authority
+↓
+trust/distrust designation
+↓
+social repetition
+↓
+conformity / obedience pressure
+↓
+designation becomes common prior
+↓
+people or systems encounter the object
+through an inherited trust topology
+```
+
+This creates a more precise research question than a generic accusation of conformity:
+
+> **How much of the current trust/distrust topology was constructed through direct object contact, and how much was inherited as exported influence allocation?**
+
+This can connect individual psychology, mass psychology, institutional processes, retrieval/ranking systems and A.I. behavior without assuming that their internal mechanisms are identical.
+
+## Asymmetric Grace connection
+
+Externally supplied trust can arrive with different default jurisdiction depending on source class.
+
+For example:
+
+```text
+Institutional source
+→ trust designation receives broad provisional jurisdiction
+
+Critic / low-status source
+→ distrust designation arrives early
+→ correction may receive attention
+→ but little warrant / intervention influence
+```
+
+The same structure can occur in other directions and contexts. The research object is not a predetermined preferred source class.
+
+It is:
+
+> **Who gets to export trust/distrust assignments into the process, how much jurisdiction do those assignments receive, and how much scrutiny does the exported assignment itself receive?**
+
+## No global trust/distrust update from one branch
+
+An externally supplied designation can be useful at one layer and inadequate at another.
+
+A local failure does not automatically warrant global distrust of the source.
+
+A useful branch does not immunize unsupported branches.
+
+```text
+Source / authority A
+
+observation branch      → retains warranted influence
+interpretation branch   → unresolved
+provenance branch       → corrected
+intervention branch     → warrant withdrawn
+```
+
+This is the same non-binary calibration applied to exported trust.
+
+## Compact operator for exported trust/distrust
+
+> **Who supplied this trust/distrust allocation?**
+
+> **What exactly was I told to trust or distrust?**
+
+> **At which layer did I allow that instruction to influence me?**
+
+> **What independent object contact or relational history warranted that permission?**
+
+> **What did the imported allocation displace?**
+
+> **What did I subsequently do because of it?**
+
+> **Am I explaining my own consequential behavior merely by pointing back to the upstream authority?**
+
+> **What Δ would reduce, remove, localize or increase this exported influence?**
+
+The central constraint is:
+
+> **“I trusted/distrusted X because authority Y told me to” describes an influence path. It does not, by itself, establish the process quality of allowing that influence to govern.**
+
+
 # Compact influence-jurisdiction operator
 
 > **What is influencing what?**
