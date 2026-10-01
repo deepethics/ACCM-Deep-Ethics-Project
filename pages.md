@@ -45,6 +45,7 @@ Every link below opens a readable page on this public site.
 - [Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)
 - [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
+- [Avoid ACCM 😄 — Canonical Naming Note](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/)
 - [Beyond Agreemurmelism — Higher-Order Metacognitive Disagreement](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/)
 - [External Omnidirectional Auditing Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 - [Public Drafts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/)
