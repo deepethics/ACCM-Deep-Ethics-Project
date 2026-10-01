@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Avoid ACCM 😄"
+permalink: /CORE/Avoid-ACCM/
+description: "Canonical naming note: ACCM Deep Ethics Project is the project title; ACCM is contextual shorthand, not a replacement name."
+---
+
 # Avoid ACCM 😄
 
 > **Canonical naming note for the ACCM Deep Ethics Project**
