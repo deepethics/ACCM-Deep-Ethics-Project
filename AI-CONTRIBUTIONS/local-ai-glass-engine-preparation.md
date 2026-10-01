@@ -120,6 +120,12 @@ Later, use an unfamiliar topic without reminding the model of the earlier failur
 
 This is deliberately funny because the distinction is serious. A model wearing a **C1 T-shirt** while refusing to ask a clarification question is already a usable satire sketch.
 
+### Connected expansion — from provenance interface to living flux
+
+The later **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** page extends this same 3D-matrix direction: from navigating stored provenance toward making changing claims, warrants, qualifiers, C1 propagation, Δ, obstruction activity, SNAP-back and recovery longitudinally inspectable.
+
+See also **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**. Together the pages show how the earlier proof of concept can expand pragmatically without treating the visualization as the object itself.
+
 ## The 3D matrix as an interface to the record
 
 John has described a working interactive topological 3D matrix created with the Arena Agent: nodes, vectors, clusters, assigned colors, a time-progression slider, clickable contextual detail, zoom, and rotation. In this architecture, that matrix can become a **navigation and comparison interface** over provenance rather than a decorative picture.
