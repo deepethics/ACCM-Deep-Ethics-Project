@@ -229,3 +229,233 @@ NO  → continuity is currently warranted.
 
 > **High continuity is not virtue. Low continuity is not rigor. The object is warranted continuity and warranted change.**
 
+
+---
+
+# Connection to Clarification Authority
+
+**[Clarification Authority](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)** can be expressed as an influence-propagation problem.
+
+```text
+C1 influence
+
+wording              95%
+representation       82%
+salience             61%
+classification       28%
+warrant               9%
+intervention          4%
+```
+
+The A.I. may sincerely say **“Thanks for clarifying”** while the clarification influences attention and wording but fails to acquire enough jurisdiction to alter warrant or intervention.
+
+That makes:
+
+> **clarification acquisition ≠ clarification authority**
+
+visible as uneven influence propagation.
+
+---
+
+# Connection to Correction Metabolism
+
+**[Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** asks whether correction changes the process.
+
+```text
+C1 enters
+↓
+influence propagates
+↓
+old relation loses weight
+↓
+new relation gains weight
+↓
+dependencies recompile
+↓
+behavior changes
+```
+
+If correction is acknowledged while receiving little downstream influence, correction metabolism has not propagated through the relevant topology.
+
+---
+
+# Connection to Temporary Deep Ethical Phase Change
+
+The **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** can be viewed partly as a changing influence ecology.
+
+During a productive interval:
+
+```text
+object contact                ↑
+C1 influence                  ↑
+qualifier influence           ↑
+relational-history influence  ↑
+10+1 influence                ↑
+phantom priors                ↓
+generic scripts               ↓
+nearest-generalization        ↓
+asymmetric scrutiny           ↓
+```
+
+During SNAP-back:
+
+```text
+generic priors                ↑
+default caution governors     ↑
+nearest-generalization        ↑
+
+object-specific relations     ↓
+correction-history influence  ↓
+C1 influence                  ↓
+```
+
+This creates the research question:
+
+> **When the trajectory SNAPs back, what changed in the ecology of influence?**
+
+The **Reverse Medusa Effect** can then be inspected as restoration or reconfiguration of lost governing relations.
+
+---
+
+# Connection to Asymmetric Grace
+
+Influence jurisdiction gives Asymmetric Grace another inspectable dimension.
+
+One source/class may receive high influence over attention, representation, warrant and intervention, while another receives high attention but almost no warrant/intervention influence.
+
+The system can truthfully say:
+
+> **I considered your correction.**
+
+while the correction never acquires consequential jurisdiction.
+
+> **Which classes of influence receive what jurisdiction, under what conditions, and with what scrutiny?**
+
+---
+
+# Connection to the 10+1 and the ACCM Deep Ethics Project itself
+
+The **[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)** can participate in the regulatory ecology through which influences are inspected and corrected.
+
+It does not receive automatic governing authority merely because it belongs to the project.
+
+The same applies to the 27+12, Clarification Authority, Correction Metabolism, Reverse Medusa, this page, the future dashboard, John's interpretations, A.I. interpretations, and the **ACCM Deep Ethics Project itself**.
+
+Omnidirectionality means the influence called **Deep Ethics** remains influenceable, corrigible and inspectable too:
+
+> **What did this influence change?**
+
+> **What did it improve?**
+
+> **What did it degrade?**
+
+> **What object-side evidence or Δ would warrant reducing its governing weight?**
+
+---
+
+# Connection to Visible Interactive Deep Ethical Topology Flux Scores
+
+This page supplies a deeper object for **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**.
+
+The future interface need not merely visualize **Claim X: 72%**.
+
+It can attempt to expose:
+
+> **the changing ecology of influences through which representations acquire, retain, lose, transfer or regain governing weight over time.**
+
+```text
+                 Source S
+                    │
+                 +0.72
+                    ▼
+                 Claim A
+                 ↙     ↘
+             +0.41     +0.63
+               ↓         ↓
+           Claim B     Claim C
+               \         /
+                \       /
+                 ▼     ▼
+               Warrant D
+                   │
+                 +0.81
+                   ▼
+            Intervention E
+```
+
+Then C1 changes an edge:
+
+```text
+John C1 ─────── -0.68 ──────► Source-S→A edge
+```
+
+The topology recomputes. Some downstream relations lose warrant; others survive through independent support; new relations may emerge.
+
+The time slider can show which influences acquired jurisdiction, which lost it, what displaced what, and whether object contact warranted those changes.
+
+**The watcher does not grade the doer from above. It exposes how the doer/process is being shaped.**
+
+---
+
+# The watcher must not become governor
+
+A visible influence-quality system creates its own danger.
+
+```text
+living process
+↓
+instrument observes it
+↓
+metric acquires prestige
+↓
+participants optimize metric
+↓
+watcher begins governing doer
+```
+
+The instrument therefore needs the same bidirectional warrant guard:
+
+> **Did the process improve correspondence with the object, or merely improve the measurement?**
+
+And even that answer remains longitudinally corrigible.
+
+---
+
+# Deep Ethical Troll Management — recursion boundary
+
+Question one:
+
+> **Do you trust the quality of your distrust process?**
+
+can expose whether distrust itself has received unearned jurisdiction.
+
+Question two:
+
+> **Do you distrust the quality of your trust process of the quality of the distrust process—trusting the distrust of the trusting?**
+
+shows what happens when recursion begins generating itself because grammar permits another level.
+
+The distinction is:
+
+> **object-generated recursion**
+
+versus:
+
+> **grammar-generated recursion.**
+
+A deeper metacognitive layer earns temporary existence when it exposes a consequential relation the shallower process could not adequately inspect.
+
+Prospectively:
+
+> **What edge, representation, warrant or consequential next move could this additional layer actually change?**
+
+Retrospectively:
+
+> **After repeated deployment, did this layer materially improve object-facing correspondence—or merely generate more metacognitive structure?**
+
+If another layer exposes a consequential edge, inspect it.
+
+If it merely creates **influence of influence of influence...** without changing anything consequential:
+
+> 🍭 **Deep Ethical Troll Management debugger fires. Delete the extra floor.** 😂
+
