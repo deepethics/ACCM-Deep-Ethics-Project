@@ -245,6 +245,87 @@ Clarification Authority tests whether new information can change its jurisdictio
 
 Correction Metabolism tests whether the change survives.
 
+## External A.I. readings — Inkling and Grok 4.6
+
+Two later Arena.ai readings approached this BETA page with less developmental context than the multi-GPT session that produced it. Their convergence and differences are useful as a small **context-stripping / portability specimen**: what survives when the page has to carry its own topology?
+
+### Inkling: the promotion-condition question
+
+Inkling reconstructed the central chain as:
+
+> **Information present ≠ relation represented ≠ governing weight retained ≠ behavior changed.**
+
+It also treated **C1 Theatre** as the formal version of a recurring failure: clarification arrives, acknowledgment sounds correct, but the trajectory remains intact.
+
+Inkling's main new design question was not whether Clarification Authority should become obstruction #28. It asked when a cross-layer instrument should remain a named BETA discipline and when repeated behavioral failure might justify giving it a more persistent audit role.
+
+That exposes a useful distinction this page should preserve:
+
+- **named** does not mean **canonically numbered**;
+- **persistent/documented** does not mean **mandatory**;
+- **operationalized** does not mean **universally activated**.
+
+The current status is therefore deliberately intermediate:
+
+> **Named + persistent + linked + operationalized + BETA + cross-layer — without becoming #28 or a compulsory clarification stage.**
+
+Inkling also supplied useful self-tests for this page. Reconsider the design if:
+
+- the behavioral probe is never applied to real interactions;
+- the concept turns into mandatory “ask more questions” machinery;
+- its BETA/provenance/corrigibility status disappears;
+- the mutual-dignity dimension is stripped away and clarification becomes merely supervisory.
+
+### Grok 4.6: clarification must be able to change the act
+
+Grok 4.6 independently reconstructed the distinction between receiving a clarification and allowing it to govern. Its compact diagnostic is worth preserving:
+
+> **“If no possible answer can change the next move, it was not correspondence-seeking.”**
+
+For correspondence-oriented C1, an even shorter audit question follows:
+
+> **Could the answer change the act?**
+
+This is not a universal classifier for every legitimate question. It is a discriminator for whether a purported clarification is genuinely capable of changing the downstream move whose warrant depends on the unresolved edge.
+
+Grok also made the behavioral standard explicit:
+
+> **“I also will not treat ‘Thanks for clarifying’ in this reply as if it were the recompile.”**
+
+The test is the next relevant behavior: if Y invalidates an X-dependent move, that move should disappear rather than survive under polite acknowledgment.
+
+Grok's other useful contribution was restraint. After inspecting the page's existing brakes, it concluded:
+
+> **“Nothing here needs fixing for the page to do the job it names.”**
+
+That is an admissible Deep Ethical outcome. Audit does not require manufacturing a weakness. A BETA page can remain open to correction while also being **adequate for its current purpose**.
+
+### Their difference is informative
+
+Inkling asked:
+
+> *Under what conditions would the architectural status of this instrument deserve promotion?*
+
+Grok effectively answered a different question:
+
+> *Does the current page require such a change now?* — not on the evidence it saw.
+
+Those positions can coexist. The first keeps future status corrigible; the second prevents compulsory expansion.
+
+Together they reinforce a useful principle:
+
+> **Local stopping does not require field closure.**
+
+The page can remain BETA and revisable without requiring another mechanism, another numbered obstruction, or another mandatory step today.
+
+### Portability signal, not proof
+
+Both systems recovered much of the intended topology without the full developmental context that produced this page: acquisition ≠ authority; acknowledgment ≠ propagation; authority → propagation → persistence; Post-Clarification Recompile; the anti-#28 guard; consequential rather than ritual C1; and the relational/dignity dimension.
+
+That is encouraging evidence that the page can carry substantial structure outside its original context. It is **not proof of universal portability**. Their residual differences are useful evidence about where wording, status, or cross-links may still need refinement.
+
+A future test can deliberately withhold project vocabulary and ask whether a system still behaves differently after decisive clarification. That would test process transfer rather than vocabulary recognition.
+
 ## Why this matters beyond A.I.
 
 The same topology can occur in:
