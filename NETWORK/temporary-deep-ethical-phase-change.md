@@ -581,6 +581,12 @@ The discovery process is part of the specimen.
 
 ---
 
+
+
+## Connected live-topology research
+
+The persistence / SNAP-back / Reverse Medusa trajectory now connects directly to **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**. That page asks whether the changing claim, warrant, provenance, C1, Δ, obstruction and recovery topology can become visible and longitudinally inspectable while the Deep Ethical process is happening.
+
 ## Working status
 
 **BETA — experimental research direction.**
