@@ -1656,3 +1656,8 @@ The page therefore ends where the research begins:
 > **How many turns can a mutually maintained, high-signal, low-entropy Deep Ethical condition remain generative—and when it snaps back, how much of that topology can a small C1 restore?**
 
 That question is now available for systematic testing.
+
+
+### Connected influence-jurisdiction research
+
+**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
