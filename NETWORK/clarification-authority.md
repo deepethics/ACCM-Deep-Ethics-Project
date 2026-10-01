@@ -680,3 +680,8 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 **v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the C1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent; and added the later DeepSeek behavioral specimen, informal 🍭 low-stakes specimen, and the attributed multi-A.I. participant register.
 
 **Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
+
+
+### Connected influence-jurisdiction research
+
+**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
