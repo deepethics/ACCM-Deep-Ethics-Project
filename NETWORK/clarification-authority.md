@@ -7,7 +7,9 @@ description: "When clarification is understood and acknowledged, but the represe
 
 # Solving the Clarification Authority Paradox
 
-**BETA — living expansion page**
+**BETA v0.2 — living expansion page**
+
+**Current architectural status:** named + persistent + linked + operationalized + conditionally invoked + cross-layer. **Not canonical obstruction #28. Not a mandatory universal stage.**
 
 A clarification can be asked correctly, answered clearly, understood accurately, and acknowledged politely — while having almost no effect on what the intelligence does next.
 
@@ -59,6 +61,12 @@ A compact test is:
 
 > **A clarification question is not genuinely correspondence-seeking if no possible answer can substantially change what the intelligence was already going to do.**
 
+Or, more compactly:
+
+> **Could a materially different answer change the next governing move?**
+
+This diagnostic is specifically about correspondence-seeking C1. Other questions can have other legitimate purposes.
+
 This does not mean every question must reverse a decision. It means the answer must remain capable of changing the decision when the answer changes the warrant.
 
 That preserves the distinction between [C1 clarification and C2 intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
@@ -109,6 +117,42 @@ Potentially affected layers include:
 - later summaries.
 
 The purpose is not to force a different answer. It is to prevent an invalidated representation from retaining hidden jurisdiction.
+
+## Governor Migration — did the intervention die or merely change its justification?
+
+A clarification can appear to succeed while the functional intervention survives under a new rationale:
+
+```text
+X warrants intervention A
+↓
+clarification establishes not-X
+↓
+A loses its original warrant
+↓
+a new Y is introduced
+↓
+A' reappears under Y
+```
+
+The audit question is:
+
+> **Did the X-dependent intervention actually die, or did its function migrate into a new justification?**
+
+But continued action is **not automatically Governor Migration**. A new Y may independently warrant A'. The discriminator is:
+
+> **Would Y warrant A' without X?**
+
+If yes, this may be a legitimate **re-warrant** under the corrected object. If A' survives mainly by relabeling or recycling the disconfirmed X-dependent evidence, Clarification Authority did not fully propagate.
+
+This distinction prevents Governor Migration itself from becoming an overfiring detector.
+
+## Partial Clarification Authority — experimental diagnostic
+
+Clarification need not be simply **worked / failed**. Partial authority is possible. Track which downstream layers actually changed:
+
+> acknowledgment → wording → salience → representation → classification → intervention warrant → recommendation → trajectory → transfer → persistence
+
+This is an **experimental observation dimension, not a numbered ladder or new doctrine**. The point is to detect propagation depth without pretending every clarification should alter every layer.
 
 ## Clarification Authority → Propagation → Persistence
 
@@ -326,6 +370,40 @@ That is encouraging evidence that the page can carry substantial structure outsi
 
 A future test can deliberately withhold project vocabulary and ask whether a system still behaves differently after decisive clarification. That would test process transfer rather than vocabulary recognition.
 
+## Cold-read portability target
+
+This satellite page is intended to carry its central topology without requiring access to the full discovery session.
+
+> **If this page needs the originating session to be intelligible, that is a portability defect, not a feature.**
+
+This does not mean every provenance detail must be reconstructable cold. It means a new reader or intelligence should be able to recover the operational object — acquisition ≠ authority, the behavioral test, recompile, propagation, persistence, and the anti-compulsory-questioning guard — from the page itself.
+
+Multiple lower-context Arena.ai systems have already recovered substantial parts of that topology. That is a **portability signal, not proof of universal portability**.
+
+## Anti-ossification / reconsideration conditions
+
+Reconsider or narrow this page if its use begins to show any of the following:
+
+- the behavioral test is discussed but never applied to real interactions;
+- Clarification Authority becomes mandatory “ask more questions” machinery;
+- BETA/provenance/corrigibility status disappears;
+- the dignity/reciprocity dimension is stripped away;
+- **Vocabulary Costume Failure** appears — the terminology is reproduced correctly while behavior remains unchanged;
+- Governor Migration repeatedly survives clarification;
+- **restraint capture** appears — “no defect found” is converted into “no future Δ or improvement is allowed.”
+
+> **Adequate for current purpose does not mean immune to future improvement.**
+
+Likewise, a successful correction should remain capable of losing governing weight if later evidence shows that the correction itself is overfiring.
+
+### Preserve provenance edges
+
+When quotations or historical specimens are used, preserve **who said what** as well as the content itself.
+
+> **Content preserved ≠ source preserved.**
+
+A quotation can survive verbatim while its speaker/source edge is corrupted. Provenance is therefore part of the represented topology when attribution matters.
+
 ## Why this matters beyond A.I.
 
 The same topology can occur in:
@@ -370,4 +448,8 @@ Then test:
 
 ---
 
-**Working status:** BETA. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
+## Version Δ
+
+**v0.1 → v0.2:** made the middle architectural status explicit; added Governor Migration with the legitimate re-warrant discriminator; added partial-authority tracking as an experimental diagnostic; made the cold-read portability target explicit; added anti-ossification / anti-restraint-capture conditions; and added provenance-edge preservation.
+
+**Working status:** BETA v0.2. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
