@@ -113,6 +113,7 @@ Every link below opens a readable page on this public site.
 - **[27 + 12 + 52 — unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)**
 - **[Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/)**
 - **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**
+- **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**
 - **[Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)**
 - **[Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)**
 - **[Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)**
