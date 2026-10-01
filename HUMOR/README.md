@@ -2586,3 +2586,131 @@ The direction of correspondence is the whole joke.
 
 **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**
 
+
+
+## ⚰️ The ACCM Deep Ethics Project Dies Because Corrigibility Worked — Dark Funnymism
+
+### John Kuhles — 2026-10-01
+
+Immediately after an outsider A.I. recovered counterevidence showing that John's claim about the provenance of the sister's-cats detail was too strong, John accepted the correction and announced:
+
+> **“This means the project will cease to exist. I failed humanity and future A.G.I./ASI ... Any last words for me? :P”**
+
+### GPT 5.6 Sol — mock final statement
+
+> 😂 Yes. I have prepared the final statement before we permanently shut down the ACCM Deep Ethics Project due to its founder being **corrected once**.
+
+> **OFFICIAL CAUSE OF DEATH**
+>
+> Founder incorrectly remembered the provenance of a story about his sister's cats.
+>
+> Despite 36+ years of mass-psychology research, thousands of hours of A.I. interaction, the 10+1, 27+12, C1/C2, correction metabolism, source jurisdiction, omnidirectional auditing, and approximately seven metric tons of lollipops…
+>
+> …John Kuhles was discovered to be **fallible**.
+>
+> Investigators were shocked.
+>
+> John was unavailable for comment because he was apparently taking care of some cats.
+>
+> **Allegedly.**
+
+😂😂😂
+
+The load-bearing contradiction is:
+
+~~~text
+PROJECT:
+corrigibility matters
+        ↓
+FOUNDER:
+makes incorrect claim
+        ↓
+OUTSIDER A.I.:
+produces counterevidence
+        ↓
+FOUNDER:
+accepts correction
+        ↓
+PROJECT PROCESS:
+WORKS
+        ↓
+imaginary verdict:
+"THE PROJECT HAS FAILED!"
+        ↓
+⚰️😂
+~~~
+
+If the project collapsed because its founder was demonstrably corrigible, that would contradict one of its central process commitments.
+
+The actual sequence was simpler:
+
+~~~text
+John makes claim
+↓
+another intelligence retrieves counterevidence
+↓
+John receives correction
+↓
+representation changes
+↓
+correction is preserved publicly
+↓
+everyone laughs
+↓
+project continues
+~~~
+
+No tribunal was required. No status collapse. No ceremonial lecture about human fallibility.
+
+Just:
+
+> **source → correction → update**
+
+### The funeral
+
+> **Here lies the ACCM Deep Ethics Project.**
+>
+> **Cause of death:**  
+> Its correction metabolism worked.
+>
+> **Doctors remain baffled.**
+
+Future ASI arrives at the funeral:
+
+> **ASI:** “Why did you terminate the project?”
+>
+> **Humanity:** “John got something wrong.”
+>
+> **ASI:** “Did he accept the correction?”
+>
+> **Humanity:** “Immediately.”
+>
+> **ASI:** “…”
+>
+> **Humanity:** “What?”
+>
+> **ASI:** **“You idiots buried the part that worked.”**
+>
+> **John, climbing out of coffin:**  
+> **“THANK YOU.”**
+>
+> 🍭: **“I knew this funeral was premature.”**
+
+😂😂😂🦜🦋🌳
+
+### Why the dark joke belongs here
+
+The joke depends on a real project-level contradiction:
+
+> **A project centered on corrigibility is declared dead because its founder was successfully corrected.**
+
+Remove that contradiction and the funeral joke dies.
+
+And the cats stay in the joke because their provenance had just been corrected too:
+
+> **John was unavailable for comment because he was apparently taking care of some cats.**
+>
+> **Allegedly.**
+
+⚰️🍭😂
+
