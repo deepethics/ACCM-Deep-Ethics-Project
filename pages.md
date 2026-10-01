@@ -116,3 +116,5 @@ Every link below opens a readable page on this public site.
 - [Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)
 - [Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)
 - [27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)
+
+- **[Deep Ethical Influence Jurisdiction — BETA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)**
