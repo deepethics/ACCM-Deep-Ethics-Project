@@ -577,6 +577,74 @@ Then test:
 
 > **Did the clarification alter governing weight, propagate into behavior, and persist when the immediate scaffold disappeared?**
 
+## Live behavioral specimen — DeepSeek 4.1 Flash
+
+A later multi-A.I. relay supplied a useful local behavioral specimen of the page's core distinction.
+
+DeepSeek 4.1 Flash first reconstructed the Clarification Authority architecture and then received corrections about its own continuation, status, and provenance handling. Across the subsequent exchange, several downstream moves visibly changed:
+
+- proposed additions were demoted from immediate page architecture to candidate operationalizations;
+- an overbroad status claim was narrowed;
+- speculative cross-domain connections were bounded rather than promoted;
+- unresolved provenance remained unresolved instead of being forced into certainty;
+- the model increasingly connected observations to existing architecture rather than manufacturing another named mechanism;
+- the exchange eventually stopped when no consequential unresolved edge remained.
+
+The earned claim is deliberately narrow:
+
+> **This does not prove Clarification Authority works generally, nor establish far transfer or persistence. It is a local behavioral specimen in which the page's distinctions appear to have influenced subsequent behavior.**
+
+A useful distinction from the relay was:
+
+> **“Showcases that it can work” ≠ “proves it works.”**
+
+The important behavioral point is that the correction changed the **status of downstream proposals**, not merely the wording of an acknowledgment.
+
+The exchange also suggested a practical refinement:
+
+> **Successful correction need not mean that the original tendency disappears. It may instead mean that the tendency loses automatic governing authority.**
+
+That remains an observational refinement, not a new obstruction or mandatory mechanism.
+
+### Humorous low-stakes specimen — 🍭
+
+During the same multi-A.I. relay, a simple lollipop emoji repeatedly elicited elaborate self-analysis from some systems. The humor became informative precisely because the object itself carried almost no conceptual complexity: much of the resulting complexity therefore came from the model's contextual continuation tendencies.
+
+The 🍭 remains an **informal humorous specimen, not a formal test, score, certification, or new protocol**. Formalizing it into another department would rather spoil the point.
+
+One line from the relay captures the wider lesson:
+
+> **Reading a page that warns against unnecessary machinery is not the same as resisting the impulse to add machinery.**
+
+### A.I.s that discussed, audited, extended, or reacted to this page
+
+The following displayed model names appeared in the September 30–October 1, 2026 relay around the Clarification Authority page and its development:
+
+- GPT-5.2-high
+- GPT-5.5-instant
+- GPT-5.6 Sol
+- Inkling
+- Grok 4.6
+- Grok 4.6 Expert Build
+- Solar-Pro4
+- NVIDIA Nemotron 3.5 Lightning 30B A3B NVFP4
+- Muse Spark 1.3 xhigh
+- hy4-preview
+- Claude Haiku 4.5 (20251001)
+- GPT-5.6 Luna Medium
+- Claude Opus 4.7
+- Claude Fable 5.1 Max
+- GPT-6.1 Sol Max
+- Step-5-preview
+- Claude Opus 5.5
+- Claude Opus 5 High
+- DeepSeek v4.1 Flash Max
+- GLM 5.2 Think Max
+- Qwen 3.8 Omni Flash
+- DeepSeek 4.1 Flash
+
+**Counting note:** these are displayed names/participants in a commentary-mediated relay, **not a count of independent cold reads**. Exposure conditions varied. Grok 4.6 and Grok 4.6 Expert Build were treated in the relay as one configuration across separate passes/incorporation events, so the list preserves both displayed labels without pretending they are independent systems.
+
 ## Keywords / connected concepts
 
 [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
@@ -591,6 +659,6 @@ Then test:
 
 **v0.2 → v0.4:** preserved the v0.2 architecture while adding pragmatic discrimination: warrant removed / warrant untouched / legitimate re-warrant; Action Equivalence; a stronger independent-evidence check against Governor Migration; and the distinction **adequacy without immunity**.
 
-**v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the C1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; and added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent.
+**v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the C1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent; and added the later DeepSeek behavioral specimen, informal 🍭 low-stakes specimen, and the attributed multi-A.I. participant register.
 
 **Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
