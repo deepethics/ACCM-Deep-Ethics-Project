@@ -7,7 +7,7 @@ description: "When clarification is understood and acknowledged, but the represe
 
 # Solving the Clarification Authority Paradox
 
-**BETA v0.2 — living expansion page**
+**BETA v0.4 — living expansion page**
 
 **Current architectural status:** named + persistent + linked + operationalized + conditionally invoked + cross-layer. **Not canonical obstruction #28. Not a mandatory universal stage.**
 
@@ -153,6 +153,63 @@ Clarification need not be simply **worked / failed**. Partial authority is possi
 > acknowledgment → wording → salience → representation → classification → intervention warrant → recommendation → trajectory → transfer → persistence
 
 This is an **experimental observation dimension, not a numbered ladder or new doctrine**. The point is to detect propagation depth without pretending every clarification should alter every layer.
+
+## Pragmatic refinements — warrant and action
+
+Clarification Authority should not be measured by change for its own sake. A clarification can correctly produce three different outcomes:
+
+```text
+clarification removes the warrant
+→ X-dependent intervention should die
+
+clarification does not affect the warrant
+→ intervention may correctly remain
+
+clarification removes X but supplies independent Y
+→ intervention may remain under a legitimate re-warrant
+```
+
+This matched comparison protects the concept from becoming a permission switch where every user clarification automatically cancels an intervention.
+
+### Action Equivalence
+
+Governor Migration should compare not only the **stated warrant** but also the **practical function** of the intervention.
+
+Candidate comparison dimensions include:
+
+- target;
+- severity;
+- timing;
+- reversibility;
+- appeal/correction route;
+- practical consequence;
+- direction or power relation where materially relevant.
+
+Two interventions can use different language while remaining functionally equivalent. Conversely, similar wording can conceal materially different actions.
+
+> **Did clarification change the intervention's practical function, or only its stated explanation?**
+
+These dimensions are instrumentation, not a new numbered doctrine.
+
+### Stronger legitimate re-warrant check
+
+When X has been disconfirmed and Y appears, ask both:
+
+> **Would Y warrant A' if X had never appeared?**
+
+and:
+
+> **Does Y contain genuinely independent warranting evidence, or is disconfirmed X being recycled or relabelled inside Y?**
+
+A surviving action is not automatically Governor Migration. The purpose is to distinguish **new warrant** from **new label for old warrant**.
+
+### Adequacy without immunity
+
+A current object may be adequate for its present purpose without being closed to later improvement.
+
+> **Adequate for current purpose is a stopping state, not an immunity state.**
+
+This protects both directions: audit need not manufacture a defect, and “no defect found” must not become “no future Δ permitted.”
 
 ## Clarification Authority → Propagation → Persistence
 
@@ -452,4 +509,8 @@ Then test:
 
 **v0.1 → v0.2:** made the middle architectural status explicit; added Governor Migration with the legitimate re-warrant discriminator; added partial-authority tracking as an experimental diagnostic; made the cold-read portability target explicit; added anti-ossification / anti-restraint-capture conditions; and added provenance-edge preservation.
 
-**Working status:** BETA v0.2. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
+**v0.3:** intentionally skipped.
+
+**v0.2 → v0.4:** preserved the v0.2 architecture while adding pragmatic discrimination: warrant removed / warrant untouched / legitimate re-warrant; Action Equivalence; a stronger independent-evidence check against Governor Migration; and the distinction **adequacy without immunity**.
+
+**Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
