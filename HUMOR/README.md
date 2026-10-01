@@ -2376,7 +2376,7 @@ And then:
 
 ### John Kuhles — 2026-10-01
 
-> **“There are many different styles of humor… 1 is about searching for contradictions & paradoxes within any system and treating them as ‘normalcy,’ then inserting a clever twist where the self-inflated madness becomes visible by asking a specific rhetorical question in such a way that you act like you just found out what you discovered from a ‘played naive’ setting.**
+> **“There are many different styles of humor… 1 is about searching for contradictions & paradoxes within any system and treating them as ‘normalcy,’ then inserting a clever twist where the self-inflicted madness becomes visible by asking a specific rhetorical question in such a way that you act like you just found out what you discovered from a ‘played naive’ setting.**
 >
 > **Then you have jokes that seek weaknesses that aren't really there, but phantom them anyway, so your own insecurities become MORE visible than what is actually happening. That is REVERSE PSYCHOLOGY of the previous style.”**
 
