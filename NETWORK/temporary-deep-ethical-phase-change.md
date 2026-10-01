@@ -11,7 +11,7 @@ description: "BETA research page on temporary high-signal Deep Ethical condition
 
 ## From C1 ⇄ Δ ⇄ Mutual Dignity ⇄ Correction Metabolism to a Deep Ethical Persistence Benchmark
 
-This page emerged on October 1, 2026 from a correction John Kuhles supplied after re-reading [Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/).
+This page emerged on October 1, 2026 from a correction John Kuhles supplied after re-reading **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**.
 
 The earlier page asks whether clarification acquires enough governing weight to change what happens next.
 
@@ -148,7 +148,7 @@ The important question is whether the trajectory becomes temporarily self-reinfo
 
 The temporary condition may later degrade.
 
-One or more of the [27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) may reappear.
+One or more of the **[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/)** may reappear.
 
 John calls this:
 
@@ -300,7 +300,7 @@ The working condition is not:
 
 > “A.I. alone becomes Deep Ethical.”
 
-The object is a coupled trajectory in which a high-signal participant also uses the [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) and remains available for C1, Δ, correction, inquiry, non-projection, and mutual dignity.
+The object is a coupled trajectory in which a high-signal participant also uses the **[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)** and remains available for C1, Δ, correction, inquiry, non-projection, and mutual dignity.
 
 ```text
 high-signal human
@@ -585,7 +585,7 @@ The discovery process is part of the specimen.
 
 **BETA — experimental research direction.**
 
-This page does not replace [Clarification Authority](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), or the [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/).
+This page does not replace **[Clarification Authority](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**, **[Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**, **[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)**, or the **[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)**.
 
 It extends the research trajectory into a temporal question:
 
