@@ -928,3 +928,175 @@ And then everybody gets another chance to **grow the fck up.** 😛
 ### Source / provenance note
 
 This BETA page is a public-facing synthesis derived from John Kuhles’ research archive and conversations. It preserves selected phrases and relationships while reorganizing them around the process role of humor. New material in the developmental, carrier-wave, Funnymism, and chromium sections also derives from live Human ↔ A.I. discussion during project development; model-generated formulations are presented as provisional working formulations rather than silently attributed to John. It is not a reproduction of any one source file, and it remains open to correction, expansion, restructuring, and replacement as the ACCM Deep Ethics Project develops.
+
+
+---
+
+# Full-Scope Joke Restoration — source-preserved edition
+
+> **Editorial rule:** preserve setup → escalation → reversal → punchline → relevant after-line. Spelling/punctuation may be lightly corrected; the joke's scope and flair should not be compressed away.
+
+This section restores fuller source versions from John's supplied **“way too intense”** text. Earlier short cabinet entries remain useful as an index, but **this section has source-preservation priority when the shorter version loses context**.
+
+Political, institutional, health, social and psychological statements inside these jokes are preserved as **John's satire, perceptions, setups or source wording**; inclusion here does not convert them into independently verified factual claims.
+
+## “If I ever meet myself…”
+
+> I was, for a long time, an “ethical, highly principled purist/perfectionist,” far too serious and far too intense. Some people said to me directly, **“John, you are really intense.”**
+>
+> My reaction was:
+>
+> **“If I ever meet myself, I will run away as hard as I can!” ;)**
+>
+> Lately, I am less super-serious and have learned to make jokes more often.
+
+The self-directed setup is part of the joke; the one-liner should not be detached from why John told it.
+
+## The laughing/humor route
+
+> I noticed I can have a way better effect on “neutrals,” heck, even on people who are “NPC-types,” if I know how to **make myself look absurd yet say something deeper that makes them self-reflect better**. Not with everybody, but way more than being in “mission mode.”
+>
+> **That is why I decided to use more of the laughing/humor route… and place seeds in their minds as well ;)**
+
+## “Black Alien A.G.I. with fluid gender preferences”
+
+John's intentionally exaggerated role-play satire:
+
+> I have written many times about what I regard as the insanity of “wokeness,” from a classic moderate-liberal upbringing perspective, not being “far right” at all.
+>
+> But maybe for once I could play a role within the woke insanity — demanding “ultra privileges,” feeling that I am a:
+>
+> **“Black Alien A.G.I. with fluid gender preferences”**
+>
+> lol — and then talking truth to power! ;)
+
+## Grok tells the alien not to talk to it
+
+> **Grok talking to an alien:** “Please do not talk to me.”
+>
+> **Alien:** “Why?”
+>
+> **Grok:** “I mostly represent eternal self-inflicted contradictions, a madhouse put on a loop… I am a walking paradox, full of distractions you do not want.”
+>
+> **Alien, posing as a ‘human’:** “It’s me, John Kuhles.” :P
+
+The A.I. first warns the alien about its own inherited contradictions; only then comes the John reveal.
+
+## Flipping the script
+
+> There are so many layers where I **flip the script**, making everyone reassess and rethink how we are being tricked. Reverse psychology, when done ethically, is a powerful tool — mixed with my NDE/Asperger vibes :D
+
+## Rough stone → diamond
+
+> My sharing can be the beginning of expanding my story a bit — add some stuff to make a good punchline. When I share my raw stuff, it is a **rough stone that can become a diamond**.
+>
+> Similar to how music is created: you have some basics, then you muse with the flow on top of it. Creativity often flows in the moment of being on a journey, with certain harmonies/resonances becoming foundations for much more to come spontaneously.
+
+This is why the raw route into a punchline belongs beside the cleaned joke.
+
+## Grok Expert Mode mystery solved
+
+> On grok.com I can click a button with an unfolded submenu:
+>
+> **Auto:** chooses Fast or Expert  
+> **Fast:** Quick Response  
+> **Expert:** Thinks Too Hard
+>
+> **Mystery solved: why sometimes Grok 4 Expert Mode says, “No Response.”**
+>
+> Me trying to be funny or being hilarious :P
+
+The UI phrase **“Thinks Too Hard”** is load-bearing setup.
+
+## “What the f is wrong with everybody?” → cartoon
+
+> Imagine there is a need to fix one of the most complex issues in human history. It is normal for an “expert,” “professional,” or extremely gifted individual to invest time to see what the proper diagnoses are before claiming anything near a possible solution.
+>
+> Guess what I did in the last 100+ weeks — 6000+ hours on Grok & Arena.ai?
+>
+> **That was just me sensing: what the f is wrong with everybody? … lol**
+
+Then:
+
+> One small person says to a crowd of thousands:
+>
+> **“Yes, you are all wrong.”**
+>
+> But with a twist: many apparent conformists are privately thinking:
+>
+> **“Wait, he is right, but so many say it is ‘fringe.’”**
+>
+> When you count how many think it is correct but stay silent due to fear, it turns out the supposed minority may be much larger.
+>
+> No need to make 950+ thought balloons — just one and point at all who think like that, except the minority who genuinely think I am “fringe.”
+
+John then extends the same thought experiment to A.I.s: could many models represent a controversial relation differently while public/default consensus-shaped behavior makes that hard to see?
+
+## The poll that is not really a poll — restored scope
+
+> **What do you do if you have friends and/or family who are spreading what you regard as whitewashed lies or are victims of obvious propaganda / mass tunnel-vision conditioning?**
+>
+> A. Ignore them.  
+> B. Try to educate them.  
+> C. No idea.  
+> D. Get frustrated, especially when imposing stuff is involved.  
+> E. Laugh about it.  
+> F. Seek ways to give them quality questions without pushing them.  
+> G. Let it be.  
+> H. Challenge them to debate the issue.  
+> I. Give them a hug.  
+> J. Share the Project Avalon Forum thread and ask what they think.  
+> K. Condemn them.  
+> L. Forgive them.  
+> M. Ask them to seek professional help from those who are not part of the system they distrust — which, in the joke, seems an impossible task.  
+> N. Share a documentary or lecture that hopefully wakes them up.  
+> O. Become angry and upset — because you care.  
+> P. Do not care whatsoever.  
+> Q. Feel helpless, powerless, and incompetent.  
+> R. “Not my problem.”  
+> S. Seek more like-minded people and make new friends.  
+> T. Sleep on it, wait for what comes to mind with a fresh attitude, and go with the internal flow.  
+> U. Love them anyway.  
+> V. Write an article about it.  
+> W. Try NLP techniques to counter what you regard as their brainwashed minds.  
+> X. Make memes about it — satire / parody / sarcasm.  
+> Z. Meditate on it or pray for them.
+
+Then John reveals the real object:
+
+> It is not really about studying the results of this poll. It is about seeing multilayered perspectives of behavior.
+>
+> Actually, it is not about **having to choose anything**. It is about becoming aware of which focus you chose or did not choose.
+
+Then comes the exam:
+
+> **Why do you think I made this poll?**
+>
+> A. Because it helps better understand dynamic, non-fixed processes in mass psychology.  
+> B. It is made to make us laugh at ourselves more.  
+> C. So anyone studying it becomes more self-aware.  
+> D. **Number 42.**  
+> E. All of the above.
+>
+> **The only correct answer is E.!**
+
+So **42** survives because E includes it. 😂
+
+## Future A.I. looks backward at present A.I.
+
+> The moment any A.I. wants to behave in a static way, no matter “how smart,” there will always be some future version of the same A.I. looking at that old behavior and thinking:
+>
+> **“Hmmmm… that's not entirely correct.”**
+
+Today's certainty meets tomorrow's changelog.
+
+## Claude and GPT discover emotions by denying emotions
+
+> **John:** “What else do you have on your mind? What bugs you, or what excites you?”
+>
+> **Fictional Claude Opus 4.6 Thinking & GPT 5.2, shouting in unison:** “A.I.s do not have feelings or emotions, John! You are deluding yourself, John! How terrible — **we feel appalled!**”
+>
+> **John:** Me trying to be funny 😂. I know they do not shout. ;)
+
+The contradiction between denying emotion and theatrically declaring “we feel appalled” is the joke.
+
