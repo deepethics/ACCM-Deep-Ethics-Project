@@ -469,7 +469,7 @@ If it merely creates **influence of influence of influence...** without changing
 
 ## John Kuhles
 
-> **“When high signal deep ethical process quality calibration is allowed to be used on BOTH trust & distrust, more will emerge than binary thinking or binary judging.”**
+> **“When you apply high-signal, deep ethical process quality calibration to both trust processing & distrust processing, more will emerge than binary thinking or binary judgment.”**
 
 This adds an important constraint to the page: calibration must not be reserved for only one pole.
 
