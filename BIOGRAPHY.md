@@ -91,6 +91,41 @@ My method has never been “believe everything” or “debunk everything.” A 
 
 That distinction became especially important because media headlines often collapse “a report of a possible UFO” into “a UFO,” then announce that “the UFO” was a balloon, Venus, an aircraft, or something else. The resulting story teaches the public that a mystery was solved when the original object may only have been poorly represented from the beginning.
 
+### Historical continuity: UFO research did not begin with the UAP rebrand
+
+My involvement also gives me a long historical memory of the field. I do not regard the modern prominence of the term **“UAP”** as a reason to discard decades of earlier UFO research and begin again from whichever cases, institutions, or categories are currently considered respectable.
+
+Research and advocacy streams I have followed include **Dr. Steven M. Greer’s Disclosure Project**; **Stephen Bassett**, executive director of the **Paradigm Research Group**; **Citizens Against UFO Secrecy**, founded by attorney **Peter Gersten**; **Dr. Richard F. Haines** and the **National Aviation Reporting Center on Anomalous Phenomena (NARCAP)**, including its research and documentation involving thousands of pilot reports; **Ted R. Phillips’s physical-trace cataloguing**, including the 1975 CUFOS publication *4400+ Physical Traces Associated with UFO Sightings, a Preliminary Catalog*, concerning CE2 / Close Encounters of the Second Kind; **Timothy Good’s** *Above Top Secret: The Worldwide UFO Cover-Up*; and many other researchers, archives, cases, witnesses, documents, and competing interpretations.
+
+Listing these people, organizations, books, catalogues, or bodies of work does **not** mean that I accept every claim associated with them. My objection is to historical erasure. Earlier material should be examined case by case, with its evidence, weaknesses, provenance, unresolved questions, and later developments preserved—not discarded merely because the vocabulary or institutional center of gravity changed.
+
+I have watched a tendency emerge in which decades of accumulated UFO research are treated as though they should be forgotten so that the subject can receive a supposedly “fresh start” under the UAP label, with a newer set of institutions deciding which questions deserve attention. I reject that kind of reset. A new label can be useful, but it does not erase the research history that preceded it.
+
+Throughout that work, I never accepted that I should refuse to watch, read, or investigate something merely because another person or institution told me not to. **Studying a claim does not mean believing it. Refusing to examine it does not make one skeptical.**
+
+### A hypothesis I was willing to state before it was fashionable
+
+At our first sold-out international UFO conference at **De Rode Hoed, Keizersgracht 102, Amsterdam, on November 20, 1992**, I publicly proposed that some genuinely unexplained UFO phenomena might involve **us—humans—from the future**.
+
+In 1996, during the period in which I co-organized another sold-out international UFO conference at **Paradiso, Weteringschans 6–8, Amsterdam**, and appeared on the Dutch national television news/current-affairs program *NOVA*, I discussed the possibility more explicitly. I speculated that some reported **“Gray” beings with large black eyes** might conceivably be future genetically engineered or hybrid biological forms—for example, involving human DNA mixed with insect genes—and that such beings could hypothetically function as early **“time-travel guinea pigs”** or worker-bee-like biological forms.
+
+I also wondered whether this kind of model could provide one possible framework for interpreting recurring motifs in UFO-abduction reports, including **“missing time”** and reports in which experiencers say they were shown or warned about possible future scenarios that should be prevented. These were and remain **hypotheses and speculative interpretations, not established facts**.
+
+I was laughed at and ridiculed for proposing possibilities of this kind, including by people within UFO research who believed such speculation made serious UFO/UAP research more difficult. I did not regard ridicule as evidence that the hypothesis was false, just as I would not regard later popularity or conceptual resonance as evidence that it is true.
+
+The terminology itself also has a longer history than many contemporary discussions imply. I was already familiar with **UAP** through the work of Dr. Richard F. Haines and NARCAP, whose aviation-focused research documented thousands of pilot-related anomalous-phenomena cases. For me, “UAP” did not suddenly create a new subject; it became another term within a much longer research trajectory.
+
+### Later resonance without retroactive proof
+
+Decades later, I encountered contemporary discussions of **time loops, precognition, retrocausality, and possible relationships between future and present observers**, including the work of **Eric Wargo** and his 2026 discussion with **Jesse Michels** on *American Alchemy*. I find that development striking because questions that once attracted ridicule are now being explored in substantially more sophisticated contemporary conversations.
+
+I do **not** treat that conceptual resonance as proof that my 1992 or 1996 UFO hypotheses were correct. What interests me is the trajectory: an unusual hypothesis can move from ridicule to serious discussion without either social reaction—ridicule or later interest—settling the underlying question.
+
+I have also been fascinated by later science-fiction treatments of related motifs, including the television series *The 4400*, first broadcast in 2004, eight years after my 1996 public discussion. I treat such parallels as culturally interesting rather than evidentiary proof of the earlier hypothesis.
+
+This long trajectory became one of the formative conditions behind my later deep-ethical work. Controversial objects taught me to distinguish **social acceptance from evidentiary status, ridicule from refutation, later resonance from vindication, investigation from belief, and an unresolved hypothesis from either a fact or a disproven claim**. Those distinctions now recur throughout the **ACCM Deep Ethics Project**.
+
+
 ## Willem de Ridder, Luc Sala, and my pre-A.I. media ecology
 
 Willem de Ridder and Luc Sala were decisive enabling figures in my early media work. Willem interviewed me three times during the mid-1990s and described me as **“a walking encyclopedia of suppressed news”** across hundreds of topics. Together with Luc, he offered me the opportunity to develop my own local television work within Amsterdam’s alternative cable and broadcasting environment.
@@ -213,7 +248,7 @@ CEO & Founder, DeepEthical.ai
 
 **John Kuhles** is a Dutch independent researcher, broadcaster, publisher, conference organizer, media critic, and founder of DeepEthical.ai. For more than thirty-six years, he has studied UFO/UAP cases, individual and mass psychology, media framing, institutional behavior, emerging technology, and the treatment of controversial information.
 
-His investigative and public work began around 1990 after a UFO encounter while working as a security officer. He established a UFO working group and public hotline, co-founded *Exposure Magazine* and *Frontier Magazine*, organized major international conferences in Amsterdam, delivered more than 80 lectures across five countries, appeared 22 times on Dutch national television, and produced or hosted more than 200 local radio and television programs. Willem de Ridder—who interviewed him three times and called him “a walking encyclopedia of suppressed news”—and media pioneer Luc Sala were decisive enabling figures in his early Amsterdam broadcasting work.
+His full-time UFO/UAP research began shortly after his own UFO encounter while he was on duty as a security officer in Gaasperplas, Amsterdam, in 1990. He established a UFO working group and public hotline, co-founded *Exposure Magazine* and *Frontier Magazine*, organized major international conferences in Amsterdam, delivered more than 80 lectures across five countries, appeared 22 times on Dutch national television, and produced or hosted more than 200 local radio and television programs. Willem de Ridder—who interviewed him three times and called him “a walking encyclopedia of suppressed news”—and media pioneer Luc Sala were decisive enabling figures in his early Amsterdam broadcasting work.
 
 Kuhles’s mother studied psychology at the University of Amsterdam and combined social activism, investigation, radio, publishing, writing, and practical care. She taught him to question authority without becoming arrogant, observe individuals and crowds, remain open to correction, and treat unusual thought with dignity and humor. Kuhles regards this early environment as one of the central conditions behind his later work.
 
