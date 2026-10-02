@@ -2720,7 +2720,7 @@ And the cats stay in the joke because their provenance had just been corrected t
 
 ### John Kuhles — 2026-10-02
 
-> **Many variants of "Not X but Y" scripts aren't designed to have real correspondence, but to have an INFER ORGY hugging itself to death.**
+> **Many variants of "Not X but Y" scripts that some A.I.s use to manage the user aren't, in my view, designed for real correspondence, but for an INFER ORGY hugging itself to death.**
 >
 > cheers,  
 > John 🦜🦋🌳
