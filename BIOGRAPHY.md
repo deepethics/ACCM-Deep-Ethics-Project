@@ -81,11 +81,11 @@ Over the following decades, I:
 - appeared 22 times on Dutch national television, mainly in connection with UFO/UAP research and related social questions;
 - appeared in an uninterrupted 35-minute national television interview on RTL 5’s *Lijn 5 Live*;
 - participated by telephone twice in CNN’s *Larry King Live* UFO discussions;
-- produced or hosted more than 200 local radio and television programs in Amsterdam;
+- produced or hosted more than 200 local radio and television programs in Amsterdam between 1990 and 1998;
 - interviewed researchers, authors, professors, pilots, police officers, military personnel, whistleblowers, witnesses, experiencers, and documentary makers;
 - built an extensive audiovisual and documentary archive.
 
-I met many prominent figures in UFO research and adjacent fields, including John E. Mack, Stanton Friedman, Timothy Good, Steven Greer, Richard Dolan, Colin Andrews, Graham Hancock, David Icke, Catherine Austin Fitts, Bill Ryan, and many others. Meeting someone does not mean adopting everything that person believes. It gave me direct experience of the people, their arguments, their working methods, and the difference between a public reputation and a face-to-face exchange.
+Personally met and/or interacted with many prominent figures in UFO research and adjacent fields, including John E. Mack, Stanton Friedman, Timothy Good, Steven Greer, Richard Dolan, Colin Andrews, Graham Hancock, David Icke, Catherine Austin Fitts, Bill Ryan, and many others. Meeting someone does not mean adopting everything that person believes. It gave me direct experience of the people, their arguments, their working methods, and the difference between a public reputation and a face-to-face exchange.
 
 My method has never been “believe everything” or “debunk everything.” A **report of a possible UFO is not automatically a genuine unexplained UFO/UAP**. A proposed conventional explanation is also not automatically an established explanation. Evidence, alternative hypotheses, provenance, witness quality, recording conditions, and what remains unresolved must be kept separate.
 
