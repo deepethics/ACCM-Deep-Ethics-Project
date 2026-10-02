@@ -33,8 +33,12 @@ jobs:
           code = code.replace(old,new)
           code = code.replace("if level > 2 or title.startswith('Sense of Humor'): continue", "if level > 2 or title.startswith(('Sense of Humor','**100+ A.I.s Roast')): continue")
           code = code.replace("'</a>\\n'", "'</a>\\n\\n'")
+          old = "    if n in ids:\n        line = line.rstrip('\\r\\n') + ' {#' + ids[n] + '}\\n'"
+          new = "    if n in ids:\n        prefix += '<a id=\"' + html.escape(ids[n], quote=True) + '\"></a>\\n\\n'\n        line = line.rstrip('\\r\\n') + ' {#humor-anchor-' + ids[n] + '}\\n'"
+          assert code.count(old) == 1
+          code = code.replace(old,new)
           check = "assert set(ids.values()).issubset(set(parsed.ids)), 'An old heading link was lost'"
-          diagnostics = "print('MISSING_IDS', sorted(set(ids.values())-set(parsed.ids)))\nprint('RENDERED_IDS',parsed.ids)\n(audit_dir / 'preview.md').write_text(after,encoding='utf-8')\n(audit_dir / 'preview.html').write_text(rendered,encoding='utf-8')\n(audit_dir / 'before.html').write_text(render(before),encoding='utf-8')\n" + check
+          diagnostics = "print('MISSING_IDS', sorted(set(ids.values())-set(parsed.ids)))\n(audit_dir / 'preview.md').write_text(after,encoding='utf-8')\n(audit_dir / 'preview.html').write_text(rendered,encoding='utf-8')\n(audit_dir / 'before.html').write_text(render(before),encoding='utf-8')\n" + check
           assert check in code
           code = code.replace(check,diagnostics)
           exec(compile(code, 'reviewed-humor-cleanup', 'exec'))
