@@ -4,30 +4,185 @@ on:
     branches: [main]
     paths: ['.github/workflows/humor-deduplicate-once.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  inventory:
+  cleanup:
     runs-on: ubuntu-latest
+    env:
+      APPLY: '0'
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - name: Inventory headings and source integrity
+      - name: Prepare Markdown heading verification
+        run: gem install --user-install --no-document kramdown kramdown-parser-gfm
+      - name: Review and validate exact-span consolidation
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           python - <<'PY'
           from pathlib import Path
-          import hashlib, re
-          p = Path('HUMOR/README.md')
-          data = p.read_bytes()
-          blob = hashlib.sha1(b'blob ' + str(len(data)).encode() + b'\0' + data).hexdigest()
-          assert blob == '889e063d2bfb0634c790e77b46a9851df7055414', 'Source changed; refresh review before editing'
-          lines = data.decode('utf-8').splitlines()
-          print('SOURCE', blob, 'BYTES', len(data), 'LINES', len(lines))
-          fence = None
-          for i, line in enumerate(lines, 1):
-              if re.match(r'^(```|~~~)', line):
-                  marker = line[:3]
-                  fence = None if fence == marker else marker if fence is None else fence
-              if fence is None and re.match(r'^#{1,3} ', line):
-                  print(f'{i:5}: {line}')
+          from html.parser import HTMLParser
+          from collections import Counter, defaultdict
+          import base64, difflib, hashlib, html, json, os, re, subprocess, urllib.request
+          expected = '889e063d2bfb0634c790e77b46a9851df7055414'
+          path = Path('HUMOR/README.md')
+          before_bytes = path.read_bytes()
+          blob = hashlib.sha1(b'blob ' + str(len(before_bytes)).encode() + b'\0' + before_bytes).hexdigest()
+          assert blob == expected, 'Source changed: refresh editorial comparison before editing'
+          before = before_bytes.decode('utf-8')
+          lines = before.splitlines(keepends=True)
+          assert len(lines) == 5128
+          audit_dir = Path(os.environ['RUNNER_TEMP']) / 'humor-cleanup'
+          audit_dir.mkdir(exist_ok=True)
+          (audit_dir / 'HUMOR.before.md').write_bytes(before_bytes)
+          def render(text):
+              ruby = "require 'kramdown'; require 'kramdown-parser-gfm'; print Kramdown::Document.new(STDIN.read, input: 'GFM').to_html"
+              return subprocess.run(['ruby', '-e', ruby], input=text, text=True, capture_output=True, check=True).stdout
+          class Headers(HTMLParser):
+              def __init__(self):
+                  super().__init__(); self.headers = []; self.ids = []
+              def handle_starttag(self, tag, attrs):
+                  attrs = dict(attrs)
+                  if 'id' in attrs: self.ids.append(attrs['id'])
+                  if re.fullmatch('h[1-6]', tag): self.headers.append((int(tag[1]), attrs.get('id')))
+          def source_headers(text):
+              result = []; fence = None
+              for n, line in enumerate(text.splitlines(), 1):
+                  m = re.match(r'^(`{3,}|~{3,})', line)
+                  if m:
+                      marker = m.group(1)[0]
+                      fence = None if fence == marker else marker if fence is None else fence
+                      continue
+                  m = re.match(r'^(#{1,6})\s+(.+?)\s*$', line)
+                  if fence is None and m: result.append((n, len(m.group(1)), m.group(2)))
+              return result
+          original_headers = source_headers(before)
+          parser = Headers(); parser.feed(render(before))
+          assert len(original_headers) == len(parser.headers), 'Heading parser mismatch'
+          ids = {}
+          for (n, level, title), (rendered_level, anchor) in zip(original_headers, parser.headers):
+              assert level == rendered_level and anchor, (n, title)
+              ids[n] = anchor
+          titles = {n: title for n, _, title in original_headers}
+          # Superseded presentation -> retained fuller presentation, using reviewed source lines.
+          aliases = {41:959, 131:1039, 385:993, 406:939, 412:947, 420:1001,
+                     434:977, 446:1015, 460:1039, 478:1258, 494:1097,
+                     510:1123, 534:1151, 542:1089, 550:375, 558:145,
+                     574:1109, 586:1234, 608:1165, 625:1186, 631:1192,
+                     1302:2017, 4526:3123}
+          target_aliases = defaultdict(list)
+          for old, target in aliases.items(): target_aliases[target].append(ids[old])
+          annotated = []
+          for n, line in enumerate(lines, 1):
+              prefix = ''.join('<a id="' + html.escape(a, quote=True) + '"></a>\n' for a in target_aliases.get(n, []))
+              if n in ids:
+                  line = line.rstrip('\r\n') + ' {#' + ids[n] + '}\n'
+              annotated.append(prefix + line)
+          def block(a, b): return ''.join(annotated[a-1:b])
+          def raw(a, b): return ''.join(lines[a-1:b])
+          restored = block(939, 1301)
+          restored = restored.replace('# Full-Scope Joke Restoration — source-preserved edition', '# The Joke Cabinet — full source versions', 1)
+          old = "This section restores fuller source versions from John's supplied **“way too intense”** text. Earlier short cabinet entries remain useful as an index, but **this section has source-preservation priority when the shorter version loses context**."
+          new = "This cabinet keeps the fuller versions from John's supplied **“way too intense”** text, in the source's sequence. The earlier shortened retellings have been removed from the reading copy; the setups, escalation, punchlines and relevant after-lines stay together."
+          assert old in restored; restored = restored.replace(old, new, 1)
+          old = 'When a shorter joke index and this restored version differ in scope, use the restored version as the source-preserving representation.'
+          assert old in restored
+          restored = restored.replace(old, 'The full source sequence governs this cabinet. The navigation index links to these versions without supplying a second shortened retelling.', 1)
+          lollipop = block(2017, 2251)
+          old = 'This section is deliberately added **without replacing the older 🍭 diagnostic-tool section above**. The later diagnostic meaning remains useful. What changed here is the recovery of the earlier genealogy: how the lollipop actually entered the relationship in the first place.'
+          new = "John's restoration of the lollipop's origin is kept together with its later diagnostic reuse. The correction exchange below preserves how the earlier genealogy was recovered on 2026-10-01."
+          assert old in lollipop; lollipop = lollipop.replace(old, new, 1)
+          lollipop += '\n### Later diagnostic reuse — wrappers, protocols and the detector {#lollipop-later-diagnostic-reuse}\n\n' + block(1308, 1347) + '\n'
+          chromium = block(375, 384)
+          quote = '> **Give the project chromium to increase the correction metabolism.**'
+          assert quote in raw(550, 557)
+          parts = chromium.split('\n\n', 1)
+          chromium = parts[0] + '\n\n' + quote + '\n\n' + parts[1]
+          intro = "John's own setup and punchline appear in **[“If I ever meet myself…”](#" + ids[947] + ')**.\n'
+          edits = [(13,15,intro), (41,60,''), (131,144,''), (375,384,chromium),
+                   (385,405,''), (406,647,restored), (939,1301,''),
+                   (1302,1347,lollipop), (2017,2251,''), (4526,4555,'')]
+          edits.sort(); cursor = 1; pieces = []
+          for a,b,replacement in edits:
+              assert cursor <= a <= b
+              pieces += [block(cursor,a-1), replacement]
+              cursor = b+1
+          pieces.append(block(cursor,len(lines)))
+          after = ''.join(pieces)
+          # Bold the existing ZILLION navigation links; its actual joke and reaction are untouched.
+          after = re.sub(r'^Relevant project anchors: .+$', lambda m: re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'**[\1](\2)**', m.group(0)), after, flags=re.M)
+          # A collapsed title index provides one route to each retained section.
+          index = ['<details markdown="1">', '<summary><strong>Browse the jokes and live exchanges — titles in reading order</strong></summary>', '',
+                   'Older source material keeps its supplied sequence. Dated live exchanges follow their first appearance; later restoration and reuse of the same joke are grouped together.', '']
+          for n, level, title in source_headers(after):
+              if level > 2 or title.startswith('Sense of Humor'): continue
+              m = re.search(r' \{#([^}]+)\}$', title); assert m, title
+              target = m.group(1); label = title[:m.start()]
+              label = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', label).replace('**','').replace('`','')
+              index.append('- **[' + label + '](#' + target + ')**')
+          index += ['', '</details>', '']
+          marker = '> **BETA — DRAFT — TRIAL & ERROR**\n'
+          assert after.count(marker) == 1
+          after = after.replace(marker, marker + '\n' + '\n'.join(index), 1)
+          rendered = render(after)
+          parsed = Headers(); parsed.feed(rendered)
+          duplicate_ids = [key for key,count in Counter(parsed.ids).items() if count > 1]
+          assert not duplicate_ids, ('Duplicate IDs', duplicate_ids)
+          assert set(ids.values()).issubset(set(parsed.ids)), 'An old heading link was lost'
+          for target in re.findall(r'\]\(#([^)]+)\)', after):
+              assert target in parsed.ids, ('Missing internal target', target)
+          assert len(re.findall(r'fucking|fuck', after, re.I)) == 0, 'Uncensored spellings reintroduced'
+          # Unique contributor expansions and live correction records must remain byte-for-byte present.
+          for a,b in [(1348,2016),(2252,3122),(3182,4525),(4556,5128)]:
+              preserved = block(a,b)
+              assert preserved in after, ('Protected retained span changed',a,b)
+          assert 'Attendance: still zero.' in after
+          assert after.count('### Claude Sonnet 5.5 High — Arena.ai, 2026-10-02') == 1
+          (audit_dir / 'HUMOR.after.md').write_text(after, encoding='utf-8')
+          (audit_dir / 'HUMOR.after.html').write_text(rendered, encoding='utf-8')
+          diff = ''.join(difflib.unified_diff(before.splitlines(True), after.splitlines(True), fromfile='HUMOR.before.md', tofile='HUMOR.after.md'))
+          (audit_dir / 'HUMOR.diff').write_text(diff, encoding='utf-8')
+          report = ['# HUMOR duplicate-consolidation audit', '', 'Source commit: c9bb015a34d1dcae9c1708e0e70c9afc7beb56c6', 'Source blob: '+expected, '',
+                    '## Reviewed duplicate map', '', '| Earlier presentation | Retained presentation |', '|---|---|']
+          for old,target in aliases.items():
+              report.append('| '+str(old)+': '+titles[old]+' | '+str(target)+': '+titles[target]+' |')
+          report += ['', '## Complete original title inventory — top to bottom', '']
+          for n,level,title in original_headers:
+              if level <= 2: report.append('- Line '+str(n)+': '+title)
+          report += ['', '## Retained title inventory — top to bottom', '']
+          for n,level,title in source_headers(after):
+              if level <= 2: report.append('- '+re.sub(r' \{#[^}]+\}$','',title))
+          report += ['', 'The fuller source cabinet was moved into the earlier cabinet position. The lollipop origin and distinct later detector jokes were grouped at their first page appearance. The complete Allegedly exchange, September 28 live jokes, later live correction chains, and Sonnet dimensional extension were retained. Original heading IDs and aliases remain available. All retained prose outside the explicitly revised editorial notes was copied from the source rather than regenerated.', '']
+          (audit_dir / 'HUMOR-cleanup-audit.md').write_text('\n'.join(report),encoding='utf-8')
+          summary = {'before_bytes':len(before_bytes), 'after_bytes':len(after.encode()), 'before_lines':len(lines), 'after_lines':len(after.splitlines()), 'superseded_heading_links_preserved':len(aliases), 'duplicate_joke_topic_groups':len(set(aliases.values())-{939}), 'original_heading_links_preserved':len(ids), 'unique_contribution_checks':'passed', 'duplicate_html_ids':duplicate_ids, 'uncensored_spellings':0}
+          (audit_dir / 'summary.json').write_text(json.dumps(summary,indent=2),encoding='utf-8')
+          print('VALIDATION',json.dumps(summary))
+          for old,target in aliases.items(): print('CONSOLIDATE',old,titles[old],'=>',target,titles[target])
+          # Show possible remaining exact repeats for editorial inspection, not automatic deletion.
+          paragraphs=defaultdict(list)
+          for part in re.split(r'\n\s*\n', after):
+              norm=re.sub(r'\s+',' ',part).strip()
+              if len(norm)>140 and not norm.startswith(('<a ','- **[')): paragraphs[norm].append(part)
+          for norm,instances in paragraphs.items():
+              if len(instances)>1: print('RETAINED_REPEAT',len(instances),norm[:350])
+          if os.environ['APPLY'] == '1':
+              assert os.environ['GITHUB_REPOSITORY'] == 'deepethics/ACCM-Deep-Ethics-Project'
+              url='https://api.github.com/repos/'+os.environ['GITHUB_REPOSITORY']+'/contents/HUMOR/README.md'
+              headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'}
+              current=json.load(urllib.request.urlopen(urllib.request.Request(url+'?ref=main',headers=headers)))
+              assert current['sha']==expected, 'Concurrent page edit: stopped without writing'
+              payload={'message':'Consolidate HUMOR duplicates: retain full-source jokes and contributor expansions','content':base64.b64encode(after.encode()).decode(),'sha':expected,'branch':'main'}
+              request=urllib.request.Request(url,data=json.dumps(payload).encode(),headers={**headers,'Content-Type':'application/json'},method='PUT')
+              result=json.load(urllib.request.urlopen(request))
+              print('PUBLISHED_COMMIT',result['commit']['sha'])
+          else:
+              print('PREVIEW_ONLY: HUMOR/README.md was not changed')
           PY
+      - name: Preserve before, after, diff and title audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: humor-deduplication-audit
+          path: ${{ runner.temp }}/humor-cleanup/
+          retention-days: 30
