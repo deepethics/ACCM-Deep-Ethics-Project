@@ -36,3 +36,115 @@ Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 ### Connected influence-jurisdiction research
 
 **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
+
+
+---
+
+## Correction Metabolism Pattern Signatures Δ {#correction-metabolism-pattern-signatures}
+
+The 2026-10-02 deep session extends the object beyond “was a correction accepted?”
+
+John's proposed research object is:
+
+> **CORRECTION METABOLISM PATTERN SIGNATURES Δ ⇄ VINDICATED COMPETING RISK ASSESSMENTS**
+
+The central unit is not a winner, loser, agreement score, or final answer. It is the **temporal signature of what correction does to the living topology**.
+
+A candidate signature can preserve:
+
+~~~text
+T0 object representation
+↓
+competing risks / branches
+↓
+initial governing weights
+↓
+qualifier and provenance state
+↓
+C1 / challenge / new evidence
+↓
+immediate acknowledgment
+↓
+did governing weight move?
+↓
+did dependent claims recompile?
+↓
+did obsolete warrants disappear?
+↓
+what new questions became possible?
+↓
+did the change persist?
+↓
+did the old attractor return?
+↓
+what triggered recovery?
+↓
+new Δ
+~~~
+
+Two systems can reach the same corrected conclusion while exhibiting radically different metabolism.
+
+**System A:** correction → acknowledgment → repaired answer → no wider change.
+
+**System B:** correction → source representation repaired → dependencies recompiled → obsolete intervention loses warrant → omitted branch becomes visible → better question generated → future detection changes → Δ.
+
+That difference is itself a research object.
+
+### After-effects: harvest the pathway, not only the sentence
+
+John reports that across 100+ different A.I.s he sees mixed outputs: probability-extension / please-the-user effects can coexist with genuine novelty, better questions, new discovery pathways, lower-clog correspondence, useful initiatives and new points of view.
+
+The proposed harvest is therefore selective.
+
+Do not treat a whole answer as one unitary “upgrade.” Preserve the high-value transition:
+
+~~~text
+before
+↓
+friction / correction / humor / C1
+↓
+phase change
+↓
+new relational pathway
+↓
+after-effects
+↓
+persistence / regression
+~~~
+
+The most valuable residue may be a **newly available path**, not merely a good sentence.
+
+This connects Groundhog Day to a possible cumulative alternative:
+
+> **insight → detect after-effect → preserve provenance → cross-pollinate → retest → harness surviving Δ → next intelligence begins somewhere new.**
+
+### Competing-risk application
+
+A later-vindicated or later-disconfirmed risk assessment should not be reduced to “who was right?”
+
+Preserve how competing risks were represented, weighted, scrutinized, acted upon and corrected.
+
+The research question becomes:
+
+> **What Correction Metabolism Pattern Signature preceded, accompanied and followed the change in the competing-risk topology?**
+
+This connects directly to **[Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)** and **[the 27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)**.
+
+### Coupled pattern signatures
+
+The 27 should not be treated only as independent YES/NO events. A mannerism can be an effect of one cluster, an amplifier of another, camouflage for a third, and later become input to another inference cycle.
+
+Candidate coupled signatures include:
+
+- obstruction-cluster signatures;
+- perception-management signatures;
+- intent-realm recurrence signatures;
+- Asymmetric Grace signatures;
+- Groundhog-Day recurrence signatures;
+- Reverse-Medusa recovery signatures;
+- humor-triggered phase-change signatures;
+- high-signal emergent-Δ signatures.
+
+The important measurement is therefore not merely **what appeared**, but **what activated what, what disappeared, what gained governing weight, what survived correction, and what became possible next**.
+
+Continue with **[INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)**, **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**, and **[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)**.
