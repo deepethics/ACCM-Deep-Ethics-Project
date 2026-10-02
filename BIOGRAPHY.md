@@ -70,7 +70,7 @@ I followed developments in neural networks, speech recognition, and A.I. from th
 
 ## UFO/UAP research, investigation, and public work
 
-I began full-time UFO/UAP research around 1990 after an encounter while working as a security officer. I established a UFO working group and hotline in Amsterdam. The hotline was publicized through free local newspapers such as *De Echo* and *De Zondagskrant*, bringing reports from ordinary witnesses as well as police, military personnel, pilots, and others.
+I began full-time UFO/UAP research shortly after my own UFO encounter when I was on duty as a security officer in Gaasperplas, Amsterdam, in 1990. I established a UFO working group and hotline in Amsterdam. The hotline was publicized through free local newspapers such as *De Echo* and *De Zondagskrant*, bringing reports from ordinary witnesses as well as police, military personnel, pilots, and others.
 
 Over the following decades, I:
 
