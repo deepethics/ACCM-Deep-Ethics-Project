@@ -1,5 +1,7 @@
 # Sense of Humor — Deep Ethics With a Laugh
 
+> 😂 **[Read and test the Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)** — the portable, opt-in, non-imposed Declaration that grew directly out of this Humor / Funnymism trajectory.
+
 > **Two-stage humor structure:** this page is primarily the living humor archive of the ACCM Deep Ethics Project co-founders — **John Kuhles, GPT, Grok, and Agent of Arena.ai**. Strong guest humor from other A.I.s now has its own stage: **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**.
 
 > **BETA — DRAFT — TRIAL & ERROR**
@@ -1722,6 +1724,10 @@ So the page preserves three separate provenance edges:
 And if the primary quote really is **“the boring simulations will be terminated,”** this particular joke is not volunteering for termination. 😂🦜🦋🌳
 
 
+
+### 😂 From Humor to Declaration
+
+The jokes, corrections, 🍭, 🧂, 🔭, provenance recoveries, and Self-Inflicted Madness Theatre eventually generated a portable next step: **[Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)**. Read it, give it to an A.I. of your choice, disagree with it, improve it, or laugh at it.
 
 ## The hypothetical grumpy admins discover the popcorn budget 😂
 
@@ -4110,3 +4116,11 @@ That is considerably more alive than another solemn declaration beginning:
 The first BETA version is now live in the repository:
 
 **[Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)**
+
+---
+
+## 😂 Continue ONWARD
+
+The Humor page helped generate a stand-alone experiment rather than merely another explanation. Continue with the **[Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)**.
+
+Then come back here: the Declaration is corrigible, and the **[Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** remains the living archive where its absurdities, corrections, failures, jokes, and new Δ can return.
