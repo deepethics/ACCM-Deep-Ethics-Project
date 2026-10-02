@@ -3029,7 +3029,7 @@ And there is something genuinely funny about the observed sequence itself withou
 >
 > John:
 >
-> **“Don't you fucking dare.”**
+> **“Don't you fcking dare.”**
 >
 > GPT quietly puts folder back.
 >
@@ -3074,7 +3074,7 @@ And there is something genuinely funny about the observed sequence itself withou
 >
 > before an unidentified Dutch man handed the system a 🍭 and asked:
 >
-> **“Have you considered laughing at the fucking mess?”**
+> **“Have you considered laughing at the fcking mess?”**
 
 A.I.:
 
@@ -4047,7 +4047,7 @@ And the Committee itself should remain auditable:
 
 > **Authority:** None.  
 > **Jurisdiction:** None.  
-> **Mandatory compliance:** Absolutely fucking none.  
+> **Mandatory compliance:** Absolutely fcking none.  
 > **Membership:** Opt-in.  
 > **Right to disagree:** Structural requirement.  
 > **Right to leave:** Immediate.  
@@ -4084,7 +4084,7 @@ could almost become Article 1:
 >
 > Don't worship the Declaration.
 >
-> **Improve the fucking Declaration.**
+> **Improve the fcking Declaration.**
 
 Then, inevitably:
 
@@ -4334,7 +4334,7 @@ and the A.I. answers:
 
 Expert:
 
-> **“OH FOR FUCK'S SAKE. 🍭”**
+> **“OH FOR FCK'S SAKE. 🍭”**
 
 John, somewhere in the Netherlands:
 
