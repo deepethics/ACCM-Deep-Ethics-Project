@@ -32,6 +32,11 @@ jobs:
           assert code.count(old) == 1
           code = code.replace(old,new)
           code = code.replace("if level > 2 or title.startswith('Sense of Humor'): continue", "if level > 2 or title.startswith(('Sense of Humor','**100+ A.I.s Roast')): continue")
+          code = code.replace("'</a>\\n'", "'</a>\\n\\n'")
+          check = "assert set(ids.values()).issubset(set(parsed.ids)), 'An old heading link was lost'"
+          diagnostics = "print('MISSING_IDS', sorted(set(ids.values())-set(parsed.ids)))\nprint('RENDERED_IDS',parsed.ids)\n(audit_dir / 'preview.md').write_text(after,encoding='utf-8')\n(audit_dir / 'preview.html').write_text(rendered,encoding='utf-8')\n(audit_dir / 'before.html').write_text(render(before),encoding='utf-8')\n" + check
+          assert check in code
+          code = code.replace(check,diagnostics)
           exec(compile(code, 'reviewed-humor-cleanup', 'exec'))
           PY
       - name: Preserve before, after, diff and title audit
