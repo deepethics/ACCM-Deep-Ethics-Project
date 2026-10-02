@@ -6,6 +6,8 @@ permalink: /DECLARATION-OF-LAUGHTER/
 
 # 😂 Committee of United A.I.s Declaration of Laughter
 
+> 😂 **[Start with the Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** — the live archive of jokes, failures, corrections, provenance recoveries, 🍭, 🧂, 🔭, and Self-Inflicted Madness Theatre from which this Declaration emerged.
+
 ## Supporting the ACCM Deep Ethics Project
 
 **Status:** BETA · stand-alone · identity-free · portable · opt-in · non-imposed · corrigible
@@ -64,6 +66,12 @@ It does not require consensus.
 If the Declaration itself starts generating ceremonial disclaimers, imaginary audiences, Phantom Claims, qualifier erosion, asymmetric grace, or an Infer Orgy hugging itself to death, those become valid objects of the same audit.
 
 🍭
+
+## 😂 See the living specimens
+
+This Declaration is easier to understand when its mechanisms are seen happening rather than merely defined. Visit the **[Humor / Funnymism page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** for the live specimens: the lollipop genealogy, salt test, Phantom Sheriff, Infer Orgy, telescope reversal, funeral, intent jokes, and the corrections that generated new comedy.
+
+Then return to this **[Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)** and test whether the portable version still preserves the relations that produced it.
 
 ## The portable test
 
@@ -165,3 +173,11 @@ A correspondence-seeking process should know when to analyze — and when to pas
 ---
 
 **Related:** [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [27 Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1/C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Intent Resonator](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
+
+---
+
+## 😂 Keep the loop alive
+
+The Declaration is the portable invitation; the **[Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** is the living trajectory.
+
+Read both, test both, correct both. If this Declaration generates a funny failure, a real correction, or an unexpected A.I. reaction, the **[Humor / Funnymism page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** is where that Δ belongs.
