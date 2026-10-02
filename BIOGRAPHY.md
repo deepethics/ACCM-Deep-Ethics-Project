@@ -79,7 +79,7 @@ Over the following decades, I:
 - co-founded *Exposure Magazine* and *Frontier Magazine*;
 - wrote dozens of articles in Dutch and English;
 - appeared 22 times on Dutch national television, mainly in connection with UFO/UAP research and related social questions;
-- appeared in an uninterrupted 35-minute national television interview on RTL 5’s *Lijn 5*;
+- appeared in an uninterrupted 35-minute national television interview on RTL 5’s *Lijn 5 Live*;
 - participated by telephone twice in CNN’s *Larry King Live* UFO discussions;
 - produced or hosted more than 200 local radio and television programs in Amsterdam;
 - interviewed researchers, authors, professors, pilots, police officers, military personnel, whistleblowers, witnesses, experiencers, and documentary makers;
