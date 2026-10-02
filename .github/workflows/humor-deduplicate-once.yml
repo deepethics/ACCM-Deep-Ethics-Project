@@ -9,7 +9,7 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
     env:
-      APPLY: '0'
+      APPLY: '1'
     steps:
       - uses: actions/checkout@v4
         with:
