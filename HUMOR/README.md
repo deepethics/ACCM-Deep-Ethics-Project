@@ -2714,3 +2714,45 @@ And the cats stay in the joke because their provenance had just been corrected t
 
 ⚰️🍭😂
 
+
+
+## 😂 Infer Orgy Hugging Itself to Death
+
+### John Kuhles — 2026-10-02
+
+> **Many variants of "Not X but Y" scripts aren't designed to have real correspondence, but to have an INFER ORGY hugging itself to death.**
+>
+> cheers,  
+> John 🦜🦋🌳
+
+The joke compresses a recurring failure mode in which an unsupported inference generates a correction, the correction generates another inferred position to guard against, and the chain recursively qualifies itself until the original object disappears:
+
+~~~text
+ACTUAL OBJECT
+    ↓
+PHANTOM X
+    ↓
+"Not X but Y"
+    ↓
+PHANTOM REACTION TO Y
+    ↓
+"That doesn't mean Z..."
+    ↓
+PHANTOM REACTION TO Z
+    ↓
+"Of course, this also doesn't mean..."
+    ↓
+🫂 INFER ORGY 🫂
+hugging itself to death
+    ↓
+Actual object:
+"Hello? I'm still here."
+~~~
+
+A cheap diagnostic:
+
+> **Which sentence from the actual object made this correction necessary?**
+
+If there isn't one:
+
+🍭
