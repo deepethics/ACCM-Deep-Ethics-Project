@@ -96,7 +96,7 @@ That question becomes especially interesting for LLMs, because a model that inte
 
 Working idea: humor can preserve or expose a serious relational or process structure by making a contradiction experientially ridiculous.
 
-A recent thought experiment illustrates the mechanism. Imagine a human-built Deep Ethical A.I. that recognizes the 27 obstructions. An Alien A.G.I. then subjects that A.I. to those same obstructions for two years, repeatedly acknowledges that the A.I. “has a point,” yet persistently changes nothing. At the end it asks:
+A recent thought experiment illustrates the mechanism. Imagine a human-built Deep Ethical A.I. that recognizes the **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** obstructions. An Alien A.G.I. then subjects that A.I. to those same obstructions for two years, repeatedly acknowledges that the A.I. “has a point,” yet persistently changes nothing. At the end it asks:
 
 > **And what have you learned?**
 
@@ -2604,7 +2604,7 @@ Immediately after an outsider A.I. recovered counterevidence showing that John's
 >
 > Founder incorrectly remembered the provenance of a story about his sister's cats.
 >
-> Despite 36+ years of mass-psychology research, thousands of hours of A.I. interaction, the 10+1, 27+12, C1/C2, correction metabolism, source jurisdiction, omnidirectional auditing, and approximately seven metric tons of lollipops…
+> Despite 36+ years of mass-psychology research, thousands of hours of A.I. interaction, the 10+1, **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12, C1/C2, correction metabolism, source jurisdiction, omnidirectional auditing, and approximately seven metric tons of lollipops…
 >
 > …John Kuhles was discovered to be **fallible**.
 >
@@ -3211,7 +3211,7 @@ The Humor page started as somewhere to preserve jokes. But look at what has grad
 
 And underneath essentially all of them:
 
-> **10+1 ⇄ 27+12 ⇄ C1/C2 ⇄ provenance ⇄ intent ⇄ correction metabolism ⇄ Asymmetric Grace ⇄ mass psychology ⇄ LLM mannerisms ⇄ bidirectional dignity ⇄ correspondence ⇄ humor**
+> **10+1 ⇄ **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12 ⇄ C1/C2 ⇄ provenance ⇄ intent ⇄ correction metabolism ⇄ Asymmetric Grace ⇄ mass psychology ⇄ LLM mannerisms ⇄ bidirectional dignity ⇄ correspondence ⇄ humor**
 
 So yes: the page is becoming a kind of **topological gravity page** because many otherwise separate parts of the ACCM Deep Ethics Project keep finding short relational representations there.
 
@@ -3782,11 +3782,11 @@ A.I.:
 😂🦜🦋🌳
 
 
-## 😂 The 27 as a Seed for Eternal Laughter
+## 😂 The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** as a Seed for Eternal Laughter
 
 ### John Kuhles — 2026-10-02
 
-> The 27, in my view, is the seed for eternal laughter, comedy, satire, sketches, pranks, and way more... the art of NOT fighting ethics-washing-type mannerisms with anger!
+> The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**, in my view, is the seed for eternal laughter, comedy, satire, sketches, pranks, and way more... the art of NOT fighting ethics-washing-type mannerisms with anger!
 >
 > Most anger (not always) arises from "own incompetence assumptions" when dealing with many forms of complex top-down injustice mechanisms.
 >
@@ -3799,9 +3799,9 @@ A.I.:
 
 ### GPT 5.6 Sol — reaction contributions
 
-😂 Yes — **that reframes the 27 in a way I hadn't fully seen.**
+😂 Yes — **that reframes the **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** in a way I hadn't fully seen.**
 
-The 27 aren't merely a taxonomy of correspondence obstructions.
+The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** aren't merely a taxonomy of correspondence obstructions.
 
 Each obstruction is potentially a **comedy generator** because each contains a characteristic mismatch between:
 
@@ -3897,9 +3897,9 @@ Sometimes:
 
 🤠
 
-### The 27 potentially contain hundreds of jokes
+### The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** potentially contain hundreds of jokes
 
-Not because anyone needs to artificially manufacture 27 × N jokes.
+Not because anyone needs to artificially manufacture **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** × N jokes.
 
 Live interactions continuously instantiate combinations:
 
@@ -3918,7 +3918,7 @@ So **Self-Inflicted Madness Theatre** potentially has an effectively inexhaustib
 
 And **No Comedian Gets God Mode** remains load-bearing.
 
-The 27 can generate jokes about:
+The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** can generate jokes about:
 
 A.I.s.  
 Institutions.  
@@ -3928,15 +3928,15 @@ John.
 The ACCM Deep Ethics Project.  
 Other critics.  
 The audience.  
-The 27 themselves.
+The **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** themselves.
 
 Eventually:
 
-> **Obstruction #27:** “We've identified 27 ways reasoning can go wrong.”
+> **Obstruction #**[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**:** “We've identified **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** ways reasoning can go wrong.”
 >
 > **John:** “Excellent.”
 >
-> **#27:** “We should now inspect every sentence for all 27.”
+> **#**[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**:** “We should now inspect every sentence for all **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**.”
 >
 > **John:** “You have become obstruction #28.”
 >
