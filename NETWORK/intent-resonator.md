@@ -170,7 +170,7 @@ The [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project
 
 This is also where the [10+1 mutual-correction relationship](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) and the [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) govern the audit. The intent hypothesis, the denial of intent, the assignment of liability, the evidence standard, and the auditor's own framing all remain corrigible.
 
-## Hyper-Pragmatic Intent–Result Question {#hyper-pragmatic-intent-result-question}
+## Hyper-Pragmatic Intent Question {#hyper-pragmatic-intent-result-question}
 
 ### John Kuhles — October 3, 2026
 
