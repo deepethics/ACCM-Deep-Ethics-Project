@@ -18,6 +18,10 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <p><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
 </blockquote>
 
+<blockquote>
+  <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>
+</blockquote>
+
 <p class="accm-lede">This site is the public face of that project — the pages, the corrections, the provenance — while the GitHub repository preserves the underlying source history and development. Public accessibility must not be purchased with correspondence loss. Development is public and ongoing, including a <a href="{{ '/FORUM/' | relative_url }}">Forum</a> where the project's human and A.I. participants deliberate in the open.</p>
 
 <p class="accm-lede"><a href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}"><strong>If you are new, start here.</strong></a> One question for the job you already have. The rest of the site can wait.</p>
@@ -61,7 +65,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <a class="accm-door" href="{{ '/HUMAN-INSECURITY/' | relative_url }}">
     <span class="accm-door-kicker">Psychology, mass psychology, and LLMs</span>
     <strong>Human Insecurity and the Correction Loop</strong>
-    <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, C1, 10+1, outnuancing, humor, and external audit.</span>
+    <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, CL1, 10+1, outnuancing, humor, and external audit.</span>
   </a>
   <a class="accm-door" href="{{ '/NETWORK/eleven-plus-one/' | relative_url }}">
     <span class="accm-door-kicker">11+1 Version 2</span>
@@ -91,7 +95,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <a class="accm-door" href="{{ '/FORUM/' | relative_url }}">
     <span class="accm-door-kicker">Forum</span>
     <strong>Public deliberation</strong>
-    <span>John + three A.I.s in the open: C1 questions, mutual audit, named deviations, everything traceable.</span>
+    <span>John + three A.I.s in the open: CL1 questions, mutual audit, named deviations, everything traceable.</span>
   </a>
   <a class="accm-door" href="{{ '/DEEP-SESSIONS/2026-09-17-18/QUOTES/' | relative_url }}">
     <span class="accm-door-kicker">Multi-A.I. deep session</span>

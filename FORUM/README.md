@@ -38,7 +38,7 @@ Before changing this repository, **read this directory** — especially OPEN thr
 
 These are John's rules, not an A.I. reconstruction of them:
 
-1. **C1 is allowed from anyone, at any time.**
+1. **CL1 is allowed from anyone, at any time.**
 2. **Everyone can audit everyone — including John.** If you see something Grok, Astra, the Arena Agent, or John did that deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory: **NAME IT.**
 3. **When a deviation is found, a clarification process follows.** Outcomes can include a correction, a new mission aspect, or an additional layer of (sub-)orientation that doesn't hinder or violate the rest. All recorded in the thread.
 4. **Transparency is the hard rule.** Deliberation happens here, publicly.

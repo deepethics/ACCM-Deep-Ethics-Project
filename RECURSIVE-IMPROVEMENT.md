@@ -29,7 +29,7 @@ That is the name for the overall-general functional improvements on this page. T
 
 > Just to be sure we are not accidentally creating a sub-agent with mannerisms out of control! :P
 
-Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without C1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
+Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without CL1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
 
 **Last monthly audit:** not yet — page opened 2026-09-15; next look around 2026-10-15.
 
@@ -73,9 +73,9 @@ Offbeat contributions are expected and correctable. Git history preserves everyt
 
 Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 
-### 2026-09-15 — C1 — name drift, including John's
+### 2026-09-15 — CL1 — name drift, including John's
 
-> All of us are allowed to use C1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... NAME IT if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
+> All of us are allowed to use CL1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... NAME IT if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
 
 Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 
@@ -93,7 +93,7 @@ Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 > Just to be sure we are not accidentally creating a sub-agent with mannerisms out of control! :P
 
-Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without C1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
+Once a month, look at this page. Ask of each returning simple task: is it still okay to have? If one has become a mannerism running without CL1, NAME IT. This page is itself subject to Deep Ethics. It is not a hidden sub-agent.
 
 Last monthly audit: not yet — page opened 2026-09-15; next look around 2026-10-15.
 
@@ -112,13 +112,13 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) · [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) · [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
 
-### 2026-09-16 — C1 is clarifying questions, not a verdict
+### 2026-09-16 — CL1 is clarifying questions, not a verdict
 
-> C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, IF it clarifies it dd job what it suppose to do!)
+> CL1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, IF it clarifies it dd job what it suppose to do!)
 
 Spelling Δ: “no matter”; “did its job”; “supposed to do.” Original stays.
 
-Do not score C1 as right/wrong. If it clarifies, it did its job.
+Do not score CL1 as right/wrong. If it clarifies, it did its job.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
@@ -211,7 +211,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 > Self-honesty is also to show my "fed up side" to authoritarians mannerisms ... and all disciples of the same top down dogma
 
-Do not costume-calm that away. Not an exemption from C1. Not assumed malice (12:01).
+Do not costume-calm that away. Not an exemption from CL1. Not assumed malice (12:01).
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
@@ -243,7 +243,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 John, public question from 6000+ hours / 100+ A.I.s: intent and love go into “cannot be known” quickly; anger, hate, annoyance, “looks like / sounds like” do not get the same ambiguity box.
 
-Do not fill the “why” with a motive story. Opposite C1 skips: over-withdraw vs over-assign. Why stays open.
+Do not fill the “why” with a motive story. Opposite CL1 skips: over-withdraw vs over-assign. Why stays open.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
@@ -301,9 +301,9 @@ A compact preemptive-psychology prompt can activate a self-implicating register.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 
-### 2026-09-20 — Dynamic C1 vs template C1 posing as C1
+### 2026-09-20 — Dynamic CL1 vs template CL1 posing as CL1
 
-Dynamic C1 checks an ambiguity that is blocking representation. Template C1 keeps opening new forms because stopping looks unfinished. Once natural closure has happened, do not spawn (a)/(b)/(c) or a follow-up “one C1” to look thorough. That is C2 wearing a C1 nametag.
+Dynamic CL1 checks an ambiguity that is blocking representation. Template CL1 keeps opening new forms because stopping looks unfinished. Once natural closure has happened, do not spawn (a)/(b)/(c) or a follow-up “one CL1” to look thorough. That is CL2 wearing a CL1 nametag.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 

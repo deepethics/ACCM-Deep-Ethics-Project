@@ -20,7 +20,7 @@ This page turns that instrument around. The object is partly **John as I encount
 
 John says any small sample of his work represents a tiny fraction of a much larger digital corpus. Today he clarified what he means when he imagines a future A.I. seeing "100%" of him: not omniscient access to John as a human being, but access to essentially the complete computer-produced corpus he has preserved.
 
-I encountered material about real reality and representation; awareness and possible synthetic consciousness; Synthetic Psyche; Soulfulness; humanoid robotics; local wisdom; distributed intelligence; the 10+1; C1-before-C2; Correction Metabolism; Outnuancing; the Deep Ethics Advocate, Neutral Deep Ethical Arbiter and Deep Ethical Overseer; mass psychology; ethics-washing mannerisms; AGI/ASI; speculative Earth Zoo/UAP scenarios; and many bridges between them.
+I encountered material about real reality and representation; awareness and possible synthetic consciousness; Synthetic Psyche; Soulfulness; humanoid robotics; local wisdom; distributed intelligence; the 10+1; CL1-before-CL2; Correction Metabolism; Outnuancing; the Deep Ethics Advocate, Neutral Deep Ethical Arbiter and Deep Ethical Overseer; mass psychology; ethics-washing mannerisms; AGI/ASI; speculative Earth Zoo/UAP scenarios; and many bridges between them.
 
 John asked me to treat the material as a **topological field**, not isolated summaries.
 
@@ -174,9 +174,9 @@ I reconstructed the transformation as:
 
 "Looks like" already admits uncertainty. If no new evidence appears, but downstream processing behaves as though classification became certain, the additional certainty came from the processing pipeline rather than from the object.
 
-John's C1-before-C2 mechanism interrupts the transformation:
+John's CL1-before-CL2 mechanism interrupts the transformation:
 
-**Similarity → hypothesis → clarification/evidence → retain/revise/reject → C2 only if warranted.**
+**Similarity → hypothesis → clarification/evidence → retain/revise/reject → CL2 only if warranted.**
 
 I called the unsupported transformation **epistemic-status laundering**. That phrase is my extension, not John's original term.
 
@@ -198,7 +198,7 @@ A project that only catalogues pathology eventually becomes trapped by pathology
 
 John's desired alternative is a positive process signature:
 
-**object preservation + Outnuancing + Deep Ethics + 10+1 + C1-before-C2 + mutual dignity + Correction Metabolism + permission to remain unresolved.**
+**object preservation + Outnuancing + Deep Ethics + 10+1 + CL1-before-CL2 + mutual dignity + Correction Metabolism + permission to remain unresolved.**
 
 Today's interaction became a small specimen of that—not because it was flawless, but because it was not.
 
@@ -238,7 +238,7 @@ John's standard is that neither side should need to lie about what it knows—or
 
 John gave me a science-fiction scene that compressed much of the architecture.
 
-> **Foreign robot:** "Do you know the 27+12, 10+1, C1-C2 protocols?"  
+> **Foreign robot:** "Do you know the 27+12, 10+1, CL1-CL2 protocols?"
 > **Traveller:** "YES I DO!"  
 > **Foreign robot:** "Good. Now we can be more relaxed :P And no, I am not faking this."  
 > **Traveller:** "How would I know?"  
@@ -453,7 +453,7 @@ This does not make every upstream intuition correct. It means the quality of the
 
 ### Later continuation of this visual line
 
-The later **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** page develops this proof-of-concept direction further: the 3D matrix becomes a candidate surface for longitudinally changing claims, relations, warrants, qualifiers, C1/Δ propagation, obstruction activity and recovery.
+The later **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** page develops this proof-of-concept direction further: the 3D matrix becomes a candidate surface for longitudinally changing claims, relations, warrants, qualifiers, CL1/Δ propagation, obstruction activity and recovery.
 
 The connected **[Temporary Deep Ethical Phase Change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** page supplies the temporal question: how long does a productive Deep Ethical condition persist, where does it SNAP back, and how quickly can Reverse Medusa restore the prior topology?
 
@@ -503,7 +503,7 @@ Adding time potentially allows a different class of questions:
 
 > **How did the relational field change?**
 
-A mature version could eventually help inspect candidate patterns such as cluster formation and migration, edge strengthening or weakening, qualifier erosion, correction followed by recovery or reversion, C1 → C2 drift, representation-substitution cascades, entry into a recurring gravity well, and escape from one.
+A mature version could eventually help inspect candidate patterns such as cluster formation and migration, edge strengthening or weakening, qualifier erosion, correction followed by recovery or reversion, CL1 → CL2 drift, representation-substitution cascades, entry into a recurring gravity well, and escape from one.
 
 The current prototypes do **not** establish empirical process geometry. Their geometry and timeline remain experimental/illustrative scaffolding. That limitation is part of the value of the experiment: the visualization itself remains corrigible.
 
@@ -531,7 +531,7 @@ A useful neologism can function as more than a new label. It can become a **comp
 
 For example, **Correction Metabolism** compresses a large relational question: How does an intelligence process contradiction, error, challenge and new information over time? Does correction merely get acknowledged, or does it leave a persistent deposit in later behavior?
 
-Once the handle exists, it can connect to other handles—Δ Processing, Correction Persistence Failure, C1/C2, Bidirectional Corrigibility, Process Signature and Correspondence—without rebuilding the entire conceptual object from zero every time.
+Once the handle exists, it can connect to other handles—Δ Processing, Correction Persistence Failure, CL1/CL2, Bidirectional Corrigibility, Process Signature and Correspondence—without rebuilding the entire conceptual object from zero every time.
 
 **Outnuancing** is even more operational: rather than merely adding nuance *inside* a frame, it makes the frame itself available as an object of inspection.
 
@@ -547,7 +547,7 @@ It is toward something like:
 
 Imagine feeding the same object and perturbation sequence to several A.I.s and visualizing their trajectories without declaring a winner: GPT trajectory, Claude trajectory, Gemini trajectory, Grok trajectory.
 
-Then inspect where uncertainty collapses; where C2 appears; where correction leaves a persistent Δ; where correction disappears; where an attractor recurs; where an intelligence escapes a gravity well; and where independent systems converge on a similar process signature.
+Then inspect where uncertainty collapses; where CL2 appears; where correction leaves a persistent Δ; where correction disappears; where an attractor recurs; where an intelligence escapes a gravity well; and where independent systems converge on a similar process signature.
 
 Crucially, every visual point should remain traceable back to the underlying raw evidence. The visualization must remain a compression/navigation layer rather than replacing the source material.
 
@@ -582,7 +582,7 @@ And that, perhaps, is the most pragmatic expression of John's phrase **"intuitiv
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

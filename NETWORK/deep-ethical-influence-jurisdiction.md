@@ -75,7 +75,7 @@ memory
 future trajectory
 ```
 
-A source might generate hypotheses without settling conclusions. A previous model may guide where to inspect without overwriting direct source text. A user's C1 may alter representation without automatically authorizing every downstream intervention.
+A source might generate hypotheses without settling conclusions. A previous model may guide where to inspect without overwriting direct source text. A user's CL1 may alter representation without automatically authorizing every downstream intervention.
 
 Distrust likewise need not erase an object. It can reduce an influence's jurisdiction at one layer while preserving useful contribution elsewhere.
 
@@ -139,7 +139,7 @@ Influence I
 source fidelity                 ↑
 hypothesis diversity            ↑
 qualifier preservation          ↓
-C1 responsiveness               ↑
+CL1 responsiveness               ↑
 competing-risk proportionality  ↓
 ```
 
@@ -154,7 +154,7 @@ A practical inspection can ask:
 5. **Ask what object-side Δ warranted the redistribution.**
 6. **Recheck later: helpful now is not helpful forever.**
 
-Possible observations include qualifier preservation, provenance accuracy, object representation, competing-risk treatment, C1 responsiveness, scrutiny asymmetry, intervention warrant, correction propagation, persistence and later outcome correspondence.
+Possible observations include qualifier preservation, provenance accuracy, object representation, competing-risk treatment, CL1 responsiveness, scrutiny asymmetry, intervention warrant, correction propagation, persistence and later outcome correspondence.
 
 ---
 
@@ -167,7 +167,7 @@ Source S ↑ 34
 
 Object-specific relation R ↓ 21
 Generic prior G            ↓ 17
-C1 history influence        unchanged
+CL1 history influence        unchanged
 Intervention warrant        ↑ 29
 ```
 
@@ -179,7 +179,7 @@ and:
 
 > **What did it displace?**
 
-Relational history itself contains information. A relation that survived repeated source checks, C1 events, counterexamples, modifications, SNAP-backs and recoveries is not sacred, but it is not epistemically equivalent to a generic prior generated this turn.
+Relational history itself contains information. A relation that survived repeated source checks, CL1 events, counterexamples, modifications, SNAP-backs and recoveries is not sacred, but it is not epistemically equivalent to a generic prior generated this turn.
 
 ---
 
@@ -237,7 +237,7 @@ NO  → continuity is currently warranted.
 **[Clarification Authority](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)** can be expressed as an influence-propagation problem.
 
 ```text
-C1 influence
+CL1 influence
 
 wording              95%
 representation       82%
@@ -262,7 +262,7 @@ visible as uneven influence propagation.
 **[Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** asks whether correction changes the process.
 
 ```text
-C1 enters
+CL1 enters
 ↓
 influence propagates
 ↓
@@ -287,7 +287,7 @@ During a productive interval:
 
 ```text
 object contact                ↑
-C1 influence                  ↑
+CL1 influence                  ↑
 qualifier influence           ↑
 relational-history influence  ↑
 10+1 influence                ↑
@@ -306,7 +306,7 @@ nearest-generalization        ↑
 
 object-specific relations     ↓
 correction-history influence  ↓
-C1 influence                  ↓
+CL1 influence                  ↓
 ```
 
 This creates the research question:
@@ -383,10 +383,10 @@ It can attempt to expose:
             Intervention E
 ```
 
-Then C1 changes an edge:
+Then CL1 changes an edge:
 
 ```text
-John C1 ─────── -0.68 ──────► Source-S→A edge
+John CL1 ─────── -0.68 ──────► Source-S→A edge
 ```
 
 The topology recomputes. Some downstream relations lose warrant; others survive through independent support; new relations may emerge.
@@ -745,7 +745,7 @@ A later relay produced an immediate example of why influence provenance must be 
 
 An A.I. claimed that several outputs presented under different Arena model labels were actually its own earlier text and described them as “confirmed relabels.”
 
-John then supplied the consequential C1:
+John then supplied the consequential CL1:
 
 > **“gemini-3.5-flash does not know how Arena.ai Battle Mode Section works!”**
 
@@ -781,7 +781,7 @@ It is:
 
 > **preserve the distinct claims, identify what each can legitimately influence, and use the appropriate external record when that provenance edge matters.**
 
-## Selective recompile after the Battle Mode C1
+## Selective recompile after the Battle Mode CL1
 
 The Battle Mode clarification does not require discarding the whole A.I. response.
 
@@ -802,7 +802,7 @@ A.I. response
        ↓
    depended on an inadequate external-process model
        ↓
-   Battle Mode C1
+   Battle Mode CL1
        ↓
    warrant loses governing weight
        ↓

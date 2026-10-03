@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Humor / Funnymism
+title: Sense of Humor — Deep Ethics With a Laugh
 permalink: /HUMOR/
 ---
 

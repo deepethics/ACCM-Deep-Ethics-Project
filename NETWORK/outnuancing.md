@@ -24,13 +24,13 @@ An inquiry can become highly sophisticated inside a frame that misrepresents its
 
 ## Deep ethical path
 
-The 10+1 provide mutually corrective orientation. C1 establishes correspondence where something material remains unresolved. The Arbiter audits the proposed move as well as the original frame. Correction Metabolism asks whether any detected error changes later behavior.
+The 10+1 provide mutually corrective orientation. CL1 establishes correspondence where something material remains unresolved. The Arbiter audits the proposed move as well as the original frame. Correction Metabolism asks whether any detected error changes later behavior.
 
 ## Possible appropriation
 
-John says C2 **may** borrow frame-questioning methods while skipping their deep ethical orientation. This possibility must retain its qualifier. An audit that sounds rigorous can still displace the source object or protect the evaluator’s own position.
+John says CL2 **may** borrow frame-questioning methods while skipping their deep ethical orientation. This possibility must retain its qualifier. An audit that sounds rigorous can still displace the source object or protect the evaluator’s own position.
 
-Related: [Seven connected vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) · [C1 and C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
+Related: [Seven connected vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) · [CL1 and CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
 
 ---
 

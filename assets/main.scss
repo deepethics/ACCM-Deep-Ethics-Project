@@ -38,6 +38,7 @@ h1, h2, h3, h4,
 
 a {
   color: var(--accm-sage);
+  font-weight: 600;
 }
 
 a:hover {
@@ -219,6 +220,7 @@ a:hover {
   background: #fbf7ef;
   text-decoration: none;
   color: var(--accm-ink);
+  font-weight: normal;
 }
 
 .accm-door:hover {

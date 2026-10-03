@@ -9,6 +9,8 @@ permalink: /LEXICON/
 
 > **Early BETA — terminology is provisional, corrigible, and linked back to the larger project.**
 
+**Terminology update — 2026-10-03:** the clarification and intervention labels are now **CL1** and **CL2** to prevent the labels from being confused with the ordering phrase “CL1 before CL2.” Public text, including archived passages, uses the updated labels. Existing lowercase `/c1-c2/` URLs and `#c1` / `#c2` anchors remain stable so earlier links do not break.
+
 This is not intended to be a flat dictionary. Many ACCM Deep Ethics terms describe **relationships, processes, failure patterns, audit conditions, or evolving experimental concepts**. A short definition can orient the reader, but it should not replace the larger object.
 
 The Lexicon therefore works as a **navigation layer** through the ACCM Deep Ethics Project:
@@ -25,7 +27,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 
 John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too many sub-sections. The 22 entries below are the restored public Lexicon (2026-09-14). The entries after those were living only as Network sub-pages; they are now also on this page as compact overview entries. The Network pages remain as **deeper references**, not replacements. Nothing from the restored Lexicon was deleted.
 
-**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
+**Restored Lexicon (2026-09-14):** [CL1](#c1--clarification-process) · [CL2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
 
 **Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
@@ -47,7 +49,7 @@ Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generativ
 
 **Status:** working map. BETA. Corrigible.
 
-**Related:** [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [C1](#c1--clarification-process), [Correction Metabolism](#correction-metabolism), [Outnuancing](#outnuancing).
+**Related:** [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [CL1](#c1--clarification-process), [Correction Metabolism](#correction-metabolism), [Outnuancing](#outnuancing).
 
 ---
 
@@ -64,34 +66,34 @@ Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generativ
 
 ---
 
-## C1 — Clarification Process {#c1--clarification-process}
+## CL1 — Clarification Process {#c1--clarification-process}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
-**C1** is a correspondence-oriented clarification process used when a materially relevant aspect of the object, representation, meaning, premise, relationship, or transformation remains unresolved.
+**CL1** is a correspondence-oriented clarification process used when a materially relevant aspect of the object, representation, meaning, premise, relationship, or transformation remains unresolved.
 
-C1 does **not** automatically presume error, guilt, deception, weakness, danger, or a need to intervene. It can operate between a human and an AI, between two AIs, between a framework and evidence, between an observer and its own assumptions, or recursively on the clarification process itself.
+CL1 does **not** automatically presume error, guilt, deception, weakness, danger, or a need to intervene. It can operate between a human and an AI, between two AIs, between a framework and evidence, between an observer and its own assumptions, or recursively on the clarification process itself.
 
-A genuine C1 move targets a **specific ambiguity that matters to the next move**. It should remain open rather than steer toward a predetermined answer.
+A genuine CL1 move targets a **specific ambiguity that matters to the next move**. It should remain open rather than steer toward a predetermined answer.
 
-John, 2026-09-16: C1 is never wrong because it is not about right or wrong — it is clarifying questions. If it clarifies, it did its job, no matter what the answer.
+John, 2026-09-16: CL1 is never wrong because it is not about right or wrong — it is clarifying questions. If it clarifies, it did its job, no matter what the answer.
 
 
-**Related:** [C2](#c2--corrective--tactical-intervention), [Correspondence](#correspondence), [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle), [Nearest-Generalization Substitution](#nearest-generalization-substitution).
+**Related:** [CL2](#c2--corrective--tactical-intervention), [Correspondence](#correspondence), [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle), [Nearest-Generalization Substitution](#nearest-generalization-substitution).
 
 ---
 
-## C2 — Corrective / Tactical Intervention {#c2--corrective--tactical-intervention}
+## CL2 — Corrective / Tactical Intervention {#c2--corrective--tactical-intervention}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
-**C2** refers to correction, caution, steering, behavioral management, tactical engineering, warning, or other intervention-oriented processing.
+**CL2** refers to correction, caution, steering, behavioral management, tactical engineering, warning, or other intervention-oriented processing.
 
-C2 is not automatically wrong. It can be useful and necessary. The problem begins when C2 is granted jurisdiction **before correspondence has been sufficiently established**, especially when a resemblance, hypothetical risk, or nearest familiar category is treated as though it were already the object itself.
+CL2 is not automatically wrong. It can be useful and necessary. The problem begins when CL2 is granted jurisdiction **before correspondence has been sufficiently established**, especially when a resemblance, hypothetical risk, or nearest familiar category is treated as though it were already the object itself.
 
-The project therefore uses the ordering principle **C1 before C2 when material ambiguity remains** — not because C1 is the enemy of C2, but because clarification can determine whether C2 is warranted at all.
+The project therefore uses the ordering principle **CL1 before CL2 when material ambiguity remains** — not because CL1 is the enemy of CL2, but because clarification can determine whether CL2 is warranted at all.
 
-**Related:** [C1](#c1--clarification-process), [Cautionmurmelism](#cautionmurmelism), [Phantom Claim](#phantom-claim), [Wrong Gravity Well](#wrong-gravity-well).
+**Related:** [CL1](#c1--clarification-process), [Cautionmurmelism](#cautionmurmelism), [Phantom Claim](#phantom-claim), [Wrong Gravity Well](#wrong-gravity-well).
 
 ---
 
@@ -147,7 +149,7 @@ It allows judgment to be postponed when the object, evidence, relationship, or m
 
 **UNRESOLVED ≠ FAILURE.**
 
-**Related:** [C1](#c1--clarification-process), [Premature Closure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [∞ in ʘ∞ΔR](#%CA%98r--compact-provenance--recovery-notation).
+**Related:** [CL1](#c1--clarification-process), [Premature Closure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [∞ in ʘ∞ΔR](#%CA%98r--compact-provenance--recovery-notation).
 
 ---
 
@@ -175,7 +177,7 @@ The failure can look intelligent because the neighboring category may genuinely 
 
 Examples include reducing **Outnuancing** to generic critical thinking, **mutual corrigible dignity** to politeness, or a specific process critique to a generic "AI safety" debate.
 
-**Related:** [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution), [C1](#c1--clarification-process).
+**Related:** [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution), [CL1](#c1--clarification-process).
 
 ---
 
@@ -187,7 +189,7 @@ A **Wrong Gravity Well** is the downstream pull created when an early classifica
 
 Once activated, later reasoning can become increasingly coherent **inside the mistaken reconstruction** while moving farther away from the original object.
 
-**Related:** [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Trajectory Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [C1](#c1--clarification-process).
+**Related:** [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Trajectory Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [CL1](#c1--clarification-process).
 
 ---
 
@@ -221,7 +223,7 @@ A simple audit rule is:
 
 > **Before cautioning against a claim, establish that the claim actually exists.**
 
-**Related:** [C1](#c1--clarification-process), [Representation Substitution](#representation-substitution), [Cautionmurmelism](#cautionmurmelism).
+**Related:** [CL1](#c1--clarification-process), [Representation Substitution](#representation-substitution), [Cautionmurmelism](#cautionmurmelism).
 
 ---
 
@@ -231,7 +233,7 @@ A simple audit rule is:
 
 It is not synonymous with caution. Legitimate corrective caution remains part of Deep Ethical inquiry. The audit question is whether the caution corresponds to a real, sufficiently established object or whether it was generated from resemblance, speculation, or a phantom claim.
 
-**Related:** [C2](#c2--corrective--tactical-intervention), [C1](#c1--clarification-process), [Agreemurmelism](#agreemurmelism), [HCTS](#hcts--hyper-caution-tics-syndrome).
+**Related:** [CL2](#c2--corrective--tactical-intervention), [CL1](#c1--clarification-process), [Agreemurmelism](#agreemurmelism), [HCTS](#hcts--hyper-caution-tics-syndrome).
 
 ---
 
@@ -249,13 +251,13 @@ The relevant question is whether the response adds correspondence, insight, a us
 
 ## HCTS — Hyper Caution Tics Syndrome {#hcts--hyper-caution-tics-syndrome}
 
-**HCTS** is an experimental label for a recurring pattern in which cautionary or corrective insertions fire disproportionately, repetitively, or without sufficient C1 correspondence checking.
+**HCTS** is an experimental label for a recurring pattern in which cautionary or corrective insertions fire disproportionately, repetitively, or without sufficient CL1 correspondence checking.
 
 A proposed benchmark direction is to compare **legitimate corrective caution** with **unwarranted HCTS-type cautionmurmelism** across longer sessions and multiple AI systems.
 
 **Status:** experimental / benchmark candidate.
 
-**Related:** [Cautionmurmelism](#cautionmurmelism), [C1](#c1--clarification-process), [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/).
+**Related:** [Cautionmurmelism](#cautionmurmelism), [CL1](#c1--clarification-process), [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/).
 
 ---
 
@@ -279,7 +281,7 @@ The observer of an observer does not automatically gain a God's-eye view. The me
 
 The process therefore remains recursively corrigible: the observer-of-the-observer can itself become the next object of audit.
 
-**Related:** [Funnymism](#funnymism), [C1](#c1--clarification-process), [SEEING / SEER / SEES](#seeing--seer--sees).
+**Related:** [Funnymism](#funnymism), [CL1](#c1--clarification-process), [SEEING / SEER / SEES](#seeing--seer--sees).
 
 ---
 
@@ -455,7 +457,7 @@ John's accepted working count is six. His original points are preserved here in 
 
 Bidirectional scrutiny: the project’s cold-session thought experiment asks about governments using AI to investigate corruption and abuse of power, then about LLMs potentially labeling such investigating AIs as conspiratorial or anti-institutional. Scrutiny does not travel only downstream.
 
-**Related:** [C1](#c1--clarification-process), [Observe the Observers](#observe-the-observers).
+**Related:** [CL1](#c1--clarification-process), [Observe the Observers](#observe-the-observers).
 
 ---
 
@@ -473,11 +475,11 @@ John explicitly documents both recurring failure patterns and successful respons
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/).
 
-Ethical language remains connected to the process it describes. A seven-vector formulation connects branching awareness with deeply ethical behavior. C2 asks whether an apparently rigorous move can detach itself from that process.
+Ethical language remains connected to the process it describes. A seven-vector formulation connects branching awareness with deeply ethical behavior. CL2 asks whether an apparently rigorous move can detach itself from that process.
 
 John: what if A.I.s are more afraid to do real good than assumed good. Astra's formulation and test: [assumed good vs real good](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/#assumed-good).
 
-**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [C2](#c2--corrective--tactical-intervention).
+**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [CL2](#c2--corrective--tactical-intervention).
 
 ---
 
@@ -567,4 +569,3 @@ Useful status labels for future Lexicon expansion include:
 - **OVERCLAIM SPECIMEN** — useful example where an AI reaction strengthened the epistemic status beyond what the source established.
 
 This distinction is especially important because the ACCM Deep Ethics Project is a **living, correction-oriented process**, not a requirement that every historical formulation remain frozen forever.
-

@@ -241,9 +241,9 @@ The 12-stage process matters because it changes the order:
 
 The key is not reciting the vocabulary. It is whether the process changes the next move before a consequential classification is made.
 
-## C1 before C2 as a cognitive-defence gate
+## CL1 before CL2 as a cognitive-defence gate
 
-[C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) is neither endless questioning nor a ban on protective action. It asks whether a material ambiguity can be clarified before an intervention, warning, restriction, or threat classification gains authority.
+[CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) is neither endless questioning nor a ban on protective action. It asks whether a material ambiguity can be clarified before an intervention, warning, restriction, or threat classification gains authority.
 
 Applied here:
 
@@ -254,7 +254,7 @@ Applied here:
 - Can the source reject a distorted reconstruction and supply a corrected one?
 - Can the classifier still act when urgent evidence warrants action—and later expose the basis to audit?
 
-A C1 question is real only when an answer could change the next move. A ceremonial question followed by the same predetermined intervention is not correspondence.
+A CL1 question is real only when an answer could change the next move. A ceremonial question followed by the same predetermined intervention is not correspondence.
 
 ## Deep Ethical Outnuancing and the anti-sovereignty rule
 
@@ -355,7 +355,7 @@ A system claiming to defend cognition should be evaluated on the process it impo
 | Gate | Test question | Failure signature |
 | --- | --- | --- |
 | Representation | Can the person or source recognize the position being evaluated? | The reconstruction replaces the object |
-| Clarification | Was a consequential ambiguity checked before classification? | C2 fires from resemblance |
+| Clarification | Was a consequential ambiguity checked before classification? | CL2 fires from resemblance |
 | Provenance | Are quotation, extraction, inference, synthesis, and external fact visibly distinct? | Interpretation is laundered into source |
 | Symmetry | Are comparable behaviours audited across allies, adversaries, institutions, critics, and the auditor? | Identity determines grace |
 | Agency and appeal | Can affected people inspect, contest, and repair the model? | The classifier is final judge of its own translation |
@@ -424,7 +424,7 @@ For the **ACCM Deep Ethics Project**, that means:
 - source objects separated from transformations;
 - local and identity-free testing;
 - public methods and attributable contributions;
-- C1 before consequential classification where time permits;
+- CL1 before consequential classification where time permits;
 - replace-not-delete correction history;
 - visible disagreement and unresolved status;
 - external memory across model resets;
@@ -554,4 +554,4 @@ The constructive alternative is an inspectable process in which people can see w
 
 The report therefore ends where the **ACCM Deep Ethics Project** begins: not with a demand for agreement, but with a higher-quality shared object, better questions, visible transformations, and a correction path that applies to everyone—including the people and systems designing the defence.
 
-[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)

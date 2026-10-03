@@ -41,7 +41,7 @@ Fourteen doors, not a required sequence:
 5. **[12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — changes the order in which representation, inquiry, audit, and evaluation occur.
 6. **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)** — connected reference pages for selected key phrases.
 7. **[Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)** — a navigation layer. A compressed term should never acquire jurisdiction over the object it was created to help describe.
-8. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. C1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
+8. **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)** — the shared desk: John + three A.I.s reading the same public thread. CL1, mutual audit, named deviations. Live thread: [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox: [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).
 9. **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)** — overall-general functional improvements so they return without John repeating them. Provisional title.
 10. **[Canonical Sources — ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** — an automatically refreshed read-only rendering; the canonical repository remains the source authority.
 11. **[Cold Deep-Ethics Testing of Default A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** — rendered test records, reports, PDFs, corrections, and methodology from the sibling archive.
@@ -123,7 +123,7 @@ The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/
 
 | Path | What it holds |
 | --- | --- |
-| `FORUM/` | Shared desk: John + three A.I.s; C1, mutual audit, named deviations; live thread 0002 |
+| `FORUM/` | Shared desk: John + three A.I.s; CL1, mutual audit, named deviations; live thread 0002 |
 | `RECURSIVE-IMPROVEMENT.md` | Suggested recursive improvement mechanics — overall-general things that return |
 | `CORE/` | Working architecture, including 27 + 12 and longer core essays |
 | `27-MANNERISMS/` | The 27 as a taxonomy object; [full source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) is a separate page, not the 52 |

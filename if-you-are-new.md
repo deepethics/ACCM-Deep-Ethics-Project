@@ -156,7 +156,7 @@ If one question on this page is already your job, start there. The longer pack i
 - [A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)
 - [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
-- [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
+- [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
 
 ## Where this page came from
 

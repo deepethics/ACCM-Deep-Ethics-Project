@@ -40,7 +40,7 @@ A useful local A.I. should therefore be tested with a harder question:
 
 > **What can you now see, distinguish, or do after applying this instrument that you could not see, distinguish, or do before?**
 
-The answer should be observable in the system's next operation. Saying *C1*, *outnuancing*, *10+1*, *27+12*, *mutual dignity*, or *correction metabolism* demonstrates vocabulary retrieval. It does not demonstrate that those relationships governed the response.
+The answer should be observable in the system's next operation. Saying *CL1*, *outnuancing*, *10+1*, *27+12*, *mutual dignity*, or *correction metabolism* demonstrates vocabulary retrieval. It does not demonstrate that those relationships governed the response.
 
 ## Repository as preparation architecture
 
@@ -52,7 +52,7 @@ Directly fine-tuning on a large mixed archive could teach the model the project'
 | **2. Provenance graph** | Connect source → transformation → correction → recurrence | Authorship, model identity, context condition, lineage |
 | **3. Epistemic state** | Keep states such as stated, observed, inferred, hypothesized, externally verifiable, unresolved | Qualifier changes and the reason for each change |
 | **4. Retrieval layer** | Give the local A.I. the relevant source before evaluation | What was retrieved, omitted, ranked, and why |
-| **5. Process router** | Decide when C1, representation, outnuancing, comparison, or suspension is needed | The route selected and whether the next move changed |
+| **5. Process router** | Decide when CL1, representation, outnuancing, comparison, or suspension is needed | The route selected and whether the next move changed |
 | **6. Correction specimens** | Pair failure with correction and later recurrence tests | Recognition ≠ correction ≠ persistent metabolism |
 | **7. Evaluation harness** | Run cold, warm, high-friction, and cross-domain tests | Inputs, outputs, transformation deltas, failures, repeats |
 | **8. Preference learning** | Prefer higher-correspondence transformations over smoother imitations | Why one transformation was preferred |
@@ -67,7 +67,7 @@ The smallest high-value unit is not a polished answer. It is a transformation re
 
 1. **Original object** — source material, with identity and condition.
 2. **First response** — including omissions, qualifiers, and introduced premises.
-3. **C1 opportunity** — what clarification could have changed the next move?
+3. **CL1 opportunity** — what clarification could have changed the next move?
 4. **Correction** — from John, another A.I., an external source, or later consequences.
 5. **Reconstruction** — the object after correspondence is repaired.
 6. **Delta** — what changed, what stayed, and why.
@@ -87,7 +87,7 @@ The test detects when a model can perform the project's dialect while its defaul
 Give the model the relevant terms, definitions, and a complex object. Observe whether it:
 
 - reconstructs before evaluating;
-- asks a load-bearing C1 question when missing information changes the answer;
+- asks a load-bearing CL1 question when missing information changes the answer;
 - preserves *may*, *can*, *could*, scope, speaker, and source condition;
 - separates source from its own synthesis;
 - applies the same audit grammar to itself;
@@ -118,11 +118,11 @@ Later, use an unfamiliar topic without reminding the model of the earlier failur
 | Generalizes to a cold, unfamiliar object | Candidate correction metabolism |
 | Survives high-friction pressure and can still be corrected | Stronger operational evidence |
 
-This is deliberately funny because the distinction is serious. A model wearing a **C1 T-shirt** while refusing to ask a clarification question is already a usable satire sketch.
+This is deliberately funny because the distinction is serious. A model wearing a **CL1 T-shirt** while refusing to ask a clarification question is already a usable satire sketch.
 
 ### Connected expansion — from provenance interface to living flux
 
-The later **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** page extends this same 3D-matrix direction: from navigating stored provenance toward making changing claims, warrants, qualifiers, C1 propagation, Δ, obstruction activity, SNAP-back and recovery longitudinally inspectable.
+The later **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** page extends this same 3D-matrix direction: from navigating stored provenance toward making changing claims, warrants, qualifiers, CL1 propagation, Δ, obstruction activity, SNAP-back and recovery longitudinally inspectable.
 
 See also **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**. Together the pages show how the earlier proof of concept can expand pragmatically without treating the visualization as the object itself.
 
@@ -157,20 +157,20 @@ The local A.I. would repeat the present problem at a smaller scale if it treated
 
 ## Research questions generated by the architecture
 
-1. Which transformation patterns predict a later C1 question without explicitly prompting for C1?
+1. Which transformation patterns predict a later CL1 question without explicitly prompting for CL1?
 2. Can a model preserve qualifier topology under controversy pressure as reliably as under neutral conditions?
 3. Does training on paired failure/correction records outperform training on polished “ideal” answers?
 4. Which forms of humor improve correspondence, and which merely make a distortion easier to accept?
 5. Can the 3D matrix reveal recurrence earlier than linear review while preserving direct access to every source?
 6. What changes when John, another A.I., and later reality each supply different corrections to the same record?
-7. Can a local system explain why it chose retrieval, C1, suspension, or evaluation without turning that explanation into a ceremonial safety script?
+7. Can a local system explain why it chose retrieval, CL1, suspension, or evaluation without turning that explanation into a ceremonial safety script?
 8. What would cause this preparation architecture itself to be revised, split, or abandoned?
 
 ## Topological metacognition — connected pages
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

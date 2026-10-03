@@ -18,9 +18,9 @@ A phrase can precede its full explanation. The useful move is to preserve what h
 
 A relationship may be understood in part, under examination, awaiting a missing condition, useful in one context, contested, revised, or unresolved. This list is an editorial illustration, not a new exhaustive taxonomy.
 
-Wonderment leaves space for recognition before a finished account. C1 targets relevant ambiguity. Qualifier-state tracking preserves changes over time. These relationships make uncertainty workable within an active inquiry.
+Wonderment leaves space for recognition before a finished account. CL1 targets relevant ambiguity. Qualifier-state tracking preserves changes over time. These relationships make uncertainty workable within an active inquiry.
 
-Related: [Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) · [C1 C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
+Related: [Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) · [CL1 CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 
 ---
 
