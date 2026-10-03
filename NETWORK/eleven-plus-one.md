@@ -55,7 +55,7 @@ The eleven are attractors. They also loop. A left-to-right story is a view throu
 | 9 | Identity, virtue, and moral capture | Confirmshaming (123) and outgroup homogeneity (127). |
 | 10 | Long-wave cultural drift | Manufactured cynicism (125) was a hole. Cynicism can also be earned. “Manufactured” is the load-bearing word. |
 | 11 | Competing-risk suppression and vindication lag | Diagnostic **output** of interactions among 1–10. Not another peer generator, and not a bin for every later suppression word. |
-| +1 | Correspondence-restoring field | Internal anatomy: epistemic vigilance (138) → omnidirectional grounding (139) → cognitive sovereignty (140), with ACCM, outnuancing, C1 before C2, the 10+1, and correction metabolism. |
+| +1 | Correspondence-restoring field | Internal anatomy: epistemic vigilance (138) → omnidirectional grounding (139) → cognitive sovereignty (140), with ACCM, outnuancing, CL1 before CL2, the 10+1, and correction metabolism. |
 
 ### Cluster 8 stays one cluster {#cluster-8-stays-one-cluster}
 
@@ -200,6 +200,6 @@ Do not complete the architecture rhetorically.
 
 ---
 
-Related: [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [G42](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)
+Related: [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) · [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [G42](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)
 
 [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)

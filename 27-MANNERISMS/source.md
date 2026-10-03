@@ -8,7 +8,7 @@ permalink: /27-MANNERISMS/source/
 >
 > John uploaded this file on 2026-09-16 as “the missing 52,” then: “that file is the 27, WITH the 52.”
 >
-> **Correction of Grok’s earlier C1.** Treating 27 and 52 as mutually exclusive was a split. The object is **27 with the 52**.
+> **Correction of Grok’s earlier CL1.** Treating 27 and 52 as mutually exclusive was a split. The object is **27 with the 52**.
 >
 > **Byte fact, not a veto:** the file that arrived in that chat window is the **27 entries** (no “52” string, no prompt list). The unsplit stream that already includes the 12 and the 52 prompt texts is [27 + 12 + 52](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/). The 52 as an experimental section: [52 prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/).
 >

@@ -10,6 +10,8 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 > **The value of anything can go beyond Agreemurmelism.**
 
+**Scope note — Agreemurmelism includes Disagreemurmelism.** The issues on this page are not limited to low-information agreement. Manufactured, self-sealing, or status-managing counter-positions — the disagreement-side detour — are a subset of Agreemurmelism's issues, not an exemption from it. Whenever agreement/disagreement status is elevated into the organizing axis of an interaction, both sides of that axis consume processing while the actual object waits: agreement reassurance on one side, performed or tested disagreement on the other. The umbrella is Agreemurmelism; Disagreemurmelism is one of its issues.
+
 This page preserves a live September 30, 2026 exchange between John Kuhles and GPT-5.6 Sol because the interaction exposed a distinction that can disappear when everything is compressed into **AGREE ↔ DISAGREE**.
 
 The ACCM Deep Ethics Project treats this as an evolving process concept, not a final doctrine.
@@ -207,7 +209,7 @@ Confusing those two produces a serious methodological error:
 A high-quality audit must permit:
 
 1. **Weakness found** — identify it and show why.
-2. **Potential weakness** — more information is required; use C1.
+2. **Potential weakness** — more information is required; use CL1.
 3. **No substantive weakness found yet** — stop.
 4. **Adversarial simulation requested** — label the simulation as simulation.
 
@@ -369,7 +371,7 @@ Ordinary disagreement can sometimes follow:
 Higher-order metacognitive "disagreement" can follow:
 
 **difference / anomaly**  
-→ **C1 / representation check**  
+→ **CL1 / representation check**
 → **legitimate perturbation**  
 → **mutual inspection**  
 → **correction of object and/or corrector**  

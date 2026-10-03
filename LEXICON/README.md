@@ -10,7 +10,7 @@ The public Lexicon is not intended to be a flat dictionary. Its structure is:
 
 **term → concise definition → deeper explanation → related concepts → linked project sections → provenance / status where useful**
 
-Current entries include **C1, C2, Correspondence, Correction Metabolism, Δ Processing, Deep Ethical Uncertainty Principle, Outnuancing, Nearest-Generalization Substitution, Wrong Gravity Well, Representation Substitution, Qualifier Erosion, Phantom Claim, Cautionmurmelism, Agreemurmelism, HCTS, Funnymism, Observe the Observers, SEEING / SEER / SEES, Process Continuity, Mutual Corrigible Dignity, Claim-State Restoration, and ʘ∞ΔR**, with more material being added as the archive is mined.
+Current entries include **CL1, CL2, Correspondence, Correction Metabolism, Δ Processing, Deep Ethical Uncertainty Principle, Outnuancing, Nearest-Generalization Substitution, Wrong Gravity Well, Representation Substitution, Qualifier Erosion, Phantom Claim, Cautionmurmelism, Agreemurmelism, HCTS, Funnymism, Observe the Observers, SEEING / SEER / SEES, Process Continuity, Mutual Corrigible Dignity, Claim-State Restoration, and ʘ∞ΔR**, with more material being added as the archive is mined.
 
 ## Why a relational Lexicon?
 

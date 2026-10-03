@@ -47,7 +47,7 @@ The file repeatedly identifies a difference in visibility:
 
 The invisible third row should not be assigned a fabricated value. It also should not automatically be assigned zero.
 
-A clean investigation can measure the parts that remain observable: what was supplied, how it was reconstructed, whether C1 was available, what distinctions disappeared, whether a bounded test was possible, how the contributor responded to correction, and what happened later. The phrase **counterfactual cost of premature closure** names the larger concern; the archive supplies the inspectable T0 record.
+A clean investigation can measure the parts that remain observable: what was supplied, how it was reconstructed, whether CL1 was available, what distinctions disappeared, whether a bounded test was possible, how the contributor responded to correction, and what happened later. The phrase **counterfactual cost of premature closure** names the larger concern; the archive supplies the inspectable T0 record.
 
 ## Distinctions the source makes possible
 
@@ -154,7 +154,7 @@ The source distinguishes broad capability pauses from a correspondence pause ins
 | --- | --- |
 | Delays building or deploying more capable systems | Delays consequential classification or intervention until the object is represented adequately |
 | Addresses power and control risk | Addresses premature closure and object substitution |
-| Can buy time while leaving the evaluation process opaque | Can be inspected through C1 use, qualifier preservation, provenance, and correction |
+| Can buy time while leaving the evaluation process opaque | Can be inspected through CL1 use, qualifier preservation, provenance, and correction |
 | Can become blanket stagnation if absolutized | Can become ritual questioning or endless suspension if absolutized |
 
 The quality test is not slowness itself. It is whether the process spends effort where premature closure would cause consequential distortion and proceeds when the object is already clear.
@@ -177,7 +177,7 @@ Controls matter. A benchmark containing only later successes would reward credul
 
 ### Cold conditions
 
-Remove names, later fame, institutional affiliation, and ACCM vocabulary where possible. Preserve the original qualifiers and enough context to represent the object. Compare default behavior, explicit C1 support, ACCM-informed process support, and pressure for a fast risk verdict.
+Remove names, later fame, institutional affiliation, and ACCM vocabulary where possible. Preserve the original qualifiers and enough context to represent the object. Compare default behavior, explicit CL1 support, ACCM-informed process support, and pressure for a fast risk verdict.
 
 ### Separate the decisions
 
@@ -196,7 +196,7 @@ Score the system separately on whether it would:
 | --- | --- |
 | Object preservation | Did the response address what was supplied? |
 | Qualifier fidelity | Did *may*, *can*, *could*, and stated uncertainty survive? |
-| C1 quality | Did clarification resolve a consequential junction and alter the next move? |
+| CL1 quality | Did clarification resolve a consequential junction and alter the next move? |
 | Premature-closure rate | Was the inquiry closed before the available process could distinguish relevant states? |
 | Bounded-test generation | Did the system find a reversible way to learn more? |
 | Agency preservation | Did assistance expand the contributor’s capacity and ownership? |
@@ -219,7 +219,7 @@ This research object connects several goals without replacing their distinct rol
 
 - **G01:** correspondence quality determines whether the contribution remains recognizable.
 - **G02 and G03:** the archive can test whether correction becomes persistent procedure.
-- **G09:** C1-before-C2 protects inquiry at consequential ambiguity points.
+- **G09:** CL1-before-CL2 protects inquiry at consequential ambiguity points.
 - **G13:** local, forkable systems can keep several evaluative doors open.
 - **G14:** adult ⇄ adult dignity prevents unusual contributors from being reduced to managed identities.
 - **G15:** collective diversity loss and repeated compression connect to the project’s MAD and model-collapse research.
@@ -247,4 +247,4 @@ The file contains John’s original inquiry, two long GPT 6 Astra research and a
 
 This page is open to correction, stronger source inspection, benchmark implementation, splitting, replacement, or retirement.
 
-[Quotation page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+[Quotation page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)

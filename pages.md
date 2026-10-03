@@ -58,7 +58,7 @@ Every link below opens a readable page on this public site.
 - **[About the Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/ABOUT/)**
 - **[Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)**
 - **[Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)**
-- **[C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)**
+- **[CL1 Before CL2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)**
 - **[Solving the Clarification Authority Paradox — BETA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery — BETA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**
 - **[Visible Interactive Deep Ethical Topology Flux Scores — BETA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**

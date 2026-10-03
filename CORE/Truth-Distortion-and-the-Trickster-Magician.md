@@ -603,7 +603,7 @@ This is where the larger ACCM architecture becomes useful:
 
 → **27 audits recurring correspondence failures**
 
-→ **C1 clarifies materially unresolved variables**
+→ **CL1 clarifies materially unresolved variables**
 
 → **correction metabolism tests whether discovery actually changes later behavior**
 

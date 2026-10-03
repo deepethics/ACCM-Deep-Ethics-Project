@@ -24,8 +24,8 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Beyond-binary inquiry | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
 | Bidirectional scrutiny | [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) |
 | Blinded topic-comparison protocol | [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) |
-| C1 — clarification | [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
-| C2 — intervention | [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| CL1 — clarification | [CL1 Before CL2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| CL2 — intervention | [CL1 Before CL2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
 | Correction Metabolism | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
 | Correction persistence | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
 | Declared / operational / emergent intent | [INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) |
