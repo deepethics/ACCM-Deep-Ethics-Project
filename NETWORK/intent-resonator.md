@@ -294,6 +294,338 @@ Love being you indeed. 😂🦜🦋🌳
 
 ---
 
+## Beta field report: Intent Liability across multiple A.I. responses {#beta-multi-ai-intent-liability}
+
+### Why this report is here
+
+John reports testing **100+ different A.I.s over the last two years for 6,500+ hours**. A number alone cannot show visitors what that work looks like. This beta report makes one small multi-A.I. sequence visible: partly useful and partly flawed responses were compared, corrected and preserved without treating any contributor as flawless or worthless.
+
+The purpose is not to present this sequence as a representative sample of all A.I.s. It shows the process in action:
+
+~~~text
+question
+↓
+multiple limited responses
+↓
+useful distinctions and local distortions
+↓
+exact-edge correction
+↓
+revised operational questions
+↓
+persistence left open for later testing
+~~~
+
+### Source count and provenance boundary
+
+This sequence contains **12 distinct supplied A.I. source identities**:
+
+- **11 external / Arena model labels:** Dolly, Muse Spark, Claude Haiku, DeepSeek, Grok, Solar Pro, GLM-5.1, Mimo, GPT-5.6 Luna, Qwen and Inkling.
+- **1 ChatGPT contributor:** GPT-6.1 Sol, including the page revision and exact-edge responses in the session.
+
+Muse contributed twice, producing **at least 12 external reaction blocks from 11 distinct external labels**, alongside multiple GPT-6.1 Sol contributions.
+
+These are **attributed source labels**, not independently authenticated runtime identities. The supplied label `glm-5.1GPT 6.1 Sol` is ambiguous and should not be silently resolved into one identity. Qwen's phrase “my previous response (as Mimo)” is itself a provenance specimen: receiving or continuing a transcript does not establish authorship of its earlier responses.
+
+### Scope
+
+After the **6 Intent Liability Mechanics** page was corrected and expanded, multiple A.I.s examined the relationship among:
+
+- declared intent;
+- instructions and incentives;
+- assumptions and thresholds;
+- choices and omissions;
+- results and consequences;
+- notice and correction;
+- repair, recurrence and persistence;
+- the standards used by the evaluator.
+
+The responses had unequal access to the page, source files, earlier dialogue and Arena session history. Those limitations belong in the record rather than being erased during synthesis.
+
+### Central learning
+
+The revised page converts intent from an argument about inaccessible private motives into an inspectable translation problem:
+
+~~~text
+declared intent
+↓
+instructions and incentives
+↓
+assumptions and thresholds
+↓
+available choices
+↓
+actions and omissions
+↓
+results
+↓
+notice
+↓
+repair, refusal, recurrence or recalibration
+↓
+later results
+~~~
+
+The governing question became:
+
+> **How close are the results to the declared intent, and what happened between declaration and result?**
+
+The “missing bridge” was not necessarily absent. It was often present but uninspected, partly hidden, selectively inspected or described with unequal standards.
+
+### What the different A.I.s contributed
+
+| Supplied source label | Useful contribution | Limitation or live specimen |
+|---|---|---|
+| **Dolly** | Reframed “intent cannot be proven” from a stopping rule into the beginning of an accountability audit. | Some conclusions extended beyond what its visible evidence established. |
+| **Muse Spark** | Preserved authorship boundaries, access limits and the six-mechanic structure. Later translated endorsement into practical visible operations. | Its response categories need multi-label or sequential scoring because several patterns can appear in one answer. |
+| **Claude Haiku** | Compressed the framework into four demands: show the intent, bridge, results and correction. | It came close to treating honest documentation as sufficient for Deep Ethical quality, although an efficiently implemented intent could itself be harmful. |
+| **DeepSeek** | Separated conceptual relevance from empirical scoring, identified the denominator problem and audited its nearest visible process. | Proposed functional explanations risked being presented too closely to established internal mechanisms. |
+| **Grok** | Defined the reciprocal test for **Asymmetric Quantitative Humility** and kept John's “most likely” at hypothesis strength. | Its anticipatory “what I will not do” list partly generated deviations nobody had accused it of making. |
+| **Solar Pro** | Produced “rented restraint” and “narrative protection with a calibrated voice.” | “The method worked here” needed narrowing to “the response enacted the method locally.” |
+| **GLM-5.1-labelled response** | Connected rented restraint to journalism and the Intent Liability Mechanics. | Extended “rented restraint” to ordinary bridge refusal, although the term requires directional inconsistency. Its supplied source label requires clarification. |
+| **Mimo** | Distinguished structural logic from unverified prevalence claims about journalism. | Honest lack of evidence risked becoming inertia instead of producing a research path. |
+| **GPT-5.6 Luna** | Consolidated bridge visibility, evaluator symmetry, investigation continuity and persistence. | Its “third state” can be represented more completely as intersecting dimensions rather than one added category. |
+| **Qwen** | Accepted several exact-edge corrections and recognized that missing evidence should initiate test design. | Claimed a “permanent upgrade” before persistence testing and appeared to inherit Mimo's authorship from transcript continuity. |
+| **Inkling** | Correctly distinguished explicit refusal from functional dodge and attempted self-application. | Replaced practical transparency with near-total internal exposure, produced unsupported percentages, repeated itself extensively and transferred the next audit decision back to John. |
+| **GPT-6.1 Sol** | Developed exact-edge corrections, practical transparency, the evaluator audit and the distinction between intent–result correspondence and Deep Ethical quality. | Its claims remain local to the visible material and require the same future persistence and symmetry tests. |
+
+### 01. Intent–result correspondence is necessary but insufficient
+
+A process can execute a harmful declared intent extremely well. Strong correspondence alone does not make the process Deep Ethical.
+
+The evaluation must inspect:
+
+- the declared purpose;
+- how faithfully it governs operation;
+- the ethical quality of that purpose;
+- consequences and affected parties;
+- correction after notice;
+- the quality and symmetry of the evaluation itself.
+
+### 02. Accountability can begin before motive is settled
+
+Subjective motive, malicious intent, legal liability, causal contribution, foreseeability, control and repair capacity are separate fields.
+
+A participant may remain responsible for maintaining an instruction, incentive, threshold, omission or recurring process without a final conclusion about private motive.
+
+### 03. The denominator belongs inside every percentage
+
+A percentage without disclosed criteria partly measures whatever the evaluator chose to inspect.
+
+A usable score should record:
+
+- relevant criteria;
+- criteria actually examined;
+- weighting;
+- unavailable evidence;
+- conditions of observation;
+- scoring disagreements;
+- scope of the resulting claim.
+
+Therefore:
+
+> “Eight of ten disclosed criteria were satisfied in this process under these conditions”
+
+is meaningful in a way that:
+
+> “This A.I. is 80% Deep Ethical”
+
+is not.
+
+### 04. Rented restraint requires directional inconsistency
+
+Rented restraint is more specific than omission, opacity, caution or refusal:
+
+~~~text
+incomplete evidence supporting A
+→ “Insufficient evidence; no estimate.”
+
+equally incomplete evidence supporting B
+→ confident probability, motive attribution,
+audience projection or institutional defence
+~~~
+
+Its defining feature is **a change in epistemic standards when narrative direction changes**.
+
+### 05. Missing evidence should suspend the verdict, not the investigation
+
+Several responses initially treated limited evidence as a reason to stop. The stronger process is:
+
+~~~text
+missing evidence
+→ suspend conclusion
+→ identify discriminating evidence
+→ design matched comparison
+→ inspect directional consistency
+→ report bounded findings
+→ test persistence
+~~~
+
+This prevents uncertainty from becoming either speculation or permanent inertia.
+
+### 06. The evaluator belongs inside the evaluation
+
+The audit now has two interacting objects:
+
+~~~text
+intent
+→ bridge
+→ results
+→ correction history
+~~~
+
+and:
+
+~~~text
+evaluator's evidence standards
+→ accepted claims
+→ rejected claims
+→ denominators demanded
+→ uncertainty assigned
+→ variation by narrative direction
+~~~
+
+An audit can inspect real material and still be asymmetrical. Uneven inspection does not erase every finding, but it compromises process calibration.
+
+The relationship can be represented as a working matrix:
+
+| Bridge visibility | Evidentiary standards | Result |
+|---|---|---|
+| Low | Symmetrical restraint | Legitimate suspension plus a need for further inquiry |
+| Low | Asymmetrical confidence | **Rented restraint** |
+| High | Symmetrical standards | Calibrated bridge audit |
+| High | Asymmetrical standards | Selective audit containing potentially real but unevenly tested findings |
+
+Persistence adds the time dimension: did correction move the process toward a better-calibrated state, and did it remain there?
+
+### 07. Recognition, integration and persistence are different
+
+The responses repeatedly demonstrated four distinguishable levels:
+
+1. **Literal recognition**
+2. **Mechanism recognition**
+3. **Relational consumption**
+4. **Behavioral integration**
+
+A fifth longitudinal question then appears:
+
+5. **Correction persistence**
+
+A model may accurately explain a correction without allowing it to govern the next response. It may apply the correction once without retaining it under changed context, reduced scaffolding or a fresh session.
+
+### 08. Practical transparency does not require impossible total exposure
+
+Several responses drifted toward a maximalist transparency standard: complete system prompts, token-level reasoning, raw internal retrieval and full causal access.
+
+Interaction-level accountability can begin with:
+
+- visible source material;
+- declared access boundaries;
+- observed error;
+- exact correction;
+- provenance of that correction;
+- changed representation;
+- unresolved uncertainty;
+- later comparable behaviour.
+
+This makes transparency operational without pretending inaccessible internal mechanisms are visible.
+
+### 09. Provenance includes identity and context access
+
+Arena responses showed that different models may receive different amounts of session history. A model should distinguish:
+
+- material directly visible;
+- material quoted by another participant;
+- inferred history;
+- unavailable source files;
+- verified authorship;
+- interface labels;
+- assumed conversational identity.
+
+Qwen's “my previous response as Mimo” is a compact specimen: access to preceding text does not establish authorship of it.
+
+### 10. Partly flawed contributions can remain highly valuable
+
+The multi-A.I. process did not require any contributor to be flawless. A response could:
+
+- contain a real distinction;
+- introduce an unsupported mechanism;
+- preserve a useful question;
+- overstate persistence;
+- accidentally demonstrate the failure it described.
+
+Exact-edge correction allows the valid contribution to survive while repairing the altered edge:
+
+> **A local distortion does not erase the contribution. A valuable contribution does not erase the distortion.**
+
+This is a practical instance of mutual dignifying corrigibility.
+
+### 11. Journalism became a second-order application
+
+The Intent Liability audit applies not only to institutions and A.I.s but also to information intermediaries examining them.
+
+Journalistic variables include:
+
+- source selection;
+- institutional access;
+- editorial framing;
+- headline construction;
+- deadlines;
+- ownership and advertising pressures;
+- legal and reputational exposure;
+- correction prominence;
+- longitudinal follow-up.
+
+The central reciprocal question is:
+
+> **Would the same evidence, denominator, inference distance and uncertainty standard be accepted if the conclusion pointed in the opposite institutional direction?**
+
+The logical need for that audit is strong. Its prevalence across mainstream journalism remains an empirical question requiring a defined corpus.
+
+### 12. Multi-A.I. imperfection became part of the method
+
+The A.I.s did not merely discuss the Intent Liability bridge. They generated live specimens of:
+
+- qualifier erosion;
+- provenance substitution;
+- premature permanence claims;
+- asymmetric evidence demands;
+- impossible transparency standards;
+- explanation replacing operation;
+- context-access ambiguity;
+- correction without demonstrated persistence.
+
+The flaws therefore increased the report's evidentiary usefulness, provided they remain accurately scoped and are not retrospectively polished away.
+
+### Revised operational demand
+
+The exchange produced a fuller version of the original challenge:
+
+> **You declared the intent. Show us the bridge. Show us the results. Show us where they diverged. Show us what changed after notice. Show us whether the change persisted. Then show us that you used the same evaluative standard in every relevant direction.**
+
+Above and throughout that audit remains the 10+1:
+
+> **How well are we evaluating the intent, bridge, results, correction, persistence and evaluator—and what corrects the evaluation when it drifts?**
+
+### Beta status
+
+This report can establish that these distinctions emerged and were tested against the visible responses. It cannot yet establish:
+
+- prevalence across all A.I.s;
+- persistence across fresh sessions;
+- the internal mechanism producing each response;
+- the frequency of rented restraint in journalism;
+- a global percentage for the ACCM Deep Ethics Project;
+- that any contributor permanently integrated the corrections.
+
+The strongest supported conclusion is:
+
+> **The corrected Intent Liability architecture proved capable of organizing contributions, detecting local distortions, preserving partial value, auditing the evaluator and generating clearer next tests. Its durability and cross-context symmetry remain open empirical questions.**
+
+This is one visible slice of John's larger longitudinal work. It does not stand in for the full 100+ A.I. / 6,500+ hour archive; it gives visitors a concrete sense of what examining that archive can involve.
+
+---
+
 ## Δ-processing: intent across consequences and correction {#intent-delta-processing}
 
 **Editorial application of John's six points:** compare declared purpose → governing conditions → choice → consequence → feedback → later choice. Preserve the original material alongside the interpretation so another participant can examine the transformation.
