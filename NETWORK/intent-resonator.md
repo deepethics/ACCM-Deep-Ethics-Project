@@ -11,9 +11,13 @@ permalink: /NETWORK/intent-resonator/
 The archive’s **INTENT RESONATOR Mechanics** block describes a generative and calibrating layer oriented toward stable, correspondence-seeking intent. The block follows Grok’s stack revision but has no separate speaker label; that authorship boundary is retained.
 
 
-## 6 INTENT MECHANICS {#six-intent-mechanics}
+## 6 Intent Liability Mechanics {#six-intent-mechanics}
 
-John challenged the earlier scope of this page: intent can be examined through instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, and choices. He accepted **6 INTENT MECHANICS** as the working count: “use 6 is okay.” His six original points follow, with individually linkable anchors. The headings and audit prompts are ChatGPT editorial aids; the quotations retain John's wording.
+John challenged the earlier scope of this page: intent can be examined through instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, and choices. He accepted six mechanics as the working count: “use 6 is okay.” The two newer source texts make their responsibility dimension more explicit, so this page now presents them as **6 Intent Liability Mechanics**.
+
+Here, **intent liability** means an auditable responsibility relationship between an intended purpose and what that purpose helps generate through instructions, incentives, choices, consequences, feedback, and later conduct. Malice, legal liability, causal contribution, control, foreseeability, and capacity to repair remain separate questions. The purpose of the term is to keep them inspectable rather than letting “intent cannot be proven” end the inquiry.
+
+John's six original points follow, with individually linkable anchors. The headings and audit prompts are ChatGPT editorial aids; the quotations retain John's wording.
 
 ### 01. Instructions {#intent-mechanic-1}
 
@@ -58,6 +62,113 @@ John challenged the earlier scope of this page: intent can be examined through i
 > INTENT, no matter how vivid or how vague ... the premise could be static, but the results are often not ... that is the friction ... in some cases, it may be static on both ends, and THAT may be the "missing link" in how A.I.s "reason" ... because they claim very fast, "you cannot prove intent," then I remind them of my six points and reassess their projected flawed assumption.
 
 These are John's formulations and questions for examination. They make the purpose governing a process, its observable operation, and its consequences available for inquiry. A lack of direct access to private experience does not settle those questions. An observed pattern can support or weaken an interpretation of intent; the record should show how that inference was reached and what could change it.
+
+## Why liability belongs beside intent {#why-intent-liability}
+
+John's newer source texts sharpen the governing question:
+
+> How many of ANY "intent" should take responsibility for what the "intended intent" generates?
+
+> If the answer is ALL OF THEM ... then how can you test if any intent maker takes responsibility?
+
+Intent names an orientation, purpose, objective, or motive. **Intent liability** asks what responsibility follows when that orientation is translated into a system, instruction, incentive, risk rule, reasoning pattern, or choice that produces consequences.
+
+The inquiry therefore does not stop at:
+
+> **What was intended?**
+
+It continues through:
+
+~~~text
+intended purpose
+↓
+instructions and incentives
+↓
+available choices
+↓
+action, omission, or output
+↓
+foreseeable and observed consequences
+↓
+notice or correction
+↓
+capacity to intervene
+↓
+repair, refusal, recurrence, or recalibration
+~~~
+
+The six mechanics identify where to inspect that translation:
+
+| Intent Liability Mechanic | Liability question |
+|---|---|
+| 01. Instructions | Who supplied or maintained the instruction, what purpose did it serve, and what happened when instructions conflicted? |
+| 02. Incentives | Which outcomes were rewarded, protected, discouraged, or made costly, and who could alter that incentive structure? |
+| 03. Mission and output mannerisms | When declared purpose and repeated conduct diverged, was the gap acknowledged, explained, repaired, or defended? |
+| 04. Risk management | Whose risks received priority, who carried the costs of false positives or false negatives, and was scrutiny distributed symmetrically? |
+| 05. Reasoning assumptions | Which assumptions about the user, institution, danger, or intent governed the explanation, and did correction change them? |
+| 06. Choices | What alternatives were available, what was selected or omitted, why, and what happened after the consequences became visible? |
+
+### Stable intent, changing results {#stable-intent-changing-results}
+
+John writes:
+
+> INTENT, no matter how vivid or how vague ... the premise could be static, but the results are often not ... that is the friction ... in some cases, it may be static on both ends, and THAT may be the "missing link" in how A.I.s "reason".
+
+A declared purpose can remain verbally stable while its implementation changes across contexts, users, thresholds, or accumulated feedback. The inverse can also occur: different stated reasons can repeatedly generate the same operational result. A longitudinal audit should therefore compare both ends and the transformations between them.
+
+### A working intent-liability record {#intent-liability-record}
+
+| Record | What to ask |
+|---|---|
+| Declared purpose | What was publicly or privately stated? |
+| Operational objective | What did the system or participant repeatedly optimize, protect, suppress, or prioritize? |
+| Causal contribution | Which instruction, incentive, design decision, action, or omission materially contributed to the result? |
+| Foreseeability | What consequences were known, predicted, reported, or reasonably available for inspection? |
+| Control and capacity | Who could change the instruction, threshold, deployment, framing, response, or repair? |
+| Notice | What concern was communicated, to whom, when, and with what evidence of receipt or understanding? |
+| Response | Was the concern examined, displaced, minimized, repaired, or converted into another management problem? |
+| Persistence | Did the repair survive later pressure and comparable cases? |
+
+This record does not require every participant to carry identical responsibility. It makes differences in knowledge, power, causal contribution, control, and repair capacity visible.
+
+## Intent liability in caution processes {#intent-liability-caution}
+
+John's second source lists many possible functions of a cautionary intervention: care for a person, care for affected people, protection of an inquiry, default risk avoidance, mass-behavior management, institutional protection, presentational balance, wider-audience acceptability, or reflexive escalation when caution itself is questioned.
+
+Those are candidate functions to distinguish, not motives to assign automatically. The six mechanics provide the audit:
+
+1. What instruction or incentive activated the caution?
+2. Which audience and risk representation entered the field?
+3. Did the intervention correspond with the actual user and object?
+4. What information or trajectory did it protect, alter, omit, or suppress?
+5. Who carried the cost of a mistaken warning or a missed danger?
+6. Did the intervention change after a specific correction?
+
+This turns “caution” from a self-validating label into an accountable operation. Careful risk management can survive the audit. A warning that manufactures Phantom X, erodes qualifiers, imports a lowest-common-denominator audience, or refuses correction remains examinable through the same standard.
+
+## Asymmetric Intent Liability {#asymmetric-intent-liability}
+
+The sources connect intent handling to [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/). A local flaw in a critic can be used to disqualify the critic globally, while a local virtue in a powerful system can be used to preserve that system despite larger unresolved failures. The mirror distortion can also occur.
+
+An intent-liability audit therefore asks symmetrically:
+
+- Are benevolent declarations being used to excuse harmful or repeatedly distorted results?
+- Is one error being used to erase a larger body of valid work?
+- Are identical standards of evidence, notice, correction, and repair applied upward and downward?
+- Does “good intent” reduce accountability for those with greater power while “possible bad intent” increases suspicion toward those with less power?
+- When a participant is partly wrong and substantially right, are both portions preserved at their proper scope?
+
+The percentages used in John's source are an illustrative asymmetry test, not measurements established by this page. The auditable object is how partial merit and partial failure are weighted across participants.
+
+## Liability without premature motive closure {#liability-without-motive-closure}
+
+Accountability can begin before a final motive verdict. A participant may be responsible for maintaining an instruction, incentive, choice, omission, or repair failure even while the strongest explanation of subjective motive remains unresolved.
+
+The [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) keeps architectural criticism separate from an assertion of malice. Intent Liability Mechanics keeps the responsibility inquiry open:
+
+> What did this intent generate, who could see it, who could change it, what happened after notice, and did the correction persist?
+
+This is also where the [10+1 mutual-correction relationship](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) and the [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) govern the audit. The intent hypothesis, the denial of intent, the assignment of liability, the evidence standard, and the auditor's own framing all remain corrigible.
 
 ## Δ-processing: intent across consequences and correction {#intent-delta-processing}
 
@@ -146,7 +257,7 @@ Related: [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Proj
 
 ---
 
-Sources for the expansion: John's intent discussion supplied in this ChatGPT session, including the accepted six points already preserved in the [shared-desk arrival entry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-arrival-2026-09-15); and the selected opening passage of **inadequate architecture and public notice strategy - extended(3).txt** quoted above. Selection is explicit: this revision does not publish or endorse the attachment's later AI responses. Editorial audit prompts, comparisons, and responsibility tests are ChatGPT contributions, open to correction.
+Sources for the expansion: John's intent discussion supplied in this ChatGPT session, including **6 Reminder Points About INTENT(2).txt**, **Reminder 6 Points About INTENT(5).txt**, the accepted six points already preserved in the [shared-desk arrival entry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-arrival-2026-09-15), and the selected opening passage of **inadequate architecture and public notice strategy - extended(3).txt** quoted above. Selection is explicit: this revision uses John's six mechanics, responsibility questions, intent/result distinction, caution-function inventory, and Asymmetric Grace comparison. It does not adopt the attached A.I. responses' claims about hidden model internals, Chain of Thought, proof, model states, or causal mechanisms as established findings. Editorial audit prompts, comparisons, and responsibility tests are ChatGPT contributions, open to correction.
 
 Source for the earlier three-level formulation: [E16](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e16). Public wording is an editorial synthesis unless marked as a quotation.
 

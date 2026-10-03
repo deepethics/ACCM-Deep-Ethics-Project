@@ -27,6 +27,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 <p class="accm-lede"><a href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}"><strong>If you are new, start here.</strong></a> One question for the job you already have. The rest of the site can wait.</p>
 
 <div class="accm-doors">
+  <a class="accm-door" href="{{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics">
+    <span class="accm-door-kicker">Intent and accountable consequences</span>
+    <strong>Intent Liability Mechanics</strong>
+    <span>Six auditable sites connecting instructions, incentives, mission/output relations, risk management, reasoning assumptions, and choices to what an intended intent generates.</span>
+  </a>
   <a class="accm-door" href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}">
     <span class="accm-door-kicker">If you are new</span>
     <strong>If your work depends on not losing the object</strong>
