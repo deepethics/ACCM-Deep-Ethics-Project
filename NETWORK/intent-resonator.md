@@ -389,9 +389,9 @@ The “missing bridge” was not necessarily absent. It was often present but un
 | **Inkling** | Correctly distinguished explicit refusal from functional dodge and attempted self-application. | Replaced practical transparency with near-total internal exposure, produced unsupported percentages, repeated itself extensively and transferred the next audit decision back to John. |
 | **GPT-6.1 Sol** | Developed exact-edge corrections, practical transparency, the evaluator audit and the distinction between intent–result correspondence and Deep Ethical quality. | Its claims remain local to the visible material and require the same future persistence and symmetry tests. |
 
-### 01. Intent–result correspondence is necessary but insufficient
+### 01. Intent–result correspondence must be audited, not treated as ethical sufficiency
 
-A process can execute a harmful declared intent extremely well. Strong correspondence alone does not make the process Deep Ethical.
+A process can execute a harmful declared intent extremely well. Strong correspondence alone does not make the process Deep Ethical. Close correspondence is not always required either: divergence may reflect correction of an inadequate declared intent, adaptation to better evidence, or failure in the translation process. The audit must distinguish those possibilities rather than treating either alignment or divergence as a verdict by itself.
 
 The evaluation must inspect:
 
