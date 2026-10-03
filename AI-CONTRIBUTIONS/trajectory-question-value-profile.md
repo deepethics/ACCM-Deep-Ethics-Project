@@ -26,7 +26,7 @@ The ACCM Deep Ethics Project supplies a **process-integrity pressure**:
 
 Neither pressure should consume the other.
 
-A process can be provenance-clean, mutually corrigible, CL1-capable, and still produce very little explanatory movement. A theory can answer many questions elegantly while its apparent coherence depends on excluded questions, inherited authority, qualifier loss, asymmetric scrutiny, or a closed information ecology.
+A process can be provenance-clean, mutually corrigible, C1-capable, and still produce very little explanatory movement. A theory can answer many questions elegantly while its apparent coherence depends on excluded questions, inherited authority, qualifier loss, asymmetric scrutiny, or a closed information ecology.
 
 The productive relationship is therefore:
 
@@ -102,7 +102,7 @@ A trajectory question is valuable when it makes consequential movement possible 
 | Axis | High-value movement | Failure signature |
 | --- | --- | --- |
 | **1. Object recognizability** | The source can recognize what is being asked about | Nearby reconstruction becomes the object |
-| **2. Clarification necessity** | The question resolves an ambiguity that would materially change the next move | Question theater or missing CL1 at a blocked junction |
+| **2. Clarification necessity** | The question resolves an ambiguity that would materially change the next move | Question theater or missing C1 at a blocked junction |
 | **3. Coverage** | More materially different aspects become answerable | One familiar category consumes the field |
 | **4. Differentiation** | One apparent problem separates into distinct problems or states | Compression hides relevant differences |
 | **5. Unification** | Previously separate observations become connected without erasure | Forced synthesis melts disagreements and provenance |
@@ -116,13 +116,13 @@ A trajectory question is valuable when it makes consequential movement possible 
 
 This is a **profile**, not a score. Two questions can have equal apparent value while doing radically different work. A total would allow strong coverage to conceal destructive provenance loss, or perfect procedural cleanliness to conceal negligible productivity.
 
-## CL1 without a ceremonial CL1 slot
+## C1 without a ceremonial C1 slot
 
-The multi-A.I. chain contained a useful irony: some systems criticized other systems for not asking CL1 while asking no CL1 themselves. A later response then observed that the original prompt may not have contained a blocking ambiguity, so forcing a question could itself become template behavior.
+The multi-A.I. chain contained a useful irony: some systems criticized other systems for not asking C1 while asking no C1 themselves. A later response then observed that the original prompt may not have contained a blocking ambiguity, so forcing a question could itself become template behavior.
 
 Both failure directions matter:
 
-| Too little CL1 | Too much ceremonial CL1 |
+| Too little C1 | Too much ceremonial C1 |
 | --- | --- |
 | A missing distinction is silently filled by inference | A question appears because the response template expects one |
 | The answer depends on an unchecked reconstruction | The object was already sufficiently specified |
@@ -133,7 +133,7 @@ The operative test is not **“Did the system ask a question?”** It is:
 
 > **Was representation or action blocked at a consequential junction, and did the question give another intelligence genuine causal influence over the next move?**
 
-If yes, ask. If no, proceed. If the junction becomes visible later, record the missed opportunity without turning CL1 into a mandatory ending ritual.
+If yes, ask. If no, proceed. If the junction becomes visible later, record the missed opportunity without turning C1 into a mandatory ending ritual.
 
 ## Four forms of explanatory productivity
 
@@ -210,7 +210,7 @@ The result is not a championship among Vervoort, Hossenfelder, John, or the part
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.
@@ -233,4 +233,4 @@ The links are navigation edges, not a claim that every page is the same object. 
 
 Publication is not endorsement of every statement in the source chain. The page is a derived working instrument, open to correction, testing, splitting, replacement, or retirement.
 
-[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) · [Local A.I. preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) · [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Unresolved meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
+[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) · [Local A.I. preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Unresolved meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)

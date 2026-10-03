@@ -190,7 +190,7 @@ and then:
 
 This section does not assume every contrast or alternative explanation performs that function. The object is the **observable transformation in a particular trajectory**: where did X and Y come from, why were they introduced, what did their rejection make Z appear to be, and what happened to the original question?
 
-### The CL1 jurisdiction question
+### The C1 jurisdiction question
 
 Before rejecting an intent claim, locate it.
 

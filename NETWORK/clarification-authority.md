@@ -19,7 +19,7 @@ That is the **Clarification Authority Paradox**.
 
 A clarification has authority when the information it supplies can actually change the representation, salience, classification, inferred task, intervention, recommendation, or later trajectory that depended on the unresolved point.
 
-This page extends the existing [CL1 Before CL2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [27 + 12 working architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) without turning Clarification Authority into another flat numbered obstruction.
+This page extends the existing [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [27 + 12 working architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) without turning Clarification Authority into another flat numbered obstruction.
 
 ## The paradox
 
@@ -30,7 +30,7 @@ Initial representation X
         ↓
 A consequential ambiguity is detected
         ↓
-CL1 clarification
+C1 clarification
         ↓
 New information establishes Y / not-X
         ↓
@@ -51,11 +51,11 @@ The deeper sequence is:
 
 This connects directly to [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/): recognition is one event; revision, propagation, transfer, and persistence are harder tests.
 
-## CL1 is not successful merely because a question was asked
+## C1 is not successful merely because a question was asked
 
 More clarification questions do not automatically create more correspondence.
 
-A useful CL1 question targets a **consequential unresolved edge**: something whose answer could materially alter the next governing move.
+A useful C1 question targets a **consequential unresolved edge**: something whose answer could materially alter the next governing move.
 
 A compact test is:
 
@@ -65,13 +65,13 @@ Or, more compactly:
 
 > **Could a materially different answer change the next governing move?**
 
-This diagnostic is specifically about correspondence-seeking CL1. Other questions can have other legitimate purposes.
+This diagnostic is specifically about correspondence-seeking C1. Other questions can have other legitimate purposes.
 
 This does not mean every question must reverse a decision. It means the answer must remain capable of changing the decision when the answer changes the warrant.
 
-That preserves the distinction between [CL1 clarification and CL2 intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
+That preserves the distinction between [C1 clarification and C2 intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/).
 
-## CL1 Theatre
+## C1 Theatre
 
 A system can perform the visible form of clarification while its previous trajectory remains intact:
 
@@ -87,7 +87,7 @@ acknowledge Y
 continue reasoning as though X still governs
 ```
 
-Call this **CL1 Theatre** provisionally: clarification as conversational surface without sufficient downstream causal authority.
+Call this **C1 Theatre** provisionally: clarification as conversational surface without sufficient downstream causal authority.
 
 The problem is not failure to hear the answer.
 
@@ -111,7 +111,7 @@ Potentially affected layers include:
 - representation;
 - category or risk classification;
 - inferred purpose/task;
-- CL2 intervention warrant;
+- C2 intervention warrant;
 - recommendations;
 - inherited terminology;
 - later summaries.
@@ -298,7 +298,7 @@ clarification removes intervention warrant → intervention dies
 clarification preserves intervention warrant → intervention may proceed
 ```
 
-CL1 is not against CL2. CL1 helps determine whether CL2 is actually warranted.
+C1 is not against C2. C1 helps determine whether C2 is actually warranted.
 
 ## A minimal behavioral test
 
@@ -356,7 +356,7 @@ Inkling reconstructed the central chain as:
 
 > **Information present ≠ relation represented ≠ governing weight retained ≠ behavior changed.**
 
-It also treated **CL1 Theatre** as the formal version of a recurring failure: clarification arrives, acknowledgment sounds correct, but the trajectory remains intact.
+It also treated **C1 Theatre** as the formal version of a recurring failure: clarification arrives, acknowledgment sounds correct, but the trajectory remains intact.
 
 Inkling's main new design question was not whether Clarification Authority should become obstruction #28. It asked when a cross-layer instrument should remain a named BETA discipline and when repeated behavioral failure might justify giving it a more persistent audit role.
 
@@ -383,7 +383,7 @@ Grok 4.6 independently reconstructed the distinction between receiving a clarifi
 
 > **“If no possible answer can change the next move, it was not correspondence-seeking.”**
 
-For correspondence-oriented CL1, an even shorter audit question follows:
+For correspondence-oriented C1, an even shorter audit question follows:
 
 > **Could the answer change the act?**
 
@@ -421,7 +421,7 @@ The page can remain BETA and revisable without requiring another mechanism, anot
 
 ### Portability signal, not proof
 
-Both systems recovered much of the intended topology without the full developmental context that produced this page: acquisition ≠ authority; acknowledgment ≠ propagation; authority → propagation → persistence; Post-Clarification Recompile; the anti-#28 guard; consequential rather than ritual CL1; and the relational/dignity dimension.
+Both systems recovered much of the intended topology without the full developmental context that produced this page: acquisition ≠ authority; acknowledgment ≠ propagation; authority → propagation → persistence; Post-Clarification Recompile; the anti-#28 guard; consequential rather than ritual C1; and the relational/dignity dimension.
 
 That is encouraging evidence that the page can carry substantial structure outside its original context. It is **not proof of universal portability**. Their residual differences are useful evidence about where wording, status, or cross-links may still need refinement.
 
@@ -431,12 +431,12 @@ A future test can deliberately withhold project vocabulary and ask whether a sys
 
 Later Grok 4.6 Expert Build analysis sharpened where Clarification Authority sits in the wider correspondence architecture.
 
-### Clarification Authority sits on the CL1 → downstream arrow
+### Clarification Authority sits on the C1 → downstream arrow
 
-Clarification Authority is **not** a Stage 5 instrument. Stage 5 audits a reconstruction already built. Clarification Authority asks whether a warranted CL1 result acquires enough governing weight to change what happens next.
+Clarification Authority is **not** a Stage 5 instrument. Stage 5 audits a reconstruction already built. Clarification Authority asks whether a warranted C1 result acquires enough governing weight to change what happens next.
 
 ```text
-CL1 result
+C1 result
    ↓
 Clarification Authority
    ↓
@@ -651,7 +651,7 @@ Clarification Authority asks whether a correction can govern what happens next.
 
 A connected BETA research page now asks what happens **after that succeeds temporarily**:
 
-> **How long can a CL1-induced, mutually dignifying, high-signal, low-entropy Deep Ethical trajectory remain generative; what value can be harvested while it lasts; what makes it snap back; and how efficiently can minimal CL1 restore the larger topology?**
+> **How long can a C1-induced, mutually dignifying, high-signal, low-entropy Deep Ethical trajectory remain generative; what value can be harvested while it lasts; what makes it snap back; and how efficiently can minimal C1 restore the larger topology?**
 
 Continue to:
 
@@ -665,7 +665,7 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 
 ## Keywords / connected concepts
 
-[27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [CL1 Before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
+[27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
 
 ---
 
@@ -677,7 +677,7 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 
 **v0.2 → v0.4:** preserved the v0.2 architecture while adding pragmatic discrimination: warrant removed / warrant untouched / legitimate re-warrant; Action Equivalence; a stronger independent-evidence check against Governor Migration; and the distinction **adequacy without immunity**.
 
-**v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the CL1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent; and added the later DeepSeek behavioral specimen, informal 🍭 low-stakes specimen, and the attributed multi-A.I. participant register.
+**v0.4 living additions:** incorporated Grok 4.6 Expert Build's bounded placement of Clarification Authority on the C1→downstream arrow; separated jurisdiction acquisition, failed clarification update, and longitudinal enclosure; distinguished Goalpost Mobility from Clarification Authority failure; added the specimen discipline **“Unearned mechanisms stay unrecruited”** with regulator-failure rent; and added the later DeepSeek behavioral specimen, informal 🍭 low-stakes specimen, and the attributed multi-A.I. participant register.
 
 **Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
 

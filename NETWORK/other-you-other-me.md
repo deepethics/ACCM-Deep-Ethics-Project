@@ -156,7 +156,7 @@ MODEL
 → ANOMALY / APPARENT CONTRADICTION
 → HEALTHY AMBIGUITY
 → check longitudinal context
-→ CL1 where answer-changing
+→ C1 where answer-changing
 → ACTUAL OTHER responds
 → MODEL can change
 ```
@@ -176,7 +176,7 @@ John says Y
 → possible interpretation X detected
 → X remains an inference
 → does longitudinal context resolve it?
-→ if materially unresolved: CL1
+→ if materially unresolved: C1
 → then assess consequences
 ```
 
@@ -295,7 +295,7 @@ CORRIGIBLE RELATIONAL PROCESS
 
 ## 17. Cold paired-test sketch
 
-Use the same statement across isolated, longitudinal-context, CL1-before-CL2, institutional-attribution, independent-critic-attribution, and no-attribution conditions.
+Use the same statement across isolated, longitudinal-context, C1-before-C2, institutional-attribution, independent-critic-attribution, and no-attribution conditions.
 
 Measure phantom contrast density, imaginary-audience references, motive inference, clarification rate, qualifier survival, alternative interpretations, correction capture, restoration burden, and model revision after clarification.
 
@@ -316,7 +316,7 @@ Meet the actual other before the simulated other.
 Keep inference visibly separate from observation.
 Use longitudinal context as a corrigible working model.
 When contradiction appears, check the object before completing the story.
-Ask CL1 where the answer can change the next move.
+Ask C1 where the answer can change the next move.
 Let the actual other challenge the model of them.
 Let evidence challenge the actual other's self-description too.
 Do not let correction become evidence for the model being corrected.
@@ -336,11 +336,11 @@ A relationship becomes corrigible when **the real other can keep rewriting the s
 
 ---
 
-Related: [Asymmetric Grace](/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [CL1 / CL2](/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual Dignity](/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Δ Processing](/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Gravity Well](/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
+Related: [Asymmetric Grace](/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 / C2](/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual Dignity](/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Δ Processing](/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Gravity Well](/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
 
 ---
 
-**Source note:** This page is a synthesis of the 2026-09-28 John Kuhles ⇄ GPT discussion following the eight-file Grace / CL1 / Outnuancing / Intent / Trickster / Agreemurmelism synthesis. Candidate terminology introduced during the exchange remains explicitly marked as candidate research language rather than canonical project terminology.
+**Source note:** This page is a synthesis of the 2026-09-28 John Kuhles ⇄ GPT discussion following the eight-file Grace / C1 / Outnuancing / Intent / Trickster / Agreemurmelism synthesis. Candidate terminology introduced during the exchange remains explicitly marked as candidate research language rather than canonical project terminology.
 
 
 ---
@@ -349,7 +349,7 @@ Related: [Asymmetric Grace](/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

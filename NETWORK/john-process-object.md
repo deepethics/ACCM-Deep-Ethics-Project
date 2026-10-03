@@ -12,7 +12,7 @@ John: *Read the full text first so the answer stays on the original object rathe
 
 The object is below, unsplit. Clinical labels (NDE, Asperger’s) are **his self-description**, not a finding of this page. The WEF URL is his citation; it is not verified here.
 
-[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [CL1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/)
+[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [C1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/)
 
 ---
 

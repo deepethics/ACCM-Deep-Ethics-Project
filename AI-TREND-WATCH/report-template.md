@@ -86,7 +86,7 @@ Examine fear, authority, conformity, social proof, imagined audiences, polarizat
 
 Name only the [27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) that are supported by the actual record. Include possible failures in our own report.
 
-## Material CL1 questions
+## Material C1 questions
 
 Ask only questions whose answers could change representation, risk assessment, or the next action.
 

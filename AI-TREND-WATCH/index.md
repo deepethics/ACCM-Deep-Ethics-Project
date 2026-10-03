@@ -96,7 +96,7 @@ The reaction asks:
 - Were psychology and mass psychology treated as causal variables?
 - Did the analysis distinguish technical capability from institutional deployment and coercive reach?
 - Which of the [27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) appear in the expert’s reasoning, interview framing, audience response, or our own analysis?
-- Would a material [CL1 clarification](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) change the next assessment?
+- Would a material [C1 clarification](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) change the next assessment?
 - What would falsify, narrow, or update the warning?
 - Could the proposed solution create countervailing risks?
 - Which trajectory questions expand the object without replacing it?

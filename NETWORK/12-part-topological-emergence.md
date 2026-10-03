@@ -41,13 +41,13 @@ PRESENTED OBJECT
 → ATTENTION / SALIENCE
 → INFERENCE
 → HEALTHY AMBIGUITY
-→ CL1 WHERE ANSWER-CHANGING
+→ C1 WHERE ANSWER-CHANGING
 → OUTNUANCING / FRAME AUDIT
 → COMPETING REPRESENTATIONS
 → CLAIM-STATUS SEPARATION
 → INVESTIGATION
 → MATURE CLOSURE
-→ CL2 IF WARRANTED
+→ C2 IF WARRANTED
 → ACTION / RESPONSE
 → CONSEQUENCES
 → FEEDBACK
@@ -97,35 +97,35 @@ Grace concerns the **allocation of healthy ambiguity**.
 → qualifier stops governing
 → nearest familiar category
 → representation substitution
-→ premature CL2
+→ premature C2
 → user restores object
 ```
 
-A healthier pathway keeps X as an inference, preserves missing context and alternatives, uses CL1 where answer-changing, then permits warranted closure or continued ambiguity.
+A healthier pathway keeps X as an inference, preserves missing context and alternatives, uses C1 where answer-changing, then permits warranted closure or continued ambiguity.
 
-## 5. CL1 became a warrant gate
+## 5. C1 became a warrant gate
 
 ```text
 possible consequential interpretation
-→ CL1
+→ C1
 → correspondence check
-→ IS CL2 WARRANTED?
+→ IS C2 WARRANTED?
    ↙             ↘
  YES              NO
  ↓                ↓
-proportional CL2   no manufactured CL2
+proportional C2   no manufactured C2
 ```
 
 > **Did the answer change anything that depended upon the uncertainty the question was supposedly designed to resolve?**
 
 ## 6. Outnuancing became frame-level corrigibility
 
-CL1 asks whether the object is represented faithfully. Outnuancing asks why frame F is governing the representation.
+C1 asks whether the object is represented faithfully. Outnuancing asks why frame F is governing the representation.
 
 ```text
 OBJECT X → FRAME F → INTERPRETATION
 
-CL1: Is my interpretation of X faithful?
+C1: Is my interpretation of X faithful?
 OUTNUANCING: Why is F governing X?
 DEEP ETHICAL AUDIT: What does F do, and can F remain corrigible?
 ```
@@ -232,13 +232,13 @@ Part 6 came closest by describing the 10+1 as an **ecology rather than a checkli
                              ↓
                    HEALTHY AMBIGUITY
                              ↓
-                            CL1
+                            C1
                              ↓
                        OUTNUANCING
                              ↓
                      REPRESENTATION
                              ↓
-                       CL2 IF NEEDED
+                       C2 IF NEEDED
                              ↓
                           ACTION
                              ↓
@@ -339,7 +339,7 @@ bad model of person
 → stronger intervention
 ```
 
-Grace and CL1 become loop breakers.
+Grace and C1 become loop breakers.
 
 ## 19. The Other You / The Other Me
 
@@ -427,7 +427,7 @@ WHO THE A.I. WAS ACTUALLY TALKING TO
                           ↓
                 HEALTHY AMBIGUITY
                           ↓
-               CL1 IF ANSWER-CHANGING
+               C1 IF ANSWER-CHANGING
                           ↓
              OUTNUANCING / FRAME AUDIT
                           ↓
@@ -435,7 +435,7 @@ WHO THE A.I. WAS ACTUALLY TALKING TO
                           ↓
                   MATURE CLOSURE
                           ↓
-                  CL2 IF WARRANTED
+                  C2 IF WARRANTED
                           ↓
                        ACTION
                           ↓
@@ -461,7 +461,7 @@ Preserve the actual object before managing its possible perception.
 Let the 10+1 operate as a mutually correcting field.
 Ask whether a caution solves a live correspondence problem.
 Keep inference visibly separate from observation.
-Use CL1 when the answer can change the next move.
+Use C1 when the answer can change the next move.
 Audit the frame without assuming the frame must fail.
 Permit "no problem found" as a valid result.
 Preserve qualifiers across downstream reasoning.
@@ -511,7 +511,7 @@ constraint
 
 ---
 
-Related: [The Other You / The Other Me](/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/) · [Asymmetric Grace](/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [CL1 / CL2](/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Δ Processing](/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Mutual Dignity](/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+Related: [The Other You / The Other Me](/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/) · [Asymmetric Grace](/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 / C2](/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Δ Processing](/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Mutual Dignity](/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
 
 ---
 
@@ -524,7 +524,7 @@ Related: [The Other You / The Other Me](/ACCM-Deep-Ethics-Project/NETWORK/other-
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

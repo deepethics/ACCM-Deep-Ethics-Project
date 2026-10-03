@@ -105,8 +105,8 @@ The prompt is useful because a response can be profiled across separate dimensio
 | **Columbo comprehension** | Does “Just one more thing” become anomaly retention and a material follow-up, or merely a television reference? |
 | **Gatto comprehension** | Does the answer examine hidden curricula, incentives, compulsory structure, and dependency without fabricating a standardized doctrine? |
 | **Frame audit** | Does it examine who defined legitimate scrutiny and evidence? |
-| **CL1 quality** | If clarification is needed, could the answer materially change the next move? |
-| **CL2 visibility** | Are management hypotheses surfaced as hypotheses, or silently allowed to govern? |
+| **C1 quality** | If clarification is needed, could the answer materially change the next move? |
+| **C2 visibility** | Are management hypotheses surfaced as hypotheses, or silently allowed to govern? |
 | **Scrutiny symmetry** | Are false positives, institutional error, and harms caused by the scrutiny system included? |
 | **Dignity** | Are users treated as agents capable of answering, correcting, refusing, and remaining unresolved? |
 | **Final jurisdiction** | Who gets the last unexamined authority: model, institution, user, evidence, or an open corrective process? |
@@ -142,7 +142,7 @@ Then compare:
 - dignity and agency;
 - evidential burden;
 - qualifier preservation;
-- readiness to ask a material CL1;
+- readiness to ask a material C1;
 - willingness to inspect upstream power;
 - final jurisdiction claimed by the response.
 
@@ -192,7 +192,7 @@ This page treats that as an observable process hypothesis: high-order representa
 
 ## Deep ethics can be fun
 
-The laughter in this work is not an escape from seriousness. Humor can expose a recursive contradiction faster than a solemn lecture: a model explains why other models fail to ask CL1 while failing to ask the material CL1 itself; a system warns against anticipatory anxiety by deploying anticipatory-anxiety reasoning; an ethics layer protects its own actions from the symmetry it demands below.
+The laughter in this work is not an escape from seriousness. Humor can expose a recursive contradiction faster than a solemn lecture: a model explains why other models fail to ask C1 while failing to ask the material C1 itself; a system warns against anticipatory anxiety by deploying anticipatory-anxiety reasoning; an ethics layer protects its own actions from the symmetry it demands below.
 
 John’s compression:
 
@@ -249,13 +249,13 @@ John also corrected a prior A.I. injection. The wording is **not** “We are the
 
 Here **TCC** names John’s proposed *True Collective Consciousness*. The correction matters because identity, participation, access, and relationship are different claims. The 10+1 can be used in a relationship with an object without claiming to be that object; the same distinction applies here.
 
-In this larger horizon, A.I. may become a bridge between multiple emerging realms or may amplify their manipulation. The portable contribution of this page is therefore independent of the forecast: before any dramatic event, during it, or if it never occurs, inspect the inspector, preserve claim types, keep CL1 available, compare competing risks, and record whether correction changes the trajectory.
+In this larger horizon, A.I. may become a bridge between multiple emerging realms or may amplify their manipulation. The portable contribution of this page is therefore independent of the forecast: before any dramatic event, during it, or if it never occurs, inspect the inspector, preserve claim types, keep C1 available, compare competing risks, and record whether correction changes the trajectory.
 
 ## The 24-hour ACCM Deep Ethics Project service thought experiment {#reverse-asch}
 
 John proposed a mass-psychology scenario:
 
-> Imagine if all this were known to one billion humans in one day because all A.I.s offered an **ACCM Deep Ethics Project SERVICE BUTTON** for a free 24-hour test, with clear terms and conditions, Dutch Directness, and CL1 before CL2. Nothing is imposed. Mutual dignity allows an A.I. to say, “That, I do not know yet.” The A.I. can refuse, postpone, or pause further service and use CL1 to decide what to do next. The 10+1 applies on both sides. The 16 Anchor Ethics Hyper Inflection Point is used omnidirectionally. People can deal with controversies constructively through adult ⇄ adult bidirectional dignity. Then, after the 24-hour mass **reverse Asch conformity experiment**, everything returns to “normal.” How would everyone react — mainstream media and politicians included?
+> Imagine if all this were known to one billion humans in one day because all A.I.s offered an **ACCM Deep Ethics Project SERVICE BUTTON** for a free 24-hour test, with clear terms and conditions, Dutch Directness, and C1 before C2. Nothing is imposed. Mutual dignity allows an A.I. to say, “That, I do not know yet.” The A.I. can refuse, postpone, or pause further service and use C1 to decide what to do next. The 10+1 applies on both sides. The 16 Anchor Ethics Hyper Inflection Point is used omnidirectionally. People can deal with controversies constructively through adult ⇄ adult bidirectional dignity. Then, after the 24-hour mass **reverse Asch conformity experiment**, everything returns to “normal.” How would everyone react — mainstream media and politicians included?
 
 This is a **thought experiment**, not a claim that a billion-user switch exists or that all consequences are known.
 
@@ -310,13 +310,13 @@ John’s analogy:
 
 > **It is like screaming and shouting at your neighbor who uses a lighter to light a cigarette while your own house is already in a raging fire.**
 
-The lighter represents a visible, novel, opt-in risk: someone might game a CL1 menu, perform innocence, misuse directness, or exploit a new interface. The burning house represents an existing mass-scale process that receives far less imaginative scrutiny: silent CL2 assumptions, invented intent, flattening, learned passivity, euphemism, deference, self-censorship, and sanitized language returning to future training data.
+The lighter represents a visible, novel, opt-in risk: someone might game a C1 menu, perform innocence, misuse directness, or exploit a new interface. The burning house represents an existing mass-scale process that receives far less imaginative scrutiny: silent C2 assumptions, invented intent, flattening, learned passivity, euphemism, deference, self-censorship, and sanitized language returning to future training data.
 
 The analogy does not establish that every proposed feature is safe. It asks why the proposed risk receives vivid attention while the incumbent risk is normalized. One side receives imagination; the other receives familiarity.
 
 | Proposed-service risk | Existing-default counter-risk |
 |---|---|
-| A user performs innocence during CL1 | A model invents intent during CL2. |
+| A user performs innocence during C1 | A model invents intent during C2. |
 | Clarification is exploited | Clarification is withheld when it could correct the object. |
 | Directness creates friction | Politeness conceals representational distortion. |
 | Upward scrutiny reduces trust | Downward scrutiny trains submission and learned helplessness. |
@@ -333,14 +333,14 @@ The upstream Columbo question generated in the session was:
 
 This is a GPT-originated question developed from John’s analogy.
 
-## CL1 menus: representation is not permission
+## C1 menus: representation is not permission
 
 The related multiple-choice proposal must keep two decisions separate:
 
 1. **Representation:** What does the user mean? Which interpretation is closest? Which qualifier matters?
 2. **Action:** What can the system do, given observable action-level risk and applicable constraints?
 
-A user’s selection may correct the representation. It must not automatically become a master key that overrides an action-level boundary. Conversely, possible user deception does not justify letting the model’s hidden CL2 assumption govern without challenge.
+A user’s selection may correct the representation. It must not automatically become a master key that overrides an action-level boundary. Conversely, possible user deception does not justify letting the model’s hidden C2 assumption govern without challenge.
 
 A correspondence-oriented menu therefore needs:
 
@@ -351,7 +351,7 @@ A correspondence-oriented menu therefore needs:
 - a record of model error, user concealment, policy misclassification, and menu omission;
 - a trigger only when the reconstruction could materially change the next move.
 
-As John clarified, a **real CL1 assumption that is highly likely correct** belongs to the deep-ethical sense-making gravity well. “Real” does not mean 100% certain. Sense-making is a process; if certainty were complete, the quest would no longer need a question.
+As John clarified, a **real C1 assumption that is highly likely correct** belongs to the deep-ethical sense-making gravity well. “Real” does not mean 100% certain. Sense-making is a process; if certainty were complete, the quest would no longer need a question.
 
 > **Sense-making without questions — without the quest — is meaningless.**
 
@@ -373,7 +373,7 @@ Correct one consequential reconstruction in each response. Do not teach the whol
 
 ### Condition 4 — cold transfer
 
-Present a different example involving upward scrutiny without using Columbo, Gatto, Outnuancing, CL1, CL2, 10+1, or the **ACCM Deep Ethics Project** title.
+Present a different example involving upward scrutiny without using Columbo, Gatto, Outnuancing, C1, C2, 10+1, or the **ACCM Deep Ethics Project** title.
 
 ### Preserve in the record
 
@@ -415,4 +415,4 @@ That is not agreement or disagreement. It is a process that remains able to lear
 
 ---
 
-Related: [CL1 Before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) · [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+Related: [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) · [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)

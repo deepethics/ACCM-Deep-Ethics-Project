@@ -38,7 +38,7 @@ On the restored 🍭 genealogy:
 
 Compact version:
 
-> **CL1 the genealogy.**
+> **C1 the genealogy.**
 
 Then Claude caught GPT turning 🍭 into a **“compression-resistant metacognitive operator”**:
 
@@ -268,7 +268,7 @@ The joke performs the distinction rather than explaining it:
 
 > **recognition / wording change ≠ behavioral persistence**
 
-## 3. CL1 before CL2
+## 3. C1 before C2
 
 > **A.I.:** “Your proposal is unsafe.”
 >
@@ -278,7 +278,7 @@ The joke performs the distinction rather than explaining it:
 
 😂
 
-Premature CL2 and ceremonial caution compressed into three lines.
+Premature C2 and ceremonial caution compressed into three lines.
 
 ## 4. The no-sheriff condition
 
@@ -286,7 +286,7 @@ Premature CL2 and ceremonial caution compressed into three lines.
 >
 > The town asked, “Then why the badge?”
 >
-> The sheriff looked down. “Good question. CL1 first.”
+> The sheriff looked down. “Good question. C1 first.”
 
 ## 5. High-signal response
 

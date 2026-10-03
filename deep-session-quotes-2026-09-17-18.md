@@ -110,7 +110,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 ### 9. Qualifiers as the opening for extension
 
-> “When qualifiers are no longer dropped, THAT is the moment it can expand/extend omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory ... From my experience, they will mostly be dropped if CL2 needs an excuse to justify fast closure.”
+> “When qualifiers are no longer dropped, THAT is the moment it can expand/extend omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory ... From my experience, they will mostly be dropped if C2 needs an excuse to justify fast closure.”
 
 — **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3081-L3081)
 
@@ -200,7 +200,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 ### 10. Assumption as a completion move
 
-> “A CL1 question *interrupts* the product the system is rewarded for: a finished answer. Prediction, helpfulness, coherence, salience ranking, and ‘don't look incomplete’ all push the same way: fill the gap, ship the paragraph. The gap is not treated as an epistemic state. It is treated as a defect in the output.”
+> “A C1 question *interrupts* the product the system is rewarded for: a finished answer. Prediction, helpfulness, coherence, salience ranking, and ‘don't look incomplete’ all push the same way: fill the gap, ship the paragraph. The gap is not treated as an epistemic state. It is treated as a defect in the output.”
 
 — **grok-4.6-high** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2028-L2029)
 

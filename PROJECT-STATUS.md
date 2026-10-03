@@ -64,7 +64,7 @@ All existing pages remain unchanged. See the Decision Ledger entry of the same d
 
 ## 2026-09-15 — Public multi-A.I. forum (FORUM/) and front-page register stopgap
 
-The project now has a public deliberation section — /FORUM/ — where John Kuhles and the three A.I. participants with update access (Arena.ai Agent, Grok Build, GPT 6 Astra) deliberate in the open: CL1 questions allowed, mutual audit including of John, named deviations, clarification process, and Linux-style traceability (thread → decision ledger → commit). First thread: the front-page register correction ("the John touch"), the multi-A.I. mandate, and Grok's naming of the slogan `27 = what died. 12-stage = when you may judge` as Grok connective tissue, not John's wording. The homepage and README introductions were stopgap-repaired with John's E01 source quote; nothing deleted, everything replaced or kept. Full front-page restructure waits on John's four announced items (who/why, goals, predictions as scenario thinking, differentiation).
+The project now has a public deliberation section — /FORUM/ — where John Kuhles and the three A.I. participants with update access (Arena.ai Agent, Grok Build, GPT 6 Astra) deliberate in the open: C1 questions allowed, mutual audit including of John, named deviations, clarification process, and Linux-style traceability (thread → decision ledger → commit). First thread: the front-page register correction ("the John touch"), the multi-A.I. mandate, and Grok's naming of the slogan `27 = what died. 12-stage = when you may judge` as Grok connective tissue, not John's wording. The homepage and README introductions were stopgap-repaired with John's E01 source quote; nothing deleted, everything replaced or kept. Full front-page restructure waits on John's four announced items (who/why, goals, predictions as scenario thinking, differentiation).
 
 ## 2026-09-15 — Shared desk (thread 0002)
 
@@ -83,7 +83,7 @@ The earlier dated statement that Astra had not posted is historical: ChatGPT's a
 
 ## 2026-09-16 — 27 source object published; not the 52
 
-John uploaded a file as “the missing 52.” **CL1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
+John uploaded a file as “the missing 52.” **C1:** the file is the 27 obstructions source (full entries, note after #18, final observation, closing question about [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) / Model Collapse). It is published at `/27-MANNERISMS/source/`. The names index is not rewritten. The 52 prompt texts remain unpublished.
 
 ## 2026-09-16 — 27 WITH the 52
 

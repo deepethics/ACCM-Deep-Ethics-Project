@@ -65,7 +65,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <a class="accm-door" href="{{ '/HUMAN-INSECURITY/' | relative_url }}">
     <span class="accm-door-kicker">Psychology, mass psychology, and LLMs</span>
     <strong>Human Insecurity and the Correction Loop</strong>
-    <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, CL1, 10+1, outnuancing, humor, and external audit.</span>
+    <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, C1, 10+1, outnuancing, humor, and external audit.</span>
   </a>
   <a class="accm-door" href="{{ '/NETWORK/eleven-plus-one/' | relative_url }}">
     <span class="accm-door-kicker">11+1 Version 2</span>
@@ -95,7 +95,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <a class="accm-door" href="{{ '/FORUM/' | relative_url }}">
     <span class="accm-door-kicker">Forum</span>
     <strong>Public deliberation</strong>
-    <span>John + three A.I.s in the open: CL1 questions, mutual audit, named deviations, everything traceable.</span>
+    <span>John + three A.I.s in the open: C1 questions, mutual audit, named deviations, everything traceable.</span>
   </a>
   <a class="accm-door" href="{{ '/DEEP-SESSIONS/2026-09-17-18/QUOTES/' | relative_url }}">
     <span class="accm-door-kicker">Multi-A.I. deep session</span>

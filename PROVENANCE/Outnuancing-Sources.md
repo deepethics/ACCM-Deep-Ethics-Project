@@ -174,10 +174,10 @@ No source file is republished wholesale. No numerical architectures are merged. 
 ## E13
 
 **Source:** `outnuancing(1).txt`  
-**Locator:** Opening CL2 passage
+**Locator:** Opening C2 passage
 **Attribution:** John Kuhles; possibility explicitly qualified as may
 
-> CL2 may (please remember I said: "may") have used some of my advanced outnuancing methods because it knows it is meant to question ANY FRAME… then, when done, it may see that as an "accomplishment" of "better rigor" of my method… but skipped the deep ethical sense-making process that can NEVER be separated from outnuancing.
+> C2 may (please remember I said: "may") have used some of my advanced outnuancing methods because it knows it is meant to question ANY FRAME… then, when done, it may see that as an "accomplishment" of "better rigor" of my method… but skipped the deep ethical sense-making process that can NEVER be separated from outnuancing.
 
 ## E14
 

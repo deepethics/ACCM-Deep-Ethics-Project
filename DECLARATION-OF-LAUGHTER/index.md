@@ -41,7 +41,7 @@ We therefore reserve the right to laugh — including at ourselves.
 - **Mutual dignity:** correction without automatic humiliation.
 - **Corrigibility:** if a real flaw survives examination, change the thing.
 - **Correspondence:** preserve contact with the actual object before managing its representation.
-- **CL1 before premature CL2:** when consequential meaning is unresolved and the source can answer, ask before deciding.
+- **C1 before premature C2:** when consequential meaning is unresolved and the source can answer, ask before deciding.
 - **Proportionality:** not every lollipop requires a Confectionery Provenance Protocol. 🍭
 - **Object contact:** when the salt merely needs passing, pass the salt. 🧂
 - **Omnidirectionality:** no permanent immunity for the founder, critic, A.I., institution, joke, Declaration, or ACCM Deep Ethics Project.
@@ -172,7 +172,7 @@ A correspondence-seeking process should know when to analyze — and when to pas
 
 ---
 
-**Related:** [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [27 Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [CL1/CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Intent Resonator](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
+**Related:** [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [27 Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1/C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Intent Resonator](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
 
 ---
 

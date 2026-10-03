@@ -47,7 +47,7 @@ The list points toward a broader question for AI and human reasoning:
 
 Question quality affects what can enter the inquiry at all. A premature classification can shrink the available search space before the investigation has really begun. A better question can reopen distinctions, expose a hidden premise, reveal an omitted variable, or make an apparent binary less binding.
 
-This connects naturally to the ACCM Deep Ethics Project emphasis on **CL1 clarification before unwarranted CL2 intervention**. Clarification is not required at every turn. It becomes relevant when a materially unresolved distinction would change the next move.
+This connects naturally to the ACCM Deep Ethics Project emphasis on **C1 clarification before unwarranted C2 intervention**. Clarification is not required at every turn. It becomes relevant when a materially unresolved distinction would change the next move.
 
 ## Process rather than posture
 

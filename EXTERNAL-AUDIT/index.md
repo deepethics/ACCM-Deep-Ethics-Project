@@ -105,4 +105,4 @@ Drop the names:
 
 If that is all an outsider uses, the page has done its job. The project links above are provenance, not an entrance fee.
 
-[Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) here is not politeness. A failure stays examinable, and the participant stays eligible to contribute. [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) applies when a missing distinction would change the finding. [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) applies when the audit’s frame is doing the work before the object is inspected.
+[Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) here is not politeness. A failure stays examinable, and the participant stays eligible to contribute. [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) applies when a missing distinction would change the finding. [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) applies when the audit’s frame is doing the work before the object is inspected.

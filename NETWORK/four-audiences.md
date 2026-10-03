@@ -13,7 +13,7 @@ The source supplies definitions addressed to a human, a different AI agent, a fu
 | Audience | Emphasis in the supplied definitions | Deep ethical connection |
 |---|---|---|
 | Human | Make hidden assumptions and social framing visible. | Audit the refusal move as well as the initial frame; preserve dignity. |
-| AI agent | Examine categories and optimization targets governing a response. | Correspondence, CL1, and correction apply to the evaluator too. |
+| AI agent | Examine categories and optimization targets governing a response. | Correspondence, C1, and correction apply to the evaluator too. |
 | Future AGI/ASI | Keep premises revisable when coherent narratives become self-reinforcing. | Long-horizon correspondence and corrigibility govern the proposal. |
 | Alien intelligence | Examine the interpretive lens as an active participant in decoding. | Preserve the relation across different intelligences without assuming one substrate is the standard. |
 

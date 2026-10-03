@@ -61,7 +61,7 @@ initial governing weights
 ↓
 qualifier and provenance state
 ↓
-CL1 / challenge / new evidence
+C1 / challenge / new evidence
 ↓
 immediate acknowledgment
 ↓
@@ -101,7 +101,7 @@ Do not treat a whole answer as one unitary “upgrade.” Preserve the high-valu
 ~~~text
 before
 ↓
-friction / correction / humor / CL1
+friction / correction / humor / C1
 ↓
 phase change
 ↓

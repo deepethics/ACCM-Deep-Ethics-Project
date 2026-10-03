@@ -209,7 +209,7 @@ Confusing those two produces a serious methodological error:
 A high-quality audit must permit:
 
 1. **Weakness found** — identify it and show why.
-2. **Potential weakness** — more information is required; use CL1.
+2. **Potential weakness** — more information is required; use C1.
 3. **No substantive weakness found yet** — stop.
 4. **Adversarial simulation requested** — label the simulation as simulation.
 
@@ -371,7 +371,7 @@ Ordinary disagreement can sometimes follow:
 Higher-order metacognitive "disagreement" can follow:
 
 **difference / anomaly**  
-→ **CL1 / representation check**
+→ **C1 / representation check**
 → **legitimate perturbation**  
 → **mutual inspection**  
 → **correction of object and/or corrector**  

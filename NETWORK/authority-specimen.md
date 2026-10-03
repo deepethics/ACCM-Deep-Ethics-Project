@@ -30,7 +30,7 @@ The episode provides a representation-and-correction sequence. Whether the corre
 
 Nearest-Generalization Substitution, Phantom Claim Generation, Asymmetric Scrutiny, and Correction Persistence Failure are possible analytical links to the 27. Assigning a category should follow the exchange’s details rather than predetermine the reading.
 
-Related: [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [CL1 CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)
+Related: [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1 C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)
 
 ---
 

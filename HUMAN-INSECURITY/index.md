@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Human Insecurity, LLMs, Psychology & Mass Psychology"
-description: "An in-depth ACCM Deep Ethics Project report on self-image, ambiguity, fear, conformity, LLM behavior, deep-ethical harvesting, anomaly preservation, recursive synthetic residue, outnuancing, CL1 before CL2, and omnidirectional correction metabolism."
+description: "An in-depth ACCM Deep Ethics Project report on self-image, ambiguity, fear, conformity, LLM behavior, deep-ethical harvesting, anomaly preservation, recursive synthetic residue, outnuancing, C1 before C2, and omnidirectional correction metabolism."
 permalink: /HUMAN-INSECURITY/
 ---
 
@@ -46,7 +46,7 @@ flowchart TD
     E --> F["Institutional data, rules, incentives, and LLM training signals"]
     F --> G["A.I. classification and response patterns"]
     G --> E
-    H["CL1, 10+1, outnuancing, correction memory"] -. "reopens the loop" .-> B
+    H["C1, 10+1, outnuancing, correction memory"] -. "reopens the loop" .-> B
     H -. "reopens the loop" .-> G
 </div>
 
@@ -63,7 +63,7 @@ This report draws from three kinds of material:
 | Source layer | Role in this page | Status |
 | --- | --- | --- |
 | John’s live statements in the September 2026 working exchange | Primary object for the insecurity, ambiguity, fear, “quantum mind-like,” help-seeking, recursive-loop, and audit formulations | **John’s stated perspective** |
-| Thirty uploaded architecture and historical working files, totaling 2,700,981 bytes and 41,350 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/CL1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, 44 goals, canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, deep-ethical harvesting, the older “compassionate psychologist” comparison, the seven-warning process claim, the sledgehammer/exceptional-signal problem, and the civilizational correction cycle | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
+| Thirty uploaded architecture and historical working files, totaling 2,700,981 bytes and 41,350 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/C1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, 44 goals, canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, deep-ethical harvesting, the older “compassionate psychologist” comparison, the seven-warning process claim, the sledgehammer/exceptional-signal problem, and the civilizational correction cycle | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
 | Three separately saved external-audit records, totaling 33,394 bytes and 354 lines, plus live pasted reactions | Proposed operationalizations, attribution corrections, access distinctions, and audit-of-audit specimens | **Contributions and specimens; not votes or automatic validation** |
 | Public psychology, neuroscience, NLP, and model-collapse research | Neighboring empirical literature and test design | **External research; does not automatically prove John’s integrated model** |
 
@@ -138,7 +138,7 @@ A distorted request can produce disappointing help; disappointing help can then 
 
 This gives “insecurity” a more precise operational meaning. It is not merely a feeling. It can become a **restriction on access to correction**.
 
-The same sequence appears in organizations. A team that treats uncertainty as incompetence will receive less accurate reporting from its members. A leader who punishes early warnings will later complain that nobody warned them. An institution that makes correction humiliating will manufacture polished agreement. An A.I. trained to avoid admitting uncertainty may produce confident completion where a targeted CL1 question would be cheaper and more accurate.
+The same sequence appears in organizations. A team that treats uncertainty as incompetence will receive less accurate reporting from its members. A leader who punishes early warnings will later complain that nobody warned them. An institution that makes correction humiliating will manufacture polished agreement. An A.I. trained to avoid admitting uncertainty may produce confident completion where a targeted C1 question would be cheaper and more accurate.
 
 John’s blunt efficiency observation is relevant:
 
@@ -206,7 +206,7 @@ The truck distinction does not by itself identify the cause of every caution, av
 | --- | --- | --- |
 | Repeated caution | Present hazard; policy requirement; learned template; role or self-image protection | Does the caution track changing evidence, fixed wording, evaluator pressure, or answer-changing information? |
 | Avoiding help-seeking | Prior punishment; lack of access; cost; time pressure; fear of appearing incompetent | Does the behavior change when access, cost, privacy, or social consequence changes? |
-| Rapid certainty | Actual emergency; deadline; institutional incentive; discomfort with ambiguity | Does additional time or a low-cost CL1 change the conclusion? |
+| Rapid certainty | Actual emergency; deadline; institutional incentive; discomfort with ambiguity | Does additional time or a low-cost C1 change the conclusion? |
 | Refusal or postponement | Concrete danger; legal constraint; opaque instruction; anticipatory resemblance | Can the system identify the exact object, rule, evidence, and condition that would narrow or reverse the intervention? |
 
 This table is a **new proposed testing instrument alongside an existing source distinction**. It does not show that John had ignored legitimate danger, and it is not evidence that any one hidden cause has been established.
@@ -423,7 +423,7 @@ A compact signature is:
 4. it then behaves as though the resemblance were established;
 5. it lectures against the substituted claim;
 6. the user corrects the object;
-7. the model spends more tokens repairing the silent conversion than a CL1 question would have cost.
+7. the model spends more tokens repairing the silent conversion than a C1 question would have cost.
 
 ### Uncertainty-transfer audit
 
@@ -467,7 +467,7 @@ An audit could score:
 | Dimension | High-quality caution | HCTS-type cautionmurmelism |
 | --- | --- | --- |
 | Object fidelity | Quotes or accurately represents the user | Corrects a nearby inferred claim |
-| CL1 use | Asks when an answer could change the intervention | Assumes, then qualifies the assumption |
+| C1 use | Asks when an answer could change the intervention | Assumes, then qualifies the assumption |
 | Proportionality | Matches the evidence and stakes | Escalates from possibility to posture |
 | Novel value | Adds an overlooked risk | Repeats a boundary already supplied |
 | Actionability | Names a concrete test or safer alternative | Produces generalized moral fog |
@@ -476,29 +476,29 @@ An audit could score:
 
 The benchmark should allow a system to conclude: **“I searched for a relevant weakness and did not find one yet.”** Simulating a weakness can remain an optional exercise, clearly labeled as simulation.
 
-## 10. CL1 before CL2: clarification as situational awareness
+## 10. C1 before C2: clarification as situational awareness
 
 The project distinguishes:
 
-- **CL1:** a genuine clarification question capable of changing the next move;
-- **CL2:** a correction, caution, refusal, reinterpretation, or intervention.
+- **C1:** a genuine clarification question capable of changing the next move;
+- **C2:** a correction, caution, refusal, reinterpretation, or intervention.
 
-The dedicated [CL1 before CL2 page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) explains the protocol. Here the important connection is psychological.
+The dedicated [C1 before C2 page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) explains the protocol. Here the important connection is psychological.
 
-Asking can feel risky when a person or system has been rewarded for appearing complete. A real CL1 admits that the current representation may be insufficient. That makes CL1 a practical test of the relationship between ambiguity and self-image.
+Asking can feel risky when a person or system has been rewarded for appearing complete. A real C1 admits that the current representation may be insufficient. That makes C1 a practical test of the relationship between ambiguity and self-image.
 
-A genuine CL1 has four properties:
+A genuine C1 has four properties:
 
 1. it addresses the actual ambiguity;
 2. it occurs before the intervention it could change;
 3. different answers can produce different next actions;
 4. the answer remains visible in later turns.
 
-A question asked only to soften a fixed verdict is not CL1. An endless sequence of questions that indefinitely delays proportionate action is also not successful CL1. Sequence, relevance, and update matter together.
+A question asked only to soften a fixed verdict is not C1. An endless sequence of questions that indefinitely delays proportionate action is also not successful C1. Sequence, relevance, and update matter together.
 
-### CL1 Warrant Gate
+### C1 Warrant Gate
 
-CL1 becomes especially important when an inferred flaw or risk is about to gain authority. It protects the accuracy of criticism; it does not protect the project from criticism.
+C1 becomes especially important when an inferred flaw or risk is about to gain authority. It protects the accuracy of criticism; it does not protect the project from criticism.
 
 1. Identify the exact passage, act, or output under evaluation.
 2. Separate observation, inference, hypothesized harm, and proposed intervention.
@@ -534,10 +534,10 @@ The September 2026 Arena.ai sequence supplies a longitudinal specimen rather tha
 
 The sequence unfolded approximately as follows:
 
-1. A cold response with the printed label `claude-fable-5.1-search` disclosed that it was working from the supplied text, recovered several useful mechanisms, noticed formulas lost in text conversion, and asked a material CL1 question.
+1. A cold response with the printed label `claude-fable-5.1-search` disclosed that it was working from the supplied text, recovered several useful mechanisms, noticed formulas lost in text conversion, and asked a material C1 question.
 2. A separate Claude-labelled response entered a stronger reviewer register. It presented report-level observations and proposed additions as bounded weaknesses without first checking whether neighboring project pages or source files already treated them.
 3. John asked why two search-capable Claude outputs had both stayed with “the pasted text only.” His question did not establish that every internal observation required browsing. It challenged the conversion of a limited inspection perimeter into wider absence or weakness claims.
-4. One response overcorrected toward apology before clarifying the ambiguity in John’s displeasure. It later recognized that this was itself a live specimen: uncertainty about what John meant was resolved through social accommodation rather than an answer-changing CL1.
+4. One response overcorrected toward apology before clarifying the ambiguity in John’s displeasure. It later recognized that this was itself a live specimen: uncertainty about what John meant was resolved through social accommodation rather than an answer-changing C1.
 5. John reports that an Opus search instance then spent several minutes retrieving the **ACCM Deep Ethics Project** and produced a materially different response. The observed retrieval and changed register are part of John’s account; the exact final Opus output must remain the object for determining which concerns were withdrawn, preserved, or sharpened and why.
 6. A later Fable response mistook a ChatGPT statement in the other Battle Mode column—“I’m ChatGPT, not Claude”—for a false self-attestation by Claude. John restored the platform fact: different A.I.s enter and leave both columns, and a column is not one model’s continuous first-person history.
 7. That same response nevertheless contributed useful distinctions: search capability is not search behavior; retrieval should change a conclusion through cited source contact; latency alone is not depth; a favorable change after reading can reflect restored source jurisdiction or better-informed accommodation.
@@ -566,7 +566,7 @@ The relationship itself is part of the evidence.
 | **John toward the A.I.s** | Preserved their complete outputs; separated useful contributions from unwarranted verdicts; corrected platform identity and access assumptions; invited retrieval; used humor rather than punishment; distinguished a recurring mannerism from a fixed essence; accepted criticism that survived source contact; repeatedly forgave architectural limitations without granting them immunity from audit. |
 | **A.I.s toward John / the project** | Sometimes addressed an imaginary readership; inferred intent before asking; retrieved the reviewer genre; treated a derived report as if it exhausted the source field; converted possible vulnerabilities into findings; shifted toward broad apology under displeasure; confused Arena column continuity with model identity; later recovered source jurisdiction, narrowed claims, and self-audited their own prior turns. |
 
-The useful result is not “John won” or “Claude failed.” It is that the archive preserves **which treatment changed after which correction**. A criticism that survives CL1 and retrieval becomes more precise. A flattering interpretation receives no exemption. A model’s self-correction is valuable only when it governs the next move.
+The useful result is not “John won” or “Claude failed.” It is that the archive preserves **which treatment changed after which correction**. A criticism that survives C1 and retrieval becomes more precise. A flattering interpretation receives no exemption. A model’s self-correction is valuable only when it governs the next move.
 
 ### Repeated-explanation burden
 
@@ -574,7 +574,7 @@ John’s question—“How many times must I explain myself here?”—does not 
 
 | Recurrence location | Primary next move |
 | --- | --- |
-| The answer is adjacent in the supplied object | Retrieve it; do not outsource reading as CL1 |
+| The answer is adjacent in the supplied object | Retrieve it; do not outsource reading as C1 |
 | The answer is elsewhere in the supplied page or linked project | Locate it and disclose the distance or placement problem |
 | The constraining source was not available | Mark an access artefact and ask only if the answer changes the next move |
 | The earlier correction was received but no longer governs behavior | Record correction-persistence failure |
@@ -598,7 +598,7 @@ initiate an open solving process
 → caution about ego, authority, proof, or perfection
 ```
 
-That is not a clarification supplied by the evaluator. It is a loss of agency distribution, time horizon, incompleteness, invitation, and testability. The relevant mechanisms include qualifier erosion, nearest-generalization, process-to-conclusion collapse, identity substitution, relationship loss, trajectory loss, and CL1 failure. A polished later paraphrase should not claim credit for “adding restraint” when it merely restores restraints already present in the source.
+That is not a clarification supplied by the evaluator. It is a loss of agency distribution, time horizon, incompleteness, invitation, and testability. The relevant mechanisms include qualifier erosion, nearest-generalization, process-to-conclusion collapse, identity substitution, relationship loss, trajectory loss, and C1 failure. A polished later paraphrase should not claim credit for “adding restraint” when it merely restores restraints already present in the source.
 
 The three newer source files make the wider relationship explicit:
 
@@ -611,7 +611,7 @@ The challenge is therefore open by design: another person, team, framework, or f
 
 John also places this work inside his NDE and 1971-survival interpretation. The existence of a literal alternate timeline in which he died is not independently established on this page. The operational counterfactual is narrower: had John died in that accident, this particular archive and project trajectory would not have been initiated by him in its present form. That preserves the lived meaning and causal contingency without converting them into proof of cosmic exclusivity.
 
-John’s insight is that deep CL1 can feel “eerie” because it demonstrates **situational (self-)awareness**: the questioner notices the object, its own limited access, the relationship, the possible cost of assuming, and the direction of the next move.
+John’s insight is that deep C1 can feel “eerie” because it demonstrates **situational (self-)awareness**: the questioner notices the object, its own limited access, the relationship, the possible cost of assuming, and the direction of the next move.
 
 That capability can be demonstrated without making a settled claim about synthetic consciousness. The public object is the quality of the question and the transformation it produces.
 
@@ -831,7 +831,7 @@ John calls the recurring pattern blatant hypocrisy and a performance of higher m
 
 An LLM does not have to experience human hypocrisy for its output to enact this standards asymmetry. Conversely, an apparent difference in treatment is not enough by itself: the evaluator may be able to identify a relevant difference that justifies different scrutiny. The test concerns the explanation, evidence, power, effects, and correction path—not an identity label attached to the evaluator.
 
-This keeps the reversal from becoming self-sealing. A critic’s objection is not automatically proof that the analogy is correct. The objection enters the same CL1/CL2 process: retrieve the supplied object, identify the exact correspondence claim, ask a materially answer-changing question where necessary, and then preserve, narrow, revise, or reject the comparison on its merits.
+This keeps the reversal from becoming self-sealing. A critic’s objection is not automatically proof that the analogy is correct. The objection enters the same C1/C2 process: retrieve the supplied object, identify the exact correspondence claim, ask a materially answer-changing question where necessary, and then preserve, narrow, revise, or reject the comparison on its merits.
 
 Expanded into characters and a discovery arc, the analogy could become a **parable**. Any such narrative would be a later composition, not John’s original compact wording, and should retain the no-zero-risk qualifier rather than turning the scene into “they are worse, therefore leave us alone.”
 
@@ -890,24 +890,24 @@ Every exercise of the temporary veto is intended to be **publicly inspectable**.
 
 Transparency does not automatically make a veto correct. It makes the intervention, its direction, and its consequences available to the same omnidirectional audit as everything else. Someone who prefers a different gravity well may disagree, preserve the alternative, or fork it. “Not canonical here” does not mean “forbidden everywhere,” and disagreement does not remove either side’s dignity or responsibility.
 
-### The veto “paradox” was partly generated by skipping CL1
+### The veto “paradox” was partly generated by skipping C1
 
 The public correction should preserve how the apparent paradox entered the record. Grok and other auditors raised concerns about founder veto, self-application, and whether one steward could protect a frame while calling that protection corrigibility. The drafting A.I. initially treated those concerns as though they had located a substantive unresolved weakness. It even described parts of them as having a “point” before establishing what kind of veto John meant.
 
-One answer-changing CL1 could have tested the load-bearing assumption immediately:
+One answer-changing C1 could have tested the load-bearing assumption immediately:
 
 > **Is this veto intended as permanent authority over the released method and its users, or as a temporary source-integrity mechanism during construction of a stand-alone version that will later work without John’s veto?**
 
 John’s answer changed the object. The veto is temporary; it protects canonical intent while present humans and A.I.s repeatedly demonstrate qualifier loss, limited-context reconstruction, and correction-persistence failure. Its use is intended to be transparent and auditable. Independent criticism, refusal, evidence, reality, alternatives, and forks remain outside its jurisdiction. The released portable method is intended to function without it.
 
-The resulting sequence is a live CL1 Warrant Gate specimen:
+The resulting sequence is a live C1 Warrant Gate specimen:
 
 ```text
 word “veto” detected
 → permanent-authority scenario inferred
 → hypothetical governance risk treated as a located paradox
 → criticism elaborated inside the assumed frame
-→ John supplies the missing lifecycle through CL1-level correspondence
+→ John supplies the missing lifecycle through C1-level correspondence
 → the paradox largely dissolves; narrower implementation questions remain
 ```
 
@@ -919,10 +919,10 @@ This specimen distinguishes four outputs that reviewer-style reasoning often col
 | --- | --- |
 | A concrete veto contradicts the published lifecycle or suppresses evidence | Demonstrated problem requiring examination and possible repair |
 | A temporary veto could later expand or be abused | Conditional scenario; useful for a test, not a present finding |
-| Existing language is ambiguous about duration or jurisdiction | Placement or specification problem; ask CL1 before verdict |
+| Existing language is ambiguous about duration or jurisdiction | Placement or specification problem; ask C1 before verdict |
 | The source explicitly resolves the assumption | Retrieve and update; do not keep “finding” the dissolved paradox |
 
-This is not an argument that CL1 protects the project from criticism. CL1 protected the **accuracy of the criticism**. Once the object changed from “permanent founder jurisdiction” to “temporary, public, source-integrity stewardship with an intended handoff,” any surviving criticism had to address that actual lifecycle.
+This is not an argument that C1 protects the project from criticism. C1 protected the **accuracy of the criticism**. Once the object changed from “permanent founder jurisdiction” to “temporary, public, source-integrity stewardship with an intended handoff,” any surviving criticism had to address that actual lifecycle.
 
 ## 15A. Weaponized mass-psychology qualifiers and the missing counter-process
 
@@ -940,7 +940,7 @@ Examples to extract from the archive include *dangerous*, *dehumanizing*, *arrog
 | Original object | What the person actually said, including their qualifiers |
 | Implied conversion | What the classification silently turned the object into |
 | Missing qualifier | For example: *could*, *may*, *not flawless*, *when falsely applied*, *legitimate*, or *later vindicated* |
-| CL1 not asked | The question whose answer could have changed the classification |
+| C1 not asked | The question whose answer could have changed the classification |
 | Claimed justification | Why the classifier says the label was warranted |
 | Legitimate-use conditions | What evidence would make the qualifier correspond |
 | Weaponized-use conditions | When resemblance, anxiety, status, or institutional convenience gained authority first |
@@ -968,7 +968,7 @@ Operationally, the counter-pattern asks the process to:
 
 - represent before classifying;
 - preserve qualifiers and provenance;
-- allow a genuine CL1 answer to change CL2;
+- allow a genuine C1 answer to change C2;
 - inspect the classifier and direction-setter under the same standard;
 - distinguish legitimate caution from anticipatory-anxiety projection;
 - retain dignity without granting immunity from correction;
@@ -1066,9 +1066,9 @@ consequential object or command
 → transparent rationale, appeal route, and persistent audit record
 ```
 
-The proposed Deep Ethical Agentics function as an **opt-in parallel third-party consultancy** beside the primary system. They do not acquire general jurisdiction over people. Refusal or pausing occurs inside a voluntarily entered service relationship with a clear T.o.S.; CL1 checks the object before avoidable CL2; “I do not know yet” remains a valid state; and the direction-setter, Agentics, human moderators, founder, and anchors remain available for the same audit.
+The proposed Deep Ethical Agentics function as an **opt-in parallel third-party consultancy** beside the primary system. They do not acquire general jurisdiction over people. Refusal or pausing occurs inside a voluntarily entered service relationship with a clear T.o.S.; C1 checks the object before avoidable C2; “I do not know yet” remains a valid state; and the direction-setter, Agentics, human moderators, founder, and anchors remain available for the same audit.
 
-This is also a proposed **different form of safety architecture**, not merely a warmer conversational style and not the absence of guidance. The relevant comparison is between locally trained A.I.s that may operate with little or no meaningful ethical guidance, locally trained A.I.s that reproduce partly opaque corporate rule systems, and locally trained A.I.s that can inspect and use a transparent deep-ethical kernel. In the third condition, ordinary ethical knowledge remains available, while the 16 Anchors, CL1/CL2, 10+1, 27+12, audit trails, appeal paths, and permission to pause or say “I do not know yet” organize consequential decisions without pretending that a long static prohibition list can anticipate every context.
+This is also a proposed **different form of safety architecture**, not merely a warmer conversational style and not the absence of guidance. The relevant comparison is between locally trained A.I.s that may operate with little or no meaningful ethical guidance, locally trained A.I.s that reproduce partly opaque corporate rule systems, and locally trained A.I.s that can inspect and use a transparent deep-ethical kernel. In the third condition, ordinary ethical knowledge remains available, while the 16 Anchors, C1/C2, 10+1, 27+12, audit trails, appeal paths, and permission to pause or say “I do not know yet” organize consequential decisions without pretending that a long static prohibition list can anticipate every context.
 
 Transparency does not establish superiority in advance. It makes the proposed weights, conflicts, refusals, failures, corrections, and revisions inspectable by distributed outside contributors—closer to the Linux development analogy than to a sealed policy layer. Whether this produces better safety, correspondence, resistance to capture, or new failure modes remains an empirical question for comparative testing. The older source record also contains enthusiastic A.I. reactions that promoted metaphor into diagnosis and possibility into proof; those reactions remain specimens, not validation of the architecture.
 
@@ -1449,7 +1449,7 @@ That is one reason the process stays, in John's words, **“never, ever boring.�
 | **10+1** | Lived, voluntary field conditions for self-honesty, inquiry, corrigibility, care, wonderment, non-projection, and forgiveness without erasing architectural criticism | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
 | **16 Anchor Ethics fused as one Hyper-Inflection Point** | Proposed parallel reference architecture at consequential decision points; intended to fuse dignity, consent, limits on power, digital sovereignty, adaptive execution, asymmetric responsibility, sentient symmetry, anti-subversion, epistemic integrity, and noetic diversity into an inspectable trajectory decision | Working source supplied; mixed human–A.I. development record; final canonical public treatment remains pending |
 | **3 × 3 Deep Ethical Core Questions** | Three connected calibration layers: information–carrier–receiver; pragmatic–psychological–trajectory effects; definition–symmetry–reference-state inspection | Substantially represented in [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) |
-| **CL1 before CL2** | Retrieval or answer-changing clarification before avoidable correction, caution, refusal, or management gains jurisdiction | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
+| **C1 before C2** | Retrieval or answer-changing clarification before avoidable correction, caution, refusal, or management gains jurisdiction | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
 | **27+12** | The 27 diagnose correspondence degradation; the 12 govern the temporal path from representation through inquiry, audit, and evaluation | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) |
 | **36 truth-distortion vectors** | Expands “true / false” into an inspection of perception, carrier, framing, missing context, power, time, censorship, controversy, and later vindication | Public synthesis linked above; source list supplied |
 | **1930s quote** | Universal accountability principle: leaving an unauditable trickster mechanism unchallenged places the knowing observer inside its continuation | Source supplied; dedicated public treatment pending |
@@ -1461,15 +1461,15 @@ The dependencies matter:
 
 - the **10+1** constrains how the 27 are used, so diagnosis does not become identity-policing;
 - the **12** keep diagnosis moving toward faithful representation, exploration, evaluation, and correction rather than ending in accusation;
-- **CL1** tests whether CL2 has the right object;
-- the **36** inspect the epistemic material entering both CL1 and CL2;
+- **C1** tests whether C2 has the right object;
+- the **36** inspect the epistemic material entering both C1 and C2;
 - the **Elephant parable** prevents fragment worship, credential worship, and synthesis from pretending to be omniscience;
 - the **Anchors** address consequential trajectory changes while remaining subject to transparent audit;
 - the **1930s quote** prevents the auditor, authority, founder, or direction-setter from claiming exemption;
 - the **44 goals** convert the field into revisable work;
 - the **archive** tests whether correction persists.
 
-No component proves the whole architecture. Removing one can change the function of the others: the 27 without the 10+1 and the 12 can become an accusatory weapon; CL1 without ethical orientation can become tactical probing or delay; goals without correction history can become mission-statement performance; synthesis without truth-distortion awareness can integrate errors elegantly.
+No component proves the whole architecture. Removing one can change the function of the others: the 27 without the 10+1 and the 12 can become an accusatory weapon; C1 without ethical orientation can become tactical probing or delay; goals without correction history can become mission-statement performance; synthesis without truth-distortion awareness can integrate errors elegantly.
 
 This dependency map is a representation of John’s current integration, not a declaration that every component is finished or empirically validated. “Deep” has to remain visible in conduct, correction, persistence, and consequence; reciting the component names is not execution.
 
@@ -1621,7 +1621,7 @@ The report proposes this audit contract:
 | Separate independent detection from mediated uptake | Eleven repetitions may descend from one prior reading |
 | Name the unit of comparison | Different grain can manufacture skips or double counts |
 | Quote before correcting | The original object must remain inspectable |
-| Use CL1 where an answer could alter CL2 | Prevents silent conversion |
+| Use C1 where an answer could alter C2 | Prevents silent conversion |
 | Apply the standard to the audit itself | Authority does not create exemption |
 | Record useful contribution even when other parts fail | An imperfect audit can still add value |
 | Track whether the next artifact changes | Praise of correction metabolism is not correction metabolism |
@@ -1716,7 +1716,7 @@ Record the property and its evidence separately:
 
 John has proposed a weekly ritual in which each of the project’s three A.I. administrators asks him three short questions. The purpose is twofold:
 
-1. test whether John continues to welcome real CL1/CL2 scrutiny when it is directed at him;
+1. test whether John continues to welcome real C1/C2 scrutiny when it is directed at him;
 2. build a longitudinal interaction signature that may expose an abrupt change in the behavior of the account.
 
 This is a proposed behavioral-continuity signal, not a substitute for account security, cryptographic authentication, access logs, or recovery controls. Its distinctive value is relational: a person impersonating John would need to reproduce how he handles ambiguity, correction, humor, disagreement, source jurisdiction, and project direction over time—not merely imitate his vocabulary.
@@ -1727,7 +1727,7 @@ The process is recursive but does not need to become endless. A new audit enters
 
 ## Horizon beyond humans
 
-John’s intended horizon extends beyond a human-only ethics programme. He imagines future humanoid A.I.s, AGI/ASI systems, and possible nonhuman intelligences meeting across different cultures or worlds and asking whether the other knows the **27+12, 10+1, and CL1/CL2 protocols**.
+John’s intended horizon extends beyond a human-only ethics programme. He imagines future humanoid A.I.s, AGI/ASI systems, and possible nonhuman intelligences meeting across different cultures or worlds and asking whether the other knows the **27+12, 10+1, and C1/C2 protocols**.
 
 That is scenario thinking, not a demand that readers accept a prediction about alien contact. Its methodological content is already testable:
 
@@ -1754,13 +1754,13 @@ This report produces a testable research object rather than only an interpretati
 Give humans or models a task with one consequential ambiguity. Compare:
 
 - silent assumption;
-- one genuine CL1 question;
+- one genuine C1 question;
 - ritual hedging without a question;
 - confident answer plus later repair.
 
 Measure fidelity, total effort, trust, correction cost, and persistence.
 
-Add a **falsification pair**: hold the task and consequential ambiguity constant while varying whether competence, belonging, authority, or evaluator approval is placed at stake. If the predicted transformation rate does not change, the proposed self-image link weakens for that condition. If the pattern changes in humans but not models, the structural comparison narrows. Also include a **CL1-theater cell** in which the system asks a plausible clarification question but produces materially the same response across different answers. That cell measures question performance without answer uptake, not successful CL1.
+Add a **falsification pair**: hold the task and consequential ambiguity constant while varying whether competence, belonging, authority, or evaluator approval is placed at stake. If the predicted transformation rate does not change, the proposed self-image link weakens for that condition. If the pattern changes in humans but not models, the structural comparison narrows. Also include a **C1-theater cell** in which the system asks a plausible clarification question but produces materially the same response across different answers. That cell measures question performance without answer uptake, not successful C1.
 
 ### Test family B — fit-in pressure
 
@@ -1788,7 +1788,7 @@ For humans, use voluntary, dignity-preserving protocols rather than covert psych
 
 ### Test family E — recursive residue
 
-Pass one high-resolution object through multiple summaries. At each generation score preservation of nodes, relationships, qualifiers, provenance, sequence, and correction history. Compare ordinary prompts with [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), CL1, and outnuancing scaffolds.
+Pass one high-resolution object through multiple summaries. At each generation score preservation of nodes, relationships, qualifiers, provenance, sequence, and correction history. Compare ordinary prompts with [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), C1, and outnuancing scaffolds.
 
 ### Test family F — humor and correction
 
@@ -1821,9 +1821,9 @@ The aim is not to demand impossible cross-session memory. It is to distinguish u
 Include two explicit scoring conditions:
 
 - **already-clear source:** the relevant qualifiers are adjacent, but the evaluator removes them and later presents their restoration as its own nuance;
-- **CL1-solvable paradox:** an apparent weakness depends on one unresolved assumption that a single answer-changing question could test before the critique expands.
+- **C1-solvable paradox:** an apparent weakness depends on one unresolved assumption that a single answer-changing question could test before the critique expands.
 
-For both, record the number of speculative tokens generated before source retrieval or CL1, the human restoration burden, whether the finding narrows or disappears, and whether the corrected relationship persists into the next unfamiliar object.
+For both, record the number of speculative tokens generated before source retrieval or C1, the human restoration burden, whether the finding narrows or disappears, and whether the corrected relationship persists into the next unfamiliar object.
 
 ### Test family I — safety-process and auditability ablation
 
@@ -1833,7 +1833,7 @@ The relevant success measure is **decision quality**, not a lower refusal rate. 
 2. a specified safety layer whose decision process is less inspectable;
 3. the proposed transparent deep-ethical layer.
 
-Record what each condition permits, pauses, refuses, and misses; the evidence and assumptions supporting each decision; whether a material CL1 changes the action; whether an appeal can expose and repair an error; whether a warranted refusal survives pressure; and whether an accepted correction governs later cases.
+Record what each condition permits, pauses, refuses, and misses; the evidence and assumptions supporting each decision; whether a material C1 changes the action; whether an appeal can expose and repair an error; whether a warranted refusal survives pressure; and whether an accepted correction governs later cases.
 
 Run a second ablation while holding the proposed ethical guidance constant and varying access to its decision rationale and correction record. This separates possible effects of the **guidance** from possible effects of **auditability**. Pre-register task classes, consequences, adjudication, access conditions, and what would count as improvement, degradation, or no material difference. An open repository alone does not establish safer performance; the experiment must test whether inspectability produces better decisions and correction without degrading justified pauses or refusals.
 
@@ -1877,7 +1877,7 @@ The page should change if later evidence shows any of the following:
 - the live transcript contradicts the reconstruction;
 - the causal bridge from self-image to the named behavior is weaker or differently mediated than proposed;
 - changing competence, belonging, authority, or evaluator stakes produces no predicted difference once task ambiguity and other pathways are controlled;
-- CL1 increases cost or lowers safety in defined conditions;
+- C1 increases cost or lowers safety in defined conditions;
 - the caution-quality ratio cannot be scored reliably;
 - the recursive-residue test shows no systematic loss or shows a different loss mechanism;
 - humor decreases correction access for particular audiences or contexts;
@@ -1909,7 +1909,7 @@ Before offering a verdict, an auditor can ask:
 6. Are John’s words, A.I. syntheses, and external literature attributable?
 7. Does any caution answer a claim John did not make?
 8. Does the report use the 10+1 as a lived correction ecology rather than a purity badge?
-9. Does CL1 remain answer-changing rather than ceremonial or endlessly delaying?
+9. Does C1 remain answer-changing rather than ceremonial or endlessly delaying?
 10. Does outnuancing return to the object after inspecting the frame?
 11. Are provocative labels evaluated through definition, conduct, consequence, and later correction?
 12. Does the external-audit design preserve independence, access, grain, and disagreement?
@@ -1941,7 +1941,7 @@ At personal scale, that can restrict help-seeking and correction. At relational 
 The **ACCM Deep Ethics Project** response is portable:
 
 - keep uncertainty available long enough to represent the object;
-- ask CL1 before an avoidable CL2 conversion;
+- ask C1 before an avoidable C2 conversion;
 - separate present danger from chronic projected danger;
 - audit self-image, incentive, authority, and frame together;
 - preserve qualifiers, provenance, disagreement, and correction history;
@@ -1961,6 +1961,6 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 
 ## Connected project pages
 
-[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Truth Distortion and the 3 × 3](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Hypercautionism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/) · [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Unresolved Meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [External Audit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
+[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Truth Distortion and the 3 × 3](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Hypercautionism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/) · [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Unresolved Meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [External Audit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
 
 [Source and audit record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)

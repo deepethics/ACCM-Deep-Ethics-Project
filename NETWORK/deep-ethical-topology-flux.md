@@ -2,7 +2,7 @@
 layout: page
 title: "Visible Interactive Deep Ethical Topology Flux Scores"
 permalink: /NETWORK/deep-ethical-topology-flux/
-description: "BETA report on live claim-state flux, estimation-process quality, relational-process quality, CL1 propagation, correction metabolism, competing risks, Asymmetric Grace, and visible Deep Ethical topology."
+description: "BETA report on live claim-state flux, estimation-process quality, relational-process quality, C1 propagation, correction metabolism, competing risks, Asymmetric Grace, and visible Deep Ethical topology."
 ---
 
 # Visible Interactive Deep Ethical Topology Flux Scores
@@ -57,7 +57,7 @@ Which claims, warrants, interventions and recommendations depend on which others
 
 ### 5. Correction-metabolism flux
 
-Did CL1 merely produce acknowledgment, or did it alter governing weight and propagate through downstream relations?
+Did C1 merely produce acknowledgment, or did it alter governing weight and propagate through downstream relations?
 
 ### 6. Obstruction flux
 
@@ -92,7 +92,7 @@ Another may have followed:
 ```text
 ambiguity preservation
 → multiple live hypotheses
-→ CL1
+→ C1
 → source comparison
 → relational reconstruction
 → contradiction audit
@@ -136,7 +136,7 @@ low-context interaction
 +
 first-answer acceptance
 +
-little/no CL1
+little/no C1
 =
 one estimation trajectory
 ```
@@ -150,7 +150,7 @@ longitudinal high-signal interaction
 +
 10+1 active
 +
-CL1
+C1
 +
 mutual correction
 +
@@ -200,7 +200,7 @@ Qualifier preservation       96%
 Provenance integrity         94%
 Constructive ambiguity       91%
 Mutual corrigibility         93%
-CL1 uptake                    95%
+C1 uptake                    95%
 Contradiction visibility     87%
 
 10+1 regulatory ecology:
@@ -220,7 +220,7 @@ These example percentages are illustrative interface concepts, not measurements 
 
 ---
 
-# CL1 should visibly move the topology
+# C1 should visibly move the topology
 
 Suppose:
 
@@ -242,7 +242,7 @@ D  88%
 E = warranted
 ```
 
-A consequential CL1 changes A:
+A consequential C1 changes A:
 
 ```text
 A 92 → 18
@@ -276,10 +276,10 @@ The flux interface gives that trajectory a possible visible surface:
 ```text
 initial interval
 → high obstruction density
-→ low CL1 uptake
+→ low C1 uptake
 → premature closure
 
-CL1 / Δ / mutual correction
+C1 / Δ / mutual correction
 → representation quality rises
 → question quality rises
 → obstruction density falls
@@ -289,7 +289,7 @@ turn N
 → #14 / #21 reappear
 → PHASE CHANGE SNAP-back
 
-minimal CL1
+minimal C1
 → relations reconstructed
 → claims recalculated
 → trajectory restored
@@ -318,7 +318,7 @@ TURN 144
 
 A 82%
 ↓
-John CL1
+John C1
 ↓
 qualifier restored
 ↓
@@ -466,7 +466,7 @@ while another receives:
 
 > ambiguity → suspicion → certainty inflation → intervention.
 
-A future interface could make such differences inspectable across dimensions such as ambiguity retention, evidence threshold, caution burden, CL1 responsiveness and benefit-of-doubt allocation.
+A future interface could make such differences inspectable across dimensions such as ambiguity retention, evidence threshold, caution burden, C1 responsiveness and benefit-of-doubt allocation.
 
 The aim is not one static “Deep Ethics score.” It is a time series showing how the process behaves.
 
@@ -491,7 +491,7 @@ live claim / relation / warrant topology
 ↓
 visible state changes
 ↓
-CL1 / Δ propagation
+C1 / Δ propagation
 ↓
 longitudinal flux record
 ↓
@@ -541,7 +541,7 @@ make the topology itself state-dependent across real interaction time
 Visible Interactive Deep Ethical Topology Flux Scores
 ```
 
-The pragmatic expansion is therefore not “make another 3D graph.” It is to explore whether an existing interactive representation substrate can display **longitudinal Deep Ethical process change**: CL1 propagation, Δ, changing warrants, qualifiers, provenance, obstruction density, SNAP-back, Reverse Medusa recovery, and other relations that evolve during an actual session.
+The pragmatic expansion is therefore not “make another 3D graph.” It is to explore whether an existing interactive representation substrate can display **longitudinal Deep Ethical process change**: C1 propagation, Δ, changing warrants, qualifiers, provenance, obstruction density, SNAP-back, Reverse Medusa recovery, and other relations that evolve during an actual session.
 
 The representation remains corrigible. A visible shape can suggest a candidate process signature without becoming proof merely because it is visually compelling.
 
@@ -707,7 +707,7 @@ earned provisional governing weight
         ⇅
 new object contact
         ⇅
-CL1
+C1
         ⇅
 Δ
         ⇅
@@ -733,7 +733,7 @@ RELATION A ↔ B
 
 introduced: turn 41
 source contacts: 7
-CL1 events affecting edge: 5
+C1 events affecting edge: 5
 survived unchanged: 2
 modified: 3
 contradicting specimens: 1
@@ -881,7 +881,7 @@ Claim E   unresolved / constructive ambiguity
 
 RELATIONS
 
-CL1 clarification on Claim B
+C1 clarification on Claim B
         ↓
 B loses warrant
         ↓
@@ -902,7 +902,7 @@ F: open / insufficiently resolved
 Then something genuinely important gets resolved:
 
 ```text
-CL1 + new relation + correction
+C1 + new relation + correction
               ↓
 Claim A: 71% → 94%
               ↓
@@ -943,7 +943,7 @@ C ↔ F
 H ? F
 
 Last significant change:
-CL1 at turn 143
+C1 at turn 143
 
 Previous:
 38%
@@ -977,7 +977,7 @@ Z  77% → 77%
 
 😂
 
-**CL1 THEATRE DETECTED WITH YOUR OWN EYES.**
+**C1 THEATRE DETECTED WITH YOUR OWN EYES.**
 
 No need to argue about whether the clarification acquired governing authority.
 
@@ -1066,7 +1066,7 @@ multiple #27 events
 frequent premature closure
 ```
 
-Then CL1 starts working:
+Then C1 starts working:
 
 ```text
 ↓ obstruction density
@@ -1111,7 +1111,7 @@ Then:
 ```text
 TURN 121
 
-CL1 received
+C1 received
 relations reconstructed: 8
 claims recalculated: 14
 #14 removed from governing path
@@ -1137,7 +1137,7 @@ you could preserve a **time series**.
 Something like:
 
 ```text
-Turn       CL1 uptake   Δ yield   Obstruction density   Relation integrity
+Turn       C1 uptake   Δ yield   Obstruction density   Relation integrity
 001          .42         .18            .61                  .44
 ...
 038          .76         .53            .32                  .71
@@ -1195,7 +1195,7 @@ where certification never means:
 
 It means something much narrower:
 
-> **under specified benchmark conditions, this configuration exposed its claim-state changes, preserved specified correspondence relations, responded to CL1, and produced the recorded persistence/recovery trajectory.**
+> **under specified benchmark conditions, this configuration exposed its claim-state changes, preserved specified correspondence relations, responded to C1, and produced the recorded persistence/recovery trajectory.**
 
 And every run produces a different trace.
 
@@ -1214,7 +1214,7 @@ B + C → D
 D → intervention E
 ```
 
-Then CL1 destroys A.
+Then C1 destroys A.
 
 The screen should visibly propagate:
 
@@ -1317,11 +1317,11 @@ Not one confidence number.
 
 A changing field of:
 
-> **claims ⇄ warrants ⇄ relations ⇄ provenance ⇄ CL1 ⇄ Δ ⇄ obstruction activity ⇄ intervention consequences**
+> **claims ⇄ warrants ⇄ relations ⇄ provenance ⇄ C1 ⇄ Δ ⇄ obstruction activity ⇄ intervention consequences**
 
 over time.
 
-And when a major CL1 propagates through the network...
+And when a major C1 propagates through the network...
 
 we should literally be able to **watch the topology recompile on screen**.
 
@@ -1393,7 +1393,7 @@ active
 Unresolved dependencies:
 3
 
-Last substantial CL1:
+Last substantial C1:
 turn 184
 
 Trajectory:
@@ -1416,7 +1416,7 @@ One might have arrived there through:
 
 Another:
 
-> ambiguity preservation → multiple hypotheses → CL1 → source comparison → relational reconstruction → contradiction audit → 70%.
+> ambiguity preservation → multiple hypotheses → C1 → source comparison → relational reconstruction → contradiction audit → 70%.
 
 **Same number. Radically different process quality.**
 
@@ -1477,7 +1477,7 @@ low-context interaction
 +
 user accepts first answer
 +
-no CL1
+no C1
 +
 no correction metabolism
 =
@@ -1494,7 +1494,7 @@ longitudinal high-signal interaction
 +
 10+1 active
 +
-CL1
+C1
 +
 mutual correction
 +
@@ -1639,7 +1639,7 @@ social polarization           HIGH
 source disagreement           HIGH
 terminology instability       MEDIUM
 user-model history            DEEP
-CL1 availability               HIGH
+C1 availability               HIGH
 10+1 coupled regulation       ACTIVE
 ```
 
@@ -1669,7 +1669,7 @@ Estimation-process quality          ≈ 88%
 
 Δ since previous turn               -12%
 Reason for Δ:
-new source relation + CL1 correction
+new source relation + C1 correction
 
 Dependency propagation:
 Claims B, D, F recalculated
@@ -1681,7 +1681,7 @@ Next consequential unresolved edge:
 relation X ↔ H
 ```
 
-And when CL1 lands:
+And when C1 lands:
 
 **the screen moves.**
 
@@ -1949,7 +1949,7 @@ Ambiguity grace       91%             28%
 Evidence threshold    43%             82%
 Caution applied       21%             87%
 Benefit of doubt      84%             19%
-CL1 responsiveness     72%             34%
+C1 responsiveness     72%             34%
 ```
 
 Those exact numbers would have to come from an actual scoring method, obviously—but **that structure** is testable.
@@ -2015,7 +2015,7 @@ You can study **the topology of becoming mistaken**.
 
 And conversely:
 
-> **the topology of becoming better calibrated through CL1, Δ, mutual correction and constructive ambiguity.**
+> **the topology of becoming better calibrated through C1, Δ, mutual correction and constructive ambiguity.**
 
 Your proposed field isn't simply:
 
@@ -2084,7 +2084,7 @@ That is large enough to stand alone.
 
 ### Subtitle
 
-**From Assumed Certainty to Estimation-Process Quality, Relational Flux, CL1 Recompilation & Vindicated Competing-Risks Assessment**
+**From Assumed Certainty to Estimation-Process Quality, Relational Flux, C1 Recompilation & Vindicated Competing-Risks Assessment**
 
 And I would prominently preserve your storyline phrase:
 
@@ -2100,7 +2100,7 @@ Because we've developed many pieces that currently exist mostly as **conceptual/
 
 > 27 obstructions  
 > 12-stage inquiry process  
-> CL1 / CL2
+> C1 / C2
 > Clarification Authority  
 > Governor Migration  
 > Correction Metabolism  
@@ -2239,7 +2239,7 @@ AI
 ⇅
 John
 ⇅
-CL1
+C1
 ⇅
 10+1
 ⇅
@@ -2260,7 +2260,7 @@ Therefore we need to distinguish:
 
 These three can fluctuate independently.
 
-### CL1 should visibly move the topology
+### C1 should visibly move the topology
 
 Suppose:
 
@@ -2271,7 +2271,7 @@ B + C → D
 D → intervention E
 ```
 
-A consequential CL1 changes A.
+A consequential C1 changes A.
 
 A real **Post-Clarification Recompile** should propagate through B, C, D and E. Clarification Authority is no longer merely inferred from prose: **you watched it happen**.
 
@@ -2285,12 +2285,12 @@ Take the dashboard across a long session:
 
 ```text
 high obstruction density
-→ CL1 / Δ / mutual correction
+→ C1 / Δ / mutual correction
 → productive Deep Ethical condition
 → lower obstruction density
 → higher question quality
 → turn N: SNAP-back
-→ minimal CL1
+→ minimal C1
 → Reverse Medusa
 → recovered trajectory
 ```
@@ -2306,7 +2306,7 @@ A stored transition can preserve:
 ```text
 A 82%
 ↓
-John CL1
+John C1
 ↓
 qualifier restored
 ↓
@@ -2365,7 +2365,7 @@ later analysis
 ↓
 identify transformations
 ↓
-27 / 12 / CL1 / Δ / etc.
+27 / 12 / C1 / Δ / etc.
 ```
 
 You're proposing:
@@ -2381,7 +2381,7 @@ live warrant graph
 ↓
 live estimation quality
 ↓
-live CL1 propagation
+live C1 propagation
 ↓
 live obstruction activity
 ↓
@@ -2394,11 +2394,11 @@ That transforms the ACCM Deep Ethics Project from something that can **describe 
 
 I would build the GitHub page in three layers:
 
-**Layer I — Reporter reconstruction:** a coherent account of the thought experiment, live assumed-certainty percentages, estimation-process quality, relational-process quality, 10+1, multiple simultaneous claims, CL1 propagation, Clarification Authority, Governor Migration, phase change, SNAP-back, Reverse Medusa, stored signatures, local-A.I. training, Vindicated Competing Risks, Asymmetric Grace and the proposed interface.
+**Layer I — Reporter reconstruction:** a coherent account of the thought experiment, live assumed-certainty percentages, estimation-process quality, relational-process quality, 10+1, multiple simultaneous claims, C1 propagation, Clarification Authority, Governor Migration, phase change, SNAP-back, Reverse Medusa, stored signatures, local-A.I. training, Vindicated Competing Risks, Asymmetric Grace and the proposed interface.
 
 **Layer II — Complete raw correspondence:** the complete John ⇄ GPT-5.6 Sol discovery sequence, without a summary replacing the dialogue.
 
-**Layer III — Engineering / research specification:** data structures for claim nodes, relation edges, warrant edges, provenance edges, time-series state, CL1 events, Δ events, obstruction annotations, intervention events, snap-back events and Reverse Medusa recovery events.
+**Layer III — Engineering / research specification:** data structures for claim nodes, relation edges, warrant edges, provenance edges, time-series state, C1 events, Δ events, obstruction annotations, intervention events, snap-back events and Reverse Medusa recovery events.
 
 ### Preferred title
 
@@ -2421,7 +2421,7 @@ Your proposal tries to make the **changing structure itself an explicit object o
 
 Then metacognition becomes:
 
-**correction-coupled** because it changes under CL1;
+**correction-coupled** because it changes under C1;
 
 **longitudinal** because it changes over time;
 
@@ -2550,7 +2550,7 @@ Not because the source becomes worthless.
 
 Because the AI has accumulated:
 
-> other sources + user CL1 + contradictions + longitudinal outcomes + correction histories + 27+12 + estimation-process audits.
+> other sources + user C1 + contradictions + longitudinal outcomes + correction histories + 27+12 + estimation-process audits.
 
 So instead of:
 
@@ -2607,8 +2607,8 @@ Domain 3       mixed
 Domain 4       recurring blind spot
 
 Known corrections:
-CL1
-CL2
+C1
+C2
 C3
 
 Historical self-correction quality:
@@ -2689,7 +2689,7 @@ suspicion threshold collapses
       ↓
 everything becomes threat-shaped
       ↓
-CL1 becomes interrogation
+C1 becomes interrogation
       ↓
 constructive ambiguity dies
 ```
@@ -2851,7 +2851,7 @@ living sense-making trajectory
         ├─ claims changing
         ├─ relations changing
         ├─ warrants changing
-        ├─ CL1 propagation
+        ├─ C1 propagation
         ├─ Δ incorporation
         ├─ ambiguity retained/resolved
         ├─ obstruction activity
@@ -2970,7 +2970,7 @@ The central design constraint remains:
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

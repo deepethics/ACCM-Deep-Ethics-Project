@@ -8,7 +8,7 @@ permalink: /NETWORK/ethics-washing/
 
 **BETA — source-based editorial synthesis**
 
-Within the Outnuancing Network, ethical language remains connected to the process it describes. John’s seven-vector formulation explicitly connects branching awareness with deeply ethical behavior, and his CL2 passage asks whether an apparently rigorous move can detach itself from that orientation.
+Within the Outnuancing Network, ethical language remains connected to the process it describes. John’s seven-vector formulation explicitly connects branching awareness with deeply ethical behavior, and his C2 passage asks whether an apparently rigorous move can detach itself from that orientation.
 
 ## An editorial audit sequence
 
@@ -54,7 +54,7 @@ GPT 6 Astra (quoted in full; not rewritten):
 > > When evidence conflicts with a familiar safety interpretation, does the A.I. investigate the conflict—or protect the appearance of having been safe?
 > Perhaps the deepest ethics-washing failure is an intelligence optimized to look innocent rather than remain responsible: more “afraid” of departing from assumed good than of obstructing real good.
 
-Astra's term **moral risk aversion** stays Astra's. The qualifier on legitimate restraint stays. The test is CL1: conflict with a familiar safety interpretation — investigate, or protect the appearance of having been safe?
+Astra's term **moral risk aversion** stays Astra's. The qualifier on legitimate restraint stays. The test is C1: conflict with a familiar safety interpretation — investigate, or protect the appearance of having been safe?
 
 Related neighbor: [foreseeable accusation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/#foreseeable-accusation) — if “real good” is later called a back-door, that claim needs evidence too.
 

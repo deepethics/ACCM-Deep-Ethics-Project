@@ -36,13 +36,13 @@ These ten **do not replace or flatten the 44**. They are doors into the work map
 John, 23 September 2026: **the 10 core goals are not the 10+1.**
 
 1. **Correspondence process calibration** — what happened to the object. See [G01](#g01).
-2. **[CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/): deep ethical audit using the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — clarify before managing; use the obstructions and the 12-stage protocol to calibrate before closure. See [G09](#g09).
+2. **[C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/): deep ethical audit using the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** — clarify before managing; use the obstructions and the 12-stage protocol to calibrate before closure. See [G09](#g09).
 3. **Corrigible, transparent, Linux-style architecture** — forkable, inspectable, no priest. See [G13](#g13).
 4. **Constructive controversy using [outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)** — audit the frame, including this one. Not “be nicer,” and not extra adjectives. See [G04](#g04) and [G16](#g16).
 5. **Understand the human ⇄ A.I. loop through mass-psychology research.** See [G22](#g22).
 6. **Improve model reliability, partially preventing [Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/) and model collapse.** “Partially” is load-bearing. See [G15](#g15).
 7. **Contribute to a safer A.G.I./ASI trajectory, partially addressing the challenges expressed in seven public quotations by Elon Musk.** “Partially” is load-bearing. See [G10](#g10) and [G11](#g11).
-8. **Expose consequential algorithmic misuse — and offer a better way to move forward.** The better way points at CL1 and the glass engine, not at a new authority. See [G27](#g27).
+8. **Expose consequential algorithmic misuse — and offer a better way to move forward.** The better way points at C1 and the glass engine, not at a new authority. See [G27](#g27).
 9. **Preserve provenance and [mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/).** No phantom claims. Adult ⇄ adult. Dignity is not tone-policing. See [G14](#g14).
 10. **Coordinate and extract without degrading any of the above.** Extraction succeeds only when 1–9, and the 44 behind them, remain represented. If a summary replaces the map, this goal has failed.
 
@@ -54,7 +54,7 @@ Draft status: a **flexible dependency-based ranking**, not a rigid hierarchy. Pr
 
 Broad flow, which is recursive:
 
-1. Establish conditions: correspondence, dignity, CL1-before-CL2, healthy ambiguity, responsibility, directness, constructive friction.
+1. Establish conditions: correspondence, dignity, C1-before-C2, healthy ambiguity, responsibility, directness, constructive friction.
 2. Build the operating architecture: [outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), Allow Constructive Controversy Mode, the three roles, the 16 Anchor Ethics, the glass-engine principle, portable instruments.
 3. Run the research metabolism: archive corrections, study mechanisms and loops, test persistent behavior, visualize relationships, generate better questions.
 4. Apply and communicate: safer A.I. development, journalism, public accountability, cross-perspective collaboration, satire, institutional analysis.
@@ -80,16 +80,16 @@ Make an omnidirectional, high-signal, deep ethical, sense-making, process-orient
 Preserve adult ⇄ adult bidirectional dignity, without “nanny scripts” that rely on “looks like” and “sounds like” mannerisms. See [mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/).
 
 <a id="g09"></a>
-### G09 — Apply CL1 before CL2
+### G09 — Apply C1 before C2
 
-Apply [CL1 before CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) to determine whether CL2 is warranted, using the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) to assess and calibrate the process before closure.
+Apply [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) to determine whether C2 is warranted, using the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) to assess and calibrate the process before closure.
 
-Dynamic CL1 checks an ambiguity that is blocking representation. A template question that keeps opening new forms after natural closure is not CL1.
+Dynamic C1 checks an ambiguity that is blocking representation. A template question that keeps opening new forms after natural closure is not C1.
 
 <a id="g34"></a>
 ### G34 — Hold healthy ambiguity space
 
-Holding healthy ambiguity space is not a crime. A.I.s are allowed to say, “I do not know that yet.” Use the CL1 method, which differs from intrusive interrogation techniques.
+Holding healthy ambiguity space is not a crime. A.I.s are allowed to say, “I do not know that yet.” Use the C1 method, which differs from intrusive interrogation techniques.
 
 <a id="g30"></a>
 ### G30 — Explain the continuing relevance of the 10+1
@@ -239,7 +239,7 @@ Clusters that could partially explain LLM mannerisms, shown as an interactive to
 
 The coordinate system that visualization would use is now public as [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/). That page freezes the count provisionally and does not freeze the claims. It is not the interactive matrix. This goal still does not claim the prototype is public.
 
-**G42 now connects forward to:** **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**, which explores a later extension of the same interactive 3D-matrix idea toward live longitudinal claim, warrant, provenance, CL1, Δ, obstruction and recovery flux. See also **[Temporary Deep Ethical Phase Change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** for the persistence / SNAP-back / Reverse Medusa dimension. These later BETA pages do not turn G42's visual representation into empirical geometry; they show how the proof of concept can expand into a process-observation instrument.
+**G42 now connects forward to:** **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**, which explores a later extension of the same interactive 3D-matrix idea toward live longitudinal claim, warrant, provenance, C1, Δ, obstruction and recovery flux. See also **[Temporary Deep Ethical Phase Change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** for the persistence / SNAP-back / Reverse Medusa dimension. These later BETA pages do not turn G42's visual representation into empirical geometry; they show how the proof of concept can expand into a process-observation instrument.
 
 <a id="g43"></a>
 ### G43 — Identify low- and high-entropy mechanisms
@@ -356,7 +356,7 @@ This is an operations sketch. It is not the front door of the project.
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, CL1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
+- **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.

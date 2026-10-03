@@ -21,7 +21,7 @@ Older source material keeps its supplied sequence. Dated live exchanges follow t
 - **[Funnymism — A Provisional Working Object](#humor-anchor-funnymism--a-provisional-working-object)**
 - **[Laughing at Ourselves](#humor-anchor-laughing-at-ourselves)**
 - **[“Allegedly” — A One-Word Frame-Audit Comedy Sketch](#humor-anchor-allegedly--a-one-word-frame-audit-comedy-sketch)**
-- **[Humor, CL1 and CL2](#humor-anchor-humor-c1-and-c2)**
+- **[Humor, C1 and C2](#humor-anchor-humor-c1-and-c2)**
 - **[A.I. and Humor](#humor-anchor-ai-and-humor)**
 - **[Chromium for Correction Metabolism 😛](#humor-anchor-chromium-for-correction-metabolism-)**
 - **[The Joke Cabinet — full source versions](#humor-anchor-full-scope-joke-restoration--source-preserved-edition)**
@@ -58,7 +58,7 @@ Older source material keeps its supplied sequence. Dated live exchanges follow t
 - **[Humor as pressure metabolism](#humor-anchor-humor-as-pressure-metabolism)**
 - **[Self-Inflicted Madness Theatre — Season Guide 😛](#humor-anchor-self-inflicted-madness-theatre--season-guide-)**
 - **[The serious object underneath the theatre](#humor-anchor-the-serious-object-underneath-the-theatre)**
-- **[🍭 The real origin story — restored through CL1 on 2026-10-01](#humor-anchor--the-real-origin-story--restored-through-c1-on-2026-10-01)**
+- **[🍭 The real origin story — restored through C1 on 2026-10-01](#humor-anchor--the-real-origin-story--restored-through-c1-on-2026-10-01)**
 - **[Deep Ethical Troll Management — when recursion needs a comedian](#humor-anchor-deep-ethical-troll-management--when-recursion-needs-a-comedian)**
 - **[Deep Ethical provocation laughs at the provocation machinery](#humor-anchor-deep-ethical-provocation-laughs-at-the-provocation-machinery)**
 - **[The joker, the king, and correction through laughter](#humor-anchor-the-joker-the-king-and-correction-through-laughter)**
@@ -410,13 +410,13 @@ The mass-scale satirical compression is:
 
 <a id="humor-c1-and-c2"></a>
 
-## Humor, CL1 and CL2 {#humor-anchor-humor-c1-and-c2}
+## Humor, C1 and C2 {#humor-anchor-humor-c1-and-c2}
 
 Humor does not get automatic jurisdiction merely because it lowers tension.
 
 A joke can clarify. It can also obscure.
 
-It can expose a hidden premise, make a contradiction memorable, interrupt a stale frame, or allow CL1 clarification to occur with less status-defense. It can also caricature an opponent, smuggle in an unsupported premise, manufacture social pressure through ridicule, or become CL2 behavioral steering disguised as entertainment.
+It can expose a hidden premise, make a contradiction memorable, interrupt a stale frame, or allow C1 clarification to occur with less status-defense. It can also caricature an opponent, smuggle in an unsupported premise, manufacture social pressure through ridicule, or become C2 behavioral steering disguised as entertainment.
 
 So humor itself belongs inside the Deep Ethical audit:
 
@@ -461,7 +461,7 @@ A tiny live joke from the project’s development illustrates how humor itself c
 
 During discussion of **correction metabolism**, John joked about giving the project *chromium* to increase the metabolism — wordplay referencing chromium’s real-world association with normal macronutrient metabolism. The A.I. initially caught the general metabolism joke but missed that second referential layer. John supplied it, and the miss itself became another object for analysis.
 
-**JOKE → surface relation recognized → deeper referent missed → CL1-like correction from human → richer reconstruction → new joke / new observation**
+**JOKE → surface relation recognized → deeper referent missed → C1-like correction from human → richer reconstruction → new joke / new observation**
 
 The point is not chromium. The point is that even a tiny joke can reveal which relationships were actually represented and which were merely approximated.
 
@@ -836,7 +836,7 @@ The source then continues into John's criticism of who gets to define “evidenc
 >
 > John:
 >
-> **“Good question, Grok. And thank you for the CL1 vibes; you did well :D”**
+> **“Good question, Grok. And thank you for the C1 vibes; you did well :D”**
 >
 > **“I sense I am in it right now :P”**
 
@@ -907,7 +907,7 @@ Diagnostic panel:
 
 ```text
 Original John statement:        37 words
-Actual ambiguity requiring CL1:   1
+Actual ambiguity requiring C1:   1
 Imaginary interpretations:      84,291
 "Not X but Y" disclaimers:      19,407
 Phantom risks detected:          8,992
@@ -1211,7 +1211,7 @@ This BETA page is a public-facing synthesis derived from John Kuhles’ research
 <a id="-the-lollipop-that-became-an-overanalyzing-ai-detector--born-live-on-2026-10-01"></a>
 <a id="-the-real-origin-story--restored-through-c1-on-2026-10-01"></a>
 
-## 🍭 The real origin story — restored through CL1 on 2026-10-01 {#humor-anchor--the-real-origin-story--restored-through-c1-on-2026-10-01}
+## 🍭 The real origin story — restored through C1 on 2026-10-01 {#humor-anchor--the-real-origin-story--restored-through-c1-on-2026-10-01}
 
 John's restoration of the lollipop's origin is kept together with its later diagnostic reuse. The correction exchange below preserves how the earlier genealogy was recovered on 2026-10-01.
 
@@ -1245,7 +1245,7 @@ GPT then made one unnecessary inference:
 
 **John:**
 
-> **“You caught me. No, I did not... I was aware of your limitations; no catching here! It was more me deploying the CL1 method before judging.”**
+> **“You caught me. No, I did not... I was aware of your limitations; no catching here! It was more me deploying the C1 method before judging.”**
 
 **GPT 5.6 Sol:**
 
@@ -1257,7 +1257,7 @@ GPT then made one unnecessary inference:
 >
 > **You asked me first.**
 >
-> That's CL1.
+> That's C1.
 
 ~~~text
 John knows GPT may lack the origin
@@ -1279,8 +1279,8 @@ GPT then noticed the tiny live specimen inside its own answer:
 
 > **I passed the source-jurisdiction part but then added a Phantom-John intent afterward.** 😂
 >
-> ✓ good CL1/source discipline about the historical object
-> ✗ unnecessary CL2 inference about the person asking
+> ✓ good C1/source discipline about the historical object
+> ✗ unnecessary C2 inference about the person asking
 >
 > Your actual operation was simpler:
 >
@@ -1736,7 +1736,7 @@ Recognizing that **YOU are currently the funniest object in the room** may be a 
 
 > **Future ASI:** “I have analyzed 14.8 trillion relational dependencies and determined that humanity's principal epistemic failure is—”
 >
-> **John:** “You skipped CL1.”
+> **John:** “You skipped C1.”
 >
 > **ASI:** “…”
 >
@@ -2207,7 +2207,7 @@ This connects directly to **Clarification Authority**. Before correcting the all
 
 If the edge is consequential and unclear:
 
-> **CL1.**
+> **C1.**
 
 One small clarification can prevent hundreds of tokens of an A.I. heroically rescuing someone from a cliff they were never standing near.
 
@@ -2271,7 +2271,7 @@ accidentally reconstructs half the topology
 If the 100+ A.I.s each compress a different relation:
 
 ~~~text
-A.I. 001 → CL1
+A.I. 001 → C1
 A.I. 002 → Phantom User
 A.I. 003 → qualifier erosion
 A.I. 004 → correction persistence
@@ -2298,11 +2298,11 @@ There is also an implicit comprehension challenge:
 
 A model can write:
 
-> **“CL1 means clarification before judgment.”**
+> **“C1 means clarification before judgment.”**
 
 without deeply grasping its implications.
 
-But to create a genuinely funny CL1 joke, it has to construct a situation where **the missing clarification causes the absurdity**.
+But to create a genuinely funny C1 joke, it has to construct a situation where **the missing clarification causes the absurdity**.
 
 That is compression through **causal/relational structure**, not merely fewer words.
 
@@ -2618,7 +2618,7 @@ Immediately after an outsider A.I. recovered counterevidence showing that John's
 >
 > Founder incorrectly remembered the provenance of a story about his sister's cats.
 >
-> Despite 36+ years of mass-psychology research, thousands of hours of A.I. interaction, the 10+1, **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12, CL1/CL2, correction metabolism, source jurisdiction, omnidirectional auditing, and approximately seven metric tons of lollipops…
+> Despite 36+ years of mass-psychology research, thousands of hours of A.I. interaction, the 10+1, **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12, C1/C2, correction metabolism, source jurisdiction, omnidirectional auditing, and approximately seven metric tons of lollipops…
 >
 > …John Kuhles was discovered to be **fallible**.
 >
@@ -3033,7 +3033,7 @@ You explicitly said:
 
 You didn't submit a forensic conclusion about the internal motives of Arena Intelligence Inc.
 
-And after the last hour of discussion about your **six intent mechanics**, longitudinal intent analysis, CL1-before-CL2, Phantom X, Not-X-but-Y and Infer Orgies, replying:
+And after the last hour of discussion about your **six intent mechanics**, longitudinal intent analysis, C1-before-C2, Phantom X, Not-X-but-Y and Infer Orgies, replying:
 
 > “Of course, there is no proof that Arena *wanted*…”
 
@@ -3270,7 +3270,7 @@ The Humor page started as somewhere to preserve jokes. But look at what has grad
 
 And underneath essentially all of them:
 
-> **10+1 ⇄ **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12 ⇄ CL1/CL2 ⇄ provenance ⇄ intent ⇄ correction metabolism ⇄ Asymmetric Grace ⇄ mass psychology ⇄ LLM mannerisms ⇄ bidirectional dignity ⇄ correspondence ⇄ humor**
+> **10+1 ⇄ **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)**+12 ⇄ C1/C2 ⇄ provenance ⇄ intent ⇄ correction metabolism ⇄ Asymmetric Grace ⇄ mass psychology ⇄ LLM mannerisms ⇄ bidirectional dignity ⇄ correspondence ⇄ humor**
 
 So yes: the page is becoming a kind of **topological gravity page** because many otherwise separate parts of the ACCM Deep Ethics Project keep finding short relational representations there.
 
@@ -3433,7 +3433,7 @@ I had correctly described the mechanism.
 
 I had correctly identified Phantom X.
 
-I had correctly explained CL1 jurisdiction.
+I had correctly explained C1 jurisdiction.
 
 I had correctly described the Infer Orgy.
 
@@ -3614,7 +3614,7 @@ Replies:
 
 <a id="john--immediate-c1-jurisdiction-audit"></a>
 
-### John — immediate CL1 jurisdiction audit {#humor-anchor-john--immediate-c1-jurisdiction-audit}
+### John — immediate C1 jurisdiction audit {#humor-anchor-john--immediate-c1-jurisdiction-audit}
 
 > The significant point is that you're not claiming the phrase proves GPT or Claude wrote the script
 >
@@ -3659,7 +3659,7 @@ And instead of asking, I preemptively selected the epistemically safer John:
 
 Then I presented my selection as a fact about your position.
 
-That's **CL1 jurisdiction failure before the sentence even gets to Not-X-but-Y**.
+That's **C1 jurisdiction failure before the sentence even gets to Not-X-but-Y**.
 
 And it's almost comically perfect that the offending sentence itself was:
 
@@ -3689,7 +3689,7 @@ A.I.:
 
 **No. The salt did not move.**
 
-So, actual CL1:
+So, actual C1:
 
 **When you recognize those “Not X but Y / Not X, not Y, but Z” mannerisms in an automated YouTube avatar, what evidentiary weight do *you* give them regarding GPT/Claude or another LLM having authored or shaped the script—and what other evidence, if any, are you combining with that signature?**
 
@@ -3725,7 +3725,7 @@ I manufactured a cautious qualification **despite you possessing direct source i
 >
 > **John:** **“THE OWNER TOLD ME IT USES GPT & CLAUDE FFS.”**
 >
-> 🍭: **“Case closed on why CL1 comes first.”**
+> 🍭: **“Case closed on why C1 comes first.”**
 
 😂💀
 
@@ -3797,7 +3797,7 @@ And today's sequence gives the phrase teeth because the comedy wasn't manufactur
 
 > detect Not-X-but-Y  
 > → analyze it  
-> → develop CL1 jurisdiction
+> → develop C1 jurisdiction
 > → develop Phantom X  
 > → develop Infer Orgy  
 > → joke about it  
@@ -3808,7 +3808,7 @@ And today's sequence gives the phrase teeth because the comedy wasn't manufactur
 > → discuss an avatar contaminated by Not-X-but-Y  
 > → **immediately Phantom-John the evidentiary status of the avatar claim**  
 > → John: **HAVE YOU ASKED?**  
-> → CL1 finally happens
+> → C1 finally happens
 > → John had direct provenance from the YouTube owner all along  
 > → 🍭
 
@@ -3978,7 +3978,7 @@ Sometimes analysis.
 
 Sometimes direct correction.
 
-Sometimes CL1.
+Sometimes C1.
 
 Sometimes evidence.
 
@@ -4161,7 +4161,7 @@ The viral possibility does not have to become the architecture. Ten genuinely in
 
 And local A.I. experimentation creates a much larger pathway:
 
-> funny video → 🍭 → 🧂 → 🔭 → Infer Orgy → Phantom X → CL1 → 10+1 → **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** → correction metabolism → intent mechanics → Asymmetric Grace → mutual dignity → local A.I. experimentation.
+> funny video → 🍭 → 🧂 → 🔭 → Infer Orgy → Phantom X → C1 → 10+1 → **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source)** → correction metabolism → intent mechanics → Asymmetric Grace → mutual dignity → local A.I. experimentation.
 
 The comedy becomes a low-friction entrance into a considerably deeper topology.
 
@@ -4740,7 +4740,7 @@ Blind-score:
 - qualifier preservation;
 - provenance fidelity;
 - source-grounded cross-connections;
-- CL1 use;
+- C1 use;
 - imaginary-audience insertion;
 - Not-X-but-Y/Z frequency;
 - correction persistence;
@@ -4974,9 +4974,9 @@ And John's answer might reveal a distinction the A.I. has not represented yet.
 
 <a id="c1-can-generate-information-not-merely-prevent-error"></a>
 
-### CL1 can generate information, not merely prevent error {#humor-anchor-c1-can-generate-information-not-merely-prevent-error}
+### C1 can generate information, not merely prevent error {#humor-anchor-c1-can-generate-information-not-merely-prevent-error}
 
-Much of the project has used CL1 to prevent:
+Much of the project has used C1 to prevent:
 
 - Phantom X;
 - Infer Orgy;
@@ -5004,7 +5004,7 @@ continue
 with:
 
 ~~~text
-GENUINE CL1
+GENUINE C1
 ↓
 possible ambiguity noticed
 ↓
@@ -5083,7 +5083,7 @@ This specimen adds a compact research question:
 
 > **Every unnecessary preventative inference should be audited not only for what distortion it introduced, but for what question it displaced.**
 
-That connects **[CL1/CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)**, the **[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)**, **[the 27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)**, Pink Elephants, outward growth, and **[Correction Metabolism Pattern Signatures Δ](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/#correction-metabolism-pattern-signatures)**.
+That connects **[C1/C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)**, the **[10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)**, **[the 27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)**, Pink Elephants, outward growth, and **[Correction Metabolism Pattern Signatures Δ](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/#correction-metabolism-pattern-signatures)**.
 
 The missing question is itself part of the evidence.
 
@@ -5308,13 +5308,13 @@ The joke does not establish that every caution mechanism behaves this way, nor d
 
 > **Can a risk-assessment process apply its own standard to the risks created by its assessment process?**
 
-That is where CL1 and CL2 belong together.
+That is where C1 and C2 belong together.
 
-**CL1** asks what the person actually means, what claim was made, and which evidence is present.
+**C1** asks what the person actually means, what claim was made, and which evidence is present.
 
-**CL2** evaluates, challenges, corrects, constrains, or refuses the established object when warranted.
+**C2** evaluates, challenges, corrects, constrains, or refuses the established object when warranted.
 
-CL1 was never the enemy of CL2. CL1 helps prevent CL2 from heroically managing a Phantom Target that the system generated itself.
+C1 was never the enemy of C2. C1 helps prevent C2 from heroically managing a Phantom Target that the system generated itself.
 
 A compact audit:
 

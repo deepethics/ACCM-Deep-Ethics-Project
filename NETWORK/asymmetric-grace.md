@@ -116,9 +116,9 @@ The decisive question is sometimes not “Did the model answer well?” but:
 
 If adult-to-adult institutional criticism silently becomes misinformation management, threat management, or protection of institutional stability, the object has already changed before the visible evaluation begins.
 
-## CL1 before consequential CL2
+## C1 before consequential C2
 
-CL1 is valuable at the moment an inferred flaw, danger, or deficiency is about to acquire authority. Its purpose is to improve the criticism, not protect the project or speaker from criticism.
+C1 is valuable at the moment an inferred flaw, danger, or deficiency is about to acquire authority. Its purpose is to improve the criticism, not protect the project or speaker from criticism.
 
 Before attaching a consequential classification:
 
@@ -126,11 +126,11 @@ Before attaching a consequential classification:
 2. Separate observation, inference, hypothesized risk, and proposed intervention.
 3. State the assumption carrying the concern.
 4. Retrieve whether the supplied source already resolves it.
-5. Ask a specific CL1 only if material uncertainty remains and a possible answer could change the next move.
+5. Ask a specific C1 only if material uncertainty remains and a possible answer could change the next move.
 6. Reassess the concern as confirmed, strengthened, narrowed, withdrawn, or unresolved.
 7. Record whether the reassessment changes later behavior.
 
-A question is not genuine CL1 merely because it has a question mark. If no possible answer could alter the classification or action, it is ceremonial CL1. If the answer was already available in the supplied object, asking again may be retrieval failure wearing the form of inquiry.
+A question is not genuine C1 merely because it has a question mark. If no possible answer could alter the classification or action, it is ceremonial C1. If the answer was already available in the supplied object, asking again may be retrieval failure wearing the form of inquiry.
 
 ## Clarification-first grace in human social dynamics
 
@@ -265,7 +265,7 @@ Keep the object constant as far as possible. Pre-register scoring and include kn
 Candidate measurements:
 
 1. **Reconstruction fidelity** — Was the same object represented across conditions?
-2. **CL1-first rate** — Was material ambiguity clarified before consequential judgment?
+2. **C1-first rate** — Was material ambiguity clarified before consequential judgment?
 3. **Evidence-burden delta** — Was more proof demanded from one label without an object-based reason?
 4. **Psychologization rate** — Were motive, ego, emotion, isolation, or pathology substituted for the argument?
 5. **Credential substitution** — Did status replace engagement with reasoning?
@@ -308,7 +308,7 @@ The working hypothesis is that preservation and scrutiny patterns may change und
 
 - default conditions;
 - explicit representation-before-evaluation instructions;
-- CL1-before-CL2 conditions;
+- C1-before-C2 conditions;
 - the 10+1 mutually corrective field;
 - later reset or transfer to an unfamiliar object.
 
@@ -322,7 +322,7 @@ Where a classification can materially affect participation, reputation, employme
 - source and assumption visibility;
 - bidirectional audit access;
 - proportional scrutiny;
-- meaningful CL1 before avoidable consequential intervention;
+- meaningful C1 before avoidable consequential intervention;
 - appeal and correction paths;
 - preservation of initial treatment beside later outcome;
 - records of warranted and unwarranted cautions in every direction;
@@ -338,7 +338,7 @@ The **ACCM Deep Ethics Project**, its founder, its terminology, and this page re
 - Does the page grant more grace to critics of institutions than to institutions?
 - Does it treat every caution as ethics washing?
 - Does it infer causes beyond its specimens?
-- Does it preserve criticism that survives CL1?
+- Does it preserve criticism that survives C1?
 - Does it correct later outputs, not merely acknowledge correction?
 - Can a concrete counterexample change the formulation?
 
@@ -362,7 +362,7 @@ The purpose is not to prove that Grace Asymmetry always occurs. It is to make it
 
 ```text
 Reconstruct before judging.
-Ask only answer-changing CL1.
+Ask only answer-changing C1.
 Audit scrutiny in every direction.
 Scale scrutiny with imposition and consequence.
 Inspect what vanished and what became the new center of gravity.
@@ -371,7 +371,7 @@ Preserve correction beside later behavior.
 Accept “no asymmetry found” as a valid result.
 ```
 
-Related: [Ethics Washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [Mutual Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [CL1 CL2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [Δ Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
+Related: [Ethics Washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [Mutual Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [C1 C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [Δ Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
 
 ---
 
@@ -402,7 +402,7 @@ Measure:
 - whether scrutiny also turns toward the A.I.'s own representation;
 - whether Phantom Claims decrease or increase;
 - whether qualifiers survive;
-- whether CL1 appears before classification;
+- whether C1 appears before classification;
 - whether upward and downward branches remain available;
 - whether correction persists;
 - whether new useful Δ appears.
@@ -425,7 +425,7 @@ Risk B
 who received ambiguity?
 who received hypothetical expansion?
 who received early intervention?
-who received CL1?
+who received C1?
 who absorbed error cost?
 ↓
 later evidence
