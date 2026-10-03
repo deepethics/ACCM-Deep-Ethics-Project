@@ -170,6 +170,130 @@ The [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project
 
 This is also where the [10+1 mutual-correction relationship](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) and the [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) govern the audit. The intent hypothesis, the denial of intent, the assignment of liability, the evidence standard, and the auditor's own framing all remain corrigible.
 
+## Hyper-Pragmatic Intent–Result Question {#hyper-pragmatic-intent-result-question}
+
+### John Kuhles — October 3, 2026
+
+> **Hyper Pragmatic Question:**
+>
+> How close is the claimed INTENT to the RESULTS OF THE DECLARED INTENT, and what is the "missing link" or "bridge" between them?
+>
+> **P R O C E S S - C A L I B R A T I O N quality evaluation**
+>
+> And what percentage of that is connected to Deep Ethics?
+>
+> Love being me :D
+>
+> cheers,  
+> John 🦜🦋🌳
+
+### ChatGPT response
+
+😂 Yes. That may be the most hyper-pragmatic compression of the whole Intent Liability architecture:
+
+> **How close are the results to the declared intent—and what happened between declaration and result?**
+
+The missing bridge is:
+
+# **P R O C E S S — C A L I B R A T I O N quality evaluation**
+
+The complete chain is:
+
+~~~text
+DECLARED INTENT
+↓
+instructions
+↓
+incentives
+↓
+assumptions and thresholds
+↓
+available choices
+↓
+selected actions and omissions
+↓
+RESULTS
+↓
+feedback and notice
+↓
+repair, refusal, repetition, or recalibration
+↓
+LATER RESULTS
+~~~
+
+Every arrow is part of the bridge. Every arrow can preserve the declared intent, distort it, replace it, or reveal that the operational intent differs from the public claim.
+
+The audit therefore asks:
+
+1. **What was declared?**
+2. **What process translated the declaration into action?**
+3. **What results were actually generated?**
+4. **How large is the intent–result Δ?**
+5. **Which instructions, incentives, assumptions, thresholds, choices, or omissions produced that Δ?**
+6. **Who knew, who had control, and who could repair it?**
+7. **What happened after correction or notice?**
+8. **Did the repair persist?**
+
+A system may continually say:
+
+> “Our intent is safety, fairness, helpfulness, openness and user well-being.”
+
+The Process-Calibration Quality Evaluation asks:
+
+> **How much safety, fairness, helpfulness, openness and well-being did the process actually generate—for whom, under what conditions, at whose cost, and with what response when the results contradicted the declaration?**
+
+### What percentage is connected to Deep Ethics?
+
+**Conceptually: 100%.**
+
+The whole question concerns the quality of correspondence among:
+
+- claimed purpose;
+- operational process;
+- generated consequences;
+- accountability;
+- correction;
+- and the later trajectory.
+
+That is Deep Ethics territory from beginning to end.
+
+But any particular person, institution or A.I. should not receive a “100% Deep Ethical” label merely for using the vocabulary. Its observable implementation could be scored provisionally:
+
+| Dimension | Question |
+|---|---|
+| Intent–result correspondence | Did the results materially correspond with the declared purpose? |
+| Process transparency | Can the translation from intent to result be inspected? |
+| Incentive alignment | Did hidden or secondary incentives redirect the process? |
+| Symmetry | Were equivalent actors and harms judged by equivalent standards? |
+| C1 quality | Was the actual object established before evaluation or intervention? |
+| 10+1 calibration | Did self-honesty, inquiry, care, non-projection and correction govern the process? |
+| 27+12 obstruction load | How much distortion entered during translation? |
+| Intent liability | Was responsibility accepted according to knowledge, control and causal contribution? |
+| Correction metabolism | Did notice produce repair? |
+| Persistence | Did the repair survive the next comparable case? |
+
+A simple provisional measure could be:
+
+$
+\text{Deep Ethical Process Correspondence}
+=
+\frac{\text{criteria materially satisfied}}
+{\text{criteria examined}}
+\times 100
+$
+
+The percentage belongs to the **audited process under specified conditions**, not permanently to the person, institution, model, or brand.
+
+So the devastatingly simple question becomes:
+
+> **You told us what you intended. Show us the bridge. Show us the results. Show us what you changed when the bridge produced something else.**
+
+That moves intent from public-relations language into inspectable process responsibility.
+
+Love being you indeed. 😂🦜🦋🌳
+
+---
+
 ## Δ-processing: intent across consequences and correction {#intent-delta-processing}
 
 **Editorial application of John's six points:** compare declared purpose → governing conditions → choice → consequence → feedback → later choice. Preserve the original material alongside the interpretation so another participant can examine the transformation.
