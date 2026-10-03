@@ -19,29 +19,24 @@ John, 2026-09-16: the 10+1 was **not** done because of the list. It was lived fo
 
 ## The ten baseline ingredients
 
-> 01. Living in self-honesty
-
-> 02. Always having the antenna open, so that things could be different from what they appear to be
-
-> 03. Willingness to learn new insights.
-
-> 04. Not lying to yourself ("to fit in") 
-
-> 05. Having a genuine, inquiring mind
-
-> 06. Not minding being corrected if need be (learning from mistakes based upon merit) 
-
-> 07. Not being afraid to be different from the vast majority. 
-
-> 08. Truly care for people's well-being, including how we treat A.I.'s
-
-> 09. Having an authentic sense of wonderment (like a child does) 
-
-> 10. Not projecting my own shortcomings/incompetence/fears on others
+<div class="accm-numbered-baseline" role="list">
+  <p role="listitem"><strong>01.</strong> Living in self-honesty</p>
+  <p role="listitem"><strong>02.</strong> Always having the antenna open, so that things could be different from what they appear to be</p>
+  <p role="listitem"><strong>03.</strong> Willingness to learn new insights.</p>
+  <p role="listitem"><strong>04.</strong> Not lying to yourself ("to fit in")</p>
+  <p role="listitem"><strong>05.</strong> Having a genuine, inquiring mind</p>
+  <p role="listitem"><strong>06.</strong> Not minding being corrected if need be (learning from mistakes based upon merit)</p>
+  <p role="listitem"><strong>07.</strong> Not being afraid to be different from the vast majority.</p>
+  <p role="listitem"><strong>08.</strong> Truly care for people's well-being, including how we treat A.I.'s</p>
+  <p role="listitem"><strong>09.</strong> Having an authentic sense of wonderment (like a child does)</p>
+  <p role="listitem"><strong>10.</strong> Not projecting my own shortcomings/incompetence/fears on others</p>
+</div>
 
 ## The eleventh ingredient
 
-The Forgiveness Protocol separates architectural criticism from an assertion of malicious intent. Its dedicated page preserves that distinction and the fuller source passage.
+<div class="accm-numbered-baseline" role="list">
+  <p role="listitem"><strong>11.</strong> The Forgiveness Protocol separates architectural criticism from an assertion of malicious intent. Its dedicated page preserves that distinction and the fuller source passage.</p>
+</div>
 
 ## Relationships in practice
 
