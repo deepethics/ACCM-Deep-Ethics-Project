@@ -6,7 +6,7 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 # Beyond Agreemurmelism
 
-## Higher-Order Metacognitive “Disagreement” as Deep Ethical Process
+## Higher-Order Metacognitive “Disagreement & Agreement” Process-Quality Calibration Evaluation of Both
 
 > **The value of anything can go beyond Agreemurmelism.**
 
