@@ -148,7 +148,7 @@ Make the case for why it differs from current epistemology. The case is not fini
 <a id="g20"></a>
 ### G20 — Explain TCoAw and opaque black-box issues
 
-Explain TCoAw and how it can help address opaque black-box issues in A.I. Expansion of the acronym waits for John’s update rather than a guessed gloss.
+Explain TCoAw and how it can help address opaque black-box issues in A.I. John’s supplied expansion is now public: **Thinking (T), Consciousness (Co), Awareness (Aw)**. The dedicated [TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) page presents it strictly as John Kuhles’s corrigible perspective and functional model, not as an absolute account, evidence or proof of quantum consciousness, or a universal NDE/Asperger claim.
 
 <a id="g21"></a>
 ### G21 — Develop the Intent Resonator Check

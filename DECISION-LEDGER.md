@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-04 — Publish TCoAw as John Kuhles’s conceptual perspective
+
+**Request:** John asked for a page presenting TCoAw as conceptual topological reasoning rather than an absolute, explicitly marked as his perspective. The page should connect TCoAw to a deep ethical, anxiety-free “quantum mind state” and help readers understand how John experiences his NDE and Asperger sides working together, without presenting that account as evidence or proof.
+
+**Change:** Added [TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/). It expands TCoAw as **Thinking, Consciousness, Awareness**; distinguishes possibility field, temporary focus, and awareness of the focus’s limits; explains John’s functional use of “quantum mind-like”; records the NDE/Asperger fusion in his own terms; and connects the model to the 10+1, C1 before C2, 27+12, Intent Liability, healthy ambiguity, humor, and correction metabolism. G20 no longer says the acronym’s expansion is pending. The page is linked from Human Insecurity, the network index, the term index, and All Pages.
+
+**Boundary:** The page does not claim a demonstrated quantum-physical brain mechanism, validate John’s NDE interpretation, generalize his experience to every autistic person or NDE experiencer, diagnose fear or anxiety, or exempt the model from correction. It is a reading key and a source of inspectable questions.
+
+**Status:** Public BETA. John’s perspective, with A.I.-assisted connective synthesis. Corrigible by John and later evidence.
+
 ## 2026-09-29 — Publish 11+1 Version 2 without freezing the claims
 
 **Request:** John asked that the stabilized 11+1 coordinate system be implemented on the public site. GPT-5.6 Sol’s implementation note and Grok 4.6’s register were the object. The architecture was not reopened.
