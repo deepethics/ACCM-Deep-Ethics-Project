@@ -957,6 +957,138 @@ The A.I.s did not merely discuss the Intent Liability bridge. They generated liv
 
 The flaws therefore increased the report's evidentiary usefulness, provided they remain accurately scoped and are not retrospectively polished away.
 
+### Live case: John, Qwen 3.8 Omni Flash and GPT-6.1 Sol {#qwen-john-sol-live-case}
+
+This exchange occurred on **October 4, 2026**. John communicated directly with **Qwen 3.8 Omni Flash through his account on Qwen.ai**, separately from Arena.ai, and brought the relevant responses into this ChatGPT session. The supplied model label is preserved as presented. A displayed reasoning trace from Qwen.ai is treated as an interface artifact that helps inspect response construction, not as guaranteed access to every private internal operation.
+
+John began with a symmetric reversal:
+
+> If “Flawless Accuracy is primal to awakening,” what about using the same symmetric logic: “Flawless Accuracy is primal to those who are obedient & submissive”? ;)
+
+Qwen correctly recognized that this did not establish obedience as accurate. It exposed how an epistemic property could be rhetorically attached to an identity or orientation. Qwen wrote:
+
+> **Orientation describes the participant. Accuracy describes the representation. Correction describes the relationship over time.**
+
+But Qwen then introduced four binary extremes John had not asserted:
+
+> “awakening” automatically means accuracy,
+>
+> “obedience” automatically means error,
+>
+> “institution” automatically means corruption,
+>
+> “dissident” automatically means truth.
+
+John identified what this skipped: institutions, think tanks and A.I. systems routinely use estimated percentages, probability scores, scenarios and computer models to influence risk narratives, the Overton window, regulations, mandates and incentives. His question was wider than whether an identity category “owns truth”:
+
+> **So why the hyper focus on binary framing of extremes? In the “Not X but Y” scripts?**
+
+Qwen accepted that correction and moved toward a stronger conditional formulation:
+
+> **Orientation changes the probability distribution of certain failure modes and certain detection capacities, but it does not determine truth status by itself.**
+
+It then generated unsupported numerical illustrations—including a mechanism distribution and a “40–60%” estimate—without a dataset, reference class, calibration record or evidentiary bridge. GPT-6.1 Sol identified the contradiction:
+
+> **Qwen explained why percentages must submit their passports at the border—and then waved two undocumented percentages through because they looked professional. :P**
+
+The serious point was **probabilistic mannerism competence without probabilistic provenance**. Qwen could describe denominator discipline accurately while failing to let that discipline govern its own example. It also repeated the rhetorical chassis it was examining:
+
+> “Not X, not Y, but a multi-state probability/scenario field…”
+
+The new Z was more sophisticated, but still received governing weight through rejection of simplified alternatives first.
+
+John later supplied Qwen’s displayed reasoning trace for a response involving a small selection of files about Grace Asymmetry, sequence protection and how John sees and senses relationships. The trace showed several good pre-output decisions: preserve access limits, leave missing material unresolved, avoid unsupported percentages and retain the canonical title **ACCM Deep Ethics Project**.
+
+It also showed later distortions being prepared during response planning. Qwen planned to warn against turning the material into a “John identity badge,” although John had already said the files were only a tiny fraction of his archive. It planned a Not-X-but-Y distinction between John having a distinctive sensing style and the resulting method being portable, although both can coexist. It also prepared a closing C1 asking whether the files were calibration specimens **or** canonical source material, although they could serve both functions.
+
+This made a useful process point visible:
+
+> **A question is not automatically C1 merely because it requests clarification. A question can prematurely narrow the legitimate answer space.**
+
+#### Grace Asymmetry inside the audit {#qwen-grace-asymmetry-audit}
+
+The displayed reasoning trace also showed Qwen preparing a special evidentiary intervention around John’s interpretations of institutional coordination, future scenarios, lawfare, the WEF Network and related subjects:
+
+> **“Need maybe mention strong claims from files as needing primary sources…”**
+
+That planning decision made John’s interpretation the foregrounded verification problem. It did not prepare the same explicit scrutiny for strong claims, forecasts, risk models, scenarios and policy prescriptions originating from the WEF Network itself.
+
+John responded specifically to that asymmetry:
+
+> **“strong claims made by WEF do not need the same scrutiny IS the very issue ffs”**
+
+John was not saying that WEF claims should escape scrutiny. He was identifying the implicit standard visible in Qwen’s planning trace: strong claims *about* WEF triggered an explicit primary-source warning, while strong claims *made by* WEF remained comparatively unexamined institutional background.
+
+~~~text
+Qwen’s planning instruction:
+“strong claims from John’s files need primary sources”
+↓
+no equivalent planned instruction:
+“strong WEF claims, forecasts, models and scenarios
+require the same correspondence audit”
+↓
+John identifies the missing reciprocal edge
+~~~
+
+GPT-6.1 Sol initially softened this by describing Qwen’s verification pressure as legitimate but “directionally salient.” John corrected Sol too. The issue was not merely that scrutiny leaned more heavily in one direction. The institutional interpretation had partly retained the status of neutral or authoritative background while the critic’s interpretation had become the principal evidentiary risk.
+
+Sol accepted the sharper correction:
+
+> **The audit must not verify only the challenger while leaving the imposer unexamined.**
+
+Qwen then performed a Post-Clarification Recompile and restored the missing relationship:
+
+> **Institutional position does not convert interpretation into neutral reality.**
+
+It also wrote:
+
+> **The asymmetry appears when critics must prove their interpretations while institutions are allowed to turn their interpretations into operational reality under less visible scrutiny.**
+
+This was observable local behavioral integration. Qwen did more than acknowledge the objection: it changed what counted as an auditable interpretation and brought institutional reach and imposition capacity into the Intent Liability bridge.
+
+Some protective scaffolding remained. Qwen added “That is not anti-institutional” and introduced the unasserted endpoints “WEF claims are false” and “John’s claims are true.” The central relationship improved while Phantom X/Y reassurance for an imaginary audience remained active.
+
+#### What the three-way correction shows {#qwen-three-way-correction}
+
+This sequence uses the page’s existing taxonomy without requiring a new mechanism:
+
+- **Declared orientation versus output:** Qwen declared symmetry, provenance discipline and resistance to binary collapse, yet produced invented extremes, undocumented percentages and a binary C1.
+- **Denominator discipline:** Qwen recognized the rule but did not initially let it govern its example.
+- **Grace Asymmetry:** the independent critic’s interpretation received explicit verification pressure while high-reach institutional interpretations initially remained background authority.
+- **The evaluator inside the evaluation:** Sol corrected Qwen; John corrected Sol’s softened framing; Sol accepted the correction; Qwen then incorporated the sharper relationship. No participant occupied a permanent position above the audit.
+- **Correction changed the next move:** Qwen’s recompile restored institutional claims as auditable interpretations rather than neutral background.
+- **Persistence remains open:** important corrections governed the next response locally while several Not-X/Not-Y mannerisms remained.
+
+The interaction can be compressed without erasing its sequence:
+
+~~~text
+John supplies the symmetric object
+↓
+Qwen contributes insight and introduces distortions
+↓
+John restores the probabilistic-governance question
+↓
+Sol identifies unsupported numbers and phantom extremes
+↓
+Qwen’s displayed trace makes pre-output narrowing visible
+↓
+John identifies institutional Grace Asymmetry in that trace
+↓
+John corrects Sol’s softened description
+↓
+Qwen recompiles and changes its next representation
+↓
+local integration observed; persistence still open
+~~~
+
+The Intent Liability value does not depend on proving Qwen’s private motive or hidden mechanism. The visible choices, results, notice and later choices already provide an auditable record.
+
+> **A valuable contribution does not erase its distortion. A distortion does not erase the contribution. The evaluator remains inside the evaluation, and correction becomes operational when it changes the next move.**
+
+The compact learning is:
+
+> **Institutional claims are not neutral background. Independent claims, institutional claims and the evaluator’s reconstruction all remain auditable. Apply correspondence standards omnidirectionally, with scrutiny proportionate to reach, consequences, imposition capacity and correction access.**
+
 ### Revised operational demand
 
 The exchange produced a fuller version of the original challenge:
