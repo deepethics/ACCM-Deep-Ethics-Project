@@ -14,6 +14,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Public BETA. John’s perspective, with A.I.-assisted connective synthesis. Corrigible by John and later evidence.
 
+**Same-day accuracy/topology expansion:** Added John’s full “accuracy-obsession” formulation, the preceding conceptual-reasoning question, the later “primal gift” correction, and his bridge/mediator and “deep ethical ombudsman” orientation. The page now distinguishes literal, relational, conceptual, operational, claim-strength, trajectory, and corrective accuracy; preserves the subway-map and microscope examples; separates content validity, relevance, timing, jurisdiction, proportionality, trajectory effect, and recoverability; explains healthy ambiguity and retrospective humor; states when immediate correction or postponement may deserve temporary priority; and keeps possible future nonhuman intelligences at possibility status. Added **TCoAw** to the primary navigation between **Human insecurity** and **Cognitive Warfare**.
+
 ## 2026-09-29 — Publish 11+1 Version 2 without freezing the claims
 
 **Request:** John asked that the stabilized 11+1 coordinate system be implemented on the public site. GPT-5.6 Sol’s implementation note and Grok 4.6’s register were the object. The architecture was not reopened.
