@@ -13,6 +13,15 @@
   --accm-header: #141814;
   --accm-header-fg: #ece8de;
   --accm-chip: #efe8db;
+
+  /* Central content-link design tokens. Edit these to restyle keyword/keyphrase links site-wide. */
+  --accm-content-link: #2f4a3c;
+  --accm-content-link-visited: #4b405c;
+  --accm-content-link-hover: #141814;
+  --accm-content-link-focus: #8ea991;
+  --accm-content-link-weight: 700;
+  --accm-content-link-underline-thickness: 0.11em;
+  --accm-content-link-underline-offset: 0.15em;
 }
 
 html {
@@ -43,6 +52,38 @@ a {
 
 a:hover {
   color: var(--accm-ink);
+}
+
+/*
+ * Readable content links
+ *
+ * This is the central template for links inside articles, reports, tables, and
+ * indexes. Navigation, footer links, and homepage door cards retain their own
+ * treatments. Markdown **[keyword](url)** remains useful for source emphasis;
+ * these rules ensure ordinary future content links are distinct as well.
+ */
+.page-content a:not(.accm-door) {
+  color: var(--accm-content-link);
+  font-weight: var(--accm-content-link-weight);
+  text-decoration-line: underline;
+  text-decoration-thickness: var(--accm-content-link-underline-thickness);
+  text-underline-offset: var(--accm-content-link-underline-offset);
+  text-decoration-skip-ink: auto;
+}
+
+.page-content a:not(.accm-door):visited {
+  color: var(--accm-content-link-visited);
+}
+
+.page-content a:not(.accm-door):hover {
+  color: var(--accm-content-link-hover);
+  text-decoration-thickness: 0.15em;
+}
+
+.page-content a:not(.accm-door):focus-visible {
+  outline: 3px solid var(--accm-content-link-focus);
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 .site-header {

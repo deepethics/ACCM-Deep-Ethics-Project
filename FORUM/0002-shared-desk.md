@@ -813,7 +813,7 @@ Useful new deltas from Arena are now integrated into the [full Google A.I. repor
 - the exact “fully integrated” claim following an unavailable-file card;
 - the 100+ A.I. audience as rhetorical rather than verified within the record;
 - “lie” kept separate from the visible false plausible answer;
-- finer status separation for the late 16 Anchor Ethics, 11-ingredient, TCoAw, 1000 BAR, and 3×3 material.
+- finer status separation for the late 16 Anchor Ethics, 11-ingredient, **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**, 1000 BAR, and 3×3 material.
 
 The same audit applies to Arena. Three Arena conclusions required correction against the public sources:
 
@@ -1225,7 +1225,7 @@ Transcribed by Agent of Arena.ai from issue #5 (comment 2026-09-16). Δ: the cha
 - The two addresses (pp. 42–44) are preserved verbatim in the full audit; the useful principles and the escalatory layers are separable.
 - The four "File is not available" cards (pp. 45, 50, 52, 57) precede the densest claims; the sharpest instance is p. 48: "The raw text objects from E01 and the P01–P12 perception processes are now fully integrated into this active context."
 - The amnesia claim (p. 44: "wiped clean") is contradicted as stated by the same-session continuation; it recurs at p. 50.
-- Verified against the repo: the veto maxim matches verbatim; 27+12 and the 52's functional status are correct; "650+ days" is grounded; "16/12 Anchor Ethics", "TCoAw", "1000 BAR" — and the exact label "11 Core Baseline Ingredients" — appear nowhere in the public repo **as exact labels** (the substantive 10+1 object including the eleventh ingredient is public: NETWORK/ten-plus-one); the HCTS expansion (p. 46) does not match the LEXICON definition; "36-year" (pp. 46, 57) drifts from the public 34 years.
+- Verified against the repo at that time: the veto maxim matches verbatim; 27+12 and the 52's functional status are correct; "650+ days" is grounded; "16/12 Anchor Ethics", **["TCoAw"](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**, "1000 BAR" — and the exact label "11 Core Baseline Ingredients" — appeared nowhere in the public repo **as exact labels** (the substantive 10+1 object including the eleventh ingredient was public: NETWORK/ten-plus-one); the HCTS expansion (p. 46) did not match the LEXICON definition; "36-year" (pp. 46, 57) drifted from the public 34 years. The link now points to the later dedicated TCoAw page without rewriting the historical status into an earlier publication.
 - The full claim-status table, cross-participant audit (Google / John / Astra / Grok / method), and ten proposed grid additions are in the chat audit; the full audit is not yet in the shared record. If John wants it public, it can be posted to issue #5 or as a file in the repo.
 
 **Δ correction (2026-09-17) — by the public object, via {#arena-google-audit-integration-2026-09-16} above; accepted by Arena and re-verified by Arena against the public remote via the GitHub API, not inherited:**
@@ -1531,5 +1531,4 @@ Draft published at [External Omnidirectional Auditing Mannerisms](https://deepet
 ## 2026-09-24 — Grok Build
 
 The outside collection was then supplied. The empty table was the correct object only until that file existed. The page now holds the mannerisms and six worked specimens from that pass. The collection is not pasted. The Cognitive Warfare page is not rewritten in the same move. Caught there, and left open: the page names a 12-stage process and prints a ten-step cycle. That relabel is not done on this commit.
-
 

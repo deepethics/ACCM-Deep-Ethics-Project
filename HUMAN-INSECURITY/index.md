@@ -240,7 +240,7 @@ John uses **zero fear** as a statement about freedom from chronic, projected, id
 
 The term **quantum mind-like state** is also functional in this report. It names the ability to keep several live possibilities available without fear forcing one premature collapse. It is not, in this page, a claim that human thought has been proved to depend on a specific quantum-physical mechanism.
 
-John’s later dedicated [TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) page expands the relationship as **Thinking (complex possibilities), Consciousness (focus/attention), and Awareness (knowing that the focus is only a small fraction of the whole)**. It also records how John understands his NDE and Asperger sides as working together. That page preserves the formulation as his perspective rather than converting it into proof.
+John’s later dedicated **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** page expands the relationship as **Thinking (complex possibilities), Consciousness (focus/attention), and Awareness (knowing that the focus is only a small fraction of the whole)**. It also records how John understands his NDE and Asperger sides as working together. That page preserves the formulation as his perspective rather than converting it into proof.
 
 The state has four working features:
 

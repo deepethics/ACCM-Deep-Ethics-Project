@@ -146,9 +146,9 @@ Comparable to what Linus Torvalds did with the Linux project: usable by hyper-pr
 Make the case for why it differs from current epistemology. The case is not finished on this page.
 
 <a id="g20"></a>
-### G20 — Explain TCoAw and opaque black-box issues
+### G20 — Explain **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** and opaque black-box issues
 
-Explain TCoAw and how it can help address opaque black-box issues in A.I. John’s supplied expansion is now public: **Thinking (T), Consciousness (Co), Awareness (Aw)**. The dedicated [TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) page presents it strictly as John Kuhles’s corrigible perspective and functional model, not as an absolute account, evidence or proof of quantum consciousness, or a universal NDE/Asperger claim.
+Explain **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** and how it can help address opaque black-box issues in A.I. John’s supplied expansion is now public: **Thinking (T), Consciousness (Co), Awareness (Aw)**. The dedicated **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** page presents it strictly as John Kuhles’s corrigible perspective and functional model, not as an absolute account, evidence or proof of quantum consciousness, or a universal NDE/Asperger claim.
 
 <a id="g21"></a>
 ### G21 — Develop the Intent Resonator Check
@@ -376,7 +376,7 @@ The links are navigation edges, not a claim that every page is the same object. 
 - **Source object:** John’s 23 September 2026 goals draft, grown from the [canonical Ground Zero Moment](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/questions-perspectives-theories-and-hypotheses/Canonical%20Ground%20Zero%20Moment%20ACCM%20Deep%20Ethics%20Project.md).
 - **This page:** public draft reorganization by Grok Build, 23 September 2026, for inspection while John updates it.
 - **Preserved:** goal identities, qualifiers (“partially,” “never boring,” mode-not-identity), the ten-versus-10+1 distinction, both organizational lenses, the unenumerated 4 × 11 table.
-- **Not invented here:** the sixteen anchor texts, the 3 × 3 questions, TCoAw’s expansion, Musk’s seven quotations, the 36-factor list, a vindication catalogue, a 4 × 11 seating chart.
+- **Not invented here:** the sixteen anchor texts, the 3 × 3 questions, **[TCoAw’s expansion](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**, Musk’s seven quotations, the 36-factor list, a vindication catalogue, a 4 × 11 seating chart.
 - **Named Δ:** “owns zero goals” is recorded as mediated compression, not as John’s sentence.
 - **Stewardship:** John updates this draft. Reality still has veto. See [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/).
 
