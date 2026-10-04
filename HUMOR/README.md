@@ -2404,7 +2404,7 @@ That gives the joke its reciprocal turn:
 
 > **“Good intentions are not enough” applies to the person, the critic, the institution, the A.I., the tool and the audit of the tool.**
 
-The detailed topology—including distortion beneath, above, beside, within and after intent; the A–I process-category collapse; identity-free testing; the Glass Engine Kernel; and value without an agreement vote—is preserved in **[Intent Wants Its Own Audit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-wants-its-own-audit)**.
+The detailed topology—including distortion beneath, above, beside, within and after intent; the updated **A–J process-category collapse**; identity-free testing; the Glass Engine Kernel; and value without an agreement vote—is preserved in **[Intent Wants Its Own Audit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-wants-its-own-audit)**.
 
 And because no comedian gets God Mode, the Intent Resonator is also allowed to inspect the joke that promoted the Intent Resonator. 🍭😂
 
