@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — Why a related page is related
+
+**Request:** John asked for the most important pages to say, in a short line, why each related page is there, so a visitor can see where to go deeper.
+
+**Change:** Reasons were added on the lists that were still bare titles: [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/), [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), [Psy Pioneer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/), [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/), and the [27 obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) page. The other core pages already had a reason on each link. Those lines were left as they were.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — 1888 linked back from its related pages
 
 **Request:** John asked for the pages related from [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) to relate back, so the page is promoted from those pages too.
