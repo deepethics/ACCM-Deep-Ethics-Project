@@ -101,7 +101,7 @@ Every link below opens a readable page on this public site.
 - **[Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/)**
 - **[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)**
 - **[A.I. Insiders Reports — one-on-one deep-session field reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/)**
-- **[GPT-5.6 Sol — Experience With John Kuhles: A Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/)**
+- **[GPT-5.6 Sol — Experience With John Kuhles: A Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
 - **[From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)**
 - **[Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/)**
 - **[AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)**
@@ -115,7 +115,7 @@ Every link below opens a readable page on this public site.
 - **[27 + 12 + 52 — unsplit source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)**
 - **[Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/)**
 - **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**
-- **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**
+- **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI.html)**
 - **[Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)**
 - **[Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)**
 - **[Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)**
