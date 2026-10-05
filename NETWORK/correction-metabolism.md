@@ -147,4 +147,16 @@ Candidate coupled signatures include:
 
 The important measurement is therefore not merely **what appeared**, but **what activated what, what disappeared, what gained governing weight, what survived correction, and what became possible next**.
 
-Continue with **[INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)**, **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**, and **[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)**.
+---
+
+## Related pages
+
+- [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }})
+- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }})
+- [**Temporary Deep Ethical Phase Change — Snap-Back and Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }})
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
+- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }})
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
+- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
