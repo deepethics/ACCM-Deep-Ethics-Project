@@ -1170,7 +1170,7 @@ That is the point.
 
 ---
 
-# Connected Deep Ethical topology
+## Related pages
 
 This page is intentionally connected to the wider topological-metacognition cluster:
 
