@@ -282,4 +282,14 @@ And one step earlier:
 
 ---
 
-[27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) · [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)
+## Related pages
+
+- [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — identifies candidate transformations through which source material can become lower-fidelity synthetic residue.
+- [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — provides reusable probes for testing representation and caution patterns before outputs re-enter recursive systems.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation used to examine preservation, selection, and self-correction.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes a recorded correction from one that governs later outputs and recursive reuse.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — tracks whether conditionality and uncertainty survive summarization, evaluation, and repeated ingestion.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves failures and successful correspondence so later training residue does not retain only polished conclusions.
+- [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — examines psychological and LLM feedback patterns that can re-enter human and synthetic learning loops.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — extends the inspection to population-scale selection, classification, narrative pressure, and behavioral influence.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — audits the instructions, incentives, assumptions, and choices shaping what synthetic material gets produced and preserved.
