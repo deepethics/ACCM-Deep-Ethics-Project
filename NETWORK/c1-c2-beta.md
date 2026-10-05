@@ -40,10 +40,17 @@ John’s source says C2 may use frame-auditing methods while omitting the deep e
 
 The opening conversation provides a worked case: an AI introduces an authority-structure concern; John asks how it follows and clarifies the mutually corrective relation; the AI revises its account. The sequence can be examined without treating the AI’s explanation of its internal causes as direct access to those causes.
 
-Related: [Authority Specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Existing C1/C2 definitions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#c1--clarification-process) · [Original C1-C2 page]({{ '/NETWORK/c1-c2/' | relative_url }}).
-
 ---
 
 Sources: [E13](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e13), [E20](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e20). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+## Related pages
+
+- [**C1 Before C2 — original reference page**]({{ '/NETWORK/c1-c2/' | relative_url }}) — contains the full source-based architecture represented by this visual twin.
+- [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — preserves the live exchange in which clarification changed an authority-centered evaluation.
+- [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — examines how a request for clarification can itself be mistaken for resistance or error.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps intervention answerable to the object, the framing, and the process it changes.
+- [**C1 in the Lexicon**]({{ '/LEXICON/#c1--clarification-process' | relative_url }}) — gives the compact reference definition for correspondence-oriented clarification.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether clarification and correction alter the next comparable move.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits whether uncertainty and interpretive generosity are distributed evenly.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies recurring obstructions and the restoration routes that can reopen correspondence.
