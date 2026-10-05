@@ -200,6 +200,13 @@ Do not complete the architecture rhetorically.
 
 ---
 
-Related: [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [G42](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)
+## Related pages
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+- [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects individual insecurity, conformity, LLM mannerisms, and recursive correction dynamics with the cluster topology.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — applies population-scale cognitive operations and classification power to the wider architecture.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects cluster placement and risk interpretation from intervention before clarification.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the topology open to frame examination rather than treating its current organization as final.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — remains a distinct mutually corrective calibration process rather than another mass-psychology cluster.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tracks whether later evidence changes item placement, claim status, or the governing map.
+- [**G42 — Visualize the 11+1 Mass-Psychology Clusters**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — preserves the interactive visualization goal for nodes, vectors, clusters, time, context, and legend.
+- [**Visible Interactive Deep Ethical Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — explores how the architecture and its corrections could become visibly inspectable over time.
