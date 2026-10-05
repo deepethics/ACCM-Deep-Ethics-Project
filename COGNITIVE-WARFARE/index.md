@@ -554,4 +554,16 @@ The constructive alternative is an inspectable process in which people can see w
 
 The report therefore ends where the **ACCM Deep Ethics Project** begins: not with a demand for agreement, but with a higher-quality shared object, better questions, visible transformations, and a correction path that applies to everyone—including the people and systems designing the defence.
 
-[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Asymmetric grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+---
+
+## Related pages
+
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies the obstructions and restoration routes that can alter a cognitive-warfare evaluation.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks what remains unresolved before a person, claim, or frame is classified and acted upon.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits which institutions, critics, and audiences receive doubt, scrutiny, or interpretive charity.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the governing frame while keeping the evidence and source object recoverable.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether exposed distortions change later analysis, policy, or representation.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves agency and correction access for people affected by classification systems.
+- [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects ambiguity, threat response, conformity, mass psychology, and LLM output behavior.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — records the outside pass over this report and makes the audit answerable to its own standard.
+- [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks how far a system’s framing authority reaches and who can appeal its transformations.
