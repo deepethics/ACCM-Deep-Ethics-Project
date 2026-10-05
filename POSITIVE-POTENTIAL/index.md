@@ -112,4 +112,11 @@ These quotations do not establish that every unfamiliar idea is valuable, that e
 
 **Selection and editorial notes:** ChatGPT/Codex, 2026-09-23. Quotes were selected for the specific work they perform in the inquiry. Inclusion does not certify factual accuracy, independence, or agreement. The deeper report records important transformations and overclaims within the same chain.
 
-[Deeper report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+## Related pages
+
+- [**Emerging Human Potential — Deeper Report**]({{ '/POSITIVE-POTENTIAL/REPORT/' | relative_url }}) — develops the T0 → Tn record, risk ledgers, research footholds, and benchmark questions.
+- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects this research direction to the wider project goals.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects unfamiliar contributions from classification before consequential ambiguity is clarified.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — links early treatment with later vindication, disconfirmation, or revision.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves the contributor’s agency during bounded testing and correction.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps early responses visible beside later outcomes.
