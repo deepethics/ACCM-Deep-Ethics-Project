@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — C1 and Humor now point to 1888
+
+**Request:** John noted that [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) did not promote [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). The other related pages already did.
+
+**Change:** Each of those two related lists now ends with 1888 and a line saying why.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — Why a related page is related
 
 **Request:** John asked for the most important pages to say, in a short line, why each related page is there, so a visitor can see where to go deeper.

@@ -5394,3 +5394,4 @@ And somewhere beneath seventeen layers of responsible precaution, the untouched 
 - [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — satire that exposes a purpose without inventing a motive.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the joke still has to leave the person able to correct and be corrected.
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the joke is making visible.
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — uses an older scene so the modern name does not get the last word, the same way a joke can reopen a closed picture.
