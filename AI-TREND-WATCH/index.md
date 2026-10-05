@@ -150,3 +150,13 @@ The section, methodology, archive, and reusable report structure are ready. No f
 - [Reusable report template](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/)
 - [Published-report archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/)
 
+---
+
+## Related pages
+
+- [**Selection Methodology**]({{ '/AI-TREND-WATCH/methodology/' | relative_url }}) — defines the transparent recency, relevance, virality, and symmetry criteria.
+- [**Reusable Report Template**]({{ '/AI-TREND-WATCH/report-template/' | relative_url }}) — separates evidence-based representation from the project reaction and longitudinal record.
+- [**Published Report Archive**]({{ '/AI-TREND-WATCH/REPORTS/' | relative_url }}) — will list selected reports once they pass the human publication gate.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — supplies a deeper model for media, classification, and perception environments.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — supports equal evidentiary discipline across institutional and independent speakers.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — connects expert warnings and declared purposes to process, results, and later correction.
