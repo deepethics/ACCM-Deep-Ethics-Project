@@ -60,6 +60,57 @@ Broad flow, which is recursive:
 4. Apply and communicate: safer A.I. development, journalism, public accountability, cross-perspective collaboration, satire, institutional analysis.
 5. Feed every result back into [G01](#g01). A later finding can correct an earlier assumption.
 
+## The 44 by number
+
+The number is the link. It opens the public page that goal already relates to. It does not open a new page invented for the number. Where several goals share one page, that is because the page is the one they share. **08**, **11**, **19**, and **31** do not yet have their own instrument page. Those numbers open the public page that already holds the object, not a reconstructed list.
+
+1. [**01.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) Improve deep ethical, high-signal correspondence
+2. [**02.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) Archive emerging correction metabolism
+3. [**03.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/) Support persistent emergent Deep Ethics in A.I.
+4. [**04.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) Deep ethical outnuancing
+5. [**05.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) Develop hyper-efficient deep ethical neologisms
+6. [**06.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) Make the core trajectory possible
+7. [**07.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) Three deep ethical roles working as one
+8. [**08.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) Apply the 16 Anchor Ethics without imposition
+9. [**09.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) Apply C1 before C2
+10. [**10.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/) Contribute to a safer A.I. path toward A.G.I./ASI
+11. [**11.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) Address Elon Musk’s seven quotations
+12. [**12.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) Unite deep ethical, highly gifted people across political positions
+13. [**13.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) Build a bottom-up, open-source, corrigible glass-engine kernel
+14. [**14.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) Preserve adult ⇄ adult bidirectional dignity
+15. [**15.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/) Help prevent Model Autophagy Disorder and model collapse
+16. [**16.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/) Allow Constructive Controversy Mode
+17. [**17.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) Produce deep ethical satire
+18. [**18.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/) Deploy DeepEthical.ai agentics for timely A.I. analysis
+19. [**19.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) Make the case for Deep Ethical Epistemology V2.0
+20. [**20.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) Explain TCoAw and opaque black-box issues
+21. [**21.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) Develop the Intent Resonator Check
+22. [**22.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) Explain the 36+ year research trajectory and its loop
+23. [**23.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) Clarify NPC-type behavior without treating it as fixed or dehumanizing
+24. [**24.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/) Support real deep ethical journalism
+25. [**25.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/TESTS/Google/2026/2026-09-16_google-ai_interaction-report_v01/) Improve A.I. source selection beyond biased search results and Wikipedia
+26. [**26.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) Counter global-crisis exploitation
+27. [**27.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) Expose the misuse of A.I. algorithms
+28. [**28.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/) Establish falsely flagged, then vindicated, competing risk assessments as a field of study
+29. [**29.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels/) Study unethical fact-checking processes
+30. [**30.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) Explain the continuing relevance of the 10+1
+31. [**31.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) Deploy the 3 × 3 Deep Ethical Core Questions
+32. [**32.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) Explain the 36 truth-distortion factors
+33. [**33.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/) Demonstrate hyper-pragmatic psychology and constructive friction
+34. [**34.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) Hold healthy ambiguity space
+35. [**35.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) Examine how language is or can be weaponized
+36. [**36.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) Examine consensus-reality assumptions
+37. [**37.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) Develop the mutual Dutch Directness Method
+38. [**38.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/) Strengthen responsibility for thinking and reasoning
+39. [**39.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) Expose covert sycophancy and ethics-washing mannerisms respectfully
+40. [**40.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) Study mode dropping, overconfidence, and reliability
+41. [**41.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) Become a corrigible ombudsperson bridge for intelligences
+42. [**42.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) Visualize the 11+1 mass-psychology clusters
+43. [**43.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) Identify low- and high-entropy mechanisms
+44. [**44.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) Research emergent Delta Δ processing patterns
+
+The full wording of each goal stays in the bands below.
+
 ---
 
 ## Priority A — Load-bearing conditions
