@@ -1399,4 +1399,13 @@ No source file is republished wholesale. No numerical architectures are merged. 
 
 ---
 
-[Return to the Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)
+## Related pages
+
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the public pages derived from these selected sources.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — presents the central connected operation and its source-preserving boundaries.
+- [**Network Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides compact navigation across the published network edition.
+- [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — exposes what changed between each source excerpt and its public representation.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps readable public pages connected to source and transformation history.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies reciprocal scrutiny to the transformation and its evaluator.
+- [**Provenance Overview**]({{ '/PROVENANCE/' | relative_url }}) — situates this ledger among the project’s other source records.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether source corrections persist in later pages and interactions.
