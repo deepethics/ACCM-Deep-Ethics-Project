@@ -160,3 +160,4 @@ The important measurement is therefore not merely **what appeared**, but **what 
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — treats what happens after notice as a property already inside the older meaning of intelligence, not a courtesy added later.
