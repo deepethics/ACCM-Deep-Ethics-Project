@@ -20,10 +20,19 @@ John also explicitly describes the possibility of this state being exploited. Hi
 
 Can the inquiry register an unexpected possibility, preserve its unresolved state, and investigate it without either prematurely closing it or treating the initial recognition as a completed finding?
 
-Related: [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Uncertainty](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
-
 ---
 
 Sources: [E04](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e04). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — places wonderment inside a reciprocal process where openness, inquiry, care, and correction remain active together.
+- [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps “I do not know, yet” available without converting uncertainty into closure.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects wonderment with naming relationships whose meaning is still emerging.
+- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on reasoning across conceptual relationships before reducing them to isolated claims.
+- [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — shows why healthy ambiguity and postponed judgment can allow a later punchline to reorganize the earlier journey.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the governing frame, omissions, and pressure toward premature answers available for examination.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects emerging meaning by asking for context before consequential interpretation.
+- [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — connects wonderment with John’s autodidact bridge across psychology, mass psychology, A.I. mannerisms, and metapsychology.
