@@ -371,14 +371,9 @@ Preserve correction beside later behavior.
 Accept “no asymmetry found” as a valid result.
 ```
 
-Related: [Ethics Washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [Mutual Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [C1 C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [Δ Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) · [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
-
 ---
 
 Sources: [E09](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e09), [E17](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e17), plus the six-file Grace Asymmetry working cluster supplied by John Kuhles on 2026-09-27. Public wording is an editorial synthesis unless marked as a quotation. The six working files contain repeated quotations and evolving formulations; recurrence across those files is not counted as independent confirmation.
-
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
-
 
 ---
 
@@ -437,4 +432,16 @@ did the changed treatment persist?
 
 The treasure is not merely the later verdict. It is the **longitudinal signature of how competing risks were represented, weighted, corrected and carried forward**.
 
-Related: **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** · **[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)** · **[INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)**
+---
+
+## Related pages
+
+- [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps dignity active while scrutiny and correction move in both directions.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks for missing context before consequential interpretation or classification.
+- [**Correction Study**]({{ '/NETWORK/correction-study/' | relative_url }}) — examines whether a correction changes the process under later comparable conditions.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tracks how correction is absorbed, resisted, repeated, or retained over time.
+- [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — preserves the exact altered edge instead of replacing a whole contribution with a global verdict.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves both the original trajectory and the later analytical reconstruction.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — audits how declared intent travels through incentives, choices, results, notice, and repair.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies obstruction and recovery references for detecting unequal treatment.
+- [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — explores humor as a possible field condition for reciprocal, lower-cost correction.
