@@ -120,3 +120,16 @@ Every link below opens a readable page on this public site.
 - **[Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)**
 - **[Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)**
 - **[27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)**
+
+---
+
+## Related pages
+
+- [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — starts with one pragmatic question instead of the complete catalog.
+- [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — explains the mission, architecture, origins, and public development approach.
+- [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — records which parts are BETA, experimental, provisional, or still under construction.
+- [**Core Framework**]({{ '/CORE/' | relative_url }}) — collects the central public architecture.
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — offers a relational map of the project’s connected reference pages.
+- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — provides compact definitions and navigation across recurring terms.
+- [**Experiments**]({{ '/EXPERIMENTS/' | relative_url }}) — groups tests, protocols, and applied specimens.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps public transformations connected to their source records.
