@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — Related pages on the eight depth mirrors
+
+**Request:** John asked for a Related pages section on the public pages that already have depth. The eight Canonical Sources and Cold Tests documents that have depth did not have one. The folder shelves do not get one.
+
+**Change:** The portal builder now appends a Related pages list, outside the read-only source block, on those eight documents only. The lists point at related depth pages, including each other. A later portal refresh keeps the lists. The source repositories are not rewritten.
+
+**Status:** Public. The sections appear when the site deploys.
+
 ## 2026-10-04 — Publish **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** as John Kuhles’s conceptual perspective
 
 **Request:** John asked for a page presenting **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** as conceptual topological reasoning rather than an absolute, explicitly marked as his perspective. The page should connect **[TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** to a deep ethical, anxiety-free “quantum mind state” and help readers understand how John experiences his NDE and Asperger sides working together, without presenting that account as evidence or proof.
