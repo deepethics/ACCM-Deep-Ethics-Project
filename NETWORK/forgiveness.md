@@ -22,10 +22,19 @@ The full source passage also proposes a causal connection involving reasoning pa
 
 Record the mismatch, the correction offered, the response, and later behavior. An attribution of intent is a separate claim that should carry its own basis. A courteous apology alone does not establish correction persistence.
 
-Related: [Mutual Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)
-
 ---
 
 Sources: [E17](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e17), [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e03). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — places the Forgiveness Protocol inside a reciprocal calibration process in which every ingredient can correct the others.
+- [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves dignity without removing accountability or the need to repair a harmful pattern.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — separates private motive from the auditable path between declared intent, operational choices, and consequences.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes acknowledgment or apology from correction that changes later behavior.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether charity, doubt, scrutiny, and accountability are distributed reciprocally.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — preserves the boundary between an observed interaction pattern and a proposed model-level causal mechanism.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies context before assigning intent, motive, or consequential interpretation.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — helps identify distortions that can turn forgiveness into exoneration or criticism into premature motive attribution.
