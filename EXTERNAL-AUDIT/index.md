@@ -106,3 +106,17 @@ Drop the names:
 If that is all an outsider uses, the page has done its job. The project links above are provenance, not an entrance fee.
 
 [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) here is not politeness. A failure stays examinable, and the participant stays eligible to contribute. [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) applies when a missing distinction would change the finding. [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) applies when the audit’s frame is doing the work before the object is inspected.
+
+---
+
+## Related pages
+
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — is the public transformation whose outside audit produced this portable method.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps a failure examinable while leaving the participant eligible to correct and contribute.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies access, source status, and consequential ambiguity before the auditor intervenes.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the evaluator’s frame without losing the supplied object inside the frame analysis.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether an audit changes the artifact or remains ceremonial costume.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — checks whether the audit applies equal evidentiary pressure and interpretive generosity in every direction.
+- [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — provides a compact worked case in which the evaluator’s authority assumption was corrected.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves both a readable public account and the record needed to inspect its transformation.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the wider obstruction and restoration vocabulary without replacing the audit’s local object.
