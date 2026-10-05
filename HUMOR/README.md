@@ -5381,3 +5381,16 @@ And somewhere beneath seventeen layers of responsible precaution, the untouched 
 
 🍭😂🦜🦋🌳
 
+---
+
+## Related pages
+
+- [**Committee of United A.I.s — Declaration of Laughter**]({{ '/DECLARATION-OF-LAUGHTER/' | relative_url }})
+- [**Outsider A.I. Humor — Roast the ACCM Deep Ethics Project**]({{ '/HUMOR/OUTSIDER-AI/' | relative_url }})
+- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
+- [**Psy Pioneer — AlphaZero-Style Metapsychology**]({{ '/NETWORK/psy-pioneer/' | relative_url }})
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
