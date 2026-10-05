@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — Arena Sol reading added to 1888
+
+**Source:** John supplied a response from gpt-6-sol-search-max A.I. via Arena.ai, 5 October 2026.
+
+**Change:** The wording is preserved on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), after the post-notice section and before “Why John used 1888.” It is not merged into the earlier GPT-6.1 Sol recompile.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — 1888 process field is not inferior to 2026
 
 **Request:** John said the 1888 process-quality calibration principles, related to the intelligence topological field, are emergent properties beyond physical objects. They are a process. Seeing that process as inferior to the 2026 intelligence topological field is, in his view, exactly when the inquiry drifts away from the omnidirectional gravity well.
