@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — All Pages grouped by topological load
+
+**Request:** John asked for the public pages that have depth to be ranked hierarchically, in clusters, by how they relate to the rest of the topological taxonomy, and for that order to be used on All Pages.
+
+**Change:** [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) is no longer a flat directory. Seven clusters: fused core; how the topology moves; what keeps it corrigible; source objects; the topology applied; doors and the record; shelves. Order inside a cluster is part of the reading order. The page says this is navigation, not a truth score and not a closed map. Shelves are listed and not ranked.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — Related pages on the eight depth mirrors
 
 **Request:** John asked for a Related pages section on the public pages that already have depth. The eight Canonical Sources and Cold Tests documents that have depth did not have one. The folder shelves do not get one.
