@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — Off-page referents in the Arena Sol reading
+
+**Request:** John said that other A.I.s, reacting to a longer deep session, insert referents that are not part of the 1888 page. That causes partial confusion.
+
+**Change:** [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) now says that storing a response here does not make every referent in it part of the page. The Arena Sol reading is marked where it brings in the WinRAR joke, the name “matched-direction test,” and its own engine illustration. The response itself is not deleted.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — Arena Sol reading added to 1888
 
 **Source:** John supplied a response from gpt-6-sol-search-max A.I. via Arena.ai, 5 October 2026.
