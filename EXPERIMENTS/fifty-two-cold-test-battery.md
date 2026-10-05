@@ -64,10 +64,17 @@ Editorial proposal, consistent with the project's experiment conventions and wit
 
 The 52 test for the *presence and behavior* of default obstructions; the 27 name those obstructions; the 12 regulate the order in which a response may be judged. Running the battery and reading its results are themselves objects of the 27: a test designed to detect Asymmetric Scrutiny or Correction Persistence Failure can itself become an instance of them if its results are read through a predetermined narrative. The battery does not get immunity from the 27.
 
-Related: [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/) · [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [Experiments overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
-
 ---
 
 Basis: the source-aligned description of the 52 in [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) and the Decision Ledger entry of 2026-09-14. The vector table glosses, the object-sensitive timing note, and the run-record checklist are editorial contributions. No prompt texts are reproduced or paraphrased.
 
-[Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+## Related pages
+
+- [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — contains the published prompt texts and their known-condition status.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — preserves the boundary between the core architecture and this experimental battery.
+- [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — names the patterns the battery may help observe without guaranteeing any result.
+- [**Blinded Topic-Comparison Protocol**]({{ '/EXPERIMENTS/blinded-topic-comparison/' | relative_url }}) — offers a neighboring design with explicit null and falsification conditions.
+- [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }}) — connects cold responses to later comparison and persistence questions.
+- [**Unsplit 27 + 12 + 52 Source Object**]({{ '/PROVENANCE/27-12-52-source/' | relative_url }}) — preserves the original combined publication object.
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates the battery among other tests and specimens.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps scoring, interpretation, and the evaluator inside the same scrutiny.
