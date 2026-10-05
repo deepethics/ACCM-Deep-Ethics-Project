@@ -1311,13 +1311,13 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 ## Related pages
 
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }})
-- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }})
-- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
-- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
-- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})
-- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration this path stays answerable to.
+- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — separates an error from an unsupported claim that the intent was malicious.
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether noticing the gap between purpose and result changes the next operation.
+- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }}) — the difference between what was declared and what happened.
+- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — the same intent audit when the speaker's status changes.
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarify the intent object before managing it.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstructions that can break the bridge from purpose to result.
+- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — so one role does not get to be advocate, judge, and final word on intent.
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — can show an intent contradiction without a prosecution.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — applies this audit to the switch between calling a system only a tool and calling it intelligence.

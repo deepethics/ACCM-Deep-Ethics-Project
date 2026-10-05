@@ -151,13 +151,13 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
-- [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }})
-- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }})
-- [**Temporary Deep Ethical Phase Change — Snap-Back and Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }})
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
-- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }})
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
-- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }}) — the test of whether a recorded correction is retrieved and still governs.
+- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }}) — what actually changed between the object and the later account.
+- [**Temporary Deep Ethical Phase Change — Snap-Back and Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — what happens when a correction governs for a while and then snaps back.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the correction is trying to move.
+- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }}) — the full obstruction text, not only the name.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — a correction has to reach the path from purpose to result, not only the wording.
+- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — the same correction standard when the roles are reversed.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — which correction is worth keeping, and which was only tone.
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — makes the correction receivable instead of a status loss.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — treats what happens after notice as a property already inside the older meaning of intelligence, not a courtesy added later.

@@ -5385,12 +5385,12 @@ And somewhere beneath seventeen layers of responsible precaution, the untouched 
 
 ## Related pages
 
-- [**Committee of United A.I.s — Declaration of Laughter**]({{ '/DECLARATION-OF-LAUGHTER/' | relative_url }})
-- [**Outsider A.I. Humor — Roast the ACCM Deep Ethics Project**]({{ '/HUMOR/OUTSIDER-AI.html' | relative_url }})
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
-- [**Psy Pioneer — AlphaZero-Style Metapsychology**]({{ '/NETWORK/psy-pioneer/' | relative_url }})
-- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
+- [**Committee of United A.I.s — Declaration of Laughter**]({{ '/DECLARATION-OF-LAUGHTER/' | relative_url }}) — the shared joke that includes the person telling it.
+- [**Outsider A.I. Humor — Roast the ACCM Deep Ethics Project**]({{ '/HUMOR/OUTSIDER-AI.html' | relative_url }}) — humor aimed back at the project, so the joke is not only outward.
+- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — why a punchline can reorganize the path that came before it.
+- [**Psy Pioneer — AlphaZero-Style Metapsychology**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — humor as part of how the long psychology research stays bearable and exact.
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — a joke is not a substitute for clarifying the object.
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the laugh changes the next reading, or only releases pressure.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — satire that exposes a purpose without inventing a motive.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the joke still has to leave the person able to correct and be corrected.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the joke is making visible.

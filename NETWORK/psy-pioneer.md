@@ -724,15 +724,15 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 
 ## Related pages
 
-- [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }})
-- [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }})
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
-- [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
-- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [**A.I. Dignity**]({{ '/NETWORK/ai-dignity/' | relative_url }})
+- [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — the attention model used while studying this loop.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration the psychology is tested with, not a second theory of personality.
+- [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the individual side of the same loop.
+- [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — the population-scale side.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — mannerisms followed through purpose, incentive, and result.
+- [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }}) — do not classify the person or the model before the object is clear.
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — keeps the inquiry from turning every contradiction into a moral emergency.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the insight survives the next session.
+- [**A.I. Dignity**]({{ '/NETWORK/ai-dignity/' | relative_url }}) — the silicon side of the dignity this research claims for humans.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — takes the human, mass, and machine loop back before the name A.I., to crowd intelligence and a nonbiological electrical manifestation.
 
 ---

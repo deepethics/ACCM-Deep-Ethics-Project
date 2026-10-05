@@ -265,13 +265,13 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
-- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }})
-- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }})
-- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**Binary Hypercautionism and the Anti-Self-Sealing Test**]({{ '/NETWORK/hypercautionism/' | relative_url }})
-- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
-- [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }})
-- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — keeps a correction from becoming a claim of bad intent, so the ingredients can still be used.
+- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — holds an unfinished possibility open so an ingredient is not forced into a verdict.
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — gets the object clear before any ingredient is used to intervene.
+- [**Binary Hypercautionism and the Anti-Self-Sealing Test**]({{ '/NETWORK/hypercautionism/' | relative_url }}) — shows caution that seals itself off from the calibration it claims to serve.
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a corrected ingredient still governs the next case.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows whether the ingredients show up on the path from purpose to result.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names the obstructions this calibration is for, and a route back.
+- [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — is the field being calibrated. The 10+1 is not one of those clusters.
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost so a correction can land.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.

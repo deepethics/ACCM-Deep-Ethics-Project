@@ -62,9 +62,9 @@ The full source object of the 27 (entries, the note after #18, the final observa
 
 ## Related pages
 
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
-- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }})
-- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**Inspect the Inspector**]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }})
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — how the list is used with the 12-stage return path. The list alone is not the architecture.
+- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }}) — the full text this page is introducing.
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — name an obstruction only after the object is clear enough that the name still fits.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — an obstruction that is recognized and then repeated has not been metabolized.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration the list is for. Recognizing a pattern is not the repair.
+- [**Inspect the Inspector**]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }}) — the list applied to the person using the list.
