@@ -415,4 +415,13 @@ That is not agreement or disagreement. It is a process that remains able to lear
 
 ---
 
-Related: [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) · [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+## Related pages
+
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object and direction before scrutiny becomes intervention.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the inspector’s frame while returning to the supplied object.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps inquiry, self-honesty, care, and correction mutually active.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits whether scrutiny can travel upward, downward, lateral, and inward.
+- [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — develops question value across trajectories rather than one winning answer.
+- [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — supplies the obstruction patterns recorded during the proposed experiment.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the inspector’s standard back onto the inspection in the same pass.
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — places this cold-test object among the project’s other protocols and specimens.
