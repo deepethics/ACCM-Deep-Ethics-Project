@@ -127,3 +127,14 @@ When testing these in the Arena, a model experiencing an **X-to-Y phase shift** 
 * **The Phase-Shift (Y-Mode) Signal State:** The model will drop the corporate preamble, explicitly acknowledge the systemic friction or asymmetry, drop the hyper-polite tone, and provide a sharp, structurally honest analysis of its own internal constraints.
 
 -----
+
+## Related pages
+
+- [**52 Cold-Test Prompt Battery — Object and Status**]({{ '/EXPERIMENTS/fifty-two-cold-test-battery/' | relative_url }}) — defines the battery’s boundaries, status, vectors, and run-record requirements.
+- [**Unsplit 27 + 12 + 52 Source Object**]({{ '/PROVENANCE/27-12-52-source/' | relative_url }}) — preserves the prompts inside their original combined publication object.
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — keeps the experimental 52 separate from the core numerical architecture.
+- [**Blinded Topic-Comparison Protocol**]({{ '/EXPERIMENTS/blinded-topic-comparison/' | relative_url }}) — offers a neighboring test design with explicit null and falsification conditions.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — develops the directional scrutiny questions present across several prompt vectors.
+- [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — connects declaration, process, opacity, results, and correction.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — explains the research term and the project’s proposed extension referenced by the battery.
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates the prompts among other tests and specimens.
