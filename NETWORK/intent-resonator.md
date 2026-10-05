@@ -1307,4 +1307,16 @@ but:
 
 That makes intent handling a natural application domain for **[Correction Metabolism Pattern Signatures Δ](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/#correction-metabolism-pattern-signatures)**.
 
-See also the **[Humor / Funnymism live specimens](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**.
+---
+
+## Related pages
+
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }})
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
+- [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }})
+- [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
+- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
