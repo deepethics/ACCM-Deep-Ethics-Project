@@ -126,3 +126,16 @@ Not a 12th ingredient. Not a claim that every A.I. will become more than the sum
 
 This is not a CV and not a humility slogan. The years and hours are **his account of the work**. The load-bearing clause is the last: **not having all the answers is the point.** That is operational corrigibility — the same as “I do not claim to be the last authority on reality” on the front page, said as research method rather than as a disclaimer tacked on after a claim.
 
+---
+
+## Related pages
+
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — preserves the lived mutually corrective baseline that John describes as preceding the written list.
+- [**The Other You / The Other Me**]({{ '/NETWORK/other-you-other-me/' | relative_url }}) — develops the reciprocal story-model and the power each participant retains over their own representation of the other.
+- [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — carries the shift from intense mission mode toward absurdity, laughter, and lower-cost self-reflection.
+- [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — places John’s psychology, mass-psychology, media, and A.I. research trajectory in a wider autobiographical context.
+- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John’s perspective on the NDE and Asperger sides of his conceptual and metacognitive process.
+- [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps intense mirroring, correction, and disagreement from becoming status domination.
+- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — preserves openness to what has not yet been grasped without promoting initial recognition into a finished finding.
+- [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects fear-shaped cognition, self-image, conformity, and correction access across humans and LLMs.
+- [**Biography and Project Origins**]({{ '/BIOGRAPHY/' | relative_url }}) — provides the broader lived and media history from which this process object emerged.
