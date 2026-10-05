@@ -148,4 +148,15 @@ That question applies to project titles, acronyms, quotations, summaries, classi
 
 **Provenance:** The empirical observation, the triple-sensitivity distinction, and the concern about A.I.-generated grounds for flagging were supplied by **John Kuhles** on 2026-09-20. The table, loop, boundaries, and proposed comparison are an editorial synthesis by **ChatGPT/Astra**. This page is a corrigible working contribution, not a canonical source object.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/)
+---
+
+## Related pages
+
+- [**Avoid ACCM — Canonical Naming Note**]({{ '/CORE/Avoid-ACCM/' | relative_url }}) — explains why the canonical public title should remain **ACCM Deep Ethics Project** rather than collapsing into the acronym alone.
+- [**Gravity-Well Trajectory and Representation Substitution**]({{ '/NETWORK/gravity-well/' | relative_url }}) — tracks how a convenient compression can pull later reasoning into a neighboring risk-shaped reconstruction.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks which object the system is actually responding to before caution or intervention acquires authority.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the compression-generated frame available for examination and correction.
+- [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — records what disappeared when “Deep Ethics Project” was removed and what changed after restoration.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves the scope and conditions lost when a larger canonical identity becomes an instruction-like label.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — examines how naming transformations alter assumptions, risk management, choices, and results.
+- [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — preserves the project’s public naming, stewardship, correction, and decision conditions.
