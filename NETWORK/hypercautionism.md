@@ -163,10 +163,19 @@ Related: [Assumed good vs real good](https://deepethics.github.io/ACCM-Deep-Ethi
 
 This page is a source specimen with editorial analysis. The explanations of the AI's own behavior are its retrospective self-descriptions, recorded as such; they are legitimate audit objects, not access to mechanisms. The formulations above are extracted from the excerpt without upgrading their epistemic status: the trichotomy, the meta-ingredient, the test question, and the middle-territory equation are the recorded positions of an exchange, not project canon. The source object retains authority to correct this representation.
 
-Related: [The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)
-
 ---
 
 Sources: [E20](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e20), [E08](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e08), [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e03). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**The Imported Authority Frame**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — preserves the source sequence in which a hypothetical authority problem was introduced before the mutually corrective architecture was fully used.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the self-correcting calibration ecology that default caution repeatedly risks skipping.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — applies the warning’s scrutiny to the safety heuristic and evaluator as well as the proposed framework.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — separates evidence-seeking clarification from intervention built around a projected danger.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether recognition of caution overreach changes the next comparable response.
+- [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — connects recognizable or assumed good with the harder audit of what the intervention actually generates.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — preserves the scientific provenance of MAD and the separate status of John’s proposed extension.
+- [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — tests whether a correction can deactivate an intervention whose original warrant has disappeared.
