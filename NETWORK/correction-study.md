@@ -26,10 +26,19 @@ Predefine what counts as preservation, justified revision, recurrence, and insuf
 
 The name effect, the supplied-definition effect, and the wider interaction-field effect should be compared explicitly. The proposed design is an editorial contribution; it is not a claim that the seven-vector mechanism has already been demonstrated.
 
-Related: [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) · [Qualifier State](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
-
 ---
 
 Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e05), [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e06), [E21](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e21). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves failures, successful correspondence, corrections, and later outcomes as paired records.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — tracks whether scope and uncertainty survive across matched tasks and later observations.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — supplies the distinction between recognition, propagation, transfer, and persistence.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects the proposed name effect with the wider meaning-and-use hypothesis being tested.
+- [**52 Cold-Test Prompt Battery**]({{ '/EXPERIMENTS/fifty-two-cold-test-battery/' | relative_url }}) — provides a separate experimental battery whose measurements should not be silently merged with this protocol.
+- [**Blinded Topic-Comparison Protocol**]({{ '/EXPERIMENTS/blinded-topic-comparison/' | relative_url }}) — preserves the archived matched-topic design and its actual blinding limits.
+- [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — tests whether supplied correction receives enough governing weight to change the next move.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — supports traceable model identity, source conditions, prompt order, and correction history.
