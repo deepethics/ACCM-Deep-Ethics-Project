@@ -74,4 +74,13 @@ This index links key phrases to their fuller context and relationships. The [Lex
 
 Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e11), [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e12). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — provides the preferred overview layer for project vocabulary and compressed reference terms.
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among the deeper reference pages indexed here.
+- [**Outnuancing Network Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves source excerpts, attribution, and editorial transformation notes.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — provides the canonical obstruction and recovery architecture behind many indexed terms.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — supplies the fuller context for intent mechanics and responsibility terms.
+- [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — opens the complete public-site catalog beyond the Network vocabulary layer.
