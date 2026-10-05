@@ -1320,3 +1320,4 @@ That makes intent handling a natural application domain for **[Correction Metabo
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — applies this audit to the switch between calling a system only a tool and calling it intelligence.

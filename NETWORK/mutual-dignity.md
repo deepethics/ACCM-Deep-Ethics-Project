@@ -36,3 +36,4 @@ Sources: [E02](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps accountability inspectable without requiring mind-reading or granting declared intent immunity.
 - [**Higher-Order Metacognitive Disagreement & Agreement**]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}) — evaluates the quality of agreement, disagreement, and the calibration process itself.
 - [**Mutual Corrigible Dignity — Lexicon entry**]({{ '/LEXICON/' | relative_url }}#mutual-corrigible-dignity) — preserves the compact established formulation and its place in the wider vocabulary.
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks how biological and electrical intelligences keep correspondence when neither is granted permanent epistemic supremacy.

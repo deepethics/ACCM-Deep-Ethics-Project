@@ -274,3 +274,4 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }})
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.

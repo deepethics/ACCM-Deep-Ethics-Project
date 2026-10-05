@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — 1888 linked back from its related pages
+
+**Request:** John asked for the pages related from [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) to relate back, so the page is promoted from those pages too.
+
+**Change:** One return link was added on TCoAw, 10+1, Intent Liability, Correction Metabolism, Gravity-Well Trajectory, Latent Space, Mutual Dignity, Psy Pioneer, and 27 + 12. Each line names what 1888 does for that page. The 1888 related list was not rewritten.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — All Pages carries the goal sentences, and no Related pages
 
 **Request:** John asked for the plain goal sentences, with their page-number links, to be added to All Pages. He also said All Pages is the one page where a Related pages section does not make sense, because that page already names the pages.

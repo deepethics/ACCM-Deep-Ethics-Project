@@ -401,3 +401,4 @@ The model remains open to all five.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — traces how orientation becomes attention, choices, results, notice, and later correction.
 - [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — shows how postponed closure lets a punchline reorganize the preceding journey retrospectively.
 - [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — protects unexpected possibilities before familiar categories close around them.
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — uses this method on the word intelligence: the property field first, the present machine second.

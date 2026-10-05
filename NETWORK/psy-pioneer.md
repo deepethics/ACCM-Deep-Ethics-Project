@@ -733,6 +733,7 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
 - [**A.I. Dignity**]({{ '/NETWORK/ai-dignity/' | relative_url }})
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — takes the human, mass, and machine loop back before the name A.I., to crowd intelligence and a nonbiological electrical manifestation.
 
 ---
 
