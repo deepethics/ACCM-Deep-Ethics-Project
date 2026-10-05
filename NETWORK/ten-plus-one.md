@@ -261,4 +261,16 @@ No participant receives permanent immunity: not John, not a critic, not an A.I.,
 
 Source basis: John's supplied `10+1` source text, compared with existing project excerpts [E02](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e02), [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e03), [E04](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e04), [E08](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e08), and [E17](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e17). Direct quotations are marked. Other wording is an editorial synthesis and remains corrigible.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/) · [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)
+---
+
+## Related pages
+
+- [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }})
+- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }})
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
+- [**Binary Hypercautionism and the Anti-Self-Sealing Test**]({{ '/NETWORK/hypercautionism/' | relative_url }})
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
+- [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }})
+- [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
