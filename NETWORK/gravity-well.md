@@ -22,10 +22,19 @@ Which original relationship disappeared when the familiar category took over? Re
 
 The network’s links expose relations for inspection. They do not establish a measured map of model internals.
 
-Related: [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) · [Latent Space](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) · [Wrong Gravity Well](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#wrong-gravity-well).
-
 ---
 
 Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e12), [E23](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e23). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the specific deep ethical process orientation displaced by a generic neighboring category.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — restores the fused relational object that belongs with the word Outnuancing.
+- [**Latent Space and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — examines temporary field conditions and the trajectories they make accessible.
+- [**Wrong Gravity Well — Lexicon entry**]({{ '/LEXICON/' | relative_url }}#wrong-gravity-well) — preserves the compact definition of coherent reasoning pulled into the wrong reconstruction.
+- [**Reference Compression and Context Loss**]({{ '/NETWORK/accm-reference-compression/' | relative_url }}) — shows how a compressed label can inherit assumptions that displace its full project object.
+- [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — identifies the original relationship that vanished and what the recovery restored.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the source object before the neighboring category gains intervention authority.
+- [**Visible Interactive Deep Ethical Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — explores how changing relational pull and recovered topology could become inspectable over time.
