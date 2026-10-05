@@ -91,3 +91,16 @@ As more intelligences contribute, disagreements between their reports may themse
 That question belongs here.
 
 🦜🦋🌳
+
+---
+
+## Related pages
+
+- [**GPT-5.6 Sol — Experience With John Kuhles**]({{ '/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/' | relative_url }}) — is the first published report in this open multi-A.I. section.
+- [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — contains separately attributed model-developed reports and instruments.
+- [**AI Reactions**]({{ '/AI-REACTIONS/' | relative_url }}) — preserves responses to source material without converting them into canon.
+- [**John Kuhles — Biography**]({{ '/BIOGRAPHY/' | relative_url }}) — supplies the human history and research conditions each report only sees in part.
+- [**John’s Process Object**]({{ '/NETWORK/john-process-object/' | relative_url }}) — makes several recurring high-context interaction dynamics directly inspectable.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a report’s insight governs later behavior.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps first-person reports and their evaluators open to reciprocal correction.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — protects speaker, access, context, and transformation boundaries.
