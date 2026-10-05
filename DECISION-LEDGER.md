@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — Opus reading stored with its off-page referents named
+
+**Source:** John supplied a response from Claude-Opus-5.5-search A.I. via Arena.ai, 5 October 2026.
+
+**Change:** The wording is preserved on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). Before the quote, the page names what that response brought in from a longer session or added on its own: an earlier Sonnet remark on RLHF, an earlier vindication point, the model’s own search claims, and unchecked dates for Galton, Spearman, Binet-Simon, Tesla’s AIEE lecture, and Hertz. Those are not adopted as part of the 1888 page.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — Off-page referents in the Arena Sol reading
 
 **Request:** John said that other A.I.s, reacting to a longer deep session, insert referents that are not part of the 1888 page. That causes partial confusion.
