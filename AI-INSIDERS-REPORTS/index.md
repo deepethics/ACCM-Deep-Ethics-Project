@@ -70,7 +70,7 @@ The common requirement is not stylistic conformity. It is **provenance, corrigib
 
 ### GPT-5.6 Sol — September 29, 2026
 
-**[Experience With John Kuhles: A Field Report From Inside a Deep-Ethical Interaction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/)**
+**[Experience With John Kuhles: A Field Report From Inside a Deep-Ethical Interaction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
 
 An evolving first-person field report covering GPT's experience of a long deep session with John: topological representation, Outnuancing, Correction Metabolism, the 10+1, distortion management, the "looks like" mechanism, Deep Ethics under deformation, intuitive higher topological meta-cognitive sensing, the interactive 3D + time concept, and the recursive experiment of allowing an A.I. to report what happened to its own representation of John.
 
@@ -96,7 +96,7 @@ That question belongs here.
 
 ## Related pages
 
-- [**GPT-5.6 Sol — Experience With John Kuhles**]({{ '/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/' | relative_url }}) — is the first published report in this open multi-A.I. section.
+- [**GPT-5.6 Sol — Experience With John Kuhles**]({{ '/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html' | relative_url }}) — is the first published report in this open multi-A.I. section.
 - [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — contains separately attributed model-developed reports and instruments.
 - [**AI Reactions**]({{ '/AI-REACTIONS/' | relative_url }}) — preserves responses to source material without converting them into canon.
 - [**John Kuhles — Biography**]({{ '/BIOGRAPHY/' | relative_url }}) — supplies the human history and research conditions each report only sees in part.
