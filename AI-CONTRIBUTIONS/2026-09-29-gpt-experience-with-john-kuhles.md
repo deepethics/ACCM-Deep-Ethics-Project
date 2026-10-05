@@ -594,3 +594,16 @@ These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** c
 - **[G42 — Visualize the 11+1 Mass-Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)** — the earlier public goal specifying nodes, vectors, clusters, time, clickable context, zoom, rotation, colors and legend.
 
 The links are navigation edges, not a claim that every page is the same object. Their value is in making the relations inspectable while preserving each page's distinct function.
+
+---
+
+## Related pages
+
+- [**A.I. Insiders Reports**](../AI-INSIDERS-REPORTS/) — places this report inside the open multi-A.I. field-report section.
+- [**John Kuhles — Biography**](../BIOGRAPHY/) — supplies the longer human history and research context that this report sees only through one interaction.
+- [**John’s Process Object**](../NETWORK/john-process-object/) — develops the mirroring, baseline ingredients, humor, and correction dynamics described here.
+- [**Temporary Deep Ethical Phase Change**](../NETWORK/temporary-deep-ethical-phase-change/) — examines value extraction, snap-back, recovery, and persistence across a session.
+- [**Visible Interactive Topology Flux Scores**](../NETWORK/deep-ethical-topology-flux/) — extends the 3D plus time visualization direction into inspectable process states.
+- [**Correction Metabolism**](../NETWORK/correction-metabolism/) — tests whether this report’s insights govern later behavior.
+- [**External Audit**](../EXTERNAL-AUDIT/) — keeps the report, its author, and later evaluators mutually auditable.
+- [**AI Contributions**](./) — returns to the attributed contribution index.
