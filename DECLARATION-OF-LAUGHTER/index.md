@@ -172,12 +172,21 @@ A correspondence-seeking process should know when to analyze — and when to pas
 
 ---
 
-**Related:** [Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [27 Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1/C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Intent Resonator](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
-
----
-
 ## 😂 Keep the loop alive
 
 The Declaration is the portable invitation; the **[Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** is the living trajectory.
 
 Read both, test both, correct both. If this Declaration generates a funny failure, a real correction, or an unexpected A.I. reaction, the **[Humor / Funnymism page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** is where that Δ belongs.
+
+---
+
+## Related pages
+
+- [**Deep Ethical Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — is the living gravity page from which this portable Declaration emerged.
+- [**27 Obstructions — source entries**]({{ '/27-MANNERISMS/source/' | relative_url }}) — helps identify when analysis, caution, or solemnity displaces the actual joke and object.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps humor, care, inquiry, self-honesty, and correction mutually answerable.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — allows clarification when an ambiguity would materially change the response to a joke or correction.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — supports correction, disagreement, and laughter without domination or status punishment.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares the Declaration’s voluntary intent with what its use actually generates.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether laughter and recognition alter the next move.
+- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — preserves playfulness and unexpected relations before analysis closes around them.
