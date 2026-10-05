@@ -107,4 +107,15 @@ The map describes the published conceptual relationships. Further source materia
 
 Sources: [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e03), [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e11), [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e12), [E18](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e18). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — opens the process orientation around which this conceptual network is organized.
+- [**Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides direct access to specific project terms and their deeper reference pages.
+- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — supplies the overview vocabulary layer without replacing the fuller relational pages.
+- [**Outnuancing Network Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves source excerpts, attribution, and transformation records behind the network.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — anchors the canonical obstruction and Correspondence-First Deep Inquiry architecture.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field connecting many network nodes.
+- [**11+1 Version 2**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — maps the distinct mass-psychology topology and the refined 108–140 register.
+- [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — opens the complete site catalog beyond the Outnuancing Network.
