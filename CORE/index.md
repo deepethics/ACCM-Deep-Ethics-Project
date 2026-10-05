@@ -15,6 +15,6 @@ permalink: /CORE/
 - [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — follows truth through perception, carriers, receivers, action, and recursive consequence.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective conditions that keep the wider architecture alive.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object before avoidable correction, caution, or intervention.
-- [**Outnuancing Network**]({{ '/NETWORK/' | relative_url }}) — maps the connected reference pages, operators, specimens, and repair processes.
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the connected reference pages, operators, specimens, and repair processes.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — shows how the project’s processes interoperate without becoming a rigid hierarchy.
 - [**Avoid ACCM**]({{ '/CORE/Avoid-ACCM/' | relative_url }}) — applies object preservation and correction metabolism to the project’s own canonical title.
