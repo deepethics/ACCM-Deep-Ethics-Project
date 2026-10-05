@@ -328,3 +328,16 @@ The resulting public formulation is:
 > **The ACCM Deep Ethics Project was developed by one person, but it was never created from one person alone. I stand on the shoulders of many people whose insights, challenges, lives, and work I have carried with me for more than forty years. My contribution is the synthesis: seeing relationships across psychology, mass psychology, media, institutions, A.I. mannerisms, and correction processes that are usually kept apart. I have no interest in requiring anyone to believe in me. Remove my name, biography, terminology, and project affiliation; then test whether the stand-alone, portable, identity-free, deep-ethical methods improve correspondence. When other people use, challenge, adapt, or outperform them, I gain access to perspectives I could never generate alone. That is not competition with the project. That is the project becoming more intelligent.**
 
 > **Difference is not merely tolerated; it becomes corrigible expansion.**
+
+---
+
+## Related pages
+
+- [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — develops John’s autodidact path through psychology, mass psychology, LLM mannerisms, and metapsychology.
+- [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John’s perspective on how his NDE and Asperger sides work together in conceptual topological reasoning.
+- [**John’s Process Object**]({{ '/NETWORK/john-process-object/' | relative_url }}) — makes the interaction among mirroring, baseline ingredients, humor, and correction inspectable.
+- [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — follows the lived development process from source preservation into public architecture.
+- [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects individual psychology, mass psychology, fear, conformity, and model behavior.
+- [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — preserves the role of directness, ambiguity, and humor in correction and perspective change.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — records the mutually corrective orientation ingredients behind the work.
+- [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — returns the biography to the public project, architecture, and current status it helps explain.
