@@ -91,3 +91,16 @@ Whether a given veto matches this lifecycle. Whether the stated reason holds. Wh
 The short sentence remains on the site, because reality’s veto over his claims is still the point. It is no longer supposed to travel without this page.
 
 The fuller record is on [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/). This page does not replace that record. It stops the one sentence from being the whole object.
+
+---
+
+## Related pages
+
+- [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — records the stewardship, correction, fork, and accountability principles surrounding the canonical project.
+- [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — preserves the fuller source and audit context from which the veto clarification emerged.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — shows the clarification that dissolves the permanent-authority interpretation before judging it.
+- [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — examines why asking an answer-changing question should not itself be treated as resistance.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether a founder, critic, institution, and independent fork receive comparable scrutiny and interpretive room.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether the fuller lifecycle changes later summaries of the one-line sentence.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares the declared purpose of stewardship with how a concrete veto is used and what it produces.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps both the steward and the auditor answerable to the standards they apply.
