@@ -247,3 +247,16 @@ If not, the page may have just produced another specimen.
 **Contextual shorthand:** ACCM  
 **Principle:** Convenience should not silently become identity.  
 **Method:** Preserve the object; detect drift; correct without drama.
+
+---
+
+## Related pages
+
+- [**ACCM Reference Compression**]({{ '/NETWORK/accm-reference-compression/' | relative_url }}) — expands this naming example into a general account of recursive abbreviation and object loss.
+- [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — asks what was removed, inserted, normalized, or reweighted during a transformation.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps readable public compression connected to the source and transformation record.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether the naming correction changes later references rather than remaining acknowledged vocabulary.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — tracks small linguistic changes whose accumulated effect can alter the represented object.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies whether shorthand is locally harmless or replacing the canonical identity before correcting it.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares intended convenience with the later results of repeated compression.
+- [**Core Framework**]({{ '/CORE/' | relative_url }}) — returns this naming specimen to the project architecture it is protecting.
