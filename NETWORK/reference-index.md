@@ -45,11 +45,14 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Model Autophagy Disorder (MAD) | [Science and the ACCM Deep Ethics Extension](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) |
 | Nearest-Generalization Substitution | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
 | Outnuancing | [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
+| Psy Pioneer | [Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/) |
 | Overseer (M.o.E.) | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/#overseer) |
 | Qualifiers as mutable context | [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) |
 | Sense of wonderment | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
 | Seven topological nodes / vectors | [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) |
+| Synthetic Psyche | [Psy Pioneer — Synthetic Psyche as a research object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/#synthetic-psyche-as-a-research-object) |
 | Temporary RAM-type sandbox | [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) |
+| Matryoshka Layer Principle | [Psy Pioneer — nested human and A.I. conditioning layers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/#the-matryoshka-layer-principle) |
 | **[TCoAw — Thinking, Consciousness, Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** |
 | **Quantum mind-like state (John’s functional term)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#the-deep-ethical-anxiety-free-quantum-mind-state)** |
 | Unresolved meaning | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
