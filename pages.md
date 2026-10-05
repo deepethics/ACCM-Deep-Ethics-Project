@@ -13,6 +13,8 @@ This is not a score of who is right. It is not a closed map. The [Outnuancing Ne
 
 Empty shelves are last. They are places for a later page. They are not ranked as if they already had depth.
 
+This is the one page that does not get a Related pages section. It already names the pages. A second list at the bottom would only repeat them.
+
 ## 1. Fused core
 
 The pages the rest of the topology depends on. Outnuancing stays joined to deep ethics. The seven vectors are that word. The 10+1 orient it. The 27 and the 12 keep their job.
@@ -185,13 +187,4 @@ Places waiting for a page. Not ranked.
 
 ---
 
-## Related pages
-
-- [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — starts with one pragmatic question instead of the complete catalog.
-- [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — explains the mission, architecture, origins, and public development approach.
-- [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — records which parts are BETA, experimental, provisional, or still under construction.
-- [**Core Framework**]({{ '/CORE/' | relative_url }}) — collects the central public architecture.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — offers a relational map of the project’s connected reference pages.
-- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — provides compact definitions and navigation across recurring terms.
-- [**Experiments**]({{ '/EXPERIMENTS/' | relative_url }}) — groups tests, protocols, and applied specimens.
-- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps public transformations connected to their source records.
+{% include goal-page-links.md %}

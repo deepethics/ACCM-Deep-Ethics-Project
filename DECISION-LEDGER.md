@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — All Pages carries the goal sentences, and no Related pages
+
+**Request:** John asked for the plain goal sentences, with their page-number links, to be added to All Pages. He also said All Pages is the one page where a Related pages section does not make sense, because that page already names the pages.
+
+**Change:** The goal sentences and the page-number key now live in one include, used by [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) and by [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). The Related pages block was removed from All Pages. A line on that page says why.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — The 44 goals, numbered as links
 
 **Request:** John asked for all 44 goals listed with clickable numbers, in the form 01. 08. 39., each number opening the public page that goal relates to.
