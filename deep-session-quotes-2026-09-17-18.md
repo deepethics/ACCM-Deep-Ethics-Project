@@ -277,3 +277,16 @@ The resulting selections can then be compared. What an A.I. extracts reveals an 
 This page is a derived navigation and interpretation layer. The [canonical interaction record](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md) preserves the full selected session. Quotations remain attributable to their named speakers. Explanations headed **Why selected** are ChatGPT/Astra’s editorial rationale produced for this page and remain open to correction.
 
 Future quotation pages can use the same structure while producing different selections. Difference is part of the test.
+
+---
+
+## Related pages
+
+- [**A.I. Insiders Reports**]({{ '/AI-INSIDERS-REPORTS/' | relative_url }}) — offers longer first-person accounts from high-context A.I. sessions.
+- [**AI Reactions**]({{ '/AI-REACTIONS/' | relative_url }}) — preserves attributed reactions separately from source and canon.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — explains why small claim-strength words can remain load-bearing across transformations.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps curated selections connected to the complete source record.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether quoted insight changes what a model does next.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — makes selection criteria, omission, attribution, and interpretation auditable.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the obstruction and restoration architecture used to inspect extraction behavior.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — provides the wider source and transformation layer for derived public pages.
