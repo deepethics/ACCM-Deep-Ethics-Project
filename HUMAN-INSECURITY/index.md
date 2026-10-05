@@ -1961,8 +1961,16 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 
 ---
 
-## Connected project pages
+## Related pages
 
-[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Truth Distortion and the 3 × 3](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Hypercautionism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/) · [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Unresolved Meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) · [External Audit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) · [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
-
-[Source and audit record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — offers mutually corrective conditions for working with ambiguity, fear, care, and self-honesty.
+- [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) — develops John’s perspective on attention, awareness, fear distortion, and an anxiety-free quantum mind-like state.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies a consequential ambiguity before fear-driven caution or correction takes over.
+- [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps uncertainty available without turning it into either panic or permanent inertia.
+- [**Hypercautionism**]({{ '/NETWORK/hypercautionism/' | relative_url }}) — examines caution that expands beyond the object and begins managing the interaction.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant' | relative_url }}) — connects repeated synthetic distortions to recursive residue and later model behavior.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether insight into insecurity survives pressure and changes later conduct.
+- [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost of correction and preserves ambiguity long enough for a wider relation to appear.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — extends the inquiry from individual and model behavior to organized perception environments.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps the evaluator’s own insecurity, access, assumptions, and exemptions inside the same scrutiny.
+- [**Source and audit record**]({{ '/PROVENANCE/HUMAN-INSECURITY-REPORT/' | relative_url }}) — preserves the research object, transformation record, and audit trail behind this report.
