@@ -29,6 +29,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 ## Topology, frames, and cross-intelligence reach
 
 - **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**
+- **[1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)**
 - **[Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/)**
 - [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 - [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
@@ -93,6 +94,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) | leaves room for | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
 | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | relates possibility, focus and awareness through | **[Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)** |
 | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | remains mutually correctable through | **[10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)** |
+| **[1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)** | treats process-quality calibration as a core property of | **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** |
 | [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) | audits the ethical binding of | [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
 | [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) | keeps claim status separate from | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
 | [11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) | is not the same object as | [12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/) |
