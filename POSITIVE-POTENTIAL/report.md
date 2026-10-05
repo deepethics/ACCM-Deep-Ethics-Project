@@ -247,4 +247,12 @@ The file contains John’s original inquiry, two long GPT 6 Astra research and a
 
 This page is open to correction, stronger source inspection, benchmark implementation, splitting, replacement, or retirement.
 
-[Quotation page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) · [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+## Related pages
+
+- [**Before the Next Tesla Has a Name**]({{ '/POSITIVE-POTENTIAL/' | relative_url }}) — preserves the attributed multi-voice quotations behind this deeper synthesis.
+- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects the report to its wider operational and research goals.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects answer-changing ambiguity before evaluation closes around an unfamiliar contributor.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — gives the T0 → Tn record its later-behavior and persistence test.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the evaluator’s frame while preserving the contribution itself.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps engagement, testing, correction, and refusal compatible with agency.
+- [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects premature closure to ambiguity, self-image, conformity, and correction access.
