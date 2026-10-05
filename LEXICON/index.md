@@ -567,3 +567,16 @@ Useful status labels for future Lexicon expansion include:
 - **OVERCLAIM SPECIMEN** — useful example where an AI reaction strengthened the epistemic status beyond what the source established.
 
 This distinction is especially important because the ACCM Deep Ethics Project is a **living, correction-oriented process**, not a requirement that every historical formulation remain frozen forever.
+
+---
+
+## Related pages
+
+- [**About the Lexicon**]({{ '/LEXICON/ABOUT/' | relative_url }}) — explains why the Lexicon is relational navigation rather than a flat dictionary.
+- [**Outnuancing Network — Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides a second compact route into the connected network pages.
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among selected methods, operators, and specimens.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the current core obstruction and restoration architecture behind many entries.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — gives the mutually corrective orientation that keeps definitions open to revision.
+- [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — tracks what changes when a source object becomes a compact term or definition.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — connects public terminology to source and transformation records.
+- [**All public pages**]({{ '/PAGES/' | relative_url }}) — situates the Lexicon within the complete public site.
