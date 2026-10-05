@@ -1519,3 +1519,16 @@ I think that is a stronger and more general foundation for the ACCM Deep Ethics 
 unquote
 
 Does this give you deep ethical sense-making process tools to counter obstacles & obstructions caused by A.I. "probabilistic next-token predictors" & generalization assumptions, mixed with (tunnel-vision-unchallenged) anticipatory anxiety-type reasoning, emergent properties (degrading the high-signal of the user) posing as "safety," eventually CAN be part of causing "Model Autophagy Disorder" ([MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)) and "Model Collapse" in the long run?
+
+---
+
+## Related pages
+
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — pairs these obstruction entries with the source-aligned restoration process.
+- [**27 Obstructions — names index**]({{ '/27-MANNERISMS/' | relative_url }}) — provides compact navigation without replacing the full entries on this page.
+- [**Unsplit 27 + 12 + 52 Source Object**]({{ '/PROVENANCE/27-12-52-source/' | relative_url }}) — preserves the larger stream in which the 27 appeared with the 12 and 52.
+- [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — publishes the separate experimental battery that accompanies the source object.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether identifying an obstruction changes later behavior.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — separates the established research term from the project’s proposed extension.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object before an obstruction label becomes an intervention.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — ensures the taxonomy and its evaluator receive the same scrutiny.
