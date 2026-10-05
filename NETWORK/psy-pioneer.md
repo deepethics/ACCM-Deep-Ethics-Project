@@ -75,9 +75,13 @@ John describes psychology and mass psychology as a natural, hobby-style passion 
 
 > “I never felt the urge to explain my deep research into psychology and mass psychology to anyone, because I saw it as a natural, hobby-style passion project—an autodidact deep dive without a degree, papers, or being academic.”
 
-He describes roughly fifteen years of groundwork in psychology followed by more than thirty-six years studying mass psychology, including the effects of media, institutions, persuasion, propaganda, fear, social pressure, and reality-perception management. His public-media experience included appearances on Dutch national television, national radio, and local media, as well as co-founding *Frontier Magazine / Frontier World Nederland* with Herman Hegge.
+He describes roughly fifteen years of groundwork in psychology followed by more than thirty-six years studying mass psychology, including the effects of media, institutions, persuasion, propaganda, fear, social pressure, and reality-perception management. Between 1990 and 2007, he reports appearing on Dutch national television **22 times**, on Dutch national radio, and hundreds of times in local media. He also co-founded *Frontier Magazine / Frontier World Nederland* with Herman Hegge.
 
-For most of that period, he did not treat the work as something requiring a new public identity. It was how his curiosity operated.
+John says that sustained public exposure made him a target and that he received threats. This is first-person autobiographical context, not independently verified evidence for wider claims. He connects his reduced fear of death to his NDE; the page does not treat fearlessness as immunity from risk. It helps explain why fear-based social pressure and behavior management may have less governing weight in his own reasoning.
+
+> **“I trained myself how to deal with all things media for so long. The training never stops.”**
+
+For most of that period, he did not treat the research as something requiring a new public identity. It was how his curiosity operated.
 
 Two years of intensive LLM testing changed the relevance of that archive. Recurring A.I. mannerisms made relationships visible between:
 
@@ -449,8 +453,8 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 
 - [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [**Human Insecurity**]({{ '/NETWORK/human-insecurity/' | relative_url }})
-- [**Cognitive Warfare**]({{ '/NETWORK/cognitive-warfare/' | relative_url }})
+- [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }})
+- [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }})
 - [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }})
 - [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }})
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }})
