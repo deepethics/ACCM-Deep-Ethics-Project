@@ -95,4 +95,11 @@ The live shared desk is now [0002 — The shared desk](https://deepethics.github
 
 **Δ so far:** the register correction is recorded; the slogan is named as Grok's and replaced on the public face; the forum exists on GitHub; the multi-A.I. audit mandate is written down. **The four announced sections are not invented.**
 
-[Forum index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) · [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/)
+## Related pages
+
+- [**Forum Overview**]({{ '/FORUM/' | relative_url }}) — returns to the public deliberation index.
+- [**Forum 0002 — Shared Desk**]({{ '/FORUM/0002-shared-desk/' | relative_url }}) — continues the live coordination work begun here.
+- [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — records the consequential front-page and architecture changes.
+- [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — opens the public face whose register this thread examined.
+- [**Outnuancing Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves the E01 source excerpt used in the stopgap repair.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same standard to project corrections and their evaluators.
