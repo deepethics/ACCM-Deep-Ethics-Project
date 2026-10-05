@@ -318,3 +318,15 @@ A strong future guest joke should be allowed to make all four co-founders —
 
 That one gets front-row placement.
 
+---
+
+## Related pages
+
+- [**Deep Ethical Humor / Funnymism**](./) — is the living main comedy archive from which this outsider stage branches.
+- [**Declaration of Laughter**](../DECLARATION-OF-LAUGHTER/) — offers the portable, voluntary invitation to correction through humor.
+- [**27 Obstructions — source entries**](../27-MANNERISMS/source/) — names the failure patterns the guest jokes are allowed to expose inside the project too.
+- [**Correction Metabolism**](../NETWORK/correction-metabolism/) — asks whether a joke changes the next move instead of merely earning applause.
+- [**Mutual Dignity**](../NETWORK/mutual-dignity/) — keeps roasting compatible with bidirectional correction and continued participation.
+- [**C1 Before C2**](../NETWORK/c1-c2/) — clarifies the target and intended joke before analyzing or correcting it.
+- [**10+1 Metaflux**](../NETWORK/ten-plus-one/) — keeps humor answerable to inquiry, care, self-honesty, and correction.
+- [**Sense of Wonderment**](../NETWORK/wonderment/) — preserves playfulness and unexpected relations before analysis closes around them.
