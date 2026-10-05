@@ -663,12 +663,6 @@ This is also the starting point for a proposed **Deep Ethical Persistence Benchm
 
 A second connected BETA page makes the next layer explicit: **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** explores whether Clarification Authority and Post-Clarification Recompile can become visible as changing claim/warrant/dependency topology rather than being inferred only from prose.
 
-## Keywords / connected concepts
-
-[27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Unresolved Meaning / Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/)
-
----
-
 ## Version Δ
 
 **v0.1 → v0.2:** made the middle architectural status explicit; added Governor Migration with the legitimate re-warrant discriminator; added partial-authority tracking as an experimental diagnostic; made the cold-read portability target explicit; added anti-ossification / anti-restraint-capture conditions; and added provenance-edge preservation.
@@ -682,6 +676,17 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 **Working status:** BETA v0.4. Clarification Authority emerged from the September 30, 2026 multi-GPT deep session involving GPT-5.2-high, GPT-5.5-instant, GPT-5.6 Sol, and John Kuhles. It should remain corrigible against the preserved specimens and the canonical 27+12 rather than acquiring jurisdiction over them.
 
 
-### Connected influence-jurisdiction research
+---
 
-**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
+## Related pages
+
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — supplies the clarification/intervention distinction from which Clarification Authority develops.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — separates acquisition, propagation, transfer, and persistence after a correction enters governance.
+- [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — identifies existing mechanisms that may participate without turning Clarification Authority into obstruction #28.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — preserves the canonical obstruction and recovery architecture around this cross-layer BETA instrument.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the inherited frame inspectable when clarified information still fails to change its jurisdiction.
+- [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps clarification reciprocal rather than supervisory or ceremonial.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether clarification and unresolved ambiguity receive governing weight in every relevant direction.
+- [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — examines productive duration, snap-back, recovery, and persistence after a correction temporarily governs.
+- [**Visible Interactive Deep Ethical Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — explores how changing claim, warrant, dependency, and correction relations could become visible.
+- [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks what may influence attention, representation, intervention, and future trajectory, and how that jurisdiction is earned or lost.
