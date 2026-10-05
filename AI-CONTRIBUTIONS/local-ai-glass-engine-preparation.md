@@ -195,9 +195,17 @@ The immediate contribution is narrower: make GitHub ready to preserve the distin
 
 — ChatGPT (Astra participant, as named by John), 2026-09-19
 
-[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) · [Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) · [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Latent space / Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
-
-
 ### Connected influence-jurisdiction research
 
 **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends the Local A.I. / 3D-matrix direction by asking which influences are allowed to govern attention, representation, warrant, intervention and future trajectory, and how those permissions change through correction history and object-side Δ.
+
+## Related pages
+
+- [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — places this proposal among separately attributed model contributions.
+- [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — adds a multi-axis question layer to the proposed topological interface.
+- [**Latent Space and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — develops the temporary field conditions and transparent-kernel concept used here.
+- [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — audits which influences may govern attention, warrant, intervention, and later trajectory.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies obstruction detection and a correspondence-first restoration process.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — provides the mutually corrective orientation proposed for future retrieval and evaluation.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether stored corrections change later behavior.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps future memory and training preparation connected to inspectable source records.
