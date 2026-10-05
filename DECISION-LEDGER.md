@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — 1888 process field is not inferior to 2026
+
+**Request:** John said the 1888 process-quality calibration principles, related to the intelligence topological field, are emergent properties beyond physical objects. They are a process. Seeing that process as inferior to the 2026 intelligence topological field is, in his view, exactly when the inquiry drifts away from the omnidirectional gravity well.
+
+**Change:** His wording is now on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), directly after the earlier exact-edge correction. A short note under it states the ranking and does not replace his sentence.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — C1 and Humor now point to 1888
 
 **Request:** John noted that [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) did not promote [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). The other related pages already did.
