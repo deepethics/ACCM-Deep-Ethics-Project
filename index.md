@@ -72,6 +72,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Human Insecurity and the Correction Loop</strong>
     <span>An in-depth report connecting self-image under ambiguity, fear-shaped cognition, conformity, LLM mannerisms, recursive residue, C1, 10+1, outnuancing, humor, and external audit.</span>
   </a>
+  <a class="accm-door" href="{{ '/NETWORK/psy-pioneer/' | relative_url }}">
+    <span class="accm-door-kicker">Autodidact metapsychology</span>
+    <strong>Psy Pioneer</strong>
+    <span>John Kuhles’s deliberately ambiguous working title for recursive research connecting individual psychology, mass psychology, media, Synthetic Psyche, A.I. mannerisms, and human–A.I.–society feedback loops.</span>
+  </a>
   <a class="accm-door" href="{{ '/NETWORK/eleven-plus-one/' | relative_url }}">
     <span class="accm-door-kicker">11+1 Version 2</span>
     <strong>Mass-psychology topology</strong>
