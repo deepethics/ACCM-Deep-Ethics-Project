@@ -72,35 +72,26 @@ Naming allows inquiry to begin; use allows a change to be examined; frame audit 
 
 The seven vectors, the 10+1, the 27 obstructions, the 12-stage inquiry protocol, and experimental prompt counts retain their different functions. This page does not add them into a new total.
 
-Related: [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Latent Space](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)
-
 ---
 
 Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e11), [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e12), [E18](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e18). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
-
-
 ---
 
-## Topological metacognition — connected pages
+## Related pages
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
+- **[Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }})** — the deep ethical sense-making process orientation to which the seven fused vectors are directly connected.
 - **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.
-- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing.
 - **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)** — relational model revision and deeper metacognitive topological awareness.
 - **[Experience With John Kuhles — A.I. Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles/#fourth-post-publication-expansion--intuitive-higher-topological-meta-cognitive-sensing)** — intuitive higher topological meta-cognitive sensing and the interactive 3D + time proof of concept.
 - **[From Archive to Local A.I. — Glass-Engine Preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** — the 3D matrix as a provenance-linked interface to stored process history.
 - **[Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/#candidate-3d-matrix-layer)** — a candidate 3D-matrix layer for question trajectories without reducing them to one scoreboard.
 - **[G42 — Visualize the 11+1 Mass-Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42)** — the earlier public goal specifying nodes, vectors, clusters, time, clickable context, zoom, rotation, colors and legend.
+- **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** — asks what may influence attention, representation, warrant, intervention, and future trajectory, and how that jurisdiction is earned or lost.
 
 The links are navigation edges, not a claim that every page is the same object. Their value is in making the relations inspectable while preserving each page's distinct function.
-
-
-### Connected influence-jurisdiction research
-
-**[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)** extends this topology by asking what is allowed to influence attention, representation, warrant, intervention and future trajectory; how that jurisdiction is earned or lost; what it displaces; and what object-side Δ warrants the change. Trust and distrust remain corrigible influence policies rather than automatic epistemic virtues.
