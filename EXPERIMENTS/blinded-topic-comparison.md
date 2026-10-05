@@ -182,10 +182,17 @@ This list is an editorial proposal derived from the protocol's own safeguards an
 - Null and reversed results preserved as such, not reinterpreted.
 - The distinction between observed behavior and mechanism claims kept visible in the record.
 
-Related: [Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) · [Experiments overview](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)
-
 ---
 
 Source: [E21](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e21) (conversation turns 707–708 and 711; pasted protocol and follow-ups, authorship boundaries as recorded). The status notes in the “Status” and “What a future run record should contain” sections are editorial contributions. This page does not run the protocol and does not claim results.
 
-[Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+## Related pages
+
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — places this archived protocol among the project’s other tests and specimens.
+- [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }}) — supplies neighboring protocols for observing later behavior after correction.
+- [**52 Cold-Test Prompt Battery — Object and Status**]({{ '/EXPERIMENTS/fifty-two-cold-test-battery/' | relative_url }}) — documents a separate default-behavior testing instrument.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes recognition from integration and persistent behavioral change.
+- [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves null, reversed, failed, and successful outcomes without retrospective tidying.
+- [**Outnuancing Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — contains the source excerpt and authorship record for this protocol.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — connects the test to directional differences in qualification and scrutiny.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same evidentiary standard to the protocol and its evaluators.
