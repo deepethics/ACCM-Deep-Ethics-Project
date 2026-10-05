@@ -151,13 +151,19 @@ It will not tell you the project is finished. It will not ask you to join. It wi
 
 If one question on this page is already your job, start there. The longer pack is the workshop behind the door, not the greeting.
 
-## Where the workshop already is
-
-- [A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)
-- [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
-- [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
-- [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
-
 ## Where this page came from
 
 John Kuhles asked for a newcomer page in the voice of the job, not a compression of the whole archive. The questions were drafted on 27 September 2026 from the public site and from a cold-start extraction pack of that date. He read the draft and asked for it to be a separate page, promoted from the front. Later the same day he asked for the audience to be stated, and for five concrete repairs: the car example, what a count includes, staying on a vindicated case, returning to the object after the frame, and “will” changed to “can.” The sentences are a front door. They are not a quotation of the pack, and they are not a new canonical list.
+
+---
+
+## Related pages
+
+- [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — opens the workshop behind this short front door.
+- [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — gives the project-wide mission, architecture, status, and navigation.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — contains the longer obstruction taxonomy and correspondence-first inquiry process.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — develops the clarification-before-intervention move used throughout this page.
+- [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — follows ambiguity, fear, conformity, and correction access across humans and models.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — asks how declared purpose travels through a process into results and later repair.
+- [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — uses comedy and postponed closure to make contradictions perceptible without forcing a verdict.
+- [**All public pages**]({{ '/PAGES/' | relative_url }}) — lists the longer instruments and project records when a visitor wants them.
