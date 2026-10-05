@@ -233,4 +233,13 @@ The links are navigation edges, not a claim that every page is the same object. 
 
 Publication is not endorsement of every statement in the source chain. The page is a derived working instrument, open to correction, testing, splitting, replacement, or retirement.
 
-[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) · [Local A.I. preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Correction metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Unresolved meaning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
+## Related pages
+
+- [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — places this derived instrument inside the attributed contribution layer.
+- [**From Archive to Local A.I.**]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) — connects the profile to a provenance-aware future local system and 3D interface.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — tests whether a question addresses a consequential ambiguity before steering begins.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — adds the time dimension: whether a valuable question changes later behavior.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits who defined the question and what its frame excludes.
+- [**Unresolved Meaning**]({{ '/NETWORK/uncertainty/' | relative_url }}) — preserves provisional routes without requiring a crowned theory.
+- [**Visible Interactive Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — supplies the live topological visualization context for the candidate profile layer.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — makes the profile and its evaluator answerable to the same criteria.
