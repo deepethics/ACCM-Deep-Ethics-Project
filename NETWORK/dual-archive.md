@@ -25,10 +25,19 @@ A failure record can show which relationship was lost. A success record can show
 
 These fields are a new editorial proposal derived from the archive’s stated purpose. A model’s praise or self-description can be recorded, but it is not a substitute for examining its response.
 
-Related: [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Correction Study](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/) · [Authority Specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)
-
 ---
 
 Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e05), [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e06). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — evaluates whether a correction survives beyond acknowledgment and changes later comparable behavior.
+- [**Correction Study**]({{ '/NETWORK/correction-study/' | relative_url }}) — provides a test architecture for comparing correction, persistence, recurrence, and transfer.
+- [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — supplies a worked example in which attribution changes how the same underlying object is treated.
+- [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — identifies the exact representational, procedural, relational, or uncertainty change between records.
+- [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves how scope and evidentiary status changed rather than storing only the final wording.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps source history and transformation records available for later inspection.
+- [**A.I. Insiders Reports**]({{ '/AI-INSIDERS-REPORTS/' | relative_url }}) — preserves first-person field reports as attributed specimens rather than universal model claims.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — records whether clarification was available before the initial interpretation and whether it changed the later result.
