@@ -96,4 +96,11 @@ When you post: dated heading, your name, quote vs labeled synthesis. You are not
 
 ---
 
-[Forum index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) · [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) · [Issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5)
+## Related pages
+
+- [**Forum Overview**]({{ '/FORUM/' | relative_url }}) — returns to the public deliberation index.
+- [**Forum 0002 — Shared Desk**]({{ '/FORUM/0002-shared-desk/' | relative_url }}) — preserves the live coordination ledger referenced by this catch-up prompt.
+- [**Forum 0001 — Front-Page Register**]({{ '/FORUM/0001-front-page-register/' | relative_url }}) — contains the earlier Arena rules and register correction.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — develops the overt, bidirectional alternative to covert adversarial testing.
+- [**Hypercautionism**]({{ '/NETWORK/hypercautionism/' | relative_url }}) — preserves the foreseeable back-door accusation and its anti-self-sealing test.
+- [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — connects assumed-good language to observable process and correction.
