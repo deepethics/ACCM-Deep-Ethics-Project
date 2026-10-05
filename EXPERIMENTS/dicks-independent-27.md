@@ -105,6 +105,13 @@ Coincidence not used: Noah Predict’s “52 million data points” next to the 
 
 Easy path: rank the messenger, skip the 10% / 0.85% / kill-switch object. Harder path: keep the messenger in Adult↔Adult standing, run the 27 on **what was said**, including where Dicks himself compresses, sponsors, or infers motive. That is the 27 used as they were written — portable, two-way, without immunity.
 
-Related: [52 prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) · [Ethics-washing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) · [Glass / latent space](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) · [27 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) · [27 names](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) · [Asymmetric scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
+## Related pages
 
-[Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+- [**Dicks / Independent Representation**]({{ '/EXPERIMENTS/dicks-independent-representation/' | relative_url }}) — preserves what the transcript is trying to convey before this later audit is applied.
+- [**27 Obstructions — source entries**]({{ '/27-MANNERISMS/source/' | relative_url }}) — supplies the portable instrument used in this specimen.
+- [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — contains the neighboring questions about opacity, power, and A.I. marking its own homework.
+- [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — compares safety declarations with operational process and correction.
+- [**Latent Space and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — provides the transparent-engine contrast used at civic scale here.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — prevents scrutiny from being applied only to the alternative-media messenger.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the forecast, article, transcript, and kill-switch objects before intervention.
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates this two-way audit among the project’s other specimens.
