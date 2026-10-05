@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-05 — The 44 goals, numbered as links
+
+**Request:** John asked for all 44 goals listed with clickable numbers, in the form 01. 08. 39., each number opening the public page that goal relates to.
+
+**Change:** [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) now has “The 44 by number.” The number is the link. The bands below keep the full wording. Goals 08, 11, 19, and 31 do not yet have their own instrument page. Those numbers open the page that already holds the object. They do not reconstruct the sixteen anchors, the seven quotations, Epistemology V2.0, or the nine questions.
+
+**Status:** Public draft. Corrigible.
+
 ## 2026-10-05 — All Pages grouped by topological load
 
 **Request:** John asked for the public pages that have depth to be ranked hierarchically, in clusters, by how they relate to the rest of the topological taxonomy, and for that order to be used on All Pages.
