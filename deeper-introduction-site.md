@@ -317,13 +317,13 @@ The project is therefore not asking visitors to accept a finished doctrine. It i
 
 That question is why this page is allowed to remain visibly unfinished.
 
-## Continue from here
+## Related pages
 
-- [27 + 12 — core architecture]({{ '/CORE/27-PLUS-12/' | relative_url }})
-- [10+1 Metaflux — mutual correction]({{ '/NETWORK/ten-plus-one/' | relative_url }})
-- [John’s process object — mirroring, 10 as glue, humor as carrier]({{ '/NETWORK/john-process-object/' | relative_url }})
-- [Latent Space, Temporary Field Conditions, and the Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }})
-- [Correction Metabolism and Persistence]({{ '/NETWORK/correction-metabolism/' | relative_url }})
-- [Humor / Funnymism]({{ '/HUMOR/' | relative_url }})
-- [Canonical 27+12 source](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md)
-- [John’s Questions, Perspectives, Theories & Hypotheses]({{ '/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/' | relative_url }})
+- [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — provides the shorter pragmatic front door for visitors who want one usable question first.
+- [**27 + 12 — Core Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names recurring correspondence failures and a process for restoring the object.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — develops the mutually corrective orientation ingredients described here.
+- [**John’s Process Object**]({{ '/NETWORK/john-process-object/' | relative_url }}) — connects mirroring, the ten baseline ingredients, humor, and correction in one working object.
+- [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — explores how temporary conditions can change which model capacities become usable.
+- [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a good local correction changes later behavior.
+- [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — preserves the longer humor material and the retrospective punchline process.
+- [**John’s Questions, Perspectives, Theories & Hypotheses**]({{ '/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/' | relative_url }}) — keeps John’s exploratory statements connected to their canonical source status.
