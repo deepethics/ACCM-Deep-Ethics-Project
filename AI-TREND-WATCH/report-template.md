@@ -113,3 +113,11 @@ Append corrections with dates. Preserve the earlier wording when historically re
 
 Link the first material use of relevant concepts. Do not keyword-stuff.
 
+## Related pages
+
+- [**AI Trend Watch**]({{ '/AI-TREND-WATCH/' | relative_url }}) — explains the public purpose and scope of reports built from this template.
+- [**Selection Methodology**]({{ '/AI-TREND-WATCH/methodology/' | relative_url }}) — defines which candidates qualify and how selection remains inspectable.
+- [**Published Report Archive**]({{ '/AI-TREND-WATCH/REPORTS/' | relative_url }}) — will hold completed, reviewed reports.
+- [**27 Obstructions — source entries**]({{ '/27-MANNERISMS/source/' | relative_url }}) — provides the obstruction names used only when the record supports them.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — governs the material clarification questions in each report.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — supports the declared-intent, translation-process, result, and correction audit.
