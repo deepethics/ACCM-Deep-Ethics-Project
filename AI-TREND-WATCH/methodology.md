@@ -104,3 +104,11 @@ Automated systems may assist with discovery, transcription, scoring, source retr
 
 Return to [AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/).
 
+## Related pages
+
+- [**AI Trend Watch**]({{ '/AI-TREND-WATCH/' | relative_url }}) — gives the purpose, scope, and current empty-state boundary for this methodology.
+- [**Reusable Report Template**]({{ '/AI-TREND-WATCH/report-template/' | relative_url }}) — turns the selection rules into a consistent report structure.
+- [**Published Report Archive**]({{ '/AI-TREND-WATCH/REPORTS/' | relative_url }}) — will preserve the outputs that pass selection and review.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — grounds the requirement for equal scrutiny across narrative directions.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps candidate selection and review answerable to their own standard.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether later evidence updates published warnings and forecasts.
