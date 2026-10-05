@@ -390,6 +390,14 @@ The model remains open to all five.
 
 **Primary source:** John Kuhles, *TCoAw Triad Metacognition Deep Ethical Quantum Mind Compact*, written 7 July 2026 and supplied 4 October 2026. Direct formulations are quoted. The connective explanation is an A.I.-assisted editorial synthesis and remains corrigible by John and later evidence.
 
-Related: [Human Insecurity — “Zero fear” and the quantum mind-like state](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/#5-zero-fear-and-the-quantum-mind-like-state) · [John Kuhles — Biography](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) · [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) · [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) · [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) · [Deep Ethical Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
+## Related pages
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/)
+- [**Human Insecurity — Zero fear and the quantum mind-like state**]({{ '/HUMAN-INSECURITY/#5-zero-fear-and-the-quantum-mind-like-state' | relative_url }}) — develops the anxiety-free condition connected here to a wider field of awareness.
+- [**John Kuhles — Biography**]({{ '/BIOGRAPHY/' | relative_url }}) — gives the NDE, Asperger, media, and research context behind this perspective.
+- [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — follows the bridge between individual psychology, mass psychology, A.I. mannerisms, and metapsychology.
+- [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps ambiguity available long enough for materially different relations to emerge.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective process woven through the TCoAw orientation.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object before correction, caution, or intervention captures the field.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — traces how orientation becomes attention, choices, results, notice, and later correction.
+- [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — shows how postponed closure lets a punchline reorganize the preceding journey retrospectively.
+- [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — protects unexpected possibilities before familiar categories close around them.
