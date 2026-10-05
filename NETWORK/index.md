@@ -29,6 +29,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 ## Topology, frames, and cross-intelligence reach
 
 - **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**
+- **[Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/)**
 - [Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 - [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)
 - [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/)
