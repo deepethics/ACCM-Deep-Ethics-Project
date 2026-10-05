@@ -58,3 +58,13 @@ Future pages can document individual entries, specimens, boundary cases, correct
 
 The full source object of the 27 (entries, the note after #18, the final observation, and the closing question) is now at [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/). That page is the source, not a rewrite of this names index. It is not the 52.
 
+---
+
+## Related pages
+
+- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }})
+- [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }})
+- [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }})
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+- [**Inspect the Inspector**]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }})
