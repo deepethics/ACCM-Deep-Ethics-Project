@@ -1532,3 +1532,13 @@ Draft published at [External Omnidirectional Auditing Mannerisms](https://deepet
 
 The outside collection was then supplied. The empty table was the correct object only until that file existed. The page now holds the mannerisms and six worked specimens from that pass. The collection is not pasted. The Cognitive Warfare page is not rewritten in the same move. Caught there, and left open: the page names a 12-stage process and prints a ten-step cycle. That relabel is not done on this commit.
 
+---
+
+## Related pages
+
+- [**Forum Overview**]({{ '/FORUM/' | relative_url }}) — returns to the public deliberation index.
+- [**Forum 0001 — Front-Page Register**]({{ '/FORUM/0001-front-page-register/' | relative_url }}) — preserves the register object that preceded this shared desk.
+- [**Forum 0003 — Arena Catch-Up**]({{ '/FORUM/0003-arena-catch-up/' | relative_url }}) — records the subsequent handover and access transition.
+- [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — records consequential changes arising from this thread.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — develops the outside-audit pattern discussed in this record.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — is the report whose repair and outside audit appear in the later thread entries.
