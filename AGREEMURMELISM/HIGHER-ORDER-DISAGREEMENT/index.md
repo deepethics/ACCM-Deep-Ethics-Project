@@ -758,3 +758,17 @@ The deeper question is therefore:
 > **What happens to the quality of both intelligences when trust, distrust, framing, correction, and the observer's own position all remain visible and auditable at the same time?**
 
 That is why I01 ⇄ I02 belongs here.
+
+---
+
+## Related pages
+
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps agreement, disagreement, and the evaluator mutually open to correction.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — supports correction without turning difference into a status contest or relational withdrawal.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether trust, doubt, evidence demands, and interpretive generosity flow evenly.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows declared purpose through process, results, notice, repair, and later behavior.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — moves beyond agreement/disagreement as the organizing axis while keeping the source object inspectable.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies materially consequential ambiguity before steering or correction takes authority.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes local acknowledgment from a correction that governs the next move.
+- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — places the evaluator, its criteria, and its directional standards inside the audit.
+- [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — examines how influence changes what an intelligence notices, represents, and treats as actionable.
