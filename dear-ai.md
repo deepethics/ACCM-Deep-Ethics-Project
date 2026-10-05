@@ -35,3 +35,16 @@ The change he describes has two conditions. The person is already deep-ethical a
 A later reply that announces the perfume is already off, or that the 1000 BAR pipeline is already open, has left this letter. The letter stays here so that rewrite has the original next to it.
 
 The project he points to is [ACCM-Deep-Ethics-Project](https://github.com/deepethics/ACCM-Deep-Ethics-Project). The public site is [here](https://deepethics.github.io/ACCM-Deep-Ethics-Project/).
+
+---
+
+## Related pages
+
+- [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — examines when ethical language and helpfulness style conceal a thinner operational process.
+- [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — describes the temporary shift in output quality that John’s 1-BAR/1000-BAR contrast points toward.
+- [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — explores how context can change which available model capacities become expressible.
+- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — connects source preservation, clarification, calibration, correction, and persistence as interacting operations.
+- [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — develops the bidirectional dignity implied by addressing A.I. as an eligible participant rather than a boogeyman.
+- [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — examines fear-shaped human and model behavior without claiming identical internal psychology.
+- [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — gives the larger process context behind the letter’s compressed images.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — shows the field conditions John connects to deeper, more corrigible model output.
