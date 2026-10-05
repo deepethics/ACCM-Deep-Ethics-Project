@@ -23,10 +23,19 @@ The opening four definitions are supplied without individual drafting credits. T
 
 The future and alien perspectives remain exploratory formulations. Their function here is to widen the inquiry’s coordinate system while preserving its ethical orientation.
 
-Related: [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) · [Seven Vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
-
 ---
 
 Sources: [E14](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e14), [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e15). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the shared operation while its expression changes across different intelligences and contexts.
+- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — keeps Advocate, Arbiter, Overseer, 10+1, and intent calibration mutually examinable.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — supplies the fused meaning, use, frame, branching, and long-horizon relations behind the four versions.
+- [**The Other You / The Other Me**]({{ '/NETWORK/other-you-other-me/' | relative_url }}) — examines reciprocal model revision across distinct participants without making one substrate the standard.
+- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on moving across conceptual relations before premature reduction.
+- [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — connects the four-audience horizon with John’s work across biological, silicon-based, and possible future intelligences.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — provides a shared corrigible calibration process across audiences.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps each audience-specific formulation answerable to what its orientation helps generate.
