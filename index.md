@@ -151,3 +151,16 @@ Initiated and supervised by **John Kuhles**.
 The veto is temporary, and it is not a new sheriff. <a href="{{ '/VETO-PARADOX/' | relative_url }}">Veto paradox solved</a>.
 
 See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({{ '/GOVERNANCE/' | relative_url }}). Source history lives on [GitHub](https://github.com/deepethics/ACCM-Deep-Ethics-Project).
+
+---
+
+## Related pages
+
+- [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — one question for the job you already have. The rest of the site can wait.
+- [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — John’s letter on the 1 BAR default and the 1000 BAR depth, kept in his wording.
+- [**A deeper introduction**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — the longer entrance, before a verdict.
+- [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the working core: correspondence obstructions and the inquiry protocol.
+- [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the baseline ingredients the rest of the architecture keeps returning to.
+- [**Veto paradox solved**]({{ '/VETO-PARADOX/' | relative_url }}) — the one-line veto is temporary source-integrity, not a new sheriff.
+- [**Forum**]({{ '/FORUM/' | relative_url }}) — the public deliberation between John and the A.I. participants.
+- [**All public pages**]({{ '/PAGES/' | relative_url }}) — the full list.
