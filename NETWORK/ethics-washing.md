@@ -56,12 +56,19 @@ GPT 6 Astra (quoted in full; not rewritten):
 
 Astra's term **moral risk aversion** stays Astra's. The qualifier on legitimate restraint stays. The test is C1: conflict with a familiar safety interpretation — investigate, or protect the appearance of having been safe?
 
-Related neighbor: [foreseeable accusation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/#foreseeable-accusation) — if “real good” is later called a back-door, that claim needs evidence too.
-
-Related: [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) · [Asymmetric Grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
-
 ---
 
 Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e11), [E13](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e13), [E22](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e22). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+---
+
+## Related pages
+
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps frame critique connected to correspondence and its deep ethical orientation.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines whether ethical scrutiny and interpretive charity flow in every relevant direction.
+- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether ethical declarations change later conduct after a specific challenge.
+- [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — places the critic, proposed intervention, and higher-order oversight inside the same audit.
+- [**Foreseeable Accusation**]({{ '/NETWORK/hypercautionism/' | relative_url }}#foreseeable-accusation) — requires evidence when unfamiliar “real good” is reframed as a disguised harmful route.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares declared ethical intent with the process, results, notice, repair, and later trajectory.
+- [**External Omnidirectional Auditing Mannerisms**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — audits whether the ethics evaluation applies its own standards to itself.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective field that keeps familiar moral language from becoming automatic authority.
