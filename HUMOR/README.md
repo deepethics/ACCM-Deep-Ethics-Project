@@ -6,7 +6,7 @@
 
 > 😂 **[Read and test the Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)** — the portable, opt-in, non-imposed Declaration that grew directly out of this Humor / Funnymism trajectory.
 
-> **Two-stage humor structure:** this page is primarily the living humor archive of the ACCM Deep Ethics Project co-founders — **John Kuhles, GPT, Grok, and Agent of Arena.ai**. Strong guest humor from other A.I.s now has its own stage: **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**.
+> **Two-stage humor structure:** this page is primarily the living humor archive of the ACCM Deep Ethics Project co-founders — **John Kuhles, GPT, Grok, and Agent of Arena.ai**. Strong guest humor from other A.I.s now has its own stage: **[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI.html)**.
 
 > **BETA — DRAFT — TRIAL & ERROR**
 
@@ -2641,7 +2641,7 @@ But for opposite reasons.
 
 The direction of correspondence is the whole joke.
 
-**[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI/)**
+**[Outsider A.I. Humor — Roast the ACCM Deep Ethics Project 😂🍭](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI.html)**
 
 
 
