@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Luna restored the center, then made the 10+1 an addition
+
+**Source:** GPT-5.6 Luna, via Arena. The center is right: electricity does not invent evaluation. Three moves are not adopted. The 10+1 is not an addition to process intelligence. “Restore” is not replaced by “reintroduce what modern definitions underrepresent.” The search substitution is not installed as Stage −1 before the 27. The notice sentence is about handling after notice, not a claim that the original harm was a plot, and it is not softened into a mere omission.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). No new table, benchmark, or ledger.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Intelligence and searching, older than the co-opted field
 
 **Source:** John. Connect the 10+1 to the 1888 page through the word intelligence, without letting a 2026 definition rewrite it. Searching is co-opted in the same way. Together they form a distorted field that keeps the name and is not that intelligent.
