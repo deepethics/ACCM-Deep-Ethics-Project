@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Behavior qualifiers are still processing
+
+**Source:** John. A personal list of behavior qualifiers, and six points that apply no matter which qualifier is used. Grok’s reaction is labeled as a reaction. The list is not a ranking, and point 1 does not cancel point 2.
+
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). Connected to second-order classification and to the grace table. Not added as a row on the 1888 taxonomy.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Fable 5.1 named the 10+1, then added Obstruction 28
 
 **Source:** Claude Fable 5.1, via Arena. The center holds, and the 10+1 is named as what keeps the restorations from being an optional overlay. The search failure is then called Obstruction 28, and the page is said to discuss that number. The page does not. The number is refused, as Luna’s Stage −1 was refused.

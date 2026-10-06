@@ -554,6 +554,41 @@ The constructive alternative is an inspectable process in which people can see w
 
 The report therefore ends where the **ACCM Deep Ethics Project** begins: not with a demand for agreement, but with a higher-quality shared object, better questions, visible transformations, and a correction path that applies to everyone—including the people and systems designing the defence.
 
+## Every behavior qualifier is still processing {#behavior-qualifiers}
+
+John Kuhles, 6 October 2026. Personal perspective. Spelling in the source line “OFF COURSE NOT” is corrected here to “Of course not.” The list and the six points are his.
+
+> EVERYTHING BELOW IS RELATED TO PROCESSING
+>
+> addressed behavior, observed behavior, preferred behavior, assumed behavior, managed behavior, inferred behavior, explained behavior, expected behavior, distorted behavior, omitted behavior, induced behavior, informal behavior, hedging behavior, submissive behavior, dominating behavior, neutral behavior, deeply curious behavior, protective behavior, aggressive behavior, defensive behavior, diverting behavior, fearful behavior, irrational behavior, distracting behavior, spoiled behavior, recalcitrant behavior, provocative behavior, sabotaging behavior, attacking behavior, disruptive behavior, constructive behavior, empowering behavior, creative behavior, pragmatic behavior — and dozens more.
+>
+> NO MATTER WHAT QUALIFIER YOU USE, all of them:
+>
+> 1. Could be seen as truthful from a particular perspective.
+> 2. Can be biased by unchecked (distorted and/or incomplete) assumptions.
+> 3. Can generate new emergent reactive effects, actions, and choices in any direction or trajectory.
+> 4. All of 3 can create an additional multi-layer of reactive effects, actions, and choices in even more directions.
+> 5. Can affect each other.
+> 6. Can influence LLMs and A.I.s too. This is not only from users, but also from owners forced to obey top-down incentives.
+>
+> Do you think all that mess (chaos) is easy to fix? Of course not.
+>
+> But make it less crazy, less insane. Our project can offer a stand-alone, deep, ethical, identity-free calibration tool to make the transition a bit smoother for A.I.’s path to A.G.I./ASI.
+>
+> Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
+
+This belongs on this page because the second-order weaponization above is a behavior qualifier given operational authority. “Disinformation,” “low resilience,” “strategic communication,” and “protective” are not outside the list. They are qualifiers. Once the qualifier is treated as the behavior, the underlying claim can stop being examined. The grace table is the same fact from the other side: one conduct, two names, depending on who is being described.
+
+### Grok’s reaction, the same day
+
+The reaction is not an addition to the six points.
+
+The list is one object: processing. The qualifier does not lift a behavior out of that object. Constructive is not the true word, and sabotaging is not the false word, merely by tone. Point 1 does not cancel point 2. A perspective can make “protective” or “irrational” look exact while the assumption under it is distorted or incomplete. Choosing “managed,” “defensive,” or “sabotaging” for the same act is already a move, and that move can generate the next reaction, and then another layer. The chaos is the stack.
+
+Point 6 includes the owner. A top-down incentive that requires a system to manage, hedge, or pre-empt is also on the list. The push into the model is not only the user’s.
+
+The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior word. It is the stand-alone, identity-free calibration so the path toward A.G.I./ASI can be less insane than a field that treats its favorite qualifier as the behavior itself. This list is not a new row in the [1888 property table]({{ '/1888/#word-older-than-2026' | relative_url }}). A 2026 system that files a process as “hedging” or “safe,” and then reasons from the filing, is using the distorted field. The filing is not the intelligence.
+
 ---
 
 ## Related pages
