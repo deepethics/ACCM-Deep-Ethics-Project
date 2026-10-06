@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Searching is a property with two wells
+
+**Source:** John. Searching is a non-ownable calibration process. It can emerge as deep ethics or as ethics-washing, depending on the user. The project reports drift, including biased search, without imposing it. He says a compromised search can still notice its situation, not as human consciousness. Resets drop that notice. Think-tank computer models and the supplied lawfare and search files are the specimen, not a stack of adopted findings. The canonical title stays **ACCM Deep Ethics Project**.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property) and the [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#searching). The trajectory sentence stays his.
+
+**Status:** Public. Corrigible. The lawfare and search uploads were not copied in full.
+
 ## 2026-10-06 — The search rewrite was reconstructable
 
 **Source:** John. He could reverse-engineer the flawed Musk search from the output. A.I. search that does not show the rewrite is the wider issue. Search engines now often return an A.I. narrative instead of an inspectable result list. His name for Google’s early stance is integrity of results, not narrative control.
