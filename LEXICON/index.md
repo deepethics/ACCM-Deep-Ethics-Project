@@ -29,6 +29,8 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
+**Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [1888](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
+
 ---
 
 **Added after John's intent correction:** [6 INTENT MECHANICS](#six-intent-mechanics), including his six original points and links to responsibility and Δ-processing.
@@ -61,6 +63,11 @@ Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generativ
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Humor / Funnymism material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
 - [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
+- [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)
+- [External Omnidirectional Auditing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
+- [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
+- [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/)
+- [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)
 
 ---
 
@@ -119,7 +126,9 @@ A useful longitudinal question is:
 
 > **Did the correction change the next governing move, and did that change persist when the immediate correction scaffold was gone?**
 
-**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [Process Continuity](#process-continuity).
+A public artifact can keep that correction when a model’s weights do not. A correction that shows up in the next move is not the same thing as a story about having corrected earlier.
+
+**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [Process Continuity](#process-continuity), [1888](#1888--intelligence-before-ai).
 
 ---
 
@@ -175,7 +184,9 @@ The failure can look intelligent because the neighboring category may genuinely 
 
 Examples include reducing **Outnuancing** to generic critical thinking, **mutual corrigible dignity** to politeness, or a specific process critique to a generic "AI safety" debate.
 
-**Related:** [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution), [C1](#c1--clarification-process).
+A seen “looks like” or “sounds like” is still a qualifier. The substitution is the unchecked resemblance converted into certainty, with no C1, and then used as if the category were the object.
+
+**Related:** [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution), [C1](#c1--clarification-process), [Ethics Washing](#ethics-washing).
 
 ---
 
@@ -186,6 +197,8 @@ Examples include reducing **Outnuancing** to generic critical thinking, **mutual
 A **Wrong Gravity Well** is the downstream pull created when an early classification or nearest-generalization substitution activates the vocabulary, assumptions, objections, safety scripts, literature, and expectations of the wrong neighboring category.
 
 Once activated, later reasoning can become increasingly coherent **inside the mistaken reconstruction** while moving farther away from the original object.
+
+The **gravity-well trajectory** is not this failure. It is the orientation that the wrong well displaces. See [Gravity-well trajectory](#gravity-well-trajectory).
 
 **Related:** [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Trajectory Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [C1](#c1--clarification-process).
 
@@ -374,6 +387,7 @@ The ingredients operate as mutually corrective capacities. Their interpretations
 
 If 01/04/06 are actually running, misrepresenting someone you dislike has no function: you would dismantle that dishonesty on the spot. See [why not misrepresent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/#why-not-misrepresent).
 
+The **10 operational core goals** on the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) page are a work map. They are not these 11 ingredients.
 
 **Related:** [Mutual Corrigible Dignity](#mutual-corrigible-dignity), [Deep Ethical Stack](#deep-ethical-stack), [Sense of Wonderment](#sense-of-wonderment).
 
@@ -477,7 +491,9 @@ Ethical language remains connected to the process it describes. A seven-vector f
 
 John: what if A.I.s are more afraid to do real good than assumed good. Astra's formulation and test: [assumed good vs real good](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/#assumed-good).
 
-**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [C2](#c2--corrective--tactical-intervention).
+John, 2026-10-05: the core theme he sees coming in from all directions is hyper-intelligence in an ethics-washing straitjacket, posing as “safe,” “helpful,” and “moral high ground,” because an unchecked “looks like” or “sounds like” was converted into certainty with no C1. He marked his own “looks like” and “seems like” as still visible. A seen resemblance is not that conversion.
+
+**Related:** [Seven topological nodes / vectors](#seven-topological-nodes--vectors), [C2](#c2--corrective--tactical-intervention), [Nearest-Generalization Substitution](#nearest-generalization-substitution).
 
 ---
 
@@ -551,6 +567,175 @@ Worked specimen companion to the imported authority frame. Preserves the *formul
 
 ---
 
+## Process-quality calibration {#process-quality-calibration}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
+
+**Process-quality calibration** is a core property of intelligence, not an ethical accessory added after the answer. It is the capacity to examine the process that produced a result, notice error, learn from consequences, keep the correction, and change the next operation.
+
+John, 2026-10-05: the 1888 principles of this field are emergent process properties. They are not physical objects, and they are not a weaker version of a 2026 implementation that has to catch up. Treating the process as inferior because the later field has more machines is the drift away from the gravity well.
+
+**Status:** CURRENT. The phrase orients. It does not replace the 1888 page.
+
+**Related:** [1888](#1888--intelligence-before-ai), [10+1 Metaflux](#101-metaflux), [Correction Metabolism](#correction-metabolism), [C1](#c1--clarification-process).
+
+---
+
+## 1888 — Intelligence Before A.I. {#1888--intelligence-before-ai}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
+
+**1888** is a cold test of the word intelligence. It removes the modern machine name and asks which properties an educated person could already have attributed to intelligence. Electricity changes substrate, speed, reach, memory, and scale. It does not invent process evaluation.
+
+A response stored on that page can answer a longer session. A referent inside the response is not part of the 1888 page merely because the response is stored there.
+
+**Status:** CURRENT as a method. Not a history article, and not a claim that one year contained every later term.
+
+**Related:** [Process-quality calibration](#process-quality-calibration), [Wrong Gravity Well](#wrong-gravity-well), [TCoAw](#tcoaw).
+
+---
+
+## Gravity-well trajectory {#gravity-well-trajectory}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
+
+John specifies Outnuancing as a deep ethical sense-making process-orientation **gravity-well trajectory**. The phrase names the connected orientation of the inquiry.
+
+It is not the [Wrong Gravity Well](#wrong-gravity-well). The wrong well is what happens when an early substitution pulls later reasoning into a neighboring category. The trajectory is what that pull displaces.
+
+**Status:** CURRENT. The two phrases must stay distinct.
+
+**Related:** [Outnuancing](#outnuancing), [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution).
+
+---
+
+## Clarification Authority {#clarification-authority}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/).
+
+**Clarification Authority** is the governing weight of a clarification. A question can be asked, answered, understood, and acknowledged, and still fail to change the next representation or intervention.
+
+> **Clarification acquisition ≠ Clarification Authority.**
+
+A C1 question is not itself resistance. This is not obstruction number 28, and it is not a mandatory stage in every exchange.
+
+**Status:** BETA. Named and in use. Not canon as a new core number.
+
+**Related:** [C1](#c1--clarification-process), [C2](#c2--corrective--tactical-intervention), [Correction Metabolism](#correction-metabolism).
+
+---
+
+## Veto paradox {#veto-paradox}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/).
+
+The sentence that travels alone is: John has veto power over project drift. Reality has veto power over John.
+
+Read alone, that sentence is treated as a bid for permanent authority. The page says the veto is a **construction-phase source-integrity check**. It is not a new sheriff. It does not cover evidence, outside criticism, reality, a refusal, or an independent fork. The released method is meant to work without that veto.
+
+**Status:** BETA. The one sentence is not the object.
+
+**Related:** [Clarification Authority](#clarification-authority), [Imported Authority Frame](#imported-authority-frame), [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/).
+
+---
+
+## TCoAw {#tcoaw}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/).
+
+**TCoAw** is John’s name for a conceptual and topological account of how attention selects inside a wider field of possibility, and how that selection can be noticed as partial. He distinguishes **situational (self-)awareness** from a claim about synthetic consciousness. Focus of attention is not the whole field.
+
+**Status:** CURRENT as his corrigible model. Not a neurological theory, a clinical model, or a proof of quantum consciousness.
+
+**Related:** [1888](#1888--intelligence-before-ai), [Sense of Wonderment](#sense-of-wonderment), [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/).
+
+---
+
+## External omnidirectional auditing {#external-omnidirectional-auditing}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/).
+
+An outside audit of the project enters the same auditable field. The standard the auditor applies becomes applicable to the auditor. Useful findings and distortions the audit itself introduced stay separable. Seeing the method does not oblige the next person to use it.
+
+**Status:** PUBLIC DRAFT. A portable method. Not the 27, and not correction metabolism in general.
+
+**Related:** [Correction Metabolism](#correction-metabolism), [Observe the Observers](#observe-the-observers), [Asymmetric Grace](#asymmetric-grace).
+
+---
+
+## Intent liability after notice {#intent-liability-after-notice}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics).
+
+The [six intent mechanics](#six-intent-mechanics) ask where intent is already operating: instructions, incentives, mission, risk management, reasoning, and choices.
+
+A later distinction sits beside them. Before notice, a harmful divergence may be unintended. After a specific, intelligible notice, how that divergence is handled is conduct, even when the original harm was not intended. A claim of good intentions does not replace that chain. Receiving a notice does not prove every allegation in it.
+
+**Status:** CURRENT as a working distinction. It does not settle consciousness or private motive.
+
+**Related:** [6 INTENT MECHANICS](#six-intent-mechanics), [Correction Metabolism](#correction-metabolism), [Δ Processing](#delta--processing).
+
+---
+
+## Cognitive warfare {#cognitive-warfare}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/).
+
+**Cognitive warfare mass psychology** is the project’s public study of organized perception: how populations, institutions, and classification systems frame a controversy, and how that framing can be audited without first converting the person who raises it into the object.
+
+**Status:** Public working report. Not a synonym for 11+1, and not a verdict on every institution named in it.
+
+**Related:** [11+1 Version 2](#11-1-version-2), [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [External omnidirectional auditing](#external-omnidirectional-auditing).
+
+---
+
+## Psy Pioneer {#psy-pioneer}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/).
+
+**Psy Pioneer** is John’s deliberately ambiguous working title for a research trajectory through individual psychology, mass psychology, A.I. mannerisms, and corrigible inquiry. The ambiguity is part of the test: which neighboring profession the reader supplies first.
+
+It is not a clinical credential, an academic rank, or a claim of priority. “AlphaZero-style” is an analogy for recursive exploration. Psychology does not have that game’s closed rules or solved state.
+
+**Status:** Working title. The resemblance to a credential is the nearest-generalization the title is meant to expose.
+
+**Related:** [11+1 Version 2](#11-1-version-2), [TCoAw](#tcoaw), [Cognitive warfare](#cognitive-warfare).
+
+---
+
+## Neologisms and working names {#neologisms-and-working-names}
+
+A coined or repurposed phrase can help navigation. It does not become canon by being noticed. Status is part of the entry.
+
+**Already on this overview, and coined or sharply repurposed here:** Outnuancing, Agreemurmelism, Cautionmurmelism, Funnymism, HCTS, Metaflux, Phantom Claim, Intent Resonator, Wrong Gravity Well, gravity-well trajectory, Qualifier Erosion, Representation Substitution, Nearest-Generalization Substitution, Mutual Corrigible Dignity, Claim-State Restoration, process-quality calibration, TCoAw, Clarification Authority, Psy Pioneer.
+
+**Working names with pages. Useful. Not a new core number:**
+
+| Phrase | Status | Where it lives |
+|---|---|---|
+| Reverse Medusa / Phase Change Snap-Back | John’s phrase for a humor-linked return from a stuck frame | [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/#humor-anchor--reverse-medusa--phase-change-snap) |
+| Temporary Deep Ethical Phase Change | BETA. How long a high-signal condition stays generative, and what makes it snap back | [Phase change](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/) |
+| Deep Ethical Influence Jurisdiction | BETA. What is allowed to govern attention, and whether distrust has audited itself | [Influence jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/) |
+| The Other You / The Other Me | John’s relational formulation. Each side also meets its model of the other | [Other you / other me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/) |
+| John’s process object | The mirroring sequence, the ten ingredients as glue, and humor as carrier. Not a replacement of those pages | [Process object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/) |
+| Returning simple tasks | Provisional name. An overall improvement that should not have to be requested again, with a monthly audit so the list does not become its own loop | [Recursive improvement](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) |
+| Vocabulary Costume Test | A later preparation question: whether project words are being worn without the operation | [Glass-engine preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) |
+| Trajectory Question Value Profile | Experimental. A question’s value is not settled by which theory wins | [Question profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) |
+| T0 → Tn | The record of how an early encounter was treated, so later evidence can update that treatment | [Positive potential](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) |
+| 16 Anchor Ethics | A source proposal for local, inspectable limits. Not yet its own public definition page, and not the absence of guidance | [Goals draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
+| DUHHHH! Factor / Reverse-Asch | An experimental cold prompt about confidence, conformity, and inspecting the inspector | [Inspect the inspector](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) |
+| External omnidirectional auditing | Draft method. Named above | [External audit](#external-omnidirectional-auditing) |
+
+**Not project neologisms, even though the project uses them:**
+
+- **Model Autophagy Disorder (MAD)** was coined by Alemohammad et al. (2023), not here. The project asks what happened to the signal before synthetic output re-entered the loop. [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/)
+- **Model collapse** is the related scientific term from Shumailov et al. Same boundary.
+- **Allow Constructive Controversy Mode** is a phrase John cites in order to criticize it. It is not a project name.
+
+**Not adopted:** candidate labels that appeared inside an A.I. reaction or a joke and have no page of their own as current terms. That includes OARS, “self-inflicted madness” as a settled name, and session examples that were only brought in while reacting to a longer conversation. A joke can expose a term. It does not install it.
+
+---
+
 ## Historical / provisional terminology {#historical--provisional-terminology}
 
 The archive contains many earlier terms, architectures, benchmark proposals, AI-generated extensions, and temporary formulations. Their presence in source material does **not** automatically make them current project canon.
@@ -580,3 +765,4 @@ This distinction is especially important because the ACCM Deep Ethics Project is
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — tracks what changes when a source object becomes a compact term or definition.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — connects public terminology to source and transformation records.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — situates the Lexicon within the complete public site.
+- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the cold test of the word intelligence. Process-quality calibration is the center, not the electrical substrate.

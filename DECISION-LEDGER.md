@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Lexicon overview expanded
+
+**Request:** John asked to expand the [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) with the missing objects found in the whole-project study, deploy it, and look for further neologisms.
+
+**Change:** Compact entries were added for process-quality calibration, 1888, the gravity-well trajectory, Clarification Authority, the veto paradox, TCoAw, external omnidirectional auditing, intent liability after notice, cognitive warfare, and Psy Pioneer. Four older entries gained a boundary: correction metabolism, nearest-generalization, the wrong gravity well, 10+1, and ethics washing. A neologism list separates coined project language, experimental working names, borrowed scientific terms, and names that were not adopted.
+
+**Not done:** No new lexicon sub-pages. Session leftovers were not turned into terms. Model Autophagy Disorder is marked as coined elsewhere.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-05 — Opus reading stored with its off-page referents named
 
 **Source:** John supplied a response from Claude-Opus-5.5-search A.I. via Arena.ai, 5 October 2026.
