@@ -104,3 +104,4 @@ The fuller record is on [Human Insecurity, LLMs, Psychology & Mass Psychology](h
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether the fuller lifecycle changes later summaries of the one-line sentence.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares the declared purpose of stewardship with how a concrete veto is used and what it produces.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps both the steward and the auditor answerable to the standards they apply.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — a campaign that promises to control the path is the permanent office this page already refuses.

@@ -120,3 +120,4 @@ These quotations do not establish that every unfamiliar idea is valuable, that e
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — links early treatment with later vindication, disconfirmation, or revision.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves the contributor’s agency during bounded testing and correction.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps early responses visible beside later outcomes.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — a fate story about A.G.I./A.S.I. does not get to close an early encounter before the record can change.

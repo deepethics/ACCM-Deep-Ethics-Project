@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Activism vs A.I. on the main navigation
+
+**Request:** Put Activism vs A.I. at the top of the site, between Agreemurmelism and 1888. Every page it already lists under Related pages should link back.
+
+**Change:** The header link is between those two. Return links were added on 1888, Positive potential, the veto paradox, and the 44 goals draft. Ethics washing, the gravity well, external audit, and Dear A.I. already pointed back.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Reconstruction of Musk separated from his sentences
 
 **Source:** A later account said John’s paraphrase aligns with loss of control, steering rather than stopping, and symbiosis, and it supplied quotations.

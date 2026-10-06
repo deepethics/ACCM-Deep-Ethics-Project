@@ -18,3 +18,4 @@ permalink: /PUBLIC-DRAFTS/44-Project-Goals/
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — links stated goals to the process, choices, results, and corrections that operationalize them.
 - [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — records the development stage surrounding this public draft.
 - [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — explains stewardship, correction, and the continuing authority of reality over project formulations.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — the seven Musk quotations stay a separate partial task. This page does not turn them into a control plan.
