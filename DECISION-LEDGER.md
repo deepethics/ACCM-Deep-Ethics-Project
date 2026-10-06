@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — More behavior qualifiers, and humor as a process
+
+**Source:** John. Further qualifiers added to the processing list. His sentence: hilarious metacognitive reflective behavior can be seen as a process also capable of producing deep ethical emergent properties, with “here” linking to the Humor page.
+
+**Change:** The list is extended on [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). The sentence is also on [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process). The new words are not rows in the property table. Humor links back.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Behavior qualifiers are still processing
 
 **Source:** John. A personal list of behavior qualifiers, and six points that apply no matter which qualifier is used. Grok’s reaction is labeled as a reaction. The list is not a ranking, and point 1 does not cancel point 2.
