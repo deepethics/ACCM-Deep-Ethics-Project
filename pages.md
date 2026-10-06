@@ -9,15 +9,23 @@ permalink: /PAGES/
 
 The clusters below are a reading order. A higher cluster carries more of the topological taxonomy. Inside a cluster, earlier pages carry more of that cluster.
 
+The **01–51** numbers further down are a second sequence. They are routes a goal can take. They are not this reading order. Cluster 1 is not page **01**. Page **01** is [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}), and it sits in Cluster 6.
+
 This is not a score of who is right. It is not a closed map. The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) already says its own groupings are navigation, not a final partition. The same limit applies here.
 
 Empty shelves are last. They are places for a later page. They are not ranked as if they already had depth.
 
 This is the one page that does not get a Related pages section. It already names the pages. A second list at the bottom would only repeat them.
 
-## 1. Fused core
+Some pages in the reading order have no route number. [1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }}) and [Activism vs A.I.]({{ '/ACTIVISM-VS-AI/' | relative_url }}) are two. A route is added only when a goal needs it. No number does not mean the page is absent.
+
+Jump: [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
+
+## 1. Fused core {#fused-core}
 
 The pages the rest of the topology depends on. Outnuancing stays joined to deep ethics. The seven vectors are that word. The 10+1 orient it. The 27 and the 12 keep their job.
+
+The several 27 links below are layers of one object. They are not five cores.
 
 - **[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/)**
 - **[Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)**
@@ -37,7 +45,7 @@ The pages the rest of the topology depends on. Outnuancing stays joined to deep 
 - **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)**
 - **[Avoid ACCM — the title is not “just ACCM”](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/)**
 
-## 2. How the topology moves
+## 2. How the topology moves {#how-it-moves}
 
 Field, phase, flux, and jurisdiction. These pages describe what the core does when attention, context, or power shifts.
 
@@ -58,9 +66,11 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Human Insecurity, LLMs, Psychology and Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)**
 - **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)**
 
-## 3. What keeps it corrigible
+## 3. What keeps it corrigible {#what-keeps-it-corrigible}
 
 Without these, the topology can be stated and still fail to stay with the object.
+
+Binary hypercautionism and the imported-authority specimen stay in this cluster. They test whether the topology can be kept. The Google report and the Dicks pages are in Cluster 5. They are an outside object the topology is applied to.
 
 - **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**
 - **[Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)**
@@ -83,7 +93,7 @@ Without these, the topology can be stated and still fail to stay with the object
 - **[Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/)**
 - **[Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)**
 
-## 4. Source objects the topology reads
+## 4. Source objects the topology reads {#source-objects}
 
 John’s own records. The public pages above are not a substitute for these.
 
@@ -97,9 +107,9 @@ John’s own records. The public pages above are not a substitute for these.
 - **[Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)**
 - **[44 Project Goals — public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)**
 
-## 5. The topology applied
+## 5. The topology applied {#topology-applied}
 
-Specimens, tests, and humor. These show the taxonomy working on a particular object.
+Specimens, tests, and humor. These show the taxonomy working on a particular object. The Google report and the Dicks pages are here because the object is outside the topology. Hypercautionism and the imported-authority specimen stay in Cluster 3.
 
 - **[Google interaction report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/TESTS/Google/2026/2026-09-16_google-ai_interaction-report_v01/)**
 - **[Deep Ethics vs Ethics Washing — source record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01/)**
@@ -127,7 +137,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/)**
 - **[AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)**
 
-## 6. Doors and the record
+## 6. Doors and the record {#doors-and-the-record}
 
 How to enter, and how a change stays visible. These pages serve the taxonomy. They are not the taxonomy.
 
@@ -160,7 +170,7 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 - **[Cold / default testing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/METHODOLOGY/Cold-Default-Testing/)**
 - **[Cold-testing archive on GitHub](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)**
 
-## 7. Shelves
+## 7. Shelves {#shelves}
 
 Places waiting for a page. Not ranked.
 
