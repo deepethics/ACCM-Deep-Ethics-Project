@@ -20,6 +20,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Public. Corrigible.
 
+**Later note, same day:** The paste arrived labeled gpt-6-sol-search-max. A later message, labeled claude-opus-5.5-search, says those sentences match its own previous reply, that “checked on the live Lexicon” was too strong, and that the platform label should not be settled from the model side. This note does not reassign the finding. The page correction stands. No Lexicon entry was added for the publication-state distinction.
+
 ## 2026-10-06 — Activism vs A.I. on the main navigation
 
 **Request:** Put Activism vs A.I. at the top of the site, between Agreemurmelism and 1888. Every page it already lists under Related pages should link back.
