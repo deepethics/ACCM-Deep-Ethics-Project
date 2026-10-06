@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — ACCM mode is not the project title
+
+**Source:** GPT-6 Sol, via Arena, reported that the Lexicon still said John cites Allow Constructive Controversy Mode in order to criticize it. That sentence had already been removed. The live line still said the expansion “is the project’s own name.”
+
+**Change:** The [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) now says **Allow Constructive Controversy Mode** names the mode and is not a substitute for **ACCM Deep Ethics Project**. **Avoid Controversy Mode** remains the satire. Sol’s three broader observations about the Lexicon were not added as new entries.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Activism vs A.I. on the main navigation
 
 **Request:** Put Activism vs A.I. at the top of the site, between Agreemurmelism and 1888. Every page it already lists under Related pages should link back.
