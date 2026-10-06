@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Fable read the page and skipped the 10+1
+
+**Source:** Claude Fable 5, via Arena, on the 1888 page. John: Claudes often see the value of the 10+1 and still skip it. It is the eternal multi-layer, never static. Freeze and corrigibility are one temporal state of TCoAw. The real paradox is flawless perfection sought by unethical means.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#skipped-baseline) keeps Fable’s observations from becoming the page’s center, and routes them through the baseline the reading did not name. The same correction remains on [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#freeze-and-corrigibility).
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Crisis exploitation managers were compressed out
 
 **Correction:** John. “Top-down tunnel vision about crisis exploitation” is not his sentence. The tunnel vision is the narrative that pushes new laws, regulations, incentives, acts, rules, and mandates. **Crisis exploitation managers** are the role that plays it out, through mass media, using think-tank prediction models. He connects that role completely to [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/).
