@@ -275,3 +275,4 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 - [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — is the field being calibrated. The 10+1 is not one of those clusters.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost so a correction can land.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.
+- [**TCoAw — freeze and corrigibility**]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}) — seeing the value of a distinction is not the same as keeping this baseline in the next move.
