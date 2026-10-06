@@ -340,7 +340,7 @@ That yields the fuller question:
 
 ### A process is not an A–J endpoint {#process-not-a-to-j-endpoint}
 
-#### John Kuhles — Updated Draft V1.2, October 4, 2026 {#updated-draft-v12}
+#### John Kuhles — Updated Draft V1.2, October 6, 2026 {#updated-draft-v12}
 
 > **A “process” is not:**
 >

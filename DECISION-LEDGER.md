@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Process-is-not draft dated October 6
+
+**Source:** John. Updated Draft V1.2, October 6, 2026. A process is not A–J. The tool is collapsed into that range. Value is not agreement. Value can connect to Deep Ethical Intent. The six intent mechanics are the link he names.
+
+**Change:** The draft was already on [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#process-not-a-to-j-endpoint), dated October 4. The heading date is now October 6. The wording matches. The stray apostrophe after “belief system” is not adopted. A–J may pass through a process. They do not get jurisdiction over it.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — The formula of the 124 is never finished
 
 **Source:** John. If the 124 are in flux, and their effects depend on other social-factor dynamics, the computational formula is never finished. Crisis can make the mess worse. The question is how to calculate the true dynamics.
