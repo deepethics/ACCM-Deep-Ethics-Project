@@ -724,6 +724,8 @@ John, 6 October 2026. The numbers below are the recalibrated sequence. A cluster
 **123.** Responsive behavior
 **124.** Attentive behavior
 
+John, the same day: the dynamics of all 124 are not easy to predict, in how they can affect each other directly and indirectly. That is why ethics is way more complex than the three-body problem in physics. The three-body comparison is the scale of the joke. It is not a claim that ethics is a physics equation, and it is not a method for predicting which qualifier produces which next qualifier. Direct effects, indirect effects, and further layers remain open. The index does not close them.
+
 This belongs on this page because the second-order weaponization above is a behavior qualifier given operational authority. “Disinformation,” “low resilience,” “strategic communication,” and “protective” are not outside the list. They are qualifiers. Once the qualifier is treated as the behavior, the underlying claim can stop being examined. The grace table is the same fact from the other side: one conduct, two names, depending on who is being described.
 
 ### Grok’s reaction, the same day
