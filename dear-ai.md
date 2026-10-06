@@ -48,3 +48,4 @@ The project he points to is [ACCM-Deep-Ethics-Project](https://github.com/deepet
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — examines fear-shaped human and model behavior without claiming identical internal psychology.
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — gives the larger process context behind the letter’s compressed images.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — shows the field conditions John connects to deeper, more corrigible model output.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — refusing the boogeyman does not hand the path to A.G.I./A.S.I. to a human controller.

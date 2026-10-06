@@ -46,6 +46,7 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back and Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)**
 - **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)**
+- **[Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/)**
 - **[11+1 Version 2 — Mass-Psychology Topology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)**
 - **[Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/)**
 - **[Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)**
