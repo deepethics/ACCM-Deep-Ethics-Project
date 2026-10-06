@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — 11+1 freeze is the count
+
+**Source:** Claude Sonnet, via Arena, asked whether “frozen provisionally” freezes only the 11+1 count or also the item placements.
+
+**Change:** The [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) now says the freeze is the count. Cluster 8, item 111, and items 138–140 are the current coordinates. They change when the deeper page’s conditions are met. “Provisional” does not permit reseating 111 inside Cluster 1. Sonnet’s other five observations were not added as entries.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — ACCM mode is not the project title
 
 **Source:** GPT-6 Sol, via Arena, reported that the Lexicon still said John cites Allow Constructive Controversy Mode in order to criticize it. That sentence had already been removed. The live line still said the expansion “is the project’s own name.”
