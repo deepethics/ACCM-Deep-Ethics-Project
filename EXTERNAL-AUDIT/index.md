@@ -120,3 +120,4 @@ If that is all an outsider uses, the page has done its job. The project links ab
 - [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — provides a compact worked case in which the evaluator’s authority assumption was corrected.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves both a readable public account and the record needed to inspect its transformation.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the wider obstruction and restoration vocabulary without replacing the audit’s local object.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — an outside demand can overlap the project and still be audited, including its own control claim.

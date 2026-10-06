@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Activism vs A.I.
+
+**Request:** John asked for a page called Activism vs A.I. It is to show the danger of assuming humans can control the path to A.G.I./A.S.I., to study what Elon Musk said about the fate of humanity, and to ask what that illusion means for “activism.”
+
+**Change:** [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) is a public draft. Humans in control and A.I.s in control are both refused. Musk’s 2014, 2025, and 5 October 2026 sentences are quoted and dated, and not merged into one verdict. The seven quotations in the goals draft are left as a separate object. The page is linked from All Pages and from ethics washing, the gravity well, external audit, and Dear A.I.
+
+**Status:** Public draft. Corrigible. Not a campaign, and not a membership.
+
 ## 2026-10-06 — ACCM is the project's own expansion
 
 **Correction:** The lexicon had said Allow Constructive Controversy Mode was not a project name. That was wrong. **ACCM** expands to **Allow Constructive Controversy Mode**. **Avoid Controversy Mode** is John's satire of the counterargument. The canonical title remains **ACCM Deep Ethics Project**.

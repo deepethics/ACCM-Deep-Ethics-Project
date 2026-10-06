@@ -72,3 +72,4 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — compares declared ethical intent with the process, results, notice, repair, and later trajectory.
 - [**External Omnidirectional Auditing Mannerisms**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — audits whether the ethics evaluation applies its own standards to itself.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective field that keeps familiar moral language from becoming automatic authority.
+- [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — a demand to force the ethical outcome can be the distortion, whether the promised controller is human or A.I.
