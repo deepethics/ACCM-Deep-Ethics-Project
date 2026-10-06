@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — The search rewrite was reconstructable
+
+**Source:** John. He could reverse-engineer the flawed Musk search from the output. A.I. search that does not show the rewrite is the wider issue. Search engines now often return an A.I. narrative instead of an inspectable result list. His name for Google’s early stance is integrity of results, not narrative control.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#search-not-shown) records that. Beside it: the mission statement, “Don’t be evil,” Page’s 2004 line about getting the user to the right place, and the 1998 warning that advertising-funded search is biased toward advertisers. “Integrity results” stays his contrast, not a slogan.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Three angles, not the overview’s bridge
 
 **Source:** A later overview joins X as collective consciousness, truth-seeking at xAI, and Neuralink bandwidth. It titles the middle angle “feeding the better part” to A.I.
