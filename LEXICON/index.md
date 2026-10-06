@@ -730,7 +730,7 @@ A coined or repurposed phrase can help navigation. It does not become canon by b
 
 - **Model Autophagy Disorder (MAD)** was coined by Alemohammad et al. (2023), not here. The project asks what happened to the signal before synthetic output re-entered the loop. [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/)
 - **Model collapse** is the related scientific term from Shumailov et al. Same boundary.
-- **Allow Constructive Controversy Mode** is a phrase John cites in order to criticize it. It is not a project name.
+- **Allow Constructive Controversy Mode** is the expansion of **ACCM**. It is the project's own name. **Avoid Controversy Mode** is John's satire of the counterargument, not a second project title. [Avoid shortening the title](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/)
 
 **Not adopted:** candidate labels that appeared inside an A.I. reaction or a joke and have no page of their own as current terms. That includes OARS, “self-inflicted madness” as a settled name, and session examples that were only brought in while reacting to a longer conversation. A joke can expose a term. It does not install it.
 
