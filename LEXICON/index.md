@@ -43,7 +43,9 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 Items 001–107 are the material from which that topology emerged. Items 108–140 refine it. They do not get to parent it after the fact.
 
-The count is frozen provisionally. The claims are not. Topological home and evidentiary status are separate axes. A hypothesis can sit in a cluster without becoming load-bearing.
+The count is frozen provisionally. The claims are not. The freeze is the count: eleven distortion clusters plus one field. It is not a second freeze on every placement, and it is not permission to reseat an item and still call the map 11+1. Topological home and evidentiary status are separate axes. A hypothesis can sit in a cluster without becoming load-bearing.
+
+Cluster 8, item 111, and items 138–140 are the current coordinates inside that count. A placement changes only when the deeper page’s own conditions are met. Those include evidence that 8a and 8b are no longer one cluster, a better account of 111 that still keeps it as sabotage of the +1, or John rejecting a placement. Until then, 111 is not the last step of Cluster 1.
 
 Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generative mediation. Item 111 is an attack edge on the +1, not the last step of Cluster 1. Items 138–140 are corrective operators: vigilance, grounding, sovereignty.
 
