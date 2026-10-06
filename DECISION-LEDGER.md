@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Reconstruction of Musk separated from his sentences
+
+**Source:** A later account said John’s paraphrase aligns with loss of control, steering rather than stopping, and symbiosis, and it supplied quotations.
+
+**Change:** [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) keeps the three-part grouping. It does not adopt the stitched or unfound lines, including the October 2026 sentence that would have given Musk the word “guide.” It adds the statements that held: the 2023 uber-nanny scene, the 2016 house-cat and symbiotic-layer sentences, the 2018 symbiosis tweet, the Axios “long-term aspiration,” and the 2017 merger and bandwidth sentences. Symbiosis is his method for the hope John named. It remains a seat.
+
+**Status:** Public draft. Corrigible.
+
 ## 2026-10-06 — John’s Musk sentence connects completely
 
 **Correction:** Separating the word “guide” from Musk’s tokens had made the correspondence look partial. John said the connection to his sentence is 100%.

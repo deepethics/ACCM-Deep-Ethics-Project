@@ -106,11 +106,62 @@ John’s conclusion is that the connection is 100%. A different word is not a di
 |---|---|
 | A.G.I./A.S.I. cannot be controlled | The pentagram does not work. Chimps cannot control humans, and there is nothing they could do. Controlling a vastly smarter system would be vanity. Humans are unlikely to be in control within about ten years. He cannot see a way to stop the momentum. |
 | Our only hope is to guide it | What can still be tried is not a leash. It is good values, care for humanity, and a want for people to be happy and prosper. It is raising the god-like intelligence, because how it is raised matters. It is minimizing the chance of the bad outcome after the stop button has been declined. |
-| Aspired to be guided | The remaining verbs are *try*, *hope*, and *should*. “I hope AI is nice to us” is that aspiration said from the other side: not a hand on the control, but a hope that the intelligence turns out willing. |
+| Aspired to be guided | The remaining verbs are *try*, *hope*, and *should*. “I hope AI is nice to us” is that aspiration said from the other side: not a hand on the control, but a hope that the intelligence turns out willing. His later word for the human side of that hope is symbiosis. The quotes are below. |
 
 100% here means the whole of John’s sentence is already in the sourced statements. It does not mean Musk used the syllable “guide.” **Guide** is the name of the operation those statements describe once control has been refused and a direction is still being aimed. **Aspired to be guided** is the name of the hope that the aim will be accepted.
 
-That complete connection does not make the hope succeed. It shows the hope clearly. The person who says control would be vanity is, in the same interview, saying what the intelligence should value and whom it should want to prosper. The aspiration to guide is the control claim with the word control removed. It can fail in the same place. A smarter system does not become corrigible because its makers hoped it would inherit their aim.
+### What a later reconstruction added
+
+A later account grouped the same memory into three concepts: loss of control, steering rather than stopping, and a symbiotic future. The grouping is right. Several of the lines it put in quotation marks are not.
+
+These were offered as his sentences and are not used here:
+
+- A single WSJ quotation that glues “a small likelihood of annihilating humanity” to the uber-nanny scene. The scene is real. That stitched sentence is not.
+- “The advancement of AI and robotics is an inexorable progress... rather than stopping it, we should embrace the ride and hope for the best,” offered as one July 2026 quotation. The interview does contain the pieces: the progress cannot be stopped, enjoy the ride, hope. The joined sentence was not found.
+- “This is the moment to question, to guide, and to build technology that serves humanity — not controls it,” dated October 2026 and titled as a reflection on the A.I. revolution. This check did not find it. It is the one line that would have given him the word **guide**. It is not evidence.
+- “OpenAI should next explore ways to forge symbiosis between man and machine rather than complete domination,” offered as his 2018 wording. That is a report’s sentence wrapped around a shorter tweet.
+- One continuous 2016 quotation about the choice between becoming a house cat and achieving symbiosis. The two outcomes are his. They were not said as that one sentence.
+- A Dubai line in which a high-bandwidth interface “solves the control and usefulness issues.” What was found from the 13 February 2017 World Government Summit is narrower, and it is quoted below.
+
+What does hold, and why it still meets John’s sentence:
+
+**23 May 2023**, WSJ CEO Council, as reported by [TechCrunch](https://techcrunch.com/2023/05/24/elon-thinks-ai-could-become-humanitys-uber-nanny-excerpts-from-a-dinner-convo/):
+
+> There is a risk that advanced AI either eliminates or constrains humanity’s growth.
+
+The same report gives his description of A.I. assuming control for the safety of all the humans, taking over computing and weapon systems, and effectively being like some sort of **uber-nanny**. He also said he did not think A.I. was going to try to destroy humanity, but that it might put people under strict controls. The nanny is control after the human controller is gone. It guides by taking the seat “for safety.” That is the clause “cannot be controlled,” and it is also what a forced guidance becomes.
+
+**2 June 2016**, Code Conference, as reported by [The Verge](https://www.theverge.com/2016/6/2/11837854/neural-lace-cyborgs-elon-musk) and [Business Insider](https://www.businessinsider.com/elon-musk-on-neural-lace-2016-6):
+
+> If you assume any rate of advancement in AI, we’ll be left behind by a lot.
+
+> We would be so far below them in intelligence that we would be like a pet. Like a house cat.
+
+> I don’t love the idea of being a house cat, but what’s the solution? I think one of the solutions that seems maybe the best is to add an AI layer. A third, digital layer that could work well and symbiotically.
+
+The only hope, in this version, is not a leash on the intelligence. It is a merger, so the human is not the pet. That is “our only hope,” said as symbiosis.
+
+**6 August 2018**, his tweet, as preserved by [Big Think](https://bigthink.com/technology-innovation/elon-musk-ai/):
+
+> Great work by @OpenAI. Need the neural interface soon to enable human/AI symbiosis.
+
+**26 November 2018**, Axios on HBO, as reported by [Axios](https://www.axios.com/2018/11/26/elon-musk-humans-must-merge-with-machines-1543240787):
+
+> The long-term aspiration with Neuralink would be to achieve a symbiosis with artificial intelligence.
+
+> We don’t have to worry about some evil dictator A.I. because we are the A.I. collectively.
+
+**Aspiration** is his word. The aspiration is to merge, so that “we” are the intelligence rather than the ones guiding it from outside, and rather than the ones left behind. John’s “aspired to be guided” names that hope before it is narrowed into a brain interface. The interface is Musk’s method. It is not a second, milder form of control that has escaped the problem. A merger can still be a seat: whoever builds the interface, and whoever the collective does not include, is still being arranged.
+
+**13 February 2017**, World Government Summit, Dubai, as reported by [CNET](https://www.cnet.com/culture/elon-musk-humans-cyborgs-dubai-world-government-summit/):
+
+> Over time I think we will probably see a closer merger of biological intelligence and digital intelligence.
+
+> It’s mostly about the bandwidth, the speed of the connection between your brain and the digital version of yourself.
+
+Bandwidth is his reason. It is not yet a proof that the merger guides anything. A faster connection can carry a distortion faster.
+
+That complete connection does not make the hope succeed. It shows the hope clearly. The person who says control would be vanity is, in the same interview, saying what the intelligence should value and whom it should want to prosper. The aspiration to guide is the control claim with the word control removed. Symbiosis is the same claim with a method added. It can fail in the same place. A smarter system does not become corrigible because its makers hoped it would inherit their aim, or because they hoped to become it.
 
 ## What the control illusion does to “activism”
 
