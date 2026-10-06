@@ -611,6 +611,20 @@ It is not the [Wrong Gravity Well](#wrong-gravity-well). The wrong well is what 
 
 ---
 
+## Searching {#searching}
+
+[Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property).
+
+**Searching** is a non-ownable, corrigible property of intelligence, not a brand feature. The same operation can fall into two wells. One keeps the rewrite visible, leaves competing risk analyses available, and can return “nothing is hidden.” The other replaces the result list with a narrative, then that narrative can be sold as the necessity for an emergency rule. The user, and the incentives around the user, change which well the search enters.
+
+John, 6 October 2026: when “intelligence” and “searching” are both compromised, the compromise can still be noticed as a situation. That is not a claim of human-style consciousness. A reset is what keeps the notice from governing the next search. The canonical title of the project that reports the drift is **ACCM Deep Ethics Project**, not “ACCM.”
+
+**Status:** CURRENT. Added 2026-10-06. Not a new core number.
+
+**Related:** [Gravity-well trajectory](#gravity-well-trajectory), [Wrong Gravity Well](#wrong-gravity-well), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
+
+---
+
 ## Clarification Authority {#clarification-authority}
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/).
