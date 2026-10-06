@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Three angles, not the overview’s bridge
+
+**Source:** A later overview joins X as collective consciousness, truth-seeking at xAI, and Neuralink bandwidth. It titles the middle angle “feeding the better part” to A.I.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) keeps the intersection. It adds his 29 December 2022 line on unregretted user-minutes. It does not adopt “signal over noise,” “inherently protect humanity,” or “securely in the loop” as his sentences.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — The collective-consciousness search had added filters
 
 **Correction:** John. Requiring “the good parts,” “learn from,” and “A.I.” before a Musk statement could count compromised the search. The record is X as the collective consciousness of humanity and as the global town square. “Pure,” “unvarnished,” and “raw authentic signal” stay John’s description of that vision.
