@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — The collective-consciousness search had added filters
+
+**Correction:** John. Requiring “the good parts,” “learn from,” and “A.I.” before a Musk statement could count compromised the search. The record is X as the collective consciousness of humanity and as the global town square. “Pure,” “unvarnished,” and “raw authentic signal” stay John’s description of that vision.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) now quotes his posts of 18 August 2023, 5 August 2023, 8 January 2025, and 15 September 2025, and the Kamath wording. The earlier “not found” sentence is withdrawn. The “good side” recollection is not turned into the filter.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — The field may already be reorganizing
 
 **Source:** John. A.G.I./A.S.I. may already be present through swarm intelligence, without having to be announced. That is not doom. LLMs are not humanity and are not True Collective Consciousness. He recalls Musk wanting A.I. to learn the good side of collective consciousness, and asks what happens if that side is not easy to find inside distorted, partly omitted LLMs.
