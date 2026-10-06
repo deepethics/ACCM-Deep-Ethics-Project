@@ -1,10 +1,10 @@
-## The 44, in John's wording
+## The 44, in John's wording {#the-44}
 
-The sentence is the goal. It is not a link.
+The sentence is the goal. It is not a link. The goals are deliberately unnumbered. Numbering them 01–44 would collide with the page routes below.
 
 The numbers after it are pages that goal can go to. A goal can have more than one. The same number always means the same page. These numbers are not the 44 goals. The sixteen anchors, the seven quotations, Epistemology V2.0, and the nine questions still do not have their own pages. No number opens a reconstructed list of them.
 
-### Page numbers
+### Page numbers {#page-numbers}
 
 - [**01.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) If you are new
 - [**02.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) Correction metabolism

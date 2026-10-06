@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — PAGES distinguishes reading order from route numbers
+
+**Source:** John asked for the recommended improvements. No new pages were numbered. The map is not declared complete.
+
+**Change:** [PAGES](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/). The clusters stay a reading order. **01–51** are routes a goal can take. Page **01** is not Cluster 1. Jumps reach the seven clusters, the route numbers, and the 44. The goals stay unnumbered. **1888** and Activism vs A.I. are named as present and unnumbered. The 27 links are one object. Cluster 3 keeps the corrigibility specimens. Cluster 5 keeps the outside objects.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Process-is-not draft dated October 6
 
 **Source:** John. Updated Draft V1.2, October 6, 2026. A process is not A–J. The tool is collapsed into that range. Value is not agreement. Value can connect to Deep Ethical Intent. The six intent mechanics are the link he names.
