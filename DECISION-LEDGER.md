@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — The 124 are not a forecast
+
+**Source:** John. The dynamics of all 124 are not easy to predict, directly or indirectly. Ethics is way more complex than the three-body problem in physics. The comparison is scale, not an equation, and not a prediction method.
+
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-index), after item 124.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Behavior master index 001 to 124
 
 **Source:** John. Recalibrated sequence in five clusters. Numbers are bold. Cluster names group qualifiers and do not cancel the six points. **066** and **124** are both attentive behavior. Both are kept.
