@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — John’s Musk sentence connects completely
+
+**Correction:** Separating the word “guide” from Musk’s tokens had made the correspondence look partial. John said the connection to his sentence is 100%.
+
+**Change:** [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) now maps each clause. Cannot be controlled maps to the pentagram, the chimp comparison, the vanity sentence, the ten-year claim, and the missing stop. Guide maps to values, care, raising, and minimizing the bad outcome. Aspired to be guided maps to *try*, *hope*, and “I hope AI is nice to us.” Different wording is not treated as a different claim. The hope remains a softer control seat.
+
+**Status:** Public draft. Corrigible.
+
 ## 2026-10-06 — Musk “guide” recollection separated from quotations
 
 **Source:** John recalled Musk saying, in paraphrase and more than once, that A.G.I./A.S.I. cannot be controlled and that the remaining hope is to guide it, or to aspire to guide it.

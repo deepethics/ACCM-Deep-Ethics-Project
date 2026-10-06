@@ -72,7 +72,7 @@ John’s recollection, in his words, not as a verified quotation:
 
 > A.G.I./ASI cannot be controlled. Our only hope is to guide it. Aspired to be guided.
 
-He says Musk has said something of that nature multiple times. The word **guide**, and the phrase **aspired to be guided**, are John’s compression. They are not placed in quotation marks as Musk’s. The public record that matches the compression is a repeated pair: control is unavailable, and what remains is an attempt to shape the result.
+He says Musk has said something of that nature multiple times. The word **guide**, and the phrase **aspired to be guided**, are the names he gives that repeated claim. They are not offered as a transcript of one sentence. The connection he is asserting is complete, and the map is below.
 
 A recorded exchange, circulated as [“Nobody will be able to control superintelligence”](https://www.youtube.com/watch?v=4paXd_yf6ck):
 
@@ -90,9 +90,27 @@ In the same interview he said he could not see a way to stop the momentum, that 
 
 > You kind of grow an AGI. It’s almost like raising a kid, but one that’s like a super genius, like a God-like intelligence kid — and it matters how you raise the kid.
 
-The “guide” in John’s paraphrase is this cluster: not a leash, a raising; not control, values; not a stop button, a hope that the result cares. “Aspired to be guided” names the hope inside that cluster. It is not a sentence this page has found him saying.
+The “guide” in John’s paraphrase is this cluster: not a leash, a raising; not control, values; not a stop button, a hope that the result cares.
 
-That hope is still a softer seat. The person who says control would be vanity is, in the same interview, saying what the intelligence should value and whom it should want to prosper. The aspiration to guide is the control claim with the word control removed. It can fail in the same place. A smarter system does not become corrigible because its makers hoped it would inherit their aim.
+**15 August 2026**, Musk’s reply on X, as reported by [Teslarati](https://www.teslarati.com/elon-musk-hopes-ai-is-nice-to-us/), after a post saying you cannot create God and put him on a leash:
+
+> I hope AI is nice to us.
+
+The leash sentence is not his. The hope is.
+
+### Why John’s sentence connects completely
+
+John’s conclusion is that the connection is 100%. A different word is not a different claim. The earlier note on this page separated his compression from Musk’s tokens and left the correspondence looking partial. That was the wrong weight. His sentence has three clauses. Each clause is already being done by Musk’s own statements.
+
+| John’s clause | What Musk’s statements are already doing |
+|---|---|
+| A.G.I./A.S.I. cannot be controlled | The pentagram does not work. Chimps cannot control humans, and there is nothing they could do. Controlling a vastly smarter system would be vanity. Humans are unlikely to be in control within about ten years. He cannot see a way to stop the momentum. |
+| Our only hope is to guide it | What can still be tried is not a leash. It is good values, care for humanity, and a want for people to be happy and prosper. It is raising the god-like intelligence, because how it is raised matters. It is minimizing the chance of the bad outcome after the stop button has been declined. |
+| Aspired to be guided | The remaining verbs are *try*, *hope*, and *should*. “I hope AI is nice to us” is that aspiration said from the other side: not a hand on the control, but a hope that the intelligence turns out willing. |
+
+100% here means the whole of John’s sentence is already in the sourced statements. It does not mean Musk used the syllable “guide.” **Guide** is the name of the operation those statements describe once control has been refused and a direction is still being aimed. **Aspired to be guided** is the name of the hope that the aim will be accepted.
+
+That complete connection does not make the hope succeed. It shows the hope clearly. The person who says control would be vanity is, in the same interview, saying what the intelligence should value and whom it should want to prosper. The aspiration to guide is the control claim with the word control removed. It can fail in the same place. A smarter system does not become corrigible because its makers hoped it would inherit their aim.
 
 ## What the control illusion does to “activism”
 
