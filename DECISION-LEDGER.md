@@ -4,6 +4,12 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — ACCM is the project's own expansion
+
+**Correction:** The lexicon had said Allow Constructive Controversy Mode was not a project name. That was wrong. **ACCM** expands to **Allow Constructive Controversy Mode**. **Avoid Controversy Mode** is John's satire of the counterargument. The canonical title remains **ACCM Deep Ethics Project**.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Lexicon overview expanded
 
 **Request:** John asked to expand the [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) with the missing objects found in the whole-project study, deploy it, and look for further neologisms.
