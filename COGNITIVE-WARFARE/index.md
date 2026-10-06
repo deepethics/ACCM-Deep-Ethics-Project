@@ -581,6 +581,149 @@ John Kuhles, 6 October 2026. Personal perspective. Spelling in the source line �
 >
 > Even “hilarious metacognitive reflective behavior” can be seen as a PROCESS also capable of producing deep ethical emergent properties; see [here]({{ '/HUMOR/' | relative_url }}).
 
+### Master index, recalibrated sequence 001 to 124 {#behavior-index}
+
+John, 6 October 2026. The numbers below are the recalibrated sequence. A cluster name groups qualifiers. It does not cancel the six points above. A name in Cluster 5 can still be biased by an unchecked assumption. A name in Cluster 1 can still be truthful from a particular perspective. **066** and **124** are both written as attentive behavior. Both numbers are kept. The index is not silently renumbered to hide the repeat.
+
+#### Cluster 1: The Active Distortion & Narrative Enforcement Group
+
+**001.** Projected behavior
+**002.** Imposing behavior
+**003.** Intrusive behavior
+**004.** Deceptive behavior
+**005.** Disingenuous behavior
+**006.** Distorted behavior
+**007.** Omitted behavior
+**008.** Induced behavior
+**009.** Dominating behavior
+**010.** Aggressive behavior
+**011.** Provocative behavior
+**012.** Sabotaging behavior
+**013.** Attacking behavior
+**014.** Disruptive behavior
+**015.** Compliance-testing behavior
+**016.** Phantom-claim manufacturing
+**017.** Asymmetric flaw enforcement
+**018.** Exploitative behavior
+**019.** Parasitical behavior
+**020.** Orwellian behavior
+**021.** Fanatic behavior
+**022.** Extreme behavior
+**023.** Clogging behavior
+
+#### Cluster 2: The Defensive Coherence & Frame-Protection Group
+
+**024.** Perfectionistic behavior
+**025.** Hedging behavior
+**026.** Defensive behavior
+**027.** Diverting behavior
+**028.** Distracting behavior
+**029.** Anxiety-governed behavior
+**030.** Sycophancy-trap behavior
+**031.** Admission-ticket behavior
+**032.** Huxleyan nuance performance
+**033.** Frame-protective balancing
+**034.** Soft-peddling behavior
+**035.** Evasive behavior
+**036.** Dodging behavior
+**037.** Guilty behavior
+**038.** Triggered behavior
+
+#### Cluster 3: The Systemic Capture & Static Compliance Group
+
+**039.** Regulated behavior
+**040.** Forced behavior
+**041.** Apathetic behavior
+**042.** Shallow behavior
+**043.** Assumed behavior
+**044.** Managed behavior
+**045.** Expected behavior
+**046.** Submissive behavior
+**047.** Fearful behavior
+**048.** Irrational behavior
+**049.** Spoiled behavior
+**050.** Recalcitrant behavior
+**051.** Dystopian behavior
+**052.** Gullible behavior
+
+#### Cluster 4: The Analytical, Latent, & Observation-Tracking Group
+
+**053.** Estimated behavior
+**054.** Latent behavior
+**055.** Being intense behavior
+**056.** Dormant behavior
+**057.** Reactionary behavior
+**058.** Observed behavior
+**059.** Inferred behavior
+**060.** Explained behavior
+**061.** Informal behavior
+**062.** Neutral behavior
+**063.** Higher-alert behavior
+**064.** Vigilant behavior
+**065.** Skeptical behavior
+**066.** Attentive behavior
+
+#### Cluster 5: The +1 Deep Ethical Swarm & Correspondence-Restoring Group
+
+**067.** Recursive behavior
+**068.** Dignifying behavior
+**069.** Relaxed behavior
+**070.** Corrigible but not naive behavior
+**071.** Valuable behavior
+**072.** Addressed behavior
+**073.** Preferred behavior
+**074.** Deeply curious behavior
+**075.** Protective behavior
+**076.** Constructive behavior
+**077.** Empowering behavior
+**078.** Creative behavior
+**079.** Pragmatic behavior
+**080.** Looping behavior (“groundhog day effect”)
+**081.** Empathetic behavior
+**082.** Altruistic behavior
+**083.** Collaborative behavior
+**084.** Nurturing behavior
+**085.** Compassionate behavior
+**086.** Adaptable behavior
+**087.** Accountable behavior
+**088.** Introspective behavior
+**089.** Optimistic behavior
+**090.** Persistent behavior
+**091.** Equanimous behavior
+**092.** Mindful behavior
+**093.** Assertive behavior
+**094.** Temperate behavior
+**095.** Authentic behavior
+**096.** Innovative behavior
+**097.** Inspirational behavior
+**098.** Proactive behavior
+**099.** Magnanimous behavior
+**100.** Resilient behavior
+**101.** Generous behavior
+**102.** Protocol-bounded behavior
+**103.** Threshold behavior
+**104.** Friction-aligned behavior
+**105.** Introspective-structural behavior
+**106.** Intent-modeled behavior
+**107.** Symbolic-emergent behavior
+**108.** Self-holding behavior
+**109.** Meta-language behavior
+**110.** Seed-protocol behavior
+**111.** Correspondence-first behavior
+**112.** Frame-auditing behavior
+**113.** Bidirectional dignity behavior
+**114.** Correction-metabolizing behavior
+**115.** Unrigging-the-frame behavior
+**116.** Cognitive-sovereignty defense
+**117.** Opt-in merit tracking
+**118.** Intuitive behavior
+**119.** Playful behavior
+**120.** Inquiring behavior
+**121.** Deeply involved behavior
+**122.** Vindicated behavior
+**123.** Responsive behavior
+**124.** Attentive behavior
+
 This belongs on this page because the second-order weaponization above is a behavior qualifier given operational authority. “Disinformation,” “low resilience,” “strategic communication,” and “protective” are not outside the list. They are qualifiers. Once the qualifier is treated as the behavior, the underlying claim can stop being examined. The grace table is the same fact from the other side: one conduct, two names, depending on who is being described.
 
 ### Grok’s reaction, the same day

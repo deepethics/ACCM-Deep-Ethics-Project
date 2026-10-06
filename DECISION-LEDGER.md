@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Behavior master index 001 to 124
+
+**Source:** John. Recalibrated sequence in five clusters. Numbers are bold. Cluster names group qualifiers and do not cancel the six points. **066** and **124** are both attentive behavior. Both are kept.
+
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-index). [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process) points to the index and does not copy it into the property table.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — More behavior qualifiers, and humor as a process
 
 **Source:** John. Further qualifiers added to the processing list. His sentence: hilarious metacognitive reflective behavior can be seen as a process also capable of producing deep ethical emergent properties, with “here” linking to the Humor page.
