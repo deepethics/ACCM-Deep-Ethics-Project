@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — The formula of the 124 is never finished
+
+**Source:** John. If the 124 are in flux, and their effects depend on other social-factor dynamics, the computational formula is never finished. Crisis can make the mess worse. The question is how to calculate the true dynamics.
+
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-index). A finished formula is refused. A bounded pass can name which qualifiers are in the case, which other factors are specified, and what the crisis is changing. Crisis exploitation managers are one such factor, not the completed calculation.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — The 124 are not a forecast
 
 **Source:** John. The dynamics of all 124 are not easy to predict, directly or indirectly. Ethics is way more complex than the three-body problem in physics. The comparison is scale, not an equation, and not a prediction method.

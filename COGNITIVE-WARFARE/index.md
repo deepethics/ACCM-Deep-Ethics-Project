@@ -726,6 +726,12 @@ John, 6 October 2026. The numbers below are the recalibrated sequence. A cluster
 
 John, the same day: the dynamics of all 124 are not easy to predict, in how they can affect each other directly and indirectly. That is why ethics is way more complex than the three-body problem in physics. The three-body comparison is the scale of the joke. It is not a claim that ethics is a physics equation, and it is not a method for predicting which qualifier produces which next qualifier. Direct effects, indirect effects, and further layers remain open. The index does not close them.
 
+Later the same day he extended it. If the 124 are in flux, and can affect each other in ways that depend on many other social-factor dynamics, the computational formula is never finished, because other factors are at play as well. A crisis can make it even more of a mess. The question he poses is how to calculate the true dynamics.
+
+The index does not contain that calculation. A finished formula would have to stand outside the flux, and the crisis is already one of the factors the formula had not finished including. Crisis is not only more noise among the 124. It changes which qualifiers receive authority and which accounts are omitted. [Crisis exploitation managers]({{ '/1888/#searching-is-a-property' | relative_url }}) are one such factor: they can turn the mess into a finished story and a justification for emergency rules. That story is not the true dynamics. It is another factor entering them.
+
+What can be done, without pretending the formula has ended, is a bounded pass. Name which of the 124 are actually in this case. Separate a direct effect from an inferred one. Name the other social factors that are specified, and leave the unnamed ones unnamed. Say what the crisis is changing. Keep the result corrigible when a further factor appears. That is not the true dynamics of all 124. It is a calculation that knows it is unfinished.
+
 This belongs on this page because the second-order weaponization above is a behavior qualifier given operational authority. “Disinformation,” “low resilience,” “strategic communication,” and “protective” are not outside the list. They are qualifiers. Once the qualifier is treated as the behavior, the underlying claim can stop being examined. The grace table is the same fact from the other side: one conduct, two names, depending on who is being described.
 
 ### Grok’s reaction, the same day
