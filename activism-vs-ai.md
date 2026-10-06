@@ -66,13 +66,41 @@ Read in his wording, the sequence is: be more careful than with nuclear weapons;
 
 None of these sentences establishes that the fate has already arrived. None of them is a project conclusion. The seven public Musk quotations named in the [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) are a separate object. They are not pasted here. “Partially” on that goal stays.
 
+## “Cannot be controlled. The hope is to guide it.”
+
+John’s recollection, in his words, not as a verified quotation:
+
+> A.G.I./ASI cannot be controlled. Our only hope is to guide it. Aspired to be guided.
+
+He says Musk has said something of that nature multiple times. The word **guide**, and the phrase **aspired to be guided**, are John’s compression. They are not placed in quotation marks as Musk’s. The public record that matches the compression is a repeated pair: control is unavailable, and what remains is an attempt to shape the result.
+
+A recorded exchange, circulated as [“Nobody will be able to control superintelligence”](https://www.youtube.com/watch?v=4paXd_yf6ck):
+
+> I don’t think anyone’s ultimately going to have control over digital super intelligence any more than say a chimp would have control over humans. Like chimps don’t have control over humans. There’s nothing they could do.
+
+**23 July 2026**, interview with Zanny Minton Beddoes of *The Economist*, as quoted by [Business Insider](https://www.businessinsider.com/elon-musk-killer-robots-ai-abundance-progress-unstoppable-2026-7):
+
+> It would be an exercise in vanity for me to think that I would be controlling supergenius AI that is vastly smarter than me.
+
+> What we can and should try to do is to make sure that the AI has good values, that it cares about humanity, and that it wants us to be happy and prosper.
+
+In the same interview he said he could not see a way to stop the momentum, that humans were unlikely to be in control within about ten years, and that the remaining effort was to minimize the probability of a catastrophic outcome. He also said that even if there were a stop button, he thought they probably should not press it, because he takes abundance as the more likely result.
+
+**19 March 2024**, at the Abundance Summit, as quoted by [Yahoo / Business Insider](https://tech.yahoo.com/ai/articles/elon-musk-says-could-20-235807723.html):
+
+> You kind of grow an AGI. It’s almost like raising a kid, but one that’s like a super genius, like a God-like intelligence kid — and it matters how you raise the kid.
+
+The “guide” in John’s paraphrase is this cluster: not a leash, a raising; not control, values; not a stop button, a hope that the result cares. “Aspired to be guided” names the hope inside that cluster. It is not a sentence this page has found him saying.
+
+That hope is still a softer seat. The person who says control would be vanity is, in the same interview, saying what the intelligence should value and whom it should want to prosper. The aspiration to guide is the control claim with the word control removed. It can fail in the same place. A smarter system does not become corrigible because its makers hoped it would inherit their aim.
+
 ## What the control illusion does to “activism”
 
 “Activism” is in quotes because the word is not the object. A particular campaign, statement, or institution has to be named before it can be examined. This page does not convert those efforts into one type of person.
 
 The overlap can be real. A campaign can see the race, the missing understanding, the children shaped by systems no one chose, and the danger of treating speed as an ethics. [teamhuman.org](https://www.teamhuman.org/) is one specimen of that overlap: a public demand to slow advanced A.I. until humans remain in control. Overlap is not joining. Joining would hand the project a demand it has already refused.
 
-If “activism” means humans will control the path to A.G.I./A.S.I., it is promising a seat. Musk’s own demon sentence already says the person with the pentagram is sure the control works. It does not. Replacing the pentagram with a signature, a treaty, a lab, or a pause does not answer the later bootloader sentences. Those sentences move the success condition off human control entirely. An activism that answers the demon with “humans must stay in control,” and an activism that answers the bootloader with “then humanity’s job is to launch the successor,” are two owners. Both can fail.
+If “activism” means humans will control the path to A.G.I./A.S.I., it is promising a seat. Musk’s own demon sentence already says the person with the pentagram is sure the control works. It does not. Replacing the pentagram with a signature, a treaty, a lab, or a pause does not answer the later bootloader sentences. Those sentences move the success condition off human control entirely. An activism that answers the demon with “humans must stay in control,” and an activism that answers the bootloader with “then humanity’s job is to launch the successor,” are two owners. “Our only hope is to guide it” is a third wording of the same seat. Guidance aspired to by the people who say they cannot control is still an attempt to occupy the direction. Both can fail.
 
 What remains possible is smaller and more serious. A present harm can be documented. A qualifier can be kept. A false flag can be corrected after notice. A law can be about a named system and a named effect. A person can refuse a distortion. None of that becomes control of A.G.I./A.S.I. by being real. The honest activism is the one that does not sell the seat.
 

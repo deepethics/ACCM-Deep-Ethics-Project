@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Musk “guide” recollection separated from quotations
+
+**Source:** John recalled Musk saying, in paraphrase and more than once, that A.G.I./A.S.I. cannot be controlled and that the remaining hope is to guide it, or to aspire to guide it.
+
+**Change:** [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) keeps that recollection in John’s words. “Guide” and “aspired to be guided” are not attributed to Musk as quotations. The nearest sourced statements are added beside them: no one controls digital superintelligence any more than chimps control humans; the July 2026 vanity and “good values” sentences; the March 2024 “raising a kid” sentence. The page treats the hope of guiding as another form of the control seat.
+
+**Status:** Public draft. Corrigible. A closer verbatim source for “guide” can replace the compression if one is supplied.
+
 ## 2026-10-06 — Activism vs A.I.
 
 **Request:** John asked for a page called Activism vs A.I. It is to show the danger of assuming humans can control the path to A.G.I./A.S.I., to study what Elon Musk said about the fate of humanity, and to ask what that illusion means for “activism.”
