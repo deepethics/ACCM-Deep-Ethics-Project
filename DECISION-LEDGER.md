@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Freeze and corrigibility are not the paradox
+
+**Source:** John. Supplied word “Clauses,” read as Claudes. The 10+1 is the baseline those readings can see and still skip. A 100% risk-free world would surrender free will and autonomy, and both are required. Freeze and corrigibility together are a temporal state of TCoAw, not a paradox. The real paradox is seeking flawless perfection by unethical means.
+
+**Change:** His wording is on [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#freeze-and-corrigibility). The [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#11-1-version-2) points at it from the 11+1 freeze. The 10+1 page links back.
+
+**Status:** Public. Corrigible. The Claudes reading can be corrected.
+
 ## 2026-10-06 — 11+1 freeze is the count
 
 **Source:** Claude Sonnet, via Arena, asked whether “frozen provisionally” freezes only the 11+1 count or also the item placements.
