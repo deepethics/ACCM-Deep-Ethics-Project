@@ -621,7 +621,7 @@ John, 6 October 2026: when “intelligence” and “searching” are both compr
 
 **Status:** CURRENT. Added 2026-10-06. Not a new core number.
 
-**Related:** [Gravity-well trajectory](#gravity-well-trajectory), [Wrong Gravity Well](#wrong-gravity-well), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
+**Related:** [Gravity-well trajectory](#gravity-well-trajectory), [Wrong Gravity Well](#wrong-gravity-well), [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property).
 
 ---
 

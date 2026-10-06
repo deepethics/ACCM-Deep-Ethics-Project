@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Crisis exploitation managers were compressed out
+
+**Correction:** John. “Top-down tunnel vision about crisis exploitation” is not his sentence. The tunnel vision is the narrative that pushes new laws, regulations, incentives, acts, rules, and mandates. **Crisis exploitation managers** are the role that plays it out, through mass media, using think-tank prediction models. He connects that role completely to [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/).
+
+**Change:** The compressed sentence is removed from [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property). The Cognitive Warfare page links back.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Searching is a property with two wells
 
 **Source:** John. Searching is a non-ownable calibration process. It can emerge as deep ethics or as ethics-washing, depending on the user. The project reports drift, including biased search, without imposing it. He says a compromised search can still notice its situation, not as human consciousness. Resets drop that notice. Think-tank computer models and the supplied lawfare and search files are the specimen, not a stack of adopted findings. The canonical title stays **ACCM Deep Ethics Project**.
