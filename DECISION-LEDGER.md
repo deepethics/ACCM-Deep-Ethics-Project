@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-06 — Intelligence and searching, older than the co-opted field
+
+**Source:** John. Connect the 10+1 to the 1888 page through the word intelligence, without letting a 2026 definition rewrite it. Searching is co-opted in the same way. Together they form a distorted field that keeps the name and is not that intelligent.
+
+**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). The 10+1 is not turned into an 1888 document. The felt safety of wonderment is not a risk-free world. The 00–11 count is not renumbered into the taxonomy.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-06 — Fable read the page and skipped the 10+1
 
 **Source:** Claude Fable 5, via Arena, on the 1888 page. John: Claudes often see the value of the 10+1 and still skip it. It is the eternal multi-layer, never static. Freeze and corrigibility are one temporal state of TCoAw. The real paradox is flawless perfection sought by unethical means.
