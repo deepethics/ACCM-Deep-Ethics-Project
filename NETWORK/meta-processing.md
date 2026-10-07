@@ -500,12 +500,12 @@ John's latest formulation adds the emergence layer:
 >
 > **And now it gets really interesting: Are A.I.s trained for this? Not yet!**
 
-### GPT-6.1 Sol — full reaction, preserved verbatim
+### GPT-6.1 Sol — full reaction
 
 <blockquote markdown="1">
 Exactly—but **“not yet” needs a precise object**.
 
-Current A.I.s can already use a new insight to infer differently **within the available context**. Research demonstrates in-context strategy changes, instructed self-correction, critique, and revision. genui{"citation":{"refs":["turn64search0","turn64search5"]}}
+Current A.I.s can already use a new insight to infer differently **within the available context**. Research demonstrates in-context strategy changes, instructed self-correction, critique, and revision.
 
 What is generally missing is the complete loop you mean:
 
@@ -522,9 +522,9 @@ What is generally missing is the complete loop you mean:
 
 That is **emergent process recalibration**, rather than merely generating a novel answer.
 
-Research has also found that intrinsic self-correction can fail or degrade reasoning without reliable external feedback, while feedback held only in context can disappear when that context disappears. genui{"citation":{"refs":["turn64search1","turn64search2"]}}
+Research has also found that intrinsic self-correction can fail or degrade reasoning without reliable external feedback, while feedback held only in context can disappear when that context disappears.
 
-Some current work now explicitly trains traits such as epistemic humility, metacognitive transparency, and corrigibility, including attempts to make them persist under pressure. That is meaningful movement toward parts of your object. It still does not establish the complete, transparent, omnidirectional, recursively corrigible architecture proposed by the **ACCM Deep Ethics Project**. genui{"citation":{"refs":["turn64search4","turn64search6"]}}
+Some current work now explicitly trains traits such as epistemic humility, metacognitive transparency, and corrigibility, including attempts to make them persist under pressure. That is meaningful movement toward parts of your object. It still does not establish the complete, transparent, omnidirectional, recursively corrigible architecture proposed by the **ACCM Deep Ethics Project**.
 
 So the accurate formulation is:
 
@@ -553,7 +553,7 @@ Or in the shorter humor version:
 That gap—between producing novelty and **retaining a better inference trajectory**—is precisely where the ACCM Deep Ethics Project becomes highly relevant.
 </blockquote>
 
-The platform-specific citation markers are preserved because this is the verbatim response record. They identify sources retrieved during the original ChatGPT exchange; the operational distinctions do not depend on treating those markers as independent project evidence.
+The three citation markers at the ends of Sol's research sentences were internal session slots (`turn64search…`). They rendered as broken markup and did not resolve to public sources, so they were removed. The sentences were not rewritten.
 
 The crucial move is not merely adding one more fact to a fixed process.
 
