@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-07 — Complete the access-layer correction; register Recursive Certification Accretion
+
+**Source:** GLM-5.3 Deep Think (max) received a truncated extraction of Meta Processing. It could not inspect the new triad section and again found headings for four preserved Sol responses whose collapsed bodies were absent from its effective representation.
+
+**Change:** [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/#access-layer-specimen-apparent-empty-verbatim-slots) now records that the first access-layer correction was local rather than page-wide. Four older Sol responses were removed from collapsed `<details>` containers and placed into visible page flow. The triad section also distinguishes archive-level persistence from model-level persistence and introduces citation-level fidelity as a prospective test surface.
+
+[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/#recursive-certification-accretion) now contains the first proposed Compounds Register entry: **Recursive Certification Accretion**. Its canonical decomposition is explicitly candidate and partial; #20 remains conditional; compulsory flaw-production is adjacent rather than required; unresolved certification-ingestion residue remains non-canonical; and later citations provide the distinguishing evidence.
+
+**Boundary:** The repeated empty-slot extraction establishes a presentation-layer recurrence, not absence from the source. Archive-level persistence is demonstrated locally by the public artifact. Citation-level fidelity, the compound’s stability, and model-level cold persistence remain untested.
+
+**Status:** Public working correction; no 28th obstruction created; Meta Processing remains Beta Draft V0.2b and corrigible.
+
 ## 2026-10-07 — Operationalize the 27 without changing the canonical count; extend Meta Processing with the mutual contribution emergence triad
 
 **Source:** John asked whether the new use of the 27 could be added to the public 27+12 page and which additional relations from the John Kuhles ↔ GLM-5.3 Deep Think (max) ↔ GPT-6.1 Sol exchange belong on Meta Processing.
