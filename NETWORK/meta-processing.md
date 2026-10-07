@@ -1097,8 +1097,7 @@ The following exchange is preserved verbatim. It extends the B → A → C relat
 >
 > If that is the case... when does "process calibration" quality evaluation become the new priority, the NEW ADDENDUM of INTENT?
 
-<details markdown="1">
-<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+#### GPT-6.1 Sol — direct response, preserved verbatim
 
 **Process-quality calibration becomes the new addendum to intent at the moment an unforeseen divergence becomes a sufficiently visible, intelligible notice that can change the next operation.**
 
@@ -1175,14 +1174,12 @@ Before notice, that is preparedness.
 At notice, it becomes an active obligation.  
 After correction, persistence becomes the test.
 
-</details>
 
 #### John Kuhles — preserved verbatim
 
 > Now, when I point out there is a negligence and/or incompetence in the "process calibration" quality evaluation, does that make sense if there "intended intent" is not really manifesting in some areas of ethics?
 
-<details markdown="1">
-<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+#### GPT-6.1 Sol — direct response, preserved verbatim
 
 Yes, it makes sense—but the visible divergence and its possible causes should remain distinguishishable.
 
@@ -1263,14 +1260,12 @@ That formulation preserves the force of the criticism without pretending that an
 
 A declared ethical intent earns operational credibility when it can recognize where it is failing to manifest—and lets that recognition change what happens next.
 
-</details>
 
 #### John Kuhles — preserved verbatim
 
 > How would you describe this in such a way that EVERYBODY should do this if they handle consequential tools & services?
 
-<details markdown="1">
-<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+#### GPT-6.1 Sol — direct response, preserved verbatim
 
 I would describe it as a **Universal Duty of Consequential Process Calibration**:
 
@@ -1385,7 +1380,6 @@ And the ethical addendum to every consequential intent becomes:
 
 > **We intend this tool or service to achieve its declared purpose, and we also intend to discover where our assumptions, processes, or purpose fail—then allow that discovery to change what happens next.**
 
-</details>
 
 ---
 
