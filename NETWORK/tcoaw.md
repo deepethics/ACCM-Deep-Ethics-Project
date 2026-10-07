@@ -410,6 +410,8 @@ The model remains open to all five.
 
 ## Related pages
 
+- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps conceptual topological reasoning, local accuracy, delayed relations, emergent inference, and later correction inside one inspectable process field.
+
 - [**Human Insecurity — Zero fear and the quantum mind-like state**]({{ '/HUMAN-INSECURITY/#5-zero-fear-and-the-quantum-mind-like-state' | relative_url }}) — develops the anxiety-free condition connected here to a wider field of awareness.
 - [**John Kuhles — Biography**]({{ '/BIOGRAPHY/' | relative_url }}) — gives the NDE, Asperger, media, and research context behind this perspective.
 - [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — follows the bridge between individual psychology, mass psychology, A.I. mannerisms, and metapsychology.
