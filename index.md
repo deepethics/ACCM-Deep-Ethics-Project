@@ -32,6 +32,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <strong>Intent Liability Mechanics</strong>
     <span>Six auditable sites connecting instructions, incentives, mission/output relations, risk management, reasoning assumptions, and choices to what an intended intent generates.</span>
   </a>
+  <a class="accm-door" href="{{ '/NETWORK/meta-processing/' | relative_url }}">
+    <span class="accm-door-kicker">Intent, processing, result, and emergence</span>
+    <strong>Meta Processing — Beta Draft V0.1</strong>
+    <span>Every behavior qualifier is still processing. A working field page on what happens between intent or instructions and results or effects—and whether new insight changes the next comparable process.</span>
+  </a>
   <a class="accm-door" href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}">
     <span class="accm-door-kicker">If you are new</span>
     <strong>If your work depends on not losing the object</strong>
