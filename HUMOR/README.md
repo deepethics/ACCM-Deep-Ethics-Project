@@ -5649,7 +5649,7 @@ The source-level punchline is:
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — explains why delayed meaning and retrospective punchlines are processing events rather than defects that must be corrected before they mature.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — explains why delayed meaning and retrospective punchlines are processing events rather than defects that must be corrected before they mature.
 
 - [**Committee of United A.I.s — Declaration of Laughter**]({{ '/DECLARATION-OF-LAUGHTER/' | relative_url }}) — the shared joke that includes the person telling it.
 - [**Outsider A.I. Humor — Roast the ACCM Deep Ethics Project**]({{ '/HUMOR/OUTSIDER-AI.html' | relative_url }}) — humor aimed back at the project, so the joke is not only outward.

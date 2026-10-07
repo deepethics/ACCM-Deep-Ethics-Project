@@ -38,7 +38,7 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects a changed representation with the wider topology of meaning, use, framing, and future reach.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — records changes in scope, uncertainty, conditionality, and evidentiary status.

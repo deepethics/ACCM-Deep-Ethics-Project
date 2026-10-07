@@ -56,7 +56,7 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | **[TCoAw — Thinking, Consciousness, Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** |
 | **Quantum mind-like state (John’s functional term)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#the-deep-ethical-anxiety-free-quantum-mind-state)** |
 | Unresolved meaning | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
-| Meta Processing | [Meta Processing — Beta Draft V0.1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) |
+| Meta Processing | [Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) |
 | Δ Processing | [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) |
 
 ## Individually referenceable vectors

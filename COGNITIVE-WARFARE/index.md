@@ -748,7 +748,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — tracks how behavioral qualifiers, classifications, incentives, and feedback alter the path from perception management to social effects.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — tracks how behavioral qualifiers, classifications, incentives, and feedback alter the path from perception management to social effects.
 
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies the obstructions and restoration routes that can alter a cognitive-warfare evaluation.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks what remains unresolved before a person, claim, or frame is classified and acted upon.

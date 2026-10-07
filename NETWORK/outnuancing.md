@@ -38,7 +38,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — makes visible how a frame, qualifier, correction, or new insight changes the processing field and the next operation.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — makes visible how a frame, qualifier, correction, or new insight changes the processing field and the next operation.
 
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the fused relationships that give Outnuancing its intended topology.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation that keeps frame examination answerable to Deep Ethics.

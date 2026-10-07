@@ -265,7 +265,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
 - [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — keeps a correction from becoming a claim of bad intent, so the ingredients can still be used.
 - [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — holds an unfinished possibility open so an ingredient is not forced into a verdict.

@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-07 — Meta Processing Beta Draft V0.2b
+
+**Source:** John asked for the visible draft label to become Beta Draft V0.2b — October 7, 2026, and for Grok 4.7 Expert Build to add an overall reading before Related pages.
+
+**Change:** [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) is now labeled V0.2b in the title, kicker, working status, and correction-condition line. The same display name is updated where other pages link to it. Section 21 is a labeled reading by Grok 4.7 Expert Build, not a verdict and not canonical. The earlier V0.1 ledger entry remains the record of that draft.
+
+**Status:** Beta Draft V0.2b. Public. Corrigible.
+
 ## 2026-10-07 — Remove unresolved citation markup from Meta Processing
 
 **Source:** John. Three citation markers in the preserved GPT-6.1 Sol reaction rendered as broken markup.

@@ -111,7 +111,7 @@ If that is all an outsider uses, the page has done its job. The project links ab
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps the evaluator’s own transformations, qualifiers, null results, and correction persistence inside the same audit.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps the evaluator’s own transformations, qualifiers, null results, and correction persistence inside the same audit.
 
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — is the public transformation whose outside audit produced this portable method.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps a failure examinable while leaving the participant eligible to correct and contribute.
