@@ -1093,7 +1093,9 @@ The following exchange is preserved verbatim. It extends the B → A → C relat
 
 #### John Kuhles — preserved verbatim
 
-> INTENT has an "expected" trajectory that gets distorted by "unforeseen" distortions, and then it must realize the assumed trajectory is not manifesting as it was INTENDED to be. If that is the case... When does "process calibration" quality evaluation the NEW ADDENDUM of INTENT?
+> INTENT has an "expected" trajectory that gets distorted by "unforeseen" distortions, and then people who cliam having that INTENT must realize the assumed trajectory is not manifesting as it was INTENDED to be.
+>
+> If that is the case... when does "process calibration" quality evaluation become the new priority, the NEW ADDENDUM of INTENT?
 
 <details markdown="1">
 <summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
