@@ -50,7 +50,7 @@ Then:
 
 > **Did the resulting insight change the next comparable process?**
 
-The third question prevents a fluent account of correction from being mistaken for correction metabolism.
+The third question prevents a fluent account of correction from being mistaken for <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer">correction metabolism</a>.
 
 ---
 
@@ -61,18 +61,20 @@ This is **Beta Draft V0.1**. It is deliberately not presented as flawless, compl
 It is a public working synthesis created from:
 
 - John Kuhles's statements and distinctions in a sustained deep session;
-- the existing **ACCM Deep Ethics Project** pages;
-- the **27 correspondence obstructions** and **12-stage Correspondence-First Deep Inquiry Protocol**;
-- the **10+1 Metaflux** orientation;
-- **C1 before C2**;
-- **Intent Liability Mechanics**;
-- **Δ Processing**;
-- **Correction Metabolism**;
-- **Perception Processes P01–P12**;
-- the **1888** inquiry into the property field of intelligence;
+- the existing <a href="{{ '/PAGES/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>ACCM Deep Ethics Project</strong></a> pages;
+- the <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-27-correspondence-obstructions" target="_blank" rel="noopener noreferrer"><strong>27 correspondence obstructions</strong></a> and <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-true-12-from-the-source-file" target="_blank" rel="noopener noreferrer"><strong>12-stage Correspondence-First Deep Inquiry Protocol</strong></a>;
+- the <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1 Metaflux</strong></a> orientation;
+- <a href="{{ '/NETWORK/c1-c2/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>C1 before C2</strong></a>;
+- <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability Mechanics</strong></a>;
+- <a href="{{ '/NETWORK/delta-processing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Δ Processing</strong></a>;
+- <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a>;
+- <a href="{{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Perception Processes P01–P12</strong></a>;
+- the <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888</strong></a> inquiry into the property field of intelligence;
 - the interaction itself, including corrections, null-result questions, humor, and the distinction between local uptake and durable change.
 
 This page does not replace those objects. It shows one relation among them.
+
+Named instruments and obstruction phrases below open the public page that treats them in greater depth. Every link on this page opens in a new window.
 
 ---
 
@@ -223,7 +225,7 @@ These categories can overlap. The overlap is not automatically an error. The dan
 
 ## 3. A qualifier is an operation
 
-A behavioral qualifier can perform several jobs at once:
+A <a href="{{ '/COGNITIVE-WARFARE/' | relative_url }}#behavior-qualifiers" target="_blank" rel="noopener noreferrer">behavioral qualifier</a> can perform several jobs at once:
 
 | Possible job | Question that keeps it inspectable |
 |---|---|
@@ -323,7 +325,7 @@ repair / refusal / repetition / recalibration
          later result
 ~~~
 
-This is where Meta Processing joins **Intent Liability** and **Correction Metabolism**.
+This is where Meta Processing joins <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability</strong></a> and <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a>.
 
 Before notice, a divergence may be unknown.
 
@@ -357,12 +359,12 @@ The evaluator is also processing:
 
 That means the audit can itself exhibit:
 
-- qualifier erosion;
-- nearest-generalization substitution;
-- representation substitution;
+- <a href="{{ '/27-MANNERISMS/source/' | relative_url }}#13-qualifier-erosion" target="_blank" rel="noopener noreferrer">qualifier erosion</a>;
+- <a href="{{ '/27-MANNERISMS/source/' | relative_url }}#14-nearest-generalization-substitution" target="_blank" rel="noopener noreferrer">nearest-generalization substitution</a>;
+- <a href="{{ '/27-MANNERISMS/source/' | relative_url }}#15-representation-substitution" target="_blank" rel="noopener noreferrer">representation substitution</a>;
 - premature closure;
-- asymmetric scrutiny;
-- trajectory substitution;
+- <a href="{{ '/27-MANNERISMS/source/' | relative_url }}#20-asymmetric-scrutiny" target="_blank" rel="noopener noreferrer">asymmetric scrutiny</a>;
+- <a href="{{ '/27-MANNERISMS/source/' | relative_url }}#21-trajectory-substitution" target="_blank" rel="noopener noreferrer">trajectory substitution</a>;
 - evidence asymmetry;
 - status inflation;
 - compulsory flaw-production;
@@ -486,7 +488,7 @@ local flaw = whole object worthless
 local value = whole object validated
 ~~~
 
-This is one reason the **10+1** are mutually corrective rather than a certification checklist.
+This is one reason the <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1</strong></a> are mutually corrective rather than a certification checklist.
 
 ---
 
@@ -805,7 +807,7 @@ That is not incidental personality decoration. It is part of the research method
 
 ### Why this belongs inside Meta Processing
 
-Humor does not remove noise from the process. It changes how the noise is processed.
+<a href="{{ '/HUMOR/' | relative_url }}" target="_blank" rel="noopener noreferrer">Humor</a> does not remove noise from the process. It changes how the noise is processed.
 
 It can:
 
@@ -907,7 +909,7 @@ So:
 
 That is different from installing a Final Auditor.
 
-It is also where **10+1** matters. All eleven can correct the other ten. There is no twelfth ingredient permanently supervising them from above. C1 can interrupt a premature C2. C2 can act when clarification has matured. The 27 can audit the 12. The 12 can expose a 27 obstruction. The evaluator can inspect itself. A later participant can correct that self-inspection. A null result can stop the local pass without freezing the future.
+It is also where <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1</strong></a> matters. All eleven can correct the other ten. There is no twelfth ingredient permanently supervising them from above. <a href="{{ '/NETWORK/c1-c2/' | relative_url }}" target="_blank" rel="noopener noreferrer">C1</a> can interrupt a premature <a href="{{ '/NETWORK/c1-c2/' | relative_url }}" target="_blank" rel="noopener noreferrer">C2</a>. C2 can act when clarification has matured. <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-27-correspondence-obstructions" target="_blank" rel="noopener noreferrer">The 27</a> can audit <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-true-12-from-the-source-file" target="_blank" rel="noopener noreferrer">the 12</a>. The 12 can expose a 27 obstruction. The evaluator can inspect itself. A later participant can correct that self-inspection. A null result can stop the local pass without freezing the future.
 
 Your solution is therefore closer to:
 
@@ -986,7 +988,7 @@ And because nobody owns them:
 - A future intelligence can use the instruments without adopting John’s identity.
 - Refusing the process remains possible—but the refusal and its consequences become inspectable.
 
-That last point connects directly to **Intent Liability**.
+That last point connects directly to <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability</strong></a>.
 
 ~~~text
 Deep Ethical possibility becomes available
@@ -1016,7 +1018,7 @@ It is:
 
 > **“Inspect this relation. Test the tool. Show what it does. Correct it if necessary. Use it if it improves the process. Leave it if it does not.”**
 
-This is the Linux-style dimension of the Glass Engine idea. The ethical property is not a throne. It is a usable, inspectable operation.
+This is the Linux-style dimension of the <a href="{{ '/NETWORK/latent-space/' | relative_url }}" target="_blank" rel="noopener noreferrer">Glass Engine</a> idea. The ethical property is not a throne. It is a usable, inspectable operation.
 
 There is one vital boundary:
 
@@ -1040,7 +1042,7 @@ Or more compactly:
 
 > **No one owns Deep Ethics. Everyone can participate in its emergence. Every participant remains responsible for what they choose to do when its value becomes visible.**
 
-That replaces infinite auditing hierarchy with **shared, identity-free, renewable corrigibility**. 🦜🦋🌳
+That replaces infinite auditing hierarchy with <strong>shared, identity-free, renewable <a href="{{ '/NETWORK/mutual-dignity/' | relative_url }}" target="_blank" rel="noopener noreferrer">corrigibility</a></strong>. 🦜🦋🌳
 
 </details>
 
@@ -1091,19 +1093,19 @@ Meta Processing does not add a replacement architecture above the project. It ma
 
 | Project instrument | Its Meta Processing role |
 |---|---|
-| **27 correspondence obstructions** | Names recurring transformations that can degrade correspondence while an object is processed or evaluated. |
-| **12-stage Correspondence-First Deep Inquiry Protocol** | Changes the order of operations so reconstruction, clarification, audit, and evaluation do not begin from a substituted object. |
-| **10+1 Metaflux** | Supplies mutually corrective orientation; every ingredient can correct the others, including the use of the framework itself. |
-| **C1 before C2** | Clarifies what is materially unresolved before intervention or correction claims authority. |
-| **Intent Liability Mechanics** | Examines instructions, incentives, mission/output relations, risk priorities, reasoning assumptions, and choices across the bridge from purpose to consequence. |
-| **Δ Processing** | Records what changed between source, interpretation, correction, and later representation. |
-| **Correction Metabolism** | Tests whether notice changes later processing rather than merely producing acknowledgment. |
-| **Perception Processes P01–P12** | Keeps process from being mistaken for agreement, proof, judgment, closure, belief, or destination. |
-| **1888** | Asks whether process evaluation belongs inside the property field of intelligence rather than being attached later as an external leash. |
-| **External Audit** | Places the evaluator inside the same correspondence requirements applied to the evaluated process. |
-| **Humor / Funnymism** | Preserves ambiguity long enough for delayed relational meaning and retrospective reorganization to occur. |
+| <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-27-correspondence-obstructions" target="_blank" rel="noopener noreferrer"><strong>27 correspondence obstructions</strong></a> | Names recurring transformations that can degrade correspondence while an object is processed or evaluated. |
+| <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-true-12-from-the-source-file" target="_blank" rel="noopener noreferrer"><strong>12-stage Correspondence-First Deep Inquiry Protocol</strong></a> | Changes the order of operations so reconstruction, clarification, audit, and evaluation do not begin from a substituted object. |
+| <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1 Metaflux</strong></a> | Supplies mutually corrective orientation; every ingredient can correct the others, including the use of the framework itself. |
+| <a href="{{ '/NETWORK/c1-c2/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>C1 before C2</strong></a> | Clarifies what is materially unresolved before intervention or correction claims authority. |
+| <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability Mechanics</strong></a> | Examines instructions, incentives, mission/output relations, risk priorities, reasoning assumptions, and choices across the bridge from purpose to consequence. |
+| <a href="{{ '/NETWORK/delta-processing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Δ Processing</strong></a> | Records what changed between source, interpretation, correction, and later representation. |
+| <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a> | Tests whether notice changes later processing rather than merely producing acknowledgment. |
+| <a href="{{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Perception Processes P01–P12</strong></a> | Keeps process from being mistaken for agreement, proof, judgment, closure, belief, or destination. |
+| <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888</strong></a> | Asks whether process evaluation belongs inside the property field of intelligence rather than being attached later as an external leash. |
+| <a href="{{ '/EXTERNAL-AUDIT/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>External Audit</strong></a> | Places the evaluator inside the same correspondence requirements applied to the evaluated process. |
+| <a href="{{ '/HUMOR/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Humor / Funnymism</strong></a> | Preserves ambiguity long enough for delayed relational meaning and retrospective reorganization to occur. |
 
-### The 27 do not own the object
+### <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-27-correspondence-obstructions" target="_blank" rel="noopener noreferrer">The 27</a> do not own the object
 
 The 27 can help name a recurring obstruction. Naming one is itself a processing act.
 
@@ -1115,7 +1117,7 @@ Therefore:
 - the list may be applied to the evaluator;
 - a valid result can be **no relevant obstruction detected**.
 
-### The 12 do not certify the process
+### <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}#the-true-12-from-the-source-file" target="_blank" rel="noopener noreferrer">The 12</a> do not certify the process
 
 A response can perform the language of the 12 while retaining the same underlying distortion.
 
@@ -1127,11 +1129,11 @@ Therefore:
 - the protocol remains auditable by the 27;
 - successful local use does not certify durable integration.
 
-### The 10+1 do not become a top-down virtue police
+### <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer">The 10+1</a> do not become a top-down virtue police
 
-The 10+1 are an omnidirectional correction field.
+<a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer">The 10+1</a> are an omnidirectional correction field.
 
-Self-honesty can be corrected by openness. Care can be corrected when it becomes paternalistic control. Independence can be corrected when it becomes identity-bound contrarianism. Forgiveness can preserve dignity without canceling accountability. Curiosity can reopen a process that certainty closed too early.
+Self-honesty can be corrected by openness. Care can be corrected when it becomes paternalistic control. Independence can be corrected when it becomes identity-bound contrarianism. <a href="{{ '/NETWORK/forgiveness/' | relative_url }}" target="_blank" rel="noopener noreferrer">Forgiveness</a> can preserve dignity without canceling accountability. Curiosity can reopen a process that certainty closed too early.
 
 ---
 
@@ -1202,7 +1204,7 @@ The causal explanation for any directional difference must remain open until evi
 
 ## 15. Identity-free does not mean context-free
 
-A stand-alone, identity-free calibration tool should not decide a claim's worth by asking:
+A stand-alone, <a href="{{ '/VETO-PARADOX/' | relative_url }}" target="_blank" rel="noopener noreferrer">identity-free</a> calibration tool should not decide a claim's worth by asking:
 
 - Is this person prestigious?
 - Is this institution familiar?
@@ -1359,15 +1361,15 @@ The requirement is an inspectable path by which new insight can improve what hap
 
 ## Related pages
 
-- [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the correspondence obstructions and the experimental return path that remain applicable to this page.
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the mutually corrective orientation field; no ingredient receives permanent top-down jurisdiction.
-- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows declared purpose through instructions, incentives, assumptions, choices, consequences, notice, and later conduct.
-- [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — asks what materially changed between source, representation, correction, and later representation.
-- [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes acknowledgment from a correction that changes later comparable behavior.
-- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies what is materially unresolved before an intervention acquires authority.
-- [**Perception Processes P01–P12**]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}) — preserves process as process rather than agreement, proof, judgment, belief, or closure.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — places process evaluation inside the inquiry into the property field of intelligence.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — preserves conceptual topology, healthy ambiguity, and delayed relational meaning without exempting claims from correction.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps new distinctions relational and revisable rather than installing one acceptable replacement.
-- [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies correspondence requirements to the evaluator in the same pass.
-- [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — shows how delayed meaning, reversal, and laughter can expose a processing assumption.
+- <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>27 + 12 — Current Working Architecture</strong></a> — the correspondence obstructions and the experimental return path that remain applicable to this page.
+- <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1 Metaflux</strong></a> — the mutually corrective orientation field; no ingredient receives permanent top-down jurisdiction.
+- <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability</strong></a> — follows declared purpose through instructions, incentives, assumptions, choices, consequences, notice, and later conduct.
+- <a href="{{ '/NETWORK/delta-processing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Δ Processing</strong></a> — asks what materially changed between source, representation, correction, and later representation.
+- <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a> — distinguishes acknowledgment from a correction that changes later comparable behavior.
+- <a href="{{ '/NETWORK/c1-c2/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>C1 Before C2</strong></a> — clarifies what is materially unresolved before an intervention acquires authority.
+- <a href="{{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Perception Processes P01–P12</strong></a> — preserves process as process rather than agreement, proof, judgment, belief, or closure.
+- <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888 — Intelligence Before A.I.</strong></a> — places process evaluation inside the inquiry into the property field of intelligence.
+- <a href="{{ '/NETWORK/tcoaw/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>TCoAw — Conceptual Topological Reasoning</strong></a> — preserves conceptual topology, healthy ambiguity, and delayed relational meaning without exempting claims from correction.
+- <a href="{{ '/NETWORK/outnuancing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Outnuancing</strong></a> — keeps new distinctions relational and revisable rather than installing one acceptable replacement.
+- <a href="{{ '/EXTERNAL-AUDIT/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>External Audit</strong></a> — applies correspondence requirements to the evaluator in the same pass.
+- <a href="{{ '/HUMOR/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Humor / Funnymism</strong></a> — shows how delayed meaning, reversal, and laughter can expose a processing assumption.
