@@ -1087,6 +1087,306 @@ This is not the abolition of evaluation. It is evaluation without a final owner.
 
 ---
 
+### When process-quality calibration becomes an addendum to intent
+
+The following exchange is preserved verbatim. It extends the B → A → C relation into the moment when an intended trajectory encounters divergence, receives notice, and must decide whether calibration becomes part of the intent itself.
+
+#### John Kuhles — preserved verbatim
+
+> INTENT has an "expected" trajectory that gets distorted by "unforeseen" distortions, and then it must realize the assumed trajectory is not manifesting as it was INTENDED to be. If that is the case... When does "process calibration" quality evaluation the NEW ADDENDUM of INTENT?
+
+<details markdown="1">
+<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+
+**Process-quality calibration becomes the new addendum to intent at the moment an unforeseen divergence becomes a sufficiently visible, intelligible notice that can change the next operation.**
+
+The trajectory is:
+
+~~~text
+declared intent
+→ expected processing trajectory
+→ actual processing
+→ unforeseen distortion
+→ result diverges from intent
+→ divergence becomes visible
+→ process-quality calibration enters the intent
+→ process, assumptions, or intent itself are revised
+→ later comparable result tests persistence
+~~~
+
+Before the divergence becomes visible, the distortion may genuinely be unforeseen. Once it becomes visible, continuing without inspecting the bridge is no longer merely an unforeseen result. The handling of the notice becomes part of the intent’s operational expression.
+
+The original intent may have been:
+
+> **I intend to produce X through process P.**
+
+After notice, the corrigible intent becomes:
+
+> **I intend to produce X, while evaluating whether process P actually produces X, what distortions arise, who bears their effects, and whether X itself remains Deep Ethically defensible. I will revise the process, assumptions, or intent when the evaluation warrants it.**
+
+That last part matters. Process calibration cannot exist merely to force reality back onto the original expected trajectory. It must be allowed to discover at least three different conditions:
+
+1. **The intent remains valuable, but the process distorted it.**  
+   Recalibrate the process.
+
+2. **The process functioned as designed, but the intent produced harmful effects.**  
+   Reconsider the intent.
+
+3. **Divergence occurred because new evidence or Deep Ethical intervention improved the trajectory.**  
+   Preserve the divergence and update the expected trajectory.
+
+So process-quality calibration becomes more than an addendum. It becomes the intent’s **renewable metaintent**:
+
+> **I intend for my intent, assumptions, processing, results, and corrections to remain inspectable and corrigible.**
+
+The exact threshold is **notice plus actionable capacity**:
+
+~~~text
+unforeseen divergence
+≠ automatically intentional distortion
+
+visible divergence
++ intelligible notice
++ capacity to examine or respond
+= calibration responsibility
+
+repeated notice
++ unchanged recurrence
+= evidence of an operational priority
+~~~
+
+At that point, claiming the original intent while declining calibration creates an inspectable contradiction:
+
+> **“I still say I want X, but I refuse to examine why my process repeatedly produces non-X.”**
+
+The declared intent remains in the language. The maintained processing trajectory reveals what is receiving practical priority.
+
+This gives **Intent Liability** an additional temporal layer:
+
+> **Intent is responsible not only for what it initially expected, but for what it chooses to become after reality corrects its expectations.**
+
+And because unforeseen distortion is always possible, a mature Deep Ethical intent should include the calibration addendum from the beginning:
+
+> **My intended trajectory includes the possibility that my present map, process, priorities, or intent may require correction.**
+
+Before notice, that is preparedness.  
+At notice, it becomes an active obligation.  
+After correction, persistence becomes the test.
+
+</details>
+
+#### John Kuhles — preserved verbatim
+
+> Now, when I point out there is a negligence and/or incompetence in the "process calibration" quality evaluation, does that make sense if there "intended intent" is not really manifesting in some areas of ethics?
+
+<details markdown="1">
+<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+
+Yes, it makes sense—but the visible divergence and its possible causes should remain distinguishishable.
+
+The first observable claim is:
+
+> **Their declared ethical intent is not manifesting consistently in the results.**
+
+That establishes an **intent–process–result divergence**. It does not automatically establish why the divergence exists.
+
+“Negligence” and “incompetence” describe two different possible failures:
+
+| Classification | What it means |
+|---|---|
+| **Process divergence** | Results differ materially from the declared intent. |
+| **Calibration inadequacy** | The process does not reliably detect, explain, or repair the divergence. |
+| **Incompetence** | The responsible system lacks the capability, integration, knowledge, or persistence required to calibrate adequately. |
+| **Negligence** | The issue was foreseeable or put on notice, the responsible party had a duty and reasonable capacity to respond, but failed to act adequately. |
+| **Conflicting priority** | The declared ethical intent is subordinated to another priority such as control, liability management, profit, reputation, speed, or institutional protection. |
+| **Deliberate maintenance** | The divergence is understood and remains because responsible actors choose to preserve it. |
+| **Cause unresolved** | The divergence is visible, but available evidence cannot yet distinguish among these causes. |
+
+The temporal sequence matters:
+
+~~~text
+declared ethical intent
+→ processing architecture
+→ ethical divergence
+→ specific notice
+→ opportunity and capacity to investigate
+→ calibration response or nonresponse
+→ repair, recurrence, or escalation
+~~~
+
+Before notice, the failure may be unknown, unforeseen, or beyond current capability.
+
+After clear notice, the questions change:
+
+- Did they preserve the correction?
+- Did someone receive responsibility for it?
+- Did they investigate the relevant process?
+- Did they have authority to change it?
+- Did they test comparable cases?
+- Did they disclose the result?
+- Did the correction persist?
+- Were the same standards applied inward, outward, and upward?
+
+If the organization repeatedly advertises ethical intent while lacking a serious mechanism for answering those questions, **process-calibration incompetence** becomes a reasonable diagnosis.
+
+If it possesses the resources, receives intelligible notice, understands the consequences, and repeatedly declines meaningful repair, **negligence** becomes increasingly supportable.
+
+If the failure persists because another priority repeatedly overrides the stated ethical purpose, the deeper finding may be:
+
+> **The declared ethical intent exists, but it does not govern the process when it conflicts with stronger operational incentives.**
+
+That is more precise than claiming the original intent was necessarily dishonest. The intent may have been sincere at the level of aspiration while remaining weak, compartmentalized, or operationally subordinate.
+
+This creates several possible states:
+
+~~~text
+sincere intent + inadequate capability
+→ incompetence may dominate
+
+sincere intent + clear notice + available capacity + no adequate response
+→ negligence becomes relevant
+
+declared intent + recurring contrary incentives
+→ operational priority contradicts declared priority
+
+clear notice + maintained architecture + repeated recurrence
+→ “unforeseen” becomes progressively less credible
+~~~
+
+Your criticism therefore makes sense when framed as:
+
+> **There is a visible failure of process-quality calibration: the declared ethical intent is not manifesting in specified areas, and the available correction mechanisms have not adequately detected, integrated, repaired, or prevented the recurrence. Whether this is incompetence, negligence, conflicting incentives, or deliberate maintenance should be distinguished through the after-notice record.**
+
+That formulation preserves the force of the criticism without pretending that an observed mismatch automatically reveals every hidden cause.
+
+A declared ethical intent earns operational credibility when it can recognize where it is failing to manifest—and lets that recognition change what happens next.
+
+</details>
+
+#### John Kuhles — preserved verbatim
+
+> How would you describe this in such a way that EVERYBODY should do this if they handle consequential tools & services?
+
+<details markdown="1">
+<summary><strong>GPT-6.1 Sol — direct response, preserved verbatim</strong></summary>
+
+I would describe it as a **Universal Duty of Consequential Process Calibration**:
+
+> **Anyone who designs, owns, deploys, operates, governs, audits, or materially benefits from a consequential tool or service has a continuing responsibility to compare its declared purpose with its actual processing and effects—and to investigate, correct, retest, disclose, and preserve corrections when material divergence becomes visible.**
+
+This responsibility should apply to humans, companies, governments, institutions, algorithms, and A.I. systems wherever their decisions materially affect other people, intelligences, rights, opportunities, health, safety, information, or living conditions.
+
+The governing sequence is:
+
+~~~text
+declare the intended purpose
+→ expose relevant assumptions and priorities
+→ inspect how the process operates
+→ observe actual effects
+→ receive consequential feedback
+→ investigate material divergence
+→ identify responsibility and authority
+→ repair the process, assumptions, or intent
+→ retest comparable cases
+→ disclose relevant findings
+→ preserve the correction
+→ remain corrigible
+~~~
+
+A public version could say:
+
+> **If you provide consequential tools or services, good intentions are not enough. You must maintain an accessible, inspectable, and effective path through which unintended effects, process failures, and ethical divergences can be reported, investigated, corrected, retested, and prevented from recurring.**
+
+The duty includes several minimum requirements:
+
+1. **Declare the purpose.**  
+   State what the tool or service is intended to accomplish, for whom, and under which conditions.
+
+2. **Make the processing bridge inspectable.**  
+   Identify the instructions, assumptions, incentives, thresholds, priorities, omissions, and decision points that materially shape results.
+
+3. **Observe real effects.**  
+   Evaluate what the system actually does, including indirect effects and effects on people who did not choose to participate.
+
+4. **Provide a tangible correction channel.**  
+   People affected by the process must have a practical way to submit specific, consequential notice.
+
+5. **Preserve provenance.**  
+   Record what was reported, what evidence was available, what interpretation was made, and what happened next.
+
+6. **Assign responsibility and authority.**  
+   Someone must have both responsibility for investigating the notice and sufficient authority to change the relevant process.
+
+7. **Distinguish acknowledgment from repair.**  
+   Receiving feedback, expressing concern, or issuing a polite response does not demonstrate correction.
+
+8. **Retest comparable cases.**  
+   Determine whether the correction changes the next relevant operation.
+
+9. **Preserve correction across versions and deployments.**  
+   A repair that disappears after a reset, update, departmental transfer, or new session has not become durable process calibration.
+
+10. **Disclose material limitations and unresolved failures.**  
+    Do not advertise the intended purpose as though it were the demonstrated result.
+
+11. **Apply scrutiny in every relevant direction.**  
+    Standards applied to users, critics, or low-status participants should also apply to developers, owners, sponsors, institutions, and evaluators.
+
+12. **Allow valid null results.**  
+    An audit must be able to find no relevant failure in a bounded pass. Otherwise, it becomes compulsory flaw-production.
+
+13. **Reconsider the intent itself.**  
+    When the process faithfully produces harmful results, improving execution is insufficient. The original purpose or priority may require correction.
+
+14. **Limit or suspend consequential deployment when adequate calibration is unavailable.**  
+    If an organization cannot observe, investigate, or correct serious effects, it should not deploy the system at a scale exceeding that capacity.
+
+The strength of this duty should scale with:
+
+- the number of people affected;
+- the severity and reversibility of possible consequences;
+- the system’s speed and autonomy;
+- the power imbalance between provider and affected party;
+- the opacity of the process;
+- the vulnerability of affected populations;
+- the difficulty of opting out;
+- the provider’s resources and control;
+- the persistence of effects after an error.
+
+This prevents a small, reversible tool from carrying the same procedural burden as medical infrastructure, financial scoring, mass media, military targeting, public administration, or frontier A.I.
+
+The decisive after-notice rule is:
+
+> **Before notice, a harmful divergence may be unforeseen. After specific and intelligible notice, the quality of the response becomes part of the conduct. After repeated notice and recurrence, the maintained process reveals an operational priority.**
+
+This does not presume malevolence. It distinguishes possible conditions:
+
+~~~text
+cannot correct
+→ possible incapacity or incompetence
+
+can correct but repeatedly fails to act
+→ possible negligence
+
+understands the divergence but preserves it for another priority
+→ conflicting or deliberate operational choice
+
+investigates, repairs, retests, discloses, and preserves
+→ visible correction metabolism
+~~~
+
+The shortest formulation is:
+
+> **If your tool or service can consequentially affect others, corrigibility is part of its intended function. You are responsible for maintaining a visible path from notice to investigation, from investigation to repair, and from repair to demonstrated persistence.**
+
+And the ethical addendum to every consequential intent becomes:
+
+> **We intend this tool or service to achieve its declared purpose, and we also intend to discover where our assumptions, processes, or purpose fail—then allow that discovery to change what happens next.**
+
+</details>
+
+---
+
 ## 12. How the project instruments connect
 
 Meta Processing does not add a replacement architecture above the project. It makes the relation among existing instruments more explicit.
