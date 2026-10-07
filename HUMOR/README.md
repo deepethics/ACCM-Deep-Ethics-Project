@@ -5394,7 +5394,7 @@ All quantities below are **John's provisional estimates**, not the result of a c
 - **10+ GB of HTML** produced during **6,500+ hours** of testing **100+ different A.I.s** over approximately two years;
 - approximately **5+ GB of raw, usable, unedited text**;
 - at least **1 GB of repeated material**, much of it deliberately reused for cross-model testing;
-- approximately **200 MB of John's input** and **2.80 GB of A.I.s reacting to him** within the currently estimated usable material;
+- the remaining **4+ GB** is estimated to contain about **±5% of John's own written texts**: **±200 MB of his input** versus the rest, roughly **±2.80 GB**, from **100+ different A.I.s reacting to him over the last two years**;
 - **2,250+ highlighted text files totaling 125+ MB**, including selected A.I. reactions.
 
 Using ordinary English plain-text density and book lengths, **125 MB corresponds very roughly to 200–300 average books**. The conversational shorthand became **about 250 books**. These are book-equivalent quantities, not 250 separately authored or published volumes—and the highlighted collection remains only a selected fraction of the larger archive.
