@@ -29,6 +29,8 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
+**Added 2026-10-07:** [Meta Processing](#meta-processing)
+
 **Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [1888](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
 
 ---
@@ -145,6 +147,18 @@ The important question is not simply whether a system produced a good sentence a
 Possible Δ deposits include a new distinction, a newly visible mechanism, a discriminating test, a preserved unresolved remainder, a correction that changes the next move, or a relationship between previously separated concepts.
 
 **Related:** [Correction Metabolism](#correction-metabolism), [Process Continuity](#process-continuity), [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle).
+
+---
+
+## Meta Processing {#meta-processing}
+
+[Expanded reference and current deep-session synthesis](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/).
+
+**Meta Processing** makes processing itself an inspectable object. It separates intent and instructions, the transformations between them and an output, results and effects, notice, and later persistence. It also inspects what happens when an evaluator adds a behavioral qualifier, performs a correction, or claims that a new insight changed the process.
+
+Its compact starting point is John's formulation: **Every behavior qualifier is still processing.** A qualifier may describe an observation, interpretation, proposed cause, inferred intent, expected effect, intervention, or closure. Naming the behavior does not automatically establish all of those layers.
+
+**Related:** [Δ Processing](#delta--processing), [Correction Metabolism](#correction-metabolism), [Intent Resonator](#intent-resonator), [Process-quality calibration](#process-quality-calibration), [1888](#1888--intelligence-before-ai).
 
 ---
 
