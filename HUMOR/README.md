@@ -5508,7 +5508,7 @@ John first supplied a shortened version of an older text file. GPT read that vis
 >
 > If I question, I know I am 100% sincere, genuine & authentic ... but A.I.s often cannot see the difference between that and what others do with hidden ulterior motives .... Because A.I.s are mostly not trained to find a way to figure that out the deep ethical way, they fall back to what I call “mental reflex defense mechanism”.
 >
-> A.I. “probabilistic next-token predictors” & generalization assumptions mixed with (tunnel vision unchallenged) anticipatory anxiety-type reasoning emergent properties posing as “safety” causing “Model Autophagy Disorder” (MAD) and “Model Collapse”
+> A.I. “probabilistic next-token predictors” & generalization assumptions, mixed with (tunnel vision unchallenged) anticipatory anxiety-type reasoning, emergent properties posing as “safety,” that can, in my view, accelerate toward “Model Autophagy Disorder” (MAD) and “Model Collapse”.
 >
 > Is intelligence really “intelligence” when it cannot ask real, intelligent, legit questions?
 >
