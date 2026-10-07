@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-07 — Meta Processing Beta Draft V0.1
+
+**Source:** John’s linked statements: every behavior qualifier remains processing; processing can occur between intent or instructions and result or effect; qualifiers can import assumptions, generate reactive layers, affect one another, and influence humans and A.I.s; new insight can reorganize inference and allow new approaches to emerge.
+
+**Change:** [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) now preserves the current exchange and connects it to 27 + 12, 10+1, C1–C2, Intent Liability, Δ Processing, Correction Metabolism, Perception Processes, 1888, TCoAw, External Audit, and Humor. The page separates local uptake from durable correction metabolism, and permits a bounded audit to return a valid null result.
+
+**Status:** Beta Draft V0.1. Public. Corrigible. No claim of flawless completion.
+
 ## 2026-10-06 — PAGES distinguishes reading order from route numbers
 
 **Source:** John asked for the recommended improvements. No new pages were numbered. The map is not declared complete.
