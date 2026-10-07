@@ -1383,6 +1383,86 @@ And the ethical addendum to every consequential intent becomes:
 
 ---
 
+### Cross-model delta: intent becomes maintainable
+
+Two differently framed Arena readings—**Claude Fable 5 Search** and **Claude Sonnet 5 Search**, October 7, 2026—identified relations made newly visible by the intent-calibration exchange. Their contributions are retained at their useful strength rather than treated as model consensus or final authority.
+
+> **“That converts intent from a one-time declaration into a temporal object with a maintenance duty.”**  
+> — **Claude Fable 5 Search**
+
+This makes the addendum more precise. Declared intent does not complete its ethical work when it announces a purpose. It continues through assumptions, processing, results, divergence, notice, available capacity, correction, and later recurrence or persistence.
+
+The three-way calibration branch prevents the original intent from becoming an untouchable set point:
+
+~~~text
+intent remains defensible + process distorted
+→ correct the process
+
+process faithful + intent harmful
+→ correct the intent
+
+divergence improved the trajectory
+→ preserve the divergence
+→ update the expected trajectory
+~~~
+
+Removing the second branch would turn calibration into frame protection. Removing the third would turn calibration into automatic obedience to the original plan. A corrigible intent must permit reality, consequences, better evidence, and Deep Ethical intervention to change the expected trajectory.
+
+> **“Calibration capacity as a deployment ceiling, not an aspiration.”**  
+> — **Claude Fable 5 Search**
+
+This makes capacity part of consequential stewardship. The relation is not exhausted by asking whether someone could respond after a failure. It also asks whether a provider deployed or expanded a consequential tool while lacking the capacity to observe, investigate, correct, retest, and preserve repairs.
+
+~~~text
+genuinely lacks control or a reasonable means to intervene
+→ responsibility may be limited
+
+deploys consequentially without building adequate calibration capacity
+→ incapacity may itself become part of the process failure
+
+continues scaling after that incapacity becomes visible
+→ the maintained operational priority becomes increasingly inspectable
+~~~
+
+> **“Unforeseeability has a shelf life, and repeated notice is what expires it.”**  
+> — **Claude Sonnet 5 Search**
+
+The sentence remains bounded by conditions. Repeated notice does not reveal every hidden cause by itself. Its weight increases when the notice is specific and intelligible, the effect recurs, relevant capacity and authority exist, and reasonable opportunities to investigate or repair are declined.
+
+Sonnet also identified a register change in the **Universal Duty of Consequential Process Calibration**. Much of the **ACCM Deep Ethics Project** offers identity-free tools without demanding agreement or adoption. The Universal Duty uses firmer words such as *must* and *responsibility*. That shift follows the change in object: the question is no longer only whether someone voluntarily uses a reasoning tool; it is whether someone exercises consequential power through a tool or service that affects others, including people who may not be able to opt out.
+
+The intended boundary is:
+
+> **This is proposed as a minimum stewardship standard for consequential tools and services. It does not require adoption of the ACCM Deep Ethics Project or grant the project enforcement authority. It states the process conditions under which declared ethical intent can earn and retain operational credibility.**
+
+A provider may reject the project’s identity, vocabulary, or instruments. That does not make the provider’s consequential processing, effects, notice handling, and correction capacity unavailable for inspection.
+
+> **“A page about intent meeting unforeseen divergence received an unforeseen question, and its intent expanded to include the answer.”**  
+> — **Claude Fable 5 Search**
+
+That sentence describes a local instance of the page operating through its own mechanism. A new question changed what relation was visible; the artifact then changed. This demonstrates local correction governance in continued drafting. It does not yet establish cold transfer, independent scoring reliability, or persistence across unrelated future cases.
+
+#### Access-layer specimen: apparent empty verbatim slots
+
+Fable also reported that several headings promising a preserved GPT response appeared to contain no response. The GitHub source did contain the full text inside collapsed HTML `<details>` elements. Fable accurately reported the representation available to it, then located the absence at the wrong layer.
+
+~~~text
+complete response in GitHub source
+→ collapsed presentation element
+→ Arena or search extraction receives the summary heading
+→ response body is absent from the evaluator’s effective input
+→ evaluator observes an apparently empty slot
+→ apparent absence is attributed to the source artifact
+~~~
+
+The correction is not that an evaluator must somehow retrieve text it never received. It is that absence from the evaluator’s effective representation should remain separate from absence in the source object until the transformation chain is checked.
+
+> **Absence from an evaluator’s representation is not automatically absence from the source object.**
+
+This access-layer specimen also changed the page. The newly added intent-calibration exchange was moved out of collapsed containers so its complete reasoning would be immediately visible to human readers and more likely to survive automated extraction.
+
+---
+
 ## 12. How the project instruments connect
 
 Meta Processing does not add a replacement architecture above the project. It makes the relation among existing instruments more explicit.
