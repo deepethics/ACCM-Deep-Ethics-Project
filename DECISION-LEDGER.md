@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-07 — Meta Processing terms open their deeper pages
+
+**Source:** John asked for the keywords and key-phrases on Meta Processing to open the public pages that treat them in depth, with every link using `target="_blank"`.
+
+**Change:** [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/). Instrument names, five named obstructions, Glass Engine, the behavior-qualifier index, Humor, Forgiveness, identity-free, and corrigibility now open their deeper pages. Related-page links do the same. Preserved quotations were not edited. Phrases without their own depth page were left unlinked.
+
+**Status:** Public. Corrigible.
+
 ## 2026-10-07 — Meta Processing Beta Draft V0.1
 
 **Source:** John’s linked statements: every behavior qualifier remains processing; processing can occur between intent or instructions and result or effect; qualifiers can import assumptions, generate reactive layers, affect one another, and influence humans and A.I.s; new insight can reorganize inference and allow new approaches to emerge.
