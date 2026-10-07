@@ -10,7 +10,7 @@ permalink: /PUBLIC-DRAFTS/Perception-Processes-P01-P12/
 
 ## Related pages
 
-- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence without turning the process into a verdict.
+- [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence without turning the process into a verdict.
 
 - [**Public Drafts**]({{ '/PUBLIC-DRAFTS/' | relative_url }}) — gives the source-preserving publication context for this early process object.
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects the process orientation to the project’s wider public goals.

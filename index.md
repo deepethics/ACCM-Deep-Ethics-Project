@@ -34,7 +34,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   </a>
   <a class="accm-door" href="{{ '/NETWORK/meta-processing/' | relative_url }}">
     <span class="accm-door-kicker">Intent, processing, result, and emergence</span>
-    <strong>Meta Processing — Beta Draft V0.1</strong>
+    <strong>Meta Processing — Beta Draft V0.2b</strong>
     <span>Every behavior qualifier is still processing. A working field page on what happens between intent or instructions and results or effects—and whether new insight changes the next comparable process.</span>
   </a>
   <a class="accm-door" href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}">
