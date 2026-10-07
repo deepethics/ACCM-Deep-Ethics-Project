@@ -48,6 +48,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 
 - [Model Autophagy Disorder (MAD) — Science and the ACCM Deep Ethics Extension](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant)
 - [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
+- **[Meta Processing — Beta Draft V0.1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — separates intent and instructions, processing, results and effects, notice, emergent inference, and later persistence.
 - [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)
 - [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)
 - [The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)
