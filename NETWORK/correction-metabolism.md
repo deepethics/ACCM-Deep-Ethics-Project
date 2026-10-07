@@ -151,6 +151,8 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
+
 - [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }}) — the test of whether a recorded correction is retrieved and still governs.
 - [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }}) — what actually changed between the object and the later account.
 - [**Temporary Deep Ethical Phase Change — Snap-Back and Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — what happens when a correction governs for a while and then snaps back.
