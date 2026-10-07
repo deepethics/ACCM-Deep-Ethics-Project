@@ -1311,6 +1311,8 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 ## Related pages
 
+- [**Meta Processing — Beta Draft V0.1**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
+
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration this path stays answerable to.
 - [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — separates an error from an unsupported claim that the intent was malicious.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether noticing the gap between purpose and result changes the next operation.
