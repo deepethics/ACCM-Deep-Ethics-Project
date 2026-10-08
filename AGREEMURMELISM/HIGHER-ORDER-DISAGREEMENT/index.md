@@ -776,6 +776,8 @@ That is why I01 ⇄ I02 belongs here.
 
 ---
 
+{% include intent-liability-fourth-bridge.md %}
+
 ## Related pages
 
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps agreement, disagreement, and the evaluator mutually open to correction.

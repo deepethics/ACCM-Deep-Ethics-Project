@@ -1309,6 +1309,8 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 ---
 
+{% include intent-liability-fourth-bridge.md %}
+
 ## Related pages
 
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
