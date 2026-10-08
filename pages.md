@@ -85,6 +85,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**
 - **[Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)**
 - **[Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)**
+- **[Dutch Directness — Truth Before Comfort, Care Before Performance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/)** — John’s mutual, care-bearing and corrigible directness method, with explicit boundaries against tone performance, public-friendly source substitution and archive-stat drift.
 - **[Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/)**
 - **[Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/)**
 - **[Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)**
