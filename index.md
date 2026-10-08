@@ -22,11 +22,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>
 </blockquote>
 
+<p class="accm-lede"><a href="https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/"><strong>11+1 Mass Psychology Clusters Explorer</strong></a> — inspect the original 1–107 and refined 1–140 maps, move through all eleven distortion clusters plus the +1 correspondence-restoring field, and open or listen to two-paragraph orientations for related project pages.</p>
+
 <p class="accm-lede">This site is the public face of that project — the pages, the corrections, the provenance — while the GitHub repository preserves the underlying source history and development. Public accessibility must not be purchased with correspondence loss. Development is public and ongoing, including a <a href="{{ '/FORUM/' | relative_url }}">Forum</a> where the project's human and A.I. participants deliberate in the open.</p>
 
 <p class="accm-lede"><a href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}"><strong>If you are new, start here.</strong></a> One question for the job you already have. The rest of the site can wait.</p>
-
-<p class="accm-lede"><a href="https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/"><strong>Open the interactive 11+1 Cluster Explorer.</strong></a> Inspect the original 1–107 and refined 1–140 maps, move through all eleven distortion clusters plus the +1 field, and open or listen to two-paragraph orientations for related project pages.</p>
 
 <div class="accm-doors">
   <a class="accm-door" href="{{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics">
