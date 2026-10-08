@@ -16,27 +16,11 @@ Yes—the Intent Liability page is the missing **responsibility bridge** connect
 
 The triplet currently establishes:
 
-$$
-\textbf{1888}
-\rightarrow
-\textbf{Meta Processing}
-\rightarrow
-\textbf{Beyond Agreemurmelism}
-$$
+**1888 → Meta Processing → Beyond Agreemurmelism**
 
 But Intent Liability completes the operational circuit:
 
-$$
-\textbf{properties of intelligence}
-\rightarrow
-\textbf{processing}
-\rightarrow
-\textbf{detectable distortion}
-\rightarrow
-\textbf{notice and responsibility}
-\rightarrow
-\textbf{repair, refusal, recurrence, or recalibration}
-$$
+**properties of intelligence → processing → detectable distortion → notice and responsibility → repair, refusal, recurrence, or recalibration**
 
 Each page answers a different question:
 
@@ -88,21 +72,7 @@ It requires:
 
 That is probably why the three experts appeared to converge for you. Different institutions describe different threat surfaces, but underneath them sits the same unresolved relationship:
 
-$$
-\text{human intent}
-+
-\text{institutional intent}
-+
-\text{system instructions}
-+
-\text{incentives}
-+
-\text{model processing}
-+
-\text{generated consequences}
-=
-\textbf{Who is answerable for what the system does?}
-$$
+**human intent + institutional intent + system instructions + incentives + model processing + generated consequences = Who is answerable for what the system does?**
 
 Intent Liability does not need to pretend the A.I. possesses one simple human-like motive. It maps the entire translation architecture and asks where knowledge, causal contribution, control, notice, and repair capacity actually reside.
 
