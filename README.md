@@ -4,7 +4,7 @@
 >
 > This repository is being built in public. It is far too early to represent a finished or implementation-ready framework. Definitions may change, categories may split or merge, drafts may be rewritten, and errors are expected. Constructive correction is welcome.
 
-**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
+**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
 The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
@@ -13,6 +13,10 @@ The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep 
 > — **John Kuhles**, [source excerpt E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e01)
 
 The project is focused on correspondence, clarification, corrigibility, mutual dignity, process quality, and the transformations that occur between an object and the representation produced about it.
+
+> **Interactive instrument — [Open the ACCM Deep Ethics Project 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)**
+>
+> Inspect the original 1–107 and refined 1–140 architectures, move through all eleven distortion clusters plus the +1 correspondence-restoring field, compare what changed, open related project summaries, and listen to their two-paragraph orientations.
 
 A recurring question is simple:
 
@@ -32,7 +36,7 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 **If you are new:** [If your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — one question for the job you already have. The rest of this list can wait.
 
-Fourteen doors, not a required sequence:
+Sixteen doors, not a required sequence:
 
 1. **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)** — a pragmatic front door by profession. The questions name a use. They do not claim the method has already done that job.
 2. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
@@ -49,6 +53,7 @@ Fourteen doors, not a required sequence:
 13. **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)** — an extensive report separating official concepts, capability discussions, implementation claims, interpretations, and the A.I. transformation record while connecting population-scale cognitive operations to the 27 + 12.
 14. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
 15. **[11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)** — the mass-psychology coordinate system: eleven distortion clusters plus one correspondence-restoring field. Count frozen provisionally. Claims unfrozen. Items 108–140 are refinements, not retroactive parents.
+16. **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** — a visual and audio-assisted instrument for examining the 11+1 architecture, comparing the original and refined maps, filtering all 140 items, and following direct routes into the project’s fuller pages.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 
