@@ -26,6 +26,8 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <p class="accm-lede"><a href="{{ '/IF-YOU-ARE-NEW/' | relative_url }}"><strong>If you are new, start here.</strong></a> One question for the job you already have. The rest of the site can wait.</p>
 
+<p class="accm-lede"><a href="https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/"><strong>Open the interactive 11+1 Cluster Explorer.</strong></a> Inspect the original 1–107 and refined 1–140 maps, move through all eleven distortion clusters plus the +1 field, and open or listen to two-paragraph orientations for related project pages.</p>
+
 <div class="accm-doors">
   <a class="accm-door" href="{{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics">
     <span class="accm-door-kicker">Intent and accountable consequences</span>
@@ -86,6 +88,11 @@ description: "An open correspondence-first AI ethics project examining LLM repre
     <span class="accm-door-kicker">11+1 Version 2</span>
     <strong>Mass-psychology topology</strong>
     <span>Eleven distortion clusters plus one correspondence-restoring field. The count is frozen provisionally. The claims are not. Items 108–140 refine the June map; they do not parent it.</span>
+  </a>
+  <a class="accm-door" href="https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/">
+    <span class="accm-door-kicker">Interactive visual and audio instrument</span>
+    <strong>11+1 Cluster Explorer</strong>
+    <span>Compare the original and refined architectures, filter all 140 items, inspect their cluster relations, and follow direct reading routes into the fuller ACCM Deep Ethics Project pages.</span>
   </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
