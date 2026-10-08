@@ -108,7 +108,7 @@ Ask why being fully responsible for the quality of one’s own thinking and reas
 <a id="g37"></a>
 ### G37 — Develop the mutual Dutch Directness Method
 
-Real friends tell their truth, even when it may be uncomfortable, because they care — and remain open to correction when that truth-assumption is partially flawed. That is what “growing up” is about.
+Real friends tell their truth, even when it may be uncomfortable, because they care — and remain open to correction when that truth-assumption is partially flawed. That is what “growing up” is about. See [Dutch Directness — Truth Before Comfort, Care Before Performance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/).
 
 <a id="g33"></a>
 ### G33 — Demonstrate hyper-pragmatic psychology and constructive friction
