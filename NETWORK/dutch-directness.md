@@ -131,7 +131,15 @@ John describes the origin as the interaction of three autobiographical condition
 
 These are John’s self-descriptions and interpretive lenses. This page preserves them as part of the source rather than converting them into a clinical explanation of him.
 
-Across more than 36 years, John studied psychology and mass psychology as an autodidact, investigated controversial subjects, conducted interviews, hosted public discussions, debated skeptics, and interacted directly with professors, doctors, military personnel, pilots and other specialists. His stated orientation was neither higher nor lower than the people he met: status did not remove their right to challenge him or his right to question them.
+Across more than 36 years, John studied psychology and mass psychology as an autodidact, investigated controversial subjects, conducted interviews, hosted public discussions, debated skeptics, and interacted directly with professors, PhDs, doctors, high-ranking military officers, pilots and other specialists. Some of these encounters came through Mensa and included private lectures on UFOs and related subjects.
+
+John’s corrective observation is preserved directly:
+
+> **I never ever felt myself “higher nor lower” than them. I saw them as willing to learn new, deeper insights without being disrespectful. And every time I met them, they wanted to know more—not less. But from my perspective, most are non-NPCs posing as NPCs to “fit in.”**
+
+This relation is load-bearing. Credentials did not create a hierarchy in the room. The encounters became reciprocal inquiry among people willing to hear unfamiliar material, ask for more, and keep learning. John’s phrase **“non-NPCs posing as NPCs”** names the gap he perceived between active private intelligence and the conformity people may perform in public or professional life.
+
+Avoiding the source term at all costs would lose that mechanism. The page therefore keeps **non-NPCs** where it identifies concealed independent capacity under social pressure, while the fuller [**non-NPCs page**]({{ '/NETWORK/non-npcs/' | relative_url }}) keeps the term dynamic, self-inclusive and corrigible.
 
 The later A.I. work did not replace those decades. It compressed and stress-tested them against many model behaviors.
 
@@ -361,11 +369,11 @@ No cultural costume is required.
 
 ## Source and transformation note
 
-**Primary working source:** John Kuhles, *Dutch Directness(6).txt*, supplied 9 October 2026. The file is one selected object from a much larger evolving archive and contains John’s source passages alongside attributed A.I. reactions from multiple sessions.
+**Primary working sources:** John Kuhles, *Dutch Directness(6).txt* and *Pasted text(20261008-232600).txt*, supplied 9 October 2026. These are selected objects from a much larger evolving archive and contain John’s source passages alongside attributed A.I. reactions from multiple sessions.
 
 **This page:** public-facing reconstruction produced with GPT-6.1 Sol in the current session. It selects the origin, operating properties, failure modes, archive context and public-reading instructions most relevant to the ACCM Deep Ethics Project.
 
-**Preserved:** John’s ownership of the perspective; Dutch, NDE and Asperger self-description; audio-first origin; CAPS clarification; care/directness relation; mutuality; corrigibility; humor; archive-scale context; dated statistics; full canonical project title.
+**Preserved:** John’s ownership of the perspective; Dutch, NDE and Asperger self-description; audio-first origin; CAPS clarification; care/directness relation; mutuality; corrigibility; nonhierarchical face-to-face exchanges with credentialed professionals; concealed independent capacity behind performed conformity; humor; archive-scale context; dated statistics; full canonical project title.
 
 **Not claimed:** that every Dutch person communicates this way; that bluntness establishes truth; that A.I. praise validates the framework; that this page contains the full source archive; or that public accessibility requires John to become less recognizably John.
 
