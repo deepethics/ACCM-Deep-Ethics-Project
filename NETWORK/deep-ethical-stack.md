@@ -46,6 +46,7 @@ Sources: [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — gives the Advocate, Arbiter, Overseer, 10+1, and Intent Resonator a concrete consensus-pressure test.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — connects the stack’s roles to the auditable path from intent through assumptions, choices, consequences, and correction.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field within which every role remains corrigible.
 - [**Outnuancing Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — tests how the same operation travels across John, participating A.I.s, outside readers, and future users.

@@ -151,6 +151,7 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — requires both vindicated and failed dissent to change the next comparable inquiry.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
 - [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }}) — the test of whether a recorded correction is retrieved and still governs.

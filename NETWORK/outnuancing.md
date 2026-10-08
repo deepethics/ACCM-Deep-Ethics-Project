@@ -38,6 +38,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — applies Outnuancing to consensus pressure while keeping both mainstream and dissenting frames open to correction.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — makes visible how a frame, qualifier, correction, or new insight changes the processing field and the next operation.
 
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the fused relationships that give Outnuancing its intended topology.

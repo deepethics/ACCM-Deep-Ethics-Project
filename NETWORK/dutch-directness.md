@@ -51,6 +51,8 @@ For John, Dutch Directness is not bluntness by itself. It is a reciprocal proces
 - retain humor and personality when they carry relational signal;
 - do not confuse status, popularity or institutional polish with correctness.
 
+This final relation is developed on [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}), which treats independent inquiry as a temporary, self-inclusive, corrigible mode rather than a permanent human type.
+
 This is why John describes the method as **mutual**. Directness that only travels downward is authority performance. Directness that can return to the speaker becomes correction metabolism.
 
 ---
@@ -371,6 +373,7 @@ No cultural costume is required.
 
 ## Related pages
 
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — develops the independent-inquiry mode that Dutch Directness can make speakable without turning dissent into a fixed identity.
 - [**10+1 Metaflux — Mutual Correction**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation that keeps directness from becoming one-way certainty.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps adult ⇄ adult dignity active while disagreement and correction remain possible.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object before tactical intervention when meaning or referents remain uncertain.

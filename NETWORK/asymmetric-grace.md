@@ -436,6 +436,7 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 ## Related pages
 
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — compares the scrutiny, ambiguity, and correction rights given to consensus and dissent across political positions.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins candid scrutiny to reciprocal dignity, clarification, and correction rights.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps dignity active while scrutiny and correction move in both directions.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks for missing context before consequential interpretation or classification.
