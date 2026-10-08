@@ -761,6 +761,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows how the 10+1 becomes visible in candid, caring, mutually corrigible communication.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
 - [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — keeps a correction from becoming a claim of bad intent, so the ingredients can still be used.

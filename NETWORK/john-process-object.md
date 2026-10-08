@@ -130,6 +130,7 @@ This is not a CV and not a humility slogan. The years and hours are **his accoun
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — presents John’s candid, caring, mutually corrigible communication method and its lived origins.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — preserves the lived mutually corrective baseline that John describes as preceding the written list.
 - [**The Other You / The Other Me**]({{ '/NETWORK/other-you-other-me/' | relative_url }}) — develops the reciprocal story-model and the power each participant retains over their own representation of the other.
 - [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — carries the shift from intense mission mode toward absurdity, laughter, and lower-cost self-reflection.

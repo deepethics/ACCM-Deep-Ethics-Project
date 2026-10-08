@@ -252,6 +252,7 @@ If not, the page may have just produced another specimen.
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — gives a lived example of direct correction that protects the full object without turning naming into status policing.
 - [**ACCM Reference Compression**]({{ '/NETWORK/accm-reference-compression/' | relative_url }}) — expands this naming example into a general account of recursive abbreviation and object loss.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — asks what was removed, inserted, normalized, or reweighted during a transformation.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps readable public compression connected to the source and transformation record.

@@ -437,6 +437,7 @@ The Caveman repository is licensed under **Apache License 2.0**. This page is a 
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — demonstrates why compression must preserve voice, relational signal, and mutual corrigibility.
 - [Correspondence Before Style]({{ '/NETWORK/correspondence-before-style/' | relative_url }})
 - [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})

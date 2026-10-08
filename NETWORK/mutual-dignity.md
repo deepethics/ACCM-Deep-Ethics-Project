@@ -28,6 +28,7 @@ Sources: [E02](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — puts mutual dignity into direct practice: truth offered through care and kept open to correction.
 - [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — separates criticism of an error or architecture from an unsupported assertion of malicious intent.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective field in which care, inquiry, non-projection, and correction on merit remain active together.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines whether dignity, clarification, scrutiny, and appeal remain available when roles or status change.

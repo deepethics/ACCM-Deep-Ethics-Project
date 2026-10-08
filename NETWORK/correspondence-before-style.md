@@ -336,6 +336,7 @@ This page is an English-language selection and project-specific adaptation. It d
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows why public-friendly wording must preserve the speaker’s force, care, qualifiers, and correction path.
 - [Correspondence Before Compression]({{ '/NETWORK/correspondence-before-compression/' | relative_url }})
 - [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})

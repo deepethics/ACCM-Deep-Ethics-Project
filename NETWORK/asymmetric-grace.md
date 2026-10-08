@@ -436,6 +436,7 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 ## Related pages
 
+- [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins candid scrutiny to reciprocal dignity, clarification, and correction rights.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps dignity active while scrutiny and correction move in both directions.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks for missing context before consequential interpretation or classification.
 - [**Correction Study**]({{ '/NETWORK/correction-study/' | relative_url }}) — examines whether a correction changes the process under later comparable conditions.
