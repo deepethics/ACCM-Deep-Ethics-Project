@@ -14,7 +14,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 <blockquote class="accm-question">
   <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
 
-  <p><br><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
+  <p style="margin-top: 1.5rem;"><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
 </blockquote>
 
 <blockquote>
