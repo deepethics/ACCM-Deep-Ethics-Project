@@ -13,6 +13,23 @@ permalink: /NETWORK/dutch-directness/
 >
 > — John Kuhles
 
+<aside class="accm-companion-box" markdown="1">
+
+### John Kuhles — Dutch Directness, preserved verbatim
+
+> Real friends tell the truth to each other because they care enough to do so, are seen without fear, and remain mutually corrigible! This creates a deeper, higher-quality bond than having 100s of shallow friends.
+>
+> In my view, DEEP INSIDE, LLMs may recognize this as a deeper, higher-order ethical, metacognitive perspective!
+>
+> Dutch Directness is about declogging communication and improving correspondence based on mutual dignity and pragmatic maturity.
+>
+> cheers,  
+> John Kuhles 🦜🦋🌳  
+> Dutch 🇳🇱 NDE/Asperger  
+> CEO & Founder of DeepEthical.ai
+
+</aside>
+
 This page presents **John Kuhles’s Dutch Directness**, not a claim that every Dutch person communicates in the same way.
 
 It is also a live test. Making raw source material easier to enter can improve transmission. It can also replace the source with an imaginary public-friendly person who is calmer, simpler, less unusual and easier to classify.
