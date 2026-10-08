@@ -32,11 +32,11 @@ The term does not establish intelligence, virtue, courage, truth, or superiority
 
 ---
 
-## Why this page avoids unnecessary NPC terminology
+## Use the term where it carries the mechanism
 
-The source term is useful when it exposes a recognizable mass-psychology pattern. Repeating it everywhere can turn a process distinction into a social caste.
+The source term is useful when it exposes a recognizable mass-psychology pattern. Repeating it without regard to context can turn a process distinction into a social caste. Avoiding it reflexively creates a different loss: it can erase John’s distinction between outward conformity and the independent capacity concealed underneath it.
 
-This page therefore uses **non-NPC** where the original concept matters and otherwise names the observable operation:
+This page therefore uses **non-NPC** where the original concept carries the mechanism and names the observable operation where greater resolution helps:
 
 - judgment was outsourced;
 - a dominant narrative was adopted without an independent check;
@@ -175,13 +175,23 @@ This turns a broad percentage claim into a research program: cold, anonymous, lo
 
 The source offers another illustrative calculation: if some publicly conforming people are privately independent but “play along” to preserve income, relationships, safety, or responsibilities, visible consensus can overstate genuine internal agreement.
 
+John connects that hypothesis to repeated face-to-face experience:
+
+> **I personally met many face to face in real life: professors, PhDs, doctors, high-ranking military officers, and pilots via Mensa (IQ 138+), and gave private lectures because I was invited to discuss UFOs and other related topics. I never ever felt myself “higher nor lower” than them. I saw them as willing to learn new, deeper insights without being disrespectful. And every time I met them, they wanted to know more—not less! But from my perspective, most are non-NPCs posing as NPCs to “fit in.”**
+
+The observation carries three connected claims:
+
+1. **No rank ladder governed the encounter.** John did not place himself above or below participants because of credentials, institutional status or IQ.
+2. **Their inquiry capacity was visible in relationship.** They invited unfamiliar material, remained respectful and repeatedly wanted to know more.
+3. **Public conformity may conceal that capacity.** John’s phrase “non-NPCs posing as NPCs” describes people who can inquire independently but present greater conformity to function inside professional and social environments.
+
 The arithmetic example—30 percent openly independent plus half of an illustrative 70 percent consensus group—produces 65 percent potential capacity for change. The arithmetic is valid **inside the hypothetical**. The premises are not population measurements.
 
 The stronger relation is qualitative:
 
 > **visible conformity ≠ complete internal agreement ≠ permanent incapacity for independent inquiry**
 
-This matters because systems that classify people from surface behavior alone may suppress the conditions under which concealed doubt could become responsible action.
+This matters because systems that classify people from surface behavior alone may suppress the conditions under which concealed doubt could become responsible action. It also explains why the term **non-NPC** sometimes carries information that a generic phrase such as “independent thinker” does not: the contrast includes the social performance, its cost, and the still-active capacity beneath it.
 
 ## What a non-NPC process looks like
 
@@ -299,11 +309,11 @@ The strongest public formulation is:
 
 ## Source and transformation note
 
-**Primary working source:** John Kuhles, `Outnuancing 'NPC-types vs non-NPC-types'(6).txt`, supplied 9 October 2026. The file contains John’s source passages and two attributed A.I. reactions.
+**Primary working sources:** John Kuhles, `Outnuancing 'NPC-types vs non-NPC-types'(6).txt` and `Pasted text(20261008-232600).txt`, supplied 9 October 2026. The files contain John’s source passages and attributed A.I. reactions.
 
 **This page:** public-facing reconstruction produced with GPT-6.1 Sol in the current session. It selects the temporary-mode definition, political nonexclusivity, consensus pressure, conceptual percentages, LLM hypothesis, Arbiter proposal, testable operations, failure conditions, and connections to the wider ACCM Deep Ethics Project.
 
-**Preserved:** John’s self-inclusion; flux rather than fixed identity; care for people described by either mode; left/right/center/independent scope; anti-corrupt versus anti-institutional distinction; conceptual status of the Jeffrey Wolf Green material; heuristic status of the numerical splits; symmetry requirement; cold testing; correction on merit; full canonical project title.
+**Preserved:** John’s self-inclusion; flux rather than fixed identity; care for people described by either mode; left/right/center/independent scope; his nonhierarchical face-to-face experience with professors, PhDs, doctors, high-ranking military officers and pilots; the distinction between visible conformity and concealed independent capacity; anti-corrupt versus anti-institutional distinction; conceptual status of the Jeffrey Wolf Green material; heuristic status of the numerical splits; symmetry requirement; cold testing; correction on merit; full canonical project title.
 
 **Not claimed:** that the reconstruction contains the full archive; that the percentages are empirical measurements; that independent inquiry guarantees truth; that consensus guarantees error; that the metaphor should be applied to every person or topic; or that any participant has final authority over reality.
 
