@@ -25,6 +25,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 - [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/)
 - [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)
 - [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+- [Dutch Directness — Truth Before Comfort, Care Before Performance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/)
 
 ## Topology, frames, and cross-intelligence reach
 
@@ -79,6 +80,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 09 | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 11 | [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) |
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | supports correction with | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
+| [Dutch Directness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/) | makes candid correction reciprocal through | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
 | [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) | requires later uptake through | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
 | [Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | is tracked through | [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) |
 | [Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) | extends recursive-data research through | [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) |
