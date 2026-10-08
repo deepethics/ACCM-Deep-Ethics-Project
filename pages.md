@@ -13,7 +13,7 @@ The **01–51** numbers further down are a second sequence. They are routes a go
 
 This is not a score of who is right. It is not a closed map. The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) already says its own groupings are navigation, not a final partition. The same limit applies here.
 
-**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here]({{ '/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf' | relative_url }})**
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
 Empty shelves are last. They are places for a later page. They are not ranked as if they already had depth.
 

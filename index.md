@@ -22,7 +22,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>
 </blockquote>
 
-<p class="accm-lede"><strong><a href="{{ '/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf' | relative_url }}">“Origins of 11+1 Mass Psychology Clusters” PDF file report click here</a></strong></p>
+<p class="accm-lede"><strong><a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf">“Origins of 11+1 Mass Psychology Clusters” PDF file report click here</a></strong></p>
 
 <p class="accm-lede"><a href="https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/"><strong>11+1 Mass Psychology Clusters Explorer</strong></a> — inspect the original 1–107 and refined 1–140 maps, move through all eleven distortion clusters plus the +1 correspondence-restoring field, and open or listen to two-paragraph orientations for related project pages.</p>
 

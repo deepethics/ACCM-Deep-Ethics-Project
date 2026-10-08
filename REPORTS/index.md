@@ -13,7 +13,7 @@ The report also examines the correction history around representation drift, A.I
 
 ## Full report
 
-**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here]({{ '/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf' | relative_url }})**
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
 The PDF is a deep working report, not a replacement for the corrigible project pages or their source history. Use it as a long-form route into the architecture, then use the linked project pages and the [11+1 Mass Psychology Clusters Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) to inspect the current map.
 

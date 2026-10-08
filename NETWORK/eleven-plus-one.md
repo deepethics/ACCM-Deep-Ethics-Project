@@ -9,7 +9,7 @@ permalink: /NETWORK/eleven-plus-one/
 
 **BETA — editorial synthesis. Topology under refinement. Count frozen provisionally. Claims unfrozen.**
 
-**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here]({{ '/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf' | relative_url }})**
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
 This page records a stabilized coordinate system for John Kuhles’s numbered mass-psychology list. It is not a proof that every named mechanism is established, not a new cluster count, and not the interactive matrix in [G42](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42).
 

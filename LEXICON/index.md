@@ -41,7 +41,7 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 [Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/).
 
-**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here]({{ '/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf' | relative_url }})**
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
 **11+1 Version 2** is the working coordinate system for the numbered mass-psychology list: eleven distortion clusters plus one correspondence-restoring field.
 
