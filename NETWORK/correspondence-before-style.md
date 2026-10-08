@@ -336,6 +336,7 @@ This page is an English-language selection and project-specific adaptation. It d
 
 ## Related pages
 
+- [Correspondence Before Compression]({{ '/NETWORK/correspondence-before-compression/' | relative_url }})
 - [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})
