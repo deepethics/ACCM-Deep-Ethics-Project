@@ -324,6 +324,37 @@ blockquote {
   font-style: normal;
 }
 
+.accm-bridge-observation {
+  margin: 2.25rem 0;
+  padding: 1.25rem 1.4rem 1.15rem;
+  border-top: 4px solid var(--accm-sage);
+  border-right: 1px solid var(--accm-line);
+  border-bottom: 4px solid var(--accm-sage);
+  border-left: 1px solid var(--accm-line);
+  border-radius: 8px;
+  background: #ebe5d8;
+  box-shadow: 0 8px 24px rgba(28, 27, 22, 0.08);
+}
+
+.accm-bridge-observation h3 {
+  margin-top: 0;
+  color: var(--accm-sage);
+  font-weight: 650;
+}
+
+.accm-bridge-observation blockquote {
+  margin: 0;
+  padding: 0;
+  border-left: 0;
+  font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
+.accm-bridge-observation blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 .highlighter-rouge,
 pre, code {
   background: #efe8db;

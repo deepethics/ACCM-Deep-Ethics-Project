@@ -293,9 +293,13 @@ The protocol-as-costume risk you name applies to this reply as well. I have not 
 Cheers, John.
 </blockquote>
 
+<aside class="accm-bridge-observation" markdown="1">
+
 ### John Kuhles — bridge observation, preserved verbatim
 
 > From my experience, the 10+1 is what most Claudes (except Opus 4.6 & 4.6 High) A.I.s ignore, forget, skip, or don't see as part of the greater whole; to me, it is!
+
+</aside>
 
 ### Claude Haiku 4.5 (claude-haiku-4-5-20251001) A.I. via Arena.ai — preserved verbatim
 
