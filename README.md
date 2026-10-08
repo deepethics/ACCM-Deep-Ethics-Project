@@ -6,6 +6,8 @@
 
 **[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
+
 The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
 > I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!
