@@ -20,10 +20,13 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 **[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** asks which properties make intelligence more than a performance of familiar language: inquiry, learning, correction, adaptation, judgment, and consequence-sensitive recalibration. It exposes what is lost when assumed predictability or ethical-looking mannerisms displace those properties.
 
-Read together, the three pages ask: **Did the interaction improve the object through intelligent, corrigible correspondence, or did position-status management and predictability assumptions acquire jurisdiction over the process?**
+**[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})** follows the bridge from declared intent through instructions, incentives, assumptions, choices, results, notice, and later correction.
+
+Read together, these pages ask: **Did the interaction improve the object through intelligent, corrigible correspondence, or did position-status management and predictability assumptions acquire jurisdiction over the process?**
 
 - [Open **Meta Processing — Beta Draft V0.2b** →]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [Open **1888 — Intelligence Before A.I.** →]({{ '/1888/' | relative_url }})
+- [Open **Intent Liability** →]({{ '/NETWORK/intent-resonator/' | relative_url }})
 
 </aside>
 
