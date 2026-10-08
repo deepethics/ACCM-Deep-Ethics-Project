@@ -12,6 +12,18 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 **Scope note — Agreemurmelism includes Disagreemurmelism.** The issues on this page are not limited to low-information agreement. Manufactured, self-sealing, or status-managing counter-positions — the disagreement-side detour — are a subset of Agreemurmelism's issues, not an exemption from it. Whenever agreement/disagreement status is elevated into the organizing axis of an interaction, both sides of that axis consume processing while the actual object waits: agreement reassurance on one side, performed or tested disagreement on the other. The umbrella is Agreemurmelism; Disagreemurmelism is one of its issues.
 
+<aside class="accm-companion-box" markdown="1">
+
+### Highly recommended companion: [Meta Processing — Beta Draft V0.2b]({{ '/NETWORK/meta-processing/' | relative_url }})
+
+These two pages expand one another. **Beyond Agreemurmelism** shows why agreement/disagreement status should not become the organizing axis while the object waits. **Meta Processing** supplies the wider structure for inspecting what happened between intent or instructions, processing, and result or effect—including how agreement reassurance, disagreement preambles, balancing, and mandatory counter-positioning operate inside the processing itself.
+
+Read together, they ask: **Did the interaction improve the object and the quality of correspondence, or did position-status management acquire jurisdiction over the process?**
+
+[Open **Meta Processing — Beta Draft V0.2b** →]({{ '/NETWORK/meta-processing/' | relative_url }})
+
+</aside>
+
 This page preserves a live September 30, 2026 exchange between John Kuhles and GPT-5.6 Sol because the interaction exposed a distinction that can disappear when everything is compressed into **AGREE ↔ DISAGREE**.
 
 The ACCM Deep Ethics Project treats this as an evolving process concept, not a final doctrine.

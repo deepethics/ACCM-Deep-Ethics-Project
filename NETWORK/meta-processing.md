@@ -13,6 +13,18 @@ permalink: /NETWORK/meta-processing/
 >
 > — **John Kuhles**
 
+<aside class="accm-companion-box" markdown="1">
+
+### Highly recommended companion: [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }})
+
+These two pages expand one another. **Meta Processing** makes the middle between intent or instructions and result or effect inspectable. **Beyond Agreemurmelism** shows how agreement/disagreement status can become an operation inside that middle—redirecting attention, generating mandatory counter-positions, managing relational status, or replacing examination of the object.
+
+Read together, they ask: **What happened to the object during processing, and did agreement/disagreement status improve correspondence or divert processing away from it?**
+
+[Open **Beyond Agreemurmelism** →]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }})
+
+</aside>
+
 This page begins with a simple separation that is easy to state and surprisingly easy to collapse:
 
 > **A. Processing is—or can be—what happens between B. INTENT/INSTRUCTIONS and C. RESULT/EFFECT.**
