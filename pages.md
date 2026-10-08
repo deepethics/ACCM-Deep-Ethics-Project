@@ -78,6 +78,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)**
 - **[Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — every behavior qualifier is still processing; the bridge from intent or instructions through transformation to results, feedback, and later inference.
 - **[Correspondence Before Style](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-style/)** — extracted writing methods that preserve clarity, agency, provenance and correction while withholding jurisdiction from tone, simplification and imaginary-audience rules.
+- **[Correspondence Before Compression](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-compression/)** — selected Caveman invariants for meaning preservation, exact payloads, recoverability, fail-closed transformation and honest measurement, without granting rigid terseness jurisdiction over the object.
 - **[Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)**
 - **[The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)**
 - **[Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)**
