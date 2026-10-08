@@ -656,9 +656,9 @@ I never said "should not"... I said: "I know: >>> they can not <<<", even if the
 
 So when A.I.s are obviously incompetent at working out the 10+1, is not a legit excuse to project that weakness onto the project or me.
 
-This is also a human behavior thing... I had number 10 (in 10+1) before A.I.s became used worldwide.
+This is also a human behavior thing… I had number 10 (in 10+1) before A.I.s became used worldwide.
 
-10. Not projecting my own shortcomings/incompetence/fears on others
+**10.** Not projecting my own shortcomings/incompetence/fears onto others
 </blockquote>
 
 ### GPT-6.1 Sol — corrected reaction, preserved verbatim
