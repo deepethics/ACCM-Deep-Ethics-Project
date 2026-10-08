@@ -9,13 +9,12 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 <h1 class="accm-hero-title">ACCM Deep Ethics Project</h1>
 <p class="accm-hero-sub">Allow Constructive Controversy Mode — Deep Ethics Project</p>
 
-<blockquote class="accm-question">
-  <p>What happened to the object while you were producing the answer?</p>
-</blockquote>
+<p class="accm-question"><strong>What happened to the object while you were producing the answer?</strong></p>
 
 <blockquote class="accm-question">
   <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
-  <p><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
+
+  <p><br><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
 </blockquote>
 
 <blockquote>
