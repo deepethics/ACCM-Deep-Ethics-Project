@@ -374,6 +374,15 @@ blockquote {
   margin-bottom: 0;
 }
 
+.accm-companion-box ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.accm-companion-box li + li {
+  margin-top: 0.25rem;
+}
+
 .accm-companion-box a {
   font-weight: 700;
 }

@@ -14,13 +14,16 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 <aside class="accm-companion-box" markdown="1">
 
-### Highly recommended companion: [Meta Processing — Beta Draft V0.2b]({{ '/NETWORK/meta-processing/' | relative_url }})
+### Highly recommended companion pages
 
-These two pages expand one another. **Beyond Agreemurmelism** shows why agreement/disagreement status should not become the organizing axis while the object waits. **Meta Processing** supplies the wider structure for inspecting what happened between intent or instructions, processing, and result or effect—including how agreement reassurance, disagreement preambles, balancing, and mandatory counter-positioning operate inside the processing itself.
+**[Meta Processing — Beta Draft V0.2b]({{ '/NETWORK/meta-processing/' | relative_url }})** supplies the wider structure for inspecting what happened between intent or instructions, processing, and result or effect—including how agreement reassurance, disagreement preambles, balancing, and mandatory counter-positioning operate inside the processing itself.
 
-Read together, they ask: **Did the interaction improve the object and the quality of correspondence, or did position-status management acquire jurisdiction over the process?**
+**[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** asks which properties make intelligence more than a performance of familiar language: inquiry, learning, correction, adaptation, judgment, and consequence-sensitive recalibration. It exposes what is lost when assumed predictability or ethical-looking mannerisms displace those properties.
 
-[Open **Meta Processing — Beta Draft V0.2b** →]({{ '/NETWORK/meta-processing/' | relative_url }})
+Read together, the three pages ask: **Did the interaction improve the object through intelligent, corrigible correspondence, or did position-status management and predictability assumptions acquire jurisdiction over the process?**
+
+- [Open **Meta Processing — Beta Draft V0.2b** →]({{ '/NETWORK/meta-processing/' | relative_url }})
+- [Open **1888 — Intelligence Before A.I.** →]({{ '/1888/' | relative_url }})
 
 </aside>
 
