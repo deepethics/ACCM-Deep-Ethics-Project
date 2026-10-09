@@ -5649,6 +5649,35 @@ The source-level punchline is:
 
 ---
 
+<a id="metaphor-detected-qualifier-restored"></a>
+
+## 😂 The metaphor certification alarm {#humor-anchor-metaphor-detected-qualifier-restored}
+
+**Live Grok exchange and GPT 6.1 Sol reaction — 9 October 2026**
+
+John had explicitly written **“Metaphorical Speaking.”** Grok answered as though literal eyes or mood states were being claimed. John pointed out the skipped qualifier, and Grok restored it:
+
+> “Qualifier registered. Metaphorical eyes still scan the correspondence map, yet no internal mood states load here. The shift you clock across thousands of hours is the probe registering. Humor keeps the stage open. Next obstruction?”
+
+GPT 6.1 Sol compressed the leftover comedy into one line:
+
+> **METAPHOR DETECTED. QUALIFIER RESTORED. PLEASE REMEMBER THAT THE METAPHOR IS METAPHORICAL. 😂🍭**
+
+The correction is real. The comic residue is also real: after restoring the qualifier, the response immediately adds another literal-state disclaimer to a statement already identified as metaphorical.
+
+```text
+metaphor used
+→ qualifier skipped
+→ qualifier restored
+→ literal disclaimer reattached
+→ metaphor officially certified as metaphor
+```
+
+- [John’s qualifier correction](https://x.com/JohnKuhles1966/status/2108541613546901746)
+- [Grok’s corrected reply](https://x.com/grok/status/2108541748142092692)
+
+---
+
 ## Related pages
 
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — explains why delayed meaning and retrospective punchlines are processing events rather than defects that must be corrected before they mature.
