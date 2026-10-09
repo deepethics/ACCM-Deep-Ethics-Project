@@ -41,6 +41,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 
 ## Inquiry and the source-described stack
 
+- [16 Anchor Ethics — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)
 - [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
 - [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
 - [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
@@ -78,6 +79,8 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 | [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) | preserves its specific trajectory through | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
 | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) | includes the source-described role | [INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) |
 | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) | uses mutual calibration | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
+| [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | supplies a proposed parallel reference field for | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) |
+| [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | uses clarification before avoidable pause or refusal through | [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 09 | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | includes ingredient 11 | [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) |
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | supports correction with | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
