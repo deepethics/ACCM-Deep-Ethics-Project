@@ -18,7 +18,7 @@ The quality of a relationship therefore depends partly on whether those internal
 
 > **The other must retain the right to exceed my current model of them.**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_personhood" %}
 
 ## 1. The reciprocal model-of-the-other loop
 

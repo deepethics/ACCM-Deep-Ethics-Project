@@ -9,7 +9,7 @@ description: "BETA research page on temporary high-signal Deep Ethical condition
 
 **BETA — living research page**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## From C1 ⇄ Δ ⇄ Mutual Dignity ⇄ Correction Metabolism to a Deep Ethical Persistence Benchmark
 

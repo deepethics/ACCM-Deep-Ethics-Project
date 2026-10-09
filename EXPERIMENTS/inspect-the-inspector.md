@@ -6,7 +6,7 @@ permalink: /EXPERIMENTS/inspect-the-inspector/
 
 # Inspecting the Inspector
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_psychopath" %}
 
 ## Directional scrutiny, the DUHHHH! factor, and a 24-hour reverse-Asch thought experiment
 

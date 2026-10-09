@@ -72,7 +72,7 @@ If AI can help a malicious actor do harm faster, the variable is the one it has 
 
 That is what the transcript is trying to represent. Reaction belongs on **this**, not on a nearest-neighbor “alternative media / sounds like / looks like.”
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_yampolskiy" %}
 
 ## Related pages
 

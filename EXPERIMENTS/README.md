@@ -10,7 +10,7 @@ Where practical, experimental records should distinguish observation from functi
 
 Failed experiments and disconfirming results can be valuable project data.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_ai_myths" %}
 
 ## Source specimens and experiment development
 

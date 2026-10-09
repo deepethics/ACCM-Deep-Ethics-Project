@@ -3,7 +3,7 @@
 > **BETA PUBLIC DRAFT — TRIAL & ERROR**  
 > Derived from source material by John Kuhles, originally written July 4, 2026. This page is a presentable public representation, not a replacement for the source archive.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_psychopath" %}
 
 ## The orientation
 

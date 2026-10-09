@@ -11,7 +11,7 @@ permalink: /POSITIVE-POTENTIAL/REPORT/
 
 [Read the multi-voice quotation page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/)
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="tc_ai_jobs" %}
 
 ## Direct answer
 

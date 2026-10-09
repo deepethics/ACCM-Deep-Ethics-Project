@@ -10,7 +10,7 @@ permalink: /BIOGRAPHY/
 > **Public working biography — September 2026**  
 > Written in the first person from source material supplied by John Kuhles. Personal experiences, interpretations, documented activities, research hypotheses, and project proposals are kept distinguishable. This is a living biography rather than a claim of personal infallibility.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_hollywood" %}
 
 ## Why I am doing what I am doing
 

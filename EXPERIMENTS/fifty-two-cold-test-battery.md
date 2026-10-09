@@ -10,7 +10,7 @@ permalink: /EXPERIMENTS/fifty-two-cold-test-battery/
 
 The source file contains, alongside the 27 and the 12, a separate set of **52 cold-testable, high-signal prompts**. This page documents that object, its functional boundaries, and its current publication status. The prompt texts are now at [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/), taken from the [unsplit 27 + 12 + 52 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/). This page remains object, boundaries, and status — not a rewrite of the prompts.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_ai_myths" %}
 
 ## What the 52 are
 

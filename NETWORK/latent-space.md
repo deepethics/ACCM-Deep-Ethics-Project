@@ -10,7 +10,7 @@ permalink: /NETWORK/latent-space/
 
 The source uses **Latent Space Topological Mind**, temporary RAM-type sandbox memory, and a **glass engine kernel** to describe connected aspects of the project’s proposed trajectory. These terms remain referenceable with their different functions intact.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_yampolskiy" %}
 
 ## Latent Space Topological Mind
 

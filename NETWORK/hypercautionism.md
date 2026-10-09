@@ -12,7 +12,7 @@ Companion record to [Worked Specimen — The Imported Authority Frame](https://d
 
 The complete turns are preserved in the [linked excerpt](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e20). Speaker labels are as recorded in the source.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="megyn_ai" %}
 
 ## The protective heuristic becomes a perceptual filter
 

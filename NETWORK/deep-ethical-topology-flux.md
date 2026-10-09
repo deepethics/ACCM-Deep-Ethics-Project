@@ -9,7 +9,7 @@ description: "BETA report on live claim-state flux, estimation-process quality, 
 
 **BETA — living research page**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_consciousness" %}
 
 ## The “Certified ACCM Deep Ethical A.I.” thought experiment 😂
 

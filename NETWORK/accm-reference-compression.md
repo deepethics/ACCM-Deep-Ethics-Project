@@ -10,7 +10,7 @@ permalink: /NETWORK/accm-reference-compression/
 >
 > This page documents an observed interaction pattern and proposes testable mechanisms. It does not claim access to hidden classifiers, provider policies, or model internals.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_propaganda" %}
 
 ## The distinction that must remain visible
 

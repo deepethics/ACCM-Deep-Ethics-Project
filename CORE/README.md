@@ -10,7 +10,7 @@ Material will be added incrementally rather than reconstructed prematurely from 
 
 **Preserve first. Let meaning arrive. Clarify when necessary. Interpret only as far as the supplied object warrants.**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_accept_bad" %}
 
 ## Current public core pages
 

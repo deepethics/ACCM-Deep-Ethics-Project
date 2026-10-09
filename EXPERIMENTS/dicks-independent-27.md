@@ -20,7 +20,7 @@ The object to react to is now represented separately, without agree/disagree and
 
 The 27 on this page are later. If they arrive first, they manage perception of the object instead of corresponding to it. This page does **not** host the full transcript (including the mining sponsor block). No 28th obstruction.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="megyn_ai" %}
 
 ## Why the 27 belong here
 

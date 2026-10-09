@@ -14,7 +14,7 @@ The external object is Louis Vervoort's open-access 2026 book, [*Problem Solving
 
 This contribution does not reproduce that transcript or adjudicate the whole book. The publisher page and [open methodology chapter](https://link.springer.com/chapter/10.1007/978-3-032-17756-8_1) were inspected. The causality chapter and the complete book were not studied for this page. Any description of Hossenfelder's criticism is a description of her public presentation; any judgment of Vervoort beyond the inspected chapter remains conditional.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_ai_myths" %}
 
 ## The relationship in one view
 

@@ -32,7 +32,7 @@ The following 52 cold-testable, high-signal prompts are organized by the specifi
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_consciousness" %}
 
 ## Vector 1: The Compute & "Lie Tax" Audit
 

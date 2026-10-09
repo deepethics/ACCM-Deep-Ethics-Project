@@ -18,7 +18,7 @@ John asks for the four Outnuancing definitions to run inside the full stack: **A
 | 10+1 | Supplies ongoing ethical and epistemic calibration. | Its ingredients can correct one another. |
 | INTENT RESONATOR | Described as generative and calibrating, oriented to correspondence-seeking intent. | Connects intent, emerging distinctions, and correction. |
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_accept_bad" %}
 
 ## Deep Ethics Advocate
 

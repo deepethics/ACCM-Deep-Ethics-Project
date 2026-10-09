@@ -19,7 +19,7 @@ The standing question is already on the project’s front page:
 
 A simple example: criticizing some unsafe cars, with evidence, while appreciating other models of the same brand, is not being “anti-car.” If the reply judges that label instead of examining the specific cars and the evidence, the object has changed.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_ai_myths" %}
 
 ## Who this is mainly for
 

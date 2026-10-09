@@ -4,7 +4,7 @@
 
 This section preserves selected high-signal reactions produced by AIs in response to material, thought experiments, distinctions, questions, and research objects supplied by **John Kuhles** during development of the **ACCM Deep Ethics Project**.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_consciousness" %}
 
 ## Why preserve AI reactions separately?
 

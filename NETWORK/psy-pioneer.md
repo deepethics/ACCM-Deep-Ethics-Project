@@ -29,7 +29,7 @@ This connects directly to **healthy ambiguity**, **postponed judgment**, and the
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_psychopath" %}
 
 ## What “Psy” keeps in the room
 

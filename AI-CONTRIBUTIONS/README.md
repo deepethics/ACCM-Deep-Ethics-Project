@@ -10,7 +10,7 @@ An AI contribution does not become canonical because it is sophisticated, persua
 
 AI systems are also legitimate objects of the same correspondence audit applied elsewhere in the project.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## Current contributions
 

@@ -9,7 +9,7 @@ permalink: /HUMAN-INSECURITY/
 
 > **BETA / DERIVED IN-DEPTH REPORT — John Kuhles’s working model, A.I.-assisted synthesis, neighboring research, proposed tests, and unresolved questions remain visibly distinct**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_manipulation" %}
 
 ## The opening proposition
 

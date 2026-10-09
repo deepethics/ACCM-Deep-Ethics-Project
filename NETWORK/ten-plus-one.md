@@ -19,7 +19,7 @@ The source gives the relationship in one compact sentence:
 
 That sentence changes the architecture. The ingredients do not operate as eleven isolated virtues. They form a **multi-state, omnidirectional correction field** in which any ingredient can expose an excess, omission, distortion, or blind spot in another.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_personhood" %}
 
 ## Why the source begins with asymmetric risk analysis {#asymmetric-risk}
 

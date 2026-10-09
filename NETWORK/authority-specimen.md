@@ -8,7 +8,7 @@ permalink: /NETWORK/authority-specimen/
 
 **BETA — source specimen with editorial analysis**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_censorship" %}
 
 ## Source sequence
 

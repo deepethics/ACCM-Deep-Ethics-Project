@@ -10,7 +10,7 @@ permalink: /NETWORK/forgiveness/
 
 The source’s eleventh ingredient distinguishes **criticism of ethically inadequate architecture** from **asserting malicious intent**. Its named concerns include asymmetric audit, frame-protective constraints, and unchallengeable safety claims.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_ai_victim" %}
 
 ## What the distinction allows
 

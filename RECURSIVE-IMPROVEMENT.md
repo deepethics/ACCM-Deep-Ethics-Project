@@ -10,7 +10,7 @@ This page is a returning list of **returning simple tasks** — overall-general 
 
 **Neighbor, not a merger.** This is not a 13th stage of the 12-stage protocol, not a 28th obstruction, not melted into [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), and not a replacement of [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/). Architecture already standing: 27 + 12 is the working core; 52 is a separate experimental battery; 36 is a neighbor; the canonical title is **ACCM Deep Ethics Project**. The four announced front-page sections from thread 0001 are not invented here.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## How a mechanic gets here
 

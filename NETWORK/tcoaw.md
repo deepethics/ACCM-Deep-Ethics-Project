@@ -15,7 +15,7 @@ The purpose of this page is more personal and pragmatic:
 
 The source formulation was written by John on **7 July 2026** and supplied for this public page on **4 October 2026**.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_manipulation" %}
 
 ## The TCoAw triad
 

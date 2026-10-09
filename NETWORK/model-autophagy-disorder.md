@@ -9,7 +9,7 @@ permalink: /NETWORK/model-autophagy-disorder/
 
 **Established science, a deeper correspondence question, and a testable extension from the ACCM Deep Ethics Project**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_yampolskiy" %}
 
 ## Why this is highly relevant
 

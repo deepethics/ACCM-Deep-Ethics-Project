@@ -18,7 +18,7 @@ John’s source binds the operation explicitly:
 
 The specific word holds the relationship among the seven vectors. Replacing it with a generic category such as “adding nuance” loses the intended object. The source records several AI corrections of precisely that substitution.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_propaganda" %}
 
 ## What the operation preserves
 

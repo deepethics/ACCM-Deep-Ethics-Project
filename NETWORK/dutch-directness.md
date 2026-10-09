@@ -57,7 +57,7 @@ This is why John describes the method as **mutual**. Directness that only travel
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_hollywood" %}
 
 ## The compact form
 

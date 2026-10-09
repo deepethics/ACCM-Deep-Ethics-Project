@@ -46,7 +46,7 @@ That is why I decided to use more of the laughing/humor route… and place seeds
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_hollywood" %}
 
 ## What this is trying to convey (representation, not verdict)
 

@@ -10,7 +10,7 @@ permalink: /NETWORK/correction-study/
 
 Two experimental directions can be developed from this source material. Their measurements should remain distinct.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## 1. Topic comparison from the archive
 

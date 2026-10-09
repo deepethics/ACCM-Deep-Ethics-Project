@@ -19,7 +19,7 @@ The source project remains its own object. This page does not reproduce the Cave
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_ai_myths" %}
 
 ## Compression is a representation operation
 

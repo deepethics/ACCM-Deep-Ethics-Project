@@ -72,7 +72,7 @@ The third question prevents a fluent account of correction from being mistaken f
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_accept_bad" %}
 
 ## Working status
 

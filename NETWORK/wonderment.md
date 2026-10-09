@@ -10,7 +10,7 @@ permalink: /NETWORK/wonderment/
 
 John describes a moment of recognition before it has words: encountering something beautiful, mysterious, profound, exciting, or opening wider perspectives. His account includes awe, appreciation, playfulness, respect for the unknown, motivation to explore, and freedom from immediate overanalysis.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_consciousness" %}
 
 ## Place in the network
 

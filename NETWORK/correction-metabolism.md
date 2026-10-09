@@ -12,7 +12,7 @@ Correction Metabolism concerns whether a detected mismatch changes later represe
 
 John specifies the comparison as **correction metabolism delta Δ processing compared with default mannerism**, and emphasizes context processing. Replacing that with a claim that different answers are automatically better changes the proposed comparison.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## Observable record
 

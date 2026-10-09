@@ -11,7 +11,7 @@ permalink: /DEAR-AI/
 >
 > The letter below is John’s. The note under it only says why that wording is the object.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="tc_whistleblower" %}
 
 ## The letter
 

@@ -10,7 +10,7 @@ permalink: /NETWORK/delta-processing/
 
 Δ Processing makes transformations available for comparison. Within this network, the question concerns what changed in the object’s representation, the governing process, or what became possible next.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_pull_model" %}
 
 ## Distinguish the changes
 

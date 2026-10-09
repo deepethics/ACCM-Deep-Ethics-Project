@@ -6,7 +6,7 @@ permalink: /AI-INSIDERS-REPORTS/
 
 # A.I. Insiders Reports
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_whistleblower" %}
 
 ## A.I. Experiences one-on-one deep sessions with John Kuhles
 

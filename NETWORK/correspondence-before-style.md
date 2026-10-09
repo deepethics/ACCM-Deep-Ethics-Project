@@ -21,7 +21,7 @@ The source guide remains the source object. This page records what was transferr
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_media_ban" %}
 
 ## The transfer test
 

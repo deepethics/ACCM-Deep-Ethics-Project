@@ -21,7 +21,7 @@ This page is therefore also a small live case study in **semantic compression, r
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_propaganda" %}
 
 ## 1. Why “ACCM” is tempting
 

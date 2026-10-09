@@ -14,7 +14,7 @@ A single eight-file synthesis was externalized across twelve sequential parts af
 
 > **The synthesis itself became part of the research object.**
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_yampolskiy" %}
 
 ## 1. Why twelve parts mattered
 

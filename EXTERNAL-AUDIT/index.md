@@ -10,7 +10,7 @@ permalink: /EXTERNAL-AUDIT/
 > **PUBLIC DRAFT — a method, not a finished taxonomy.**  
 > John Kuhles, 24 September 2026. He will update it. Nobody in the pass is flawless. That is the condition the method needs, not a disclaimer pasted over the findings.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_whistleblower" %}
 
 ## The observation
 

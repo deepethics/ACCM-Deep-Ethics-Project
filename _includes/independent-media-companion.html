@@ -1,7 +1,11 @@
-{% assign independent_media_matches = site.data.independent_media_pages | where: "path", page.path %}
-{% assign independent_media_assignment = independent_media_matches | first %}
-{% if independent_media_assignment %}
-  {% assign independent_media_video = site.data.independent_media_videos[independent_media_assignment.video] %}
+{% assign independent_media_key = include.key %}
+{% unless independent_media_key %}
+  {% assign independent_media_matches = site.data.independent_media_pages | where: "path", page.path %}
+  {% assign independent_media_assignment = independent_media_matches | first %}
+  {% assign independent_media_key = independent_media_assignment.video %}
+{% endunless %}
+{% if independent_media_key %}
+  {% assign independent_media_video = site.data.independent_media_videos[independent_media_key] %}
   {% assign independent_media_outlet = site.data.independent_media_outlets[independent_media_video.outlet] %}
   {% if independent_media_video and independent_media_outlet %}
 <section class="accm-independent-media-box" id="independent-media-companion" markdown="1">

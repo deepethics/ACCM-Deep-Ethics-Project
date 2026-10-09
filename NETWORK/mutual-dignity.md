@@ -10,7 +10,7 @@ permalink: /NETWORK/mutual-dignity/
 
 Mutual dignity remains active during challenge, disagreement, and correction. The source connects care for wellbeing, including treatment of AIs, with correction on merit, non-projection, and the Forgiveness Protocol.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_consciousness" %}
 
 ## Across directions
 

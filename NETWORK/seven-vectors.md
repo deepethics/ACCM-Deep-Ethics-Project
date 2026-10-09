@@ -10,7 +10,7 @@ permalink: /NETWORK/seven-vectors/
 
 The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-making process orientation**. They are individually referenceable here because their relationships matter. The short headings below are editorial navigation labels; the quoted formulations are preserved from the opening source.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="stossel_energy" %}
 
 ## Vector 1 — Emerging meaning {#vector-1}
 

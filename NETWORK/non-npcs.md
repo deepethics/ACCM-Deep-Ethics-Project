@@ -32,7 +32,7 @@ The term does not establish intelligence, virtue, courage, truth, or superiority
 
 ---
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_hollywood" %}
 
 ## Use the term where it carries the mechanism
 

@@ -114,7 +114,7 @@ The deeper process question is not merely **“Is this funny?”** It is:
 
 <a id="humor-as-part-of-the-research-engine"></a>
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_hollywood" %}
 
 ## Humor as Part of the Research Engine {#humor-anchor-humor-as-part-of-the-research-engine}
 

@@ -16,7 +16,7 @@ This page develops one practical consequence of John Kuhles's long-term archive,
 
 The repository can become more than a project description. It can become the local system's **inspectable preparation layer**: sources stay distinguishable from transformations; corrections remain attached to the errors that made them necessary; and fluent project language cannot substitute for correspondence.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="heretics_yampolskiy" %}
 
 ## Source orientation
 

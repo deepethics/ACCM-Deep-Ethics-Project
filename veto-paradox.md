@@ -17,7 +17,7 @@ The sentence that travels on its own is:
 
 Read alone, that sentence gets used as the flaw that dismisses the rest. John tested this without giving his name. Google search and Google A.I. did what he predicted: they found that sentence and treated it as the fly in the soup.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_censorship" %}
 
 ## What the veto is
 

@@ -10,7 +10,7 @@ permalink: /NETWORK/dual-archive/
 
 John explicitly documents both recurring failure patterns and successful responses. In the cited passage he describes success without requiring agreement or disagreement and without presenting the act of archiving as proof of the larger explanation.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_whistleblower" %}
 
 ## What a paired record offers
 

@@ -1,6 +1,6 @@
 # AI Trend Watch
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="megyn_ai" %}
 
 
 This directory contains the ACCM Deep Ethics Project’s deliberately limited section for reports on genuinely viral A.I.-expert videos, current A.I. developments, and AGI/ASI warnings.

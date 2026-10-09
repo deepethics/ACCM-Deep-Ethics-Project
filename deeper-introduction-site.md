@@ -21,7 +21,7 @@ Before agreement or disagreement, praise or rejection, diagnosis or intervention
 
 That is not a request for immunity. It is a request for a better order of operations.
 
-{% include independent-media-companion.html %}
+{% include independent-media-companion.html key="bp_accept_bad" %}
 
 ## The working architecture in one view
 
