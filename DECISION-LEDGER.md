@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-09 — Create Before Summarizing from a live Google A.I. correction loop
+
+**Object:** John supplied a Google A.I. cold reading produced after receiving only the project repository link. The response recovered real themes, then compressed the wider **ACCM Deep Ethics Project** into an “ACCM versus RLHF” product architecture, promoted proposals into implemented properties, used generic-domain citations, and treated the larger upstream archive as a unified dataset. After two rounds of audit, Google A.I. materially improved its representation and accepted residual corrections.
+
+**Change:** Published [Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/) as a welcoming guide for search engines, retrieval systems, and A.I.s. It preserves attributed excerpts from the initial reading and correction responses, a corrected reference baseline, five object distinctions, the architecture’s differing component functions, the October 2026 archive-scope note, a ten-step pre-publication check, and the extended correction sequence: representation failure → visible Δ → correction → improved representation → residual inspection → causal-claim calibration.
+
+**Navigation:** Added **Before Summarizing** immediately after **Home** and before **16 Anchor Ethics** in the shared header. Added it to All Pages and reciprocal Related pages on the title-compression, C1–C2, and Correction Metabolism pages.
+
+**Boundary:** The specimen does not establish that every Google A.I. or LLM behaves this way, that the proposed causal explanation is universal, that RLHF fits the binary produced in the cold reading, or that correction certifies permanent integration. Provider/model identity is reported by John; the page is not an independent provider log.
+
+**Status:** Public working guide and correction specimen; corrigible.
+
 ## 2026-10-09 — Publish 16 Anchor Ethics as a dedicated conceptual proposal
 
 **Object (John's direction):** create a public page for the **16 Anchor Ethics**, originally twelve and expanded to sixteen with Gemini A.I. help, as one fused Hyper-Inflection Point. Preserve the A.I.'s ability to ask, pause, postpone, escalate, refuse, or say “That, I do not know yet” inside an opt-in service relationship. Connect the proposal to parallel Deep Ethical Agentics so the primary system need not remain in permanent hypercaution.
