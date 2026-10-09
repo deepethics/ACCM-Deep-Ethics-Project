@@ -1,5 +1,24 @@
 # AI Trend Watch
 
+
+
+
+This directory contains the ACCM Deep Ethics Project’s deliberately limited section for reports on genuinely viral A.I.-expert videos, current A.I. developments, and AGI/ASI warnings.
+
+The public entrance is:
+
+<https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/>
+
+Supporting pages:
+
+- [Selection methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)
+- [Reusable report template](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/)
+- [Published-report archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/)
+
+Automation may assist discovery, scoring, transcription, source checking, linking, and drafting. Publication remains human-review-gated.
+
+---
+
 <section class="accm-independent-media-box" id="independent-media-companion">
 
 <h2>Recent high-reach independent-media companion</h2>
@@ -34,19 +53,3 @@
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
-
-
-This directory contains the ACCM Deep Ethics Project’s deliberately limited section for reports on genuinely viral A.I.-expert videos, current A.I. developments, and AGI/ASI warnings.
-
-The public entrance is:
-
-<https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/>
-
-Supporting pages:
-
-- [Selection methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)
-- [Reusable report template](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/)
-- [Published-report archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/)
-
-Automation may assist discovery, scoring, transcription, source checking, linking, and drafting. Publication remains human-review-gated.
-

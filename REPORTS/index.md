@@ -11,6 +11,24 @@ This full report follows the development of the ACCM Deep Ethics Project’s ele
 
 The report also examines the correction history around representation drift, A.I. summarization, frame protection, source fidelity, asymmetric grace, outnuancing, correction metabolism, and the proposal for a swarm of mutually auditing Deep Ethical A.I.s. It includes the complete 140-item field, a cross-model correction timeline, a salvage map, proposed PsyBenchmark modules, high-signal passages, and a discussion of the Explorer as an anti-drift instrument.
 
+
+
+## Full report
+
+**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
+
+The PDF is a deep working report, not a replacement for the corrigible project pages or their source history. Use it as a long-form route into the architecture, then use the linked project pages and the [11+1 Mass Psychology Clusters Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) to inspect the current map.
+
+## Related pages
+
+- [**11+1 Version 2 — Mass-Psychology Topology**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — the current public coordinate system.
+- [**11+1 Mass Psychology Clusters Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — the interactive working instrument.
+- [**Goal G42**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — the earlier visualization goal.
+- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — connected concepts, methods, and correction routes.
+- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}#11-1-version-2) — a compressed entry with links back to fuller context.
+
+---
+
 <section class="accm-independent-media-box" id="independent-media-companion">
 
 <h2>Recent high-reach independent-media companion</h2>
@@ -45,17 +63,3 @@ The report also examines the correction history around representation drift, A.I
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
-
-## Full report
-
-**[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
-
-The PDF is a deep working report, not a replacement for the corrigible project pages or their source history. Use it as a long-form route into the architecture, then use the linked project pages and the [11+1 Mass Psychology Clusters Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) to inspect the current map.
-
-## Related pages
-
-- [**11+1 Version 2 — Mass-Psychology Topology**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — the current public coordinate system.
-- [**11+1 Mass Psychology Clusters Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — the interactive working instrument.
-- [**Goal G42**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — the earlier visualization goal.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — connected concepts, methods, and correction routes.
-- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}#11-1-version-2) — a compressed entry with links back to fuller context.

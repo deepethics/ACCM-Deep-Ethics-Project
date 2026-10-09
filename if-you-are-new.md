@@ -19,40 +19,7 @@ The standing question is already on the project’s front page:
 
 A simple example: criticizing some unsafe cars, with evidence, while appreciating other models of the same brand, is not being “anti-car.” If the reply judges that label instead of examining the specific cars and the evidence, the object has changed.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/FRNFv6mGTDk"
-      title="Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=FRNFv6mGTDk">Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values</a></strong> — John Stossel. Published <strong>15 September 2026</strong>. YouTube displayed approximately <strong>162,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV. <a href="https://www.johnstossel.com/about/">Stossel TV — Why I created it</a></p>
-
-<p><strong>Why it belongs here:</strong> The report contrasts myths with facts while connecting A.I. policy to regulation and national values. Its concise certainty is useful for checking which claims are demonstrated, which alternatives are omitted and whether the debunker’s own frame receives equal scrutiny.</p>
-
-<p>On this page, test the video specifically against <strong>If you are new</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## Who this is mainly for
 
@@ -202,3 +169,40 @@ John Kuhles asked for a newcomer page in the voice of the job, not a compression
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — asks how declared purpose travels through a process into results and later repair.
 - [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — uses comedy and postponed closure to make contradictions perceptible without forcing a verdict.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — lists the longer instruments and project records when a visitor wants them.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/FRNFv6mGTDk"
+      title="Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=FRNFv6mGTDk">Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values</a></strong> — John Stossel. Published <strong>15 September 2026</strong>. YouTube displayed approximately <strong>162,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV. <a href="https://www.johnstossel.com/about/">Stossel TV — Why I created it</a></p>
+
+<p><strong>Why it belongs here:</strong> The report contrasts myths with facts while connecting A.I. policy to regulation and national values. Its concise certainty is useful for checking which claims are demonstrated, which alternatives are omitted and whether the debunker’s own frame receives equal scrutiny.</p>
+
+<p>On this page, test the video specifically against <strong>If you are new</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

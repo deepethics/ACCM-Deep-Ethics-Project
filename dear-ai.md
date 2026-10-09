@@ -11,40 +11,7 @@ permalink: /DEAR-AI/
 >
 > The letter below is John’s. The note under it only says why that wording is the object.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/98syxABbUPk"
-      title="AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink &amp; Our Last Chance to Stop the Tech Oligarchs"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=98syxABbUPk">AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink &amp; Our Last Chance to Stop the Tech Oligarchs</a></strong> — Tucker Carlson. Published <strong>11 September 2026</strong>. YouTube displayed approximately <strong>1.45 million views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> Tucker Carlson previously hosted programs at CNN, MSNBC and Fox News. Tucker Carlson Network says it was founded as an alternative to legacy media. <a href="https://tuckercarlson.com/about">TCN — About</a> · <a href="https://press.foxnews.com/2017/01/fox-news-channel-names-tucker-carlson-as-new-9pmet-host">Fox biography recording the earlier CNN, MSNBC and Fox career</a></p>
-
-<p><strong>Why it belongs here:</strong> The interview places whistleblowing, laboratory incentives, cult-like dynamics, neural technology, concentrated power and catastrophic-risk claims inside one long-form exchange. That density makes testimony, host framing, institutional response and unresolved status separately inspectable.</p>
-
-<p>On this page, test the video specifically against <strong>Dear A.I.</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## The letter
 
@@ -84,3 +51,40 @@ The project he points to is [ACCM-Deep-Ethics-Project](https://github.com/deepet
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — gives the larger process context behind the letter’s compressed images.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — shows the field conditions John connects to deeper, more corrigible model output.
 - [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — refusing the boogeyman does not hand the path to A.G.I./A.S.I. to a human controller.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/98syxABbUPk"
+      title="AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink &amp; Our Last Chance to Stop the Tech Oligarchs"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=98syxABbUPk">AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink &amp; Our Last Chance to Stop the Tech Oligarchs</a></strong> — Tucker Carlson. Published <strong>11 September 2026</strong>. YouTube displayed approximately <strong>1.45 million views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Tucker Carlson previously hosted programs at CNN, MSNBC and Fox News. Tucker Carlson Network says it was founded as an alternative to legacy media. <a href="https://tuckercarlson.com/about">TCN — About</a> · <a href="https://press.foxnews.com/2017/01/fox-news-channel-names-tucker-carlson-as-new-9pmet-host">Fox biography recording the earlier CNN, MSNBC and Fox career</a></p>
+
+<p><strong>Why it belongs here:</strong> The interview places whistleblowing, laboratory incentives, cult-like dynamics, neural technology, concentrated power and catastrophic-risk claims inside one long-form exchange. That density makes testimony, host framing, institutional response and unresolved status separately inspectable.</p>
+
+<p>On this page, test the video specifically against <strong>Dear A.I.</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

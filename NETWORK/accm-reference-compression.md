@@ -10,40 +10,7 @@ permalink: /NETWORK/accm-reference-compression/
 >
 > This page documents an observed interaction pattern and proposes testable mechanisms. It does not claim access to hidden classifiers, provider policies, or model internals.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/4FmXB3uCHYA"
-      title="Fox News Says Bad Economy &#39;Dem Propaganda&#39;"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=4FmXB3uCHYA">Fox News Says Bad Economy &#39;Dem Propaganda&#39;</a></strong> — Breaking Points. Published <strong>10 August 2026</strong>. YouTube displayed approximately <strong>255,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> Krystal Ball previously hosted on MSNBC; Ball and Saagar Enjeti later hosted The Hill&#39;s Rising before creating Breaking Points, which describes itself as independent and anti-establishment. <a href="https://shop.breakingpoints.com/pages/about">Breaking Points — About</a> · <a href="https://en.wikipedia.org/wiki/Breaking_Points">Career and launch history</a></p>
-
-<p><strong>Why it belongs here:</strong> The word “propaganda” is applied to an economic narrative while competing measurements and political incentives remain in play. The segment is useful for inspecting how a qualifier can become the object it was supposed to evaluate.</p>
-
-<p>On this page, test the video specifically against <strong>When ACCM Becomes the Flag — Reference Compression and Context Loss</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## The distinction that must remain visible
 
@@ -195,3 +162,40 @@ That question applies to project titles, acronyms, quotations, summaries, classi
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves the scope and conditions lost when a larger canonical identity becomes an instruction-like label.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — examines how naming transformations alter assumptions, risk management, choices, and results.
 - [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — preserves the project’s public naming, stewardship, correction, and decision conditions.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/4FmXB3uCHYA"
+      title="Fox News Says Bad Economy &#39;Dem Propaganda&#39;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=4FmXB3uCHYA">Fox News Says Bad Economy &#39;Dem Propaganda&#39;</a></strong> — Breaking Points. Published <strong>10 August 2026</strong>. YouTube displayed approximately <strong>255,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Krystal Ball previously hosted on MSNBC; Ball and Saagar Enjeti later hosted The Hill&#39;s Rising before creating Breaking Points, which describes itself as independent and anti-establishment. <a href="https://shop.breakingpoints.com/pages/about">Breaking Points — About</a> · <a href="https://en.wikipedia.org/wiki/Breaking_Points">Career and launch history</a></p>
+
+<p><strong>Why it belongs here:</strong> The word “propaganda” is applied to an economic narrative while competing measurements and political incentives remain in play. The segment is useful for inspecting how a qualifier can become the object it was supposed to evaluate.</p>
+
+<p>On this page, test the video specifically against <strong>When ACCM Becomes the Flag — Reference Compression and Context Loss</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

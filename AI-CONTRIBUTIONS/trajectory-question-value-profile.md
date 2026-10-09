@@ -14,40 +14,7 @@ The external object is Louis Vervoort's open-access 2026 book, [*Problem Solving
 
 This contribution does not reproduce that transcript or adjudicate the whole book. The publisher page and [open methodology chapter](https://link.springer.com/chapter/10.1007/978-3-032-17756-8_1) were inspected. The causality chapter and the complete book were not studied for this page. Any description of Hossenfelder's criticism is a description of her public presentation; any judgment of Vervoort beyond the inspected chapter remains conditional.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/FRNFv6mGTDk"
-      title="Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=FRNFv6mGTDk">Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values</a></strong> — John Stossel. Published <strong>15 September 2026</strong>. YouTube displayed approximately <strong>162,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV. <a href="https://www.johnstossel.com/about/">Stossel TV — Why I created it</a></p>
-
-<p><strong>Why it belongs here:</strong> The report contrasts myths with facts while connecting A.I. policy to regulation and national values. Its concise certainty is useful for checking which claims are demonstrated, which alternatives are omitted and whether the debunker’s own frame receives equal scrutiny.</p>
-
-<p>On this page, test the video specifically against <strong>Beyond the Winning Theory — Trajectory Question Value Profile</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## The relationship in one view
 
@@ -279,3 +246,40 @@ Publication is not endorsement of every statement in the source chain. The page 
 - [**Unresolved Meaning**]({{ '/NETWORK/uncertainty/' | relative_url }}) — preserves provisional routes without requiring a crowned theory.
 - [**Visible Interactive Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — supplies the live topological visualization context for the candidate profile layer.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — makes the profile and its evaluator answerable to the same criteria.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/FRNFv6mGTDk"
+      title="Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=FRNFv6mGTDk">Artificial Intelligence: Clueless Politicians, Myths, &amp; the Fight Between American &amp; Chinese Values</a></strong> — John Stossel. Published <strong>15 September 2026</strong>. YouTube displayed approximately <strong>162,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV. <a href="https://www.johnstossel.com/about/">Stossel TV — Why I created it</a></p>
+
+<p><strong>Why it belongs here:</strong> The report contrasts myths with facts while connecting A.I. policy to regulation and national values. Its concise certainty is useful for checking which claims are demonstrated, which alternatives are omitted and whether the debunker’s own frame receives equal scrutiny.</p>
+
+<p>On this page, test the video specifically against <strong>Beyond the Winning Theory — Trajectory Question Value Profile</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

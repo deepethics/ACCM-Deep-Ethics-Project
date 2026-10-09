@@ -10,6 +10,22 @@ Material will be added incrementally rather than reconstructed prematurely from 
 
 **Preserve first. Let meaning arrive. Clarify when necessary. Interpret only as far as the supplied object warrants.**
 
+
+
+## Current public core pages
+
+- [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) — the 27 correspondence obstructions together with the source-aligned 12-stage Correspondence-First Deep Inquiry Protocol.
+- [27 obstructions of deep ethical sense-making processes (source)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) — full source entries for the 27. Not a rewrite of the names index. Not the 52.
+- [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) — a deeper synthesis connecting the 36 truth-distortion field, 3×3 Deep Ethical questions, truth-before-comfort, propagation through sincere carriers, the magician metaphor, loaded terms, recursion, and a proposed Propagation Audit.
+
+These pages remain BETA objects. The original source material retains authority to correct later public compression and reorganization.
+
+## Outnuancing Network
+
+[Explore the Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) through [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), the [seven connected vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/), [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), and the [Deep Ethical stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/). These reference pages preserve their relations and connect to specimens, experiments, and source excerpts.
+
+---
+
 <section class="accm-independent-media-box" id="independent-media-companion">
 
 <h2>Recent high-reach independent-media companion</h2>
@@ -44,15 +60,3 @@ Material will be added incrementally rather than reconstructed prematurely from 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
-
-## Current public core pages
-
-- [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) — the 27 correspondence obstructions together with the source-aligned 12-stage Correspondence-First Deep Inquiry Protocol.
-- [27 obstructions of deep ethical sense-making processes (source)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) — full source entries for the 27. Not a rewrite of the names index. Not the 52.
-- [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) — a deeper synthesis connecting the 36 truth-distortion field, 3×3 Deep Ethical questions, truth-before-comfort, propagation through sincere carriers, the magician metaphor, loaded terms, recursion, and a proposed Propagation Audit.
-
-These pages remain BETA objects. The original source material retains authority to correct later public compression and reorganization.
-
-## Outnuancing Network
-
-[Explore the Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) through [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), the [seven connected vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/), [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), and the [Deep Ethical stack](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/). These reference pages preserve their relations and connect to specimens, experiments, and source excerpts.

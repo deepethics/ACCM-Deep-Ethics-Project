@@ -15,40 +15,7 @@ The purpose of this page is more personal and pragmatic:
 
 The source formulation was written by John on **7 July 2026** and supplied for this public page on **4 October 2026**.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/S5wiP6sVDg4"
-      title="Narcissism Expert Richard Grannon: Britain Is Being Emotionally Manipulated"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=S5wiP6sVDg4">Narcissism Expert Richard Grannon: Britain Is Being Emotionally Manipulated</a></strong> — andrew gold | heretics.. Published <strong>19 April 2026</strong>. YouTube displayed approximately <strong>124,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> Andrew Gold made and presented documentaries for the BBC and HBO before building Heretics as his own independent interview and writing platform. <a href="https://www.panmacmillan.com/authors/andrew-gold/44432">Andrew Gold biography</a> · <a href="https://www.andrewgoldheretics.com/about">Heretics — About</a></p>
-
-<p><strong>Why it belongs here:</strong> The conversation proposes a population-scale emotional-manipulation account using psychological vocabulary. It is a useful test of causal evidence, national generalization, diagnostic language, audience resonance and self-application by host, guest and project.</p>
-
-<p>On this page, test the video specifically against <strong>TCoAw — Conceptual Topological Reasoning</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## The TCoAw triad
 
@@ -458,3 +425,40 @@ The model remains open to all five.
 - [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — protects unexpected possibilities before familiar categories close around them.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — uses this method on the word intelligence: the property field first, the present machine second.
 - [**11+1 Version 2**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — a frozen count can stay corrigible. That is a next move, not a wait for a risk-free perfection.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/S5wiP6sVDg4"
+      title="Narcissism Expert Richard Grannon: Britain Is Being Emotionally Manipulated"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=S5wiP6sVDg4">Narcissism Expert Richard Grannon: Britain Is Being Emotionally Manipulated</a></strong> — andrew gold | heretics.. Published <strong>19 April 2026</strong>. YouTube displayed approximately <strong>124,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Andrew Gold made and presented documentaries for the BBC and HBO before building Heretics as his own independent interview and writing platform. <a href="https://www.panmacmillan.com/authors/andrew-gold/44432">Andrew Gold biography</a> · <a href="https://www.andrewgoldheretics.com/about">Heretics — About</a></p>
+
+<p><strong>Why it belongs here:</strong> The conversation proposes a population-scale emotional-manipulation account using psychological vocabulary. It is a useful test of causal evidence, national generalization, diagnostic language, audience resonance and self-application by host, guest and project.</p>
+
+<p>On this page, test the video specifically against <strong>TCoAw — Conceptual Topological Reasoning</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

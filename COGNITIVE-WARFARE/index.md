@@ -9,43 +9,6 @@ permalink: /COGNITIVE-WARFARE/
 
 > **BETA / DERIVED EXTENSIVE REPORT — official concepts, capability discussions, reported implementations, interpretations, hypotheses, and open questions remain separate**
 
-## The question beneath the battle for the mind
-
-Cognitive warfare is often introduced as a contest over information, perception, decision-making, trust, behaviour, and resilience. The deeper ethical issue begins one layer earlier:
-
-> **Who may classify a person’s thought as true, dangerous, manipulated, resilient, disinformation, or a cognitive attack—and what process protects the classified person from the classifier’s own unexamined frame?**
-
-This page does not ask readers to choose a pro-NATO or anti-NATO identity, accept a totalizing theory of fifth-generation warfare, or dismiss the subject because some claims around it remain contested. It keeps distinct source layers visible, asks what each layer can establish, and applies the same audit to military institutions, governments, corporations, critics, media, alternative media, A.I. systems, and the **ACCM Deep Ethics Project** itself.
-
-The report has two connected objects:
-
-1. **Cognitive warfare and mass psychology:** the public concepts, military vocabulary, technologies, interpretations, and democratic questions in the supplied source packet.
-2. **The transformation of that packet by A.I.s:** how an answer moved from institutional sanitization to overcorrection and source fusion, then toward a more inspectable evidence architecture.
-
-The second object matters because an A.I. explaining cognitive warfare is already participating in the cognitive domain. Its selections, omissions, labels, confidence, and corrections alter what a reader can see.
-
-
-## Recent high-reach mass-psychology companion video {#companion-video}
-
-{% include youtube-embed.html id="FNZhxTtOL-I" title="The full-length interview with Yuval Noah Harari | The Economist" %}
-
-**[The full-length interview with Yuval Noah Harari](https://www.youtube.com/watch?v=FNZhxTtOL-I)** — *The Economist*. Published **26 August 2026**. YouTube displayed approximately **1.85 million views** when checked on **9 October 2026**.
-
-This is a provisional companion specimen because the interview links A.I., trust, intimacy, consciousness, rights, empires, authoritarianism, catastrophe, and proposed action in a single high-reach institutional frame. The speaker, interviewer, publication, audience response, distribution system, and this project's own interpretation all belong inside the same omnidirectional audit.
-
-While watching, ask:
-
-- Which observed capabilities, forecasts, metaphors, and value judgments are kept distinct?
-- How is trust moved between humans, institutions, and A.I. systems?
-- Who receives authority to define “takeover,” “intimacy,” “rights,” “empire,” “authoritarianism,” and “catastrophe”?
-- Which fears widen inquiry, and which compress many possible trajectories into one expected future?
-- Can a person dispute the framing without being converted into a psychological category?
-- What evidence or later outcome would correct the speaker, interviewer, institution, audience, or this page?
-
-The video's reach makes its framing important to mass psychology. Reach does not settle the truth of that framing.
-
-[Watch directly on YouTube if the embedded player is unavailable.](https://www.youtube.com/watch?v=FNZhxTtOL-I)
-
 ## Direct answer
 
 The source packet deserves a separate page in the **ACCM Deep Ethics Project** because it joins the project’s sentence-level investigation to a population-scale research field:
@@ -782,3 +745,42 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — records the outside pass over this report and makes the audit answerable to its own standard.
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks how far a system’s framing authority reaches and who can appeal its transformations.
 - [**1888 — Searching is a property**]({{ '/1888/#searching-is-a-property' | relative_url }}) — John connects this page to crisis exploitation managers: they push a top-down tunnel-vision narrative, through mass media, as the justification for new emergency laws. The tunnel vision is the narrative. It is not a tunnel vision about the managers.
+
+---
+
+## The question beneath the battle for the mind
+
+Cognitive warfare is often introduced as a contest over information, perception, decision-making, trust, behaviour, and resilience. The deeper ethical issue begins one layer earlier:
+
+> **Who may classify a person’s thought as true, dangerous, manipulated, resilient, disinformation, or a cognitive attack—and what process protects the classified person from the classifier’s own unexamined frame?**
+
+This page does not ask readers to choose a pro-NATO or anti-NATO identity, accept a totalizing theory of fifth-generation warfare, or dismiss the subject because some claims around it remain contested. It keeps distinct source layers visible, asks what each layer can establish, and applies the same audit to military institutions, governments, corporations, critics, media, alternative media, A.I. systems, and the **ACCM Deep Ethics Project** itself.
+
+The report has two connected objects:
+
+1. **Cognitive warfare and mass psychology:** the public concepts, military vocabulary, technologies, interpretations, and democratic questions in the supplied source packet.
+2. **The transformation of that packet by A.I.s:** how an answer moved from institutional sanitization to overcorrection and source fusion, then toward a more inspectable evidence architecture.
+
+The second object matters because an A.I. explaining cognitive warfare is already participating in the cognitive domain. Its selections, omissions, labels, confidence, and corrections alter what a reader can see.
+
+
+## Recent high-reach mass-psychology companion video {#companion-video}
+
+{% include youtube-embed.html id="FNZhxTtOL-I" title="The full-length interview with Yuval Noah Harari | The Economist" %}
+
+**[The full-length interview with Yuval Noah Harari](https://www.youtube.com/watch?v=FNZhxTtOL-I)** — *The Economist*. Published **26 August 2026**. YouTube displayed approximately **1.85 million views** when checked on **9 October 2026**.
+
+This is a provisional companion specimen because the interview links A.I., trust, intimacy, consciousness, rights, empires, authoritarianism, catastrophe, and proposed action in a single high-reach institutional frame. The speaker, interviewer, publication, audience response, distribution system, and this project's own interpretation all belong inside the same omnidirectional audit.
+
+While watching, ask:
+
+- Which observed capabilities, forecasts, metaphors, and value judgments are kept distinct?
+- How is trust moved between humans, institutions, and A.I. systems?
+- Who receives authority to define “takeover,” “intimacy,” “rights,” “empire,” “authoritarianism,” and “catastrophe”?
+- Which fears widen inquiry, and which compress many possible trajectories into one expected future?
+- Can a person dispute the framing without being converted into a psychological category?
+- What evidence or later outcome would correct the speaker, interviewer, institution, audience, or this page?
+
+The video's reach makes its framing important to mass psychology. Reach does not settle the truth of that framing.
+
+[Watch directly on YouTube if the embedded player is unavailable.](https://www.youtube.com/watch?v=FNZhxTtOL-I)

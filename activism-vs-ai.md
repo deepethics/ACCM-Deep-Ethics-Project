@@ -10,40 +10,7 @@ permalink: /ACTIVISM-VS-AI/
 > **PUBLIC DRAFT — 6 October 2026.**  
 > John Kuhles asked for this page. His formulations below are his. Elon Musk’s sentences are quoted and dated. They are not adopted as the project’s position, and they are not treated as a settled forecast. This page does not join a campaign, and it does not exist to defeat one.
 
-<section class="accm-independent-media-box" id="independent-media-companion">
 
-<h2>Recent high-reach independent-media companion</h2>
-
-<figure class="accm-video-embed">
-  <div class="accm-video-embed__frame">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/xTAJnJUos3g"
-      title="Tucker Debates Kevin O’Leary on AI, American Jobs and the Fall of the American Empire"
-      loading="lazy"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
-  </div>
-</figure>
-
-<p><strong><a href="https://www.youtube.com/watch?v=xTAJnJUos3g">Tucker Debates Kevin O’Leary on AI, American Jobs and the Fall of the American Empire</a></strong> — Tucker Carlson. Published <strong>13 May 2026</strong>. YouTube displayed approximately <strong>1.05 million views</strong> when checked on <strong>9 October 2026</strong>.</p>
-
-<p><strong>Independent-media lineage:</strong> Tucker Carlson previously hosted programs at CNN, MSNBC and Fox News. Tucker Carlson Network says it was founded as an alternative to legacy media. <a href="https://tuckercarlson.com/about">TCN — About</a> · <a href="https://press.foxnews.com/2017/01/fox-news-channel-names-tucker-carlson-as-new-9pmet-host">Fox biography recording the earlier CNN, MSNBC and Fox career</a></p>
-
-<p><strong>Why it belongs here:</strong> The debate connects A.I. capability claims to employment, investment, national power, winners and losers, and competing definitions of progress. Its conflict makes economic and ethical assumptions visible in more than one direction.</p>
-
-<p>On this page, test the video specifically against <strong>Activism vs A.I.</strong>:</p>
-
-<ul>
-  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
-  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
-  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
-  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
-</ul>
-
-<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
-
-</section>
 
 ## The illusion
 
@@ -220,3 +187,40 @@ Forcing the conclusion through distortion, even in the name of humanity, is the 
 - [**Positive potential**]({{ '/POSITIVE-POTENTIAL/' | relative_url }}) — an early encounter can be kept open instead of closed by a fate story.
 - [**Veto paradox**]({{ '/VETO-PARADOX/' | relative_url }}) — a temporary source check is not a permanent office, and not a new sheriff.
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — the seven Musk quotations are a separate, partial task. This page does not complete it.
+
+---
+
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/xTAJnJUos3g"
+      title="Tucker Debates Kevin O’Leary on AI, American Jobs and the Fall of the American Empire"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=xTAJnJUos3g">Tucker Debates Kevin O’Leary on AI, American Jobs and the Fall of the American Empire</a></strong> — Tucker Carlson. Published <strong>13 May 2026</strong>. YouTube displayed approximately <strong>1.05 million views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Tucker Carlson previously hosted programs at CNN, MSNBC and Fox News. Tucker Carlson Network says it was founded as an alternative to legacy media. <a href="https://tuckercarlson.com/about">TCN — About</a> · <a href="https://press.foxnews.com/2017/01/fox-news-channel-names-tucker-carlson-as-new-9pmet-host">Fox biography recording the earlier CNN, MSNBC and Fox career</a></p>
+
+<p><strong>Why it belongs here:</strong> The debate connects A.I. capability claims to employment, investment, national power, winners and losers, and competing definitions of progress. Its conflict makes economic and ethical assumptions visible in more than one direction.</p>
+
+<p>On this page, test the video specifically against <strong>Activism vs A.I.</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>

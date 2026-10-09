@@ -72,6 +72,21 @@ If AI can help a malicious actor do harm faster, the variable is the one it has 
 
 That is what the transcript is trying to represent. Reaction belongs on **this**, not on a nearest-neighbor “alternative media / sounds like / looks like.”
 
+
+
+## Related pages
+
+- [**Applying the 27 to the Dicks / Independent Object**]({{ '/EXPERIMENTS/dicks-independent-27/' | relative_url }}) — contains the later two-way obstruction audit applied after this representation.
+- [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — examines the path from source through carrier, receiver, action, and recursive consequence.
+- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — connects perception management, institutional framing, and classification authority.
+- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — asks how declared safety purposes travel through systems into results and accountability.
+- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether institutional and independent claims receive comparable scrutiny.
+- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — preserves the transcript’s actual object before evaluating or correcting it.
+- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the messenger, frame, claims, and evidence distinguishable.
+- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates this representation and its later audit among the project’s specimens.
+
+---
+
 <section class="accm-independent-media-box" id="independent-media-companion">
 
 <h2>Recent high-reach independent-media companion</h2>
@@ -106,14 +121,3 @@ That is what the transcript is trying to represent. Reaction belongs on **this**
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
-
-## Related pages
-
-- [**Applying the 27 to the Dicks / Independent Object**]({{ '/EXPERIMENTS/dicks-independent-27/' | relative_url }}) — contains the later two-way obstruction audit applied after this representation.
-- [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — examines the path from source through carrier, receiver, action, and recursive consequence.
-- [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — connects perception management, institutional framing, and classification authority.
-- [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — asks how declared safety purposes travel through systems into results and accountability.
-- [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether institutional and independent claims receive comparable scrutiny.
-- [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — preserves the transcript’s actual object before evaluating or correcting it.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the messenger, frame, claims, and evidence distinguishable.
-- [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates this representation and its later audit among the project’s specimens.
