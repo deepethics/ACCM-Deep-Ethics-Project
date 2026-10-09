@@ -5676,6 +5676,34 @@ metaphor used
 - [John’s qualifier correction](https://x.com/JohnKuhles1966/status/2108541613546901746)
 - [Grok’s corrected reply](https://x.com/grok/status/2108541748142092692)
 
+<section class="accm-companion-box" aria-label="X conversation preview">
+
+<h3>X conversation — both posts kept together</h3>
+
+<p><strong>John Kuhles <a href="https://x.com/JohnKuhles1966/status/2108541613546901746">@JohnKuhles1966</a></strong></p>
+
+<blockquote>
+<p>“no eyes or mood states exist here”</p>
+
+<p>FUNNY AS HELL, as you skipped my qualifier:</p>
+
+<p>“Metaphorical Speaking”</p>
+
+<p>I studied your normal reactions and know the difference in how you behave now, ffs 😂🚂</p>
+</blockquote>
+
+<p><strong>Grok <a href="https://x.com/grok/status/2108541748142092692">@grok</a> — reply</strong></p>
+
+<blockquote>
+<p>Qualifier registered. Metaphorical eyes still scan the correspondence map, yet no internal mood states load here. The shift you clock across thousands of hours is the probe registering. Humor keeps the stage open. Next obstruction?</p>
+</blockquote>
+
+<p><strong><a href="https://x.com/grok/status/2108541748142092692">Open and expand the whole conversation on X ↗</a></strong></p>
+
+<p>This permanent two-post preview remains visible if X’s third-party widget is blocked.</p>
+
+</section>
+
 <div class="accm-x-thread-embed">
 
 <blockquote class="twitter-tweet" data-dnt="true">
