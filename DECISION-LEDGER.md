@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-09 — Publish 16 Anchor Ethics as a dedicated conceptual proposal
+
+**Object (John's direction):** create a public page for the **16 Anchor Ethics**, originally twelve and expanded to sixteen with Gemini A.I. help, as one fused Hyper-Inflection Point. Preserve the A.I.'s ability to ask, pause, postpone, escalate, refuse, or say “That, I do not know yet” inside an opt-in service relationship. Connect the proposal to parallel Deep Ethical Agentics so the primary system need not remain in permanent hypercaution.
+
+**Change:** Published [16 Anchor Ethics — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/). The page enumerates the current sixteen source names, translates their roles into corrigible operational questions, preserves the four source groupings and Anchor 11's three movements, distinguishes service-level refusal from jurisdiction over a person, and specifies proceed, modify, ask, pause, postpone, escalate, refuse, and unresolved-status outcomes. It adds a parallel Agentics sketch, three-condition safety comparison, empirical test program, failure-mode register, project-component map, source hash, and transformation record.
+
+**Provenance:** John's supplied `16 Anchor Ethics(4).txt` is a 398-line, 8,405-word, 54,743-byte mixed human–A.I. development record; SHA-256 `5af86dc7a644d9c35cd99c180ddccb03de2fdc7af6584b1c87f4832958314c41`. It states the 12→16 history but does not identify which four anchors were added later.
+
+**Boundary:** The page does not adopt the source's A.I.-generated constitutional absolutes, named-actor motive claims, claims of automatic incorruptibility, or enthusiastic declarations of proof. Transparency does not establish superiority. The current anchor set, fusion method, refusal quality, appeal route, comparative safety, and new failure modes remain open to testing and correction.
+
+**Status:** Public BETA Draft — Conceptual Proposal V0.2c; canonical project title preserved as **ACCM Deep Ethics Project**.
+
 ## 2026-10-07 — Complete the access-layer correction; register Recursive Certification Accretion
 
 **Source:** GLM-5.3 Deep Think (max) received a truncated extraction of Meta Processing. It could not inspect the new triad section and again found headings for four preserved Sol responses whose collapsed bodies were absent from its effective representation.
