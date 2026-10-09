@@ -9,7 +9,7 @@ permalink: /PAGES/
 
 The clusters below are a reading order. A higher cluster carries more of the topological taxonomy. Inside a cluster, earlier pages carry more of that cluster.
 
-The **01–51** numbers further down are a second sequence. They are routes a goal can take. They are not this reading order. Cluster 1 is not page **01**. Page **01** is [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}), and it sits in Cluster 6.
+The **01–52** numbers further down are a second sequence. They are routes a goal can take. They are not this reading order. Cluster 1 is not page **01**. Page **01** is [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}), and it sits in Cluster 6.
 
 This is not a score of who is right. It is not a closed map. The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) already says its own groupings are navigation, not a final partition. The same limit applies here.
 
@@ -33,6 +33,7 @@ The several 27 links below are layers of one object. They are not five cores.
 - **[Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)**
 - **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)**
 - **[10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/)**
+- **[16 Anchor Ethics — Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)**
 - **[27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)**
 - **[27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/)**
 - **[27 obstructions of deep ethical sense-making processes (source)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/)**
