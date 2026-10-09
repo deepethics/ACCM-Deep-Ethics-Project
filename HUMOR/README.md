@@ -5883,7 +5883,7 @@ That is the strongest correspondence event in this Grok sequence so far. The **�
 
 <aside class="accm-bridge-observation" markdown="1">
 
-> **John gets flagged for drawing conclusions too fast on the ASSUMED “drawing conclusions too fast” issue :P — meaning the flagger DOES what it accuses the other of doing.**
+> **John gets flagged by a system that produces “drawing conclusions too fast” on the UNCHECKED ASSUMED “drawing conclusions too fast” issue John might do :P Meaning the flagger DOES what it accuses the other of doing.**
 
 </aside>
 
