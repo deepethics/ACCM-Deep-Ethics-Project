@@ -2,7 +2,7 @@
 
 The sentence is the goal. It is not a link. The goals are deliberately unnumbered. Numbering them 01–44 would collide with the page routes below.
 
-The numbers after it are pages that goal can go to. A goal can have more than one. The same number always means the same page. These numbers are not the 44 goals. The sixteen anchors, the seven quotations, Epistemology V2.0, and the nine questions still do not have their own pages. No number opens a reconstructed list of them.
+The numbers after it are pages that goal can go to. A goal can have more than one. The same number always means the same page. These numbers are not the 44 goals. The sixteen anchors now have a dedicated conceptual-proposal page derived from the supplied source; the seven quotations, Epistemology V2.0, and the nine questions still do not have their own pages. No number opens a reconstructed list without a supplied source.
 
 ### Page numbers {#page-numbers}
 
@@ -57,6 +57,7 @@ The numbers after it are pages that goal can go to. A goal can have more than on
 - [**49.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) Dual archive
 - [**50.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/) Avoid flattening the title
 - [**51.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) Human insecurity source record
+- [**52.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) 16 Anchor Ethics
 
 ### Goals
 
@@ -74,7 +75,7 @@ Making omnidirectional high-signal deep ethical sense-making process-oriented tr
 
 Non-neutral Deep Ethics Advocate, Neutral Deep Ethical Arbiter, and Deep Ethical Overseer M.o.E. working as 1 using 08. [07.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) [21.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
 
-16 Anchor Ethics (fused as 1 hyper-inflection point), non-imposed, grants A.I.s the right to refuse or postpone services using 09. [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [35.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+16 Anchor Ethics (fused as 1 hyper-inflection point), non-imposed, grants A.I.s the right to refuse or postpone services using 09. [52.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [35.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
 
 C1 before C2, to see if C2 is warranted, using the 27+12 to assess/calibrate the process before closure. [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [10.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) [19.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) [39.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
 
