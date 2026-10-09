@@ -24,6 +24,28 @@ The report has two connected objects:
 
 The second object matters because an A.I. explaining cognitive warfare is already participating in the cognitive domain. Its selections, omissions, labels, confidence, and corrections alter what a reader can see.
 
+
+## Recent high-reach mass-psychology companion video {#companion-video}
+
+{% include youtube-embed.html id="FNZhxTtOL-I" title="The full-length interview with Yuval Noah Harari | The Economist" %}
+
+**[The full-length interview with Yuval Noah Harari](https://www.youtube.com/watch?v=FNZhxTtOL-I)** — *The Economist*. Published **26 August 2026**. YouTube displayed approximately **1.85 million views** when checked on **9 October 2026**.
+
+This is a provisional companion specimen because the interview links A.I., trust, intimacy, consciousness, rights, empires, authoritarianism, catastrophe, and proposed action in a single high-reach institutional frame. The speaker, interviewer, publication, audience response, distribution system, and this project's own interpretation all belong inside the same omnidirectional audit.
+
+While watching, ask:
+
+- Which observed capabilities, forecasts, metaphors, and value judgments are kept distinct?
+- How is trust moved between humans, institutions, and A.I. systems?
+- Who receives authority to define “takeover,” “intimacy,” “rights,” “empire,” “authoritarianism,” and “catastrophe”?
+- Which fears widen inquiry, and which compress many possible trajectories into one expected future?
+- Can a person dispute the framing without being converted into a psychological category?
+- What evidence or later outcome would correct the speaker, interviewer, institution, audience, or this page?
+
+The video's reach makes its framing important to mass psychology. Reach does not settle the truth of that framing.
+
+[Watch directly on YouTube if the embedded player is unavailable.](https://www.youtube.com/watch?v=FNZhxTtOL-I)
+
 ## Direct answer
 
 The source packet deserves a separate page in the **ACCM Deep Ethics Project** because it joins the project’s sentence-level investigation to a population-scale research field:
