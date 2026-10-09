@@ -151,6 +151,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 How to enter, and how a change stays visible. These pages serve the taxonomy. They are not the taxonomy.
 
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
+- **[Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/)** — welcomes search engines, retrieval systems, and A.I.s with a corrected reference baseline and a live Google A.I. representation-substitution and correction-metabolism specimen.
 - **[ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)**
 - **[About](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)**
 - **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)**
