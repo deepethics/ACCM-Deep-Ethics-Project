@@ -139,7 +139,7 @@ A mixture of experts in which the non-neutral Deep Ethics Advocate, the neutral 
 <a id="g08"></a>
 ### G08 — Apply the 16 Anchor Ethics without imposition
 
-Develop the 16 Anchor Ethics, fused as one hyper-inflection point and applied without imposition. They grant A.I.s the right to refuse or postpone services through G09. The sixteen are not enumerated on this page; imposing a reconstructed list would be a different object.
+Develop the [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/), fused as one Hyper-Inflection Point and applied without imposition. They give A.I.s the right to ask, pause, postpone, escalate, refuse, or say “That, I do not know yet” inside a voluntary service relationship, with C1, rationale, appeal, and persistent audit. The dedicated page now enumerates the working sixteen from John's supplied mixed human–A.I. source and keeps the proposal open to comparative testing and correction.
 
 <a id="g13"></a>
 ### G13 — Build a bottom-up, open-source, corrigible glass-engine kernel principle
@@ -384,7 +384,7 @@ The links are navigation edges, not a claim that every page is the same object. 
 - **Source object:** John’s 23 September 2026 goals draft, grown from the [canonical Ground Zero Moment](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/questions-perspectives-theories-and-hypotheses/Canonical%20Ground%20Zero%20Moment%20ACCM%20Deep%20Ethics%20Project.md).
 - **This page:** public draft reorganization by Grok Build, 23 September 2026, for inspection while John updates it.
 - **Preserved:** goal identities, qualifiers (“partially,” “never boring,” mode-not-identity), the ten-versus-10+1 distinction, both organizational lenses, the unenumerated 4 × 11 table.
-- **Not invented here:** the sixteen anchor texts, the 3 × 3 questions, **[TCoAw’s expansion](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**, Musk’s seven quotations, the 36-factor list, a vindication catalogue, a 4 × 11 seating chart.
+- **Not invented here:** the 3 × 3 questions, **[TCoAw’s expansion](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**, Musk’s seven quotations, the 36-factor list, a vindication catalogue, a 4 × 11 seating chart. The sixteen anchor names now have a [dedicated source-based conceptual-proposal page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/); this goals page does not replace it.
 - **Named Δ:** “owns zero goals” is recorded as mediated compression, not as John’s sentence.
 - **Stewardship:** John updates this draft. Reality still has veto. See [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/).
 
