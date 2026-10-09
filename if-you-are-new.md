@@ -19,6 +19,8 @@ The standing question is already on the project’s front page:
 
 A simple example: criticizing some unsafe cars, with evidence, while appreciating other models of the same brand, is not being “anti-car.” If the reply judges that label instead of examining the specific cars and the evidence, the object has changed.
 
+{% include independent-media-companion.html %}
+
 ## Who this is mainly for
 
 The ACCM Deep Ethics Project is not designed for people who want celebrity gossip, football news, or tabloid chatter. It is mainly for people working on high-stakes controversies, or living with their consequences, where the actual question, evidence, qualifiers, and competing risks can be lost. Those controversies are partly framed as gossip, a camp fight, or a label about the person who raised it, in order to bypass scrutiny. The scrutiny includes the claim, the frame, the people and systems judging it, and this project’s own treatment of it.

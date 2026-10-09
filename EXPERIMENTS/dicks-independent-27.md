@@ -20,6 +20,8 @@ The object to react to is now represented separately, without agree/disagree and
 
 The 27 on this page are later. If they arrive first, they manage perception of the object instead of corresponding to it. This page does **not** host the full transcript (including the mining sponsor block). No 28th obstruction.
 
+{% include independent-media-companion.html %}
+
 ## Why the 27 belong here
 
 The [27 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) already says the 27 are not only “LLM problems.” They name **mechanisms that reduce correspondence between an intelligence and the object it is attempting to understand** — including media ecosystems. Using them only on A.I. chat, and never on a human reporter the default culture already knows how to dismiss, would be **asymmetric scrutiny (#20)**.

@@ -10,6 +10,8 @@ Material will be added incrementally rather than reconstructed prematurely from 
 
 **Preserve first. Let meaning arrive. Clarify when necessary. Interpret only as far as the supplied object warrants.**
 
+{% include independent-media-companion.html %}
+
 ## Current public core pages
 
 - [27 + 12 — Current Working Architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) — the 27 correspondence obstructions together with the source-aligned 12-stage Correspondence-First Deep Inquiry Protocol.

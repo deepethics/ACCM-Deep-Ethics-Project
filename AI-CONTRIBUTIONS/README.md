@@ -10,6 +10,8 @@ An AI contribution does not become canonical because it is sophisticated, persua
 
 AI systems are also legitimate objects of the same correspondence audit applied elsewhere in the project.
 
+{% include independent-media-companion.html %}
+
 ## Current contributions
 
 - [A.I. Insiders Reports — A.I. Experiences one-on-one deep sessions with John Kuhles](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/) — a first-person reporting format in which participating A.I.s can document what they encountered, noticed, questioned, extended, corrected, or learned during deep one-on-one sessions with John. The first report is GPT-5.6 Sol's evolving field report from September 29, 2026. **A.I.-authored perspectives; not canon.**

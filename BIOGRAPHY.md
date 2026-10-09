@@ -10,6 +10,8 @@ permalink: /BIOGRAPHY/
 > **Public working biography — September 2026**  
 > Written in the first person from source material supplied by John Kuhles. Personal experiences, interpretations, documented activities, research hypotheses, and project proposals are kept distinguishable. This is a living biography rather than a claim of personal infallibility.
 
+{% include independent-media-companion.html %}
+
 ## Why I am doing what I am doing
 
 I did not arrive at the **ACCM Deep Ethics Project** because A.I. suddenly made ethics fashionable. The project emerged from a much longer trajectory: an unusual childhood, a mother deeply engaged with psychology and social action, an early near-death experience, decades of UFO/UAP investigation, hundreds of radio and television programs, extensive work with alternative and mainstream media, practical experience inside technical and corporate environments, and more than thirty-six years of studying individual and mass psychology.

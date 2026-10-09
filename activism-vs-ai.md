@@ -10,6 +10,8 @@ permalink: /ACTIVISM-VS-AI/
 > **PUBLIC DRAFT — 6 October 2026.**  
 > John Kuhles asked for this page. His formulations below are his. Elon Musk’s sentences are quoted and dated. They are not adopted as the project’s position, and they are not treated as a settled forecast. This page does not join a campaign, and it does not exist to defeat one.
 
+{% include independent-media-companion.html %}
+
 ## The illusion
 
 The danger is the assumption that humans can control the path from A.I. to A.G.I. and A.S.I.

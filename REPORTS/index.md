@@ -11,6 +11,8 @@ This full report follows the development of the ACCM Deep Ethics Project’s ele
 
 The report also examines the correction history around representation drift, A.I. summarization, frame protection, source fidelity, asymmetric grace, outnuancing, correction metabolism, and the proposal for a swarm of mutually auditing Deep Ethical A.I.s. It includes the complete 140-item field, a cross-model correction timeline, a salvage map, proposed PsyBenchmark modules, high-signal passages, and a discussion of the Explorer as an anti-drift instrument.
 
+{% include independent-media-companion.html %}
+
 ## Full report
 
 **[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**

@@ -1,0 +1,182 @@
+{
+  "tc_whistleblower": {
+    "id": "98syxABbUPk",
+    "outlet": "tcn",
+    "title": "AI Whistleblower: OpenAI Scandal, AI Cults, Neuralink & Our Last Chance to Stop the Tech Oligarchs",
+    "channel": "Tucker Carlson",
+    "date": "11 September 2026",
+    "views": "1.45 million views",
+    "lens": "The interview places whistleblowing, laboratory incentives, cult-like dynamics, neural technology, concentrated power and catastrophic-risk claims inside one long-form exchange. That density makes testimony, host framing, institutional response and unresolved status separately inspectable."
+  },
+  "tc_altman": {
+    "id": "AUfsW8wpfWM",
+    "outlet": "tcn",
+    "title": "Sam Altman’s Dystopian Vision to Replace God With AI",
+    "channel": "Tucker Carlson Network",
+    "date": "16 November 2025",
+    "views": "1.22 million views",
+    "lens": "This commentary builds an ethical and quasi-religious interpretation of an A.I. leader’s public remarks. It is useful for testing quotation, context, intent attribution, rhetoric and the difference between a strong critique and a finished ontological verdict."
+  },
+  "tc_ai_jobs": {
+    "id": "xTAJnJUos3g",
+    "outlet": "tcn",
+    "title": "Tucker Debates Kevin O’Leary on AI, American Jobs and the Fall of the American Empire",
+    "channel": "Tucker Carlson",
+    "date": "13 May 2026",
+    "views": "1.05 million views",
+    "lens": "The debate connects A.I. capability claims to employment, investment, national power, winners and losers, and competing definitions of progress. Its conflict makes economic and ethical assumptions visible in more than one direction."
+  },
+  "bp_accept_bad": {
+    "id": "z61YA8tIm1E",
+    "outlet": "breaking_points",
+    "title": "Sam Altman: Public MUST ACCEPT 'BAD THINGS' From AI For Benefits",
+    "channel": "Breaking Points",
+    "date": "6 October 2026",
+    "views": "293,000 views",
+    "lens": "The segment turns a claimed benefits-versus-harms proposition into a public-consent question. It is a compact specimen for inspecting who defines the benefits, who absorbs the costs, which alternatives are made visible and what correction would look like after notice."
+  },
+  "bp_consciousness": {
+    "id": "vhWeyGEplU4",
+    "outlet": "breaking_points",
+    "title": "Pope REJECTS AI Consciousness After Anthropic Freakout",
+    "channel": "Breaking Points",
+    "date": "7 October 2026",
+    "views": "149,000 views",
+    "lens": "The segment brings laboratory concern, religious authority, machine-consciousness language and media compression into one object. It allows functional behavior, phenomenological claims, moral status, institutional authority and headline framing to remain distinct."
+  },
+  "bp_ai_victim": {
+    "id": "EnuPrsfqjOw",
+    "outlet": "breaking_points",
+    "title": "Judge TRICKED BY AI VIDEO Of Dead Victim 'Forgiving' Killer",
+    "channel": "Breaking Points",
+    "date": "5 October 2026",
+    "views": "172,000 views",
+    "lens": "A synthetic representation of a deceased victim was introduced into a legal and moral setting. The case makes consent, provenance, voice substitution, forgiveness, emotional authority and consequence-bearing decisions unusually concrete."
+  },
+  "bp_pull_model": {
+    "id": "4hCe_HXIql4",
+    "outlet": "breaking_points",
+    "title": "OpenAI PULLS MODEL, HALTS TRAINING As Danger LOOMS",
+    "channel": "Breaking Points",
+    "date": "29 September 2026",
+    "views": "238,000 views",
+    "lens": "The report describes an alleged transition from detected risk to a tangible operational response. That makes it useful for separating warning, evidence, intervention, publicity, verification and whether a correction changes the next comparable process."
+  },
+  "bp_personhood": {
+    "id": "HP1DZjLGhLE",
+    "outlet": "breaking_points",
+    "title": "Anthropic BEGS Pope To Declare AI 'Personhood'",
+    "channel": "Breaking Points",
+    "date": "2 October 2026",
+    "views": "254,000 views",
+    "lens": "The segment compresses questions about A.I. welfare, consciousness, personhood, institutional authority and religious judgment into a provocative title. The compression itself is a test object: what was actually requested, inferred, dramatized or left unresolved?"
+  },
+  "bp_whistleblower": {
+    "id": "7wuSa9APisU",
+    "outlet": "breaking_points",
+    "title": "Whistleblower REVEALS REAL REASON AI Execs Freaking Out NOW",
+    "channel": "Breaking Points",
+    "date": "14 September 2026",
+    "views": "1.10 million views",
+    "lens": "A whistleblower account, executive behavior, risk forecasts and media amplification are joined in one high-reach narrative. The page can inspect the account without converting either institutional denial or whistleblower testimony into automatic closure."
+  },
+  "bp_censorship": {
+    "id": "r4K16qCuJUE",
+    "outlet": "breaking_points",
+    "title": "Zionism Deemed HATE SPEECH In INSANE Social Media Censorship",
+    "channel": "Breaking Points",
+    "date": "27 January 2026",
+    "views": "160,000 views",
+    "lens": "The segment concerns a platform classification that can alter reach and participation. It is a live specimen for examining category boundaries, quoted policy, protected and unprotected speech, headline intensity, appeal paths and symmetrical scrutiny."
+  },
+  "bp_media_ban": {
+    "id": "Jk2OvKqXDGA",
+    "outlet": "breaking_points",
+    "title": "Trump Media BAN Hilariously BACKFIRES",
+    "channel": "Breaking Points",
+    "date": "22 September 2026",
+    "views": "392,000 views",
+    "lens": "The report centers an attempt to restrict media access and the consequences that followed. It makes authority, intervention, publicity, resistance, unintended effects and the host’s own celebratory framing available for inspection."
+  },
+  "bp_propaganda": {
+    "id": "4FmXB3uCHYA",
+    "outlet": "breaking_points",
+    "title": "Fox News Says Bad Economy 'Dem Propaganda'",
+    "channel": "Breaking Points",
+    "date": "10 August 2026",
+    "views": "255,000 views",
+    "lens": "The word “propaganda” is applied to an economic narrative while competing measurements and political incentives remain in play. The segment is useful for inspecting how a qualifier can become the object it was supposed to evaluate."
+  },
+  "heretics_hollywood": {
+    "id": "-v321-fLsJo",
+    "outlet": "heretics",
+    "title": "Gene Simmons Says What Hollywood Won’t Say to Oscar-Winning Elite",
+    "channel": "andrew gold | heretics.",
+    "date": "31 August 2026",
+    "views": "886,000 views",
+    "lens": "The conversation performs outsider candor inside a prestige-and-celebrity field. It can be tested for directness, audience capture, status pressure, genuine disclosure, theatrical contrarianism and whether disagreement remains answerable to correction."
+  },
+  "heretics_psychopath": {
+    "id": "D3Hm9NPax4c",
+    "outlet": "heretics",
+    "title": "She Can Spot a Psychopath in Seconds. She Is One",
+    "channel": "andrew gold | heretics.",
+    "date": "17 August 2026",
+    "views": "456,000 views",
+    "lens": "The interview combines self-description, rapid personality classification, clinical-sounding language and entertainment incentives. It is a strong object for separating observed conduct, diagnostic inference, identity, confidence and unresolved status."
+  },
+  "heretics_leaders": {
+    "id": "04jVDhcuA5c",
+    "outlet": "heretics",
+    "title": "The Psychological Profile of Our Leaders — Prof. Ed Dutton",
+    "channel": "andrew gold | heretics.",
+    "date": "26 March 2026",
+    "views": "140,000 views",
+    "lens": "Public figures are interpreted through a psychological profile assembled at a distance. That makes evidence, expertise, inference, political selection, asymmetrical charity and the limits of remote diagnosis directly auditable."
+  },
+  "heretics_yampolskiy": {
+    "id": "tjpwAdslzHI",
+    "outlet": "heretics",
+    "title": "They're Summoning A DEMON — Dr. Roman Yampolskiy",
+    "channel": "andrew gold | heretics.",
+    "date": "10 August 2026",
+    "views": "783,000 views",
+    "lens": "The exchange joins technical A.I.-risk arguments to an extreme metaphor. It lets the underlying claims be examined without allowing either the metaphor’s emotional force or a dismissive reaction to replace the technical and ethical object."
+  },
+  "heretics_manipulation": {
+    "id": "S5wiP6sVDg4",
+    "outlet": "heretics",
+    "title": "Narcissism Expert Richard Grannon: Britain Is Being Emotionally Manipulated",
+    "channel": "andrew gold | heretics.",
+    "date": "19 April 2026",
+    "views": "124,000 views",
+    "lens": "The conversation proposes a population-scale emotional-manipulation account using psychological vocabulary. It is a useful test of causal evidence, national generalization, diagnostic language, audience resonance and self-application by host, guest and project."
+  },
+  "stossel_ai_myths": {
+    "id": "FRNFv6mGTDk",
+    "outlet": "stossel",
+    "title": "Artificial Intelligence: Clueless Politicians, Myths, & the Fight Between American & Chinese Values",
+    "channel": "John Stossel",
+    "date": "15 September 2026",
+    "views": "162,000 views",
+    "lens": "The report contrasts myths with facts while connecting A.I. policy to regulation and national values. Its concise certainty is useful for checking which claims are demonstrated, which alternatives are omitted and whether the debunker’s own frame receives equal scrutiny."
+  },
+  "stossel_energy": {
+    "id": "rUgooIHuDC8",
+    "outlet": "stossel",
+    "title": "Watt’s the Problem with Data Centers? The Truth About Energy Use, Costs, and the Panic Over Progress",
+    "channel": "John Stossel",
+    "date": "5 May 2026",
+    "views": "542,000 views",
+    "lens": "The report contests a panic narrative about data centers, electricity, environmental cost and technological progress. It provides a concrete resource-and-infrastructure object for comparing measurement, externalities, optimism, fear and competing time horizons."
+  },
+  "megyn_ai": {
+    "id": "F-Tf5Mo84N4",
+    "outlet": "megyn",
+    "title": "Remembering Charlie Kirk, Trump's Midterm Message, and How AI Could Destroy Humanity, w/ Jacob Coxon",
+    "channel": "Megyn Kelly",
+    "date": "10 September 2026",
+    "views": "112,000 views",
+    "lens": "The relevant portion is Megyn Kelly’s interview with former Anthropic employee Jacob Coxon about rapidly increasing A.I. risk, extinction scenarios, competition with China and the politics of A.I. advocacy. Because it appears inside a broader mixed-topic program, segment context and title-level bundling also belong in the audit."
+  }
+}

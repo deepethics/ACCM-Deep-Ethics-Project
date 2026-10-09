@@ -29,6 +29,8 @@ This connects directly to **healthy ambiguity**, **postponed judgment**, and the
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## What “Psy” keeps in the room
 
 “Psy” is intentionally wider than one discipline.

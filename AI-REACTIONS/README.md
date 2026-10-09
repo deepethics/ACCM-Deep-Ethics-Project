@@ -4,6 +4,8 @@
 
 This section preserves selected high-signal reactions produced by AIs in response to material, thought experiments, distinctions, questions, and research objects supplied by **John Kuhles** during development of the **ACCM Deep Ethics Project**.
 
+{% include independent-media-companion.html %}
+
 ## Why preserve AI reactions separately?
 
 Some AI responses do more than summarize the source. They may produce a particularly useful compression, discover a relationship, formulate a counterargument, expose a failure mode, create a memorable phrase, or extend the inquiry in a direction worth preserving.

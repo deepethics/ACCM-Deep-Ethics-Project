@@ -46,6 +46,8 @@ That is why I decided to use more of the laughing/humor route… and place seeds
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## What this is trying to convey (representation, not verdict)
 
 Labeled Grok. Agreement not required.

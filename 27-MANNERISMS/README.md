@@ -6,6 +6,8 @@ This is the current 27-part compression of a larger body of recurring LLM manner
 
 The labels describe recurring observable or functionally inferred LLM mannerisms. They do **not** by themselves imply that an LLM experiences the human emotions or mental states from which some terminology may borrow, and they do not by themselves establish a particular internal neural or computational mechanism.
 
+{% include independent-media-companion.html %}
+
 ## The 27
 
 1. **Caution Reflex Drift**

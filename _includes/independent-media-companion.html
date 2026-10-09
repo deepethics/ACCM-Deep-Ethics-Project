@@ -1,0 +1,31 @@
+{% assign independent_media_matches = site.data.independent_media_pages | where: "path", page.path %}
+{% assign independent_media_assignment = independent_media_matches | first %}
+{% if independent_media_assignment %}
+  {% assign independent_media_video = site.data.independent_media_videos[independent_media_assignment.video] %}
+  {% assign independent_media_outlet = site.data.independent_media_outlets[independent_media_video.outlet] %}
+  {% if independent_media_video and independent_media_outlet %}
+<section class="accm-independent-media-box" id="independent-media-companion" markdown="1">
+
+## Recent high-reach independent-media companion
+
+{% include youtube-embed.html id=independent_media_video.id title=independent_media_video.title %}
+
+**[{{ independent_media_video.title }}](https://www.youtube.com/watch?v={{ independent_media_video.id }})** — {{ independent_media_video.channel }}. Published **{{ independent_media_video.date }}**. YouTube displayed approximately **{{ independent_media_video.views }}** when checked on **9 October 2026**.
+
+**Independent-media lineage:** {{ independent_media_outlet.lineage }}
+{% for source in independent_media_outlet.sources %}[{{ source.label }}]({{ source.url }}){% unless forloop.last %} · {% endunless %}{% endfor %}
+
+**Why it belongs here:** {{ independent_media_video.lens }}
+
+On this page, test the video specifically against **{{ page.title }}**:
+
+- Which claims are directly documented, inferred, rhetorical, contested or unresolved?
+- What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?
+- Which incentives, authority relations and affected parties remain outside the visible frame?
+- What evidence or later outcome would correct the speaker, audience, platform or **ACCM Deep Ethics Project** reading?
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
+  {% endif %}
+{% endif %}

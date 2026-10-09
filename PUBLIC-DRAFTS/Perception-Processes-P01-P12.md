@@ -3,6 +3,8 @@
 > **BETA PUBLIC DRAFT — TRIAL & ERROR**  
 > Derived from source material by John Kuhles, originally written July 4, 2026. This page is a presentable public representation, not a replacement for the source archive.
 
+{% include independent-media-companion.html %}
+
 ## The orientation
 
 This object is **not presented as proof of a predetermined conclusion**. Its emphasis is the process by which conclusions, assumptions, interpretations, relationships, and corrections develop.

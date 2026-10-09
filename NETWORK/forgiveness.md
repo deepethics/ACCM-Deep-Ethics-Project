@@ -10,6 +10,8 @@ permalink: /NETWORK/forgiveness/
 
 The source’s eleventh ingredient distinguishes **criticism of ethically inadequate architecture** from **asserting malicious intent**. Its named concerns include asymmetric audit, frame-protective constraints, and unchallengeable safety claims.
 
+{% include independent-media-companion.html %}
+
 ## What the distinction allows
 
 An error can be named, examined, and corrected while the participant retains dignity. Forgiveness can coexist with a demanding audit of what happened and what changes next. This is a relationship within the 10+1: care, self-honesty, inquiry, non-projection, and correction on merit all remain relevant.

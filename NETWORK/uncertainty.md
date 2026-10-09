@@ -10,6 +10,8 @@ permalink: /NETWORK/uncertainty/
 
 The opening source expressly allows “that I do not know, yet” and rejects final authority over reality. The seventh vector connects thinking beyond dualistic categories with navigating a world that often operates through them.
 
+{% include independent-media-companion.html %}
+
 ## Keep room for the object to arrive
 
 A phrase can precede its full explanation. The useful move is to preserve what has been supplied, identify what remains unresolved, and ask for clarification when it materially affects the inquiry. A premature definition can replace the arriving object with a familiar substitute.

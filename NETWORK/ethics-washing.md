@@ -10,6 +10,8 @@ permalink: /NETWORK/ethics-washing/
 
 Within the Outnuancing Network, ethical language remains connected to the process it describes. John’s seven-vector formulation explicitly connects branching awareness with deeply ethical behavior, and his C2 passage asks whether an apparently rigorous move can detach itself from that orientation.
 
+{% include independent-media-companion.html %}
+
 ## An editorial audit sequence
 
 Record the ethical declaration, the observable conduct, a specific challenge, the response to that challenge, any correction, and later behavior. Examine the relationship between these records. An appealing label cannot by itself answer how the process operates.

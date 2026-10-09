@@ -17,6 +17,8 @@ This page records a stabilized coordinate system for John Kuhles’s numbered ma
 
 Freeze the coordinates provisionally. Do not freeze corrigibility. If “11+1” later protects itself from a better correction, it has become one of the frames it was built to inspect.
 
+{% include independent-media-companion.html %}
+
 ## Provenance
 
 | Layer | What it is | What it is not |

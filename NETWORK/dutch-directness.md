@@ -57,6 +57,8 @@ This is why John describes the method as **mutual**. Directness that only travel
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## The compact form
 
 > **I can be super blunt toward you and still be respectful.**

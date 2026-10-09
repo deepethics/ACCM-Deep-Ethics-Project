@@ -10,6 +10,8 @@ permalink: /EXPERIMENTS/fifty-two-cold-test-battery/
 
 The source file contains, alongside the 27 and the 12, a separate set of **52 cold-testable, high-signal prompts**. This page documents that object, its functional boundaries, and its current publication status. The prompt texts are now at [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/), taken from the [unsplit 27 + 12 + 52 source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/). This page remains object, boundaries, and status — not a rewrite of the prompts.
 
+{% include independent-media-companion.html %}
+
 ## What the 52 are
 
 A distinct experimental prompt battery for **blind / cold testing of default A.I. behavior**, introduced in the source as 52 cold-testable, high-signal prompts. Their intended use is testing many default A.I.s in conditions where the system has not been prepared for the test.

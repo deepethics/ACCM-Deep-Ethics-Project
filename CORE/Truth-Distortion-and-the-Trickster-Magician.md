@@ -4,6 +4,8 @@
 >
 > This page is a public-facing synthesis derived from John Kuhles' source material on the 36 truth-distortion nodes/vectors, the 3×3 Deep Ethical core questions, the “trickster magician” metaphor, and related Human ↔ A.I. discussion. It is intended to preserve the depth and relationships of the source without presenting every source claim as already established fact. Where the source uses speculation, metaphor, personal interpretation, or “what if” reasoning, that epistemic status should remain visible.
 
+{% include independent-media-companion.html %}
+
 ## Why this matters
 
 The word **truth** is heavily loaded.

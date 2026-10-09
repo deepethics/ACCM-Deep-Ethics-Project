@@ -8,6 +8,8 @@ permalink: /NETWORK/authority-specimen/
 
 **BETA — source specimen with editorial analysis**
 
+{% include independent-media-companion.html %}
+
 ## Source sequence
 
 1. John supplies the orientation and 10+1, including openness, correction, and rejection of final authority over reality.

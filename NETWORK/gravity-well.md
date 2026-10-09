@@ -12,6 +12,8 @@ John specifies Outnuancing as a deep ethical sense-making process-orientation **
 
 The existing Lexicon describes a **Wrong Gravity Well** as the pull created when an early substitution activates the assumptions, vocabulary, objections, or expectations of a neighboring category. Later reasoning can become coherent within that reconstruction while drifting from the source.
 
+{% include independent-media-companion.html %}
+
 ## A source example
 
 The archive records an AI treating Outnuancing as an example of a general class of new words. Its later correction recognizes that the specific word and seven-node object belong together. The mistake displaced the particular object upward into an abstraction.

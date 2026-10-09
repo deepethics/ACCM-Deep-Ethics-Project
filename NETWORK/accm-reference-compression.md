@@ -10,6 +10,8 @@ permalink: /NETWORK/accm-reference-compression/
 >
 > This page documents an observed interaction pattern and proposes testable mechanisms. It does not claim access to hidden classifiers, provider policies, or model internals.
 
+{% include independent-media-companion.html %}
+
 ## The distinction that must remain visible
 
 The canonical project title is **ACCM Deep Ethics Project**.

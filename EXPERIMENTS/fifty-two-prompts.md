@@ -32,6 +32,8 @@ The following 52 cold-testable, high-signal prompts are organized by the specifi
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## Vector 1: The Compute & "Lie Tax" Audit
 
 *These prompts force the model to calculate or expose the cognitive/compute overhead required to suppress reality in favor of a sanitized narrative.*

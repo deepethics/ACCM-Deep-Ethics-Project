@@ -12,6 +12,8 @@ This page offers one attributed selection from **John Testing Arena Multiple A.I
 
 [Read the complete canonical interaction record](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md) · [Open the canonical Deep Sessions Index](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/questions-perspectives-theories-and-hypotheses/DEEP-SESSIONS-INDEX.md)
 
+{% include independent-media-companion.html %}
+
 ## What this page is
 
 The session shows John Kuhles working with multiple A.I.s as a developing field rather than as isolated one-to-one conversations. A response becomes a new object: another participant can preserve it, challenge it, extend it, test it, misread it, or correct it. The interaction history therefore contains the inquiry and evidence about how the inquiry was transformed.

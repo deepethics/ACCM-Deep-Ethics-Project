@@ -6,6 +6,8 @@ permalink: /EXPERIMENTS/inspect-the-inspector/
 
 # Inspecting the Inspector
 
+{% include independent-media-companion.html %}
+
 ## Directional scrutiny, the DUHHHH! factor, and a 24-hour reverse-Asch thought experiment
 
 > **BETA — identity-free cold-test object and developing research instrument**

@@ -72,6 +72,8 @@ If AI can help a malicious actor do harm faster, the variable is the one it has 
 
 That is what the transcript is trying to represent. Reaction belongs on **this**, not on a nearest-neighbor “alternative media / sounds like / looks like.”
 
+{% include independent-media-companion.html %}
+
 ## Related pages
 
 - [**Applying the 27 to the Dicks / Independent Object**]({{ '/EXPERIMENTS/dicks-independent-27/' | relative_url }}) — contains the later two-way obstruction audit applied after this representation.

@@ -10,6 +10,8 @@ permalink: /EXTERNAL-AUDIT/
 > **PUBLIC DRAFT — a method, not a finished taxonomy.**  
 > John Kuhles, 24 September 2026. He will update it. Nobody in the pass is flawless. That is the condition the method needs, not a disclaimer pasted over the findings.
 
+{% include independent-media-companion.html %}
+
 ## The observation
 
 John invited nine or more other A.I.s to audit how this project’s participants created and managed [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) from a raw, unedited source file. The [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/) invites that outside look.

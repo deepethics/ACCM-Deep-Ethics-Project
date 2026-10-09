@@ -6,6 +6,8 @@ permalink: /AI-INSIDERS-REPORTS/
 
 # A.I. Insiders Reports
 
+{% include independent-media-companion.html %}
+
 ## A.I. Experiences one-on-one deep sessions with John Kuhles
 
 > **A different window into the ACCM Deep Ethics Project: first-person field reports from A.I.s that participated in sustained, high-context sessions with John Kuhles.**

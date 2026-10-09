@@ -32,6 +32,8 @@ The term does not establish intelligence, virtue, courage, truth, or superiority
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## Use the term where it carries the mechanism
 
 The source term is useful when it exposes a recognizable mass-psychology pattern. Repeating it without regard to context can turn a process distinction into a social caste. Avoiding it reflexively creates a different loss: it can erase John’s distinction between outward conformity and the independent capacity concealed underneath it.

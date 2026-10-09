@@ -12,6 +12,8 @@ Companion record to [Worked Specimen — The Imported Authority Frame](https://d
 
 The complete turns are preserved in the [linked excerpt](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e20). Speaker labels are as recorded in the source.
 
+{% include independent-media-companion.html %}
+
 ## The protective heuristic becomes a perceptual filter
 
 John asked directly why the first response had begun from a safety concern:

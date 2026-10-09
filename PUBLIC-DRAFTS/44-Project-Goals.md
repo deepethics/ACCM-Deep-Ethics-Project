@@ -7,6 +7,8 @@ This page is a readable public form of the 23 September 2026 goals draft for the
 
 The 44 goals do not all happen at once. Focus shifts with what is happening in A.I., on the path toward A.G.I./ASI, and in related controversies. Several goals can overlap on one day. John noted that if he had been handed this list in late 2024, it would have looked over the top. He now treats it as a bare minimum, and he may add more.
 
+{% include independent-media-companion.html %}
+
 ## What this page is
 
 | Object | Role on this page |

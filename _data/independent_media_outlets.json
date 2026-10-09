@@ -1,0 +1,64 @@
+{
+  "tcn": {
+    "name": "Tucker Carlson Network",
+    "lineage": "Tucker Carlson previously hosted programs at CNN, MSNBC and Fox News. Tucker Carlson Network says it was founded as an alternative to legacy media.",
+    "sources": [
+      {
+        "label": "TCN — About",
+        "url": "https://tuckercarlson.com/about"
+      },
+      {
+        "label": "Fox biography recording the earlier CNN, MSNBC and Fox career",
+        "url": "https://press.foxnews.com/2017/01/fox-news-channel-names-tucker-carlson-as-new-9pmet-host"
+      }
+    ]
+  },
+  "breaking_points": {
+    "name": "Breaking Points",
+    "lineage": "Krystal Ball previously hosted on MSNBC; Ball and Saagar Enjeti later hosted The Hill's Rising before creating Breaking Points, which describes itself as independent and anti-establishment.",
+    "sources": [
+      {
+        "label": "Breaking Points — About",
+        "url": "https://shop.breakingpoints.com/pages/about"
+      },
+      {
+        "label": "Career and launch history",
+        "url": "https://en.wikipedia.org/wiki/Breaking_Points"
+      }
+    ]
+  },
+  "heretics": {
+    "name": "Heretics with Andrew Gold",
+    "lineage": "Andrew Gold made and presented documentaries for the BBC and HBO before building Heretics as his own independent interview and writing platform.",
+    "sources": [
+      {
+        "label": "Andrew Gold biography",
+        "url": "https://www.panmacmillan.com/authors/andrew-gold/44432"
+      },
+      {
+        "label": "Heretics — About",
+        "url": "https://www.andrewgoldheretics.com/about"
+      }
+    ]
+  },
+  "stossel": {
+    "name": "Stossel TV",
+    "lineage": "John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV.",
+    "sources": [
+      {
+        "label": "Stossel TV — Why I created it",
+        "url": "https://www.johnstossel.com/about/"
+      }
+    ]
+  },
+  "megyn": {
+    "name": "Devil May Care Media / The Megyn Kelly Show",
+    "lineage": "Megyn Kelly worked at Fox News and NBC News before founding Devil May Care Media, which she describes as an independently owned media company.",
+    "sources": [
+      {
+        "label": "Megyn Kelly — About",
+        "url": "https://www.megynkelly.com/about/"
+      }
+    ]
+  }
+}

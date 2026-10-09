@@ -9,6 +9,8 @@ description: "BETA research page on trust, distrust, process quality, influence 
 
 **BETA — living research page**
 
+{% include independent-media-companion.html %}
+
 ## Trust, Distrust, Process Quality & the Ecology of What Gets to Govern
 
 ### Deep Ethical Troll Management 🦜🦋🌳

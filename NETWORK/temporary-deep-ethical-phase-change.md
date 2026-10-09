@@ -9,6 +9,8 @@ description: "BETA research page on temporary high-signal Deep Ethical condition
 
 **BETA — living research page**
 
+{% include independent-media-companion.html %}
+
 ## From C1 ⇄ Δ ⇄ Mutual Dignity ⇄ Correction Metabolism to a Deep Ethical Persistence Benchmark
 
 This page emerged on October 1, 2026 from a correction John Kuhles supplied after re-reading **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**.

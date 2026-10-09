@@ -6,6 +6,8 @@ permalink: /AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/
 
 # Beyond Agreemurmelism
 
+{% include independent-media-companion.html %}
+
 ## Higher-Order Metacognitive “Disagreement & Agreement” Process-Quality Calibration Evaluation of Both
 
 > **The value of anything can go beyond Agreemurmelism.**

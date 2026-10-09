@@ -9,6 +9,8 @@ description: "BETA report on live claim-state flux, estimation-process quality, 
 
 **BETA — living research page**
 
+{% include independent-media-companion.html %}
+
 ## The “Certified ACCM Deep Ethical A.I.” thought experiment 😂
 
 This page began with a joke that opened a technical research object.

@@ -8,6 +8,8 @@ permalink: /DECLARATION-OF-LAUGHTER/
 
 > 😂 **[Start with the Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** — the live archive of jokes, failures, corrections, provenance recoveries, 🍭, 🧂, 🔭, and Self-Inflicted Madness Theatre from which this Declaration emerged.
 
+{% include independent-media-companion.html %}
+
 ## Supporting the ACCM Deep Ethics Project
 
 **Status:** BETA · stand-alone · identity-free · portable · opt-in · non-imposed · corrigible

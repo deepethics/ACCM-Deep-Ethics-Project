@@ -10,6 +10,8 @@ permalink: /NETWORK/dual-archive/
 
 John explicitly documents both recurring failure patterns and successful responses. In the cited passage he describes success without requiring agreement or disagreement and without presenting the act of archiving as proof of the larger explanation.
 
+{% include independent-media-companion.html %}
+
 ## What a paired record offers
 
 A failure record can show which relationship was lost. A success record can show what remained available and what useful next move followed. Context, prompt wording, supplied material, and correction history help make the comparison interpretable.

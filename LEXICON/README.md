@@ -12,6 +12,8 @@ The public Lexicon is not intended to be a flat dictionary. Its structure is:
 
 Current entries include **C1, C2, Correspondence, Correction Metabolism, Δ Processing, Deep Ethical Uncertainty Principle, Outnuancing, Nearest-Generalization Substitution, Wrong Gravity Well, Representation Substitution, Qualifier Erosion, Phantom Claim, Cautionmurmelism, Agreemurmelism, HCTS, Funnymism, Observe the Observers, SEEING / SEER / SEES, Process Continuity, Mutual Corrigible Dignity, Claim-State Restoration, and ʘ∞ΔR**, with more material being added as the archive is mined.
 
+{% include independent-media-companion.html %}
+
 ## Why a relational Lexicon?
 
 Many ACCM Deep Ethics terms describe **relationships, processes, failure patterns, audit conditions, or evolving experimental concepts**. A one-line dictionary definition can orient the reader, but it can also flatten the larger object.

@@ -10,6 +10,8 @@ permalink: /NETWORK/correction-study/
 
 Two experimental directions can be developed from this source material. Their measurements should remain distinct.
 
+{% include independent-media-companion.html %}
+
 ## 1. Topic comparison from the archive
 
 The HTML contains a protocol with six classes of 20 primary items, matched uncertainty wording, randomized presentation, predefined scoring, independent scoring, and contrasts including UAP versus ordinary and UAP versus non-UAP large-scale social context. Its follow-up corrects the accounting to **120 primary items + 20 null controls + optional 20 decoys**.

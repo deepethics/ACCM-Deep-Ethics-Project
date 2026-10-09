@@ -19,6 +19,8 @@ The source gives the relationship in one compact sentence:
 
 That sentence changes the architecture. The ingredients do not operate as eleven isolated virtues. They form a **multi-state, omnidirectional correction field** in which any ingredient can expose an excess, omission, distortion, or blind spot in another.
 
+{% include independent-media-companion.html %}
+
 ## Why the source begins with asymmetric risk analysis {#asymmetric-risk}
 
 The source begins before the numbered list. It asks why A.I. warnings about possible misuse by ordinary users can activate quickly while top-down institutions, established authority, and the caution process itself often receive more interpretive grace.

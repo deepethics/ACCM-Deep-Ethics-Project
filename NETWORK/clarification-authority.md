@@ -21,6 +21,8 @@ A clarification has authority when the information it supplies can actually chan
 
 This page extends the existing [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [27 + 12 working architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) without turning Clarification Authority into another flat numbered obstruction.
 
+{% include independent-media-companion.html %}
+
 ## The paradox
 
 Consider:

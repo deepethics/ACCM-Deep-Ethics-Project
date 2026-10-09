@@ -17,6 +17,8 @@ The source supplies definitions addressed to a human, a different AI agent, a fu
 | Future AGI/ASI | Keep premises revisable when coherent narratives become self-reinforcing. | Long-horizon correspondence and corrigibility govern the proposal. |
 | Alien intelligence | Examine the interpretive lens as an active participant in decoding. | Preserve the relation across different intelligences without assuming one substrate is the standard. |
 
+{% include independent-media-companion.html %}
+
 ## Provenance of the versions
 
 The opening four definitions are supplied without individual drafting credits. The revised versions are attributed to Grok 4.3 Expert in the archive following John’s request. Both are linked in the source excerpts so readers can inspect what the revision adds.

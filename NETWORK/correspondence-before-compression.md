@@ -19,6 +19,8 @@ The source project remains its own object. This page does not reproduce the Cave
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## Compression is a representation operation
 
 A shorter representation changes the field available to the next process.

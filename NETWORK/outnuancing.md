@@ -18,6 +18,8 @@ John’s source binds the operation explicitly:
 
 The specific word holds the relationship among the seven vectors. Replacing it with a generic category such as “adding nuance” loses the intended object. The source records several AI corrections of precisely that substitution.
 
+{% include independent-media-companion.html %}
+
 ## What the operation preserves
 
 An inquiry can become highly sophisticated inside a frame that misrepresents its object. Outnuancing asks whether that frame should continue governing the inquiry. The frame audit must itself remain open to correction, preserve qualifiers, and respect mutual dignity. It can result in retaining, revising, suspending, or replacing the frame; its outcome is not settled by the act of questioning it.

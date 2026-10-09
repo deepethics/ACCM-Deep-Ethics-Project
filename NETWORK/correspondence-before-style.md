@@ -21,6 +21,8 @@ The source guide remains the source object. This page records what was transferr
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## The transfer test
 
 Before importing a writing rule, ask:

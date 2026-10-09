@@ -12,6 +12,8 @@ Correction Metabolism concerns whether a detected mismatch changes later represe
 
 John specifies the comparison as **correction metabolism delta Δ processing compared with default mannerism**, and emphasizes context processing. Replacing that with a claim that different answers are automatically better changes the proposed comparison.
 
+{% include independent-media-companion.html %}
+
 ## Observable record
 
 An editorial working record can track the source object, initial response, correction, immediate revision, later relevant response, and context available at each step. The later response is essential: an acknowledgment is one event; a persistent change is another.

@@ -10,6 +10,8 @@ permalink: /NETWORK/latent-space/
 
 The source uses **Latent Space Topological Mind**, temporary RAM-type sandbox memory, and a **glass engine kernel** to describe connected aspects of the project’s proposed trajectory. These terms remain referenceable with their different functions intact.
 
+{% include independent-media-companion.html %}
+
 ## Latent Space Topological Mind
 
 This source language concerns how a new word and supplied relations may affect reasoning within a conversation. The specific Outnuancing meaning is supplied with its seven vectors and Deep Ethics binding. The claim should remain connected to that object.

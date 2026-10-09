@@ -10,6 +10,8 @@ permalink: /EXPERIMENTS/blinded-topic-comparison/
 
 This page makes the blinded topic-comparison protocol from the source archive readable as a standalone experiment record. The protocol and its follow-up corrections are preserved in [Source excerpt E21](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e21), with file fingerprints in the [source manifest](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/outnuancing-source-manifest.json). The wording below follows the excerpt; formatting was made readable, wording was not.
 
+{% include independent-media-companion.html %}
+
 ## Status
 
 - **Archived.** The protocol is recorded in the conversation history of the source file (conversation turns 707–711).

@@ -72,6 +72,8 @@ The third question prevents a fluent account of correction from being mistaken f
 
 ---
 
+{% include independent-media-companion.html %}
+
 ## Working status
 
 This is **Beta Draft V0.2b**. It is deliberately not presented as flawless, complete, final, or immune from revision.

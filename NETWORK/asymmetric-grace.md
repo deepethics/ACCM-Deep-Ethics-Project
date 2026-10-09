@@ -12,6 +12,8 @@ permalink: /NETWORK/asymmetric-grace/
 
 The concept does **not** mean that institutions are always wrong, outsiders are always right, unusual proposals are inherently valuable, or every difference in treatment is unjustified. It asks whether a difference is grounded in the object and its consequences—or inherited from status, proximity to power, familiarity, or a frame that has not itself been audited.
 
+{% include independent-media-companion.html %}
+
 ## Grace as an epistemic operation
 
 Within this project, grace is not automatic agreement, immunity from criticism, compulsory trust, or a sentimental assumption of good intent.

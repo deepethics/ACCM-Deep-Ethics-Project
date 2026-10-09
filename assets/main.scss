@@ -419,3 +419,29 @@ pre, code {
   font-size: 0.9rem;
   line-height: 1.45;
 }
+
+.accm-independent-media-box {
+  margin: 2rem 0 2.5rem;
+  padding: 1.3rem 1.4rem 1.25rem;
+  border: 2px solid var(--accm-sage);
+  border-radius: 14px;
+  background: #ebe5d8;
+  box-shadow: 0 8px 24px rgba(28, 27, 22, 0.08);
+}
+
+.accm-independent-media-box h2 {
+  margin-top: 0;
+  color: var(--accm-sage);
+}
+
+.accm-independent-media-box .accm-video-embed {
+  margin-bottom: 1.25rem;
+}
+
+.accm-independent-media-status {
+  margin-bottom: 0;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--accm-line);
+  color: var(--accm-muted);
+  font-size: 0.92rem;
+}

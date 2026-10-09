@@ -10,6 +10,8 @@ Where practical, experimental records should distinguish observation from functi
 
 Failed experiments and disconfirming results can be valuable project data.
 
+{% include independent-media-companion.html %}
+
 ## Source specimens and experiment development
 
 - [Cold Deep-Ethics Testing of Default AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs) — **sibling archive**, not this repo. First registered object is Google AI (2026-09-16), opening prompt *Deep Ethics vs Ethics Washing…* — not the 52 battery. John: observe what it does; useful or not; no agree/disagree. Editorial correction (Astra, identified by John): [evidentiary-status labels](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/blob/main/CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md). Do not melt into CORE.

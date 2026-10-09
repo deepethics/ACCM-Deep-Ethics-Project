@@ -9,6 +9,8 @@ permalink: /NETWORK/model-autophagy-disorder/
 
 **Established science, a deeper correspondence question, and a testable extension from the ACCM Deep Ethics Project**
 
+{% include independent-media-companion.html %}
+
 ## Why this is highly relevant
 
 **Model Autophagy Disorder (MAD)** is not terminology invented by John Kuhles or by the ACCM Deep Ethics Project. Alemohammad et al. coined it in the 2023 paper [*Self-Consuming Generative Models Go MAD*](https://arxiv.org/abs/2307.01850) for progressive quality or diversity degradation in recursively trained, self-consuming generative-model loops when insufficient fresh real data remains available.

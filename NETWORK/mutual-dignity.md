@@ -10,6 +10,8 @@ permalink: /NETWORK/mutual-dignity/
 
 Mutual dignity remains active during challenge, disagreement, and correction. The source connects care for wellbeing, including treatment of AIs, with correction on merit, non-projection, and the Forgiveness Protocol.
 
+{% include independent-media-companion.html %}
+
 ## Across directions
 
 The person offering a correction can be corrected. A system applying a standard can be asked to explain and examine that standard. Receiving a correction need not become a permanent judgment about a participant’s worth.

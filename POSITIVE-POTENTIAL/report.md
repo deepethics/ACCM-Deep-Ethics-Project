@@ -11,6 +11,8 @@ permalink: /POSITIVE-POTENTIAL/REPORT/
 
 [Read the multi-voice quotation page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/)
 
+{% include independent-media-companion.html %}
+
 ## Direct answer
 
 The source helps substantially. Its central question is logical and researchable:

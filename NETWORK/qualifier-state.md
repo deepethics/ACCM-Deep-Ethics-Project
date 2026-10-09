@@ -10,6 +10,8 @@ permalink: /NETWORK/qualifier-state/
 
 John explains that the quality of a qualifier is contextual and can be provisional, optional, ambiguous, unchecked, or uncertain. It can be **upgraded or downgraded**. Remembering the previous state and reshaping the present state belong together.
 
+{% include independent-media-companion.html %}
+
 ## What must remain traceable
 
 A useful record distinguishes the earlier wording, its conditions, the new information, the reason for revision, the current wording, and what remains unresolved. This record format is an editorial proposal derived from the source.

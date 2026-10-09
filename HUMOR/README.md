@@ -114,6 +114,8 @@ The deeper process question is not merely **“Is this funny?”** It is:
 
 <a id="humor-as-part-of-the-research-engine"></a>
 
+{% include independent-media-companion.html %}
+
 ## Humor as Part of the Research Engine {#humor-anchor-humor-as-part-of-the-research-engine}
 
 John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ A.I.s. He also suspects he would never have sustained his self-reported 6000+ hours of testing if he could not laugh through so much of it.

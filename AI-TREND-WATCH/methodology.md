@@ -10,6 +10,8 @@ permalink: /AI-TREND-WATCH/methodology/
 
 This methodology protects [AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/) from becoming an indiscriminate A.I.-news stream. A candidate must be timely, genuinely influential, substantially relevant, and rich enough to support analysis.
 
+{% include independent-media-companion.html %}
+
 ## Stage 0 — Hard gates
 
 A video normally requires:
