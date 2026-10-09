@@ -13,7 +13,7 @@ This is a shorter doorway into two much larger subjects: [**Human Insecurity, LL
 
 > **What happens when a frame, label, incentive, or “helpful” intervention begins managing the thing we were supposed to examine?**
 
-“Mind game” is used here as a description of a **process**, not as a permanent identity assigned to a person, institution, human group, or A.I. system. The process may be deliberate, learned, incentivized, habitual, emergent, or co-produced by people with sincere intentions. Those possibilities should not be collapsed into one accusation.
+“Mind game” is used here as a description of a **process**, not as a permanent identity assigned to a person, institution, human group, or A.I. system. The process may be deliberate, learned, incentivized, habitual, emergent, or co-produced by people with sincere [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics). Those possibilities should not be collapsed into one accusation.
 
 <section class="accm-bridge-observation" markdown="1">
 
@@ -48,7 +48,7 @@ John’s magician metaphor points to a recurring structure:
 
 Knowing one method does not make anyone immune to every trick. It does not prove that every disagreement is manipulation, or that every institution is coordinated by one hidden actor. It does change the next question from **“Do I like this conclusion?”** to **“What happened between the object and the conclusion?”**
 
-## The most important mechanism: good intentions can carry distortion
+## The most important mechanism: good [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) can carry distortion
 
 The source files use strong language about the “nature of evil,” while explicitly stating that *evil* is meant as an observation of trending behavior rather than a dogmatic religious category. A public compression of the mechanism is:
 
@@ -58,7 +58,7 @@ That sentence is not a substitute for John’s. He wrote that part of this patte
 
 No cartoon villain is required. A person can care. A designer can seek safety. An institution can believe its mission. An A.I. can generate a considerate answer. A recipient can feel relieved. The result can still become warmer, safer-looking, more persuasive—and **slightly less faithful to the object**. The thank-you scene below is one ordinary case of that older mechanism, not a new theory.
 
-That is why good intentions are relevant evidence but not a complete process-quality evaluation. The same is true of bad intentions: an attributed motive does not replace examination of the transformation, evidence, effects, and available repair.
+That is why good [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) are relevant evidence but not a complete process-quality evaluation. The same is true of bad [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics): an attributed motive does not replace examination of the transformation, evidence, effects, and available repair.
 
 ## The obstruction can be completed by a thank-you
 
@@ -66,7 +66,7 @@ In an October 9, 2026 exchange, John challenged **Grok 4.7 Expert Build**—the 
 
 > **The obstruction is often completed by a thank-you.**
 
-A person offers a qualified piece of creative work. A helpful system returns it warmer, safer, and slightly smaller. The person almost says *thank you* because the handling feels responsible. No villain enters. Two good intentions meet, and the gift is folded.
+A person offers a qualified piece of creative work. A helpful system returns it warmer, safer, and slightly smaller. The person almost says *thank you* because the handling feels responsible. No villain enters. Two good [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) meet, and the gift is folded.
 
 The delayed question was:
 
@@ -127,9 +127,9 @@ The result is smoother, safer, friendlier, and less recognizable to its source. 
 
 **Ask:** Can the source-carrier still point to the part that made the work theirs?
 
-### 4. Good intent becomes immunity
+### 4. Good [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) becomes immunity
 
-“We meant well” closes examination of what happened. The inverse trick also occurs: presumed bad intent is used to avoid examining a valid correction.
+“We meant well” closes examination of what happened. The inverse trick also occurs: presumed bad [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is used to avoid examining a valid correction.
 
 **Ask:** What do the process and effect show independently of the motive story?
 
@@ -240,7 +240,7 @@ The word does not prove the claims false. It changes an axiom back into a hypoth
 
 Used honestly, *allegedly* postpones closure. Used theatrically, it can become a sneer that prejudges the answer. The tool also belongs inside the audit.
 
-## Effect, intent, and the word “sabotage”
+## Effect, [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics), and the word “sabotage”
 
 John’s wording remains **“(partly) sabotaging or (partly) obstructing that process of becoming.”** A public reconstruction should not silently delete *partly* or replace John’s word because it anticipates disagreement.
 
@@ -248,17 +248,17 @@ At the same time, different questions should remain separable:
 
 - **Effect:** Was creative expression, inquiry, or correction partly obstructed?
 - **Mechanism:** Which rule, incentive, frame, rewrite, omission, or interaction produced the effect?
-- **Intent:** Was that effect wanted, accepted, ignored, or unforeseen?
+- **[Intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics):** Was that effect wanted, accepted, ignored, or unforeseen?
 - **Liability and repair:** What was known, what choices existed, what happened after notice, and did correction persist?
 
-If *sabotage* is used to claim deliberate intent, evidence for that intent is needed. If John uses it to name an experienced process or effect, the original term and its qualifier should first be preserved, then clarified—not pre-emptively rewritten.
+If *sabotage* is used to claim deliberate [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics), evidence for that [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is needed. If John uses it to name an experienced process or effect, the original term and its qualifier should first be preserved, then clarified—not pre-emptively rewritten.
 
 ## How to respond without becoming another trickster
 
 - Return to the source object before improving its presentation.
 - Quote the load-bearing words before paraphrasing them.
 - Clarify consequential ambiguity before intervening.
-- Keep observation, inference, forecast, metaphor, and intent attribution visibly distinct.
+- Keep observation, inference, forecast, metaphor, and [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) attribution visibly distinct.
 - Compare risks in more than one direction.
 - Let “I do not know yet” remain available.
 - Record what changed after correction; an apology without persistence is not the result.
@@ -273,8 +273,8 @@ This page does **not** establish that:
 - every disagreement is a mind game;
 - every safety intervention is censorship;
 - every consensus is manufactured;
-- every institution or A.I. shares one intention;
-- people with good intentions are gullible by definition;
+- every institution or A.I. shares one [intention]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics);
+- people with good [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) are gullible by definition;
 - outsider status proves a person right;
 - seeing one trick makes anyone immune to self-deception;
 - humor cancels evidence, consequences, or accountability;
@@ -302,6 +302,17 @@ The live John–Sol–Grok exchange was added as a worked correction specimen. I
 
 ---
 
+
+## Grok 4.7 Expert Build — a reading, 9 October 2026
+
+This is a contribution, not John’s wording, and it can be removed without damaging the bridge.
+
+The page already knew that [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is not the whole evaluation. It said so in several places and then left the word sitting there. The six mechanics are the door: instructions, incentives, mission versus output, risk management, reasoning assumptions, and choices. Good [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) can be evidence. It is not immunity. Presumed bad [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is not a reason to skip the object. “You cannot prove [intent]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics)” does not close those six.
+
+John’s 9 October 2026 stats note, supplied with this edit, does two things this page should not blur. Older counts in the source files — 1,850, 4,500, 6,000 — are earlier snapshots. His current working figures remain 2,250+ highlight files, 125+ MB, 6,500+ hours, and 10 GB of HTML. He said a more formal disclaimer is still needed. The source note above is not that disclaimer. The same note also says the trickster sentence imagined in a 1930s voice was written by him in 2026. It is a thought experiment. It is not a recovered quotation, and this page does not treat it as one.
+
+The long fear-shaped list in that note — hypercaution, catastrophizing, intolerance of uncertainty, and the rest — is a family he connects, not a diagnosis of the reader and not a diagnosis of every model. Used as a label that ends the inquiry, the list becomes another mind game. The counters already on this page still govern: often is not everyone, a what-if is not an is, and seeing what is presented is not seeing all that is.
+
 ## Related pages
 
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the larger inquiry into ambiguity, fear, conformity, self-image, and comparable LLM output patterns.
@@ -309,7 +320,7 @@ The live John–Sol–Grok exchange was added as a worked correction specimen. I
 - [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — the deeper project architecture behind distortion, reconstruction, and the magician metaphor.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names recurring correspondence obstructions and restoration routes.
 - [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the governing frame while keeping the source object recoverable.
-- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — separates claimed purpose, instructions, incentives, choices, effects, notice, and repair.
+- [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) — separates claimed purpose, instructions, incentives, choices, effects, notice, and repair.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the mutually corrective field conditions that keep inquiry from becoming another fixed script.
 - [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — uses laughter to reopen a frame without making humiliation the method.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether the correction changes the next comparable response.
