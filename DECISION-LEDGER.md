@@ -12,6 +12,8 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Provenance:** John's supplied `16 Anchor Ethics(4).txt` is a 398-line, 8,405-word, 54,743-byte mixed human–A.I. development record; SHA-256 `5af86dc7a644d9c35cd99c180ddccb03de2fdc7af6584b1c87f4832958314c41`. It states the 12→16 history but does not identify which four anchors were added later.
 
+**Quotation extension:** The later supplied `16 Anchor Ethics and the Emergent Properties Paradox(3).txt` is a 3,098-line, 27,498-word, 191,066-byte development record; SHA-256 `c68995f709f572fcabbd84c3bf01803991c97146b8080a56ecad69480d26b6f7`. Thirteen rounded quotation boxes now preserve selected John and A.I. formulations on the governing attitude, recoverability, precaution direction, openness, opt-in mutuality, parallel Agentics, emergent-risk symmetry, process hierarchy, anti-compression, self-audit outcomes, reversal, and symmetric audit with asymmetric responsibility. Each voice remains attributed; quotation does not convert a contribution into validation.
+
 **Boundary:** The page does not adopt the source's A.I.-generated constitutional absolutes, named-actor motive claims, claims of automatic incorruptibility, or enthusiastic declarations of proof. Transparency does not establish superiority. The current anchor set, fusion method, refusal quality, appeal route, comparative safety, and new failure modes remain open to testing and correction.
 
 **Status:** Public BETA Draft — Conceptual Proposal V0.2c; canonical project title preserved as **ACCM Deep Ethics Project**.
