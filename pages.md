@@ -67,6 +67,7 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/)**
 - **[Human Insecurity, LLMs, Psychology and Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)**
 - **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)**
+- **[Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/)** — a shorter public bridge for recognizing how frames, labels, incentives, sincere intentions, and helpful rewrites can redirect creative potential.
 
 ## 3. What keeps it corrigible {#what-keeps-it-corrigible}
 
