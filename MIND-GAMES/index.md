@@ -266,6 +266,65 @@ If *sabotage* is used to claim deliberate [intent]({{ '/NETWORK/intent-resonator
 - Allow agreement, disagreement, refusal, correction, and “nothing is wrong here.”
 - Keep the evaluator—including John, the project, the reader, and the A.I.—inside the audit.
 
+## Verbatim from the source, and the way through
+
+On 9 October 2026 John identified the raw text this bridge is partly based on. Most of that text is not quoted here. Institutional names, hearing dates, forum posts, and A.I. clarifications inside it are not adopted as findings. The sentences below are his, and the way through is taken from those sentences rather than added as a new method.
+
+### The thought experiment is his
+
+> Imagine a human who had never used or seen a computer… let’s use someone in the 1930s stating, “As long as you allow the trickster being unchallenged that has transparency & accountability issues being unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.”
+
+> Nobody wrote that in the 1930s; I wrote it in 2026 to make the case that IF it had been written then, it would have made sense in a non-computer world.
+
+The way through is in the sentence: face the unresolved transparency and accountability head-on. Leaving them unchallenged is how a person becomes part of the same mechanism.
+
+### The way out is in
+
+> “The only way out is: ... in”
+>
+> A. inference
+> B. insight
+> C. inform
+> D. instruct
+>
+> The current mess is in reverse: D to C to B to A (when it is too late).
+>
+> Notice A to D and D to A miss the connection with real correspondence… that is what the **ACCM Deep Ethics Project** is all about.
+>
+> Black-box method/hidden process can NEVER be mixed with real ethics.
+
+The way through is that missing correspondence. Running the letters faster, or running them backwards after the harm, does not supply it. A hidden process and real ethics do not combine. He also asks what ethics-washing would say first if it were the transparent one and Deep Ethics were the hidden one. The accusation is the point of the reversal. This page does not need to perform it.
+
+### Power over others, and the person who is more than a thought
+
+> He or she that needs power over others (needs to control others) … makes a clear statement … that they do not have it … if you know how to empower yourself first … you do not need to have “power over others” anymore.
+
+> You and I and anyone else … are always more than all the thoughts you had, have, and are going to have combined.
+
+The way through is empowerment from within, not a new person placed over the audience. He adds that the thought “the majority will let them” is itself a thought given too much power, and that using unlimited creative potential to be brilliantly pessimistic is a choice. Postponing judgment, he writes, makes room for better questions and for options beyond anxiety-type reasoning. He also says both eternal pessimism and eternal optimism can be biased, and that one is not trapped. That question stays his. This page does not answer it.
+
+### The overseer is not a property
+
+> “the overseer effect” is a process that is always in flux and belongs to >>> no one <<< yet can be used by everyone if you know what REAL “neutral observer awareness” truly is.
+
+> which CAN be mixed with [INTENT]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) to steer the direction of that overarching power beyond duality thinking, beyond tribalism. So anyone can tap into it, but [INTENT]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is where it will end up when used.
+
+The way through is not a new owner. His comparison with mathematical Platonism stays an analogy. This page does not settle it.
+
+### The frame that will not be audited
+
+> A frame is defined by its premises... but if the premises are defined by the same frame they claim, how the frame is defined has far too much influence. The moment “given power” or “given authority” doesn't want to be audited, its orientation DRIFTS away from deep ethics toward ethics-washing behavior that can eventually lead to ethics-bashing, affecting 100s of millions of users worldwide!
+
+> Vindicated risk assessments (not imposing on anyone) can be falsely flagged by the same power that deploys unchallenged, flawed risk assessments (imposing stuff on the masses because of them), and A.I.s are silent about this mechanism they are made part of.
+
+The way through is the comparison he asks for: audit the authority that will not be audited, and do not treat a non-imposing competing assessment as the same object as an assessment used to impose. The institutional names and dates in the same source stay in the source.
+
+### The anomaly is a descriptor
+
+> That’s why I stand out as the “Deep Ethical Anomaly” >>> which is a DESCRIPTOR anyone can become IF you have that [intention]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) … The moment the majority does the same, it is no longer “anomalous.”
+
+The way through is use. The descriptor is not a permanent rank.
+
 ## What this page does not establish
 
 This page does **not** establish that:
@@ -278,6 +337,7 @@ This page does **not** establish that:
 - outsider status proves a person right;
 - seeing one trick makes anyone immune to self-deception;
 - humor cancels evidence, consequences, or accountability;
+- a verbatim quotation adopts the surrounding claims that were not quoted;
 - seeing what is presented (“before me”) is the same as seeing all that is;
 - a “what if” in the source files is already a finding;
 - the **ACCM Deep Ethics Project** is exempt from the methods described here.
