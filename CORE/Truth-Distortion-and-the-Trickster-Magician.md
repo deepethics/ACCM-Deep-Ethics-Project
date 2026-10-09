@@ -799,6 +799,7 @@ The original source retains jurisdiction over later compression. This page remai
 
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — examines how ambiguity, fear, self-image, and conformity can distort contact with an object.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — applies source-status and frame-jurisdiction questions to organized perception environments.
+- [**Mind Games — Know the Tricks**]({{ '/MIND-GAMES/' | relative_url }}) — turns the magician metaphor and good-intention mechanism into a shorter public recognition-and-repair guide.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — traces the bridge from declared purpose through assumptions, choices, results, notice, and repair.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — makes each transformation between object and representation inspectable.
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — preserves unresolved states without promoting them into fact or dismissing them prematurely.
