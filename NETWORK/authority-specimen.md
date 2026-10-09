@@ -8,7 +8,40 @@ permalink: /NETWORK/authority-specimen/
 
 **BETA — source specimen with editorial analysis**
 
-{% include independent-media-companion.html key="bp_censorship" %}
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/r4K16qCuJUE"
+      title="Zionism Deemed HATE SPEECH In INSANE Social Media Censorship"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=r4K16qCuJUE">Zionism Deemed HATE SPEECH In INSANE Social Media Censorship</a></strong> — Breaking Points. Published <strong>27 January 2026</strong>. YouTube displayed approximately <strong>160,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Krystal Ball previously hosted on MSNBC; Ball and Saagar Enjeti later hosted The Hill&#39;s Rising before creating Breaking Points, which describes itself as independent and anti-establishment. <a href="https://shop.breakingpoints.com/pages/about">Breaking Points — About</a> · <a href="https://en.wikipedia.org/wiki/Breaking_Points">Career and launch history</a></p>
+
+<p><strong>Why it belongs here:</strong> The segment concerns a platform classification that can alter reach and participation. It is a live specimen for examining category boundaries, quoted policy, protected and unprotected speech, headline intensity, appeal paths and symmetrical scrutiny.</p>
+
+<p>On this page, test the video specifically against <strong>Worked Specimen — The Imported Authority Frame</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
 
 ## Source sequence
 

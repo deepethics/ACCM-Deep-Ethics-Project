@@ -18,7 +18,40 @@ The quality of a relationship therefore depends partly on whether those internal
 
 > **The other must retain the right to exceed my current model of them.**
 
-{% include independent-media-companion.html key="bp_personhood" %}
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/HP1DZjLGhLE"
+      title="Anthropic BEGS Pope To Declare AI &#39;Personhood&#39;"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=HP1DZjLGhLE">Anthropic BEGS Pope To Declare AI &#39;Personhood&#39;</a></strong> — Breaking Points. Published <strong>2 October 2026</strong>. YouTube displayed approximately <strong>254,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Krystal Ball previously hosted on MSNBC; Ball and Saagar Enjeti later hosted The Hill&#39;s Rising before creating Breaking Points, which describes itself as independent and anti-establishment. <a href="https://shop.breakingpoints.com/pages/about">Breaking Points — About</a> · <a href="https://en.wikipedia.org/wiki/Breaking_Points">Career and launch history</a></p>
+
+<p><strong>Why it belongs here:</strong> The segment compresses questions about A.I. welfare, consciousness, personhood, institutional authority and religious judgment into a provocative title. The compression itself is a test object: what was actually requested, inferred, dramatized or left unresolved?</p>
+
+<p>On this page, test the video specifically against <strong>The Other You / The Other Me</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
 
 ## 1. The reciprocal model-of-the-other loop
 

@@ -10,7 +10,40 @@ permalink: /NETWORK/seven-vectors/
 
 The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-making process orientation**. They are individually referenceable here because their relationships matter. The short headings below are editorial navigation labels; the quoted formulations are preserved from the opening source.
 
-{% include independent-media-companion.html key="stossel_energy" %}
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/rUgooIHuDC8"
+      title="Watt’s the Problem with Data Centers? The Truth About Energy Use, Costs, and the Panic Over Progress"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=rUgooIHuDC8">Watt’s the Problem with Data Centers? The Truth About Energy Use, Costs, and the Panic Over Progress</a></strong> — John Stossel. Published <strong>5 May 2026</strong>. YouTube displayed approximately <strong>542,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> John Stossel worked at ABC News for 28 years and later hosted at Fox before leaving television to create Stossel TV. <a href="https://www.johnstossel.com/about/">Stossel TV — Why I created it</a></p>
+
+<p><strong>Why it belongs here:</strong> The report contests a panic narrative about data centers, electricity, environmental cost and technological progress. It provides a concrete resource-and-infrastructure object for comparing measurement, externalities, optimism, fear and competing time horizons.</p>
+
+<p>On this page, test the video specifically against <strong>Seven Topological Nodes / Vectors — Fused as One</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
 
 ## Vector 1 — Emerging meaning {#vector-1}
 

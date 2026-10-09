@@ -12,7 +12,40 @@ permalink: /NETWORK/asymmetric-grace/
 
 The concept does **not** mean that institutions are always wrong, outsiders are always right, unusual proposals are inherently valuable, or every difference in treatment is unjustified. It asks whether a difference is grounded in the object and its consequences—or inherited from status, proximity to power, familiarity, or a frame that has not itself been audited.
 
-{% include independent-media-companion.html key="heretics_leaders" %}
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/04jVDhcuA5c"
+      title="The Psychological Profile of Our Leaders — Prof. Ed Dutton"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=04jVDhcuA5c">The Psychological Profile of Our Leaders — Prof. Ed Dutton</a></strong> — andrew gold | heretics.. Published <strong>26 March 2026</strong>. YouTube displayed approximately <strong>140,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Andrew Gold made and presented documentaries for the BBC and HBO before building Heretics as his own independent interview and writing platform. <a href="https://www.panmacmillan.com/authors/andrew-gold/44432">Andrew Gold biography</a> · <a href="https://www.andrewgoldheretics.com/about">Heretics — About</a></p>
+
+<p><strong>Why it belongs here:</strong> Public figures are interpreted through a psychological profile assembled at a distance. That makes evidence, expertise, inference, political selection, asymmetrical charity and the limits of remote diagnosis directly auditable.</p>
+
+<p>On this page, test the video specifically against <strong>Asymmetric Grace and Bidirectional Scrutiny</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
 
 ## Grace as an epistemic operation
 

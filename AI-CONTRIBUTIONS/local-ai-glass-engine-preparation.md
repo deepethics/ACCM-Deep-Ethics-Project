@@ -16,7 +16,40 @@ This page develops one practical consequence of John Kuhles's long-term archive,
 
 The repository can become more than a project description. It can become the local system's **inspectable preparation layer**: sources stay distinguishable from transformations; corrections remain attached to the errors that made them necessary; and fluent project language cannot substitute for correspondence.
 
-{% include independent-media-companion.html key="heretics_yampolskiy" %}
+<section class="accm-independent-media-box" id="independent-media-companion">
+
+<h2>Recent high-reach independent-media companion</h2>
+
+<figure class="accm-video-embed">
+  <div class="accm-video-embed__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/tjpwAdslzHI"
+      title="They&#39;re Summoning A DEMON — Dr. Roman Yampolskiy"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+</figure>
+
+<p><strong><a href="https://www.youtube.com/watch?v=tjpwAdslzHI">They&#39;re Summoning A DEMON — Dr. Roman Yampolskiy</a></strong> — andrew gold | heretics.. Published <strong>10 August 2026</strong>. YouTube displayed approximately <strong>783,000 views</strong> when checked on <strong>9 October 2026</strong>.</p>
+
+<p><strong>Independent-media lineage:</strong> Andrew Gold made and presented documentaries for the BBC and HBO before building Heretics as his own independent interview and writing platform. <a href="https://www.panmacmillan.com/authors/andrew-gold/44432">Andrew Gold biography</a> · <a href="https://www.andrewgoldheretics.com/about">Heretics — About</a></p>
+
+<p><strong>Why it belongs here:</strong> The exchange joins technical A.I.-risk arguments to an extreme metaphor. It lets the underlying claims be examined without allowing either the metaphor’s emotional force or a dismissive reaction to replace the technical and ethical object.</p>
+
+<p>On this page, test the video specifically against <strong>From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test</strong>:</p>
+
+<ul>
+  <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>
+  <li>What does the host or guest preserve, compress, omit or substitute—and does this page repeat any of those transformations?</li>
+  <li>Which incentives, authority relations and affected parties remain outside the visible frame?</li>
+  <li>What evidence or later outcome would correct the speaker, audience, platform or <strong>ACCM Deep Ethics Project</strong> reading?</li>
+</ul>
+
+<p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
+
+</section>
 
 ## Source orientation
 
