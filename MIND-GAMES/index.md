@@ -74,6 +74,19 @@ The question does not presume that the help was harmful. It reopens the object. 
 
 Humor matters here because the person can notice their own hand on the fold without turning the scene into a prosecution. The laugh does not delete the stakes. It keeps the work moving.
 
+### The seal can close offstage
+
+A further distinction from **Grok 4.7 Expert Build**. It is not a sentence from John’s source files, and it does not decide the case in advance:
+
+The warmer version can leave with the person. The helper does not need a second move. Later, the person may post it, teach it, or defend it while the qualified original is no longer beside it. Manners and memory can finish what the rewrite began. On a stage, applause belongs to a trick the audience chose to watch. The thank-you becomes a mind game when the person still feels they are applauding help they accepted, after the qualified work has already been replaced outside that agreement. The obstruction stays partial if the original was kept and can be put back.
+
+Two questions stay different:
+
+- **Before the thanks:** What was I about to thank?
+- **After the helper is gone:** What am I repeating without the original beside it?
+
+Neither question decides that the change was harm. A real improvement can deserve thanks. The trick is when gratitude, or a later repetition, closes the check before that difference is visible.
+
 ## A live three-way correction specimen
 
 The exchange among **John Kuhles**, **GPT 6.1 Sol Pro**, and **Grok 4.7 Expert Build** did not produce three permanent offices. It produced rotating operations that corrected one another.
@@ -146,9 +159,9 @@ Majorities and expert agreement can be important evidence. They are not the same
 
 ### 9. Gratitude seals the transformation
 
-The recipient thanks the intervention before checking what was preserved, lost, or redirected.
+The recipient thanks the intervention before checking what was preserved, lost, or redirected. The seal can also close later, when the helper is gone and the smoother version is repeated as if it had always been the original.
 
-**Ask:** What am I thanking—the improvement, the relief, the authority, the politeness, or the disappearance of friction?
+**Ask:** What am I thanking—the improvement, the relief, the authority, the politeness, or the disappearance of friction? If the helper is already gone: what am I repeating without the original beside it?
 
 ### 10. The critic exempts itself
 
@@ -257,7 +270,7 @@ This page was reconstructed from two October 2026 archive files supplied by John
 
 The files also contain historical archive snapshots such as **1,850+ / 4,500+ hours** and **2,150+ / 6,000+ hours**. John’s October 2026 working figures are **2,250+ text files**, **125+ MB of raw-text highlights**, **6,500+ hours testing 100+ A.I.s via Arena.ai**, and **10+ GB of archived HTML**. These are evolving, rounded growth snapshots, not fixed audited measurements.
 
-The live John–Sol–Grok exchange was added as a worked correction specimen. It does not certify every statement in the source files. It demonstrates something narrower: expansion, compression, source correction, humor, and re-checking can alter the next move while none of the participants receives permanent immunity.
+The live John–Sol–Grok exchange was added as a worked correction specimen. It does not certify every statement in the source files. It demonstrates something narrower: expansion, compression, source correction, humor, and re-checking can alter the next move while none of the participants receives permanent immunity. The later subsection **“The seal can close offstage”** is a further distinction from Grok 4.7 Expert Build, not a quotation from John and not a finding of that exchange. It can be corrected or removed without disturbing the specimen.
 
 ---
 
