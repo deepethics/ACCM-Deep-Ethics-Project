@@ -742,6 +742,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether exposed distortions change later analysis, policy, or representation.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves agency and correction access for people affected by classification systems.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects ambiguity, threat response, conformity, mass psychology, and LLM output behavior.
+- [**Mind Games — Know the Tricks**]({{ '/MIND-GAMES/' | relative_url }}) — provides a compact public route into how labels, qualifiers, good intentions, and persuasive interventions can change the object under examination.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — records the outside pass over this report and makes the audit answerable to its own standard.
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks how far a system’s framing authority reaches and who can appeal its transformations.
 - [**1888 — Searching is a property**]({{ '/1888/#searching-is-a-property' | relative_url }}) — John connects this page to crisis exploitation managers: they push a top-down tunnel-vision narrative, through mass media, as the justification for new emergency laws. The tunnel vision is the narrative. It is not a tunnel vision about the managers.
