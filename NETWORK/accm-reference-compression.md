@@ -154,6 +154,7 @@ That question applies to project titles, acronyms, quotations, summaries, classi
 
 ## Related pages
 
+- [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — preserves a live Google A.I. specimen in which canonical-title compression helped reconstruct the project as an adversarial controversy engine, followed by successive corrections.
 - [**Avoid ACCM — Canonical Naming Note**]({{ '/CORE/Avoid-ACCM/' | relative_url }}) — explains why the canonical public title should remain **ACCM Deep Ethics Project** rather than collapsing into the acronym alone.
 - [**Gravity-Well Trajectory and Representation Substitution**]({{ '/NETWORK/gravity-well/' | relative_url }}) — tracks how a convenient compression can pull later reasoning into a neighboring risk-shaped reconstruction.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks which object the system is actually responding to before caution or intervention acquires authority.
