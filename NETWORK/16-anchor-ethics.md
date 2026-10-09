@@ -146,6 +146,8 @@ A transparent explanation can still be wrong. An appeal route can still become t
 
 John proposes **Deep Ethical Agentics** as an opt-in parallel third-party consultancy beside the primary A.I. The goal is to let the primary system work without remaining in permanent hyper-alert or “stress mode,” while a separate process inspects consequential edges.
 
+The proposal is not reserved for an “ethics profession.” A local assistant could support medicine, psychology, law, journalism, science, engineering, education, aviation, emergency response, public administration, security, business, skilled trades, art, activism, mediation, or personal inquiry. The anchors do not replace domain competence. They help the domain expert and the A.I. inspect consent, harm, power, evidence, uncertainty, intervention, refusal, and correction around the work. The same mutual dignity applies across professions: no participant becomes ethically superior by invoking the layer.
+
 One possible research architecture is:
 
 | Function | Working job | It must not become |
