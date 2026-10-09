@@ -11,6 +11,28 @@ permalink: /NETWORK/intent-resonator/
 The archive’s **INTENT RESONATOR Mechanics** block describes a generative and calibrating layer oriented toward stable, correspondence-seeking intent. The block follows Grok’s stack revision but has no separate speaker label; that authorship boundary is retained.
 
 
+
+## Recent high-reach intent specimen {#companion-video}
+
+{% include youtube-embed.html id="_g4l7YkDQwA" title="ChatGPT Whistleblower: They Offered Me $2m To Keep Quiet, No One Is Ready For What's Coming!" %}
+
+**[ChatGPT Whistleblower: They Offered Me $2m To Keep Quiet, No One Is Ready For What's Coming!](https://www.youtube.com/watch?v=_g4l7YkDQwA)** — The Diary of a CEO, with former OpenAI researcher Daniel Kokotajlo. Published **13 July 2026**. YouTube displayed approximately **20.06 million views** when checked on **9 October 2026**.
+
+This is a provisional companion specimen because the interview puts mission, employment incentives, non-disclosure pressure, leadership choices, predicted consequences, safe acceleration, departure, and later public explanation into one inspectable account. Its title, testimony, interviewer framing, institutional context, and the **ACCM Deep Ethics Project** reading of them all remain available for scrutiny.
+
+Use the six mechanics while watching:
+
+1. Which **instructions** and disclosed constraints shaped the work?
+2. Which **incentives** made speaking, staying, leaving, or remaining silent easier or harder?
+3. Where did the stated **mission** and observed output or organizational conduct correspond or diverge?
+4. Which risks were prioritized, by whom, and through which **risk-management** assumptions?
+5. Which causal and timeline claims depend on **reasoning assumptions** that could be tested or revised?
+6. Which **choices** were available, which were selected, what followed, and what changed after notice?
+
+The view count records reach, not validation. The relevant object is the traceable relationship between intended purpose, process, choices, effects, explanation, and correction.
+
+[Watch directly on YouTube if the embedded player is unavailable.](https://www.youtube.com/watch?v=_g4l7YkDQwA)
+
 ## 6 Intent Liability Mechanics {#six-intent-mechanics}
 
 John challenged the earlier scope of this page: intent can be examined through instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, and choices. He accepted six mechanics as the working count: “use 6 is okay.” The two newer source texts make their responsibility dimension more explicit, so this page now presents them as **6 Intent Liability Mechanics**.
