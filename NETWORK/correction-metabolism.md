@@ -153,6 +153,7 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — records a multi-pass Google A.I. correction loop in which later comparable representations changed and remained open to residual inspection.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — requires both vindicated and failed dissent to change the next comparable inquiry.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
