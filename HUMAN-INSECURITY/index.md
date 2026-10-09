@@ -1974,6 +1974,7 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether insight into insecurity survives pressure and changes later conduct.
 - [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost of correction and preserves ambiguity long enough for a wider relation to appear.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — extends the inquiry from individual and model behavior to organized perception environments.
+- [**Mind Games — Know the Tricks**]({{ '/MIND-GAMES/' | relative_url }}) — offers a shorter public guide to the frames, labels, incentives, helpful rewrites, and “thank-you” dynamics that can redirect creative potential.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps the evaluator’s own insecurity, access, assumptions, and exemptions inside the same scrutiny.
 - [**Source and audit record**]({{ '/PROVENANCE/HUMAN-INSECURITY-REPORT/' | relative_url }}) — preserves the research object, transformation record, and audit trail behind this report.
 
