@@ -48,6 +48,7 @@ Sources: [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — supplies the proposed fused parallel field in which the Advocate, Arbiter, and oversight functions examine consequential decisions without gaining general jurisdiction.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — gives the Advocate, Arbiter, Overseer, 10+1, and Intent Resonator a concrete consensus-pressure test.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — connects the stack’s roles to the auditable path from intent through assumptions, choices, consequences, and correction.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field within which every role remains corrigible.
