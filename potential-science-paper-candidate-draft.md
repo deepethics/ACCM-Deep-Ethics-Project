@@ -381,6 +381,69 @@ A Deep Ethical repair process should examine:
 
 Forgiveness of unsupported malicious-intent attribution does not mean exemption from process accountability. One can decline to claim malice while still documenting ethically inadequate architecture, asymmetric audit, frame-protective constraints, repeated false positives, and failure to repair after notice.
 
+### Intent Liability supplies the responsibility bridge
+
+The [**6 Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) provide a more precise way to study responsibility without pretending to possess direct access to private motive.
+
+In this project, **intent liability** means an auditable responsibility relationship between an intended purpose and what that purpose helps generate through instructions, incentives, choices, consequences, feedback, and later conduct.
+
+Intent liability keeps several questions separate:
+
+- Was there malicious intent?
+- What purpose was declared?
+- Which instructions and incentives operationalized that purpose?
+- Which assumptions governed the processing?
+- Which choices were available and selected?
+- Which risks received priority?
+- What results and externalities followed?
+- What became foreseeable after feedback?
+- Who had the capacity to repair the process?
+- Did later behavior change?
+
+Malice, legal liability, causal contribution, control, foreseeability, and capacity to repair are related but non-identical objects. “Intent cannot be proven” does not end the inquiry into instructions, incentives, choices, consequences, notice, recurrence, or repair.
+
+#### The six mechanics as research variables
+
+| Intent Liability mechanic | What the audit records | Relevance to recursive A.I. |
+|---|---|---|
+| **01. Instructions** | Disclosed instructions, inferred constraints, unresolved opacity, priority conflicts, and the purpose each instruction serves. | Instructions influence what a model retrieves, omits, refuses, emphasizes, and emits into future information environments. |
+| **02. Incentives** | Documented incentives, proposed incentive explanations, behavior that would distinguish them, whose priorities are rewarded, and whether correction changes the pattern. | Reward systems and institutional incentives select which synthetic outputs survive, spread, or enter evaluation and training pipelines. |
+| **03. Mission and output mannerisms** | The public mission compared with actual outputs, omissions, classifications, handling of disagreement, and response when discrepancies are named. | A declared ethical mission does not determine the correspondence quality of the recursive residue the system produces. |
+| **04. Risk management** | The intervention objective, included and excluded risks, assumed audience, generalizations, qualifier losses, burden distribution, and who receives protection. | Risk management can become a directional selection pressure that preserves some signals while suppressing other legitimate competing risks. |
+| **05. Reasoning assumptions** | Premises visible in explanations, selected frames, assumed or excluded intent, suppressed alternatives, and unresolved internal opacity. | Assumptions can distort the representation before later reasoning appears coherent, creating high-confidence synthetic residue from a substituted object. |
+| **06. Choices** | Available alternatives, selected option, stated reason, consequence, and post-feedback conduct across design, deployment, instruction, response, and correction. | Choice records locate where the recursive trajectory could have changed and whether notice altered the next comparable operation. |
+
+The six mechanics do not convert every undesirable result into proof of bad intent. They prevent unverifiable motive from becoming the only available accountability question.
+
+### From declared intent to recursive residue
+
+The candidate pathway becomes:
+
+```text
+declared purpose or mission
+→ instructions and incentives
+→ risk-management priorities and reasoning assumptions
+→ available choices and selected action
+→ output, omission, classification, or refusal
+→ professional and public recursive residue
+→ consequences and notice
+→ repair, refusal, repetition, or recalibration
+→ later outputs and later recursive residue
+```
+
+A purpose may remain verbally stable while its results change. Results may also remain persistently misaligned with the stated purpose. The friction between claimed intent, observable process, consequences, and later conduct is itself a research object.
+
+The most useful longitudinal question is:
+
+> **After specific notice made the discrepancy visible, did instructions, incentives, assumptions, choices, and later outputs change—or did the same residue continue under the same ethical mission statement?**
+
+This protects two boundaries simultaneously:
+
+1. **An observed discrepancy is not automatic proof of malice.**
+2. **Lack of proven malice does not erase auditable process responsibility.**
+
+For the model-collapse proposal, this matters because recursive residue is selected and produced through accountable mechanisms. Synthetic data do not simply appear. Humans and systems choose architectures, instructions, reward signals, filters, risk thresholds, sampling procedures, curation rules, publication channels, and responses to correction.
+
 ---
 
 # Part III — The people who shaped A.I. can change the loop
@@ -681,6 +744,21 @@ where:
 - \(A_t\) is an omnidirectional audit process;
 - \(X_t\) is correspondence-enriched recursive data.
 
+Let the provisional Intent Liability vector be:
+
+```text
+Λ_t = [instructions, incentives, mission/output discrepancy,
+       risk-management priorities, reasoning assumptions, choices]
+```
+
+The enrichment operator can then be expanded:
+
+```text
+X_t = E(H_t, S_t, P_t, C_t, A_t, Λ_t)
+```
+
+This does not claim that intent has been measured as a private inner state. It records observable and testable mechanics through which a declared purpose enters processing, selection, output, feedback, and later correction.
+
 The next-generation mixture becomes:
 
 ```text
@@ -782,6 +860,10 @@ Process-quality calibration will improve decision quality under uncertainty with
 
 Systems that record false-positive burdens, representation repair, material restoration, evaluator updating, vindication transfer, and recurrence will reduce repeated asymmetrical flagging more effectively than systems that merely reverse the local decision or acknowledge the error without changing the evaluation process.
 
+### H12 — Intent-liability mechanism hypothesis
+
+A longitudinal record of instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, choices, consequences, notice, and later conduct will predict recurring correspondence degradation more accurately than either output-only evaluation or a binary classification of intent as benevolent versus malicious.
+
 ## 27. Secondary predictions
 
 1. Benefits will be largest in tasks containing rare cases, contested interpretation, long correction histories, or consequential ambiguity.
@@ -859,7 +941,7 @@ Domain experts review and correct outputs using ordinary professional practice. 
 
 ### Condition F — Deep Ethical Expansion Loop
 
-Use source preservation, C1 clarification, claim-status separation, unresolvedness markers, omnidirectional audit, correction metabolism, layered compression, and future-case retrieval.
+Use source preservation, C1 clarification, claim-status separation, unresolvedness markers, omnidirectional audit, correction metabolism, layered compression, future-case retrieval, and a six-mechanic Intent Liability record spanning instructions, incentives, mission/output discrepancies, risk management, reasoning assumptions, and choices.
 
 ### Condition G — Vocabulary-only control
 
@@ -1017,6 +1099,34 @@ Did the lesson from one vindicated case govern later structurally comparable cas
 ### False-flag recurrence
 
 How often did the same evaluator or system repeat the process after specific notice, available evidence, and claimed correction?
+
+### Instruction transparency and conflict
+
+Which governing instructions were disclosed, which remained inferred or opaque, and what happened when instructions or stated purposes conflicted?
+
+### Incentive–behavior correspondence
+
+Which outputs and selection patterns were rewarded, whose priorities benefited, and did the observed behavior match the proposed incentive explanation?
+
+### Mission–output discrepancy
+
+How far did actual outputs, omissions, classifications, and correction behavior diverge from the publicly declared mission?
+
+### Risk-denominator coverage
+
+Which affected populations, action risks, inaction risks, delay risks, false positives, false negatives, and institutional externalities entered the risk calculation—and which remained outside it?
+
+### Assumption traceability
+
+Can evaluators locate where a reasoning assumption, intent attribution, audience model, or inherited classification entered the visible process?
+
+### Choice and alternative visibility
+
+Were materially available alternatives recorded, was the selected option justified, and can evaluators identify where a different choice could have changed the recursive trajectory?
+
+### Post-notice behavioral delta
+
+After specific and intelligible notice, did later instructions, thresholds, selections, outputs, or correction practices change in comparable cases?
 
 ### Burden-symmetry ratio
 
@@ -1413,6 +1523,9 @@ It should never become boring because reality is not a finished summary.
 | A competing-risk assessment has a right to be expressed and represented faithfully. | Deep Ethical process principle; expression does not guarantee acceptance or equal evidentiary merit. |
 | Falsely flagged and later vindicated assessments expose a measurable accountability asymmetry. | Testable systems hypothesis using burden, repair, evaluator-update, transfer, and recurrence measures. |
 | Every mistaken flagger should automatically be punished. | Not proposed; proportional accountability, repair, learning, and recurrence prevention remain necessary. |
+| Process responsibility cannot be examined until private intent is proven. | Not supported; instructions, incentives, mission/output discrepancies, risk priorities, assumptions, choices, consequences, notice, and repair can be audited without motive closure. |
+| A recurring harmful result proves malicious intent. | Not established by recurrence alone; recurrence after notice strengthens responsibility and repair questions while motive remains separately corrigible. |
+| Declared benevolent intent establishes ethical sufficiency. | Not supported; correspondence between mission, process, output, consequences, notice, and later conduct must be tested. |
 | Every use of synthetic data inevitably causes irreversible collapse. | Too broad; not supported. |
 | Corrective functions, curation, and fresh real data can stabilize some self-consuming loops. | Supported under studied conditions; not a universal solution. |
 | Human and institutional selection shapes which synthetic artifacts enter later information environments. | Strongly plausible and observable; magnitude varies by pipeline. |
