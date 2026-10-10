@@ -509,13 +509,13 @@ Let:
 
 A simplified recursive system is:
 
-\[
-D_t = \alpha_t H_t + \beta_t S_t
-\]
+```text
+D_t = α_t H_t + β_t S_t
+```
 
-\[
-M_{t+1} = T(D_t)
-\]
+```text
+M_(t+1) = T(D_t)
+```
 
 This notation hides many decisive variables: selection, provenance, curation, reward models, human correction, decoding, and which part of the distribution each component represents.
 
@@ -523,9 +523,9 @@ This notation hides many decisive variables: selection, provenance, curation, re
 
 Let each artifact carry a measurable correspondence profile:
 
-\[
-\mathbf{q}(x) = [o, q, u, p, r, c, a, d]
-\]
+```text
+q(x) = [o, q, u, p, r, c, a, d]
+```
 
 where, provisionally:
 
@@ -544,9 +544,9 @@ These dimensions should not be combined into one scalar until empirical work sho
 
 Let \(E\) be a process rather than a content label:
 
-\[
+```text
 X_t = E(H_t, S_t, P_t, C_t, A_t)
-\]
+```
 
 where:
 
@@ -557,19 +557,19 @@ where:
 
 The next-generation mixture becomes:
 
-\[
-D_t^{*} = \alpha_t H_t + \beta_t S_t + \gamma_t X_t
-\]
+```text
+D_t* = α_t H_t + β_t S_t + γ_t X_t
+```
 
-\[
-M_{t+1}^{*} = T(D_t^{*})
-\]
+```text
+M_(t+1)* = T(D_t*)
+```
 
 The central question is not whether \(X_t\) sounds more ethical. It is whether, across generations, it changes measurable outcomes:
 
-\[
-\Delta \mathbf{q}_{t \rightarrow t+k} > 0
-\]
+```text
+Δq_(t→t+k) > 0
+```
 
 for specified dimensions, tasks, populations, and evaluation protocols, while conventional capability and factuality remain stable or improve.
 
@@ -577,9 +577,9 @@ for specified dimensions, tasks, populations, and evaluation protocols, while co
 
 For one transformation, define a dimension-specific gain:
 
-\[
-g_j = q_j(output) - q_j(input\ baseline)
-\]
+```text
+g_j = q_j(output) − q_j(input baseline)
+```
 
 The input baseline may be the original source, an expert reference, or a prior-generation model depending on the experiment. A useful intervention should produce positive gain on targeted dimensions without hiding severe negative gain elsewhere.
 
@@ -1035,9 +1035,9 @@ Because advanced A.I. may become embedded across many industries, cumulative los
 
 Let total expected loss over horizon \(T\) be:
 
-\[
-L_T = C_{train} + C_{clean} + C_{rework} + C_{error} + C_{incident} + C_{knowledge} + C_{opportunity} - B_{synthetic}
-\]
+```text
+L_T = C_train + C_clean + C_rework + C_error + C_incident + C_knowledge + C_opportunity − B_synthetic
+```
 
 where:
 
