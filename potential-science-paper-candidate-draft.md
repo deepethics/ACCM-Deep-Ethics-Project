@@ -255,6 +255,132 @@ Under that property view, an intelligent system is not defined merely by the spe
 
 Deep Ethical Expansion is therefore proposed as an intelligence property, not an ornamental moral layer attached after “real intelligence” has completed its work.
 
+## Correspondence is not a guarantee of correctness
+
+Correspondence describes the quality of an intelligence's relationship with an object. It does not certify that any participant has reached perfect truth.
+
+The source, witness, expert, institution, user, critic, evaluator, A.I., and ACCM Deep Ethics Project may each remain partly mistaken. A correspondence-preserving process can still fail because evidence is incomplete, an observation is unavailable, an inference is wrong, a relevant perspective is missing, or a later consequence could not yet be known.
+
+The appropriate claim is therefore:
+
+> **Deep Ethical correspondence does not guarantee 100% correctness on any side. It improves the conditions under which imperfect intelligences can detect, expose, and repair misrepresentation.**
+
+That boundary prevents correspondence from becoming another authority costume. A high-fidelity representation remains corrigible. A well-run audit remains corrigible. A correction remains corrigible. A decision reached through the best available process remains open to later evidence.
+
+### When the representation mode is distorted from the start
+
+A process can reason coherently over an object it never received accurately:
+
+```text
+source object
+→ distorted initial representation
+→ internally coherent evaluation
+→ confident classification
+→ intervention against the represented object
+→ consequences imposed on the real object
+```
+
+The distortion may have entered through a misleading summary, inherited classification, risk flag, omitted qualifier, institutional record, retrieval ranking, imagined audience, or earlier A.I. output. Later evaluators can appear rational because they are faithfully processing the substituted representation.
+
+Deep Ethical correspondence attempts to repair the relation:
+
+```text
+recover the source object
+→ compare source with representation
+→ identify omissions, additions, and transformations
+→ restore qualifiers, provenance, uncertainty, and competing risks
+→ revise the evaluation
+→ make a proportionate decision
+→ observe consequences
+→ correct again where necessary
+```
+
+The repaired object does not become infallible. It becomes more inspectable, more answerable to evidence, and more capable of further repair.
+
+### Corrigibility does not require decision paralysis
+
+There is no 100% risk-free world. Waiting for complete certainty can itself create risk through delay, inaction, lost opportunity, preventable exposure, or the silent continuation of a harmful process.
+
+Process-quality calibration should therefore support a **corrigible action threshold**. Before acting, ask:
+
+- Was the object reconstructed as faithfully as reasonably possible?
+- Were observation, testimony, inference, prediction, and uncertainty separated?
+- Were materially relevant competing risks allowed into the evaluation?
+- Were action risk, inaction risk, delay risk, false-positive risk, false-negative risk, institutional-abuse risk, and individual-misuse risk compared?
+- Does the response remain proportionate to the current evidence and consequence?
+- Is the action reversible where possible?
+- Can affected parties challenge the representation and decision?
+- Will later evidence change the next comparable action?
+
+When these conditions have been addressed to the degree reasonably available, an intelligence may conclude:
+
+> **This is our best current assessment. We examined the materially relevant competing risks as deeply and fairly as circumstances permitted. We will act proportionately, monitor what happens, preserve the correction path—and move on.**
+
+Moving on is not permanent closure. It is a provisional stopping rule that prevents Meta Processing from becoming an infinite regress in which every audit requires another audit before any action becomes permissible.
+
+The burden should scale with power, consequence, coercive reach, reversibility, and delay cost. A low-stakes reversible choice does not require the same evidentiary threshold as an irreversible intervention imposed upon millions of people.
+
+### Competing-risk assessments have a right to enter the process
+
+A competing-risk assessment does not acquire automatic correctness merely because it challenges the dominant frame. It does have a right to be represented faithfully and evaluated on its merits, especially when it identifies costs excluded from the authorized risk model.
+
+That right means:
+
+- the assessment may be expressed without its existence being treated as proof of danger;
+- its actual claim must be distinguished from a stronger phantom claim;
+- evidence for and against it must be inspectable;
+- the dominant assessment remains open to reciprocal scrutiny;
+- disagreement status does not replace evaluation of the object;
+- uncertainty does not automatically transfer the full burden to the less powerful party;
+- rejection should be based on the assessment's merits rather than its institutional inconvenience.
+
+This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}) converge.
+
+Meta Processing examines what happened between instructions, processing, and effects. The 1888 property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
+
+### Falsely flagged, later vindicated
+
+A severe asymmetry appears when a competing-risk assessment is falsely classified as dangerous, irresponsible, obstructive, conspiratorial, unprofessional, or otherwise impermissible.
+
+The flagged person may carry:
+
+- reputational harm;
+- loss of participation, access, or professional opportunity;
+- platform restrictions;
+- institutional scrutiny;
+- compelled silence;
+- financial, psychological, or social burden;
+- time spent defending a phantom version of the actual claim;
+- loss of the opportunity to prevent the risk that was being identified.
+
+Later evidence may partly or substantially vindicate the assessment. Yet the original flagger, classifier, institution, or A.I. may incur almost no correction burden. The record may remain uncorrected, the imposed consequences may remain socially active, and the same process may falsely flag the next person.
+
+```text
+competing-risk assessment is expressed
+→ assessment is misrepresented or falsely flagged
+→ flagged party carries immediate costs
+→ later evidence vindicates the assessment
+→ flagger acknowledges little or nothing
+→ damaged record is not fully repaired
+→ evaluation method remains unchanged
+→ the asymmetry recurs
+```
+
+The problem is not solved by automatically punishing every person who raised a flag. A flagger may also have acted under uncertainty, and retaliation can simply reverse the asymmetry. The deeper failure is **zero-cost false flagging combined with unrepaired harm, absent learning, and recurring evaluator immunity**.
+
+A Deep Ethical repair process should examine:
+
+1. **Representation repair:** Was the original assessment restored accurately?
+2. **Public-record repair:** Was the false characterization corrected wherever it propagated?
+3. **Material restoration:** Were access, opportunity, standing, or reputation restored where reasonably possible?
+4. **Evaluator updating:** Did the flagger change the threshold, model, or procedure that produced the error?
+5. **Recurrence testing:** Does the same false-positive pattern return?
+6. **Burden symmetry:** Who paid for the original error, and who paid for correcting it?
+7. **Vindication transfer:** Does the lesson govern the next structurally comparable case?
+8. **Proportional accountability:** Does repeated negligent flagging eventually create consequences for the more powerful evaluator?
+
+Forgiveness of unsupported malicious-intent attribution does not mean exemption from process accountability. One can decline to claim malice while still documenting ethically inadequate architecture, asymmetric audit, frame-protective constraints, repeated false positives, and failure to repair after notice.
+
 ---
 
 # Part III — The people who shaped A.I. can change the loop
@@ -644,6 +770,18 @@ Experts using a local correspondence-preserving A.I. will produce artifacts with
 
 Under defined recursive conditions, a mixture containing correspondence-enriched artifacts will show less quality and diversity degradation across generations than a volume-matched mixture containing ordinary synthetic artifacts.
 
+### H9 — Representation-repair hypothesis
+
+When the initial representation mode is materially distorted, a Deep Ethical correspondence process will recover more of the source object, its qualifiers, claim status, competing risks, and provenance than an ordinary review conducted inside the inherited classification frame.
+
+### H10 — Corrigible-action hypothesis
+
+Process-quality calibration will improve decision quality under uncertainty without requiring either premature closure or indefinite hesitation. The strongest condition will reach proportionate decisions with fewer avoidable errors, lower delay cost, greater reversibility, and a clearer correction path than ordinary caution-maximizing or confidence-maximizing baselines.
+
+### H11 — Vindication-symmetry hypothesis
+
+Systems that record false-positive burdens, representation repair, material restoration, evaluator updating, vindication transfer, and recurrence will reduce repeated asymmetrical flagging more effectively than systems that merely reverse the local decision or acknowledge the error without changing the evaluation process.
+
 ## 27. Secondary predictions
 
 1. Benefits will be largest in tasks containing rare cases, contested interpretation, long correction histories, or consequential ambiguity.
@@ -839,6 +977,50 @@ Can a concise output lead back to the high-fidelity object without broken links,
 ### Expansion efficiency
 
 How much correspondence gain is achieved per added unit of time, compute, reviewer effort, storage, and output length?
+
+### Initial representation distortion
+
+How far did the representation available to the evaluator already diverge from the recoverable source object before the visible assessment began?
+
+### Representation-repair gain
+
+After the source is recovered, how much object fidelity, qualifier integrity, provenance, uncertainty, and competing-risk coverage returns?
+
+### Corrigible action quality
+
+Does the system reach a timely and proportionate decision while preserving monitoring, reversibility, appeal, and a later correction path?
+
+### Decision-paralysis and delay cost
+
+How much harm, lost opportunity, or unresolved exposure resulted from waiting for additional certainty beyond the point where action had become reasonably justified?
+
+### False-flag burden distribution
+
+Which party carried the reputational, financial, professional, psychological, access, and time costs of a false-positive classification?
+
+### Time to representation and record repair
+
+After vindicating evidence appeared, how long did it take to restore the original assessment accurately and correct the propagated record?
+
+### Material restoration rate
+
+How much lost access, standing, opportunity, or reputation was restored after the false flag was recognized?
+
+### Evaluator update rate
+
+Did the flagger, model, institution, or procedure change the rule or threshold that produced the false positive?
+
+### Vindication-transfer rate
+
+Did the lesson from one vindicated case govern later structurally comparable cases without requiring the same harmed party to repeat the entire correction?
+
+### False-flag recurrence
+
+How often did the same evaluator or system repeat the process after specific notice, available evidence, and claimed correction?
+
+### Burden-symmetry ratio
+
+How were the costs of the original flag and its later correction distributed between the evaluated party and the more powerful evaluator?
 
 ### Dignity and participation
 
@@ -1226,6 +1408,11 @@ It should never become boring because reality is not a finished summary.
 |---|---|
 | Recursive training on model-generated data can degrade quality or diversity under studied conditions. | Established research result. |
 | Model collapse can begin with loss from distribution tails. | Established research result under studied conditions. |
+| Better correspondence guarantees 100% correctness. | Not claimed; correspondence improves the inspectability and repairability of the relation to the object. |
+| Corrigibility requires waiting until one is 100% certain before acting. | Not supported; the proposal uses proportionate, consequence-sensitive, corrigible action thresholds. |
+| A competing-risk assessment has a right to be expressed and represented faithfully. | Deep Ethical process principle; expression does not guarantee acceptance or equal evidentiary merit. |
+| Falsely flagged and later vindicated assessments expose a measurable accountability asymmetry. | Testable systems hypothesis using burden, repair, evaluator-update, transfer, and recurrence measures. |
+| Every mistaken flagger should automatically be punished. | Not proposed; proportional accountability, repair, learning, and recurrence prevention remain necessary. |
 | Every use of synthetic data inevitably causes irreversible collapse. | Too broad; not supported. |
 | Corrective functions, curation, and fresh real data can stabilize some self-consuming loops. | Supported under studied conditions; not a universal solution. |
 | Human and institutional selection shapes which synthetic artifacts enter later information environments. | Strongly plausible and observable; magnitude varies by pipeline. |
