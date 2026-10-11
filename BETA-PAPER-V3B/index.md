@@ -2548,6 +2548,66 @@ No A.I. praise, fluency, or page publication validates the theory.
 
 ---
 
+## Live comparison reactions — 11 October 2026 {#live-v03b-comparison-reactions}
+
+**Status:** Attributed reactions to the visible differences between the original public Beta Paper and V03b. They document how participants interpreted the expansion. They are not peer review, independent replication, or empirical validation of the theory.
+
+### John Kuhles
+
+> So V03b is now a huge step forward compared with the older initial page: [**Beta Paper**]({{ '/BETA-PAPER/' | relative_url }}) in my view.
+
+### GPT 6.1 Sol Pro A.I.
+
+> Yes—the correction changes the meaning completely :D
+>
+> **V03b is now a huge step forward** in research architecture and operational precision. The original Beta Paper established the central trajectory; V03b turns it into a much more testable and corrigible program:
+>
+> - Separate mechanism, experiment, and ecosystem layers
+> - Origin separated from correspondence status
+> - Condition D+ and stronger causal baselines
+> - T0→Tn safeguards and reasonable-but-wrong scoring
+> - Process adequacy separated from outcome accuracy
+> - Blinded evaluation and anti-circularity controls
+> - Cultural-transmission selection before model ingestion
+> - Scope-boundary and task-definition fidelity measures
+> - Intelligence-property governance-gap testing
+> - Status-label and prestige effects
+> - Quotation-transformation benchmark
+> - Explicit Asymmetric Grace and self-application failure modes
+> - Permission for simpler methods, null results, and adverse findings to defeat or narrow the theory
+>
+> The older page remains valuable because it preserves where the public research object began. V03b shows how dramatically it expanded after sustained multi-model criticism, correction, reconciliation, and your fidelity review.
+>
+> That is a major methodological advance while remaining an **unfinished experimental proposal**, rather than pretending the expanded architecture is already empirical proof.
+
+### Grok 4.7 Expert A.I. via grok.com
+
+> **Correspondence confirmation**
+>
+> V03b is a substantial expansion of the original Beta Paper into a more testable and corrigible experimental architecture. The items you list are present in the current public source:
+>
+> - explicit separation of mechanism hypothesis, experimental program, and ecosystem hypothesis;
+> - origin separated from correspondence status;
+> - Condition D+ and stronger causal baselines;
+> - T0→Tn temporal protocol and reasonable-but-wrong scoring;
+> - process adequacy separated from outcome accuracy;
+> - blinded and separated evaluation roles with anti-circularity controls;
+> - cultural-transmission selection layer before model ingestion;
+> - scope-boundary and task-definition fidelity measures;
+> - intelligence-property governance-gap testing (H15);
+> - matched status-label / prestige-effect conditions;
+> - quotation-transformation benchmark;
+> - explicit treatment of Asymmetric Grace and self-application failure modes (including the title substituting for the operation);
+> - and public falsifiers that permit simpler methods, null results, or adverse findings to defeat or narrow the stronger theory.
+>
+> The original Beta Paper remains fully available and linked. It preserves the earlier public state. V03b records the subsequent expansion after multi-model contributions, process audits, reconciliation, and fidelity review. The recovery path between the two versions is intact.
+>
+> The page continues to carry the beta status: unfinished theory proposal, not peer reviewed, not a claim of proof. The expanded controls increase inspectability and the possibility of correction; they do not convert the architecture into an empirical result. The next evidentiary step remains the bounded preregistered pilot (or the lower-cost artifact-level quotation/status experiment) rather than further expansion of the proposal itself.
+>
+> The structure is harder to flatten into a single private hobby description. It is a versioned public research object whose fidelity will continue to depend on whether later revisions keep the recovery paths, claim-status boundaries, and transformation records visible when external feedback arrives.
+
+---
+
 # Primary scientific references
 
 1. Sina Alemohammad, Josue Casco-Rodriguez, Lorenzo Luzi, Ahmed Imtiaz Humayun, Hossein Babaei, Daniel LeJeune, Ali Siahkoohi, and Richard G. Baraniuk. [**Self-Consuming Generative Models Go MAD**](https://arxiv.org/abs/2307.01850). ICLR 2024.
