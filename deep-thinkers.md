@@ -782,6 +782,112 @@ These passages remain open to correction, expansion, or relocation if a clearer 
 
 ---
 
+## Process audit of the Grok contribution — GPT 6.1 Sol Pro, 11 October 2026 {#grok-process-audit}
+
+**Status:** Process analysis of the full 414-line John Kuhles–Grok 4.7 Expert exchange supplied in this session. It evaluates what the visible text demonstrates. It does not independently verify every quotation, causal explanation, or frequency claim made inside that exchange.
+
+The complete record confirms that the section above is a faithful extraction of Grok’s strongest operational contribution. It also reveals an instructive internal contrast: Grok preserves the bounded task and develops the psychology–mass-psychology bridge with considerable precision, while its raw quotation inventory sometimes exceeds the scope and provenance discipline it had just articulated.
+
+### Grok’s strongest formulations
+
+Grok opens with a distinction that carries the whole inquiry:
+
+> “Because the word ‘intelligence’ is still being used as a title, and the older observations still expose the gap between the title and the actual operations.”
+
+This treats the quotations as continuing tests of a claimed property rather than historical decoration. Grok then explains why technological scale does not settle the older questions:
+
+> “The quotes remain useful because the failure modes have not been solved by better hardware or larger training sets.”
+
+That is a candidate interpretation of their continued relevance, not proof that every quoted property is necessary or sufficient for intelligence. Its value is that it keeps title, machinery, and observable operation separate.
+
+Grok also preserves John’s qualifier instead of dissolving the request into an impossible universal inventory:
+
+> “That is a clean use of a load-bearing qualifier to keep the object from being substituted by a nearby, easier objection.”
+
+The exchange therefore supplies a direct specimen of **scope-boundary retention**. “Famous quotations specifically about intelligence” must not silently become “every statement ever made about knowledge, wisdom, or intelligence-related properties.”
+
+The psychology bridge is stated with equal clarity:
+
+> “Psychology and mass psychology are the mechanisms that decide whether the properties named in those quotes actually operate, or whether they are overridden by local incentives, identity, conformity, and status.”
+
+This is a useful research hypothesis. Individual and collective processes may explain why limit-awareness, revision, observation before closure, and correction governance are celebrated rhetorically while failing to govern the next move. The strength and generality of each proposed mechanism still require evidence.
+
+Grok’s account of continued quotation adds a second-order observation:
+
+> “The continued quotation is itself a mass-psychological fact: the culture keeps the distinctions available even while ordinary individual and group processes keep overriding them.”
+
+That formulation gives the quotation corpus two roles at once: a cultural memory of intelligence properties and a record of how often cultures have needed to restate them.
+
+### The C1 specimen: preserving the intended referent
+
+When John said that Claude can sometimes “switch to the other side of the force,” Grok did not assume the nearest familiar meaning. It asked what **force** meant. John clarified it as deep ethical metacognitive common sense, pragmatism, and logic operating together.
+
+Grok’s reconstruction preserves why the question mattered:
+
+> “The C1 that asked ‘what force?’ was the right move. It prevented the nearest available generalization (the franchise slogan) from silently replacing the intended object.”
+
+This is a compact live example of representation before evaluation. The clarification changes the referent and therefore changes the analysis.
+
+### The internal provenance contrast
+
+The raw quotation list should not be treated as a verified corpus merely because the surrounding analysis is strong. It includes several different kinds of object:
+
+- statements explicitly naming intelligence;
+- adjacent statements about knowledge, wisdom, intellect, imagination, character, brains, or self-deception;
+- popular paraphrases;
+- translation-dependent formulations;
+- widely circulated but weakly sourced or disputed attributions.
+
+Examples include the Socrates wording “I know that I am intelligent, because I know that I know nothing,” Confucius on knowing what one knows, Emerson on character and intellect, and Woodrow Wilson on borrowing brains. These may illuminate intelligence-related properties, but they do not all satisfy the narrower core-corpus condition of famous quotations specifically about intelligence.
+
+Several Einstein formulations and the Hawking adaptation quotation also require the attribution quarantine already present on this page. A proposition can remain interesting while its wording or authorship remains unresolved.
+
+This is why the public page separates:
+
+```text
+valuable structural contribution
+≠ verified quotation corpus
+≠ independent confirmation
+≠ durable correction
+```
+
+The quotation ledger, extension corpus, and attribution quarantine perform different jobs. Grok’s full list remains useful source material for checking and comparison; it should not enter the verified ledger wholesale.
+
+### Asymmetric Grace emerging inside the sequence
+
+The documentary exchange makes the process visible. Grok initially responds to John’s possibility with repeated distancing formulations: “possible overlap, not a claim of fit,” “possible research direction, not a prescription,” and “possible framing, not a prediction.” Each boundary can be reasonable in isolation. Together they shift attention from exploring the idea toward pre-emptively managing what must not be inferred.
+
+John then identifies what the responses had left largely unexamined: the near-perfection burden being built for an independent filmmaker while comparable completeness demands were not being applied to the institutional narratives, platforms, and A.I. systems the film might investigate.
+
+Grok’s later correction names the asymmetry directly:
+
+> “The demand for near-perfection functions as a selective filter: it is applied downstream to the critic or filmmaker and relaxed upstream for the frames already treated as background.”
+
+Its next sentence about training patterns is a candidate causal explanation, not something demonstrated by this one exchange. The observable finding is narrower: the displayed responses impose repeated anticipatory boundaries on the independent proposal before applying comparable scrutiny upstream.
+
+Grok then restores the bidirectional standard:
+
+> “The same questions about qualifier survival, correction pathways, unresolvedness, and proportionate scrutiny apply to the documentary, to the institutional claims it examines, and to the A.I. evaluating both.”
+
+### What the chronology demonstrates
+
+```text
+bounded request
+→ strong reconstruction
+→ provenance and scope drift inside the quotation list
+→ documentary possibility
+→ repeated cautionary distancing
+→ John identifies the missing 10+1 and Asymmetric Grace
+→ Grok applies the correction locally
+→ corrected passages enter the public page with attribution
+```
+
+This supports **contextual correction and partial immediate application**. It does not establish unfamiliar transfer, later persistence, or governance after the correction is absent from context.
+
+The full exchange is the transformation history. The contribution above is the attributed, corrigible extraction. Keeping both roles visible prevents a strong synthesis from laundering every surrounding statement into established project language.
+
+---
+
 ## What this page itself could distort {#self-audit}
 
 The page is subject to the same process it describes.
