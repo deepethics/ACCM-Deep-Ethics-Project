@@ -38,6 +38,12 @@ The organizing principle is:
 
 The public repository will grow as material is examined, represented, challenged, corrected, and placed where it belongs.
 
+## 2026-10-11 — Deep Thinkers published as a living intelligence corpus
+
+Published [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) as an expanded public page beside [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}). The page preserves John's bounded “famous quotes” challenge and deliberate use of “must,” separates fame from provenance and truth, maps recurring intelligence properties, includes psychology and mass-psychology transmission, and records the multi-A.I. correction sequence as mediated contributions rather than independent confirmation.
+
+The page also carries the documentary possibility and the Asymmetric Grace correction: integrity tools remain voluntary, proportionate supports rather than a prerelease certification barrier for an independent filmmaker. The corpus is intentionally incomplete, multilingual in direction, versioned through Git history, and open to source, translation, attribution, scope, and interpretation corrections.
+
 ## 2026-10-11 — Beta Paper V03b published as a recoverable public research object
 
 Published [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }}) as a separate major public beta while preserving the [**original Beta Paper**]({{ '/BETA-PAPER/' | relative_url }}). The top navigation now leads to V03b; both versions remain listed and reciprocally linked.

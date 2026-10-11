@@ -43,6 +43,7 @@ The several 27 links below are layers of one object. They are not five cores.
 - **[C1 Before C2 — BETA visual twin](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2-beta/)**
 - **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)**
 - **[1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)**
+- **[Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/)** — a living, provenance-labelled corpus connecting famous reflections on intelligence to their overlapping property taxonomy, mass-psychology transmission, A.I. title claims, and correction behavior.
 - **[Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/)**
 - **[John’s process object — mirroring, 10 as glue, humor as carrier](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/)**
 - **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)**

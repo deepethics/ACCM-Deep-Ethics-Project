@@ -4,7 +4,7 @@
 >
 > This repository is being built in public. It is far too early to represent a finished or implementation-ready framework. Definitions may change, categories may split or merge, drafts may be rewritten, and errors are expected. Constructive correction is welcome.
 
-**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
+**[Public site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)** · **[Deep Thinkers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/)** · **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** · **[About / Public README](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)** · **[Biography and project origins](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)** · **[Deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** · **[Canonical-source portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)** · **[Cold-testing portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/)** · **[Start here](#start-here)** · **[Core architecture](#core-architecture-now)** · **[Contributing](CONTRIBUTING.md)**
 
 **[“Origins of 11+1 Mass Psychology Clusters” PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf)**
 
@@ -38,7 +38,7 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 **If you are new:** [If your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — one question for the job you already have. The rest of this list can wait.
 
-Sixteen doors, not a required sequence:
+Seventeen doors, not a required sequence:
 
 1. **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)** — a pragmatic front door by profession. The questions name a use. They do not claim the method has already done that job.
 2. **[A deeper introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)** — the lived process, a correspondence-first test, the nested-sandbox dilemma, the “too good to classify” epiphany, and why humor matters.
@@ -56,6 +56,7 @@ Sixteen doors, not a required sequence:
 14. **[Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)** — John’s working model of self-image under ambiguity, fear-shaped cognition, help-seeking, conformity, LLM mannerisms, recursive residue, and correction access, with a separate source and audit record.
 15. **[11+1 Version 2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)** — the mass-psychology coordinate system: eleven distortion clusters plus one correspondence-restoring field. Count frozen provisionally. Claims unfrozen. Items 108–140 are refinements, not retroactive parents.
 16. **[Interactive 11+1 Cluster Explorer](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/)** — a visual and audio-assisted instrument for examining the 11+1 architecture, comparing the original and refined maps, filtering all 140 items, and following direct routes into the project’s fuller pages.
+17. **[Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/)** — John's bounded “famous quotes” challenge, a living provenance-aware quotation corpus, the overlapping property taxonomy of intelligence, its mass-psychology transmission, and what the title asks of present A.I.
 
 [Browse all public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/).
 

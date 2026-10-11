@@ -2353,6 +2353,8 @@ No A.I. praise, fluency, or page publication validates the theory.
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) — turns quotations into an inspectable transformation object: source, translation, fame, compression, provenance, property extraction, correction, and possible re-entry into human and synthetic information loops.
+
 - [**For who?**]({{ '/FOR-WHO/' | relative_url }}) — the expanded professional and expertise map from which the distributed-shaper hypothesis emerged.
 - [**Model Autophagy Disorder (MAD)**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — established science, project extension, early-detection questions, and claim-status boundaries.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the wider property field of intelligence.
