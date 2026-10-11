@@ -2715,6 +2715,7 @@ John Kuhles then supplied a load-bearing correction: the canonical 10+1 is stand
 # Related ACCM Deep Ethics Project pages
 
 - [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) — turns quotations into an inspectable transformation object: source, translation, fame, compression, provenance, property extraction, correction, and possible re-entry into human and synthetic information loops.
+- [**Musk Quotes — Seven A.I. Warning and Direction Themes**]({{ '/MUSK-QUOTES/' | relative_url }}) — maps a culturally influential seven-theme field to testable, distributed calibration mechanisms while separating quotation, interpretation, and empirical effect.
 
 - [**For who?**]({{ '/FOR-WHO/' | relative_url }}) — the expanded professional and expertise map from which the distributed-shaper hypothesis emerged.
 - [**Model Autophagy Disorder (MAD)**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — established science, project extension, early-detection questions, and claim-status boundaries.
