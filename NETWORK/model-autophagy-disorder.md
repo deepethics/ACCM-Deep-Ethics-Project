@@ -274,6 +274,61 @@ The comparison layer records what each track preserved, removed, generalized, so
 | The 27 are already proven superior to existing MAD research or A.I. safety systems. | Not yet established by comparative testing. |
 | A later paper would vindicate the entire ACCM Deep Ethics Project. | No; vindication must remain claim-specific. |
 
+## Why Beta Paper V03b is part of the project’s public face
+
+[**Beta Paper V03b — From Model Autophagy to Deep Ethical Expansion**]({{ '/BETA-PAPER-V3B/' | relative_url }}) gives this page’s project extension a different public form: an unfinished theory and experimental program that can be inspected without first accepting the entire **ACCM Deep Ethics Project** architecture.
+
+The reactions below are part of the project record. They explain why the page was made prominent. They are **interpretations of its function**, not evidence that its scientific hypotheses are correct.
+
+### John Kuhles’s reaction
+
+John asked whether the Beta Paper Experiment Draft should become part of the face of the project because it serves a parallel purpose:
+
+> “Do you see the value of having this Beta Paper Experiment Draft being PART of the face of our project, which serves a different purpose that can be seen as parallel tactics to become more than just a nice hobby of John Kuhles lol :P”
+
+The load-bearing point is not the joke about a hobby. The paper creates another route through the project. The broader architecture names and connects correspondence failures; V03b asks whether selected mechanisms can be operationalized, compared with strong alternatives, measured across recursive generations, and allowed to lose.
+
+### GPT’s reaction
+
+GPT’s interpretation was that the project now has parallel public routes:
+
+- a **conceptual route** through the 27+12, 10+1, C1–C2, Meta Processing, Intent Liability, 1888, and correction metabolism;
+- a **professional route** through [**For who?**]({{ '/FOR-WHO/' | relative_url }});
+- a **scientific route** through conditions, baselines, falsifiers, temporal safeguards, outcome levels, and proposed experiments;
+- a **historical route** through the preserved original paper and the expanded V03b;
+- a possible later **experimental route** through preregistration, pilot data, null or mixed findings, and revision.
+
+GPT described the resulting structure as a **versioned public research ecology**. That is an interpretive description, not a validation category. Its practical meaning is that a critic can challenge one hypothesis, control, measure, or causal bridge without first adopting the whole framework.
+
+### Grok 4.7 Expert’s reaction
+
+Grok emphasized three public functions:
+
+1. V03b makes the experimental claim inspectable to readers who do not have the private Addendum or the entire project history.
+2. It changes the external relationship from a private research thread into an unfinished public object that can be tested, ignored, narrowed, or defeated by simpler explanations.
+3. Publishing V03b while keeping the [**original Beta Paper**]({{ '/BETA-PAPER/' | relative_url }}) accessible demonstrates expansion without erasing the earlier object.
+
+A later correction sharpened Grok’s first point: V03b is a **cold-entry public research surface**, but it is not yet an identity-and-vocabulary-reduced experimental condition. It still contains the project name, C1, CERD, Intent Liability, Deep Ethical Expansion, and other distinctive terms. A genuine reduced condition requires a matched derivative in which identity, terminology, and explanatory context are varied separately while the operations remain functionally equivalent.
+
+Grok also preserved the gravity-well warning: a clearer and newer V03b can become a substituted source object if later readers or models treat it as the complete history. Reciprocal links and version discipline reduce that risk; they do not eliminate it.
+
+### Shared higher-order synthesis
+
+The three public faces remain distinguishable:
+
+1. **The wider project architecture** asks what correspondence degradation looks like and how it may be repaired.
+2. **Beta Paper V03b** asks how selected mechanisms could be scientifically operationalized and tested.
+3. **The original public Beta Paper, now carrying a version-navigation notice**, shows how the research object changed over time.
+
+This structure does not prove that the proposal works. It makes the proposal easier to inspect, challenge, compare, and correct.
+
+> **Read the current major public candidate:** [Beta Paper V03b]({{ '/BETA-PAPER-V3B/' | relative_url }})  
+> **Recover the earlier public state:** [Original Beta Paper]({{ '/BETA-PAPER/' | relative_url }})
+
+The next evidentiary step remains a bounded preregistered pilot in which D+, ordinary expert correction, the full loop, vocabulary-only prompting, and relevant controls can produce positive, mixed, null, adverse, or narrowing results.
+
+---
+
 ## Standing question
 
 > If future models increasingly learn from outputs already shaped by hidden salience ranking, asymmetric scrutiny, qualifier erosion, lowest-common-denominator risk projection, and failed correction persistence, what exactly are they recursively learning—and which parts of reality disappear first?
