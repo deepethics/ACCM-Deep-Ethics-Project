@@ -1558,6 +1558,21 @@ The mirror must remain omnidirectional. It must also examine the people holding 
 
 ---
 
+# From the professional map to a testable public research object
+
+The professional map and [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }}) serve parallel functions.
+
+This page asks **who may want correspondence-preserving local A.I. tools and where their epistemic leverage may enter the wider recursion**. V03b asks whether selected preservation, clarification, provenance, correction, and audit mechanisms can outperform ordinary synthetic recursion, metadata-only controls, and competent expert correction under specified conditions.
+
+A professional does not need to adopt the complete ACCM Deep Ethics Project to examine one proposed measure or participate in one bounded study. That separation makes collaboration possible across medicine, law, engineering, journalism, archives, education, software, research methodology, governance, and other fields mapped above.
+
+- [**Read Beta Paper V03b — current major public candidate**]({{ '/BETA-PAPER-V3B/' | relative_url }})
+- [**Read the preserved original Beta Paper**]({{ '/BETA-PAPER/' | relative_url }})
+
+The paper is a testable bridge from the professional-leverage hypothesis to an experimental program. It remains unfinished, corrigible, and open to simpler mechanisms winning.
+
+---
+
 # Final formulation
 
 The deepest audience for a local A.I. grounded in **ACCM Deep Ethics Project principles** is:
