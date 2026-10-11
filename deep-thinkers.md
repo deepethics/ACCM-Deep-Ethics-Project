@@ -1,1 +1,1 @@
-PLACEHOLDER_TO_BE_REPLACED
+$(cat /tmp/deep-thinkers-final.md)
