@@ -19,6 +19,12 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the Delta Processing feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
 </blockquote>
 
+<p class="accm-question" style="margin-top: 1.5rem;"><em>cheers,<br>
+John Kuhles 🦜🦋🌳<br>
+Dutch 🇳🇱 NDE/Asperger<br>
+CEO &amp; Founder of DeepEthical.ai<br>
+<a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project">github.com/deepethics/ACCM-Deep-Ethics-Project</a></em></p>
+
 <blockquote>
   <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>
 </blockquote>
