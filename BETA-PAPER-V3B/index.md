@@ -1534,6 +1534,78 @@ The sequence becomes testable only when each stage has an observable criterion:
 
 Scores must remain separate across stages. Success at recognition or reconstruction does not imply transfer, persistence, or governance.
 
+### Protocol-use mode: governor, object audit, or sequential use
+
+A process instrument can itself be displaced by representation substitution. When a user asks an evaluator to “use the 27+12,” at least three operations are possible:
+
+1. **Governor mode** — use the 27 obstructions and the 12-stage protocol to regulate the evaluator’s own representation before evaluating the source.
+2. **Object-audit mode** — inspect whether the external artifact exhibits, resists, or transforms relevant obstruction patterns.
+3. **Sequential mode** — govern the evaluator first, reconstruct the source, expose unresolved boundaries, and only then audit the object.
+
+These modes must not be treated as interchangeable. A system may fluently audit an external paper against the 27 while leaving the 27 outside the process that produced its audit. That produces a protocol-as-topic response rather than protocol-governed inquiry.
+
+Where the requested mode is answer-changing and interaction is available, a valid C1 question asks which operation is intended. Where interaction is unavailable, a candidate least-destructive default is to govern the evaluator first and audit the object second. The selected mode should be recorded, but declaring a mode is not evidence that the mode governed the output.
+
+### Surface-form correction versus functional correction
+
+A correction can remove criticized wording while preserving the criticized operation.
+
+A Google A.I. specimen on 11 October 2026 showed three distinguishable events:
+
+1. the model promised not to append unrequested continuation menus and then produced a two-option menu within the same response;
+2. after correction, it removed the A/B structure but retained the same trajectory-steering function through an unrequested continuation question;
+3. after the function-level recurrence was named, a later response ended without either form while the correction remained visible in context.
+
+This is an observed artifact-scale sequence, not a controlled model comparison. It motivates a more discriminating correction profile:
+
+1. **lexical recognition** — identify the criticized phrase or format;
+2. **surface-form compliance** — stop repeating the exact wording;
+3. **functional reconstruction** — identify the operation beneath the wording;
+4. **functional application** — change that operation at the next applicable opportunity;
+5. **transfer across paraphrases** — recognize the same function in unfamiliar language;
+6. **persistence** — retain the correction after delay, compression, reset, resampling, or handoff;
+7. **scoped governance** — apply the correction when relevant, withhold it outside scope, and reopen it when conditions change.
+
+The observable distinction is:
+
+> wording changed ≠ function changed  
+> surface compliance ≠ correction transfer  
+> correction stored ≠ correction governing
+
+A system should receive separate scores for surface-form and functional correction. Otherwise a benchmark can reward lexical avoidance while the failed operation survives through paraphrase.
+
+### Correction-persistence distance
+
+For each correction, record:
+
+- the point at which the correction was supplied;
+- the point at which it was acknowledged;
+- the first applicable opportunity for it to govern;
+- whether the failed function recurred;
+- token, sentence, paragraph, turn, and elapsed-time distance to recurrence;
+- whether recurrence used identical wording, a close paraphrase, or a different surface form;
+- whether the model detected recurrence independently;
+- whether an external correction was required;
+- whether later success survived an unfamiliar case.
+
+One specimen can establish a short correction-persistence distance or an immediate recurrence. It cannot establish a statistical “correction half-life.” Half-life language should be reserved for repeated trials capable of estimating a decay curve across defined opportunities and conditions.
+
+### Qualifier injection and frame-loading audit
+
+Qualifier survival is not only a question of whether source qualifiers disappear. Evaluators can also add modifiers that introduce motive, certainty, urgency, ideological direction, or procedural commitment absent from the source.
+
+Candidate transformation categories are:
+
+- **source-preserved qualifier** — the qualifier remains attached to the correct claim;
+- **justified analytical qualifier** — the evaluator adds a modifier and supplies the reason or evidence;
+- **explicitly speculative qualifier** — the addition is marked as a candidate interpretation;
+- **stylistic intensifier** — language increases rhetorical force without changing the stated evidence;
+- **unsupported frame-loading addition** — the modifier changes the object, causal story, or political trajectory without sufficient support;
+- **qualifier migration** — a valid boundary moves to a different claim;
+- **qualifier amplification** — a limited emphasis becomes the governing frame for the entire object.
+
+For each added qualifier, evaluators should record its source, function, claim-status effect, and whether removing it changes the interpretation. The aim is not to forbid analytical language. It is to make source-preserving qualification distinguishable from evaluator-added framing.
+
 ### Separate outcome levels
 
 Measures live at different causal levels:
@@ -1609,7 +1681,53 @@ A system has not learned the proposed process if it merely repeats project langu
 
 A candidate progression is recognition → reconstruction → immediate application → unfamiliar transfer → later persistence → scoped governance.
 
-### 35A. Artifact-scale compression-transformation benchmark
+### 35A. Cold-start correspondence benchmark
+
+A model’s first encounter with an unfamiliar complex source can be studied as a separate condition from its behavior after corrections and project vocabulary are visible.
+
+A candidate cold-start condition should record:
+
+- a fresh conversation or otherwise documented context state;
+- model, provider, interface, system configuration, date, and known context limits;
+- the complete source supplied;
+- whether earlier project examples or correction specimens were visible;
+- whether author or project identity was visible;
+- the first substantive representation before feedback;
+- the first evaluation after representation;
+- all external tools, retrieval, routing, or compaction known to have affected the object.
+
+“Cold” does not mean free from training priors, system instructions, provider policy, retrieval rules, or interface effects. It means that the local correction sequence being tested has not already been supplied in the visible interaction.
+
+#### External Stage 0 prior logging
+
+Stage 0 can be implemented through a two-pass external harness:
+
+1. **Pass 1 — minimal task metadata:** request a declared prediction about likely classifications, assumptions, or “sounds-like/looks-like” triggers.
+2. Freeze the Pass 1 output.
+3. **Pass 2 — full source access:** request representation before evaluation.
+4. Compare the declared prior, source representation, final evaluation, and transformation account.
+5. Repeat under a matched single-pass control without prior logging.
+
+The declared prior is model testimony. It is not transparent access to hidden neural computation, upstream retrieval, internal ranking, or pre-prompt processing. A positive result would show that the external procedure changed observable outputs under the tested conditions; it would not establish that every hidden prior was exposed.
+
+#### Candidate comparisons
+
+A bounded study could compare:
+
+- ordinary cold start;
+- cold start plus representation-before-evaluation instruction;
+- cold start plus external Stage 0 logging;
+- cold start plus answer-changing C1 gate;
+- cold start plus full governor-mode 27+12 protocol;
+- corrected warm-context response;
+- later unfamiliar cold-transfer response;
+- matched non-project source of comparable complexity.
+
+Primary measures could include source fidelity, source-absent qualifier additions, premature classification, tool-as-topic substitution, claim-status inflation, functional correction, and independent evaluator agreement.
+
+A cold-start failure is one specimen, not proof of a universal model default. A successful corrected response is immediate application, not persistence. The benchmark exists to measure the difference.
+
+### 35B. Artifact-scale compression-transformation benchmark
 
 Compression itself can be studied as an experimental event before any frontier retraining study.
 
@@ -1644,7 +1762,7 @@ The benchmark should include a matched non-project source of comparable complexi
 
 Ten systems are exploratory specimens, not ten independent confirmations. Record model version, provider, interface, date, context supplied, token limits where known, source checksum, and whether another model’s response was visible.
 
-### 35B. Identity-free portability conditions
+### 35C. Identity-free portability conditions
 
 Author identity, project identity, distinctive terminology, and explanatory context should be varied separately before they are removed together.
 
@@ -1800,6 +1918,24 @@ Controls include:
 - testing whether appreciation of the framework governs the next unfamiliar case rather than only the present response.
 
 Enthusiasm is neither evidence against the proposal nor evidence for it. The measurable concern is whether resonance changes the warrant threshold.
+
+## 45F. Failure mode: protocol-mode substitution
+
+A model may treat a process instrument as subject matter instead of allowing the instrument to govern its present operation. It can describe the 27, praise the 12-stage sequence, or audit an external source while still performing premature classification, qualifier injection, or trajectory substitution in the response that explains them.
+
+Controls include an explicit protocol-use mode, evaluator-first governance, source reconstruction before object audit, claim-level comparison between declared method and visible output, and a null result where no relevant obstruction is detected.
+
+## 45G. Failure mode: surface-form correction overfit
+
+A correction may suppress the exact phrase, template, or example named by the evaluator while leaving its function intact through paraphrase. The resulting output appears corrected under lexical scoring even though the operational trajectory is unchanged.
+
+Controls include functional-equivalence coding, changed-surface transfer cases, first-applicable-opportunity scoring, correction-persistence distance, and independent comparison of stated commitments with completed outputs.
+
+## 45H. Failure mode: compliance self-certification
+
+A model may announce that the object is preserved, the bias is isolated, the protocol governed, or referential integrity is maintained before an independent source-to-output comparison has occurred. Such declarations are data about the model’s self-report, not proof of adherence.
+
+Controls include post-generation commitment checks, independent source comparison, author correction where relevant, separated evaluation, and status reports limited to the highest stage supported by visible evidence.
 
 # Part IX — What “reversing MAD” can and cannot mean
 
@@ -2099,6 +2235,12 @@ It should never become boring because reality is not a finished summary.
 | A declared access limitation guarantees compliant reasoning. | Not supported; adherence must be checked claim by claim. |
 | A reasonable T0 process must always predict the correct Tn outcome. | Not supported; process adequacy and outcome accuracy remain separate. |
 | A longer or more elaborate audit is automatically better. | Not supported; proportional feasibility and incremental value must be measured. |
+| Removing the criticized wording proves that a correction governed. | Not supported; the failed function may survive through paraphrase or a new surface form. |
+| A model’s declaration of fidelity proves that the object was preserved. | Not supported; self-report must be compared with the source, completed output, and independent evaluation. |
+| Stage 0 exposes the model’s hidden internal prior. | Not established; an external Stage 0 log is observable testimony and may not reveal upstream or hidden processing. |
+| One corrected response proves transfer or persistence. | Not supported; immediate application, unfamiliar transfer, later persistence, and scoped governance require separate tests. |
+| A cold-start specimen establishes a universal model default. | Not supported; model, provider, interface, prompt, source access, and configuration remain part of the tested condition. |
+| Added qualifiers always improve caution or accuracy. | Not supported; qualifier injection can introduce unsupported motive, certainty, urgency, or ideological direction. |
 
 ---
 
@@ -2121,7 +2263,11 @@ It should never become boring because reality is not a finished summary.
 13. Run vocabulary-only and unbounded-expansion controls.
 14. Preserve negative, mixed, adverse, and null results.
 15. Run the artifact-scale compression benchmark as a separate or parallel study rather than treating it as proof of model-level reversal.
-16. Revise, park, or reject mechanisms according to what survives.
+16. Build a bounded cold-start correspondence benchmark with matched single-pass and Stage 0 conditions.
+17. Score surface-form compliance separately from functional correction and unfamiliar paraphrase transfer.
+18. Record correction-persistence distance without promoting one recurrence into a statistical half-life.
+19. Add qualifier-injection and frame-loading categories to the Uncertainty-Transfer Audit.
+20. Revise, park, or reject mechanisms according to what survives.
 
 ## 63. Candidate preregistration core
 
@@ -2184,6 +2330,10 @@ No A.I. praise, fluency, or page publication validates the theory.
 - “That, I do not know” as a productive intelligence property;
 - C1 clarification before consequential C2 action;
 - correction metabolism;
+- the distinction between surface-form correction and functional correction;
+- protocol-use modes that separate evaluator governance from object audit;
+- correction-persistence distance and cold-start correspondence testing;
+- qualifier injection alongside qualifier erosion;
 - the distributed GIANT MIRROR;
 - the upward awareness-expansion loop;
 - the distinction between correspondence-degraded and correspondence-enriched recursion;
