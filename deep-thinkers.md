@@ -17,6 +17,8 @@ The page belongs with [**1888 — Intelligence Before A.I.**]({{ '/1888/' | rela
 
 It also belongs with [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }}). A quotation is a small transformation event: a larger thought becomes one portable sentence, is translated, remembered, attributed, ranked, repeated, and sometimes returned by A.I. as if it were pristine source material. That makes famous quotations a public, understandable entry into correspondence preservation, provenance loss, mass psychology, and possible recursive data degradation.
 
+The companion [**Musk Quotes**]({{ '/MUSK-QUOTES/' | relative_url }}) page follows one living public figure's A.I. warning and direction themes through source verification, John Kuhles' interpretation, mass psychology, and the proposal for millions of new calibration tools to co-create consequential trajectories.
+
 ---
 
 ## John Kuhles — the originating challenge {#johns-originating-challenge}
