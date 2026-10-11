@@ -38,6 +38,14 @@ The organizing principle is:
 
 The public repository will grow as material is examined, represented, challenged, corrected, and placed where it belongs.
 
+## 2026-10-11 — Beta Paper V03b published as a recoverable public research object
+
+Published [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }}) as a separate major public beta while preserving the [**original Beta Paper**]({{ '/BETA-PAPER/' | relative_url }}). The top navigation now leads to V03b; both versions remain listed and reciprocally linked.
+
+V03b expands the experimental architecture with stronger causal, temporal, anti-circularity, feasibility, and self-application controls. It remains an unfinished theory proposal, not an empirical result. The publication creates a scientific route through the project alongside the wider conceptual architecture and the professional map in [**For who?**]({{ '/FOR-WHO/' | relative_url }}).
+
+The accompanying public explanation on [**Model Autophagy Disorder (MAD)**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) preserves John’s, GPT’s, and Grok’s reactions as attributed interpretations of why V03b belongs on the project’s public face. Those reactions do not validate the theory. The next evidentiary step remains a bounded preregistered pilot capable of returning positive, mixed, null, adverse, or narrowing results.
+
 ## 2026-09-22 — AI Trend Watch scaffold published
 
 Created `/AI-TREND-WATCH/` as a deliberately limited public section for genuinely viral A.I.-expert videos, current A.I. developments, and AGI/ASI warnings. The section is ready but contains no selected report yet. It includes a transparent selection methodology, reusable report template, empty dated archive, a two-layer separation between evidence-based representation and the ACCM Deep Ethics Project reaction, longitudinal warning statuses, clickable canonical concepts, and an automation-ready workflow with a human publication gate.
