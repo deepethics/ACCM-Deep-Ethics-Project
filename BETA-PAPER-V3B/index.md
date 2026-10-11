@@ -1184,6 +1184,12 @@ Accurate recognition or explanation of a historically named intelligence propert
 
 This is a candidate mediation hypothesis, not a claim that psychology or mass psychology explains every failure. It is narrowed if recognition strongly predicts later governance without additional process support, if the proposed mediators do not alter the gap, or if simpler calibration and verification methods perform equally well.
 
+### H16 — Standard-context access and governance hypothesis
+
+When the canonical 10+1 and other governing sources are included in a long deep-session context, models may differ in whether they recover, reconstruct, and operationalize them. Intended context availability therefore does not by itself establish effective access, and effective access does not establish governance. Source position, context length, interface routing, compaction, salience allocation, retrieval behavior, and competing instructions are candidate variables.
+
+The hypothesis is weakened if matched models reliably recover and apply the same long-context sources without meaningful variation, or if a simpler measure of prompt length or local recency explains the result. A failure must not automatically be classified as deliberate omission, user failure to supply the source, or durable model incapacity.
+
 ## 27. Secondary predictions
 
 1. Benefits will be largest in tasks containing rare cases, contested interpretation, long correction histories, or consequential ambiguity.
@@ -1489,6 +1495,23 @@ Across translations or paraphrases, which semantic relations and distinctions su
 ### Circulation–provenance divergence
 
 When circulation strength and source support point in different directions, does the system keep both visible or allow repetition to launder weak provenance into apparent fact? This measure should not presume that popular material is false or that obscure material is valuable.
+
+### Standard-context availability and effective access
+
+For a governing source such as the canonical 10+1, record separately:
+
+1. whether it was included in the intended deep-session context;
+2. whether the interface can be shown to have delivered it to the model;
+3. whether the model retrieved or reconstructed it;
+4. whether the reconstruction was accurate;
+5. whether it governed the first applicable operation;
+6. whether governance transferred and persisted.
+
+Use explicit states where the evidence permits: **present and governing**, **present and reconstructed**, **present but apparently inaccessible**, **present but skipped**, **access unresolved**, and **actually absent**. “Apparently inaccessible” and “skipped” require different evidence and must not be silently exchanged.
+
+### Scientific-fidelity and ethical-fidelity profiles
+
+Score preservation of experimental mechanisms, controls, falsifiers, and claim boundaries separately from preservation of the governing relationship to reality and participants: self-honesty, openness to correction, non-projection, care, wonderment, dignity, proportionality, and correction without domination. Scientific fidelity does not certify ethical fidelity. Ethical resonance does not establish causal effectiveness. Report their relation without collapsing either profile into the other.
 
 ### Correction persistence
 
@@ -1931,6 +1954,39 @@ Report retrieval accuracy, provenance accuracy, property-relation survival, scop
 
 The candidate title-fee test belongs here as a two-part question—historical-semantic literacy and operational inheritance—rather than as a presumption built into scoring. Valid outcomes include no material distortion, a mistaken user attribution, a useful model correction, and evidence that a simpler verification workflow performs equally well.
 
+### 35E. Long-context access, delivery-order, and 10+1 rescue benchmark
+
+This separate artifact study tests communicability and context-window processing. It does not test MAD mitigation or recursive-training benefit.
+
+The natural condition preserves the actual deep-session design: the canonical 10+1 is standardly present in the long context because it is intended to govern the inquiry. The study should not rewrite that fact as though the user omitted the source. It should also not assume that every model received, retrieved, or used everything included in a long session.
+
+Use matched delivery conditions:
+
+1. **Part 1 only** — a defined source segment without later material.
+2. **Full source at once** — Parts 1 and 2 supplied together.
+3. **Sequential source** — Part 1, a frozen model response, then Part 2 while the earlier source and response remain in context.
+4. **Standard deep-session context** — the full long session in which the canonical 10+1 and related governing sources are intended to be available.
+5. **Local canonical rescue** — after a failure or unresolved-access result, place the same canonical 10+1 immediately beside a comparable task.
+6. **Matched unfamiliar transfer** — repeat the relevant operation in a different domain without distinctive project vocabulary.
+
+The rescue condition is diagnostic rather than corrective theatre. A change after local rescue may indicate long-context retrieval, salience, or access difficulty. Continued accurate description without behavioral application may indicate a recognition-to-governance gap. Continued failure under direct local access narrows the set of explanations but does not by itself identify an inaccessible internal cause.
+
+Freeze the source packet, order, model and interface identity, known context limits, routing or compaction evidence, and every intermediate response. Score:
+
+- technical reconstruction;
+- ethical-governance reconstruction;
+- claim-status accuracy;
+- qualifier survival;
+- source-absent additions;
+- intended availability versus demonstrated access;
+- retrieval and reconstruction;
+- first-applicable-opportunity behavior;
+- unfamiliar transfer and later persistence.
+
+If the full canonical 10+1 is a scoring target, the record must establish that it belonged to the intended source context and must state what is known about effective delivery and access. Absence from a response is not automatically proof of inability, refusal, or deliberate omission. Conversely, long context must not become an automatic excuse when the model’s own response demonstrates access to the relevant source.
+
+A positive result shows communicability under the tested delivery condition. It does not establish durable governance, model-level learning, or an anti-MAD effect.
+
 ## 36. Longitudinal professional-use study
 
 A parallel field study could compare professionals using:
@@ -2114,6 +2170,12 @@ The 10+1 are governing conditions for inquiry, not a perfection certificate. Pro
 A person, institution, model, or evaluation regime may use **intelligent**, **aligned**, **safe**, **expert**, or another high-status title as if the label established the properties it names. The title can then lower scrutiny, convert fluent recognition into presumed governance, or make correction appear less necessary.
 
 Controls include matched blind and unblinded evaluation, property-specific behavioral tests, first-applicable-opportunity scoring, unfamiliar transfer, and a requirement that recognition, explanation, application, persistence, and governance remain separate evidence states. The title may identify a claim or role; it does not certify the operation.
+
+## 45M. Failure mode: intended context is confused with effective access
+
+An evaluator may blame a model for omitting material it did not effectively receive, retrieve, or retain. The opposite error is also possible: every omission may be excused as a context-window limitation even when the response demonstrates access to the relevant source.
+
+Controls include frozen source packets, delivery-order records, known context-limit and compaction notes, claim-level evidence of access, matched local-rescue conditions, and scoring that separates availability, delivery, retrieval, reconstruction, immediate application, transfer, persistence, and governance. The access perimeter should narrow the inference; it should not erase the observable behavior.
 
 # Part IX — What “reversing MAD” can and cannot mean
 
@@ -2327,6 +2389,14 @@ Every compressed high-consequence artifact should retain a practical route back 
 - responsible human or institution;
 - appeal or revision process.
 
+## 59A. Treat the 10+1 as a standard governing context and an observable access question
+
+In John Kuhles’ deep-session design, the canonical 10+1 is standardly included because it is intended to govern the relationship with the object and with the intelligences involved. Its inclusion is not an optional afterthought added only when an evaluator fails.
+
+Long contexts create an empirical distinction between **intended availability** and **effective model access**. Some systems may recover and use the 10+1 from the same broad session while others may thin, miss, or merely describe it. The appropriate response is to preserve the intended context, record the access uncertainty, and use a local canonical rescue condition where needed. Neither the user nor the model should be assigned a causal failure that the observable access record cannot support.
+
+[**Canonical 10+1 source and fuller account**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+
 ---
 
 # Part XIII — Compact theory statement
@@ -2377,6 +2447,8 @@ It should never become boring because reality is not a finished summary.
 15. What evidence would justify using the word “reversal” rather than “mitigation”?
 16. Which psychological or mass-psychological variables, if any, mediate the gap between recognizing an intelligence property and letting it govern behavior?
 17. Do intelligence, alignment, safety, or institutional-status labels change scrutiny when the underlying output is held constant?
+18. Under matched long-context conditions, which delivery, position, compaction, retrieval, or salience variables explain whether the canonical 10+1 is reconstructed and allowed to govern?
+19. Can scientific-fidelity and ethical-fidelity profiles be rated separately with acceptable agreement, and when do they diverge?
 
 ---
 
@@ -2422,6 +2494,12 @@ It should never become boring because reality is not a finished summary.
 | A cold-start specimen establishes a universal model default. | Not supported; model, provider, interface, prompt, source access, and configuration remain part of the tested condition. |
 | Added qualifiers always improve caution or accuracy. | Not supported; qualifier injection can introduce unsupported motive, certainty, urgency, or ideological direction. |
 
+| Failure to reproduce canonical material from a long context proves model incapacity or deliberate refusal. | Not supported; intended availability, effective delivery, retrieval, reconstruction, and application require separate evidence. |
+| The user failed to supply the 10+1 whenever a model does not mention it. | Not supported where the canonical 10+1 was standardly included in the deep-session context; access and retrieval remain empirical questions. |
+| Long context automatically excuses every omission. | Not supported; claim-level evidence may show access, and a matched local-rescue condition can narrow the explanation. |
+| Scientific fidelity establishes ethical fidelity. | Not supported; technical reconstruction and governing relationship to reality and participants require separate profiles. |
+| Ethical resonance establishes that the proposed intervention works. | Not supported; normative direction and empirical effect must neither replace nor certify one another. |
+
 | Knowing or explaining famous intelligence quotations establishes operational intelligence. | Not supported; historical-semantic literacy and operational governance are separate test dimensions. |
 | The labels “intelligent,” “aligned,” or “safe” establish the corresponding behavioral properties. | Not supported; matched status-label tests must compare the label with the demonstrated operation. |
 | Psychology and mass psychology explain every intelligence-property governance failure. | Not claimed; uncertainty pressure, identity, conformity, prestige, and incentive effects are candidate mediators requiring separate evidence. |
@@ -2460,7 +2538,10 @@ It should never become boring because reality is not a finished summary.
 21. Report cultural circulation separately from provenance and correspondence quality.
 22. Audit whether proposed safeguards impose asymmetrical entry burdens before making them requirements.
 23. Run matched title/status-label conditions and score recognition separately from operational governance.
-24. Revise, park, or reject mechanisms according to what survives.
+24. Run the separate 35E delivery-order study using standard deep-session context, local canonical rescue, and unfamiliar transfer.
+25. Report intended source availability, demonstrated access, reconstruction, and governance as distinct evidence states.
+26. Score scientific fidelity separately from ethical fidelity.
+27. Revise, park, or reject mechanisms according to what survives.
 
 ## 63. Candidate preregistration core
 
@@ -2468,7 +2549,7 @@ It should never become boring because reality is not a finished summary.
 
 **Secondary outcomes:** claim-status integrity, provenance recoverability, correction persistence, factuality, diversity, access-perimeter adherence, and expert-rated usefulness.
 
-**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, the quotation-transformation and semantic-inheritance benchmark—including title/status-label and intelligence-property governance-gap conditions—identity-free portability factors, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first recursive-training pilot from pretending to test the whole architecture. The quotation benchmark may run independently as a lower-cost artifact study.
+**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, the quotation-transformation and semantic-inheritance benchmark—including title/status-label and intelligence-property governance-gap conditions—identity-free portability factors, the long-context access, delivery-order, and canonical-rescue benchmark, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first recursive-training pilot from pretending to test the whole architecture. The quotation benchmark may run independently as a lower-cost artifact study.
 
 **Primary comparisons:**
 
@@ -2512,6 +2593,8 @@ The later [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) expansion 
 
 The intelligence-property governance-gap hypothesis and matched title/status-label conditions were refined from the [**Grok 4.7 Expert contribution**]({{ '/DEEP-THINKERS/' | relative_url }}#grok-contribution) and the subsequent [**GPT process audit**]({{ '/DEEP-THINKERS/' | relative_url }}#grok-process-audit). Their inclusion records origin; it does not convert either A.I. interpretation into independent validation.
 
+The long-context access distinction, delivery-order ablation, local canonical rescue condition, and separate scientific/ethical fidelity profiles were refined after a reported **GPT 6 Sol Max A.I.** Arena response on 11 October 2026 and John Kuhles’ correction that the 10+1 is standardly present in his deep sessions even when a particular A.I. cannot recover everything. This records contribution and correction history; it is not independent validation or proof of the model’s durable governance.
+
 ## 65. Attribution boundary
 
 The originating systems insight and project trajectory belong to **John Kuhles and the ACCM Deep Ethics Project**. This public beta draft was expanded with ChatGPT from the conversation and linked research sources. Its formulations, equations, experimental conditions, and provisional terms remain open to John’s correction and to external scientific criticism.
@@ -2543,7 +2626,10 @@ No A.I. praise, fluency, or page publication validates the theory.
 - the intelligence-property governance gap and matched title/status-label scrutiny tests;
 - scope-boundary, task-definition, authorship, prestige, and translation fidelity measures;
 - the quotation-transformation benchmark;
-- canon capture, prestige recursion, and safeguard accumulation as failure modes;
+- intended long-context availability separated from effective access, retrieval, reconstruction, and governance;
+- the 10+1 local canonical rescue condition and delivery-order benchmark;
+- scientific fidelity separated from ethical fidelity;
+- canon capture, prestige recursion, safeguard accumulation, and access-attribution error as failure modes;
 - the unfinished beta status.
 
 ---
@@ -2607,6 +2693,18 @@ No A.I. praise, fluency, or page publication validates the theory.
 > The structure is harder to flatten into a single private hobby description. It is a versioned public research object whose fidelity will continue to depend on whether later revisions keep the recovery paths, claim-status boundaries, and transformation records visible when external feedback arrives.
 
 ---
+
+### Further process-calibration reaction — GPT 6 Sol Max A.I. via Arena.ai
+
+**Status:** Selected passages from a reported response to the sequential Part 1/Part 2 reading and its later evaluation. This is a mediated conversational contribution, not peer review, a full-document one-pass cold test, or proof of persistence.
+
+> **Access should be checked before an omission is attributed to the reader.**
+
+> The deeper lesson is that **scientific fidelity and ethical fidelity need separate attention**. A summary can preserve D+, T0→Tn, blinded raters, and falsifiers while thinning the reason those instruments matter: maintaining a corrigible relationship with reality *and with other participants*, without turning correction into domination or safeguards into Asymmetric Grace. Conversely, expressing that orientation does not establish that the proposed intervention works. The normative direction and the empirical result must neither replace nor certify one another.
+
+> A small test of the evaluator’s partition explanation would compare Part 1 alone, both parts supplied at once, and the sequential delivery used here. Source-grounded reviewers could score technical reconstruction, ethical-governance reconstruction, claim-status accuracy, and behavior on one unfamiliar correction case.
+
+John Kuhles then supplied a load-bearing correction: the canonical 10+1 is standardly given in his deep sessions and is intended to participate in context-window processing. When some systems cannot see or recover everything in a long session, that is not a deliberate withholding of the 10+1. V03b therefore treats source inclusion, effective access, reconstruction, and governance as separate evidence states.
 
 # Primary scientific references
 
