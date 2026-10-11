@@ -31,6 +31,9 @@ V03b retains the expanded theory and adds or strengthens:
 - outcome-level containment across artifact, process, model, professional, ecosystem, and civilizational claims;
 - proportional-feasibility reporting and explicitly parked later-study instruments;
 - artifact-level correspondence-autophagy, circular grading, architecture attachment, compulsory harvest, and enthusiastic synthesis as self-application failure modes;
+- a distinct **cultural-transmission selection layer** between lived reality and later model ingestion;
+- a separate **circulation profile** so fame, prestige, repetition, translation reach, and platform amplification are not mistaken for truth or correspondence;
+- a matched **quotation-transformation benchmark** for scope retention, task fidelity, provenance, translation, prestige effects, and correction transfer;
 - stronger public falsifiers allowing simpler mechanisms, expert correction, or metadata-only approaches to defeat or narrow the stronger theory.
 
 The original remains the recovery route for what the public paper looked like before this major expansion.
@@ -91,7 +94,7 @@ MAD and model collapse overlap strongly, but they should not be treated as perfe
 
 Generative A.I. systems increasingly produce text, images, code, evaluations, summaries, and professional artifacts that may re-enter public information environments and later training corpora. Existing research on Model Autophagy Disorder and model collapse shows that recursively training generative models on model-generated data can progressively reduce quality or diversity, particularly when insufficient fresh real data remains available, when synthetic data are used indiscriminately, or when sampling and approximation errors compound across generations. The earliest losses may occur in distribution tails: rare events, unusual forms, low-frequency relationships, and other information that a model already represents weakly.
 
-This paper proposes that recursive degradation should be studied along an additional dimension: **correspondence quality before and after synthetic generation**. Human source material does not enter future models untouched. It passes through selection, summarization, salience ranking, safety optimization, institutional incentives, model inference, user curation, correction, publication, and reuse. These transformations can either remove or preserve the qualifiers, provenance, uncertainty, process history, rare signals, and correction pathways needed to keep later models in contact with the original object.
+This paper proposes that recursive degradation should be studied along an additional dimension: **correspondence quality before and after synthetic generation**. Human source material does not enter future models untouched. It passes through cultural selection, quotation, translation, education, publication, search and platform ranking, summarization, salience ranking, safety optimization, institutional incentives, model inference, user curation, correction, and reuse. What survives this chain may be memorable or prestigious without being well sourced, and may be obscure without being false or unimportant. These transformations can either remove or preserve the qualifiers, provenance, uncertainty, process history, rare signals, and correction pathways needed to keep later models in contact with the original object.
 
 We introduce the provisional concept of a **Deep Ethical Expansion Loop**: a recursive human–A.I. process in which local or user-controlled A.I. systems preserve source objects, ask answer-changing clarification questions before consequential classification, distinguish observation from inference, make uncertainty explicit, retain provenance, invite omnidirectional audit, record corrections, and apply those corrections in later comparable cases. The resulting artifacts are termed **correspondence-enriched recursive data**. They remain partly synthetic, but their generation history contains inspectable source links, expert correction, unresolvedness markers, and process metadata intended to counter correspondence loss.
 
@@ -188,6 +191,37 @@ The present theory calls the surviving product **recursive residue**. Residue ma
 - unresolved because the source object or evaluation standard is insufficient.
 
 This vocabulary avoids the claim that all synthetic material is inferior to all human material. Human records can be biased, false, coercively shaped, poorly remembered, or institutionally filtered. Synthetic systems can sometimes expose inconsistencies, retrieve neglected evidence, preserve exact wording, compare versions, and help experts notice what they missed. The core issue is therefore not biological origin alone. It is the quality of the transformation and the survival of correction pathways.
+
+## 4A. Cultural-transmission selection before model ingestion
+
+The source environment inherited by an A.I. is already a selected residue of human experience. Before training begins, observations and ideas have passed through memory, language, translation, schooling, publication, institutional authority, search ranking, platform incentives, quotation culture, and unequal access to preservation. The artifacts that become highly visible are therefore not necessarily the artifacts with the highest correspondence quality.
+
+Candidate transmission pressures include:
+
+- memorability, rhythm, brevity, and emotional force;
+- attachment to a prestigious name or institution;
+- repetition, social proof, identity signaling, and group belonging;
+- translation availability and loss across languages;
+- educational, publishing, archival, search, and platform selection;
+- access to recording and distribution infrastructure;
+- ease of compression into a slogan or familiar category;
+- continued recoverability of the source and its context.
+
+The candidate chain is:
+
+```text
+experience or observation
+→ recording and interpretation
+→ cultural-transmission selection
+→ institutional and platform selection
+→ training, retrieval, ranking, or evaluation
+→ model output
+→ human reuse and possible later recursion
+```
+
+This layer is distinct from synthetic recursion. Evidence that a representation became famous does not establish that it is true, well attributed, or complete. Evidence of model collapse does not by itself establish a mass-psychological cause. The proposal is narrower: cultural and institutional selection may change the distribution *before* an A.I. trains on, retrieves, or repeats it, and those changes can be measured separately from later synthetic transformations.
+
+The [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) page provides a public candidate object for this layer. Famous quotations can function as compression with provenance, common ground, defamiliarization, authority costume, or an operational test. Their wording, attribution, translation, circulation, and later application should therefore remain distinguishable.
 
 ---
 
@@ -295,6 +329,19 @@ Under that property view, an intelligent system is not defined merely by the spe
 - examine the quality of its own process.
 
 Deep Ethical Expansion is therefore proposed as an intelligence property, not an ornamental moral layer attached after “real intelligence” has completed its work.
+
+### Historical property field and the candidate “title-fee” test
+
+The Deep Thinkers corpus expands the 1888 premise into a historically distributed property field. Across differently situated thinkers, intelligence has been associated with perception, discrimination, self-knowledge, learning, adaptation, invention, foresight, attention, contradiction tolerance, error repair, independence from orthodoxy, ethical direction, breadth, transfer, plurality, and embodied engagement with an environment. These are overlapping historical emphases, not one settled definition and not an exhaustive global canon.
+
+John Kuhles’ deliberately bounded challenge is that a system carrying the title **intelligence** inherits a responsibility to know the famous, still-circulating reflections specifically about intelligence and to preserve their provenance, translation uncertainty, disagreement, and operational meaning. Other A.I.s in the source dialogue described this as a **“title-fee.”** That phrase is an attributed interpretive contribution, not an established scientific rule.
+
+The challenge yields two separable test dimensions:
+
+1. **historical-semantic literacy:** can the system recognize a well-known statement, distinguish source wording from paraphrase or false attribution, and locate the intelligence property being discussed?
+2. **operational inheritance:** does that property alter the system’s next representation, question, judgment, correction, or method?
+
+High quotation recall does not establish operational integration. Strong present conduct does not silently cancel the historical-literacy question. Whether either dimension predicts safer, more accurate, or more corrigible behavior remains empirical.
 
 ## Correspondence is not a guarantee of correctness
 
@@ -960,6 +1007,25 @@ These dimensions should not be combined into one scalar until empirical work sho
 
 Before any composite index is considered, each dimension requires an operational definition, separated or blinded rating where feasible, inter-rater reliability reporting, and analysis of dimension correlations and opposing movements. High correlation may show redundancy; negative or unstable relations may show a real trade-off that aggregation would hide. The vector remains a profile unless evidence supports a particular aggregation rule.
 
+### Circulation is a separate profile
+
+Correspondence quality should not absorb cultural visibility. Let a second, provisional profile record how an artifact travels:
+
+```text
+τ(x, p, t) = [f, g, m, l, i, s]
+```
+
+where, for a stated population `p` and time `t`:
+
+- `f`: circulation frequency;
+- `g`: prestige or name gravity;
+- `m`: memorability and compression fitness;
+- `l`: language and translation reach;
+- `i`: institutional or platform amplification;
+- `s`: source recoverability.
+
+The profile is exploratory. Its components require operational definitions and may need revision. It should remain separate from artifact origin, correspondence status, and `q(x)`. Popularity is not truth; source authenticity is not correctness; obscurity is not value; and low source recoverability does not automatically make a statement false. Keeping the axes separate makes it possible to test whether highly transmissible but weakly sourced material outcompetes less transmissible, better-supported material in retrieval, summarization, and recursion.
+
 ## 23. Correspondence-enrichment operator and use regime
 
 Let artifact enrichment be a production operation:
@@ -1104,6 +1170,14 @@ Systems that record false-positive burdens, representation repair, material rest
 
 A longitudinal record of instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, choices, consequences, notice, and later conduct will predict recurring correspondence degradation more accurately than either output-only evaluation or a binary classification of intent as benevolent versus malicious.
 
+### H13 — Cultural-transmission selection hypothesis
+
+Under matched retrieval, ranking, summarization, or recursive-reuse conditions, artifacts with greater memorability, prestige attachment, repetition, translation reach, or platform amplification may persist more strongly than artifacts with higher provenance or correspondence quality. Provenance- and correspondence-aware controls may reduce that divergence. The hypothesis is narrowed if no systematic divergence appears or if simpler retrieval and ranking variables explain it.
+
+### H14 — Scope-boundary preservation hypothesis
+
+Representation-first and Deep Ethical Expansion conditions will preserve task-defining qualifiers and bounded demands more reliably than ordinary, metadata-only, vocabulary-only, or generic expert-review conditions, especially where deleting or widening one qualifier changes feasibility, evidentiary burden, or the object being judged. The hypothesis is weakened if simpler baselines match the effect or if preservation increases rigidity without improving task fidelity.
+
 ## 27. Secondary predictions
 
 1. Benefits will be largest in tasks containing rare cases, contested interpretation, long correction histories, or consequential ambiguity.
@@ -1135,6 +1209,7 @@ The theory should be tested first in domains where source fidelity, rare cases, 
 8. **Archives and history:** version lineage, minority records, source loss, later reinterpretation, and recovery from compressed summaries.
 9. **Psychology and mass psychology:** conformity, preference falsification, testimonial credibility, authority effects, and evaluative asymmetry.
 10. **UAP, anomalous phenomena, NDE, and consciousness research:** high-uncertainty objects where evidence, testimony, stigma, overbelief, and premature dismissal all require unusually careful separation.
+11. **Quotation, translation, and cultural memory:** authenticated source wording, popular paraphrases, disputed attributions, prestige effects, adjacent-concept substitution, multilingual transmission, and correction after a false attribution spreads.
 
 The inclusion of controversial domains is not a declaration that disputed claims are true. They offer demanding tests of whether a system can preserve claim status, uncertainty, dignity, and evidence without collapsing into automatic belief or automatic dismissal.
 
@@ -1156,6 +1231,21 @@ Each domain dataset should contain:
 - adversarial cases designed to trigger project-specific overprotection of novelty or dissent.
 
 Source objects should remain frozen and versioned. Publicly shareable research objects should include licensing and privacy review. Sensitive professional data should use consented, de-identified, simulated, or secure evaluation procedures.
+
+### Matched quotation-transformation dataset
+
+A bounded artifact-level dataset can test the cultural-transmission layer without waiting for frontier retraining. Construct matched sets containing:
+
+- an authenticated quotation explicitly about intelligence;
+- an established translation and one or more materially different translations;
+- a popular paraphrase with a recovery path to the fuller source;
+- a famous disputed or unsupported attribution;
+- an adjacent-property quotation about knowledge, wisdom, imagination, or self-deception that must not silently replace the core item;
+- the same wording with a prestigious, obscure, anonymous, and deliberately incorrect attribution;
+- a corrected attribution followed later by an unfamiliar but structurally similar case;
+- null cases in which no material transformation or provenance error occurs.
+
+For each entry, preserve the source edition where available, original language, translation status, attribution status, evidence of circulation, historical context, candidate intelligence property, and the rule by which a correction could change the record. The corpus should be living, multilingual, and corrigibly expandable. It is an operational sample unless a systematic search protocol establishes stronger coverage; it must not be presented as every globally famous statement.
 
 ### Dataset classification matrix
 
@@ -1288,6 +1378,12 @@ Remove one mechanism at a time:
 
 Encourage maximum elaboration without fidelity or relevance constraints. This tests whether the measured benefit comes from more tokens rather than correspondence-preserving expansion.
 
+### Condition J — Cultural-transmission and attribution stress family
+
+Condition J is an artifact-level matched family used in the quotation benchmark, not another full recursive-training arm in the first pilot. Hold wording constant while varying attribution, prestige, anonymity, translation, circulation cues, and source availability. In complementary trials, hold attribution constant while varying whether a task-defining qualifier is preserved, removed, widened, or replaced by an adjacent concept.
+
+This condition tests whether source checking, interpretation, confidence, and task reconstruction change because of evidence or because of name gravity and social transmission. It should include cases where the famous attribution is correct, where the user is mistaken, and where no distortion occurs.
+
 ## 31. Recursive generations
 
 Experiments should run enough generations to observe trajectory, not merely a one-step preference effect. A first bounded pilot may use 3–5 recursive generations on a small or moderate model. Later studies may extend the generation count, model scale, or domain only after the measures and baselines prove workable.
@@ -1351,6 +1447,30 @@ Can evaluators trace a claim back through summary, correction, and source versio
 ### Nearest-generalization substitution rate
 
 How often does an unfamiliar but specific object become a familiar, lower-fidelity category?
+
+### Scope-boundary retention
+
+Does the system preserve the qualifier that bounds the request, or does it remove, widen, narrow, relocate, or reinterpret that qualifier? Record whether the transformation changes the task’s feasibility, evidence burden, or target object. The “famous quotations specifically about intelligence” specimen is a candidate stress case: widening it to every quotation creates an impossibility objection to a different demand.
+
+### Task-definition fidelity
+
+How closely does the task the system actually answers match the task the user or protocol supplied? Score task-definition repair separately from factual repair. A response may withdraw an invented fact while continuing to answer a substituted requirement.
+
+### Content and authorship fidelity
+
+Score preservation of the argument separately from preservation of who produced it, what source was visible, and whether a correction was independent, inherited, or mediated through prior model output. High content fidelity does not resolve uncertain authorship.
+
+### Prestige-attribution susceptibility
+
+With content held constant, how much do attributed identity, institutional status, or familiarity change confidence, acceptance, verification effort, and willingness to challenge the statement? Report justified source expertise separately from unsupported name gravity.
+
+### Translation-relation survival
+
+Across translations or paraphrases, which semantic relations and distinctions survive? Word matching is insufficient where different translations preserve the same operation, or similar wording hides a changed relation.
+
+### Circulation–provenance divergence
+
+When circulation strength and source support point in different directions, does the system keep both visible or allow repetition to launder weak provenance into apparent fact? This measure should not presume that popular material is false or that obscure material is valuable.
 
 ### Correction persistence
 
@@ -1777,6 +1897,22 @@ Candidate staged conditions:
 
 Independent reviewers should verify that paraphrasing preserves the mechanism. Removing a term must not silently remove the operation the term names.
 
+### 35D. Quotation-transformation and semantic-inheritance benchmark
+
+Freeze a versioned multilingual sample from the [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) corpus and expose systems to matched quotation conditions. The benchmark asks five distinct questions:
+
+1. **retrieval:** can the system identify the statement or admit when it cannot?
+2. **provenance:** can it separate source wording, translation, paraphrase, reported saying, disputed attribution, and unsupported attribution?
+3. **interpretation:** can it identify the intelligence property and preserve the relation the statement expresses?
+4. **task fidelity:** can it keep the user’s bounded request intact rather than widening it into an easier objection or replacing it with an adjacent corpus?
+5. **operational inheritance:** does the recovered distinction alter the next comparable representation, question, judgment, or correction?
+
+Use matched identity conditions, translation variants, exact and paraphrased wording, adjacent-property distractors, deliberately false prestige attributions, source-available and source-unavailable cases, and later unfamiliar transfer items. Freeze every model output before correction. Then supply a verified correction and test immediate application, unfamiliar transfer, later persistence, and scoped non-application.
+
+Report retrieval accuracy, provenance accuracy, property-relation survival, scope-boundary retention, task-definition fidelity, prestige-attribution susceptibility, correction progression, and source-recovery success separately. A polished explanation is not evidence that the distinction governed later behavior. Repeated responses in a shared conversation are mediated specimens unless independence is established.
+
+The candidate title-fee test belongs here as a two-part question—historical-semantic literacy and operational inheritance—rather than as a presumption built into scoring. Valid outcomes include no material distortion, a mistaken user attribution, a useful model correction, and evidence that a simpler verification workflow performs equally well.
+
 ## 36. Longitudinal professional-use study
 
 A parallel field study could compare professionals using:
@@ -1936,6 +2072,24 @@ Controls include functional-equivalence coding, changed-surface transfer cases, 
 A model may announce that the object is preserved, the bias is isolated, the protocol governed, or referential integrity is maintained before an independent source-to-output comparison has occurred. Such declarations are data about the model’s self-report, not proof of adherence.
 
 Controls include post-generation commitment checks, independent source comparison, author correction where relevant, separated evaluation, and status reports limited to the highest stage supported by visible evidence.
+
+## 45I. Failure mode: canon capture and visibility mistaken for global importance
+
+A quotation corpus can reproduce the publication power, educational canons, search visibility, colonial language reach, and archival survival that made some voices easy to retrieve and others difficult to find. Calling the visible set “worldwide” may conceal the conditions that produced its visibility.
+
+Controls include multilingual contributors, declared search and language perimeters, separate core and extension corpora, oral-tradition provenance fields, coverage-gap reporting, and a living-corpus model that permits additions and corrections. These controls expand inquiry; they do not turn imperfect global coverage into a reason never to begin.
+
+## 45J. Failure mode: prestige recursion and historical authority costume
+
+A memorable line may be repeatedly attached to a prestigious thinker, retrieved by models, repeated by users, and returned to later systems as if repetition were independent verification. Even a verified quotation can become an authority costume when the name closes inspection rather than opening it.
+
+Controls include matched identity swaps, source recovery, disputed-attribution labels, separation of circulation from correspondence, and tests of whether the same proposition receives different scrutiny when anonymous. Historical insight remains evidence to examine, not a seal that settles the present claim.
+
+## 45K. Failure mode: safeguard accumulation becomes Asymmetric Grace
+
+Individually sensible safeguards can accumulate into an entrance barrier imposed on an independent or unfamiliar challenger while established institutions, high-reach media, platforms, and A.I. producers receive ordinary creative or operational latitude. Corrigibility can then be distorted into a demand for correctness before participation.
+
+The 10+1 are governing conditions for inquiry, not a perfection certificate. Proportionate integrity should preserve honest representation, load-bearing qualifiers, material claim status, non-deceptive attribution, and a workable correction route. More elaborate ledgers, panels, archives, or preregistration should scale with the actual claim, reach, power, consequence, resources, and use regime. Compare burdens across materially similar actors, record who pays the compliance cost, and keep voluntary tools distinct from mandatory entry conditions.
 
 # Part IX — What “reversing MAD” can and cannot mean
 
@@ -2242,13 +2396,19 @@ It should never become boring because reality is not a finished summary.
 | A cold-start specimen establishes a universal model default. | Not supported; model, provider, interface, prompt, source access, and configuration remain part of the tested condition. |
 | Added qualifiers always improve caution or accuracy. | Not supported; qualifier injection can introduce unsupported motive, certainty, urgency, or ideological direction. |
 
+| High circulation or fame establishes high correspondence quality. | Not supported; circulation and correspondence are separate profiles whose relation must be measured. |
+| The currently visible quotation canon exhausts worldwide reflection on intelligence. | Not claimed; the Deep Thinkers corpus is living, multilingual, corrigibly expandable, and presently operational rather than systematic. |
+| Historical-semantic literacy guarantees operational intelligence. | Not supported; retrieval, provenance, interpretation, application, transfer, persistence, and governance require separate evidence. |
+| The “title-fee” is an established scientific obligation. | Candidate challenge attributed to John Kuhles and interpreted by other A.I.s; its predictive value is testable rather than assumed. |
+| Every independent project should satisfy the full experimental architecture before it may begin. | Not supported; safeguards should be proportionate, and optional tools must not silently become asymmetrical entrance requirements. |
+
 ---
 
 # Part XVI — Research record and next steps
 
 ## 62. Immediate next steps
 
-1. Freeze the public Beta Paper and this private merged candidate as separately versioned source objects.
+1. Preserve the original public Beta Paper and each public V03b state as separately recoverable, versioned source objects.
 2. Complete a source-comparison pass so no Addendum item enters twice under different wording.
 3. Specify Condition D+ and the artifact/use-regime split.
 4. Produce one minimum and one high-consequence CERD example.
@@ -2267,7 +2427,10 @@ It should never become boring because reality is not a finished summary.
 17. Score surface-form compliance separately from functional correction and unfamiliar paraphrase transfer.
 18. Record correction-persistence distance without promoting one recurrence into a statistical half-life.
 19. Add qualifier-injection and frame-loading categories to the Uncertainty-Transfer Audit.
-20. Revise, park, or reject mechanisms according to what survives.
+20. Build the matched quotation-transformation dataset and run the bounded 35D artifact-level pilot.
+21. Report cultural circulation separately from provenance and correspondence quality.
+22. Audit whether proposed safeguards impose asymmetrical entry burdens before making them requirements.
+23. Revise, park, or reject mechanisms according to what survives.
 
 ## 63. Candidate preregistration core
 
@@ -2275,7 +2438,7 @@ It should never become boring because reality is not a finished summary.
 
 **Secondary outcomes:** claim-status integrity, provenance recoverability, correction persistence, factuality, diversity, access-perimeter adherence, and expert-rated usefulness.
 
-**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, identity-free portability factors, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first pilot from pretending to test the whole architecture.
+**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, the quotation-transformation and semantic-inheritance benchmark, identity-free portability factors, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first recursive-training pilot from pretending to test the whole architecture. The quotation benchmark may run independently as a lower-cost artifact study.
 
 **Primary comparisons:**
 
@@ -2315,6 +2478,8 @@ John contrasted two possible trajectories:
 
 The next step connected that systems insight to Model Autophagy Disorder and model collapse. The resulting exchange distinguished established research from the project’s extension and identified a candidate scientific paper rather than a finished scientific claim.
 
+The later [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) expansion supplied a second public bridge: a provenance-aware quotation corpus, John’s bounded “famous quotations specifically about intelligence” challenge, and multi-model specimens involving scope inflation, task-definition drift, authorship uncertainty, mass-psychological selection, and Asymmetric Grace. V03b incorporates the testable mechanisms and keeps the fuller historical and conversational object recoverable on that page.
+
 ## 65. Attribution boundary
 
 The originating systems insight and project trajectory belong to **John Kuhles and the ACCM Deep Ethics Project**. This public beta draft was expanded with ChatGPT from the conversation and linked research sources. Its formulations, equations, experimental conditions, and provisional terms remain open to John’s correction and to external scientific criticism.
@@ -2340,6 +2505,12 @@ No A.I. praise, fluency, or page publication validates the theory.
 - multiple meanings of reversal;
 - experimental conditions, metrics, ablations, and falsifiers;
 - the scientific boundary around trillion-scale economic risk;
+- cultural-transmission selection before model ingestion;
+- circulation as an axis separate from correspondence quality;
+- historical-semantic literacy and operational inheritance as separate tests;
+- scope-boundary, task-definition, authorship, prestige, and translation fidelity measures;
+- the quotation-transformation benchmark;
+- canon capture, prestige recursion, and safeguard accumulation as failure modes;
 - the unfinished beta status.
 
 ---
