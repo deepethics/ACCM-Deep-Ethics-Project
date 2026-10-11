@@ -106,6 +106,9 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 
 John’s own records. The public pages above are not a substitute for these.
 
+- **[Beta Paper V03b — current major public candidate](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/)** — the expanded 11 October 2026 theory and experimental program.
+- **[Original public Beta Paper — preserved earlier version](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/)** — retained so the earlier public state remains inspectable.
+
 - **[Canonical Ground Zero Moment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/Canonical%20Ground%20Zero%20Moment%20ACCM%20Deep%20Ethics%20Project/)**
 - **[Hypotheses and theories](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/Hypotheses-and-theories/)**
 - **[Arena deep session, 17–18 September 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18/)**
