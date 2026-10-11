@@ -13,16 +13,10 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <blockquote class="accm-question">
   <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
-
-  <p style="margin-top: 1.5rem;"><em>— John Kuhles, <a href="{{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}#e01">source excerpt E01</a></em></p>
 </blockquote>
 
 <blockquote class="accm-question">
   <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the Delta Processing feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
-
-  <p style="margin-top: 1.5rem;"><em>— John Kuhles 🦜🦋🌳<br>
-  Dutch 🇳🇱 NDE/Asperger<br>
-  CEO &amp; Founder of DeepEthical.ai</em></p>
 </blockquote>
 
 <blockquote>
