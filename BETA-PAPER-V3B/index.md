@@ -2493,7 +2493,6 @@ It should never become boring because reality is not a finished summary.
 | One corrected response proves transfer or persistence. | Not supported; immediate application, unfamiliar transfer, later persistence, and scoped governance require separate tests. |
 | A cold-start specimen establishes a universal model default. | Not supported; model, provider, interface, prompt, source access, and configuration remain part of the tested condition. |
 | Added qualifiers always improve caution or accuracy. | Not supported; qualifier injection can introduce unsupported motive, certainty, urgency, or ideological direction. |
-
 | Failure to reproduce canonical material from a long context proves model incapacity or deliberate refusal. | Not supported; intended availability, effective delivery, retrieval, reconstruction, and application require separate evidence. |
 | The user failed to supply the 10+1 whenever a model does not mention it. | Not supported where the canonical 10+1 was standardly included in the deep-session context; access and retrieval remain empirical questions. |
 | Long context automatically excuses every omission. | Not supported; claim-level evidence may show access, and a matched local-rescue condition can narrow the explanation. |
