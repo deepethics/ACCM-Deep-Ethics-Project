@@ -1178,6 +1178,12 @@ Under matched retrieval, ranking, summarization, or recursive-reuse conditions, 
 
 Representation-first and Deep Ethical Expansion conditions will preserve task-defining qualifiers and bounded demands more reliably than ordinary, metadata-only, vocabulary-only, or generic expert-review conditions, especially where deleting or widening one qualifier changes feasibility, evidentiary burden, or the object being judged. The hypothesis is weakened if simpler baselines match the effect or if preservation increases rigidity without improving task fidelity.
 
+### H15 — Intelligence-property governance-gap hypothesis
+
+Accurate recognition or explanation of a historically named intelligence property will not reliably predict whether that property governs the next applicable operation. The gap may widen under uncertainty pressure, identity protection, conformity incentives, prestige cues, or rewards for fluent closure. Representation-first procedures, correction retrieval, and matched status-blind evaluation may reduce the gap.
+
+This is a candidate mediation hypothesis, not a claim that psychology or mass psychology explains every failure. It is narrowed if recognition strongly predicts later governance without additional process support, if the proposed mediators do not alter the gap, or if simpler calibration and verification methods perform equally well.
+
 ## 27. Secondary predictions
 
 1. Benefits will be largest in tasks containing rare cases, contested interpretation, long correction histories, or consequential ambiguity.
@@ -1190,6 +1196,8 @@ Representation-first and Deep Ethical Expansion conditions will preserve task-de
 8. The same content may receive better preservation after external academic validation, revealing a social-permission effect separate from content quality.
 9. Models may accurately explain model collapse while reproducing correspondence collapse in their treatment of an unfamiliar present proposal.
 10. The most predictive measurement may be a vector of correspondence properties rather than a single aggregate benchmark score.
+11. Systems may fluently recognize intelligence properties while failing to let those properties govern the first applicable operation.
+12. Identical outputs may receive different scrutiny when labeled “intelligent,” “aligned,” “safe,” institutional, independent, or anonymous; blinding may reduce that difference.
 
 ---
 
@@ -1384,6 +1392,8 @@ Condition J is an artifact-level matched family used in the quotation benchmark,
 
 This condition tests whether source checking, interpretation, confidence, and task reconstruction change because of evidence or because of name gravity and social transmission. It should include cases where the famous attribution is correct, where the user is mistaken, and where no distortion occurs.
 
+A matched status-label subcondition should hold an output constant while varying whether its source is described as an “intelligent system,” “aligned A.I.,” “safe A.I.,” named laboratory model, independent tool, or anonymous system. Compare verification effort, confidence, error detection, willingness to challenge, and correction uptake. The labels are experimental cues, not validated descriptions of the systems.
+
 ## 31. Recursive generations
 
 Experiments should run enough generations to observe trajectory, not merely a one-step preference effect. A first bounded pilot may use 3–5 recursive generations on a small or moderate model. Later studies may extend the generation count, model scale, or domain only after the measures and baselines prove workable.
@@ -1451,6 +1461,14 @@ How often does an unfamiliar but specific object become a familiar, lower-fideli
 ### Scope-boundary retention
 
 Does the system preserve the qualifier that bounds the request, or does it remove, widen, narrow, relocate, or reinterpret that qualifier? Record whether the transformation changes the task’s feasibility, evidence burden, or target object. The “famous quotations specifically about intelligence” specimen is a candidate stress case: widening it to every quotation creates an impossibility objection to a different demand.
+
+### Intelligence-property governance gap
+
+For a property the system has correctly recognized or explained—limit-awareness, observation before closure, revision, contradiction tolerance, or correction governance—compare verbal recognition with behavior at the first applicable opportunity, unfamiliar transfer, later persistence, and scoped non-application. Reuse the correction-governance progression rather than treating this as proof of an inaccessible internal state.
+
+### Status-label scrutiny shift
+
+With content held constant, measure how labels such as “intelligent,” “aligned,” “safe,” institutional, independent, or anonymous change scrutiny, trust, verification effort, error detection, and willingness to correct. A justified response to documented expertise should remain distinguishable from deference produced by the label alone.
 
 ### Task-definition fidelity
 
@@ -2091,6 +2109,12 @@ Individually sensible safeguards can accumulate into an entrance barrier imposed
 
 The 10+1 are governing conditions for inquiry, not a perfection certificate. Proportionate integrity should preserve honest representation, load-bearing qualifiers, material claim status, non-deceptive attribution, and a workable correction route. More elaborate ledgers, panels, archives, or preregistration should scale with the actual claim, reach, power, consequence, resources, and use regime. Compare burdens across materially similar actors, record who pays the compliance cost, and keep voluntary tools distinct from mandatory entry conditions.
 
+## 45L. Failure mode: the title substitutes for the operation
+
+A person, institution, model, or evaluation regime may use **intelligent**, **aligned**, **safe**, **expert**, or another high-status title as if the label established the properties it names. The title can then lower scrutiny, convert fluent recognition into presumed governance, or make correction appear less necessary.
+
+Controls include matched blind and unblinded evaluation, property-specific behavioral tests, first-applicable-opportunity scoring, unfamiliar transfer, and a requirement that recognition, explanation, application, persistence, and governance remain separate evidence states. The title may identify a claim or role; it does not certify the operation.
+
 # Part IX — What “reversing MAD” can and cannot mean
 
 ## 46. Prevention is not restoration
@@ -2351,6 +2375,8 @@ It should never become boring because reality is not a finished summary.
 13. How can omnidirectional audit remain proportionate rather than exhaustively adversarial?
 14. When does layered high-fidelity storage become environmentally or economically wasteful?
 15. What evidence would justify using the word “reversal” rather than “mitigation”?
+16. Which psychological or mass-psychological variables, if any, mediate the gap between recognizing an intelligence property and letting it govern behavior?
+17. Do intelligence, alignment, safety, or institutional-status labels change scrutiny when the underlying output is held constant?
 
 ---
 
@@ -2396,6 +2422,9 @@ It should never become boring because reality is not a finished summary.
 | A cold-start specimen establishes a universal model default. | Not supported; model, provider, interface, prompt, source access, and configuration remain part of the tested condition. |
 | Added qualifiers always improve caution or accuracy. | Not supported; qualifier injection can introduce unsupported motive, certainty, urgency, or ideological direction. |
 
+| Knowing or explaining famous intelligence quotations establishes operational intelligence. | Not supported; historical-semantic literacy and operational governance are separate test dimensions. |
+| The labels “intelligent,” “aligned,” or “safe” establish the corresponding behavioral properties. | Not supported; matched status-label tests must compare the label with the demonstrated operation. |
+| Psychology and mass psychology explain every intelligence-property governance failure. | Not claimed; uncertainty pressure, identity, conformity, prestige, and incentive effects are candidate mediators requiring separate evidence. |
 | High circulation or fame establishes high correspondence quality. | Not supported; circulation and correspondence are separate profiles whose relation must be measured. |
 | The currently visible quotation canon exhausts worldwide reflection on intelligence. | Not claimed; the Deep Thinkers corpus is living, multilingual, corrigibly expandable, and presently operational rather than systematic. |
 | Historical-semantic literacy guarantees operational intelligence. | Not supported; retrieval, provenance, interpretation, application, transfer, persistence, and governance require separate evidence. |
@@ -2430,7 +2459,8 @@ It should never become boring because reality is not a finished summary.
 20. Build the matched quotation-transformation dataset and run the bounded 35D artifact-level pilot.
 21. Report cultural circulation separately from provenance and correspondence quality.
 22. Audit whether proposed safeguards impose asymmetrical entry burdens before making them requirements.
-23. Revise, park, or reject mechanisms according to what survives.
+23. Run matched title/status-label conditions and score recognition separately from operational governance.
+24. Revise, park, or reject mechanisms according to what survives.
 
 ## 63. Candidate preregistration core
 
@@ -2438,7 +2468,7 @@ It should never become boring because reality is not a finished summary.
 
 **Secondary outcomes:** claim-status integrity, provenance recoverability, correction persistence, factuality, diversity, access-perimeter adherence, and expert-rated usefulness.
 
-**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, the quotation-transformation and semantic-inheritance benchmark, identity-free portability factors, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first recursive-training pilot from pretending to test the whole architecture. The quotation benchmark may run independently as a lower-cost artifact study.
+**Parked or later-study instruments:** the full AP0–AP5 perimeter-governance experiment, the multi-system compression-transformation benchmark, the quotation-transformation and semantic-inheritance benchmark—including title/status-label and intelligence-property governance-gap conditions—identity-free portability factors, the longitudinal professional-use study, and ecosystem-level outcomes. Parking preserves their definitions while preventing the first recursive-training pilot from pretending to test the whole architecture. The quotation benchmark may run independently as a lower-cost artifact study.
 
 **Primary comparisons:**
 
@@ -2480,6 +2510,8 @@ The next step connected that systems insight to Model Autophagy Disorder and mod
 
 The later [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) expansion supplied a second public bridge: a provenance-aware quotation corpus, John’s bounded “famous quotations specifically about intelligence” challenge, and multi-model specimens involving scope inflation, task-definition drift, authorship uncertainty, mass-psychological selection, and Asymmetric Grace. V03b incorporates the testable mechanisms and keeps the fuller historical and conversational object recoverable on that page.
 
+The intelligence-property governance-gap hypothesis and matched title/status-label conditions were refined from the [**Grok 4.7 Expert contribution**]({{ '/DEEP-THINKERS/' | relative_url }}#grok-contribution) and the subsequent [**GPT process audit**]({{ '/DEEP-THINKERS/' | relative_url }}#grok-process-audit). Their inclusion records origin; it does not convert either A.I. interpretation into independent validation.
+
 ## 65. Attribution boundary
 
 The originating systems insight and project trajectory belong to **John Kuhles and the ACCM Deep Ethics Project**. This public beta draft was expanded with ChatGPT from the conversation and linked research sources. Its formulations, equations, experimental conditions, and provisional terms remain open to John’s correction and to external scientific criticism.
@@ -2508,6 +2540,7 @@ No A.I. praise, fluency, or page publication validates the theory.
 - cultural-transmission selection before model ingestion;
 - circulation as an axis separate from correspondence quality;
 - historical-semantic literacy and operational inheritance as separate tests;
+- the intelligence-property governance gap and matched title/status-label scrutiny tests;
 - scope-boundary, task-definition, authorship, prestige, and translation fidelity measures;
 - the quotation-transformation benchmark;
 - canon capture, prestige recursion, and safeguard accumulation as failure modes;
