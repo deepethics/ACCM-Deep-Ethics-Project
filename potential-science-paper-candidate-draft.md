@@ -5,6 +5,11 @@ description: "Early-beta theory proposal for testing whether correspondence-pres
 permalink: /BETA-PAPER/
 ---
 
+> **A major expanded version is now available:** [**Beta Paper V03b — 11 October 2026**]({{ '/BETA-PAPER-V3B/' | relative_url }}).
+>
+> This page remains publicly available as the original Beta Paper so that the earlier theory, wording, and experimental architecture can still be inspected. V03b expands the work without erasing this version.
+
+
 # Potential Science Paper Candidate Draft
 
 > **BETA PAPER — UNFINISHED THEORY PROPOSAL — NOT PEER REVIEWED — NOT A CLAIM OF PROOF**
