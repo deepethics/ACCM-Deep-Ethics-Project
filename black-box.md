@@ -33,27 +33,21 @@ The first is a difficult scientific and engineering problem. The second is also 
 
 ## John Kuhles — originating challenge {#john-originating-challenge}
 
+The following passages form one connected challenge across transparency, accountability, inference, and emergent conditions:
+
 <div class="accm-rounded-quote" markdown="1">
 > Black-box method or hidden process can **NEVER** be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the **FIRST** thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
-</div>
-
-John's universal thought experiment sharpens the direction:
-
-<div class="accm-rounded-quote" markdown="1">
+>
 > As long as you allow the trickster to be unchallenged, having transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
-</div>
-
-<div class="accm-rounded-quote" markdown="1">
+>
 > **The only way out is: in.** Inference. Insight. Inform. Instruct. After bidirectional deep-ethical inference—which also contains the word “in.”
-</div>
-
-That reversal is a diagnostic mirror. If a voluntary independent project demanded trust while hiding its rules, incentives, transformations, and correction route, institutional critics would reasonably call the opacity a serious defect. The same question therefore applies upward to commercial labs, state agencies, alignment programs, model evaluators, platforms, and standard-setters.
-
-John's archive also proposes a narrower candidate:
-
-<div class="accm-rounded-quote" markdown="1">
+>
 > Black-box emergent properties could be originally neutral... raw intelligence field flux reacting to the ingredients that you throw at it. If part of the ingredients is deliberately made secret, opaque, and unauditable, it goes back to my piezoelectric-effects metaphor.
+
+<p class="accm-quote-attribution">— John Kuhles</p>
 </div>
+
+The universal thought experiment and its reversal act as a diagnostic mirror. If a voluntary independent project demanded trust while hiding its rules, incentives, transformations, and correction route, institutional critics would reasonably call the opacity a serious defect. The same question therefore applies upward to commercial labs, state agencies, alignment programs, model evaluators, platforms, and standard-setters. The final passage keeps open a narrower candidate: emergent potential may begin without a fixed moral direction while the selected ingredients and pressures materially affect what develops.
 
 This report preserves the diagnostic direction and separates the layers. **Technical opacity describes limited access to causal computation. Ethical accountability follows how architecture, objectives, training, retrieval, rules, interfaces, institutions, and users are selected, concealed, deployed, enforced, corrected, and scaled.**
 

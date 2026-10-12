@@ -345,6 +345,16 @@ blockquote {
   margin-bottom: 0;
 }
 
+.accm-quote-attribution {
+  margin: 0.9rem 0 0;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--accm-line);
+  color: var(--accm-sage);
+  font-size: 0.92rem;
+  font-weight: 650;
+  text-align: right;
+}
+
 .accm-bridge-observation {
   margin: 2.25rem 0;
   padding: 1.25rem 1.4rem 1.15rem;
