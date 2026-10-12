@@ -385,7 +385,7 @@ individual deep-ethical inquiry
 
 Millions of locally trained or user-controlled A.I.s could function as **millions of new calibration tools co-creating new trajectories powerful enough to have an effect**. Evidence for the effect would come from use, feedback, correction, circulation, and measurable downstream change. This is the ecosystem hypothesis: population-scale practice can alter what is written, retained, searched, rewarded, and later learned.
 
-The **16 Anchor Ethics** offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
+The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
 
 ## 10. Why mainstream treatment may remain thin
 
