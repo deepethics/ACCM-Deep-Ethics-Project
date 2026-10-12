@@ -324,6 +324,27 @@ blockquote {
   font-style: normal;
 }
 
+.accm-rounded-quote {
+  margin: 1.35rem 0 1.65rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--accm-line);
+  border-left: 4px solid var(--accm-sage);
+  border-radius: 12px;
+  background: #f1ecdf;
+  box-shadow: 0 6px 18px rgba(28, 27, 22, 0.07);
+}
+
+.accm-rounded-quote blockquote {
+  margin: 0;
+  padding: 0;
+  border-left: 0;
+}
+
+.accm-rounded-quote blockquote p:last-child,
+.accm-rounded-quote > :last-child {
+  margin-bottom: 0;
+}
+
 .accm-bridge-observation {
   margin: 2.25rem 0;
   padding: 1.25rem 1.4rem 1.15rem;

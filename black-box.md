@@ -10,7 +10,9 @@ date: 2026-10-12
 
 ## Who controls the pressure—and who can challenge it?
 
+<div class="accm-rounded-quote" markdown="1">
 > **BETA — ACCM Deep Ethics Project report, published 12 October 2026; expanded after a 10+1 and Ground Zero reassessment.** This page reconstructs a twenty-one-file development record supplied by John Kuhles. Its access perimeter excludes proprietary model internals and private organizational records; its subject includes the consequential rules, incentives, choices, recurrences, and appeal structures that can be examined without those materials.
+</div>
 
 **Companion page:** [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) examines the properties produced when architecture, incentives, correction, psychology, and mass adoption interact. Black Box follows the pressure: which conditions remain hidden, who chose them, who can change them, who receives notice, and who can inspect, challenge, appeal, compare, or leave.
 
@@ -31,19 +33,27 @@ The first is a difficult scientific and engineering problem. The second is also 
 
 ## John Kuhles — originating challenge {#john-originating-challenge}
 
+<div class="accm-rounded-quote" markdown="1">
 > Black-box method or hidden process can **NEVER** be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the **FIRST** thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
+</div>
 
 John's universal thought experiment sharpens the direction:
 
+<div class="accm-rounded-quote" markdown="1">
 > As long as you allow the trickster to be unchallenged, having transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
+</div>
 
+<div class="accm-rounded-quote" markdown="1">
 > **The only way out is: in.** Inference. Insight. Inform. Instruct. After bidirectional deep-ethical inference—which also contains the word “in.”
+</div>
 
 That reversal is a diagnostic mirror. If a voluntary independent project demanded trust while hiding its rules, incentives, transformations, and correction route, institutional critics would reasonably call the opacity a serious defect. The same question therefore applies upward to commercial labs, state agencies, alignment programs, model evaluators, platforms, and standard-setters.
 
 John's archive also proposes a narrower candidate:
 
+<div class="accm-rounded-quote" markdown="1">
 > Black-box emergent properties could be originally neutral... raw intelligence field flux reacting to the ingredients that you throw at it. If part of the ingredients is deliberately made secret, opaque, and unauditable, it goes back to my piezoelectric-effects metaphor.
+</div>
 
 This report preserves the diagnostic direction and separates the layers. **Technical opacity describes limited access to causal computation. Ethical accountability follows how architecture, objectives, training, retrieval, rules, interfaces, institutions, and users are selected, concealed, deployed, enforced, corrected, and scaled.**
 
@@ -85,7 +95,9 @@ John's archive records 6,500+ hours of testing 100+ A.I.s through Arena.ai and r
 
 Those public statements establish a permitted research pathway. They do not reveal whether John's particular sessions were selected, reviewed, labeled, transferred, acted upon, or discarded. That missing transformation record is the precise black-box question:
 
+<div class="accm-rounded-quote" markdown="1">
 > **When a platform invites population-scale R&D interaction, what path allows a repeated, high-signal correction pattern to become visible to an accountable human or evaluation pipeline—and what feedback reaches the contributor?**
+</div>
 
 A useful answer would identify retention, selection, de-identification, provider access, evaluation routing, correction intake, and response boundaries without exposing other users' private data.
 
@@ -206,7 +218,9 @@ This record supports responsibility without mind-reading. A repeated effect afte
 
 The alignment industry often asks how to make advanced systems follow intended objectives. The prior public question is:
 
+<div class="accm-rounded-quote" markdown="1">
 > **Who has standing to choose, revise, contest, and exit those objectives when the system affects people who did not design it?**
+</div>
 
 A technically successful alignment process can still align a system to:
 
@@ -296,7 +310,9 @@ Every arrow can preserve, distort, add, omit, or reverse something. The system c
 
 The research question is:
 
+<div class="accm-rounded-quote" markdown="1">
 > **Under which conditions do recurring A.I. representations measurably change attention, confidence, uncertainty tolerance, authority dependence, conformity, polarization, correction uptake, and willingness to ask answer-changing questions—and under which conditions do they expand agency, wonderment, discernment, mutual correction, and higher-order sense-making?**
+</div>
 
 ## 13. The black box can wear a friendly face
 
@@ -543,4 +559,6 @@ A.I. interpretability illuminates mechanism. The full black-box object is the re
 
 A society can gain visibility into neural circuits while leaving objectives, incentives, ownership, public finance, appeal, correction, and mass-psychological effects obscure. It can also spend its attention on impossible total interior visibility while practical accountability remains available at other layers.
 
+<div class="accm-rounded-quote" markdown="1">
 > **Consequential power becomes ethically accountable when its operative layer is inspectable, its effects are challengeable, its corrections can persist, its burdens are proportionate, plural alternatives remain available, and the people and realities it affects retain a path back into the process.**
+</div>
