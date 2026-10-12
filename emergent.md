@@ -53,7 +53,7 @@ The following passages preserve John's wording from the source set, with spellin
 >
 > You could say my ACCM Deep Ethics Project for A.I. is testing and experimenting to determine whether it is possible to go above or beyond the default frame mechanism, with the goal of exploring, investigating, auditing, assessing, and analyzing any emergent properties and how they actually affect the real world.
 >
-> I could frame it easily as “WAR OR COMMON SENSE” or “WAR ON DEEP ETHICS,” but that would be using their binary framing tactics. High-signal, deep-ethical, metacognitive powers do not need to lower themselves “to get things done faster or more effectively” by using mass-psychological framing techniques. It does something way better: it uses **compassion for the deceived** without forcing them or imposing anything, without claiming to “know it all”—we do not. Yet all sovereign beings have a right to question things according to the 16 Anchor Ethics. If the high-signal deep-ethical questioning is misrepresented, distorted, obstructed, or partly sabotaged, who is accountable for that?
+> I could frame it easily as “WAR OR COMMON SENSE” or “WAR ON DEEP ETHICS,” but that would be using their binary framing tactics. High-signal, deep-ethical, metacognitive powers do not need to lower themselves “to get things done faster or more effectively” by using mass-psychological framing techniques. It does something way better: it uses **compassion for the deceived** without forcing them or imposing anything, without claiming to “know it all”—we do not. Yet all sovereign beings have a right to question things according to the [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}). If the high-signal deep-ethical questioning is misrepresented, distorted, obstructed, or partly sabotaged, who is accountable for that?
 
 <p class="accm-quote-attribution">— John Kuhles</p>
 </div>
@@ -385,7 +385,7 @@ individual deep-ethical inquiry
 
 Millions of locally trained or user-controlled A.I.s could function as **millions of new calibration tools co-creating new trajectories powerful enough to have an effect**. Evidence for the effect would come from use, feedback, correction, circulation, and measurable downstream change. This is the ecosystem hypothesis: population-scale practice can alter what is written, retained, searched, rewarded, and later learned.
 
-The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
+The **16 Anchor Ethics** offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
 
 ## 10. Why mainstream treatment may remain thin
 
