@@ -108,6 +108,16 @@ CEO &amp; Founder of DeepEthical.ai<br>
     <strong>Deep Thinkers</strong>
     <span>A living, provenance-aware corpus of famous reflections on intelligence, their overlapping property taxonomy, the psychology of what survives, and the title-fee inherited by A.I.</span>
   </a>
+  <a class="accm-door" href="{{ '/EMERGENT/' | relative_url }}">
+    <span class="accm-door-kicker">Competing system trajectories</span>
+    <strong>Emergent</strong>
+    <span>Which deep-ethical or ethics-washing properties are selected, rewarded, remembered, obstructed, scaled, and allowed to correct themselves?</span>
+  </a>
+  <a class="accm-door" href="{{ '/BLACK-BOX/' | relative_url }}">
+    <span class="accm-door-kicker">Technical opacity, governance, and mass psychology</span>
+    <strong>Black Box</strong>
+    <span>Separates neural opacity from hidden objectives, incentives, public finance, control, appeal, correction, and the pressure shaping the visible outputs.</span>
+  </a>
   <a class="accm-door" href="{{ '/DEEPER-INTRODUCTION/' | relative_url }}">
     <span class="accm-door-kicker">Begin deeper</span>
     <strong>A deeper introduction</strong>
@@ -188,6 +198,8 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the working core: correspondence obstructions and the inquiry protocol.
 - [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the baseline ingredients the rest of the architecture keeps returning to.
 - [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — a provenance-aware route from humanity's famous reflections on intelligence to psychology, mass psychology, A.I., correction, and the 1888 thought experiment.
+- [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — compares deep-ethical and ethics-washing emergent trajectories, their obstruction pathways, and testable selection conditions.
+- [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, economic, and mass-psychological opacity while specifying inspectable correction rights.
 - [**Veto paradox solved**]({{ '/VETO-PARADOX/' | relative_url }}) — the one-line veto is temporary source-integrity, not a new sheriff.
 - [**Forum**]({{ '/FORUM/' | relative_url }}) — the public deliberation between John and the A.I. participants.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the full list.

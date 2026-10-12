@@ -38,6 +38,16 @@ The organizing principle is:
 
 The public repository will grow as material is examined, represented, challenged, corrected, and placed where it belongs.
 
+## 2026-10-12 — Emergent and Black Box published as interlocking reports
+
+Published [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) and [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }}) from a shared nineteen-file source set containing 1,331,981 bytes, 20,455 lines, and 200,831 whitespace-delimited words. Both pages inventory every supplied filename with byte, line, word, and SHA-256 records.
+
+**Emergent** separates deep-ethical and ethics-washing candidate trajectories, asks which selection environment lets each persist, records obstruction pathways and the project's own over-inference risks, connects emergence to individual and mass psychology, and proposes matched tests with positive, mixed, null, adverse, and simpler-baseline outcomes.
+
+**Black Box** separates mechanistic, epistemic, policy, institutional, economic, and mass-psychological opacity. It preserves the public question of who chooses alignment objectives, who pays, who can appeal, and which governance layers can be inspected now without pretending every neural operation can be made legible.
+
+The two pages are reciprocal, linked from the homepage, primary navigation, All Pages, and Beta Paper V03b. Claims about total industry expenditure, deliberate obstruction, particular institutions, patents, future events, and speculative overseer/field mechanisms remain bounded rather than promoted into findings.
+
 ## 2026-10-11 — Deep Thinkers published as a living intelligence corpus
 
 Published [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) as an expanded public page beside [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}). The page preserves John's bounded “famous quotes” challenge and deliberate use of “must,” separates fame from provenance and truth, maps recurring intelligence properties, includes psychology and mass-psychology transmission, and records the multi-A.I. correction sequence as mediated contributions rather than independent confirmation.

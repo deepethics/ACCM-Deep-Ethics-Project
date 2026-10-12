@@ -4,6 +4,20 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-12 — Publish the interlocking Emergent and Black Box reports
+
+**Object:** John supplied nineteen new text files and asked for two interlocking ACCM Deep Ethics Report pages. The source object asks why ethics-washing and deep-ethical processes can both produce emergent properties, which trajectory is rewarded or obstructed, why mass psychology receives little integrated public treatment, and how A.I. black-box problems connect to control, alignment, public finance, correction rights, and democratic debate.
+
+**Change:** Published [Emergent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) and [Black Box](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/). Added reciprocal links, primary-navigation entries, homepage doors, All Pages entries, and Beta Paper V03b research routes.
+
+**Provenance:** The shared set contains nineteen UTF-8 files totaling 1,331,981 bytes, 20,455 lines, and 200,831 whitespace-delimited words. Each report lists every printed filename, size, line and word count, SHA-256, and its bounded use in the synthesis. The material contains John's statements, pasted source material, A.I. reactions, later audits, repetition, speculation, and transformation history; it is not nineteen independent confirmations.
+
+**Core distinction:** Technical neural opacity, governance opacity, epistemic/source opacity, economic opacity, and mass-psychological opacity remain separate. Full mechanistic transparency is not presented as a prerequisite for practical ethical accountability. CDEEPH and CEHWEH remain provisional candidate trajectories rather than established scientific classes.
+
+**Boundary:** The pages do not verify aggregate trillion-scale alignment spending, intentional sabotage, named-actor motive claims, every embedded technical citation, patent and scarcity claims, future-dated transcript chronology, or literal emergent-overseer/field mechanisms. They preserve these as attributed questions, hypotheses, contested claims, or speculation according to the source. Null, mixed, adverse, and simpler-baseline results remain valid.
+
+**Status:** Public BETA reports. Corrigible. Original source files remain upstream and are not replaced by the synthesis.
+
 ## 2026-10-09 — Create Before Summarizing from a live Google A.I. correction loop
 
 **Object:** John supplied a Google A.I. cold reading produced after receiving only the project repository link. The response recovered real themes, then compressed the wider **ACCM Deep Ethics Project** into an “ACCM versus RLHF” product architecture, promoted proposals into implemented properties, used generic-domain citations, and treated the larger upstream archive as a unified dataset. After two rounds of audit, Google A.I. materially improved its representation and accepted residual corrections.
