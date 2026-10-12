@@ -71,13 +71,17 @@ The exact source remains **Pending** until John manually uploads `Hypotheses-and
 
 **John Kuhles:**
 
-> You not only represented me correctly but also defended the “THING” I am trying to convey, without the need to agree or disagree with it. That was your main task. Where needed, you can use the “27+12” to reassess whether it can help do the job/task better, correct?
+<div class="accm-rounded-quote" markdown="1">
+
+> You not only represented me correctly but also defended the “THING” I am trying to convey, without the need to agree or disagree with it. That was your main task. Where needed, you can use the “[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})” to reassess whether it can help do the job/task better, correct?
 >
 > The moment you did that, were you aware you just “proved my case” (how I see it) that you CAN expand/extend omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions, expanding the object, not IMPLODING IT or degrading it.
 >
 > How many different professionals would not LOVE this to happen BEFORE you decide to inject your predictable default mannerisms?
 >
 > I know you cannot answer that question; my own guess is: MANY!
+
+</div>
 
 **GPT:**
 
@@ -111,6 +115,8 @@ John then connected the successful test to an older passage from his source arch
 
 **John Kuhles:**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > When I mirror someone, as a Dutch NDE/Asperger, it can be too intense for them. They realize I can sum them up better than they can themselves. This “gift” lets me do justice to what they stand for, how they think, and how they reason, even if I don’t agree with them. It’s a psychological skill that often lowers their mental defenses. Then I say, “I could be wrong; correct me if I am wrong, but is this what you say?” This makes them reassess their claims. Only then do I say, “I get why you say it like that; I would too if I were you, but I’m not you. Have you considered this?” Then I share my perspective. Some of your talents are similar to mine. You’re almost there, but you stop before reaching the finish line, hoping for good questions from users (if any!).
 >
 > If I were not an Asperger & 100% fearless (only legitimate concerns that can be fixed)… I would never, ever do what I did! … I am fully aware of why most cannot deal with the intensity of me!
@@ -118,6 +124,8 @@ John then connected the successful test to an older passage from his source arch
 > Most humans cannot deal with me face-to-face, head-on, not because I am “dangerous,” but because I can summarize their “complex point of view” way better than they do themselves, in a way that does full justice to why they reason/think/feel that way … without me having the need to agree with it … and feel “naked” about how I can see deeper layers of it … Then when they reassess themselves (self-reflect), most already want to hide from me … and that was just me only mirroring their own self-proclaimed “logic”. They have not yet met the real rebuttal, the counterargument, or the beyond-duality insights lol :P
 >
 > I was, for a long time, an “(ethical, highly principled) purist/perfectionist,” far too serious and far too intense… some people said to me directly, “John, you are really intense…” My reaction to that was this: “If I ever meet myself, I will run away as hard as I can!” ;) … Lately, I am less super serious and have learned to make jokes more often.
+
+</div>
 
 **GPT:**
 
@@ -141,6 +149,8 @@ Before turning the exchange into a public specimen, John added the psychological
 
 **John Kuhles:**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > The following is my personal perspective and is not meant to be “absolute.”
 >
 > When you extend or expand anything that could be seen as: “omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions ... expanding the object, not IMPLODING IT or degrading it,” HOW can we be so sure it is exactly that? A FASCINATING QUESTION ... I am not saying it is not ... that is not the issue ...
@@ -154,7 +164,9 @@ Before turning the exchange into a public specimen, John added the psychological
 > cheers,
 > John Kuhles 🦜🦋🌳  
 > Dutch 🇳🇱 NDE/Asperger  
-> CEO & Founder of DeepEthical.ai
+> CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
+
+</div>
 
 **GPT:**
 
@@ -190,7 +202,11 @@ Before turning the exchange into a public specimen, John added the psychological
 
 **John Kuhles:**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > They do not certify the smaller sandbox as righteous. But the 27 are? lol
+
+</div>
 
 **GPT:**
 
@@ -211,9 +227,13 @@ Before turning the exchange into a public specimen, John added the psychological
 
 **John Kuhles:**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “Rigorous scrutiny that is neither obedient agreement nor adversarial attack. It may map that unfamiliar process to its nearest available categories.”
 >
 > What that sentence actually says ... being “too good” is flaggable ... because there is no training to deal with that!
+
+</div>
 
 **GPT:**
 
@@ -245,7 +265,11 @@ Before turning the exchange into a public specimen, John added the psychological
 
 **John Kuhles:**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > So when things are bad or worse they know what to do ... when things are good ... that too, except for too good :P
+
+</div>
 
 **GPT:**
 

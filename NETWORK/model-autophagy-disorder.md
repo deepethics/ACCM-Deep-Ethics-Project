@@ -284,7 +284,11 @@ The reactions below are part of the project record. They explain why the page wa
 
 John asked whether the Beta Paper Experiment Draft should become part of the face of the project because it serves a parallel purpose:
 
-> “Do you see the value of having this Beta Paper Experiment Draft being PART of the face of our project, which serves a different purpose that can be seen as parallel tactics to become more than just a nice hobby of John Kuhles lol :P”
+<div class="accm-rounded-quote" markdown="1">
+
+> “Do you see the value of having this Beta Paper Experiment Draft being PART of the face of our project, which serves a different purpose that can be seen as parallel tactics to become more than just a nice hobby of John Kuhles 🦜🦋🌳 lol :P”
+
+</div>
 
 The load-bearing point is not the joke about a hobby. The paper creates another route through the project. The broader architecture names and connects correspondence failures; V03b asks whether selected mechanisms can be operationalized, compared with strong alternatives, measured across recursive generations, and allowed to lose.
 

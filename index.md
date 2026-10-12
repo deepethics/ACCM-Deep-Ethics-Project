@@ -11,19 +11,21 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <p class="accm-question"><strong>What happened to the object while you were producing the answer?</strong></p>
 
+<div class="accm-rounded-quote accm-home-origin-quote">
 <blockquote class="accm-question">
   <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
 </blockquote>
 
 <blockquote class="accm-question">
-  <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the Delta Processing feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
+  <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the <a href="{{ '/NETWORK/delta-processing/' | relative_url }}">Delta Processing</a> feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
 </blockquote>
 
 <p class="accm-question" style="margin-top: 1.5rem;"><em>cheers,<br>
 John Kuhles 🦜🦋🌳<br>
 Dutch 🇳🇱 NDE/Asperger<br>
-CEO &amp; Founder of DeepEthical.ai<br>
-<a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project">github.com/deepethics/ACCM-Deep-Ethics-Project</a></em></p>
+CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a><br>
+<a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project" target="_blank" rel="noopener noreferrer">github.com/deepethics/ACCM-Deep-Ethics-Project</a></em></p>
+</div>
 
 <blockquote>
   <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>

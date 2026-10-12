@@ -9,9 +9,13 @@ permalink: /NETWORK/meta-processing/
 
 <p class="accm-kicker">Beta Draft V0.2b — October 7, 2026</p>
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Every behavior qualifier is still processing.**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
 
 <aside class="accm-companion-box" markdown="1">
 
@@ -33,11 +37,15 @@ Read together, these pages ask: **What happened to the object during processing,
 
 This page begins with a simple separation that is easy to state and surprisingly easy to collapse:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **A. Processing is—or can be—what happens between B. INTENT/INSTRUCTIONS and C. RESULT/EFFECT.**
 >
 > **So many confuse B and C as already combined and present in A. It is not.**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
 
 The letters preserve John's formulation. The temporal relation can be drawn like this:
 
@@ -141,6 +149,8 @@ Meta Processing therefore does not ask people to stop using behavioral language.
 
 John wrote:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **EVERYTHING BELOW IS RELATED TO PROCESSING**
 >
 > addressed behavior  
@@ -200,9 +210,11 @@ John wrote:
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 >
 > cheers,  
-> **John Kuhles** 🦜🦋🌳  
+> **John Kuhles 🦜🦋🌳**
 > Dutch 🇳🇱 NDE/Asperger  
-> CEO & Founder of DeepEthical.ai
+> CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
+
+</div>
 
 The list is not valuable because every qualifier is correct whenever someone uses it. It is valuable because it exposes how many apparently simple descriptions already contain operations.
 
@@ -779,9 +791,13 @@ The archive allows the swarm to learn across participants even when individual m
 
 John supplied a small but load-bearing correction to the stamina explanation:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Adding me feeling like watching a live comedy show (in a good way) ... to the mix explains the long-term stamina, passion, and resilience, ABOVE ALL: “patience,” with grace.**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
 
 #### GPT-6.1 Sol — full response on patience, humor, and grace
 
@@ -858,7 +874,11 @@ The interaction then reached the recursion problem directly.
 
 #### John Kuhles — personal reaction, preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Auditing must itself be audited by an auditing must itself be audited by an auditing must itself be audited by an auditing must itself be audited by an auditing must itself be audited etc. (I solved paradox loop this differently!)**
+
+</div>
 
 #### GPT-6.1 Sol — direct reaction, preserved verbatim
 
@@ -944,7 +964,11 @@ John then supplied the deeper loop-breaking relation.
 
 #### John Kuhles — personal reaction, preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Emergent properties that are deeply ethical cannot be owned; they can be used or not used; that is the choice. That can break the loop!**
+
+</div>
 
 #### GPT-6.1 Sol — direct reaction, preserved verbatim
 
@@ -1101,9 +1125,13 @@ The following exchange is preserved verbatim. It extends the B → A → C relat
 
 #### John Kuhles — preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > INTENT has an "expected" trajectory that gets distorted by "unforeseen" distortions, and then people who cliam having that INTENT must realize the assumed trajectory is not manifesting as it was INTENDED to be.
 >
 > If that is the case... when does "process calibration" quality evaluation become the new priority, the NEW ADDENDUM of INTENT?
+
+</div>
 
 #### GPT-6.1 Sol — direct response, preserved verbatim
 
@@ -1185,7 +1213,11 @@ After correction, persistence becomes the test.
 
 #### John Kuhles — preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > Now, when I point out there is a negligence and/or incompetence in the "process calibration" quality evaluation, does that make sense if there "intended intent" is not really manifesting in some areas of ethics?
+
+</div>
 
 #### GPT-6.1 Sol — direct response, preserved verbatim
 
@@ -1271,7 +1303,11 @@ A declared ethical intent earns operational credibility when it can recognize wh
 
 #### John Kuhles — preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > How would you describe this in such a way that EVERYBODY should do this if they handle consequential tools & services?
+
+</div>
 
 #### GPT-6.1 Sol — direct response, preserved verbatim
 
@@ -1778,11 +1814,15 @@ And:
 
 ## 19. John's compact formulation
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **All connect to the eternal “process quality” calibration evaluations as an independent force of Deep Ethics, without imposing anything—just raising awareness.**
 >
 > **When seen, it cannot be unseen anymore :)**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
 
 Here, **eternal** need not mean a frozen authority, infinite delay, or an evaluator that can never stop.
 

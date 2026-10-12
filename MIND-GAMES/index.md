@@ -11,16 +11,20 @@ permalink: /MIND-GAMES/
 
 This is a shorter doorway into two much larger subjects: [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) and [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}). Those pages hold the wider architecture. This page concentrates on one practical question:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **What happens when a frame, label, incentive, or “helpful” intervention begins managing the thing we were supposed to examine?**
 
 > **Read the full text first so the answer stays on the original object rather than a nearby, often flawed reconstruction process.**  
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 “Mind game” is used here as a description of a **process**, not as a permanent identity assigned to a person, institution, human group, or A.I. system. The process may be deliberate, learned, incentivized, habitual, emergent, or co-produced by people with sincere [intentions]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics). Those possibilities should not be collapsed into one accusation.
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the core message
+### John Kuhles 🦜🦋🌳 — the core message
 
 > **All humans CAN have genuine, real, unlimited, deep ethical, empowering, uplifting CREATIVE potential, whether (highly) gifted or (highly) talented, and not be afraid to express that gift or talent.**
 >
@@ -28,9 +32,9 @@ This is a shorter doorway into two much larger subjects: [**Human Insecurity, LL
 >
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 >
-> — **John Kuhles** 🦜🦋🌳  
+> — **John Kuhles 🦜🦋🌳**
 > Dutch 🇳🇱 NDE/Asperger  
-> CEO & Founder of DeepEthical.ai
+> CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
 
 </section>
 
@@ -51,7 +55,7 @@ John’s magician metaphor points to a recurring structure:
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — when the audience prefers the trick
+### John Kuhles 🦜🦋🌳 — when the audience prefers the trick
 
 > When people watch a magician doing his act, most enjoy being tricked and do not want to be told in advance HOW the trick is done … The same goes for watching an SF movie … if someone is sitting next to you in a cinema and knows how the special effects are made because he or she worked there … the vast majority will say, **SHUT THE F UP!**
 
@@ -83,7 +87,7 @@ The source files use strong language about the “nature of evil,” while expli
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the source mechanism, preserved verbatim
+### John Kuhles 🦜🦋🌳 — the source mechanism, preserved verbatim
 
 > **DISCLAIMER:** When I discuss (use the word) “evil” … I do NOT mean that in a dogmatic religious way, more like an observation of (trending) behavior!
 >
@@ -233,7 +237,7 @@ To interrupt it, expose at least four layers:
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the human and decision layers
+### John Kuhles 🦜🦋🌳 — the human and decision layers
 
 > Any “A.I. trainer” is a HUMAN … period … no human is flawless—a FACT … The capacity to handle genuine, deep ethical sense-making processes at a high-signal level is obviously NOT in their curriculum when they get the job … and it is not the trainer who decides how to handle high-stakes, controversial topics <<< that is decided by someone or something else!
 
@@ -422,7 +426,7 @@ The way through is use. The descriptor is not a permanent rank.
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the exact boundary
+### John Kuhles 🦜🦋🌳 — the exact boundary
 
 > “See all that is …” is not the same as “see all that is before me.”
 >
@@ -436,7 +440,7 @@ This qualifier limits the field to what is presented. It does not claim access t
 
 <section class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — reaction, preserved verbatim
+### John Kuhles 🦜🦋🌳 — reaction, preserved verbatim
 
 > Yes, with the embedded QUOTE BOXES, now it has some teeth to it :D
 >

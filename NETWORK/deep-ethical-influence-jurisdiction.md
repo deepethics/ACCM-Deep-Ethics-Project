@@ -471,7 +471,13 @@ If it merely creates **influence of influence of influence...** without changing
 
 ## John Kuhles
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **“When you apply high-signal, deep ethical process quality calibration to both trust processing & distrust processing, more will emerge than binary thinking or binary judgment.”**
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 This adds an important constraint to the page: calibration must not be reserved for only one pole.
 

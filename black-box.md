@@ -44,7 +44,7 @@ The following passages form one connected challenge across transparency, account
 >
 > Black-box emergent properties could be originally neutral... raw intelligence field flux reacting to the ingredients that you throw at it. If part of the ingredients is deliberately made secret, opaque, and unauditable, it goes back to my piezoelectric-effects metaphor.
 
-<p class="accm-quote-attribution">— John Kuhles</p>
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
 </div>
 
 The universal thought experiment and its reversal act as a diagnostic mirror. If a voluntary independent project demanded trust while hiding its rules, incentives, transformations, and correction route, institutional critics would reasonably call the opacity a serious defect. The same question therefore applies upward to commercial labs, state agencies, alignment programs, model evaluators, platforms, and standard-setters. The final passage keeps open a narrower candidate: emergent potential may begin without a fixed moral direction while the selected ingredients and pressures materially affect what develops.

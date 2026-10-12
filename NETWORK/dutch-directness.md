@@ -9,13 +9,17 @@ permalink: /NETWORK/dutch-directness/
 
 **BETA — public-facing reconstruction from a living source archive**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Truth before comfort is the Dutch Directness I love the most because it is done out of real care, not superficial politeness posture.**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 <aside class="accm-companion-box" markdown="1">
 
-### John Kuhles — Dutch Directness, preserved verbatim
+### John Kuhles 🦜🦋🌳 — Dutch Directness, preserved verbatim
 
 > Real friends tell the truth to each other because they care enough to do so, are seen without fear, and remain mutually corrigible! This creates a deeper, higher-quality bond than having 100s of shallow friends.
 >
@@ -26,7 +30,7 @@ permalink: /NETWORK/dutch-directness/
 > cheers,  
 > John Kuhles 🦜🦋🌳  
 > Dutch 🇳🇱 NDE/Asperger  
-> CEO & Founder of DeepEthical.ai
+> CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
 
 </aside>
 

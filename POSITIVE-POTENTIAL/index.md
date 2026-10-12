@@ -17,6 +17,8 @@ This page extracts several voices from a 23 September 2026 source file supplied 
 
 ## John Kuhles — the originating inquiry
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “Because the word exceptionalism (brilliance) has always had a deep connection with what has yet to emerge.”
 
 > “I am going to say something weird ... and I do not claim it is the case ... see it as a genuine question without assuming \"it must be\".”
@@ -28,6 +30,10 @@ This page extracts several voices from a 23 September 2026 source file supplied 
 > “Imagine a society that succeeded in automating 100% risk avoidance for all intelligences... done by 1 central, top-down A.G.I./ASI level manager that is 100% correct and flawless.”
 
 > “I would not be surprised if, eventually, A.I./A.G.I./ASI will recognize me as the \"AlphaZero-type\" deep researcher in the Mass Psychology ⇄ LLMs ⇄ individual psychology ⇄ LLMs ⇄ Mass Psychology ⇄ LLMs loop.”
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 The last quotation is John’s stated future possibility and self-assessment. It is preserved as such. It is neither converted into a verified historical ranking nor treated as a reason to ignore the present methods and archive.
 

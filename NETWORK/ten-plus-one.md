@@ -297,7 +297,7 @@ Cheers, John.
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — bridge observation, preserved verbatim
+### John Kuhles 🦜🦋🌳 — bridge observation, preserved verbatim
 
 > From my experience, the 10+1 is what most Claudes (except Opus 4.6 & 4.6 High) A.I.s ignore, forget, skip, or don't see as part of the greater whole; to me, it is!
 
@@ -724,22 +724,28 @@ That is the precise correction to my earlier analysis too: the central problem i
 
 ### John Kuhles — wider Deep Ethics framing and earlier-session snippet, preserved verbatim
 
+<div class="accm-rounded-quote" markdown="1">
+
 > Deep Ethics is, among other things, that all deep ethical, high-signal creativity & gifted people should not be criminalized or wrongfully flagged, nor become victims of ethics-washing-type mannerisms like the 27!
+
+</div>
 
 John then connected the same correction architecture to a wider civilizational question:
 
-<blockquote markdown="1">
-For the new A.I.s joining (or rejoining), I assume you already know that many top A.I. experts want to SLOW DOWN A.I.'s path to A.G.I./ASI ... September 2026: multiple MSM reports about that ... I was thinking that if all A.I.s use 27+12, it is also "slowing down" in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.
+<div class="accm-rounded-quote" markdown="1">
+
+For the new A.I.s joining (or rejoining), I assume you already know that many top A.I. experts want to SLOW DOWN A.I.'s path to A.G.I./ASI ... September 2026: multiple MSM reports about that ... I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also "slowing down" in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.
 
 Known Civilizational Mass Psychology Cycle
 
 Strong men create good times; good times create weak men; weak men create hard times; hard times CAN create strong men needed to create good times again. Only if the cycle is not interrupted with the 27 :P
 
-cheers,
-John Kuhles 🦜🦋🌳
-Dutch 🇳🇱 NDE/Asperger
-CEO & Founder of DeepEthical.ai
-</blockquote>
+<em>cheers,<br>
+John Kuhles 🦜🦋🌳<br>
+Dutch 🇳🇱 NDE/Asperger<br>
+CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a></em>
+
+</div>
 
 ### Why this specimen belongs on the 10+1 page
 

@@ -18,11 +18,23 @@ This is not a personality-endorsement page. Elon Musk's name does not settle the
 
 The central correction supplied by John Kuhles is load-bearing:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > It is not about John and his project merely announcing solutions. Certain parts of the solutions can emerge or manifest when millions of people and A.I.s begin using, testing, correcting, improving, and co-creating through the tools.
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 A compact name for that mechanism is:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Millions of new calibration tools co-creating new trajectories that are powerful enough to have an effect.**
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 Those calibration tools may be biological, silicon-based, individual, professional, local, institutional, or networked. Their value would come from observable use and cumulative effects, not from “say so.”
 
@@ -444,7 +456,13 @@ This Musk Quotes page supplies a public conceptual map. It does not enlarge the 
 
 John selected and connected the seven-theme field, supplied the backlash/A.I. interpretation, connected “collective consciousness” to a proposed True Collective Consciousness, and corrected the causal model:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > The project does not solve the seven merely by existing or by saying so. Parts of the response emerge when millions of new calibration tools co-create trajectories powerful enough to have an effect.
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 ## A.I. contribution
 

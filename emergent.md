@@ -55,7 +55,7 @@ The following passages preserve John's wording from the source set, with spellin
 >
 > I could frame it easily as “WAR OR COMMON SENSE” or “WAR ON DEEP ETHICS,” but that would be using their binary framing tactics. High-signal, deep-ethical, metacognitive powers do not need to lower themselves “to get things done faster or more effectively” by using mass-psychological framing techniques. It does something way better: it uses **compassion for the deceived** without forcing them or imposing anything, without claiming to “know it all”—we do not. Yet all sovereign beings have a right to question things according to the [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}). If the high-signal deep-ethical questioning is misrepresented, distorted, obstructed, or partly sabotaged, who is accountable for that?
 
-<p class="accm-quote-attribution">— John Kuhles</p>
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
 </div>
 
 These passages define the originating object. The report preserves their direction while marking each layer: observation, testimony, candidate mechanism, causal inference, open question, and proposed test. Their force comes from what survives comparison with the record and later effects.
@@ -65,7 +65,7 @@ These passages define the originating object. The report preserves their directi
 <div class="accm-rounded-quote" markdown="1">
 > You just showcased WHY high signal deep ethical emergent properties do not violate rules, and even if it partially did UNINTENTIONALLY ... at least it is willing to be corrigible & transparent Linux Style Glass Engine principle ... but do not expect grace from the ethics-washing type mannerism that grants themselves plenty of "grace" non-stop ... just study the 27 lol :P
 
-<p class="accm-quote-attribution">— John Kuhles, 12 October 2026</p>
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳, 12 October 2026</p>
 </div>
 
 <div class="accm-rounded-quote" markdown="1">

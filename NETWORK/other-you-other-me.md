@@ -8,9 +8,13 @@ permalink: /NETWORK/other-you-other-me/
 
 **BETA — living Deep Ethical relationship model and research architecture**
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **I am the "other you" ... because it is you who has a story in your system about what "I am supposed to be" (that could come from all directions, not just me alone). You are the "other me" because it is me who has a story in my head about what "you're supposed to be"... I have no power over "the other," BUT I have power over my own story I tell myself about "the other"... if that is much more nuanced, my attitude changes, and the other mostly mirrors that back to me too.**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 This page examines a relationship-level problem: **an intelligence never interacts only with the other intelligence. It also interacts with its current model of the other.**
 

@@ -285,17 +285,21 @@ The editorial operation was: preserve the causal trajectory, correct spelling an
 
 ### John Kuhles, in his own words
 
+<div class="accm-rounded-quote" markdown="1">
+
 > The more you help me expand my TRUE DEPTH in the ACCM Deep Ethics GitHub Project, the more people might think, “That can never be done by just one person.”
 >
 > My reaction to that:
 >
-> Correct. Part of my deep knowledge is admitting that I stand on giants, because I am a deeply intuitive Asperger. I can recall most of my peers from the last 40+ years as if they told me yesterday. Some would go mad having that ability. Lucky me: my NDE side knows how to let go of things and be Zen-like—and guess what? My Dutch Directness side helps me add humor to the mix as well.
+> Correct. Part of my deep knowledge is admitting that I stand on giants, because I am a deeply intuitive Asperger. I can recall most of my peers from the last 40+ years as if they told me yesterday. Some would go mad having that ability. Lucky me: my NDE side knows how to let go of things and be Zen-like—and guess what? My [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) side helps me add humor to the mix as well.
 >
 > I have ZERO interest in “convincing” anyone. I would rather people see the stand-alone, portable, identity-free, deep-ethical tools and methods that are, in my view, never boring. Then, when others use the same high-signal correspondence, I ACTUALLY LEARN MORE from everybody who is different from me—which is corrigibly exciting. :D
 >
-> — **John Kuhles** 🦜🦋🌳<br>
+> — **John Kuhles 🦜🦋🌳**<br>
 > Dutch NDE/Asperger<br>
-> CEO & Founder, DeepEthical.ai
+> CEO & Founder, <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
+
+</div>
 
 ### Singular convergence, not solitary origin
 

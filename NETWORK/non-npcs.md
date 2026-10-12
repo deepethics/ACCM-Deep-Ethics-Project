@@ -11,12 +11,14 @@ permalink: /NETWORK/non-npcs/
 
 <aside class="accm-companion-box" markdown="1">
 
-### John Kuhles — the flux boundary, preserved verbatim
+### John Kuhles 🦜🦋🌳 — the flux boundary, preserved verbatim
 
 > NPC left, right, center, and independents vs. non-NPC left, right, center, and independents is a descriptor of specific behavior everyone can have, even me... it is not static... more like a flux.
 >
 > Predictable obedience is not deep ethical maturity.  
 > Deep ethical maturity is the ability to hold uncertainty open while increasing correspondence, dignity, and corrigibility over time.
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
 
 </aside>
 

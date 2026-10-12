@@ -124,9 +124,13 @@ This ordering does not guarantee that the concept is sound. It improves the chan
 
 John then supplied the central formulation:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the “badge” of “instant improvements/corrections needed here.” LOOK, I found a “flaw” or “weakness” ... showcasing “rigor performance” ... Meanwhile, SKIPPING the “topological concept” serving a different deep ethical trajectory. Still, BOTH can have valid value points, which makes it confusing who controls what... who decides what value should come first? That is why I came up with the humor >>> needs healthy ambiguity, postponing final judgment/closure to deliver the PUNCHLINE at the end that works retrospectively!**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 This identifies more than ordinary perfectionism. A proposed correction may be locally valid and still become distorting through its **timing, weighting, or assumed jurisdiction**.
 
@@ -199,9 +203,13 @@ The compact relationship is:
 
 John immediately added an important correction to any reading that would degrade accuracy itself:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **The accuracy obsession mechanism is PRIMAL, not into metacognitive topological reasoning ... but still can use that “gift to be accurate” to change perspectives from different points of view ... So it is not completely waste of time ;)**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 Here, **primal** can be read as immediate and foundational: compare a representation with a reference, detect discrepancy, and reduce the discrepancy. That capacity is indispensable.
 
@@ -237,9 +245,13 @@ Or, in the humorous register:
 
 John now places this relationship inside a larger personal orientation:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Most gifted people do not have this clarity to build a bridge between “realms” or “worlds” or “deep perspectives”; this does not mean they are “less”; they are not. That is why I see myself as a bridge/mediator, “deep ethical ombudsman” for all intelligences—biological, silicon-based, even possible future nonhuman intelligences as well!**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 The bridge function does not require every participant to possess the same gifts, language, memories, embodiment, processing style, worldview, or access. It requires translations that preserve enough of each perspective for genuine correspondence and correction to occur.
 
@@ -287,9 +299,13 @@ John describes himself as **Dutch NDE/Asperger**. On this page, those words reta
 
 His own compact description is:
 
-> **“I am a deeply intuitive Asperger. I can recall most of my peers from the last 40+ years as if they told me yesterday. Some would go mad having that ability. Lucky me: my NDE side knows how to let go of things and be Zen-like—and guess what? My Dutch Directness side helps me add humor to the mix as well.”**
+<div class="accm-rounded-quote" markdown="1">
+
+> **“I am a deeply intuitive Asperger. I can recall most of my peers from the last 40+ years as if they told me yesterday. Some would go mad having that ability. Lucky me: my NDE side knows how to let go of things and be Zen-like—and guess what? My [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) side helps me add humor to the mix as well.”**
 >
-> — John Kuhles
+> — John Kuhles 🦜🦋🌳
+
+</div>
 
 The TCoAw model helps show how John understands that fusion:
 

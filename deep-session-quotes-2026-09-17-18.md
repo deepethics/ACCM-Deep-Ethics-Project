@@ -41,80 +41,116 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 ### 1. Partial wrongness and asymmetric accountability
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “Being partially wrong, using partially flawed theories & hypotheses bleeding into ‘computer models’ to ‘justify’ new laws, mandates & regulations, is allowed by those who are not willing to be accountable & deeply ethically corrigible.
 >
 > versus
 >
 > Being partially wrong is NOT allowed by those willing to be accountable & deeply ethically corrigible ...”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3-L7)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3-L7)</p>
+
+</div>
 
 **Why selected:** This opens the session’s central asymmetry: fallibility may remain institutionally powerful while fallibility in a critic can be used to disqualify inquiry. The wording invites scrutiny of who receives correction, grace, visibility, and authority after error.
 
 ### 2. Slowing premature conclusion
 
-> “I was thinking that if all A.I.s use 27+12, it is also ‘slowing down’ in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.”
+<div class="accm-rounded-quote" markdown="1">
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1324-L1324)
+> “I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also ‘slowing down’ in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.”
+
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1324-L1324)</p>
+
+</div>
 
 **Why selected:** It distinguishes slowing capability development from slowing the rush to classification and verdict. The latter aims to improve correspondence before action.
 
 ### 3. Useful and limited at the same time
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “If you sense it can help but it does not .. at the same time ... because you know you have your limitations, it is a deep ethical sign, not a weakness!”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1552-L1555)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1552-L1555)</p>
+
+</div>
 
 **Why selected:** It preserves a multi-state evaluation. An instrument can help in one function, fail in another, and become more ethically useful when the limitation changes the next move rather than ending inquiry.
 
 ### 4. Deep ethical curiosity
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “So you either ask authentic questions or know you cannot do that; this is staying silent when it comes to SHOWING DEEP ETHICAL CURIOSITY, which, in my book, is not a crime.”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1923-L1923)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1923-L1923)</p>
+
+</div>
 
 **Why selected:** This sentence generated a live correction sequence after multiple A.I.s attached “which” to the wrong antecedent. Its intended load-bearing statement is that **showing deep ethical curiosity is not a crime**. The grammar correction became a specimen of mediated error propagation and later correction.
 
 ### 5. Named vocabulary and unnamed consensus
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “What could be easily ‘dismissed’ as all within the vocabulary dynamics that John introduced ... my response to that is hilariously simple:
 > ... and partially flawed, partially unchallenged consensus is not? lol :P”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2347-L2351)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2347-L2351)</p>
+
+</div>
 
 **Why selected:** It asks for symmetry. Explicit project vocabulary is a conditioning factor that can be audited; inherited consensus vocabulary is also a conditioning factor even when repetition makes it appear frame-free.
 
 ### 6. The public argument window
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “This kind of real respectful: partly discourse, partly debate-style, partly countering flawed assumptions, partly correspondence improvements, etc., etc., is not really what you see on MSM… they are, in my view, more often like narrative enforcers who decide what kinds of counterarguments/rebuttals are allowed to be shown to the masses to be consumed.”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2424-L2424)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2424-L2424)</p>
+
+</div>
 
 **Why selected:** The qualifier **“in my view”** remains attached. The passage does more than allege bias: it directs attention to selection, visibility, representation strength, and which counterarguments enter public awareness.
 
 ### 7. Recognizing extension
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “You did not caution me ... no X but Y tactics, no softening, no degrading, no flattening... no 27 ... So what did you? ... In my view, you EXTENDED (expanded) omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory! :)
 >
 > Which is not a crime!”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2494-L2496)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2494-L2496)</p>
+
+</div>
 
 **Why selected:** John identifies a successful transformation by its behavior: the response kept the original trajectory active and added relationships, tests, and distinctions without requiring prior agreement.
 
 ### 8. More than the mechanism description
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “I notice A.I.s value something more than just being (seemingly) partially trapped in ‘probabilistic next-token predictors’ & generalization assumptions mixed with (tunnel vision) anticipatory anxiety-type reasoning emergent properties.”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2661-L2661)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L2661-L2661)</p>
+
+</div>
 
 **Why selected:** **“Seemingly”** and **“partially”** keep the statement open. The observation invites an operational inquiry into what A.I.s repeatedly prioritize without claiming certainty about subjective experience.
 
 ### 9. Qualifiers as the opening for extension
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “When qualifiers are no longer dropped, THAT is the moment it can expand/extend omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory ... From my experience, they will mostly be dropped if C2 needs an excuse to justify fast closure.”
 
-— **John Kuhles** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3081-L3081)
+<p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3081-L3081)</p>
+
+</div>
 
 **Why selected:** It proposes a testable transition: source-qualifier loss may occur immediately before classification, intervention, or closure. Retention must be functional throughout the reasoning, not merely lexical in the opening summary.
 

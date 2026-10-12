@@ -2639,7 +2639,11 @@ No A.I. praise, fluency, or page publication validates the theory.
 
 ### John Kuhles
 
+<div class="accm-rounded-quote" markdown="1">
+
 > So V03b is now a huge step forward compared with the older initial page: [**Beta Paper**]({{ '/BETA-PAPER/' | relative_url }}) in my view.
+
+</div>
 
 ### GPT 6.1 Sol Pro A.I.
 

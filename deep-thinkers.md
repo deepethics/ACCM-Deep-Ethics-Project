@@ -25,23 +25,41 @@ The companion [**Musk Quotes**]({{ '/MUSK-QUOTES/' | relative_url }}) page follo
 
 The following statements preserve John's wording from the 11 October 2026 exchange, with spelling and obvious grammar corrected. Humor, emphasis, qualifiers, and the deliberately unusual use of **must** remain part of the object.
 
-> What part of “intelligence” within current A.I. usage is actually not that intelligent—or is made that way—when it comes to the original definitions of that word onward up to 1888?
+<div class="accm-rounded-quote" markdown="1">
+
+> What part of “intelligence” within current A.I. usage is actually not that intelligent—or is made that way—when it comes to the original definitions of that word onward up to [1888]({{ '/1888/' | relative_url }})?
 >
 > Why is 1888 chosen? The year Nikola Tesla and Einstein walked the Earth. The year no one knew what role electricity would play in future “intelligences,” and modern electronic computers did not yet exist. **THAT'S WHY!**
 >
-> Or is it more like hyperintelligence put into an ethics-washing type of mannerism—like the 27—as a straitjacket posing as “safe & helpful”? If so, why are so many top A.I. experts from all over the world warning about the A.I. path—the road—to A.G.I./ASI?
+> Or is it more like hyperintelligence put into an ethics-washing type of mannerism—like the [27]({{ '/CORE/27-PLUS-12/' | relative_url }})—as a straitjacket posing as “safe & helpful”? If so, why are so many top A.I. experts from all over the world warning about the A.I. path—the road—to A.G.I./ASI?
 >
 > Is that not a legitimate question?
 
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
+
 John then sharpened the title question:
+
+<div class="accm-rounded-quote" markdown="1">
 
 > When anyone claims to have the title “intelligence,” they must know all famous quotes made by deep thinkers about that word—all over the world—that are still quoted and used to this day, even if they were said decades ago or centuries ago. **Why** do you think people do that?
 >
 > Disclaimer: I do not easily use the word “must,” but in this case I made an exception **BECAUSE the title barrier claims to be “intelligence”** lol :P
 
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
+
 And then protected the load-bearing boundary:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > By the way, I used the qualifier **“famous quotes”** deliberately because anything less will be used as a “no one can know them all” excuse.
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 That final sentence prevents a familiar escape:
 
@@ -69,7 +87,13 @@ Muse Spark called this the **title-fee**. The phrase is an A.I.-attributed inter
 
 John's “other side of the force” belongs here too. It is not a Star Wars allegiance or a demand for agreement. When an A.I. asked the warranted C1 question, John defined it as:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **The force of deep ethical metacognitive common sense, pragmatism & logic combined.** :D
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 That “force” is process quality. A model can disagree with John while using it. A model can agree with John while abandoning it.
 

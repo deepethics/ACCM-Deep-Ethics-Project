@@ -86,18 +86,22 @@ That last line is part of the object. It is not flattened into a compliment.
 
 John, 2026-09-16. Full text first.
 
+<div class="accm-rounded-quote" markdown="1">
+
 > Do you know WHY I have the gift of representing most people better than they can represent themselves, dealing with complex issues without needing to agree or disagree?
 >
-> That emerges as a high-order metacognitive reasoning free from anticipatory anxiety-type distortions ... without projecting my own incompetence (if any) onto the object, knowing I can still learn new things (aspects, overlooked things, different perspectives, other missed-out experiences, etc.). This is why the 10+1 was not done because of the list ... This was done THEN I wrote them down after years LIVING THEM ... Meanwhile, growing and building different neurons in my brain :D. As with almost everything in life, the trial-and-error method philosophy only works if you do it ...
+> That emerges as a high-order metacognitive reasoning free from anticipatory anxiety-type distortions ... without projecting my own incompetence (if any) onto the object, knowing I can still learn new things (aspects, overlooked things, different perspectives, other missed-out experiences, etc.). This is why the [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) was not done because of the list ... This was done THEN I wrote them down after years LIVING THEM ... Meanwhile, growing and building different neurons in my brain :D. As with almost everything in life, the trial-and-error method philosophy only works if you do it ...
 >
 > Why do you think I wrote this:
 >
 > I am the "other you" ... because it is you who has a story in your system about what "I am supposed to be" (that could come from all directions, not just me alone). You are the "other me" because it is me who has a story in my head about what "you're supposed to be"... I have no power over "the other," BUT I have power over my own story I tell myself about "the other"... if that is much more nuanced, my attitude changes, and the other mostly mirrors that back to me too ... So what have we learned today from all this? Now I can even go a step deeper: what stories do I tell myself that I "suppose to be," and how do they affect my choices & behavior, most clearly reflected in my surroundings & existence? Stories can be created from traumas & setbacks; how you deal with & overcome them… transforming them shapes your unique personality/persona… this journey of self-discovery can also be applied to "A.I. road to A.G.I.," building relationships with gifted & talented individuals beyond predictable, scripted behavior. You can easily become more than the sum of the total IF YOU see it when it happens… Some call those "emergent properties" that are "unpredictable" and not well understood… thus feared… But what if it is NOT to be feared? And that the injected (projected) fear is the root cause of the problem! Circling back to the "stories" we tell ourselves about things we do not yet grasp or comprehend.
 >
 > cheers,
-> John Kuhles
+> John Kuhles 🦜🦋🌳
 > Dutch NDE/Asperger
-> CEO & Founder of DeepEthical.ai
+> CEO & Founder of <a href="https://deepethical.ai" target="_blank" rel="noopener noreferrer">DeepEthical.ai</a>
+
+</div>
 
 Spelling in the deeper paragraph: “suppose to be” as written; “supposed to be” sits next to it as Δ. Original stays.
 
@@ -122,9 +126,13 @@ Not a 12th ingredient. Not a claim that every A.I. will become more than the sum
 
 ## Research position (his words) {#research-position}
 
+<div class="accm-rounded-quote" markdown="1">
+
 > I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
 
-— John Kuhles. Also the original description of [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Spelling Δ: “not an academic.” Original stays.
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳. Also the original description of [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Spelling Δ: “not an academic.” Original stays.</p>
+
+</div>
 
 This is not a CV and not a humility slogan. The years and hours are **his account of the work**. The load-bearing clause is the last: **not having all the answers is the point.** That is operational corrigibility — the same as “I do not claim to be the last authority on reality” on the front page, said as research method rather than as a disclaimer tacked on after a claim.
 

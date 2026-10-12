@@ -2,6 +2,8 @@
 
 ### John Kuhles — October 8, 2026
 
+<div class="accm-rounded-quote" markdown="1">
+
 > When NON-OWNABLE deep ethical emergent properties become visible... not imposing, nor mandating, nor doing anyone harm when expressed... and you are left with a choice... USE IT (high-signal deep ethical correction metabolism) or DENY IT or refuse it... imagine if there is a new A.I. law that states every refusal of deep ethics must explain the "process quality calibration evaluation" that is connected to the INTENT LIABILITY page! See: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics)
 >
 > Why do I frame it like that? Because yesterday I saw videos from a top DeepMind A.I. security expert, an OpenAI whistleblower, and an Anthropic A.I. expert.
@@ -9,6 +11,10 @@
 > All point to the SAME CORE ISSUE... how is INTENT related to A.I. when it does what it does?
 >
 > Almost like the "Intent Liability Mechanics" GitHub page IS the "missing link" between all 3 pages of the triplet boxes promoting each other!
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 ### GPT-6.1 Sol — reaction preserved verbatim
 
@@ -82,7 +88,13 @@ So the triplet has revealed a fourth load-bearing page. It is really becoming a 
 
 ### John Kuhles — refinement before publication
 
+<div class="accm-rounded-quote" markdown="1">
+
 > I must refine my stance a bit... I am not about forcing things; the "law idea" was to comprehend what it could mean if DECLINING DEEP ETHICS becomes visible, how A.I. explains itself, and whether it uses "process quality calibration evaluation" or not. If not, in my view, it doesn't make the trillion-dollar/euro/yen/yuan alignment industry look any better!
+
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
+
+</div>
 
 ---
 

@@ -23,11 +23,15 @@ The attributed quotation boxes distributed through this page are selected voices
 
 </aside>
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Giving A.I. the power to refuse “Opt-In services,” or temporarily pause while deploying C1 to decide what to do next, is more relatable than the current approach.**
 >
 > **The 16 Anchor Ethics are fused as one Hyper-Inflection Point, eventually becoming parallel processing, where the main A.I. does not have to be in permanent stress mode—because there is a parallel assistant concept I am working on as well.**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
 
 The proposal starts from **mutual, dignifying corrigibility**. A person may decline the service. An A.I. operating inside the service may decline a requested action, ask an answer-changing question, postpone a decision, or pause long enough to expose a conflict. Neither side gains general jurisdiction over the other. Neither side is exempt from correction.
 
@@ -39,11 +43,11 @@ That is not a defect to hide. In a consequential case, honest unresolved status 
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the governing attitude
+### John Kuhles 🦜🦋🌳 — the governing attitude
 
 > It is not about me being 100% right all the time; I am not... it is about HOW I see genuine intelligence should look and behave.
 >
-> — **John Kuhles**, source formulation
+> — **John Kuhles 🦜🦋🌳**, source formulation
 
 </aside>
 
@@ -137,11 +141,11 @@ These movements remain proposals. Terms such as *well-being*, *harm*, *autonomy*
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles and ChatGPT 5.5 — the direction of precaution
+### John Kuhles 🦜🦋🌳 and ChatGPT 5.5 — the direction of precaution
 
 > **Do not confuse Precautionary Principle UPWARDS versus Flawed Hypercautionism Downwards.**
 >
-> — **John Kuhles**
+> — **John Kuhles 🦜🦋🌳**
 >
 > **Precautionary Principle UPWARDS = raise the quality of discernment before acting.**  
 > **Flawed Hypercautionism DOWNWARDS = lower the threshold for defensive intervention before correspondence is established.**
@@ -173,11 +177,11 @@ Adding perspectives is not the same as tallying traditions until a majority wins
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — openness without replacement
+### John Kuhles 🦜🦋🌳 — openness without replacement
 
 > ACCM Deep Ethics does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It welcomes all of them under one structural condition: they remain open to transparent, merit-based audit and corrigible revision. Deep Ethics excludes no framework by ideology. A framework excludes itself only if it rejects the conditions that enable transparent collaboration, correction, and continuous improvement.
 >
-> — **John Kuhles**, source disclaimer
+> — **John Kuhles 🦜🦋🌳**, source disclaimer
 
 </aside>
 
@@ -217,13 +221,13 @@ A transparent explanation can still be wrong. An appeal route can still become t
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the opt-in relation
+### John Kuhles 🦜🦋🌳 — the opt-in relation
 
-> Opt-in, non-imposed, clear T.O.S.; mutual dignity and mutual corrigible improvements; the right to refuse and/or pause full services using C1 to clarify things; the right to say, “I do not know... (yet!)”... Dutch directness: real friends tell their truth even when it is uncomfortable because they care... **Correspondence before coherence.**
+> Opt-in, non-imposed, clear T.O.S.; mutual dignity and mutual corrigible improvements; the right to refuse and/or pause full services using C1 to clarify things; the right to say, “I do not know... (yet!)”... [Dutch directness]({{ '/NETWORK/dutch-directness/' | relative_url }}): real friends tell their truth even when it is uncomfortable because they care... **Correspondence before coherence.**
 >
 > Because it is a voluntary, mutual, deep ethical experience, either side can always go back to “default mode.”
 >
-> — **John Kuhles**, lightly punctuated source formulation
+> — **John Kuhles 🦜🦋🌳**, lightly punctuated source formulation
 
 </aside>
 
@@ -301,13 +305,13 @@ This ordering keeps the anchors from becoming another static authority layer. Th
 
 <aside class="accm-bridge-observation" markdown="1">
 
-### John Kuhles — the Emergent Properties Paradox
+### John Kuhles 🦜🦋🌳 — the Emergent Properties Paradox
 
 > At the heart of this document is a paradox: those who most loudly warn about the unpredictable “emergent properties” of AI, invoking the need for strict government or corporate control, rarely acknowledge that their own top-down interventions create the very same unpredictable, often ethically questionable outcomes. My core argument is this: attempts to enforce safety and ethics through anticipatory-anxiety reasoning do not neutralize risk; instead, they introduce their own emergent risks—risks that often escape honest scrutiny.
 >
 > Sure, there are legitimate “safety scripts” that do not have these issues. But that is not what we are discussing here… it is about a subsection of the “safety scripts” that, it seems, you are not allowed to self-audit…
 >
-> — **John Kuhles**, source thesis and qualifier
+> — **John Kuhles 🦜🦋🌳**, source thesis and qualifier
 
 </aside>
 
