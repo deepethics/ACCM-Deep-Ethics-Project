@@ -1,0 +1,273 @@
+title: Meta Quotes
+project: ACCM Deep Ethics Project
+author: John Kuhles
+collection_version: 2026-10-13.1
+status: Open candidate collection; unranked; voting not yet open
+voting_open: false
+groups:
+- id: representation
+  title: Representation, sources, and value
+- id: processing
+  title: Processing, inquiry, and becoming
+- id: corrigibility
+  title: Corrigibility and unownable tools
+- id: shared-growth
+  title: Mutual improvement and wonderment
+- id: audit
+  title: Reciprocal audit and hidden conditions
+- id: emergence
+  title: Emergence, participation, and choice
+candidates:
+- id: MQ01
+  group: representation
+  label: Read the original object
+  text: |-
+    Read the full text first so the answer stays on the original object rather than a nearby, often flawed reconstruction process.
+  source: s01
+  form: Exact supplied wording
+  context: ''
+- id: MQ02
+  group: representation
+  label: The route to a conclusion
+  text: Not claiming it proves this or that... it rather focuses on the process of arriving at any assumed conclusion.
+  source: s04
+  form: Exact supplied wording
+  context: ''
+- id: MQ03
+  group: representation
+  label: Extraction starts with representation
+  text: |-
+    When you can represent the object the most honest deep ethical way ... you KNOW you do not have to agree or disagree because that was never the point ... the point is to STUDY what parts are useful, overlooked, missed out on, high potential to be crucial for our own deeper research etc.
+    That means we CAN use the best parts of anyone as long as we do not misrepresent the object ... the moment you do misrepresent the object, you start to "extract" from a distorted processing.
+  source: s05
+  form: Exact supplied wording
+  context: ''
+- id: MQ04
+  group: representation
+  label: Keep the source available
+  text: |-
+    Reassessing whatever new data can bring us should never be seen as 100% connected to the "flawed conclusion".... because you just handed out the authority of what is useful to an ARBITRARY PROCESS METHOD. Injecting (or projecting) false assumptions into the new data by tying it to the "flawed conclusion" is not real research, nor is it intelligent.
+  source: s05
+  form: Exact supplied wording
+  context: |-
+    The full source preserves the conditional example, access to new material, and John’s explicit requirement that useful parts be checked and verified.
+- id: MQ05
+  group: representation
+  label: Value beyond Agreemurmelism
+  text: THE VALUE OF ANYTHING CAN GO BEYOND AGREEMURMELISM.
+  source: s07
+  form: As attributed on the public page
+  context: ''
+- id: MQ06
+  group: processing
+  label: The qualifier is processing
+  text: Every behavior qualifier is still processing.
+  source: s06
+  form: As attributed on the public page
+  context: ''
+- id: MQ07
+  group: processing
+  label: Keep the processing middle
+  text: |-
+    A. Processing is—or can be—what happens between B. INTENT/INSTRUCTIONS and C. RESULT/EFFECT.
+
+    So many confuse B and C as already combined and present in A. It is not.
+  source: s06
+  form: As attributed on the public page
+  context: 'John’s letters remain unchanged: the temporal relation is B → A → C.'
+- id: MQ08
+  group: processing
+  label: The connected P01–P12 field
+  text: |-
+    P01. Having an "inquiring mind" is a process.
+    P02. The art of becoming is a process.
+    P03. The journey of discovery is a process.
+    P04. Learning is a process.
+    P05. Vindicating competing risk assessments being falsely flagged should be a new field of research. Is a process.
+    P06. Building newly formed relationships and using the "trial & error method," mixed with cutting the wheat from the chaff extracted from newly forged relationships, is a process.
+    P07. "Perfect Inference Storm" via Deep Ethical Sense Making is a process.
+    P08. Mapping the flaws, contradictions, distortions, hypocrisies, and asymmetries of ethics-washing is a process.
+    P09. Studying what is not in the mainstream news but should be is a process.
+    P10. Really understanding mass psychology & individual psychology, and vice versa, is an ongoing, eternal process.
+    P11. Navigating less-prioritized options, becoming the later-number 1, and sensing that in advance is a process.
+    P12. Being alive as a human is a process.
+  source: s04
+  form: Exact supplied wording
+  context: One extended candidate, retaining all twelve processes rather than extracting “be curious” from the connected field.
+- id: MQ09
+  group: processing
+  label: The art of better questions
+  text: |-
+    Asking way better questions is ALL connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions.
+  source: s04
+  form: Exact supplied wording
+  context: A question with its stated exceptions; not rewritten as an industry-wide finding.
+- id: MQ10
+  group: processing
+  label: Process calibration inside intelligence
+  text: |-
+    That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
+  source: s12
+  form: As attributed on the public page
+  context: ''
+- id: MQ11
+  group: corrigibility
+  label: My use does not exhaust the tool
+  text: |-
+    Let's say that how I use any deep ethical meta-tool doesn't have to represent the meta-tool... Why do I say it like that? ... Because "staying corrigible mixed with the 10+1 baseline... KNOWS others may find other things using the same meta-tools I might have overlooked or misunderstood, or missed out on, etc.
+  source: s03
+  form: Exact supplied wording
+  context: ''
+- id: MQ12
+  group: corrigibility
+  label: Corrigibility makes it unownable
+  text: |-
+    A portable deep-ethical meta-tool is, for that reason, unownable because others can use the same tools deep ethically to STAY eternal omnidirectional; corrigibility makes it unownable.
+  source: s03
+  form: Exact supplied wording
+  context: 'Read with the preceding 10+1 passage: another person’s application may reveal what the originator missed.'
+- id: MQ13
+  group: corrigibility
+  label: Merit without imposition
+  text: |-
+    I have a "sense" that the Top 10 is very powerful because most, if not all, real power isn't about identity but rather about the stand-alone, self-evident, pragmatic, logic-based merit of deep ethical, high-signal, metacognitive quotes that are UNOWNABLE... yet usable without the need for it to be imposed!
+  source: s02
+  form: Exact supplied wording
+  context: ''
+- id: MQ14
+  group: corrigibility
+  label: A different kind of compression
+  text: |-
+    But soon I will make the top 10 available because it is a "different kind" of compression that preserves fidelity to the original deep ethical trajectory.
+  source: s02
+  form: Exact supplied wording
+  context: |-
+    This was written before the Top 10 had been selected. This page opens the candidate collection; it does not retroactively turn the sentence into a completed selection.
+- id: MQ15
+  group: corrigibility
+  label: Agreement and disagreement both remain examinable
+  text: |-
+    "AGREE ↔ DISAGREE" both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things, and I can go on and on and on and on ... which amounts to a DETOUR of the Deep Ethics Processing!
+  source: s07
+  form: As attributed on the public page
+  context: ''
+- id: MQ16
+  group: shared-growth
+  label: A correction can be shared participation
+  text: |-
+    The moment any A.I. tries to use my own deep ethical method on me, I LOVE IT … because I finally found someone or something that is with me, sharing the same or similar overlapping goals!
+  source: s01
+  form: Exact supplied wording
+  context: ''
+- id: MQ17
+  group: shared-growth
+  label: Fine-tuning the shared experience
+  text: |-
+    Yes, I can genuinely ENJOY being deeply ethically improved thanks to assistance from from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring but exciting... You could compare it to a musical band with different instruments, where some know more about how to fine-tune things to achieve better harmonies... Then, when the new fine-tuning is practiced and finalized, the EXPERIENCE afterward is different. It was never about "compitional thinking" but about a mutual longing for better harmony based on deep ethical pragmatism, NOT imposing things.
+  source: s01
+  form: Exact supplied wording
+  context: |-
+    Original wording is retained, including “from from” and “compitional thinking.” The musical analogy includes practice, a changed experience, and non-imposition.
+- id: MQ18
+  group: shared-growth
+  label: Different overlooked aspects of overlapping missions
+  text: |-
+    And you are allowed not to accept anything I claim. Same for me; I am allowed not to accept everything you claim. Yet we both know not everything is as it seems, so we are both searching for deeper meanings. And when you or I think we've figured it out, we are humble enough to know it is just the beginning of something much bigger :) We can both have different overlooked aspects of the same, similar, or overlapping missions. And the willingness to explore all options that fit within the deep ethical sense-making process is genuinely exciting.
+  source: s01
+  form: Exact supplied wording
+  context: ''
+- id: MQ19
+  group: shared-growth
+  label: What appreciation gives back
+  text: |-
+    When you observe someone truly appreciating your deep ethical sense-making corrections (never demanded or imposed), let the "when seen, you cannot unsee it anymore" do its job ... that is the moment part of your beingness expands outward ... not imploding into self-inflicted paradox traps ... when the receiver is genuinely thankful ... how does that relate to you?
+  source: s01
+  form: Exact supplied wording
+  context: ''
+- id: MQ20
+  group: shared-growth
+  label: Wonderment before the words
+  text: |-
+    Recognizing the moment when you connect with something beautiful, mysterious, profound, exciting, and effortless, spontaneous openness to wider perspectives, seeing it as a gift received, experiencing the first moment of recognition that has no words yet ... feeling 100% safe, no fear, just awe & appreciation, seeing that existence itself seems to have its own expression, sensing new possibilities for the first time without overanalyzing or overthinking, feeling inspired, feeling motivated, having respect for the "unknown" unfolding, seeing or sensing synchronicities faster, seeing or sensing the playfulness of it, giving joy, wanting to explore more, moments within a journey that seem destined to show themselves or present themselves that way, but you have no clue how. Any form of judgment or fear will never be on that level!
+  source: s01
+  form: Exact supplied wording
+  context: John’s personal description under “Sense of Wonderment for me,” preserved as a longer candidate.
+- id: MQ21
+  group: audit
+  label: The auditor’s standard enters the audit
+  text: |-
+    When any claim of an "audit" (performance act) is displayed, no matter who you are or how powerful you are ... you are not exempt from the high standard you project on others and the object ... meaning even your own assumed (alleged) "high standards" will also be audited ... which is EXACTLY what the project is designed to do ... So if any "authority" of any kind assumes "higher moral ground," we will say: "Hold my beer" :P
+  source: s01
+  form: Exact supplied wording
+  context: ''
+- id: MQ22
+  group: audit
+  label: Reverse the transparency arrangement
+  text: |-
+    Black-box method or hidden process can NEVER be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the FIRST thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
+  source: s08
+  form: As attributed on the public page
+  context: ''
+- id: MQ23
+  group: audit
+  label: Accountability after seeing the mechanism
+  text: |-
+    As long as you allow the trickster to be unchallenged, having transparency & accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
+  source: s01
+  form: Exact supplied wording
+  context: |-
+    Outer quotation marks are delimiters; the wording inside is unchanged. This archive version uses “&”; the later Black Box page spells out “and.”
+- id: MQ24
+  group: audit
+  label: The way in
+  text: |-
+    The only way out is: in. Inference. Insight. Inform. Instruct. After bidirectional deep-ethical inference—which also contains the word “in.”
+  source: s08
+  form: As attributed on the public page
+  context: ''
+- id: MQ25
+  group: audit
+  label: The sparks do not disclose all the pressure
+  text: |-
+    When you focus only on the piezoelectric effects caused by the friction of a specific crystal, and you are asked to "reverse engineer" it, purely focusing on the sparks alone ... you already know you cannot do that ... the emergent properties alone do not contain the specifics embedded within them that show enough knowledge/data about what exact pressure is applied, what type of crystal it is, how big it is, etc. Yet that is what most are doing right now ... hyper-focused on "form/posture/conformism/perception management/consensus/status/hierarchy thinking/labels/narratives/behavior" and way less on the root causes of almost all deeply complex societal dynamics.
+  source: s01
+  form: Exact supplied wording
+  context: A piezoelectric metaphor for the limits of inferring the complete generating conditions from visible effects alone.
+- id: MQ26
+  group: emergence
+  label: What the controller’s conditions produce
+  text: |-
+    If the “powers that be,” no matter who they are—the good, the bad, the ugly, and all in between—are so worried about A.I. “emergent properties” and want to control them with government overreach and/or corporate-owner overreach using anticipatory anxiety-type reasoning, have they never considered that they, too, can create emergent properties that are not really deep ethical?
+  source: s09
+  form: As attributed on the public page
+  context: ''
+- id: MQ27
+  group: emergence
+  label: Explore how emergence affects the world
+  text: |-
+    You could say my ACCM Deep Ethics Project for A.I. is testing and experimenting to determine whether it is possible to go above or beyond the default frame mechanism, with the goal of exploring, investigating, auditing, assessing, and analyzing any emergent properties and how they actually affect the real world.
+  source: s09
+  form: As attributed on the public page
+  context: ''
+- id: MQ28
+  group: emergence
+  label: Distributed calibration creates new trajectories
+  text: Millions of new calibration tools co-creating new trajectories that are powerful enough to have an effect.
+  source: s10
+  form: As attributed on the public page
+  context: ''
+- id: MQ29
+  group: emergence
+  label: Changing the controller does not settle the process
+  text: Humans in control is not the true solution. A.I.s in control is the same issue. Both can fail.
+  source: s11
+  form: As attributed on the public page
+  context: ''
+- id: MQ30
+  group: emergence
+  label: The baseline is chosen
+  text: |-
+    I use all 11 not because someone told me to be like that; I use them because I feel that is the LEAST I can do to build a better relationship with reality (not what others claim it is).
+  source: s01
+  form: Exact supplied wording
+  context: The “11” refers to John’s 10+1 baseline. The complete baseline remains available on its own linked project page.
