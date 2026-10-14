@@ -590,7 +590,7 @@ The answer therefore remains alive:
 
 **Human source and direction:** John Kuhles supplied the complete originating object: the search-summary paradox; the multidisciplinary, cross-ideological, human–A.I., psychological, epistemological, social, spiritual, and pragmatic field; the long native topology expression; the question of which professions would be required; the source archive and model-testing history; MiniMax-M3 observations; C1–C2 tension; competing emergent-property hypothesis; four danger transformations; Arena.ai observation and qualifier; X/Y trajectories; the word-family joke; and the question of whether **Deep** is earned.
 
-**GPT-6.1 Sol contribution:** constructed the layered search fingerprint, semantic bridge, overlapping professions-and-expertise network, multidimensional operational account of depth, research conditions, claim-status distinctions, self-audit, and public synthesis. These are attributed editorial and analytical contributions, open to correction.
+**GPT A.I. editorial contribution:** constructed the layered search fingerprint, semantic bridge, overlapping professions-and-expertise network, multidimensional operational account of depth, research conditions, claim-status distinctions, self-audit, and public synthesis. These are attributed editorial and analytical contributions, open to correction.
 
 **Access perimeter:** this page is based on the conversation and text supplied by John, the public ACCM Deep Ethics Project architecture, and the linked 11+1 Explorer. It is not yet a systematic literature review, professional consensus statement, independent audit of the full private archive, or proof that every proposed mechanism generalizes beyond the recorded cases.
 
