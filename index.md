@@ -119,6 +119,16 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Deep Thinkers</strong>
     <span>A living, provenance-aware corpus of famous reflections on intelligence, their overlapping property taxonomy, the psychology of what survives, and the title-fee inherited by A.I.</span>
   </a>
+  <a class="accm-door" href="{{ '/DEEP/' | relative_url }}">
+    <span class="accm-door-kicker">Why the word must be earned</span>
+    <strong>Deep</strong>
+    <span>The search-summary paradox, 11+1 properties topology, overlapping professions-and-expertise network, longitudinal experiment, claim-status discipline, and operational test behind “Deep Ethics.”</span>
+  </a>
+  <a class="accm-door" href="{{ '/UNOWNABLE/' | relative_url }}">
+    <span class="accm-door-kicker">Renewable auditability</span>
+    <strong>Unownable</strong>
+    <span>A material-triggered audit field with bounded stopping conditions, permanent reopenability, proportionate action, and no final ethical owner.</span>
+  </a>
   <a class="accm-door" href="{{ '/EMERGENT/' | relative_url }}">
     <span class="accm-door-kicker">Competing system trajectories</span>
     <strong>Emergent</strong>
@@ -209,6 +219,8 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the working core: correspondence obstructions and the inquiry protocol.
 - [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the baseline ingredients the rest of the architecture keeps returning to.
 - [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — a provenance-aware route from humanity's famous reflections on intelligence to psychology, mass psychology, A.I., correction, and the 1888 thought experiment.
+- [**Deep**]({{ '/DEEP/' | relative_url }}) — why “Deep” is an operational, corrigible claim grounded in a multidimensional process and overlapping expertise network.
+- [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability with material triggers, bounded stopping conditions, and no final ethical owner.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — compares deep-ethical and ethics-washing emergent trajectories, their obstruction pathways, and testable selection conditions.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, economic, and mass-psychological opacity while specifying inspectable correction rights.
 - [**Veto paradox solved**]({{ '/VETO-PARADOX/' | relative_url }}) — the one-line veto is temporary source-integrity, not a new sheriff.
