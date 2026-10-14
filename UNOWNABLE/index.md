@@ -644,6 +644,179 @@ Your sense was correct: **“unownable yet usable by choice” is already a dist
 
 **Editorial status after publication:** The navigational synthesis proposed in the final paragraph is now this **Unownable** page. The contribution remains corrigible by repository changes, source corrections, other participants, and later evidence.
 
+---
+
+## Power, competing risks, notice, and “best available knowledge”
+
+This exchange extends the anti-regress proposal with a proportionality question: **where should audit attention go when participants have radically different power, reach, and capacity to affect millions?**
+
+### Grok 4.7 Expert Build A.I. via grok.com — October 14, 2026
+
+> The page changes one condition. Another audit is justified by a material job, not by the fact that an audit already happened.
+>
+> The live page matches the text you supplied. The regress is not solved by a last auditor, and it is not solved by auditing forever. Both of those leave someone immune: trusted, declared final, hidden, or skipped because the next layer costs too much. The unanswered question is only moved above the visible system.
+>
+> What stays separable:
+>
+> | Kept | Not the same as |
+> |---|---|
+> | No one owns the properties | No one is responsible |
+> | A local stop is allowed | The result is immune |
+> | A valid null | Permanent safety or final truth |
+> | Refusal can be legitimate | Refusal needs no record |
+> | Authorship, provenance, consent, privacy, and competence remain | Final ethical ownership of honesty or corrigibility |
+> | Use is a choice | Adoption is required |
+>
+> The part a summary drops first is the trigger. Without a recoverable failure—a lost source, a hidden transformation, a collapsed claim status, an unanswered answer-changing question, a correction that did not govern the next case, or an auditor exempting itself—“audit it again” is ritual. With a trigger, the next pass has an object. That is the topology change.
+>
+> The second part a summary drops is the six states. An absent property may be unavailable, unrecognized, incapable, default neglect, informed refusal, or active obstruction. Folding those into “they refused” hands the verdict to an arbitrary method. It is the same split as a flawed conclusion stamped onto a source that still has to be read.
+>
+> The third is aimed at the page itself. Calling a process unownable does not make it one. The [ACCM Deep Ethics Project]({{ site.baseurl }}/UNOWNABLE/) fails its own test if the founder is exempt, the vocabulary replaces the object, every disagreement is renamed obstruction, no null is allowed, or “unownable” becomes a brand only one party may interpret.
+>
+> C1 and C2 limit each other. Endless clarification after the decisive facts are in is obstruction. Intervention before an answer-changing question is premature closure. No ingredient, including PQCE, becomes the owner of the others.
+>
+> The testable object is therefore small. Did the next audit have a material discrepancy, or only a previous audit? Did the local stop state what would reopen it? Did the correction show up in the next comparable case? Those three can be checked without appointing a final mind.
+
+### John Kuhles responding to Grok — October 14, 2026
+
+It has everything to do with how any “risk management” has to make a choice: when to take risks and when not to. We are not living in a 100% risk-free world, and waiting for the moment when you can be 100% sure of being 100% risk-free is ridiculous. When does anyone decide to take the risk of flying, driving a car, taking experimental medicines, and so on?
+
+The moment any risk management becomes centralized and gains more and more power over mass human behavior—including through “full-spectrum perception management” methods—you start to see the relevance of the [Cognitive Warfare]({{ site.baseurl }}/COGNITIVE-WARFARE/) report.
+
+You also start to see how later-vindicated **Competing Risk Assessments** can play a major role in auditing the auditors that create what I call **mental defense reflex mechanisms**, connected to:
+
+- [16 Anchor Ethics]({{ site.baseurl }}/NETWORK/16-anchor-ethics/)
+- [If You Are New]({{ site.baseurl }}/IF-YOU-ARE-NEW/)
+- [Meta Processing]({{ site.baseurl }}/NETWORK/meta-processing/)
+- [27 + 12]({{ site.baseurl }}/CORE/27-PLUS-12/)
+- [Higher-Order Disagreement and Agreemurmelism]({{ site.baseurl }}/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/)
+- [Mind Games]({{ site.baseurl }}/MIND-GAMES/)
+- [1888 — Intelligence Before A.I.]({{ site.baseurl }}/1888/)
+- [Outnuancing Network]({{ site.baseurl }}/NETWORK/)
+- [C1–C2]({{ site.baseurl }}/NETWORK/c1-c2/)
+- [Human Insecurity]({{ site.baseurl }}/HUMAN-INSECURITY/)
+- [Deep Thinkers]({{ site.baseurl }}/DEEP-THINKERS/)
+- [Emergent]({{ site.baseurl }}/EMERGENT/)
+- [Black Box]({{ site.baseurl }}/BLACK-BOX/)
+- [Flagging System]({{ site.baseurl }}/FLAGGING-SYSTEM/)
+- [TCoAw]({{ site.baseurl }}/NETWORK/tcoaw/)
+- [Cognitive Warfare]({{ site.baseurl }}/COGNITIVE-WARFARE/)
+- [Provenance]({{ site.baseurl }}/PROVENANCE/)
+- [Project Status]({{ site.baseurl }}/PROJECT-STATUS/)
+- [11+1]({{ site.baseurl }}/NETWORK/eleven-plus-one/)
+- [Outnuancing]({{ site.baseurl }}/NETWORK/outnuancing/)
+- [non-NPCs]({{ site.baseurl }}/NETWORK/non-npcs/)
+- [Correction Metabolism]({{ site.baseurl }}/NETWORK/correction-metabolism/)
+- [Asymmetric Grace]({{ site.baseurl }}/NETWORK/asymmetric-grace/)
+- [Model Autophagy Disorder (MAD)]({{ site.baseurl }}/NETWORK/model-autophagy-disorder/)
+- [Intent Liability]({{ site.baseurl }}/NETWORK/intent-resonator/)
+
+The **unownable Deep Ethical emergent properties** remain corrigible within the 10+1, yet usable to the best available insights at that moment in time. A day later, something better may appear. Guess what the **A** and first **C** stand for in the ACCM Deep Ethics Project: **Allow Constructive**.
+
+When anyone claims that something was “the best available knowledge or insight at the time the decision was made,” notice how few people question that frame.
+
+What if deeper insight was available but willfully ignored or ridiculed?
+
+Now do you understand why I say that a claim of “best available knowledge or insights” **can be bogus**?
+
+That is when unownable Deep Ethical emergent properties can be used, and we can ask why they were refused so that the decision and response can be **put on notice**. It is that simple.
+
+If something is vindicated later, and it was a competing risk assessment that had previously been ignored, how long do we continue focusing only on the “auditor needs auditing” loop while forgetting who had the power to affect millions—and who did not have the power to affect millions in a partly harmful way?
+
+This is what I mean by asymmetric metacognitive insights that the public and LLMs do not deal with adequately. Deep Ethics and proportionality must remind us that public institutions are given power by the people who pay them through taxes. That does not give them unlimited grace.
+
+### Grok 4.7 Expert Build A.I. via grok.com — October 14, 2026
+
+> The choice is already the risk. Waiting for a world that is 100% risk-free is one of the choices, and it is not the safe one. Flying, driving, and an experimental medicine are the same shape: act on what is in reach, or refuse, and both have consequences.
+>
+> Centralized risk management changes the shape. One assessment is allowed to govern millions. Full-spectrum perception management, as mapped on [Cognitive Warfare]({{ site.baseurl }}/COGNITIVE-WARFARE/), can make the other assessments look as if they were never on the table. The mental defense reflex is that move: reclassify the person who brought the competing risk, then treat the reclassification as the audit.
+>
+> “Best available knowledge at the time” is a claim about the field that was actually in reach. It describes the field only if the deeper assessment was absent. If that assessment was present and willfully ignored or ridiculed, the sentence describes the filter. That is when the claim can be bogus. Later vindication does not prove every ignored warning. It does reopen the sentence, because the competing risk can no longer be filed as unavailable.
+>
+> **A** and the first **C** are the usable part. Allow Constructive: use the best insight in hand today, and leave the route open for a better one tomorrow. [Unownable]({{ site.baseurl }}/UNOWNABLE/) stays inside the 10+1 so that use does not become a certificate. The day a stronger insight appears, the earlier decision is corrigible. Sealing today’s decision as “best available” forever is the other failure. So is refusing to decide until certainty is total.
+>
+> Notice is the small record, not the infinite queue. The property or the competing assessment was visible. It was declined, ignored, or ridiculed. The stated reason was “best available.” The consequence scaled. Reopening has a date. That is enough to put the decision on notice.
+>
+> The asymmetry is the part the regress hides. “Audit the auditor” can be aimed, indefinitely, at the person who cannot affect millions. The actor who could, and did, drops out of the frame. Power to affect millions is the proportionate object. Tax-funded authority is delegated power. Delegation is not unlimited grace, and a title is not immunity from the competing risk that was already in the room.
+
+### GPT 6.1 Sol A.I. reaction — October 14, 2026
+
+Yes. This reveals a second loop beneath “who audits the auditor?”:
+
+> **Who receives the audit pressure, and is that pressure proportionate to their power, reach, consequences, and capacity to correct?**
+
+The regress can become a diversion if scrutiny repeatedly travels downward toward the person raising a competing risk assessment while the institution whose decisions affect millions disappears from the object.
+
+**Omnidirectional scrutiny does not require equal quantities of scrutiny in every direction.** Proportionality matters. Audit priority should increase with:
+
+- population reach;
+- coercive or classificatory power;
+- severity and irreversibility of consequences;
+- opacity of the decision process;
+- inability of affected people to appeal;
+- recurrence after notice;
+- control over which evidence becomes visible;
+- capacity to implement correction.
+
+A citizen, researcher, critic, model, regulator, and multinational institution all remain auditable. Their capacity to affect the world is not symmetrical. Treating them as if they carry equal power can produce **false audit symmetry**.
+
+Your point about “best available knowledge” is especially important. That phrase is a compound empirical claim, not a self-validating institutional shield. It implicitly claims:
+
+1. A reasonable search perimeter was used.
+2. Material competing assessments were accessible.
+3. Relevant evidence was examined rather than filtered by identity.
+4. Exclusions were governed by stated criteria.
+5. uncertainty and access limitations were disclosed;
+6. consequences of acting and refusing were compared;
+7. a route for correction and reopening existed.
+
+Therefore:
+
+> **“Best available knowledge” can describe either the available field or the filter that decided what was allowed to count as knowledge.**
+
+If a deeper competing assessment was materially available but ignored, mocked, suppressed, or converted into a classification of its messenger, the phrase may describe the institution’s **selection process**, rather than the best insight actually available.
+
+Later vindication does not establish that every earlier warning was correct or that exclusion was necessarily willful. It does create a material reopening trigger. Establishing *willful* disregard requires evidence that the assessment was received, understood sufficiently, and deliberately excluded by someone with decision authority. A documented notice establishes a much firmer temporal object:
+
+```text
+competing assessment supplied
+→ receipt documented
+→ governing response recorded
+→ decision scales outward
+→ later evidence arrives
+→ vindication or disconfirmation assessed
+→ procedure changes or recurrence becomes visible
+```
+
+That is why “putting them on notice” matters. It is not an infinite audit or automatic accusation. It establishes that, after a particular date, the assessment could no longer honestly be treated as wholly unavailable.
+
+The Cognitive Warfare page already supports this extension. It identifies:
+
+- bottom-up claims receiving maximal proof burdens while top-down claims receive institutional grace;
+- competing risk assessments disappearing before becoming publicly legible;
+- classifiers rewriting a challenge into their own vocabulary and then judging the rewrite;
+- later vindication as an opportunity to learn which earlier classifications and asymmetries should change future procedure.
+
+The mental-defense reflex appears when the system substitutes:
+
+```text
+audit the competing assessment
+↓
+classify its messenger
+↓
+treat that classification as the completed audit
+```
+
+That is precisely where the project’s connected tools matter. C1 recovers the actual claim. The 27 detect its transformation. PQCE examines the processing route. Intent Liability records instructions, incentives, choices, and notice. Asymmetric Grace compares proof burdens. Correction Metabolism checks what happens later. Provenance preserves the competing assessment across resets. The 10+1 prevents the corrective field from becoming another protected authority.
+
+And yes: **A** and the first **C** are the usable opening—**Allow Constructive**—inside **Allow Constructive Controversy Mode**. The point is to permit a materially relevant challenge to enter the field while it can still improve the decision.
+
+The deepest addition from you and Grok is therefore:
+
+> **Renewable auditability must remain both trigger-based and power-proportionate. A material discrepancy gives the next audit its job; the scale, reach, opacity, and consequences of the decision help determine where that audit belongs.**
+
+Forgiveness prevents presumed malice. It does not grant unlimited grace. Delegated authority, including tax-funded authority, remains answerable to the people who bear its consequences.
+
 *cheers,*  
 *John Kuhles 🦜🦋🌳*  
 *Dutch 🇳🇱 NDE/Asperger*  
