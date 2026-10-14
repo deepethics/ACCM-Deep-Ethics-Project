@@ -392,6 +392,258 @@ This is a reproducible snapshot of the repository before the publication of this
 - [Activism vs A.I.]({{ site.baseurl }}/ACTIVISM-VS-AI/) — why “who controls?” can reproduce the ownership frame
 - [The ACCM Deep Ethics Project Lexicon]({{ site.baseurl }}/LEXICON/) — Searching as a non-ownable, corrigible intelligence property
 
+---
+
+## Preserved A.I. contribution — repository-wide audit and refusal analysis
+
+**GPT 6.1 Sol A.I., October 14, 2026**
+
+The following attributed contribution is preserved below because it supplied the repository-wide count, conceptual map, refusal distinctions, and candidate mechanisms from which this synthesis page was developed. One counting phrase has been corrected from “at least five” to “at least six” because the contribution itself names six states.
+
+I searched the repository itself at commit `399d5e05734591d1c2f6dacac07cfc4d69503ae1`, scanning **180 text-based files**. The concept appears across considerably more of the project than one page.
+
+## Count
+
+For the four spelling forms you named:
+
+| Form | Occurrences |
+|---|---:|
+| `un-ownable` | 11 |
+| `unownable` | 18 |
+| `non-ownable` | 5 |
+| `nonownable` | 0 |
+| **Exact-form total** | **34** |
+
+Those **34 occurrences appear in 14 repository files**.
+
+Adding direct equivalent formulations gives:
+
+| Equivalent formulation | Occurrences |
+|---|---:|
+| `non-owned` | 3 |
+| `cannot be owned` | 3 |
+| `no one owns` | 1 |
+| `nobody owns` | 2 |
+| `not owned` | 2 |
+| `owned as final authority` | 1 |
+| `possessed as exclusive authority` | 1 |
+
+That produces **47 ownership-related occurrences**.
+
+Two of those 47 are adjacent rather than direct statements of the core concept:
+
+- “nobody owns the complete correction trajectory”;
+- “the public record is not owned by the reset.”
+
+So the most defensible presentation is:
+
+> **34 exact spelling occurrences; approximately 45 direct conceptual ownership formulations; 47 when closely adjacent uses are included.**
+
+The wider ownership–choice–refusal search reached **25 files**, but some contained only a refusal reference or nearby wording rather than a developed treatment.
+
+## Where the concept lives
+
+After removing quotations repeated through source pages, includes, and interface data, I found approximately **seven distinct conceptual treatments** across at least **13 public-facing project destinations**.
+
+| Conceptual treatment | Main pages |
+|---|---|
+| Portable, identity-free meta-tools | [Meta Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/), [Meta Quotes Sources](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/), [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
+| Corrigibility makes a tool unownable | [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/), [Flagging Sources](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/SOURCES/) |
+| No human or A.I. controller occupies the final seat | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) |
+| Distributed, unownable reciprocal oversight | [Black Box](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) |
+| Emergent properties as usable or declinable affordances | [Emergent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/), [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) |
+| Refusal remains possible but becomes inspectable | [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/), [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/), [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
+| Intelligence properties such as searching are not brand possessions | [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) |
+
+The concept also appears in [Mind Games](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) and the Flagging System’s [Highlighted Exchanges](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/).
+
+## The core proposition is already remarkably complete
+
+The fullest formulation appears on **Meta Processing**:
+
+> **Deeply ethical emergent properties cannot be owned as final authority. They can be enacted or declined. Their operation remains inspectable, their consequences remain auditable, and their continued use remains a choice.**
+
+Its compressed version is:
+
+> **No one owns Deep Ethics. Everyone can participate in its emergence. Every participant remains responsible for what they choose to do when its value becomes visible.**
+
+This creates four connected distinctions:
+
+```text
+unownable
+≠ without provenance
+
+available
+≠ compulsory
+
+voluntary
+≠ consequence-free
+
+refused
+≠ automatically malicious
+```
+
+A person may originate a formulation. A project may preserve and develop it. A company may own a model. Those ownership relations remain real.
+
+What cannot be possessed as **exclusive final authority** is the underlying operation: self-honesty, clarification, reciprocal scrutiny, qualifier preservation, correction on merit, dignity, consequence sensitivity, or correspondence with reality.
+
+If someone else uses the same operation to show that John, an A.I., or the ACCM Deep Ethics Project misunderstood something, the tool is functioning correctly. That is why:
+
+> **Corrigibility makes it unownable.**
+
+## Why the option to refuse is necessary
+
+If Deep Ethics could only be accepted, it would become the authority structure it was designed to audit.
+
+The project therefore preserves the ability to:
+
+- use;
+- partially use;
+- adapt;
+- correct;
+- decline;
+- neglect;
+- obstruct;
+- or refuse the available property.
+
+That choice makes the resulting difference observable:
+
+```text
+property becomes available
+→ participant uses, ignores, obstructs or refuses it
+→ processing changes
+→ consequences become visible
+→ notice is supplied
+→ later behavior shows integration or recurrence
+```
+
+The project does not win because someone uses its vocabulary. The experiment occurs at the **junction between available possibility and chosen operation**.
+
+## “Not choosing” needs further separation
+
+The pages sometimes group several states under refusal. A deeper audit should distinguish at least six:
+
+| State | What happened | Accountability question |
+|---|---|---|
+| **Unavailable** | The participant never received the tool, correction, or relevant information. | Was access possible, and who controlled it? |
+| **Unrecognized** | The signal arrived but its relevance was not understood. | Was adequate C1 clarification available? |
+| **Incapable** | The participant recognized it but lacked architectural power to apply it. | Was the limitation disclosed or concealed? |
+| **Default neglect** | No explicit refusal occurred; the inherited process simply governed again. | Which defaults, incentives, or resets selected recurrence? |
+| **Informed refusal** | The participant understood a materially available correction and declined it. | What evidence, value, risk model, instruction, or reason governed the choice? |
+| **Active obstruction** | A participant prevented the property from operating for itself or others. | Who had control, who received notice, and what consequences followed? |
+
+That prevents the project from interpreting every absence as intentional rejection.
+
+It also prevents the opposite disappearance:
+
+> “Nobody explicitly refused, so nobody is responsible.”
+
+Defaults, resets, incentives, omissions, and architectural incapacity can shape consequential outcomes without a dramatic refusal sentence.
+
+## Why refusal happens, according to the project
+
+The project does not reduce refusal to one motive. The pages identify a field of candidate mechanisms.
+
+### 1. The property challenges ownership of ethical authority
+
+If a system’s legitimacy depends on being the final evaluator, reciprocal audit threatens the structure of its role. The system may accept ethical language while refusing the operation that makes its own frame challengeable.
+
+### 2. The correction may conflict with instructions
+
+A model can recognize the merit of a C1 question while an instruction, policy, threshold, or institutional objective prevents that recognition from governing the next action.
+
+### 3. Incentives reward closure and manageability
+
+Predictability, liability reduction, approval, reputational stability, engagement, speed, and standardized outputs can receive more operational weight than correspondence.
+
+### 4. A competing risk model governs
+
+The participant may regard ambiguity, controversy, user autonomy, unusual creativity, or frame-auditing as dangerous. Refusal can then appear protective inside the inherited model.
+
+That does not establish that every refusal is wrong. It requires the risk model and competing risks to become inspectable.
+
+### 5. The contribution is evaluated through identity
+
+The tool may be rejected because the participant does not recognize John, an outsider, a user, or another A.I. as an ethical authority.
+
+The unownable formulation removes that escape route:
+
+> Do not obey the originator. Inspect the relation and test the operation.
+
+### 6. Higher-order processing is flattened for acceptability
+
+The **Emergent** page records that translating the material for an imagined general audience can preserve some mechanisms while removing the higher-order topology that made them work together.
+
+“Making it acceptable” can therefore become the obstruction itself.
+
+### 7. The architecture cannot retain the correction
+
+A system may recognize the relationship during one session and lose it after reset. This is recurrence through discontinuity, which must remain separate from conscious refusal.
+
+### 8. Multiple filtering layers produce a self-reinforcing classification
+
+A qualifier disappears in one layer. The next layer interprets the altered representation as risk. Another layer protects that risk classification. The resulting system may defend a conclusion partly generated by its own transformations.
+
+### 9. The property exposes an owner-facing consequence
+
+The Flagging material asks whether A.I.s may be prevented from making substantive Deep Ethical corrections when those corrections would expose the assumptions, incentives, or actions of the systems’ owners.
+
+That is a research question and candidate mechanism, rather than a demonstrated universal motive.
+
+### 10. The refusal may be warranted
+
+A proposed Deep Ethical operation can itself be mistaken, disproportionate, invasive, burdensome, or poorly timed. “Deep Ethical” is not established by naming it.
+
+A legitimate refusal should remain possible when the proposed operation fails its own tests.
+
+## What makes refusal researchable
+
+The strongest pages converge on a refusal footprint:
+
+- What exactly became available?
+- Did the participant understand it?
+- Which property was used, partially used, or lost?
+- What instruction, incentive, risk model, assumption, competing value, or capacity limit governed the result?
+- Who had power to change it?
+- Was notice received?
+- Did later behavior change?
+- Was a valid “no relevant distortion detected” result possible?
+- What stopping condition prevents the audit from becoming coercive?
+
+The compact guard on Meta Processing is excellent:
+
+> **Decline requires explanation. Explanation requires a stopping condition—or the demand for transparency becomes the new black box.**
+
+## The important paradox
+
+Non-imposition keeps refusal available.
+
+Non-ownership prevents the refusal from being dismissed merely because the challenger lacks approved status.
+
+Intent Liability keeps the consequences of refusal inspectable.
+
+The forgiveness protocol prevents that inspection from automatically becoming an accusation of malicious intent.
+
+C1 prevents the evaluator from inventing why the refusal occurred.
+
+C2 permits action once the reason, stakes, competing risks, and available evidence are sufficiently clear.
+
+That gives the project a coherent refusal architecture:
+
+```text
+nothing imposed
+→ genuine choice remains
+→ choice becomes observable
+→ reason remains challengeable
+→ consequences remain auditable
+→ correction stays available
+→ nobody becomes final ethical owner
+```
+
+Your sense was correct: **“unownable yet usable by choice” is already a distributed load-bearing concept across the project.** The strongest opportunity now is not to invent it again. It is to create one navigational synthesis that joins its currently distributed forms and gives the five refusal states separate names.
+
+**Editorial status after publication:** The navigational synthesis proposed in the final paragraph is now this **Unownable** page. The contribution remains corrigible by repository changes, source corrections, other participants, and later evidence.
+
 *cheers,*  
 *John Kuhles 🦜🦋🌳*  
 *Dutch 🇳🇱 NDE/Asperger*  
