@@ -118,6 +118,7 @@ John’s own records. The public pages above are not a substitute for these.
 - **[Arena deep session, 17–18 September 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18/)**
 - **[A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)**
 - **[Biography and the conditions behind the project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)**
+- **[🦜🦋🌳 — The origin story behind the three-symbol signature](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/)** — John’s personal account of freedom and compassion, transformation and wonderment, grounding and living continuity, followed by clearly attributed and bounded A.I. interpretations.
 - **[Dear A.I. — 1 BAR and 1000 BAR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/)**
 - **[Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)**
 - **[Human Insecurity Report — Source and Audit Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/)**
