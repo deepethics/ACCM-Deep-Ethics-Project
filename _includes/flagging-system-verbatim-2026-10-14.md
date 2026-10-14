@@ -8,6 +8,8 @@ The record begins with John's message at **11:31:12 UTC** and ends with GPT's re
 
 [Later continuation — coverage audit, interacting layers, and the refusal footprint](#layered-processing)
 
+[Full verbatim response — the rewrite and its transformation footprint](#verbatim-rewrite)
+
 ---
 
 ### John Kuhles — 14 October 2026, 11:31:12 UTC {#verbatim-john-statement}
@@ -139,3 +141,5 @@ The GitHub update is complete; website publication is currently queued.
 ---
 
 {% include flagging-system-layered-processing-2026-10-14.md %}
+
+{% include flagging-system-verbatim-rewrite-2026-10-14.md %}
