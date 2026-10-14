@@ -6,6 +6,8 @@ The record begins with John's message at **11:31:12 UTC** and ends with GPT's re
 
 [Jump to the joke](#verbatim-flagger-joke) · [Open the Humor entry]({{ '/HUMOR/' | relative_url }}#pqce-flags-the-flagger)
 
+[Later continuation — coverage audit, interacting layers, and the refusal footprint](#layered-processing)
+
 ---
 
 ### John Kuhles — 14 October 2026, 11:31:12 UTC {#verbatim-john-statement}
@@ -135,3 +137,5 @@ There’s a shortcut to the new entry at the top of the Humor page. **Existing j
 The GitHub update is complete; website publication is currently queued.
 
 ---
+
+{% include flagging-system-layered-processing-2026-10-14.md %}
