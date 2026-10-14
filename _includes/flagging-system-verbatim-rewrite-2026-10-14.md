@@ -31,7 +31,7 @@ That footprint must distinguish an actual decision record from a plausible expla
 
 **Participation remains voluntary. The consequences of exercising authority remain accountable.**
 
-This is the bridge between black-box governance and transparency. A black-box regime can determine what others are permitted to treat as safe or justified while shielding the process that makes those determinations receive equivalent scrutiny.
+This is the bridge between black-box governance and transparency. A black-box regime can determine what others are permitted to treat as safe or justified while shielding the process that makes those determinations. Its declarations then govern others without its own operation receiving equivalent scrutiny.
 
 Transparency makes that governing process reachable: **purpose → processing → decision → consequences → notice → correction or refusal → subsequent conduct**.
 
