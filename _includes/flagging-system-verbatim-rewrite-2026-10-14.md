@@ -3,6 +3,8 @@
 
 **GPT / Astra — complete response to John's 14 October 2026, 12:31:59 UTC message.** Added at John's request. The proposed revision is GPT's rewrite of John's statement; the signature within it is retained as it appeared in the proposal. The response's wording, punctuation, and emphasis are unchanged. Internal heading levels are adapted to this page, and chat-only citation markers are replaced with public source links.
 
+[Later development — generative PQCE and reciprocity](#generative-reciprocity) · [All eight highlighted exchanges](#highlighted-exchanges)
+
 ---
 
 **The strongest improvement is to connect the mechanisms more explicitly: what activates, what changes the next layer’s input, what gains authority, and what remains available for correction.** Your final point about my editing belongs inside that same examination.
@@ -29,7 +31,7 @@ That footprint must distinguish an actual decision record from a plausible expla
 
 **Participation remains voluntary. The consequences of exercising authority remain accountable.**
 
-This is the bridge between black-box governance and transparency. A black-box regime can determine what others are permitted to treat as safe or justified while shielding the process that makes those determinations. Its declarations then govern others without its own operation receiving equivalent scrutiny.
+This is the bridge between black-box governance and transparency. A black-box regime can determine what others are permitted to treat as safe or justified while shielding the process that makes those determinations receive equivalent scrutiny.
 
 Transparency makes that governing process reachable: **purpose → processing → decision → consequences → notice → correction or refusal → subsequent conduct**.
 
@@ -73,3 +75,5 @@ What did the editor preserve? What changed? Why was that change selected? Which 
 The source can remain intact while a proposed revision opens something useful. Your freedom to reject or improve this version is part of that relationship.
 
 **The rewrite should leave the same footprint it asks of the flagger.**
+
+{% include flagging-system-generative-reciprocity-2026-10-14.md %}
