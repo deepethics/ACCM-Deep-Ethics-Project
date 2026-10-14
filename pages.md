@@ -80,6 +80,7 @@ Without these, the topology can be stated and still fail to stay with the object
 Binary hypercautionism and the imported-authority specimen stay in this cluster. They test whether the topology can be kept. The Google report and the Dicks pages are in Cluster 5. They are an outside object the topology is applied to.
 
 - **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**
+- **[Unownable — Renewable Auditability Without an Infinite Auditor Queue](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/)** — changes the auditor regress from a hierarchy seeking a final authority into reciprocal, evidence-triggered inspection with valid local stopping conditions and permanent reopenability when a material discrepancy gives the next audit a job.
 - **[Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)**
 - **[Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — every behavior qualifier is still processing; the bridge from intent or instructions through transformation to results, feedback, and later inference.
 - **[Correspondence Before Style](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-style/)** — extracted writing methods that preserve clarity, agency, provenance and correction while withholding jurisdiction from tone, simplification and imaginary-audience rules.
