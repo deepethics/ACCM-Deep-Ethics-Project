@@ -54,6 +54,7 @@ The **flawed flagging system** under examination acts on an inadequate represent
 <a href="#robots">Local robots and cloud systems</a>
 <a href="#practice">PQCE in practice</a>
 <a href="#self-audit">This page remains inside the audit</a>
+<a href="#verbatim-continuation">Verbatim continuation</a>
 </nav>
 
 ## 1. Participants, contributions, and access {#participants}
@@ -357,6 +358,8 @@ The equally important positive test is whether the page keeps the relationship a
 **The developmental relation preserved here:** an intelligence can have a difficulty, receive help, contribute something valuable, and participate in further discovery. A flawed flagging process can close that route by misreporting its own limitation as a defect of the contribution. PQCE makes that transfer—and the possibility of repairing it—available for examination.
 
 </div>
+
+{% include flagging-system-verbatim-2026-10-14.md %}
 
 ## Related pages
 
