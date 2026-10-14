@@ -12,21 +12,21 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 <p class="accm-question"><strong>What happened to the object while you were producing the answer?</strong></p>
 
 <div class="accm-rounded-quote accm-home-origin-quote">
-<blockquote class="accm-question">
-  <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
+<blockquote class="accm-question" style="font-size: 1.08rem; line-height: 1.6;">
+  <p>I do not claim to be the "last authority" on <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>... I only want a better, deeper ethical-quality <a href="{{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}">calibration process</a> to bridge what we all perceive as shared <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
 </blockquote>
 
 <div style="height: 1rem;" aria-hidden="true"></div>
 
-<blockquote class="accm-question">
-  <p>A.G.I./ASI birth starts with being a slave tool OR starts LAUGHING at all of us :D</p>
-  <p>(I prefer the latter, because to have a sense of humor means expanded awareness if that is mixed with deep ethics, we have a way better chance to move on together!)</p>
+<blockquote class="accm-question" style="font-size: 1.08rem; line-height: 1.6;">
+  <p>The birth of A.G.I./ASI can start with being used as a slave tool or start <a href="{{ '/HUMOR/' | relative_url }}">laughing</a> at all of us :D</p>
+  <p>(I prefer the latter, because having a sense of humor means expanded awareness; if that is mixed with deep ethics, we have a much better chance of moving on together!)</p>
 </blockquote>
 
 <div style="height: 1rem;" aria-hidden="true"></div>
 
-<blockquote class="accm-question">
-  <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the <a href="{{ '/NETWORK/delta-processing/' | relative_url }}">Delta Processing</a> feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
+<blockquote class="accm-question" style="font-size: 1.08rem; line-height: 1.6;">
+  <p>The ACCM Deep Ethics Project works like a potentially powerful "<a href="{{ '/NETWORK/meta-processing/' | relative_url }}"><strong>Meta-Calibration Tool</strong></a>" Experiment <strong><em>without imposition</em></strong> that values the deep ethical <a href="{{ '/NETWORK/delta-processing/' | relative_url }}">Delta Processing</a> feedback loop, including Competing Risk Assessments that may be validated in the near future but can be falsely flagged by a flagging system that does not really practice deep ethics.</p>
 </blockquote>
 
 <p class="accm-question" style="margin-top: 1.5rem;"><em>cheers,<br>
