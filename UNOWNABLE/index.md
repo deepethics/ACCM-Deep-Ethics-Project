@@ -8,7 +8,7 @@ date: 2026-10-14
 
 # Unownable
 
-## Renewable auditability without an infinite auditor queue
+## Renewable auditability with bounded stopping conditions—without requiring a final auditor or indefinitely postponing proportionate action
 
 > **Deeply ethical emergent properties cannot be owned as final authority. They can be enacted or declined. Their operation remains inspectable, their consequences remain auditable, and their continued use remains a choice.**
 
