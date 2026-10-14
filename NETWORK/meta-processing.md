@@ -2130,6 +2130,7 @@ The contribution is therefore neither a certificate nor merely another conversat
 - <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888 — Intelligence Before A.I.</strong></a> — places process evaluation inside the inquiry into the property field of intelligence.
 - <a href="{{ '/NETWORK/tcoaw/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>TCoAw — Conceptual Topological Reasoning</strong></a> — preserves conceptual topology, healthy ambiguity, and delayed relational meaning without exempting claims from correction.
 - <a href="{{ '/NETWORK/outnuancing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Outnuancing</strong></a> — keeps new distinctions relational and revisable rather than installing one acceptable replacement.
+- <a href="{{ '/UNOWNABLE/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Unownable</strong></a> — synthesizes the non-owned property field, bounded PQCE stopping conditions and material triggers for renewed audit without a final auditor or infinite queue.
 - <a href="{{ '/EXTERNAL-AUDIT/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>External Audit</strong></a> — applies correspondence requirements to the evaluator in the same pass.
 - <a href="{{ '/HUMOR/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Humor / Funnymism</strong></a> — shows how delayed meaning, reversal, and laughter can expose a processing assumption.
 
