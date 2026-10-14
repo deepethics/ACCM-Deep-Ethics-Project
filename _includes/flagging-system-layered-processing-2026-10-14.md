@@ -180,6 +180,6 @@ The title and John's statement remain unchanged. The earlier analysis and verbat
 
 **The resulting research object is the source, the interacting transformations, the decision, the reason offered, the available correction, and what happens when that correction reaches—or fails to reach—the operation that governs the next move.**
 
-[Fuller source and attribution record]({{ '/FLAGGING-SYSTEM/LAYERED-SOURCES/' | relative_url }}) · [Return to the main statement](#meta-does-not-need-a-new-name)
+[Fuller source and attribution record]({{ '/FLAGGING-SYSTEM/LAYERED-SOURCES/' | relative_url }}) · [Return to the top of Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }})
 
 ---
