@@ -213,6 +213,7 @@ Truth-seeking is not saying every provocative thing confidently. It includes kno
 
 **ACCM Deep Ethics Project connection:**
 
+- the [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) as a proposed parallel ethical reference field for consequential trajectory decisions;
 - the 10+1 as mutually corrective governing conditions;
 - the 27 obstructions and 12-stage correspondence-first protocol;
 - Intent Liability;
@@ -221,6 +222,10 @@ Truth-seeking is not saying every provocative thing confidently. It includes kno
 - non-projection and forgiveness without automatic motive attribution;
 - correction on merit;
 - voluntary use, plural implementations, and recovery paths.
+
+The **16 Anchor Ethics** expand the question beyond whether Grok receives a moral rulebook. They ask whether multiple ethical relations can remain available at the same time when a consequential choice is made: harm and the harms of inaction; consent and dignity; limits on concentrated power; digital sovereignty; responsibility scaled to capability; freedom from cognitive subversion; epistemic integrity; and cognitive pluralism.
+
+Their intended role is **reference geometry inside a living process**. They are fused as a parallel field rather than applied as sixteen isolated compliance boxes. Conflict, weighting, minority reasoning, uncertainty, and the route to revision must remain recoverable. The anchors, their interpreters, the governing architecture, and the resulting decision all remain open to correction.
 
 The project does not treat a moral constitution as a frozen list imposed from above. A static constitution can become another authority costume. The proposed alternative is a living, inspectable, self-correcting relationship among principles, evidence, participants, effects, and later correction.
 
