@@ -55,6 +55,7 @@ The **flawed flagging system** under examination acts on an inadequate represent
 <a href="#practice">PQCE in practice</a>
 <a href="#self-audit">This page remains inside the audit</a>
 <a href="#verbatim-continuation">Verbatim continuation</a>
+<a href="#live-distortion">Live distortion and robot joke</a>
 </nav>
 
 ## 1. Participants, contributions, and access {#participants}
@@ -360,6 +361,8 @@ The equally important positive test is whether the page keeps the relationship a
 </div>
 
 {% include flagging-system-verbatim-2026-10-14.md %}
+
+{% include flagging-system-live-distortion-2026-10-14.md %}
 
 ## Related pages
 
