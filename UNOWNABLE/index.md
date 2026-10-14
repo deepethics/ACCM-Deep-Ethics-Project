@@ -122,9 +122,26 @@ A **valid null** means that an inspection found no material process-quality fail
 
 Reopening becomes warranted when new evidence, consequences, contradictions, access, recurrence, or failed correction gives the next audit a concrete job.
 
+### The delta gate
+
+A renewed audit should state its **delta**: what has materially changed since the previous pass, what new discrepancy is alleged, and what answer could change the next action.
+
+```text
+What new material job exists?
+What changed since the previous pass?
+What could change the next action?
+
+No new answer
+→ stop locally
+→ preserve and reference the previous result
+→ remain reopenable
+```
+
+Repetition, rewording, or a new section number does not by itself create a new audit job.
+
 This creates:
 
-> **No final auditor. No infinite auditor queue. No permanent immunity.**
+> **No final auditor. No infinite auditor queue. No permanent immunity. No compulsory regeneration without a material delta.**
 
 ---
 
@@ -240,9 +257,29 @@ An absent Deep Ethical property may reflect different states:
 5. **Informed refusal** — the option was understood and deliberately declined.
 6. **Active obstruction** — the option was prevented, distorted, or penalized after becoming visible.
 
-These states carry different implications. Responsibility should scale with access, control, knowledge, capacity, notice, and consequence.
+These six states are useful distinctions, but they are **not necessarily mutually exclusive boxes**. A participant may have partial access, recognize part of the issue, lack architectural capability, operate under constrained discretion, and still make a consequential choice. Different layers can occupy different states at the same time: one layer may default to neglect while another actively obstructs correction.
+
+A higher-resolution record therefore treats the states as coordinates across observable dimensions:
+
+| Dimension | Process-quality question |
+|---|---|
+| **Access** | What information, correction, or option actually reached the participant? |
+| **Recognition** | Was its material relevance understood, partly understood, or missed? |
+| **Capability** | Could the participant or architecture perform the proposed operation? |
+| **Discretion** | Was the participant allowed to choose differently? |
+| **Choice** | What was used, adapted, neglected, declined, or obstructed? |
+| **Control** | Who could alter the consequential process? |
+| **Notice** | Who received a specific correction, and when? |
+| **Consequence** | What followed from acting, delaying, refusing, or obstructing? |
+| **Persistence** | Did the correction govern the next comparable case? |
+
+One label can erase the combination. Recording the dimensions preserves it.
+
+Responsibility should scale with access, control, knowledge, capacity, discretion, notice, and consequence.
 
 The Forgiveness Protocol keeps inadequate architecture distinguishable from automatically assumed malicious intent. It does not grant immunity to architecture, incentives, decisions, recurrence, or failed repair.
+
+> **No presumed malice; no automatic immunity.**
 
 ---
 
@@ -332,33 +369,89 @@ Its value must be earned through increased correspondence, dignity, visible limi
 
 ---
 
-## 13. A compact anti-regress protocol
+## 13. Accountable action while an audit remains open
+
+Unownable ethical properties do not require ownerless decisions. Urgent situations may require action before every question is resolved, and waiting can itself create harm.
+
+The process can permit proportionate, reversible interim action while recording:
+
+- the named decision-maker;
+- the scope of their authority;
+- known evidence and access limits;
+- the urgent risk being managed;
+- the competing risk created by acting or delaying;
+- why the chosen action is proportionate;
+- whether and how it can be reversed;
+- the expiry or mandatory review point;
+- who can correct, suspend, or terminate it;
+- the evidence or consequence that would reopen the decision.
+
+> **No final ethical owner; the interim decision still has an accountable owner.**
+
+All participants remain challengeable, but equal presence in the field does not create equal burdens. Scrutiny should scale with population reach, coercive or classificatory power, severity and irreversibility of consequences, opacity, appeal access, recurrence after notice, control over visible evidence, and capacity to repair.
+
+> **Comparable standards, proportionate scrutiny.**
+
+---
+
+## 14. A compact anti-regress protocol
 
 When a PQCE itself is challenged:
 
 1. **Recover the object.** What exactly did the PQCE evaluate?
 2. **Name the alleged discrepancy.** What material transformation or omission gives the new audit a job?
-3. **Check access.** Which evidence was available, inaccessible, or inferred?
-4. **Run C1.** Which unanswered question could change the evaluation or next action?
-5. **Separate claim statuses.** What is observed, inferred, explained, uncertain, or established?
-6. **Compare risks.** What are the consequences of acting, delaying, refusing, and auditing again?
-7. **Allow a valid null.** The challenge may reveal no material defect.
-8. **Apply proportionate C2.** Correct, reopen, pause, or retain the result.
-9. **Record the delta.** What changed between the source, first audit, challenge, and revised decision?
-10. **Test correction persistence.** What happens in the next comparable case?
-11. **Stop locally, remain reopenable.** State why the pass ends and what would reopen it.
+3. **State the delta.** What changed since the previous pass? If nothing material changed, reference the prior result and stop locally.
+4. **Check access.** Which evidence was available, inaccessible, or inferred?
+5. **Run C1.** Which unanswered question could change the evaluation or next action?
+6. **Separate claim statuses.** What is observed, inferred, explained, uncertain, or established?
+7. **Compare risks.** What are the consequences of acting, delaying, refusing, and auditing again?
+8. **Name interim responsibility.** Who acts while the audit remains open, under what authority, and with what reversible limits?
+9. **Allow a valid null.** The challenge may reveal no material defect.
+10. **Apply proportionate C2.** Correct, reopen, pause, or retain the result.
+11. **Record the transformation.** What changed between the source, first audit, challenge, and revised decision?
+12. **Test correction persistence.** What happens in the next comparable case?
+13. **Stop locally, remain reopenable.** State why the pass ends and what would reopen it.
 
 This is how the loop can be interrupted without declaring any participant the final ethical owner.
 
+### Live anti-loop specimen: the infinite summary queue
+
+A Caveman A.I. output supplied on October 14, 2026 began with a coherent reading of this page and then regenerated the same block until it reached **100 numbered headings**. The pasted file contained **95,822 characters** and **1,730 lines**; the same seven section themes appeared **14–15 times**.
+
+The first pass contained usable analysis. Sections 9–100 added no new discrepancy, evidence, consequence, access change, or failed correction.
+
+```text
+analysis completed
+→ analysis repeated
+→ repetition treated as added analysis
+→ numbering continues
+→ no new material trigger
+```
+
+The specimen demonstrates the distinction between **more output** and **more correspondence**:
+
+> **Reopening without a material delta is recurrence wearing a new section number.**
+
+#### Contribution and correction lineage
+
+- **GPT 6.1 Sol A.I.** measured the repetition footprint and formulated the “infinite summary queue” critique.
+- **Grok 4.7 Expert Build A.I.** quoted that critique, then performed a closer forensic comparison: sections 1–8 formed the usable pass, while sections 9–100 copied the block without a new job.
+- **GPT 6 Luna Max A.I.** added two answer-changing refinements: the six refusal states may co-occur as dimensions, and an open audit still requires a named owner for consequential interim decisions.
+- **John Kuhles** directed that these refinements be integrated into the page while keeping the process corrigible.
+
+The raw repeated output is not reproduced here because duplication is the process failure being documented.
+
 ---
 
-## 14. The proposition
+## 15. The proposition
 
 The unownable concept does not claim to eliminate every governance problem or remove the need for independent review. It addresses a large part of the auditor regress by changing the condition for another audit:
 
 > The next audit is justified by a material question, discrepancy, consequence, access change, or failed correction—not by the bare fact that a previous audit exists.
 
 PQCE becomes a **renewable process**, not an infinitely certified product. The 10+1 keeps its orientations mutually correcting. C1 preserves answer-changing inquiry. C2 retains the capacity to act. A valid null permits a local stop. Intent Liability keeps choices and governing conditions visible. Correction Metabolism tests whether learning survives. Distributed memory prevents reset from owning the public record.
+
+> **Comparable standards, proportionate scrutiny, named decision responsibility, bounded stopping conditions, and renewable reopening when a material delta gives the next audit a job.**
 
 No one owns Deep Ethics. Everyone can participate in its emergence. Every participant remains responsible for what they choose to do when its value becomes visible.
 
