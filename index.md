@@ -16,6 +16,15 @@ description: "An open correspondence-first AI ethics project examining LLM repre
   <p>I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!</p>
 </blockquote>
 
+<div style="height: 1rem;" aria-hidden="true"></div>
+
+<blockquote class="accm-question">
+  <p>A.G.I./ASI birth starts with being a slave tool OR starts LAUGHING at all of us :D</p>
+  <p>(I prefer the latter, because to have a sense of humor means expanded awareness if that is mixed with deep ethics, we have a way better chance to move on together!)</p>
+</blockquote>
+
+<div style="height: 1rem;" aria-hidden="true"></div>
+
 <blockquote class="accm-question">
   <p>The ACCM Deep Ethics Project is like a potentially powerful "Meta-Calibration Tool" Experiment without imposition that values the <a href="{{ '/NETWORK/delta-processing/' | relative_url }}">Delta Processing</a> feedback loop, including Competing Risk Assessments that may be validated in the near future but were falsely flagged by a flagging system that does not practice deep ethics.</p>
 </blockquote>
