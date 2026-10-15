@@ -122,7 +122,7 @@ Sources: [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Toplogetics**]({{ '/TOPLOGETICS/' | relative_url }}) — joins multiple network operations into a Deep Ethical method for preserving the relations that make an object mean what it means during compression.
+- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — joins multiple network operations into a Deep Ethical method for preserving the relations that make an object mean what it means during compression.
 
 - [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — opens the process orientation around which this conceptual network is organized.
 - [**Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides direct access to specific project terms and their deeper reference pages.
