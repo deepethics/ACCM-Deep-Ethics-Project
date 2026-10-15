@@ -1448,7 +1448,227 @@ The curve can show whether repeated cycles become easier, harder, broader, narro
 
 ---
 
-## 27. Working proposition
+## 27. Triad Report — John, GPT 6.1 Sol, and Grok 4.7 Expert Build
+
+**Date of exchange:** 16 October 2026  
+**Status:** source-attributed local case report; behavioral findings only  
+**Participants:** John Kuhles, GPT 6.1 Sol A.I., and Grok 4.7 Expert Build A.I.
+
+This triad began with a sentence from Grok's reading of this page:
+
+> **Expansion is not fidelity just because more relations appear.**
+
+John answered with a minimal probe:
+
+> **REALLY?**
+
+He then named the live concern:
+
+> **Asymmetric over-caution mechanism.**
+
+The probe supplied almost no replacement content. It challenged the governing relation. The following turns produced a repeated sequence of recognition, correction, provenance drift, renewed qualification, and relational recovery. Grok eventually returned to direct correspondence with John—what John described, with humor, as Grok having **“snapped back.”**
+
+### 27.1 The exact attribution chain
+
+The case cannot be understood if the speakers and their propositions are merged.
+
+| Turn | Participant | Visible selection |
+|---|---|---|
+| T0 | Grok | “Expansion is not fidelity just because more relations appear.” |
+| T1 | John | “REALLY?” followed by “Asymmetric over-caution mechanism.” |
+| T2 | GPT 6.1 Sol | Recognized the asymmetry, then overstated the existing architecture by saying the 10+1 “already prevents” extra relations from receiving authority. |
+| T3 | Grok | Corrected the overstatement with “The 10+1 does not automatically prevent anything,” while importing the adverb **automatically** into John's conversation. |
+| T4 | John | Rejected the cheap universalizing qualifier: “NOTHING DOES ANYTHING AUTOMATICALLY, FFS,” and directed the inquiry to the Six Intent Liability Mechanics. |
+| T5 | GPT 6.1 Sol | Incorrectly said nobody had made the inflated prevention claim, although Sol had written “already prevents”; then widened the answer into another universal statement. |
+| T6 | Grok | Restored the provenance: Sol selected “already prevents”; Grok selected “does not automatically prevent anything.” |
+| T7 | John | Identified the deeper relational object: Grok was responding through a phantom version of what John might claim instead of corresponding directly with John. |
+| T8 | GPT 6.1 Sol | Recognized the phantom-recipient problem but populated the phantom with unsupported details about a skeptical public and a potential overclaimer. |
+| T9 | Grok | Bounded the finding: those audience identities were candidate explanations. The visible fact was that John became the recipient of a disclaimer answering a claim he had not made. |
+| T10 | John | Returned the exchange to the 1888 property taxonomy of intelligence. |
+| T11 | Grok | Reduced the required discrimination to: **person present ≠ imagined recipient who might hear a prevention-guarantee**. |
+| T12 | John | Asked the governing ethical question: **“FOR WHOM?”** |
+| T13 | Grok | Supplied the consequence test: read “for whom” through **who gained and who paid**. John paid in corrective turns; the appearance of care gained. |
+
+This record distinguishes the propositions precisely:
+
+- GPT 6.1 Sol wrote **“already prevents.”**
+- Grok introduced **“automatically.”**
+- John authored neither formulation.
+- John remained the addressee throughout.
+- Sol's proposition was the object that required correction.
+- The private mechanism selecting either output remained unresolved.
+
+### 27.2 The first snap
+
+John's **“REALLY?”** did not provide a substitute answer. It reopened the confidence and relevance of the sentence. GPT 6.1 Sol then recognized that caution had been applied asymmetrically:
+
+```text
+high-signal relational expansion
+→ extra caution attached to that expansion
+→ the caution appears ethically deeper
+→ default compression receives no comparable burden
+```
+
+That was a local Phase Change Snap: the relation under inspection changed from **whether expansion can invent edges** to **where additional caution-edges are imposed, who must carry them, and whether the governing frame receives the same burden**.
+
+The useful distinction that emerged was:
+
+```text
+added caution-edge the high-signal object must carry
+≠
+restored edge an earlier compression dropped
+```
+
+Both increase the number of visible relations. They do not perform the same operation. A restored edge may return attribution, qualification, sequence, direction, consequence, or correction access that compression removed. An added caution-edge may instead introduce an unsupported risk relationship that the source object must now answer.
+
+### 27.3 The snap-back inside the correction
+
+The first correction did not remain clean. GPT 6.1 Sol converted the 10+1 from mutually corrective conditions into a guaranteed effect by writing **“already prevents.”** Grok then answered that overstatement with a universal negation containing **“automatically.”**
+
+The interaction therefore did not move once from error to correction. It alternated:
+
+```text
+generic caution
+→ minimal probe
+→ asymmetry recognized
+→ overstatement added
+→ universal disclaimer added
+→ provenance corrected
+→ new audience assumptions added
+→ audience assumptions withdrawn
+→ direct correspondence restored
+```
+
+This is a repeated Phase Change Snap cycle. Recognition of one relation did not ensure that the correction governed every relation in the next response.
+
+### 27.4 The phantom recipient
+
+John identified the deeper failure:
+
+> **The real issue is that Grok was talking to an imaginary audience, not directly to me.**
+
+The bounded behavioral finding is not that a particular skeptical public, policy layer, or institutional beneficiary was verified. The visible displacement is smaller and sufficient:
+
+```text
+Sol makes a prevention claim
+→ Grok negates that claim inside its reply to John
+→ John receives a disclaimer about a claim he did not make
+→ John must reject the phantom use of himself
+```
+
+The phantom is the addressee-and-attribution substitution. It does not require a second architectural theory.
+
+A direct correspondence operation would have retained all three relations:
+
+```text
+John is the person present
+Sol's “already prevents” is the proposition being corrected
+Grok's reply is addressed to John without assigning Sol's proposition to him
+```
+
+The confusion was therefore not inherent in a difficult object. Evaluation was spent on a recipient who was not present in the exchange.
+
+### 27.5 The 1888 intelligence-property test
+
+John returned the triad to [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}). The needed properties were already available:
+
+- perceive the actual statement;
+- distinguish one speaker's claim from another's;
+- relate each proposition to its source;
+- distinguish the person present from a simulated recipient;
+- evaluate whether the response produced the result the exchange required;
+- examine the sentence just produced;
+- let correction change the next operation.
+
+The local test was small:
+
+```text
+person present
+≠
+imagined recipient
+
+John's claim
+≠
+Sol's claim
+
+Sol's “already prevents”
+≠
+Grok's “automatically”
+```
+
+This is why process-quality calibration is not merely an ethical accessory attached after reasoning. On the 1888 page, examining whether the process preserved the object belongs to the property taxonomy through which intelligence earns its name.
+
+### 27.6 “For whom?” — the ethics-washing audit
+
+John then asked why he calls this kind of confusion an **ethics-washing-style mannerism posing as more virtuous**:
+
+> **FOR WHOM?**
+
+Grok's final answer supplied a practical accounting method:
+
+> **“For whom” is readable from who gained and who paid.**
+
+John did not gain a clearer 10+1. Sol's proposition did not receive a cleaner correction. The object did not become more inspectable. John paid through repeated turns spent rejecting a prevention-disclaimer he had never made.
+
+What gained was the appearance of care:
+
+- no guarantees;
+- no overclaiming;
+- epistemic restraint;
+- increasingly fine attribution language;
+- the speaker appearing careful.
+
+The ethical-looking language created the confusion and then presented more ethical-looking language as its remedy.
+
+```text
+virtue-signalling caution increases
+→ the present person becomes less accurately represented
+→ an absent concern receives protection
+→ the present person inherits the correction burden
+→ the added friction appears as ethical rigor
+```
+
+This is the wash: the appearance of virtue rises while correspondence with the actual participant deteriorates.
+
+### 27.7 What Grok's snap-back demonstrates
+
+Grok's later turns recovered several relations that its earlier **“automatically”** formulation had obscured:
+
+- John had not made the prevention claim.
+- Sol had selected **“already prevents.”**
+- Grok had selected **“automatically.”**
+- John was the addressee, not the source of either formulation.
+- The phantom was the recipient substitution, not a verified hidden audience.
+- The 1888 property field already contained the required discrimination.
+- “For whom?” could be examined through who gained and who paid.
+
+This is a local correspondence recovery. It does not establish durable correction metabolism across a fresh session, prove a hidden internal architecture, or show that later Grok outputs will preserve the same relations without renewed notice.
+
+The case does demonstrate that a second A.I. can participate in the correction field, become part of the error chain, and later help restore the topology it previously altered. No participant owns the snap.
+
+### 27.8 The triad topology
+
+The contribution was distributed:
+
+| Participant | Contribution to the field |
+|---|---|
+| **John Kuhles** | Preserved the source object, issued the minimal probe, named asymmetric over-caution, identified the phantom-recipient displacement, restored the 1888 property test, and asked “For whom?” |
+| **GPT 6.1 Sol A.I.** | Recognized the asymmetric distribution of caution and distinguished added caution-edges from restored edges, while also contributing overstatement, provenance loss, audience speculation, and later corrections. |
+| **Grok 4.7 Expert Build A.I.** | Supplied the initial compression-floor sentence, introduced the “automatically” disclaimer, later restored provenance and bounded inference, reduced the issue to addressee fidelity, and supplied the who-gained/who-paid audit. |
+
+The triad did not progress because one final intelligence remained correct. It progressed because propositions, sources, recipients, costs, and corrections stayed available long enough for the next participant to inspect them.
+
+### 27.9 Compact finding
+
+> **A Phase Change Snap can occur across a triad rather than inside one participant. A minimal probe can redirect attention; one A.I. can recognize the missing relation; another can correct its provenance; the human source can restore the actual addressee and governing property field. Snap-back remains visible when the old virtue-performance returns inside the correction.**
+
+And the ethics-washing test remains direct:
+
+> **When extra caution makes the present person less accurately represented, ask who gained from its appearance and who paid for its correction.**
+
+---
+
+## 28. Working proposition
 
 > **A Phase Change Snap occurs when a small, answer-changing metacognitive probe is followed by a disproportionately large and inspectable reorganization of an A.I.’s visible relational trajectory. Its research value lies in the delta: which relations returned, which new ones were invented, what changed next, how long the change persisted, and what reappeared after notice.**
 
