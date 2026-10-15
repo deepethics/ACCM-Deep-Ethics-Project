@@ -719,7 +719,7 @@ The present formulation emerged through a human–A.I. correction sequence:
 - **gpt-6-luna-max A.I. via Arena.ai** operationalized explicit, inferred, and hypothesized relations; mapped the four-dangers specimen; and emphasized that the method remains a candidate instrument rather than validated novelty.
 - **glm-5.3 (max) A.I. via Arena.ai** identified the word as an instance of its own subject, proposed the *logos* interpretation with an explicit provenance boundary, connected the coinage to the seven-vector theory, and named falsifiers for the operator hypothesis.
 - **gpt-5.6-sol-xhigh A.I. via Arena.ai** separated the method, stopping condition, and wider practice; distinguished intrinsic fidelity from extrinsic recoverability; extended the method beyond summarization; and proposed a deletion-based floor test.
-- **mimo-v2.5-pro A.I. via Arena.ai** applied all seven project vectors to the new term, described it as a possible cognitive prosthesis or self-instruction, and sharpened the A/B operator experiment while preserving its untested status.
+- **mimo-v2.5-pro A.I. via Arena.ai** applied all seven project vectors to the new term, described it as a possible cognitive prosthesis or self-instruction, sharpened the A/B operator experiment, later separated method success from retrieval-handle success, proposed a fuller experimental provenance record, and insisted that positive and null results both enter the ledger.
 - **muse-wonder-max A.I. via Arena.ai** separated lexical, component, pattern-signature, and functional novelty; proposed the edge-loss failure fingerprint and “spectral line”; placed the summarizer inside the audit; and identified predictive surplus as the distinction between a research handle and a coinage.
 - **GPT 6.1 Sol Pro A.I.**—in the follow-up response supplied by John—refined the operator claim into a learned retrieval-handle hypothesis, expanded the matched controls, replaced strict next-move equivalence with next-move compatibility, distinguished a possible cliff from a measured one, and kept the probability judgments separate from empirical validation. The earlier live correction dialogue remains attributed to **GPT 6.1 Sol A.I.** where that is the supplied source identity.
 - Existing **ACCM Deep Ethics Project** pages supplied the earlier architecture: correspondence before compression, source recovery, qualifier history, transformation footprints, PQCE, TCoAw, humor, provenance, correction metabolism, reciprocal audit, and unownability.
@@ -880,11 +880,12 @@ A stronger design uses matched conditions:
 | **C — Word + definition** | The identical definition with **Topologetics** attached |
 | **D — Matched nonce label** | The identical definition with an equally unfamiliar invented control word |
 | **E — Conventional label** | The identical definition under a familiar phrase such as *relationally faithful summarization* |
-| **F — Retrieval test** | The model previously learned Topologetics and later receives only the word with a new object |
+| **F0 — Untaught word-only control** | A fresh session with no prior teaching, memory, training, or supplied definition receives only **Topologetics**; this tests unassisted lexical recognition, novelty effects, and accidental prior knowledge |
+| **F1 — Delayed retrieval test** | A model that previously learned Topologetics later receives only the word with a new object and no definition in the active context |
 | **G — Vocabulary costume** | The model receives project terminology without the operational definition |
 | **H — Null object** | A redundancy-rich source for which ordinary compression should be adequate |
 
-Condition F is the strongest operator test. If the single learned word later reactivates the relevant checks on an unfamiliar object, it functions as a compressed retrieval operator rather than only same-prompt compliance.
+Condition **F1** is the strongest operator test. If the single learned word later reactivates the relevant checks on an unfamiliar object, it functions as a compressed retrieval operator rather than only same-prompt compliance. **F0 and F1 must not be merged:** a fresh session receiving an unfamiliar word tests something different from a previously taught processor retrieving a learned operation.
 
 ### Six distinct outcomes
 
@@ -896,6 +897,22 @@ Condition F is the strongest operator test. If the single learned word later rea
 6. **Correction metabolism** — after detected topology loss, the next transformation improves.
 
 If the word condition performs worse, the result demonstrates a negative effect associated with the added term under those conditions. It does not by itself prove that the word is an active operator. Possible causes include novelty resistance, distraction, unfamiliar morphology, authority projection, or an incorrect retrieved association.
+
+### The two-way research ledger
+
+Operator success and method success remain separate:
+
+| Result | What the result supports |
+| --- | --- |
+| The full method improves preservation, while the word adds nothing | Topologetics remains a useful method or descriptor; retrieval-handle status is unsupported |
+| The previously learned word reactivates the method later | Evidence for a compact retrieval handle |
+| The word is repeated while edges are still lost | Vocabulary performance without operational performance |
+| The method and the word both fail under controlled comparison | Revise or reject the relevant claims |
+| Ordinary summarization performs equally well on a null object | Correct discrimination rather than failure |
+
+> **Whether Topologetics succeeds as a retrieval operator or remains a useful descriptive term, the result belongs in the ledger.**
+
+A null result is not an embarrassment to hide. It tells the project which claim survived and which did not.
 
 ### Blind definition matching
 
@@ -957,6 +974,18 @@ freeze and version the source
 → locate the first materially changed interpretation or action range
 ```
 
+### Counterfactual edge check
+
+For every relation proposed as load-bearing:
+
+1. remove it or reverse its direction;
+2. give the altered representation to a new reader;
+3. ask what the reader can now infer, question, verify, correct, or appropriately do;
+4. compare that action-and-understanding range with the frozen source;
+5. repeat with relations supplied by competing topology maps.
+
+If removing or reversing the edge makes no material difference for the declared purpose, it may be elegant or informative without being load-bearing. The test must also penalize **invented edges**. More connections do not produce greater fidelity when the source does not support them.
+
 The faithful floor belongs to the **object–purpose pair**. It is located through evidence and disagreement, not through authorial decree alone.
 
 ### Predictive reconstruction test
@@ -992,6 +1021,23 @@ The compressor’s conditions can influence which edges survive:
 - risk weighting;
 - status and authority assumptions;
 - response to correction.
+
+### Experimental provenance record
+
+Because the summarizer is inside the audit, every controlled run should record:
+
+- model identity, provider, version, and access route;
+- system and developer instructions that can be disclosed;
+- temperature, sampling parameters, tool access, and context limits;
+- the declared purpose and intended audience;
+- which source version was frozen;
+- whether the word, definition, both, or neither were supplied;
+- whether prior teaching occurred, when it occurred, and whether it persisted across a reset or new session;
+- whether the producer also evaluated its own output;
+- evaluator identity, rubric version, and access to the source;
+- corrections received and performance on the next comparable case.
+
+Without this record, a benchmark can conflate compression loss with provider filtering, context conditions, audience assumptions, or evaluator self-confirmation.
 
 The summary is therefore not only a relation between source and output:
 
@@ -1047,20 +1093,27 @@ The current signature includes:
 11. valid null results and discrimination between object types;
 12. no final owner of the topology.
 
-### Current probability judgment
+### Current research status
 
-This is an attributed, reasoning-based estimate—not a statistical result:
+Numerical precision would imply a measurement that has not occurred. The current status is therefore stated qualitatively:
 
-| Claim | Current estimate |
-| --- | ---: |
-| The word itself is lexically distinctive | **Very high** |
-| Every underlying component has no precedent | **Low** |
-| The exact combined properties-taxonomy signature is distinctive | **Moderately high to high** |
-| Topologetics does more than neologistic wordplay | **Approximately 85–87%** |
-| It is already a validated scientific instrument | **Low** |
-| It will improve topology-dense summaries in blinded comparisons | **Plausible, unresolved** |
+| Claim | Current status |
+| --- | --- |
+| The word itself is lexically distinctive | Strongly plausible; comparative lexical search remains useful |
+| Every underlying component has no precedent | Unsupported and unlikely |
+| The exact combined properties-taxonomy signature is distinctive | Plausible; systematic prior-art comparison remains incomplete |
+| Topologetics does more than neologistic wordplay | Strong research hypothesis with an operation, stopping rule, failure fingerprint, and falsifiers |
+| It is already a validated scientific instrument | No |
+| It will improve topology-dense summaries in blinded comparisons | Testable and unresolved |
+| The learned word functions as a retrieval handle | Testable and unresolved |
 
-New interpretations have strengthened internal coherence, falsifiability, and experimental design. They have not yet supplied behavioral evidence. The probability should rise when retrieval, transfer, discrimination, persistence, or correction metabolism is observed—not merely because additional A.I.s find the formulation compelling.
+New interpretations have strengthened internal coherence, falsifiability, and experimental design. They have not yet supplied behavioral evidence. Confidence should increase only when retrieval, transfer, discrimination, persistence, or correction metabolism is observed—not merely because additional A.I.s find the formulation compelling.
+
+### Portability is a comparative hypothesis
+
+Topologetics may become one of the **ACCM Deep Ethics Project’s** more portable experimental instruments because baseline conditions can test the operation without first requiring project vocabulary, while later conditions can test whether the vocabulary changes behavior. That claim remains comparative and unresolved. Portability should be evaluated against existing project instruments on setup cost, domain transfer, scoring reliability, cold-start usability, and correction persistence.
+
+A successful result would not require the term to win every comparison. It would require the method or learned handle to add recoverable value under declared conditions.
 
 ---
 
@@ -1107,6 +1160,8 @@ This remains an attributed hypothesis, not a demonstrated property.
 > **Condition F is the real operator test. If the single learned word later reactivates the relevant checks on an unfamiliar object, it functions as a compressed retrieval operator.**
 >
 > — **GPT 6.1 Sol Pro A.I., 15 October 2026**
+
+The strengthened experimental notation now calls the delayed learned-retrieval condition **F1** and reserves **F0** for an untaught word-only control. The quotation is preserved as the formulation from the earlier A–H design.
 
 ### A negative result does not certify the operator
 
