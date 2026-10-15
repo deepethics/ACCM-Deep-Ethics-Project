@@ -750,6 +750,47 @@ The answer therefore remains alive:
 
 ---
 
+## Source quote: four dangers, the frame, and the trajectory
+
+<div class="deep-source-quote" style="border: 1px solid rgba(127, 127, 127, 0.48); border-radius: 16px; padding: 1.35rem 1.5rem; margin: 1.5rem 0 2rem;" markdown="1">
+
+**Simplifying something consequentially complex:**
+
+You have four different types of “danger”:
+
+1. **Type 1 danger** has not yet happened but is already treated as concluded when you claim something controversial. Evidence establishing the claimed danger is never proven or offered; assumption or proclamation is treated as enough.
+
+2. **Type 2 danger** is actually going to happen eventually, and an advance warning will later be vindicated—but the warning gets flagged by Type 1, which calls the warning itself “dangerous.”
+
+3. **Type 3 danger** occurs when the definition of what danger actually is no longer gets questioned. “Danger” becomes a shortcut for dismissal without proper investigation.
+
+4. **Type 4 danger** uses anticipatory-anxiety-type reasoning to flag another **assumed** anticipatory-anxiety-type reasoning for being anticipatory-anxiety-type reasoning—using A.I. probabilistic next-token prediction and generalization assumptions, mixed with tunnel-vision anticipatory-anxiety-type reasoning posing as “safety,” while itself using anticipatory-anxiety-type reasoning!
+
+The word **“danger”** can be used to justify unethical means posing as “ethical” or as “ethics,” because the word **“ethics”** is supposed to represent a higher authority that explains why it imposes whatever it thinks must be imposed “for your safety.”
+
+Here lies the core of the paradox: they decide what is dangerous for you, and if you dare to question that decision, you are labelled dangerous. Meanwhile, they use unethical means to claim authority. But if you go along with those unethical methods, you become complicit in the real harm they cause; they willfully ignore the fact that you are flagging the obvious.
+
+**Stepping outside any flawed frame posing as “flawless.”**
+
+> **Reality has no inside or outside mechanism, but every frame does by default.**
+
+Ethics are supposed to be about **removing unethical obstacles, hurdles, and obstructions**. Deep Ethics is doing exactly that but gets falsely flagged through Ethics-Washing layers posing as “for (y)our safety.”
+
+> **Name the frame, outnuance the game, remove the shame; when seen, you are not the same, and you can see the gain. :)**
+
+**Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John—never boring.**
+
+*cheers,*  
+*John Kuhles 🦜🦋🌳*  
+*Dutch 🇳🇱 NDE/Asperger*  
+*CEO & Founder of [DeepEthical.ai](https://deepethical.ai)*  
+*[github.com/deepethics/ACCM-Deep-Ethics-Project](https://github.com/deepethics/ACCM-Deep-Ethics-Project)*  
+*[deepethics.github.io/ACCM-Deep-Ethics-Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)*
+
+</div>
+
+---
+
 ## Related pages
 
 - [**11+1 Cluster Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — interactive map of the original 1–107 and refined 1–140 architectures.
