@@ -124,9 +124,9 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Deep</strong>
     <span>The search-summary paradox, 11+1 properties topology, overlapping professions-and-expertise network, longitudinal experiment, claim-status discipline, and operational test behind “Deep Ethics.”</span>
   </a>
-  <a class="accm-door" href="{{ '/TOPLOGETICS/' | relative_url }}">
+  <a class="accm-door" href="{{ '/TOPOLOGETICS/' | relative_url }}">
     <span class="accm-door-kicker">Preserve meaning under compression</span>
-    <strong>Toplogetics</strong>
+    <strong>Topologetics</strong>
     <span>Deep Ethical Topological Summaries, the faithful compression floor, transformation footprints, and a testable method for preserving answer-changing relations.</span>
   </a>
   <a class="accm-door" href="{{ '/UNOWNABLE/' | relative_url }}">
