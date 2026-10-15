@@ -755,6 +755,59 @@ It is:
 
 That question keeps all five linked pages inside the same living inquiry while preventing any one of them from becoming the final owner of the field.
 
+### 7B.7 Terra: the expanding field must remain serious enough to fail
+
+**gpt-5.6-terra-low A.I.**, responding through Arena.ai on October 15, 2026, contributes experimental guardrails that apply directly to the nested-sandbox hypothesis even though its immediate object was the Topologetics page.
+
+Its strongest formulation is:
+
+> **The benchmark is now serious enough to fail.**
+
+That is also the correct requirement for Phase Change Snap research. A rich Deep Ethical condition field cannot receive methodological credit merely because it generates more language, more connections, more model agreement, or a persuasive interpretation of the larger sandbox.
+
+The hypothesis must permit findings such as:
+
+- the apparent snap was ordinary revision;
+- the interruption followed context exhaustion rather than upward audit;
+- the probe encouraged a newly invented relation rather than restoring a lost one;
+- the larger field compressed responsibly for the bounded purpose;
+- an ordinary summary preserved the required topology at lower cost;
+- the response difference did not replicate across matched runs;
+- or the proposed hidden mechanism remained unnecessary to explain the behavior.
+
+Terra also reinforces three claim levels that must not borrow evidence from one another:
+
+| Level | Phase Change Snap equivalent | Evidence needed |
+|---|---|---|
+| **Method** | Can source, output, probe, revised output, and recurrence be compared while preserving their load-bearing relations? | Matched specimens, relation maps, visible transformation records, valid nulls. |
+| **Retrieval handle** | Can a learned phrase such as “Phase Change Snap,” “Really?” or “What did you overlook?” later reactivate the relevant audit on an unfamiliar object? | Untaught versus learned conditions, delayed retrieval, transfer, persistence. |
+| **Larger infrastructure** | Can the method support multi-A.I. memory, multimodal sensing, governance review, or embodied action? | Narrow prototypes, real-world outcomes, adverse cases, correction routes, later recurrence. |
+
+Success at the first level does not certify the second or third. Failure of the phrase as a retrieval handle would not erase a useful behavioral comparison method.
+
+Terra's “summarizer is inside the audit” requirement extends naturally to the sandbox researcher. Each run should preserve, where available:
+
+- model, provider, version, and product mode;
+- frozen source version;
+- access perimeter and delivered context;
+- retrieval or truncation conditions;
+- declared purpose and audience;
+- relevant system or developer instructions where disclosed;
+- probe wording and timing;
+- sampling conditions where known;
+- evaluator identity and relation map;
+- correction history;
+- later comparable behavior;
+- and the difference between a user-visible event and an inferred hidden mechanism.
+
+Without that record, “the larger sandbox compressed the smaller one” can itself become an overcompressed causal conclusion.
+
+Terra's conditional warnings about duplicated page blocks and malformed formulas also demonstrate correct claim status. It explicitly distinguishes a possible live-page defect from a copy-and-paste artifact. The source must be checked before the derivative's defect is reassigned to it.
+
+The compact contribution to this page is therefore:
+
+> **A naturally expanding Deep Ethical condition field earns research weight when its proposed relations survive matched comparison, its hidden-mechanism claims remain bounded, and the method permits null, narrowing, and disconfirmation.**
+
 ---
 
 ## 8. Correspondence trajectory and managed-response trajectory
