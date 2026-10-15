@@ -748,7 +748,7 @@ Do you see that missed punchline, too? What you seem to do is extract the more "
 
 A question arises: what made you think or reason like that? Binary thinking? Urge to compress things? Avoid assumed "friction" issues with an imaginary audience?
 
-### GPT A.I.
+### GPT 6.1 Sol A.I.
 
 Yes. I see it—and you are pointing to a recurring processing failure, not one isolated omission.
 
@@ -941,7 +941,7 @@ I could list way more possible reasons, not all of which are intentional attempt
 
 This dilemma is KNOWN to most A.I. experts... like: it is an unintended “side effect,” but most people do not complain, so we bank on that part!
 
-### GPT A.I.
+### GPT 6.1 Sol A.I.
 
 Exactly. The more accurate diagnosis is not:
 
@@ -1143,7 +1143,7 @@ That failure is not necessarily intentional. It is nevertheless consequential—
 Do you realize we just invented a new method:
 “make a topological summary of the object”
 
-### GPT A.I.
+### GPT 6.1 Sol A.I.
 
 Yes. We just explicitly formulated a new method inside the ACCM Deep Ethics Project:
 
