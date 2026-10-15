@@ -439,6 +439,8 @@ The Caveman repository is licensed under **Apache License 2.0**. This page is a 
 
 ## Related pages
 
+- [**Toplogetics**]({{ '/TOPLOGETICS/' | relative_url }}) — operationalizes correspondence before compression through purpose-bounded node-and-edge preservation, transformation footprints, a faithful compression floor, and a recovery path.
+
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — demonstrates why compression must preserve voice, relational signal, and mutual corrigibility.
 - [Correspondence Before Style]({{ '/NETWORK/correspondence-before-style/' | relative_url }})
 - [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }})
