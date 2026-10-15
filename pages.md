@@ -60,6 +60,7 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)**
 - **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)**
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back and Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)**
+- **[Phase Change Snap — Reverse Engineering the Visible Delta](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PHASE-CHANGE-SNAP/)** — minimal metacognitive probes, rapid relational reorganization, same-response recurrence, snap-back, behavioral reverse engineering, Black Box claim boundaries, the eternal-diplomat candidate model, and a correction-persistence benchmark.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)**
 - **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)**
 - **[Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/)**
