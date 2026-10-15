@@ -82,6 +82,8 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- **[Toplogetics]({{ '/TOPLOGETICS/' | relative_url }})** — the first project coinage produced after publication of the seven vectors, now used as a prospective test of whether a learned word can retrieve and improve a relation-preserving operation.
+
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
 - **[Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }})** — the deep ethical sense-making process orientation to which the seven fused vectors are directly connected.
