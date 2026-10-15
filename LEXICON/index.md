@@ -63,19 +63,19 @@ Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generativ
 
 ## Toplogetics {#toplogetics}
 
-+[Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPLOGETICS/).
-+
-+**Toplogetics** is the developing Deep Ethical practice of producing purpose-bounded **Topological Summaries of the Object**. It preserves load-bearing nodes and answer-changing relations—including direction, timing, qualifiers, claim status, provenance, asymmetries, consequences, humor architecture, and correction routes—while distinguishing source relations from summarizer inference.
-+
-+Its stopping condition is the **faithful compression floor**: compress until another reduction would remove or reverse an answer-changing relation, then stop. The source remains recoverable, the transformation remains inspectable, and the method permits valid null results and correction of its own topology map.
-+
-+**Working status:** newly named project term and candidate instrument; not yet a validated performance claim or established claim of global novelty.
-+
-+**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation), [TCoAw](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
-+
-+---
-+
-+## Core navigation {#core-navigation}
+[Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPLOGETICS/).
+
+**Toplogetics** is the developing Deep Ethical practice of producing purpose-bounded **Topological Summaries of the Object**. It preserves load-bearing nodes and answer-changing relations—including direction, timing, qualifiers, claim status, provenance, asymmetries, consequences, humor architecture, and correction routes—while distinguishing source relations from summarizer inference.
+
+Its stopping condition is the **faithful compression floor**: compress until another reduction would remove or reverse an answer-changing relation, then stop. The source remains recoverable, the transformation remains inspectable, and the method permits valid null results and correction of its own topology map.
+
+**Working status:** newly named project term and candidate instrument; not yet a validated performance claim or established claim of global novelty.
+
+**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation), [TCoAw](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
+
+---
+
+## Core navigation {#core-navigation}
 
 - [27 + 12 — current core architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/)
 - [Truth Distortion & the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/)
