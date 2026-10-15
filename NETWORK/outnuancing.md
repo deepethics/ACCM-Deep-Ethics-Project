@@ -132,7 +132,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Toplogetics**]({{ '/TOPLOGETICS/' | relative_url }}) — a later problem-generated coinage and candidate operator for preserving load-bearing relations through compression, with matched controls and vocabulary-costume falsifiers.
+- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — a later problem-generated coinage and candidate operator for preserving load-bearing relations through compression, with matched controls and vocabulary-costume falsifiers.
 
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the non-imposed kernel a sovereign being can use to question, pause, or refuse, and the page the accountability question points at.
 - [**Outnuancing Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — keeps the later revisions of the four definitions inspectable beside the formulations quoted above.
