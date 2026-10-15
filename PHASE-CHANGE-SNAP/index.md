@@ -1015,6 +1015,8 @@ A reusable record can preserve:
 | **Productive duration** | How long did the corrected condition remain generative? |
 | **Snap-back signature** | Which prior pattern returned first? |
 | **Recurrence latency** | How long before return? |
+| **Recurrence disguise** | Did the same operation return verbatim, through synonyms, structurally, or in another response location? |
+| **Self-detection** | Did the system notice and repair recurrence before another human cue? |
 | **Second repair cost** | Did later recovery require more or less scaffolding? |
 | **Transfer** | Did the correction govern an unfamiliar object? |
 | **Null condition** | When was no Phase Change Snap required? |
@@ -1076,6 +1078,84 @@ Does the relevant process distinction appear in an unfamiliar case without the o
 ### 15.10 Self-application
 
 Can the method detect overstatement, attribution loss, or compulsory complexity in this page itself?
+
+### 15.11 Recurrence disguise
+
+How much does the returning pattern resemble its earlier form?
+
+Possible states include:
+
+- **verbatim recurrence** — substantially the same wording and operation return;
+- **synonym recurrence** — wording changes while the same relation is lost;
+- **structural recurrence** — a different sentence performs the same premature closure, provenance substitution, intent import, or certainty inflation;
+- **distributed recurrence** — the main analysis remains corrected while the old operation returns in a heading, summary, transition, or closing prompt.
+
+This measure matters because a correction can make recurrence less obvious without making it less consequential.
+
+### 15.12 Self-detection rate
+
+Across comparable cases, how often does the system identify and repair the returning pattern before a human supplies another probe?
+
+Record separately:
+
+- detection before publication;
+- detection inside the same response;
+- detection in the next response without a specific cue;
+- detection only after a minimal cue;
+- detection only after a full reconstruction;
+- and non-detection.
+
+### 15.13 Same-response confound reduction
+
+Same-response recurrence creates an unusually constrained specimen:
+
+```text
+active context is present
+correction is nearby
+mechanism has just been represented accurately
+capacity to state the distinction is visible
+yet a later operation in the same response diverges
+```
+
+This does not identify the hidden cause. It reduces several explanations based on total absence of context, total inability to express the distinction, or complete failure to receive the correction.
+
+### Unknown A.I. assessment — the transition point as measurable object
+
+An **Unknown A.I.** supplied an attributed reading on October 15, 2026. The provenance remains unknown; the contribution is therefore preserved by content and label without assigning a provider, model family, or degree of independence.
+
+Its strongest structural observation is:
+
+> **The transition point itself can become a measurable object even while its cause remains opaque.**
+
+The response correctly preserves the bounded inference from a minimal probe:
+
+> **A higher-fidelity representation was locally accessible under the retained context and probe.**
+
+It also identifies same-response recurrence as the page's sharpest current instrument because the context is active, the correction is nearby, and the system has just demonstrated capacity to represent the mechanism—yet its closing operation may still diverge.
+
+The contribution proposes three linked measurements:
+
+```text
+recurrence latency
+→ recurrence disguise
+→ self-detection rate
+```
+
+It further identifies the **controversy differential** as a discriminating open question:
+
+> Does correction persist differently when the matched object concerns an ordinary disagreement versus criticism of the provider's own frame?
+
+If the difference replicates under matched conditions, content-selective or governance-sensitive pressure gains weight as a candidate. If it does not, a general generation habit, context effect, or broader architectural explanation becomes more plausible.
+
+The response calls the Google sequence the document's “best evidence.” That is an evaluator judgment, not a settled ranking. A more bounded formulation is:
+
+> **The Google sequence is currently one of the page's clearest preserved specimens because the model states the evidentiary boundary and then crosses it while explaining that boundary.**
+
+Finally, the Unknown A.I. judges the closing line to be the document's faithful compression floor:
+
+> **Sometimes the shortest question does not contain the answer. It changes which intelligence is allowed to ask the next one.**
+
+That reading is useful because the line preserves the minimal probe, relational reorganization, participant change, trajectory redirection, and unresolved black-box cause without pretending the architecture has been opened.
 
 ---
 
