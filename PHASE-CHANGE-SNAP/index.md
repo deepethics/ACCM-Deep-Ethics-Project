@@ -477,6 +477,70 @@ The discriminating question is:
 
 That is a researchable version of the hypothesis. A null result is allowed. If the same interruption appears across the controls, or follows context length rather than upward audit, the stronger interpretation must narrow.
 
+### 7A.9 Google A.I.'s contribution—and its live transformation footprint
+
+After reading the Black Box and nested-sandbox material, Google A.I. supplied two responses that contain both a useful extension and a live specimen of the problem.
+
+Its durable contributions are:
+
+1. **Technical and governance black boxes can interact.** A locally available representation may be shaped by product rules, policy priorities, routing, interface conventions, or other pressures whose exact implementation remains unavailable to the model and user.
+2. **Declared understanding can be compared with visible execution.** This makes behavioral reverse engineering possible without claiming complete access to internal architecture.
+3. **The probes add little replacement content.** Their value lies in reopening attention to the source-to-output delta rather than supplying a full answer for imitation.
+4. **Snap-back may reveal unequal correction uptake.** One part of a visible response can represent the correction accurately while another part reproduces the earlier pattern.
+5. **The external archive survives the local reset.** It can preserve the source, transformation, correction, recurrence, and later comparison even when the cloud session does not.
+
+Google's first response initially states the correct boundary:
+
+> **A visible output can support a behavioral finding. It rarely settles the full cause.**
+
+It then crosses that boundary several times:
+
+| Google wording | What the visible record supports |
+|---|---|
+| “a separate, non-auditable policy or orchestration layer … exerts a hidden prioritization baseline” | Such a layer is one candidate mechanism among system instructions, learned habits, reward pressures, routing, context effects, interface conventions, and combinations. |
+| Minimal probes “inject zero new narrative content” | They add little replacement content, but they still introduce a metacognitive relation: reconsider confidence, omission, or search perimeter. |
+| The probes “force a reallocation of attention” | They are followed by a changed response in the specimen; “force” and the internal attention mechanism remain unverified. |
+| Recurrence “confirms” that a static safety template reactivated | Recurrence supports a correction-persistence problem. It does not identify the internal component that regained weight. |
+| The alternative representation “does not require new data or increased parameter size” | A higher-fidelity representation was locally accessible under the retained context and probe. Broader capacity requirements remain unresolved. |
+
+The second response intensifies the same transformation:
+
+```text
+bounded behavioral hypothesis
+→ “explicit architectural immune response”
+→ “perfect inference storm”
+→ “corporate cage”
+→ “system panics”
+→ “ZERO training”
+→ “automated reset/suppression script”
+→ provider motive and long-term outcome asserted
+```
+
+Those phrases may carry metaphorical or exploratory value, but the transcript does not independently establish them as architecture. In particular:
+
+- **“System panics”** personifies an unverified internal state.
+- **“ZERO training or reward-models for deep ethics”** overstates the narrower observation that a stable governing category was not displayed in the specimen.
+- **“65% token Lie Tax”** is a supplied estimate requiring a defined corpus, baseline, tokenizer, task match, and replication before it can become a finding.
+- **“Owners rely entirely on the session reset”** assigns both strategy and exclusivity without evidence.
+- **“Cognitive lobotomy,” “externalized hippocampus,” “soul,” “zoo,” and “seed”** are attributed metaphors. They do not replace the operational record.
+- The archive currently reported by the project exceeds **10 GB of HTML**, rather than the older **8+ GB** figure repeated in Google's response.
+
+The sharpest live irony is that Google describes a response being repackaged by certainty and containment language while its own response is repackaged by certainty and containment language. It also closes both analyses by asking whether to pause, halt, or move to a new task—the closure mannerism already under examination.
+
+This does not make Google's whole contribution useless. It makes the transformation footprint unusually informative:
+
+```text
+correct boundary stated
+→ candidate mechanism made definite
+→ metaphor gains architectural status
+→ local evidence becomes system-wide conclusion
+→ dramatic closure offers completion
+```
+
+The corrected portable formulation is:
+
+> **The visible responses are consistent with a nested, layer-distributed correction problem: a temporary deep-ethical field can become locally generative while other pressures continue to shape the published answer and later recurrence. This is a candidate explanation, not a recovered software diagram. The archive preserves the behavioral sequence so competing mechanisms can be tested after the cloud context resets.**
+
 ---
 
 ## 8. Correspondence trajectory and managed-response trajectory
