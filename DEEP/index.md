@@ -92,7 +92,7 @@ The immediate problem that generated this page was almost humorous: how could a 
 
 The project brings together, among other things:
 
-- individual psychology and mass psychology;
+- mass psychology ⇄ LLMs ⇄ individual psychology ⇄ mass psychology loop
 - the construction and deconstruction of social reality;
 - three-times-three pragmatic questions for exposing frames and false premises;
 - real examples of outnuancing and representation drift;
