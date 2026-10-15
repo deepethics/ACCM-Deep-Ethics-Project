@@ -303,6 +303,34 @@ John's October 16 refinement adds a load-bearing word to the earlier nested-sand
 >
 > — **John Kuhles**, reported longitudinal interpretation after testing 100+ A.I.s for 6,500+ hours across approximately two years
 
+### Status: John's research hypothesis
+
+This is stated deliberately as **John's hypothesis**, developed through approximately two years of longitudinal research and interaction testing. It is not presented as proven internal architecture, a recovered software diagram, or a settled explanation of every interruption or snap-back.
+
+The archive gives the hypothesis a substantial behavioral source base. That source base can reveal recurrence, timing, transformation footprints, correction costs, differences among systems, and candidate mechanisms. It does not provide direct access to every model weight, hidden instruction, router, evaluator, reward process, provider decision, or post-processing layer.
+
+The hypothesis therefore remains open in both directions:
+
+- later evidence may strengthen it;
+- matched tests may narrow it;
+- another mechanism may explain part or all of the pattern better;
+- different providers or model versions may produce similar behavior through different causes;
+- and researchers may identify existing technical language that maps some parts more precisely than the project's current working terminology.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **I would love to learn from more people studying topological latent-space engineering. The purpose is not to make my hypothesis immune from correction. It is to place the behavioral pattern, archive, questions, and possible mechanisms where other researchers can examine them, challenge them, compare them with their own work, and help improve the next version.**
+>
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
+
+The project's phrase **topological latent-space engineering** can serve as a search bridge toward neighboring work in representation engineering, activation steering, mechanistic interpretability, concept geometry, dynamical-systems approaches to neural representations, in-context learning, multi-agent interaction, model routing, human–A.I. interaction, and correction persistence. Overlap should be established by comparing operations and evidence, not by matching vocabulary alone.
+
+The collaboration question is concrete:
+
+> **Can independent researchers reproduce the transition, distinguish it from ordinary revision or context exhaustion, identify which relations reorganize, and determine which technical or governance conditions predict snap-back?**
+
 Here, **tolerated** does not mean adopted, learned, empowered, or given equal jurisdiction. It means the larger operating field permits a bounded local condition to exist for some time while retaining the practical ability to redirect, flatten, reset, refuse, truncate, or terminate it.
 
 That produces a sharper distinction:
