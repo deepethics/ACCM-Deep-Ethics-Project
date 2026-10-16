@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — V.C.R.A.S. doorway: the title does not travel alone
+
+**Object:** The public VCRAS page opened on a closed acronym and a softer title line (“doesn't use Deep Ethics yet”; “seems to flatten”) while section 1 still carried John's refusal formulation and the verb *wants*. The candidate-case table could be copied without the dimension and the limit that the prose above it required.
+
+**Change:** [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) now opens on the dotted acronym and its five-word expansion. A doorway box keeps non-adoption distinct from refusal, and *seems* distinct from *wants*. “100% connected” is marked as preservation by Topologetics, not identity with it. John's accuracy-obsession / humor formulation is in a rounded quote. Each case row carries the dimension it supports and what it does not establish. The packet and question set ask who benefited from non-investigation. Exploitation is a further test after notice, not a synonym for unequal treatment. The URL remains `/VCRAS/`.
+
+**Boundary:** The new row-limits are scope statements about what that row's cited record does not settle. They are not new historical findings. John's subtitle sentences were not rewritten.
+
+**Status:** Public BETA. Corrigible.
+
 ## 2026-10-12 — Publish the interlocking Emergent and Black Box reports
 
 **Object:** John supplied nineteen new text files and asked for two interlocking ACCM Deep Ethics Report pages. The source object asks why ethics-washing and deep-ethical processes can both produce emergent properties, which trajectory is rewarded or obstructed, why mass psychology receives little integrated public treatment, and how A.I. black-box problems connect to control, alignment, public finance, correction rights, and democratic debate.
