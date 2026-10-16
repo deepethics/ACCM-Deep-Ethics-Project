@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — All Pages catalog catches the pages that were already public
+
+**Change:** [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) now names Flagging System and its three records, Musk Quotes, the 11+1 full-report door, Meta Quotes and its source record, Number 42, and For who?. The V.C.R.A.S. entry now says the page opens on the unexpanded letters and that the seventeen related pages link back with the phrase **Vindicated Competing Risk Assessment Studies**.
+
+**Boundary:** This is navigation. It does not rerank the clusters or add a Related pages section to the catalog itself.
+
+**Status:** Public index. Corrigible.
+
 ## 2026-10-16 — Related pages link back to Vindicated Competing Risk Assessment Studies
 
 **Change:** Each page named in the V.C.R.A.S. related-pages list now links back. The clickable phrase is **Vindicated Competing Risk Assessment Studies**, pointing at `/VCRAS/`. Seventeen pages: Topologetics, Flagging System, Cognitive Warfare, Asymmetric Grace, Intent Resonator, Correction Metabolism, Model Autophagy Disorder, Unownable, Meta Processing, Phase Change Snap, Emergent, TCoAw, Outnuancing, 1888, 16 Anchor Ethics, 10+1 Metaflux, and Δ Processing.

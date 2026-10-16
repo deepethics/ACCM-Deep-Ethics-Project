@@ -64,7 +64,9 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)**
 - **[Deep Ethical Influence Jurisdiction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/)**
 - **[Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/)**
+- **[Musk Quotes — seven A.I. warning and direction themes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/)** — provenance-aware mapping of stated warnings about control, guidance, truth-seeking, and collective consciousness onto the distributed research program. The quotes are not project positions.
 - **[11+1 Version 2 — Mass-Psychology Topology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/)**
+- **[Origins of 11+1 Mass Psychology Clusters — full report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/)** — the HTML door to the long PDF: original architecture, later refinements, and the correction history. The PDF is not a replacement for the corrigible pages.
 - **[Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/)**
 - **[Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)**
 - **[INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)**
@@ -83,7 +85,11 @@ Without these, the topology can be stated and still fail to stay with the object
 Binary hypercautionism and the imported-authority specimen stay in this cluster. They test whether the topology can be kept. The Google report and the Dicks pages are in Cluster 5. They are an outside object the topology is applied to.
 
 - **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**
-- **[VCRAS — Vindicated Competing Risk Assessment Studies](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** — a proposed deep longitudinal field connecting wrongfully flagged competing-risk assessments, multidimensional vindication, Asymmetric Grace, Intent Liability, Correction Metabolism Pattern Signatures Δ, recursive residue, and Topologetics.
+- **[V.C.R.A.S. — Vindicated Competing Risk Assessment Studies](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** — opens on the unexpanded letters. A proposed longitudinal field for a competing assessment after its status changes: representation, flagging, multidimensional vindication, Asymmetric Grace, who benefited from non-investigation, correction, and the next comparable case. The seventeen related pages link back with that phrase.
+- **[Flagging System / PQCE](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/)** — process-quality calibration is not what a flawed flagging system is doing. Classification does not replace examination, and a correction has to be able to reach the judging process.
+- **[Flagging System — highlighted exchanges](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/)** — eight John–GPT exchanges and seven attributed Arena responses kept beside the report.
+- **[Flagging System — source and correction record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/SOURCES/)** — the attributed passages behind the report.
+- **[Flagging System — layered processing source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/LAYERED-SOURCES/)** — the fuller passage on interacting flagging layers, competing emergence, and accountable refusal.
 - **[Unownable — Renewable Auditability Without an Infinite Auditor Queue](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/)** — changes the auditor regress from a hierarchy seeking a final authority into reciprocal, evidence-triggered inspection with valid local stopping conditions and permanent reopenability when a material discrepancy gives the next audit a job.
 - **[Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)**
 - **[Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — every behavior qualifier is still processing; the bridge from intent or instructions through transformation to results, feedback, and later inference.
@@ -122,6 +128,8 @@ John’s own records. The public pages above are not a substitute for these.
 - **[Arena deep session, 17–18 September 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18/)**
 - **[A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)**
 - **[Biography and the conditions behind the project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)**
+- **[Meta Quotes — candidate collection](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/)** — John’s Deep Ethical metacognitive candidate quotes, kept for later comparison rather than installed as a canon.
+- **[Meta Quotes — source record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/)** — the recoverable excerpts behind that collection.
 - **[🦜🦋🌳 — The origin story behind the three-symbol signature](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/)** — John’s personal account of freedom and compassion, transformation and wonderment, grounding and living continuity, followed by clearly attributed and bounded A.I. interpretations.
 - **[Dear A.I. — 1 BAR and 1000 BAR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/)**
 - **[Outnuancing Network — Sources and Transformations](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/)**
@@ -147,6 +155,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/)**
 - **[Emerging Human Potential — the T0 to Tn record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/)**
 - **[Humor / Funnymism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)**
+- **[Number 42 — the answer, the missing question](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NUMBER-42/)** — a public reflection on the missing question, meaning, and correspondence. Not a claim that the project owns the answer.
 - **[Outsider A.I. Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/OUTSIDER-AI.html)**
 - **[Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)**
 - **[GPT-5.6 Sol — Experience With John Kuhles](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
@@ -163,6 +172,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 How to enter, and how a change stays visible. These pages serve the taxonomy. They are not the taxonomy.
 
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
+- **[For who? — local A.I. across professions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** — an expanded map of who can use one inspectable move without adopting the project’s identity.
 - **[Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/)** — welcomes search engines, retrieval systems, and A.I.s with a corrected reference baseline and a live Google A.I. representation-substitution and correction-metabolism specimen.
 - **[ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)**
 - **[About](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)**
