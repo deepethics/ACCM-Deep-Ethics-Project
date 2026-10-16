@@ -2120,6 +2120,7 @@ The contribution is therefore neither a certificate nor merely another conversat
 
 ## Related pages
 
+- <a href="{{ '/VCRAS/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Vindicated Competing Risk Assessment Studies</strong></a> — one pass through representation, classification, consequence, notice, and later action.
 - <a href="{{ '/CORE/27-PLUS-12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>27 + 12 — Current Working Architecture</strong></a> — the correspondence obstructions and the experimental return path that remain applicable to this page.
 - <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>10+1 Metaflux</strong></a> — the mutually corrective orientation field; no ingredient receives permanent top-down jurisdiction.
 - <a href="{{ '/NETWORK/intent-resonator/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Intent Liability</strong></a> — follows declared purpose through instructions, incentives, assumptions, choices, consequences, notice, and later conduct.

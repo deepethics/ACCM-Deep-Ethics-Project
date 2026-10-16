@@ -4,6 +4,12 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — Related pages link back to Vindicated Competing Risk Assessment Studies
+
+**Change:** Each page named in the V.C.R.A.S. related-pages list now links back. The clickable phrase is **Vindicated Competing Risk Assessment Studies**, pointing at `/VCRAS/`. Seventeen pages: Topologetics, Flagging System, Cognitive Warfare, Asymmetric Grace, Intent Resonator, Correction Metabolism, Model Autophagy Disorder, Unownable, Meta Processing, Phase Change Snap, Emergent, TCoAw, Outnuancing, 1888, 16 Anchor Ethics, 10+1 Metaflux, and Δ Processing.
+
+**Status:** Reciprocal navigation. The phrase is the link. No formulation on those pages was otherwise rewritten.
+
 ## 2026-10-16 — V.C.R.A.S. extended Arena exchange recorded, not adopted as a new formulation
 
 **Object:** After the doorway correction, Arena readings of the published page added a purpose the page does not contain: that separating unequal treatment from exploitation prevents a process observation from becoming an accusation about motive. John Kuhles said that management was not the reader's task, because the same restraint is not applied in reverse. Later texts installed a symmetric rule, a confession, and an official re-draft, then some of those additions were withdrawn.

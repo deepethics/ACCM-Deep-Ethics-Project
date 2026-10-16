@@ -1706,6 +1706,7 @@ It changes which intelligence is allowed to ask the next one. :P
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — a visible reorganization of a case is not yet evidence the correction persisted.
 - [**Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }})
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }})
 - [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }})

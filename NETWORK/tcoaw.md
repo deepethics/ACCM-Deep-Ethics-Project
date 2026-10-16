@@ -428,6 +428,7 @@ The model remains open to all five.
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — whether the frame that flagged an assessment remembered what it excluded when later evidence arrived.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps conceptual topological reasoning, local accuracy, delayed relations, emergent inference, and later correction inside one inspectable process field.
 
 - [**Human Insecurity — Zero fear and the quantum mind-like state**]({{ '/HUMAN-INSECURITY/#5-zero-fear-and-the-quantum-mind-like-state' | relative_url }}) — develops the anxiety-free condition connected here to a wider field of awareness.

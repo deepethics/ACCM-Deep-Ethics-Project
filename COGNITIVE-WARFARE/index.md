@@ -733,6 +733,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows a competing assessment after it is classified, including who benefited from non-investigation.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — tracks how behavioral qualifiers, classifications, incentives, and feedback alter the path from perception management to social effects.
 
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies the obstructions and restoration routes that can alter a cognitive-warfare evaluation.

@@ -345,6 +345,7 @@ And one step earlier:
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — asks what a later system inherits: the corrected fact, the old flag, or both.
 - [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — identifies candidate transformations through which source material can become lower-fidelity synthetic residue.
 - [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — provides reusable probes for testing representation and caution patterns before outputs re-enter recursive systems.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation used to examine preservation, selection, and self-correction.

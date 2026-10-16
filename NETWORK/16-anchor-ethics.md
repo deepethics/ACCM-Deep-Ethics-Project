@@ -490,6 +490,7 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — an opt-in field for comparing action, refusal, delay, and misclassification.
 - [**Human Insecurity, LLMs, Psychology and Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — holds the larger architecture and longitudinal source context from which this dedicated page was split.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks what intelligence meant before prediction came to dominate the word.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — supplies the answer-changing clarification gate before avoidable intervention.

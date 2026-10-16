@@ -1330,6 +1330,7 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — inspects instructions, incentives, choices, notice, and repair across the life of a competing assessment.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — keeps inquiry mode, declared purpose, processing, effect, notice, and repair separately inspectable.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 

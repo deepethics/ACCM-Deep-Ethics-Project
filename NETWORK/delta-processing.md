@@ -40,6 +40,7 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — the Δ between the original assessment, its treatment, and the next comparable case.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects a changed representation with the wider topology of meaning, use, framing, and future reach.
