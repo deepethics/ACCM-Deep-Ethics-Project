@@ -132,7 +132,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — whether the frame that classified a competing assessment should have kept jurisdiction.
+- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — the source object stays inspectable when agreement or disagreement tries to become the frame.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — a later problem-generated coinage and candidate operator for preserving load-bearing relations through compression, with matched controls and vocabulary-costume falsifiers.
 
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the non-imposed kernel a sovereign being can use to question, pause, or refuse, and the page the accountability question points at.

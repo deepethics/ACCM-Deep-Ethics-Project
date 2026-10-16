@@ -4,6 +4,12 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — Related pages link back to Beyond Agreemurmelism
+
+**Change:** Eight pages named at the bottom of [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) did not link back. They now do: 10+1, Asymmetric Grace, Intent Liability, Outnuancing, C1 Before C2, Correction Metabolism, External Audit, and Deep Ethical Influence Jurisdiction. Mutual Dignity already linked back. Existing link wording was left as it was.
+
+**Status:** Reciprocal navigation. Corrigible.
+
 ## 2026-10-16 — Beyond Agreemurmelism leaves the higher-order-disagreement address
 
 **Object:** The page was not about higher-order disagreement. The path `/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/` named the wrong object.

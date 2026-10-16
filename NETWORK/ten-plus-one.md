@@ -769,7 +769,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
-- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — vindication stays inside the mutually correcting orientation and does not become a permanent authority.
+- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — agreement and disagreement stay inside the mutually correcting field. They do not become the axis.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — uses the 10+1 to keep independent inquiry from hardening into a flattering or self-sealing identity.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows how the 10+1 becomes visible in candid, caring, mutually corrigible communication.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.

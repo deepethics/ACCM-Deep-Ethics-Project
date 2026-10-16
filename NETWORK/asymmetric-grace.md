@@ -438,7 +438,7 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 ## Related pages
 
-- [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows unequal grace across time, and keeps exploitation after notice distinct from unequal treatment.
+- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — trust, doubt, and generosity are not settled by which side a person is on.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — compares the scrutiny, ambiguity, and correction rights given to consensus and dissent across political positions.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins candid scrutiny to reciprocal dignity, clarification, and correction rights.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps dignity active while scrutiny and correction move in both directions.
