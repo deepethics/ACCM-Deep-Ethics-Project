@@ -50,6 +50,8 @@ jobs:
             --site . \
             --canonical _upstream/canonical \
             --cold-tests _upstream/cold-tests
+      - name: Build complete PDF ZIP archive
+        run: python .github/scripts/build_pdf_zip.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

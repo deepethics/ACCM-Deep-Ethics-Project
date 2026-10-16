@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="96" viewBox="0 0 84 96" role="img" aria-labelledby="title">
+  <title id="title">ZIP archive</title>
+  <path d="M14 3h39l17 17v70a3 3 0 0 1-3 3H14a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3z" fill="#fbf7ef" stroke="#d9d1c3" stroke-width="4"/>
+  <path d="M53 3v17h17" fill="#efe8db" stroke="#d9d1c3" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M38 5h9v8h-9zm0 10h9v8h-9zm0 10h9v8h-9zm0 10h9v8h-9z" fill="#5f6e63"/>
+  <rect x="5" y="50" width="74" height="31" rx="8" fill="#365f7b"/>
+  <text x="42" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">ZIP</text>
+</svg>

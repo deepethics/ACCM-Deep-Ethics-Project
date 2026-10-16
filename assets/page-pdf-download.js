@@ -10,34 +10,54 @@
     return path;
   }
 
-  function buildCard(pdfFile, position) {
-    const box = document.createElement("div");
-    box.className = `accm-pdf-service accm-pdf-service--${position}`;
-    box.setAttribute("role", "note");
-    box.setAttribute("aria-label", "PDF download for this page");
-
+  function buildDownloadCard({ href, iconFile, titleText, detailText, label }) {
     const link = document.createElement("a");
-    link.className = "accm-pdf-service-link";
-    link.href = `${base}/Deep-Ethical-PDFs/${encodeURIComponent(pdfFile)}`;
+    link.className = "accm-download-card";
+    link.href = href;
     link.setAttribute("download", "");
+    link.setAttribute("aria-label", label);
 
     const icon = document.createElement("img");
-    icon.className = "accm-pdf-service-icon";
-    icon.src = `${base}/assets/pdf-download.svg`;
+    icon.className = "accm-download-card-icon";
+    icon.src = `${base}/assets/${iconFile}`;
     icon.alt = "";
     icon.setAttribute("aria-hidden", "true");
     icon.width = 42;
     icon.height = 48;
 
     const copy = document.createElement("span");
-    copy.className = "accm-pdf-service-copy";
+    copy.className = "accm-download-card-copy";
     const title = document.createElement("strong");
-    title.textContent = "Download this page as PDF";
+    title.textContent = titleText;
     const detail = document.createElement("span");
-    detail.textContent = "PDF edition · October 16, 2026 snapshot";
+    detail.textContent = detailText;
     copy.append(title, detail);
     link.append(icon, copy);
-    box.append(link);
+    return link;
+  }
+
+  function buildServices(pdfFile, position) {
+    const box = document.createElement("div");
+    box.className = `accm-download-services accm-download-services--${position}`;
+    box.setAttribute("role", "group");
+    box.setAttribute("aria-label", "Page and archive downloads");
+
+    box.append(
+      buildDownloadCard({
+        href: `${base}/Deep-Ethical-PDFs/${encodeURIComponent(pdfFile)}`,
+        iconFile: "pdf-download.svg",
+        titleText: "Download this page as PDF",
+        detailText: "PDF edition · October 16, 2026 snapshot",
+        label: "Download this page as PDF"
+      }),
+      buildDownloadCard({
+        href: `${base}/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages-124-PDFs-2026-10-16.zip`,
+        iconFile: "zip-download.svg",
+        titleText: "All PDF files",
+        detailText: "124 PDFs · 11.1 MB ZIP archive",
+        label: "Download all 124 PDF files as an 11.1 MB ZIP archive"
+      })
+    );
     return box;
   }
 
@@ -46,7 +66,7 @@
     if (!pdfFile) return;
     document.querySelectorAll(".accm-pdf-service-host").forEach((host) => {
       const position = host.dataset.position === "bottom" ? "bottom" : "top";
-      host.replaceWith(buildCard(pdfFile, position));
+      host.replaceWith(buildServices(pdfFile, position));
     });
   });
 })();

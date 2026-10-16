@@ -478,14 +478,17 @@ pre, code {
 }
 
 
-/* Per-page PDF download service. Rendered only for pages in the dated 124-page export. */
-.accm-pdf-service {
+/* Per-page PDF and complete-archive download services. */
+.accm-download-services {
   display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 10px;
   margin: 16px 0 0;
 }
 
-.accm-pdf-service-link,
-.accm-pdf-service-link:visited {
+.accm-download-card,
+.accm-download-card:visited {
   display: inline-flex;
   align-items: center;
   gap: 12px;
@@ -499,40 +502,40 @@ pre, code {
   box-shadow: 0 1px 0 rgba(255,255,255,0.04) inset;
 }
 
-.accm-pdf-service-link:hover {
+.accm-download-card:hover {
   border-color: #8ea991;
   background: #293129;
   color: #ffffff;
 }
 
-.accm-pdf-service-link:focus-visible {
+.accm-download-card:focus-visible {
   outline: 3px solid #8ea991;
   outline-offset: 3px;
 }
 
-.accm-pdf-service-icon {
+.accm-download-card-icon {
   flex: 0 0 auto;
   width: 35px;
   height: 40px;
 }
 
-.accm-pdf-service-copy {
+.accm-download-card-copy {
   display: block;
   min-width: 0;
 }
 
-.accm-pdf-service-copy strong,
-.accm-pdf-service-copy span {
+.accm-download-card-copy strong,
+.accm-download-card-copy span {
   display: block;
 }
 
-.accm-pdf-service-copy strong {
+.accm-download-card-copy strong {
   color: #f4efe6;
   font-size: 0.96rem;
   line-height: 1.25;
 }
 
-.accm-pdf-service-copy span {
+.accm-download-card-copy span {
   margin-top: 2px;
   color: #b7c2b9;
   font-size: 0.78rem;
@@ -540,12 +543,12 @@ pre, code {
   line-height: 1.25;
 }
 
-.accm-pdf-service--bottom {
+.accm-download-services--bottom {
   margin: 0 0 26px;
 }
 
-@media screen and (max-width: 520px) {
-  .accm-pdf-service-link {
+@media screen and (max-width: 620px) {
+  .accm-download-card {
     width: 100%;
   }
 }
