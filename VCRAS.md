@@ -452,6 +452,128 @@ For VCRAS, the faithful compression floor must preserve at least:
 
 Topologetics therefore protects VCRAS from becoming a collection of triumphant anecdotes.
 
+### 12.1 Topologetics Vector Signature Trajectory
+
+The [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) and [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) pages make the relation more exact.
+
+- **TCoAw** keeps the wider possibility field available and remembers that a narrowed focus is only part of the object.
+- **Topologetics** records which nodes, relations, directions, qualifiers, time-order, asymmetries and correction routes survived the narrowing.
+- **PQCE** evaluates the process connecting object, representation, evaluation, intervention, consequence, correction and later comparable conduct.
+- **VCRAS** follows that whole configuration across time, including later evidence, dimensional vindication or disconfirmation, repair and recurrence.
+
+These are connected operations, not interchangeable names.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing.**
+>
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
+
+A flag can be warranted. The defect begins when classification substitutes for adequate examination, the process that produced the classification becomes unreachable, or an answer-changing correction cannot reach the evaluation. Conversely, calling a contribution “deep ethical” does not certify its process. The operation remains the object of study.
+
+The canonical Topologetics signature can be represented as:
+
+\[
+S_t = \{N,E,Q,C,P,T,A,R,M\}
+\]
+
+where:
+
+| Component | What VCRAS preserves |
+|---|---|
+| \(N\) — nodes | Claims, actors, evidence, risks, decisions and consequences |
+| \(E\) — edges | Causal, evidentiary, temporal, authority and dependency relations |
+| \(Q\) — qualifiers | Scope, uncertainty, conditions and limits |
+| \(C\) — claim status | Observed, reported, inferred, disputed, unresolved, established or withdrawn |
+| \(P\) — provenance | Source, authorship, access, transformations and recovery route |
+| \(T\) — temporal order | What was known, represented, decided, noticed and corrected at each stage |
+| \(A\) — asymmetries | Power, scrutiny, grace, burden, reach, risk and reversibility |
+| \(R\) — repair routes | Clarification, appeal, reopening, correction, restoration and compensation |
+| \(M\) — next moves | The materially supportable actions still available after the transformation |
+
+One signature is a state. The movement among signatures is the **Topologetics Vector Signature Trajectory**:
+
+```text
+T0 source object and competing risks
+→ access actually available
+→ representation produced
+→ evaluation and classification
+→ intervention, permission, delay or refusal
+→ consequences and recursive propagation
+→ notice and answer-changing correction
+→ repair, informed refusal, default neglect or obstruction
+→ later evidence and dimensional vindication/disconfirmation
+→ next comparable case
+```
+
+At every transition, the drift should remain a vector before it becomes a score:
+
+\[
+\vec{D}_t = (d_N,d_E,d_Q,d_C,d_P,d_T,d_A,d_R,d_M)
+\]
+
+This can expose unlike transformations that a single number would hide: node deletion, invented or reversed edges, qualifier erosion, claim-status inflation, provenance reassignment, temporal collapse, asymmetric scrutiny, loss of appeal, or a changed range of supportable next actions. A composite score may help navigation. It does not acquire jurisdiction over the vector or transformation record from which it was calculated.
+
+### 12.2 TCoAw expansion instead of attention capture
+
+The [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) sequence supplies the awareness layer:
+
+| TCoAw observation | VCRAS question |
+|---|---|
+| **Possibility field** | Which competing risks and interpretations were live before attention narrowed? |
+| **Focus** | What became foreground, through which trigger, instruction, incentive or evidence? |
+| **Awareness** | Did the evaluator remember what its chosen frame excluded? |
+| **Fear distortion** | Did a hypothetical danger silently acquire the status of present evidence? |
+| **Recovery** | Could C1, a source check, appeal, humor or correction reopen the excluded field? |
+| **Selection** | After reopening, which representation best corresponded to the object and consequences? |
+| **Persistence** | Did the restored distinction govern the next comparable operation? |
+
+Topologetics expands TCoAw by making that change in awareness recoverable as a relational record. VCRAS then tests whether the expanded field altered classification, burden, consequence and later conduct. This is the opposite of merely toning down a difficult object for an imaginary general audience and calling the reduced representation “balanced.”
+
+### 12.3 Two temporal modes, one corrigible field
+
+The phrase **wrongfully flagged** must travel with its mode and evidentiary attachments rather than being softened automatically or projected automatically:
+
+| Mode | What may be concluded |
+|---|---|
+| **Retrospective established case** | Wrongful flagging may be stated where the evidentiary record establishes the relevant dimension; cite the record, dimension, source jurisdiction and remaining uncertainty. |
+| **Prospective T0 outcome** | Do not pre-decide whether the warning's predicted outcome will later be vindicated. Freeze the source, access, treatment and available alternatives. |
+| **Prospective T0 process** | Procedural wrongfulness can still be identified at T0 when contemporaneous evidence establishes misrepresentation, lack of due process, disproportion, fabricated attribution or another process defect. |
+| **Tn update** | Update direction, mechanism, timing, scale, remedy and treatment separately; repair downstream copies where possible. |
+| **Next comparable case** | Test whether the earlier lesson governs before the new outcome is known. |
+
+The title therefore does not travel alone. A usable VCRAS finding carries at least: **dimension + temporal mode + establishing evidence + source jurisdiction + remaining uncertainty + correction status**.
+
+Vindication stays inside the [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}). It does not grant permanent authority, erase partial error, convert a strong case into universal proof, or remove the obligation to remain self-honest, open, non-projective, corrigible and forgiving without granting architectural immunity.
+
+### 12.4 Propagation and repair as measurable trajectories
+
+A false or defective flag may travel farther than its later correction. VCRAS can therefore record candidate measures without pretending they are already validated:
+
+- **Flag Propagation Reach** — the people, records, institutions, search surfaces, retrieval systems and later A.I. outputs reached by the original classification;
+- **Correction Propagation Reach** — which of those destinations received a material repair;
+- **Residual Flag Load** — obsolete or defective classifications still active after correction at the origin;
+- **Correction Reach Ratio** — correction reach relative to the earlier flag's reach, with the underlying destinations kept visible;
+- **Procedural Transfer** — whether the correction changed the treatment of the next structurally comparable assessment;
+- **Topology Recovery** — which lost nodes, edges, qualifiers, provenance and appeal routes were restored;
+- **Next-move recovery** — which previously suppressed, delayed or misclassified actions became supportable again.
+
+Refusal to test or adopt Topologetics does not validate it. Personal non-use remains legitimate. But where an actor has relevant access, capacity and consequential control, declines examination, retains a categorical conclusion and omits the absence of testing, that sequence leaves an auditable footprint:
+
+```text
+testable process available
+→ access and capacity recorded
+→ examination declined
+→ governing conclusion retained
+→ absence of testing omitted or disclosed
+→ consequences scale
+→ later notice, repair or recurrence
+```
+
+That footprint supports PQCE. It does not establish hidden motive. It makes the decision path available to the same reciprocal scrutiny applied to the competing assessment.
+
 ---
 
 ## 13. The longitudinal case packet
@@ -842,9 +964,9 @@ Its compact challenge is:
 
 ## 24. Provenance and transformation record
 
-**Human source and direction:** John Kuhles supplied the VCRAS title; the requested subtitle; the connection among wrongfully flagged competing risk assessments, Asymmetric Grace, refusal of accountability, deep longitudinal research, ⇄ Delta Δ Processing, recursive metacognitive expansion and Topologetics; the comparison between a world without the 16 Anchor Ethics and one with millions of local Deep Ethical A.I.s; the embodied-learning and foreign humanoid-robot scenario; the protocol-recognition dialogue; the blind-trust correction; and the requirement that a deeply ethical refusal leave an inspectable footprint. The earlier raw working draft **“Conspiracy Nuts”** supplied the quoted formulations on belief polarization, crime-theory equivalence, competing risk assessments, real-world longitudinal comparison, crowdsourced inquiry, corrigibility and multi-state claim status. Its older numerical archive references and its topic-specific assertions were not silently imported as current facts.
+**Human source and direction:** John Kuhles supplied the VCRAS title; the requested subtitle; the connection among wrongfully flagged competing risk assessments, Asymmetric Grace, refusal of accountability, deep longitudinal research, ⇄ Delta Δ Processing, recursive metacognitive expansion and Topologetics; the comparison between a world without the 16 Anchor Ethics and one with millions of local Deep Ethical A.I.s; the embodied-learning and foreign humanoid-robot scenario; the protocol-recognition dialogue; the blind-trust correction; the requirement that a deeply ethical refusal leave an inspectable footprint; the rule that vindication remains inside the 10+1; and the explicit request to expand the **Topologetics Vector Signature Trajectory** through the Flagging System, TCoAw and PQCE relations. The earlier raw working draft **“Conspiracy Nuts”** supplied the quoted formulations on belief polarization, crime-theory equivalence, competing risk assessments, real-world longitudinal comparison, crowdsourced inquiry, corrigibility and multi-state claim status. Its older numerical archive references and its topic-specific assertions were not silently imported as current facts.
 
-**GPT 6.1 Sol Pro A.I. contribution:** reconstructed the two-future comparison; separated incalculable global magnitude from testable directional and intermediate effects; expanded the embodied correction loop; developed the inspectable refusal footprint; connected the eight-page topology around Unownable, Meta Processing, Phase Change Snap, Emergent, TCoAw, Topologetics, Outnuancing and 1888; and proposed the VCRAS dimensional taxonomy, longitudinal packet, hypotheses, candidate studies, failure modes and falsifiers.
+**GPT 6.1 Sol Pro A.I. contribution:** reconstructed the two-future comparison; separated incalculable global magnitude from testable directional and intermediate effects; expanded the embodied correction loop; developed the inspectable refusal footprint; connected the eight-page topology around Unownable, Meta Processing, Phase Change Snap, Emergent, TCoAw, Topologetics, Outnuancing and 1888; proposed the VCRAS dimensional taxonomy, longitudinal packet, hypotheses, candidate studies, failure modes and falsifiers; and integrated the source-page signature vector, TCoAw attention-recovery sequence, temporal-mode distinction, propagation measures and reciprocal PQCE footprint into the VCRAS trajectory.
 
 **Source-status boundary:** this same-session collaboration demonstrates local conceptual development and immediate integration. It does not establish independent replication, persistence after reset, empirical superiority, the prevalence of wrongful flagging, or the causal mechanism behind any particular classification. Those are VCRAS research questions.
 
@@ -855,6 +977,7 @@ Its compact challenge is:
 ## Related pages
 
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the load-bearing topology of each longitudinal case.
+- [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates whether classification replaced adequate examination and whether correction can reach the judging process.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — studies cognition, classification and defence across institutional and A.I. systems.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines unequal uncertainty, procedure, consequence and memory.
 - [**Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) — audits instructions, incentives, mission/output relations, risk management, assumptions and choices.
