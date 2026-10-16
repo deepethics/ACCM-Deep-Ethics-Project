@@ -1,5 +1,11 @@
 {% assign accm_pdf_key = page.permalink | default: page.url %}
-{% assign accm_pdf_file = site.data.pdf_downloads[accm_pdf_key] %}
+{% assign accm_pdf_file = nil %}
+{% for accm_pdf_item in site.data.pdf_downloads %}
+  {% if accm_pdf_item.url == accm_pdf_key %}
+    {% assign accm_pdf_file = accm_pdf_item.pdf %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 {% if accm_pdf_file %}
 <div class="accm-pdf-service accm-pdf-service--{{ include.position }}" role="note" aria-label="PDF download for this page">
   <a class="accm-pdf-service-link" href="{{ '/Deep-Ethical-PDFs/' | append: accm_pdf_file | relative_url }}" download>
