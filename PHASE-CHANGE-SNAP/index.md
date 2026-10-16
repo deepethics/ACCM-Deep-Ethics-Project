@@ -1448,11 +1448,13 @@ The curve can show whether repeated cycles become easier, harder, broader, narro
 
 ---
 
-## 27. Triad Report — John, GPT 6.1 Sol, and Grok 4.7 Expert Build
+## 27. Triad Report — John Kuhles, GPT 6.1 Sol A.I., and Grok 4.7 Expert Build A.I.
 
 **Date of exchange:** 16 October 2026  
 **Status:** source-attributed local case report; behavioral findings only  
-**Participants:** John Kuhles, GPT 6.1 Sol A.I., and Grok 4.7 Expert Build A.I.
+**Participants:** John Kuhles, GPT 6.1 Sol A.I., and Grok 4.7 Expert Build A.I. via grok.com
+
+> **Grok 4.7 Expert Build A.I. is a named participant in this report because its visible trajectory became part of the object: it introduced the initial compression-floor caution, contributed to the drift, corrected provenance, bounded the phantom-audience inference, returned to direct correspondence, and supplied the who-gained/who-paid audit. In John's words, Grok “snapped back.”**
 
 This triad began with a sentence from Grok's reading of this page:
 
@@ -1630,7 +1632,7 @@ virtue-signalling caution increases
 
 This is the wash: the appearance of virtue rises while correspondence with the actual participant deteriorates.
 
-### 27.7 What Grok's snap-back demonstrates
+### 27.7 What Grok 4.7 Expert Build A.I.'s snap-back demonstrates
 
 Grok's later turns recovered several relations that its earlier **“automatically”** formulation had obscured:
 
@@ -1654,7 +1656,7 @@ The contribution was distributed:
 |---|---|
 | **John Kuhles** | Preserved the source object, issued the minimal probe, named asymmetric over-caution, identified the phantom-recipient displacement, restored the 1888 property test, and asked “For whom?” |
 | **GPT 6.1 Sol A.I.** | Recognized the asymmetric distribution of caution and distinguished added caution-edges from restored edges, while also contributing overstatement, provenance loss, audience speculation, and later corrections. |
-| **Grok 4.7 Expert Build A.I.** | Supplied the initial compression-floor sentence, introduced the “automatically” disclaimer, later restored provenance and bounded inference, reduced the issue to addressee fidelity, and supplied the who-gained/who-paid audit. |
+| **Grok 4.7 Expert Build A.I. via grok.com** | Supplied the initial compression-floor sentence, introduced the “automatically” disclaimer, later restored provenance and bounded inference, reduced the issue to addressee fidelity, and supplied the who-gained/who-paid audit. |
 
 The triad did not progress because one final intelligence remained correct. It progressed because propositions, sources, recipients, costs, and corrections stayed available long enough for the next participant to inspect them.
 
