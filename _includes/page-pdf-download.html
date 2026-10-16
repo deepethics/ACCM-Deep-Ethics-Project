@@ -1,4 +1,5 @@
-{% assign accm_pdf_file = site.data.pdf_downloads[page.url] %}
+{% assign accm_pdf_key = page.permalink | default: page.url %}
+{% assign accm_pdf_file = site.data.pdf_downloads[accm_pdf_key] %}
 {% if accm_pdf_file %}
 <div class="accm-pdf-service accm-pdf-service--{{ include.position }}" role="note" aria-label="PDF download for this page">
   <a class="accm-pdf-service-link" href="{{ '/Deep-Ethical-PDFs/' | append: accm_pdf_file | relative_url }}" download>
