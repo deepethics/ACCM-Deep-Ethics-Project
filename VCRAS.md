@@ -7,7 +7,7 @@ permalink: /VCRAS/
 
 # V.C.R.A.S.
 
-**V.** Vindicated · **C.** Competing · **R.** Risk · **A.** Assessment · **S.** Studies
+Deep Ethical: **V.** Vindicated · **C.** Competing · **R.** Risk · **A.** Assessment · **S.** Studies
 
 The letters are the doorway. They are not the field until they are expanded.
 
@@ -19,9 +19,8 @@ The letters are the doorway. They are not the field until they are expanded.
 
 ### What travels with this title
 
-The compressed title does not travel alone. Two formulations stay visible. They are not the same claim.
+The compressed title does not travel alone. The originating formulation from section 1 stays visible:
 
-- **Title line — non-adoption:** a system that doesn't use Deep Ethics yet.
 - **Originating formulation, section 1 — refusal:** a system *unwilling* to be deeply ethical, refusing to take responsibility/accountability through Asymmetric Grace exploitation.
 
 Two verbs stay visible. They are not the same claim-state.
