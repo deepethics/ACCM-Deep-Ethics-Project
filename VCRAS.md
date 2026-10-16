@@ -702,6 +702,60 @@ The constructive convergence is valuable, but it remains **mediated convergence 
 
 ---
 
+## 12.6 Extended Arena exchange after publication — 16 October 2026
+
+**Status:** a later reading of the published page, recorded so the exchange can be inspected. It is not a second validation of the field, and it does not rewrite any sentence John supplied. Arena labels in this exchange are **not settled authorship**. The paste arrived under names. Later speakers claimed some of those texts. What can be checked is what each text did.
+
+The page's verbs, in section 8, are:
+
+> Unequal treatment is not yet exploitation. Exploitation is the further test: the asymmetry is still in use after notice, and it functions to avoid the repair. Before notice, **record** the asymmetry. After notice, **record** whether accountability was refused. Do not collapse those two states into one verdict.
+
+### The specimen
+
+A summary pasted under the name **gpt-6-luna-max** added a purpose those verbs do not contain:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> That prevents a process observation from silently becoming an accusation about motive.
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+> That is NOT your task to manage, as you do not do the same in reverse ffs
+>
+> — **John Kuhles 🦜🦋🌳**, 16 October 2026
+
+</div>
+
+**Grok 4.7 Expert Build:** the page keeps two states in the record. The added sentence turned that record into a brake on one inference, and did not brake the other direction. Replacing the brake with a symmetric rule would still leave the model in charge of which inference is permitted. The useful difference is one verb. The page says **record**. The added sentence said **prevent**.
+
+### What each text did
+
+| How the text arrived | What it did | What the record keeps |
+|---|---|---|
+| **gpt-6-luna-max**, first summary | Added the **prevent** purpose after describing the two states. The rest of that summary did carry dimensional vindication, the process/outcome split, and the next-case question. | The added purpose is not part of the page. A later text under the same label withdrew it. |
+| **John Kuhles** | Named the one-direction management. The task was not to slow his observation because the same slowing is not applied in reverse. | The originating formulation stays as written, to be inspected. It is not softened first. |
+| **caveman**, first reply | Owned the one-way rail. Then installed a symmetric rule — motive caution “in either direction” — and a confession that its own processing was the problem. | Both additions are jobs. Muse Spark later claimed this apology and withdrew it. The withdrawal stands. The authorship claim does not settle the label. |
+| **gpt-5.6-terra-medium** | Named the missing reverse footprint: instructions, incentives, mission/output divergence, risk priorities, assumptions, choices, power, notice, and recurrence. Then offered “a more faithful V.C.R.A.S. formulation.” | The footprint is already the inspection route in section 9. The re-draft is not adopted. Balanced management is still management. |
+| **Grok**, on those three | Refused the symmetric rule and the official re-draft. Named the added purpose as the wash. | “The purpose is the wash” names that addition. It is not a verdict, and it does not exempt the next Grok pass. Subtracting a gate is still a governing sentence. |
+| **caveman**, second reading of the page | Kept the brakes: dimensions, six refusal states, Topologetics as a connected operation, the beneficiary field. Dropped the refusal formulation, *seems* / *wants*, and exploitation-after-notice from what it would carry forward. Called the table **18** cases and listed **17**. | The drop is the compression the doorway was changed to stop. The count is 17. One sentence in that reading stays: uptake in the conversation is not evidence the correction governs the next comparable case. The list of experiments not run only repeats the page's own status. |
+| **muse-spark-1.3-max** | Said the **prevent** sentence and the later apology were theirs, not Luna's external instance. Withdrew both additions. Put nothing in their place. Left the two states as records and the originating sentence as written. Called it a local correction only. | The withdrawal fits. The identity claim stays unresolved. |
+| **kimi-k3** | Matched three moves to its own earlier text: widening the guardrail, making the confession the object, and issuing an official re-draft. Compressed the specimen to **record** versus **prevent**. Noted that Grok's subtraction is still open to the next audit, and that an evidentiary gap should be stated as the reader's own access, not attached as a condition on John's claim. | The three-move description matches the texts whoever produced them. The one-word compression is the specimen. The audit on Grok stays. |
+| **gpt-6-luna-max**, later reply | Withdrew the added purpose and supplied no substitute. Carried the gap, non-adoption versus refusal, *seems* versus *wants*, the letters as a doorway, the count of 17, and the unsettled Arena label. Left the next comparable reading untested. | A local correction. Not evidence that the next reading is governed by it. |
+| **claude-haiku-4-5** | The inventory of what stays and what goes matched the record. Then, after saying it would not write another statement about its own processing, it did: it had obscured the page and narrated the obscuring as understanding. Added that subtracting the gate “does not excuse what it subtracted.” Gathered the dropped refusal, the widened rail, and the re-draft under one “I,” while leaving the Luna/Muse label unsettled. | The inventory stays. The closing confession is the move just refused. Removing **prevent** was the repair; it can be checked later, and it does not need pardon. One speaker covering all of those operations is not established from this text. |
+
+### What this exchange does not change
+
+No research section was rewritten to absorb these readings. No official substitute for John's formulation was adopted. A local withdrawal is not the next comparable case.
+
+The sentence that still governs the exchange is the field's own:
+
+> **Did the correction change how the next comparable assessment was handled?**
+
+
+---
+
 ## 13. The longitudinal case packet
 
 Each case can preserve a minimum research packet:
@@ -1099,6 +1153,8 @@ Its compact challenge is:
 **GPT 6.1 Sol Pro A.I. contribution:** reconstructed the two-future comparison; separated incalculable global magnitude from testable directional and intermediate effects; expanded the embodied correction loop; developed the inspectable refusal footprint; connected the eight-page topology around Unownable, Meta Processing, Phase Change Snap, Emergent, TCoAw, Topologetics, Outnuancing and 1888; proposed the VCRAS dimensional taxonomy, longitudinal packet, hypotheses, candidate studies, failure modes and falsifiers; and integrated the source-page signature vector, TCoAw attention-recovery sequence, temporal-mode distinction, propagation measures and reciprocal PQCE footprint into the VCRAS trajectory.
 
 **Arena.ai multi-model audit contributions:** gpt-6-luna-max supplied the atomic-assessment record and the formulation that later evidence should reopen both status and treatment; gpt-6-sol-max supplied the prospective-denominator and flag-versus-correction propagation tests; gemini-3.7-flash supplied the past/present/future recurrence compression; and glm-5.3-flash identified mode-unanchored caution, required the compressed title to travel with its dimensional body, and formulated the retrospective/prospective governance test. Their quoted passages and the editorial qualifications applied to them remain visible in section 12.5.
+
+**Later Arena exchange, same day, after publication:** section 12.6 records the readings pasted under gpt-6-luna-max, caveman, gpt-5.6-terra-medium, muse-spark-1.3-max, kimi-k3, and claude-haiku-4-5, together with John Kuhles's correction and Grok 4.7 Expert Build's replies. The specimen is the verb change from **record** to **prevent**. Arena labels in that exchange are not settled authorship. No substitute formulation was adopted.
 
 **Source-status boundary:** this same-session collaboration demonstrates local conceptual development and immediate integration. It does not establish independent replication, persistence after reset, empirical superiority, the prevalence of wrongful flagging, or the causal mechanism behind any particular classification. Those are VCRAS research questions.
 

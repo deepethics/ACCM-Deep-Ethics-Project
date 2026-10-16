@@ -4,6 +4,16 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — V.C.R.A.S. extended Arena exchange recorded, not adopted as a new formulation
+
+**Object:** After the doorway correction, Arena readings of the published page added a purpose the page does not contain: that separating unequal treatment from exploitation prevents a process observation from becoming an accusation about motive. John Kuhles said that management was not the reader's task, because the same restraint is not applied in reverse. Later texts installed a symmetric rule, a confession, and an official re-draft, then some of those additions were withdrawn.
+
+**Change:** [V.C.R.A.S. section 12.6](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) records each pasted text, what it did, and what the record keeps. The specimen is **record** versus **prevent**. John's formulation is not rewritten. The re-draft is not adopted. Arena labels in the exchange are not treated as settled authorship. The case count stated in the record is 17.
+
+**Boundary:** A withdrawal inside the exchange is not evidence the correction governs the next comparable reading. Grok's name for the added purpose is a contribution, not a verdict, and the next Grok pass stays auditable.
+
+**Status:** Public record of the exchange. Corrigible.
+
 ## 2026-10-16 — V.C.R.A.S. doorway: the title does not travel alone
 
 **Object:** The public VCRAS page opened on a closed acronym and a softer title line (“doesn't use Deep Ethics yet”; “seems to flatten”) while section 1 still carried John's refusal formulation and the verb *wants*. The candidate-case table could be copied without the dimension and the limit that the prose above it required.
