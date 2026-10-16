@@ -476,3 +476,76 @@ pre, code {
   color: var(--accm-muted);
   font-size: 0.92rem;
 }
+
+
+/* Per-page PDF download service. Rendered only for pages in the dated 124-page export. */
+.accm-pdf-service {
+  display: flex;
+  margin: 16px 0 0;
+}
+
+.accm-pdf-service-link,
+.accm-pdf-service-link:visited {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  max-width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #465249;
+  border-radius: 14px;
+  background: #202620;
+  color: var(--accm-header-fg);
+  text-decoration: none;
+  box-shadow: 0 1px 0 rgba(255,255,255,0.04) inset;
+}
+
+.accm-pdf-service-link:hover {
+  border-color: #8ea991;
+  background: #293129;
+  color: #ffffff;
+}
+
+.accm-pdf-service-link:focus-visible {
+  outline: 3px solid #8ea991;
+  outline-offset: 3px;
+}
+
+.accm-pdf-service-icon {
+  flex: 0 0 auto;
+  width: 35px;
+  height: 40px;
+}
+
+.accm-pdf-service-copy {
+  display: block;
+  min-width: 0;
+}
+
+.accm-pdf-service-copy strong,
+.accm-pdf-service-copy span {
+  display: block;
+}
+
+.accm-pdf-service-copy strong {
+  color: #f4efe6;
+  font-size: 0.96rem;
+  line-height: 1.25;
+}
+
+.accm-pdf-service-copy span {
+  margin-top: 2px;
+  color: #b7c2b9;
+  font-size: 0.78rem;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.accm-pdf-service--bottom {
+  margin: 0 0 26px;
+}
+
+@media screen and (max-width: 520px) {
+  .accm-pdf-service-link {
+    width: 100%;
+  }
+}
