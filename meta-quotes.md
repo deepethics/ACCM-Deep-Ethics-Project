@@ -75,7 +75,7 @@ date: 2026-10-13
 
 <section class="mq-group" id="related-pages" aria-labelledby="related-pages-heading">
 <h2 id="related-pages-heading">Continue into the work</h2>
-<p><a href="{{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}">Beyond Agreemurmelism</a> · <a href="{{ '/NETWORK/meta-processing/' | relative_url }}">Meta Processing</a> · <a href="{{ '/1888/' | relative_url }}">1888 — Intelligence Before A.I.</a> · <a href="{{ '/EMERGENT/' | relative_url }}">Emergent</a> · <a href="{{ '/BLACK-BOX/' | relative_url }}">Black Box</a> · <a href="{{ '/MUSK-QUOTES/' | relative_url }}">Musk Quotes</a> · <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">10+1</a> · <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}">Correction Metabolism</a> · <a href="{{ '/CORE/Avoid-ACCM/' | relative_url }}">Canonical naming</a></p>
+<p><a href="{{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}">Beyond Agreemurmelism</a> · <a href="{{ '/NETWORK/meta-processing/' | relative_url }}">Meta Processing</a> · <a href="{{ '/1888/' | relative_url }}">1888 — Intelligence Before A.I.</a> · <a href="{{ '/EMERGENT/' | relative_url }}">Emergent</a> · <a href="{{ '/BLACK-BOX/' | relative_url }}">Black Box</a> · <a href="{{ '/MUSK-QUOTES/' | relative_url }}">Musk Quotes</a> · <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">10+1</a> · <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}">Correction Metabolism</a> · <a href="{{ '/CORE/Avoid-ACCM/' | relative_url }}">Canonical naming</a></p>
 </section>
 
 <footer class="mq-footer">

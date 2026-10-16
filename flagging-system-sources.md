@@ -319,4 +319,4 @@ The supplied material supports inspection of visible wording, preserved or alter
 
 The historical file and Sol passage give context; Google's pasted responses give another context-dependent contribution; this conversation's GPT responses give both useful distinctions and further drift; John's interventions reconnect the object and change the inquiry. This record preserves those relations rather than producing a winner.
 
-[Read the **Flagging System** synthesis]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }})
+[Read the **Flagging System** synthesis]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})

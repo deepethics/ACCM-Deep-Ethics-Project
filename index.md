@@ -13,7 +13,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <div class="accm-rounded-quote accm-home-origin-quote">
 <blockquote class="accm-question">
-  <p style="font-size: clamp(1.2rem, 2vw, 1.55rem); line-height: 1.45;">I do not claim to be the "last authority" on <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>... I only want a better, deeper ethical quality <a href="{{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}">calibration process</a> to bridge what we all perceive as shared <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that <strong>visible</strong> for all to see!</p>
+  <p style="font-size: clamp(1.2rem, 2vw, 1.55rem); line-height: 1.45;">I do not claim to be the "last authority" on <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>... I only want a better, deeper ethical quality <a href="{{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}">calibration process</a> to bridge what we all perceive as shared <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that <strong>visible</strong> for all to see!</p>
 </blockquote>
 
 <div style="margin: 1.1rem 0; text-align: center; font-size: 1.05rem; letter-spacing: 0.18em;" aria-hidden="true">— · ✦ · —</div>

@@ -339,7 +339,7 @@ That right means:
 - uncertainty does not automatically transfer the full burden to the less powerful party;
 - rejection should be based on the assessment's merits rather than its institutional inconvenience.
 
-This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}) converge.
+This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) converge.
 
 Meta Processing examines what happened between instructions, processing, and effects. The 1888 property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
 

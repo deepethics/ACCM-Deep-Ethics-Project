@@ -147,7 +147,7 @@ Quoted as attributed to John on the existing public page. Markdown emphasis is d
 
 Quoted as attributed to John in the page’s “John’s starting point” section. Outer quotation delimiters and Markdown bold are not part of the extracted wording.
 
-[Public page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/) · [Repository snapshot](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/c44621f23182b6e97adc3a9c2a3d449bcbd2d375/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/index.md)
+[Public page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) · [Repository snapshot](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/c44621f23182b6e97adc3a9c2a3d449bcbd2d375/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/index.md)
 
 **Candidates:** [MQ05]({{ '/META-QUOTES/' | relative_url }}#mq05), [MQ15]({{ '/META-QUOTES/' | relative_url }}#mq15)
 

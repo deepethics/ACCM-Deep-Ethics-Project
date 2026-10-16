@@ -4,6 +4,14 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-16 — Beyond Agreemurmelism leaves the higher-order-disagreement address
+
+**Object:** The page was not about higher-order disagreement. The path `/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/` named the wrong object.
+
+**Change:** The content now lives at [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/). Clickable links elsewhere keep their existing words. Only the URL changed. The old address remains as a short redirect. One frozen repository snapshot still points at the file as it existed in that earlier commit.
+
+**Status:** Address change. The page text was not rewritten.
+
 ## 2026-10-16 — All Pages catalog catches the pages that were already public
 
 **Change:** [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) now names Flagging System and its three records, Musk Quotes, the 11+1 full-report door, Meta Quotes and its source record, Number 42, and For who?. The V.C.R.A.S. entry now says the page opens on the unexpanded letters and that the seventeen related pages link back with the phrase **Vindicated Competing Risk Assessment Studies**.

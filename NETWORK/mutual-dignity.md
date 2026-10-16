@@ -37,7 +37,7 @@ Sources: [E02](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether a correction is absorbed without turning the corrected participant into a permanent identity judgment.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects the participant’s ability to clarify an answer-changing ambiguity before consequential interpretation.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps accountability inspectable without requiring mind-reading or granting declared intent immunity.
-- [**Higher-Order Metacognitive Disagreement & Agreement**]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }}) — evaluates the quality of agreement, disagreement, and the calibration process itself.
+- [**Higher-Order Metacognitive Disagreement & Agreement**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluates the quality of agreement, disagreement, and the calibration process itself.
 - [**Mutual Corrigible Dignity — Lexicon entry**]({{ '/LEXICON/' | relative_url }}#mutual-corrigible-dignity) — preserves the compact established formulation and its place in the wider vocabulary.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks how biological and electrical intelligences keep correspondence when neither is granted permanent epistemic supremacy.
 

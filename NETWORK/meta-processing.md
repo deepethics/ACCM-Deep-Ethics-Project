@@ -21,7 +21,7 @@ permalink: /NETWORK/meta-processing/
 
 ### Highly recommended companion pages
 
-**[Beyond Agreemurmelism]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }})** shows how agreement/disagreement status can become an operation inside the processing middle—redirecting attention, generating mandatory counter-positions, managing relational status, or replacing examination of the object.
+**[Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** shows how agreement/disagreement status can become an operation inside the processing middle—redirecting attention, generating mandatory counter-positions, managing relational status, or replacing examination of the object.
 
 **[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** restores the wider property taxonomy of intelligence—learning, correction, adaptation, judgment, and consequence-sensitive recalibration—before modern A.I. vocabulary narrows intelligence to prediction. It helps test whether those properties remain active inside the processing or are being replaced by assumed predictability and the role-play of intelligence.
 
@@ -29,7 +29,7 @@ permalink: /NETWORK/meta-processing/
 
 Read together, these pages ask: **What happened to the object during processing, and did that process preserve intelligent, corrigible correspondence—or divert into position-status management and unchecked predictability assumptions?**
 
-- [Open **Beyond Agreemurmelism** →]({{ '/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/' | relative_url }})
+- [Open **Beyond Agreemurmelism** →]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})
 - [Open **1888 — Intelligence Before A.I.** →]({{ '/1888/' | relative_url }})
 - [Open **Intent Liability** →]({{ '/NETWORK/intent-resonator/' | relative_url }})
 
