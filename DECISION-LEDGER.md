@@ -1087,3 +1087,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** A signature is not the Ledger. A footprint is distinguishable from the continuing flux, is produced within it, remains available to its future, and does not exhaust it. A pass is not automatically a Topologetics signature. External reinstatement is not proof of internal durable memory. Interlocked pages are not a fused mind. **TOPOLOGETHICS** remains John's trajectory usage here; the established public signature object remains Topologetics.
 
 **Status:** public corrigible snapshot. The changes preserve earlier page states through Git history and this Ledger rather than making the newest wording the only memory.
+
+---
+
+<a id="dedda-concept-2026-10-17"></a>
+## 2026-10-17 — Add DEDDA as a non-replacing drift witness
+
+**Object:** John Kuhles proposed the **Deep Ethical Drift Detector App (DEDDA)** as a personal, deep-ethical third-party assistant/mediator that helps keep correspondence mutually authentic, deep ethical, and on point without manufacturing phantom claims that then require repair.
+
+**Change:** Added the [DEDDA concept page]({{ '/DEDDA/' | relative_url }}), embedded Graham Dot Zip's comic A.I.-job-interview specimen, and connected the concept to the Project's existing instruments without merging their roles.
+
+**Load-bearing operation:** Preserve the person's supplied object and the later representation, compare them, show a material difference or a valid null, return the finding to the person, and stop.
+
+**Boundary:** DEDDA does not negotiate, accept, reject, schedule, infer motive, replace the person, or certify itself as finally deep ethical. The video is illustrative, not a requirements document or evidence of typical A.I.-mediated interviews.
+
+**Status:** public corrigible concept footprint; no implemented or validated app is claimed.

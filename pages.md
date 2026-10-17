@@ -148,6 +148,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)**
 - **[52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)**
 - **[Inspecting the Inspector](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/)**
+- **[DEDDA — Deep Ethical Drift Detector App](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** — concept for a personal, non-replacing third-party assistant that shows material correspondence drift or a valid null, then returns control to the person.
 - **[What the Dicks transcript is trying to convey](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)**
 - **[Applying the 27 to a media object — Dan Dicks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/)**
 - **[Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/)**
