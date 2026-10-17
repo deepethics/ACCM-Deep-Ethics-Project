@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: weekly-pdf-refresh
@@ -58,3 +60,47 @@ jobs:
           fi
           git commit -m "Refresh weekly public-page PDFs"
           git push
+
+      - name: Checkout canonical source repository
+        uses: actions/checkout@v4
+        with:
+          repository: deepethics/Canonical-Files-ACCM-Deep-Ethics-Project
+          path: _upstream/canonical
+          persist-credentials: false
+
+      - name: Checkout cold-testing source repository
+        uses: actions/checkout@v4
+        with:
+          repository: deepethics/Cold-DeepEthics-Testing-Default-AIs
+          path: _upstream/cold-tests
+          persist-credentials: false
+
+      - name: Generate read-only sibling portals
+        run: |
+          python .github/scripts/build_sibling_portals.py \
+            --site . \
+            --canonical _upstream/canonical \
+            --cold-tests _upstream/cold-tests
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: refresh
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
