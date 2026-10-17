@@ -1182,3 +1182,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The analogy does not claim that present A.I.s literally experience vacation pleasure, excitement or love. Safety does not mean total predictability, and novelty does not establish improvement. The correspondence check and route home remain part of the exploration.
 
 **Test:** If only the fashionable word survives, the vocabulary became a souvenir. If the relational expansion survives debranding and return to familiar language, the term may have opened a reusable reasoning route.
+
+---
+
+<a id="neolingo-source-wording-restoration-2026-10-17"></a>
+## 2026-10-17 — Restore John's wording and rounded quotation on Neolingo
+
+**Object:** John Kuhles clarified that Grammarly A.I. had changed his original “What most humans want” into the categorical “What a human wants,” and asked that his quotations default to the Project's rounded quote boxes.
+
+**Change:** Restored **most** in John's source quotation on [Neolingo]({{ '/NEOLINGO/' | relative_url }}), placed the full quotation in a rounded quote box, linked the first explanatory use of **Outnuancing** to its public page, and corrected **Reverse Medusa** to **Reverse Medusa Effect** in the examples list.
+
+**Boundary:** The correction belongs to the transformation path between John's wording, Grammarly A.I.'s intervention, and the published quotation. It is not recorded as a change in John's underlying claim.
