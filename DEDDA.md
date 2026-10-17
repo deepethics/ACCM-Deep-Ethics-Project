@@ -138,6 +138,10 @@ The video makes a vivid specimen, but it is not a requirements document. The fir
 
 Open questions remain: what counts as *material*, how permissions are recorded, what stays local, how contested interpretations are shown, and how DEDDA's own false positives and missed drift are audited.
 
+### First public expert-analysis specimen
+
+[**Connor Leahy — DEDDA analysis specimen**]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) applies the configurable DEDDA system to a high-reach A.I. expert and policy advocate. It preserves claim types, personal rules, forecasts, incident reports, regulation proposals, valid nulls, and the question of who regulates regulators and enforcers.
+
 ## A natural pragmatic extension
 
 DEDDA turns one Project relation into a bounded operation a person could actually use:

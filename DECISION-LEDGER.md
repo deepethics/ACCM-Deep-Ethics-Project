@@ -1102,3 +1102,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** DEDDA does not negotiate, accept, reject, schedule, infer motive, replace the person, or certify itself as finally deep ethical. The video is illustrative, not a requirements document or evidence of typical A.I.-mediated interviews.
 
 **Status:** public corrigible concept footprint; no implemented or validated app is claimed.
+
+---
+
+<a id="connor-leahy-dedda-specimen-2026-10-17"></a>
+## 2026-10-17 — Add Connor Leahy as the first public expert-analysis DEDDA specimen
+
+**Object:** John Kuhles supplied the full Decoded Genius interview with Connor Leahy and asked what it missed, what overlaps with the ACCM Deep Ethics Project, and who regulates the power of regulators and enforcers.
+
+**Change:** Added [Connor Leahy — DEDDA analysis specimen]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) under Experiments, embedded the full video, preserved the published chapter map, recorded the John–GPT-6–Grok 4.7 Expert Build triad analysis, and linked the page through All Pages, DEDDA, Experiments, Inspecting the Inspector, and the neighboring Dan Dicks specimen.
+
+**Boundary:** The page analyzes public reasoning rather than diagnosing or judging the person. Connor Leahy is represented as an A.I. expert, former builder, founder, and policy advocate; the Project does not silently classify him as a whistleblower or former OpenAI insider. Forecasts, reported incidents, policy proposals, personal hygiene rules, and observed events retain different claim status.
+
+**Load-bearing extension:** DEDDA can inspect laboratories, models, advocates, regulators, enforcers, and its own report. Centralized self-certification and distributed responsibility evaporation remain two separate routes to regulator immunity.
+
+**Status:** public corrigible specimen. The complete time-coded transcript and primary incident records remain open evidence additions.

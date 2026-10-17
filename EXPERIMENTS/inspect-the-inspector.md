@@ -426,6 +426,7 @@ That is not agreement or disagreement. It is a process that remains able to lear
 - [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — develops question value across trajectories rather than one winning answer.
 - [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — supplies the obstruction patterns recorded during the proposed experiment.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the inspector’s standard back onto the inspection in the same pass.
+- [**Connor Leahy — DEDDA analysis specimen**]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) — tests directional scrutiny on an A.I. expert's warnings and on the regulators and enforcers proposed in response.
 - [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — places this cold-test object among the project’s other protocols and specimens.
 
 ---

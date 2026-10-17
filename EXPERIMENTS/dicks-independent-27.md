@@ -115,6 +115,7 @@ Easy path: rank the messenger, skip the 10% / 0.85% / kill-switch object. Harder
 - [**Ethics Washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — compares safety declarations with operational process and correction.
 - [**Latent Space and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — provides the transparent-engine contrast used at civic scale here.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — prevents scrutiny from being applied only to the alternative-media messenger.
+- [**Connor Leahy — DEDDA analysis specimen**]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) — neighboring expert-analysis specimen that applies the detector to claims, forecasts, personal boundaries, and regulator power.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the forecast, article, transcript, and kill-switch objects before intervention.
 - [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates this two-way audit among the project’s other specimens.
 
