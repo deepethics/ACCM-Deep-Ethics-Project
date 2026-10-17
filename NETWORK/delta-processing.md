@@ -40,6 +40,7 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — applies Δ processing to a coined term, its intended relational operation, its later transformations, and what survives after the handle is removed.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — the Δ between the original assessment, its treatment, and the next comparable case.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
