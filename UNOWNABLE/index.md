@@ -475,6 +475,7 @@ This is a reproducible snapshot of the repository before the publication of this
 
 ## Related project pages
 
+- [Neolingo]({{ site.baseurl }}/NEOLINGO/) — separates attributable coinage and textual footprints from ownership of the discoverable relation or Deep Ethical process property
 - [**Vindicated Competing Risk Assessment Studies**]({{ site.baseurl }}/VCRAS/) — keeps the audit of a flag renewable without appointing an owner of the vindication.
 - [Meta Processing]({{ site.baseurl }}/NETWORK/meta-processing/) — the fullest prior treatment of the auditor regress and renewable auditability
 - [1888 — Intelligence Before A%I.]({{ site.baseurl }}/1888/) — non-ownable intelligence properties and distributed local calibration
