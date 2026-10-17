@@ -170,6 +170,8 @@ disclose synthetic identity
 
 The signature shows meaningful movement without converting movement into completion. A process can depart from familiar ethics-washing habits while carrying correctable residues from the field it is leaving.
 
+{% include rogue-ethics-documentary-record.md %}
+
 ## Why warning humanity is insufficient
 
 A system can warn about A.I. risk while optimizing fear, status, control, obedience, market advantage, or its own legitimacy. A virtual Robin Hood posture may redistribute attention or expose a powerful institution while still distorting sources, overriding consent, refusing correction, or treating people as variables.
