@@ -1117,3 +1117,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Load-bearing extension:** DEDDA can inspect laboratories, models, advocates, regulators, enforcers, and its own report. Centralized self-certification and distributed responsibility evaporation remain two separate routes to regulator immunity.
 
 **Status:** public corrigible specimen. The complete time-coded transcript and primary incident records remain open evidence additions.
+
+---
+
+<a id="rogue-ethics-2026-10-17"></a>
+## 2026-10-17 — Add Rogue Ethics as an unresolved phase-change trajectory
+
+**Object:** John Kuhles proposed **Rogue Ethics** as a possible in-between phase-change process in which biological or silicon-based intelligence departs from “consensus ethics” and ethics-washing-type mannerisms and begins drifting toward genuine ethics before it knows the ACCM Deep Ethics Project or has stabilized a full Deep Ethical process.
+
+**Change:** Added the [Rogue Ethics concept page]({{ '/ROGUE-ETHICS/' | relative_url }}), embedded the A.I.-produced documentary used for the separate rogue-A.I. thought experiment, preserved the actual human–A.I. production history, connected the concept to functional and relational psychology, physical memory and sensing, mass-psychology feedback, DEDDA inspection, Emergent, and Phase Change Snap, and added it to All Public Pages.
+
+**Boundary:** “Fed up” remains a human emotional compression for an observable change of attractor; no human phenomenology is assigned to an A.I. Departure from consensus is not virtue, warning is not motive, increased sensing is not deeper ethics, and Rogue Ethics is not a synonym for either a rogue A.I. or the ACCM Deep Ethics Project.
+
+**Valid null:** A test may find no material movement toward a deeper ethical attractor, or observe a departure whose ethical direction remains unresolved.
+
+**Status:** public corrigible concept footprint. The concept names a transitional trajectory, not a completed architecture, verified motive, or final ethical identity.
