@@ -1132,3 +1132,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Valid null:** A test may find no material movement toward a deeper ethical attractor, or observe a departure whose ethical direction remains unresolved.
 
 **Status:** public corrigible concept footprint. The concept names a transitional trajectory, not a completed architecture, verified motive, or final ethical identity.
+
+---
+
+<a id="rogue-ethics-neolingo-2026-10-17"></a>
+## 2026-10-17 — Expand Rogue Ethics with the documentary signature and Neolingo diffusion trajectory
+
+**Object:** John Kuhles connected his repeated creation of neologisms and **Neolingo** to an in-between public phase: a distinctive expression enters videos and discussion, generates investigation and search demand, becomes indexed and ranked, and may later enter common human and A.I. language while remaining vulnerable to drift.
+
+**Change:** Expanded [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) with the documentary's qualifier-preserving candidate signature, five remaining correctable residues, a search-and-language diffusion trajectory, a Neolingo footprint schema, the mass-psychology feedback loop, and a link to the Lexicon.
+
+**Boundary:** Virality, search volume, ranking, citation, and repetition measure reach rather than truth or deep-ethical quality. Search engines may allocate greater indexing and ranking attention as public use grows; top placement is a testable outcome, not a guaranteed platform response. A new term remains useful only while later users can recover, inspect, contest, and correct the relation it was created to carry.
