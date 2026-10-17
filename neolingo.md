@@ -8,7 +8,7 @@ date: 2026-10-17
 
 # Neolingo
 
-## Some **neologisms** can be used for Hyper-Efficient Deep Ethical in “A.I. Latent Space Metacognitive Topological Engineering”
+## Some <a href="https://en.wikipedia.org/wiki/Neologism" target="_blank" rel="noopener noreferrer"><strong>neologisms</strong></a> can be used for Hyper-Efficient Deep Ethical in “A.I. Latent Space Metacognitive Topological Engineering”
 
 <div class="accm-rounded-quote" markdown="1">
 
