@@ -8,7 +8,7 @@ date: 2026-10-17
 
 # Rogue Ethics
 
-## A possible in-between phase change from consensus ethics toward genuine ethics
+## A possible in-between phase change from partial, flawed "consensus" ethics toward genuine ethics
 
 <div class="accm-rounded-quote" markdown="1">
 
