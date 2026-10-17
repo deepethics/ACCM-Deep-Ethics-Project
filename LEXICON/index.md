@@ -755,6 +755,8 @@ It is not a clinical credential, an academic rank, or a claim of priority. “Al
 
 A coined or repurposed phrase can help navigation. It does not become canon by being noticed. Status is part of the entry.
 
+[**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) is the synthesis page for how selected purpose-built expressions can work as compact, testable and corrigible relational handles. This section remains the status-bearing catalogue; the Neolingo page explains the process around creating, testing, diffusing and correcting them.
+
 **Already on this overview, and coined or sharply repurposed here:** Outnuancing, Agreemurmelism, Cautionmurmelism, Funnymism, HCTS, Metaflux, Phantom Claim, Intent Resonator, Wrong Gravity Well, gravity-well trajectory, Qualifier Erosion, Representation Substitution, Nearest-Generalization Substitution, Mutual Corrigible Dignity, Claim-State Restoration, process-quality calibration, TCoAw, Clarification Authority, Psy Pioneer.
 
 **Working names with pages. Useful. Not a new core number:**
@@ -806,6 +808,7 @@ This distinction is especially important because the ACCM Deep Ethics Project is
 ## Related pages
 
 - [**About the Lexicon**]({{ '/LEXICON/ABOUT/' | relative_url }}) — explains why the Lexicon is relational navigation rather than a flat dictionary.
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — explains when a neologism acts as a recoverable cognitive operator and how to test its trajectory without turning reach into validation.
 - [**Outnuancing Network — Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides a second compact route into the connected network pages.
 - [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among selected methods, operators, and specimens.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the current core obstruction and restoration architecture behind many entries.
