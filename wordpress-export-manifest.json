@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.1-test",
+  "generated_at": "2026-10-17T12:05:00Z",
+  "source_repository": "deepethics/ACCM-Deep-Ethics-Project",
+  "source_branch": "main",
+  "source_commit": "f9883cd2298961762af596337e00289508e353b4",
+  "export_branch": "wordpress-export-test",
+  "export_folder": "wordpress-export",
+  "purpose": "Five-page Git it Write draft-only transport and rendering test",
+  "items": [
+    {
+      "slug": "about",
+      "source_path": "about-site.md",
+      "export_path": "wordpress-export/about.md",
+      "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/",
+      "transformation_type": "topological-summary",
+      "lifecycle_status": "review-required",
+      "wordpress_status": "draft"
+    },
+    {
+      "slug": "for-who",
+      "source_path": "for-who.md",
+      "export_path": "wordpress-export/for-who.md",
+      "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/",
+      "transformation_type": "topological-summary",
+      "lifecycle_status": "review-required",
+      "wordpress_status": "draft"
+    },
+    {
+      "slug": "ten-plus-one",
+      "source_path": "NETWORK/ten-plus-one.md",
+      "export_path": "wordpress-export/ten-plus-one.md",
+      "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/",
+      "transformation_type": "topological-summary",
+      "lifecycle_status": "review-required",
+      "wordpress_status": "draft"
+    },
+    {
+      "slug": "16-anchor-ethics",
+      "source_path": "NETWORK/16-anchor-ethics.md",
+      "export_path": "wordpress-export/16-anchor-ethics.md",
+      "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/",
+      "transformation_type": "topological-summary",
+      "lifecycle_status": "review-required",
+      "wordpress_status": "draft"
+    },
+    {
+      "slug": "beta-paper-v3b",
+      "source_path": "BETA-PAPER-V3B/index.md",
+      "export_path": "wordpress-export/beta-paper-v3b.md",
+      "canonical_url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/",
+      "transformation_type": "topological-summary",
+      "lifecycle_status": "review-required",
+      "wordpress_status": "draft"
+    }
+  ]
+}
