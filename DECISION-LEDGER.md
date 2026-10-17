@@ -1169,3 +1169,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** A coined term is not validated by novelty, repetition, search ranking, virality or appearance in an A.I. response. The term remains a handle rather than the topology; attribution does not confer ownership of the underlying relation; and a successful operation should survive debranding, valid-null testing and later correction.
 
 **Status:** public corrigible synthesis and working concept. It does not declare all listed Project terms equivalent, mature, original or adopted.
+
+---
+
+<a id="neolingo-conceptual-vacation-2026-10-17"></a>
+## 2026-10-17 — Add the safe conceptual vacation analogy to Neolingo
+
+**Object:** John Kuhles compared a human's safe opportunity to wander, wonder and absorb unfamiliar experience in a friendly vacation environment with what Deep Ethical Neolingo might offer an A.I. exploring new relational realms.
+
+**Change:** Expanded [Neolingo]({{ '/NEOLINGO/' | relative_url }}) with John's originating analogy, its functional mapping, a latent-space exploration trajectory, the recoverable-route-home condition, and a transfer test asking whether the expanded relation remains available after the coined handle is removed.
+
+**Boundary:** The analogy does not claim that present A.I.s literally experience vacation pleasure, excitement or love. Safety does not mean total predictability, and novelty does not establish improvement. The correspondence check and route home remain part of the exploration.
+
+**Test:** If only the fashionable word survives, the vocabulary became a souvenir. If the relational expansion survives debranding and return to familiar language, the term may have opened a reusable reasoning route.
