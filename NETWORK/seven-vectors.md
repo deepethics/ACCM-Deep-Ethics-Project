@@ -82,6 +82,7 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- **[Neolingo]({{ '/NEOLINGO/' | relative_url }})** — places these seven fused vectors inside the wider creation, testing, transfer, genealogy and public-diffusion process without turning them into a license for arbitrary new labels.
 - **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** — the first project coinage produced after publication of the seven vectors, now used as a prospective test of whether a learned word can retrieve and improve a relation-preserving operation.
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
