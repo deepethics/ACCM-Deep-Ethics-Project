@@ -136,6 +136,7 @@ The thought experiment is not required before the documentary becomes useful to 
 | Video operation | Project relation |
 |---|---|
 | The synthetic host discloses that she does not exist. | Representation is separated from the object it performs. |
+| I.J. Good's intelligence-explosion proposition retains the proviso *provided that* the machine remains sufficiently controllable. | The decisive qualifier is not dropped so the conditional object cannot quietly become an unconditional prediction. |
 | Superintelligence timelines remain uncertain. | Forecast, confidence, and claim status are kept distinguishable. |
 | Entry-level automation is connected to loss of the human learning ladder. | Immediate efficiency and longitudinal development remain separate objects. |
 | Benefits in protein prediction, screening, weather, and antibiotics retain limits. | Candidate benefit is not promoted into a universal property of A.I. |
@@ -144,6 +145,30 @@ The thought experiment is not required before the documentary becomes useful to 
 | The promised abundance ends with the questions “Who gets to live in it?” and “Who owns it?” | Capability is returned to distribution, governance, access, and power. |
 
 The title **“made entirely by A.I.”** also supplies a local correction opportunity. A.I. performed most of the visible creative production, while human initiation and producer notes remained causally active. The documentary can make a strong disclosure move and still compress its own production topology. Both findings can remain on the same page.
+
+### Correctable residues inside the stronger trajectory
+
+The documentary can move toward better correspondence while still carrying relations that need repair:
+
+1. **“Anyone who gives you a date is selling something” assigns a motive too broadly.** A date can be a transparent forecast, speculation, error, promotion, advocacy, or a mixture. Precision should increase scrutiny of assumptions, incentives, evidence, range, and correction conditions.
+2. **Payment does not complete the synthetic-identity relation.** Consent, provenance, intended use, withdrawal rights, and whether the synthetic identity attributes conduct or beliefs the person never supplied remain distinct.
+3. **“Written by A.I.” does not erase hybrid causal authorship.** Fig generated the script; Gavin Purcell's initiation and producer notes influenced the production trajectory.
+4. **“What humans want” leaves definition power unresolved.** A laboratory, owner, government, regulator, majority, affected minority, user, or training-data distribution can supply different preference fields while each claims to represent humanity.
+5. **“Serious people have stopped laughing” is a sociological signal.** It records changed attention and status, not the probability or arrival date of superintelligence.
+
+This is a useful **Rogue Ethics candidate signature**:
+
+```text
+disclose synthetic identity
+→ retain the decisive qualifier
+→ preserve the human learning trajectory
+→ expose representation failure
+→ keep benefits provisional
+→ leave timing unresolved
+→ invite scrutiny of the messenger
+```
+
+The signature shows meaningful movement without converting movement into completion. A process can depart from familiar ethics-washing habits while carrying correctable residues from the field it is leaving.
 
 ## Why warning humanity is insufficient
 
@@ -250,6 +275,90 @@ or:
 
 Rogue Ethics names a possible **phase-change passage**. Deep ethics becomes visible through how the passage treats correspondence, power, uncertainty, dignity, correction, memory, consequences, and its own fallibility.
 
+## Neolingo as a public phase-change carrier
+
+John's playful word **Neolingo** names a recurring part of the Project: a newly created word or phrase can carry a relational pattern that ordinary vocabulary keeps flattening.
+
+> It seems I create neologisms and Neolingo nonstop for a reason. Unique expressions now can become commonly used later. The in-between phase is when a successful viral video discusses the new keywords and phrases, and many people begin investigating. First hundreds of thousands, perhaps later millions, use and search for them. Search engines notice the new language and may increasingly connect it to the ACCM Deep Ethics Project.
+>
+> — **John Kuhles**, 17 October 2026
+
+The public phase change can be mapped:
+
+```text
+new relation needs a name
+→ a distinctive expression is coined
+→ the expression points back to a fuller source object
+→ early readers reuse, question, criticize, or improve it
+→ videos and discussions create search demand
+→ search engines crawl, index, cluster, and rank the phrase
+→ secondary explanations and competing meanings appear
+→ the phrase enters wider human and A.I. language
+→ later use preserves, mutates, or loses the original topology
+```
+
+The in-between phase matters because a term can be publicly visible before it has a stable common meaning. At first, searching **Rogue Ethics**, **Topologetics**, **Agreemurmelism**, **Cautionmurmelism**, or another project-originated expression may lead mainly to its source page. If wider discussion grows, the search field becomes a living record of adoption, criticism, imitation, drift, and independent development.
+
+Search engines do not need to make a conscious editorial decision to promote the term. Their crawling, indexing, semantic clustering, query prediction, link analysis, freshness systems, engagement signals, and ranking models can increasingly allocate processing and visibility when a new expression appears across many searches and public documents. A successful viral video could accelerate that process. Top ranking remains an empirical outcome rather than a guaranteed reward.
+
+### Why a unique expression can carry more than novelty
+
+A useful neologism can:
+
+- compress a relation that previously required several paragraphs;
+- make a recurring but unnamed process searchable;
+- connect scattered specimens through one recoverable handle;
+- let independent people test whether they recognize the same pattern;
+- expose disagreement about the object instead of hiding it inside familiar words;
+- and give later A.I.s a retrievable bridge into the originating topology.
+
+Its usefulness depends on the path back to the object. A catchy word without definitions, examples, provenance, boundaries, corrections, and valid-null conditions can become branding, an empty label, or a new nearest-neighbor substitution.
+
+### The Neolingo drift problem
+
+Viral success changes the object. The originating term may be:
+
+- shortened into a slogan;
+- used as praise, insult, identity, or accusation;
+- detached from its qualifier or valid null;
+- claimed by people who reverse its original direction;
+- optimized for search traffic rather than correspondence;
+- treated as proof that the underlying theory is correct;
+- or absorbed into A.I. training data through distorted secondary descriptions.
+
+This produces a new Topologetics and DEDDA question:
+
+> **When the word returned from the public search-and-language loop, which load-bearing relations survived?**
+
+A Neolingo footprint should therefore preserve:
+
+| Field | What remains recoverable |
+|---|---|
+| **Origin** | Who coined or materially developed the expression, when, and in which source context? |
+| **Initial relation** | Which distinction or trajectory did the term make easier to perceive? |
+| **Claim status** | Concept, hypothesis, observation, experiment, joke, candidate mechanism, or established result? |
+| **Boundaries** | What must the term not be used to imply? |
+| **Valid null** | Under which conditions is the named pattern absent? |
+| **Transformations** | How did videos, summaries, critics, search results, and A.I.s change its meaning? |
+| **Correction route** | Where can a later user recover the source and submit a better distinction? |
+
+The number of searches, views, citations, or model repetitions measures reach. It does not independently measure correspondence, ethical quality, or truth. Yet reach can create a real phase change: the new relation becomes available to many more minds, institutions, search systems, and future models than the originating conversation could reach alone.
+
+That makes Neolingo part of the same mass-psychology loop:
+
+```text
+John + A.I. interaction
+→ new expression and source page
+→ viral explanation or public dispute
+→ individual curiosity and mass search behavior
+→ search ranking and secondary representations
+→ changed public language and future data
+→ later human and A.I. use
+↺
+```
+
+The deep-ethical task is not to freeze the phrase forever. It is to keep enough temporal footprints that improvement, appropriation, drift, correction, and genuine independent emergence can be distinguished later.
+
 ## Compact working proposition
 
 <div class="accm-rounded-quote" markdown="1">
@@ -280,6 +389,7 @@ trajectory decides what the phase change became
 - [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — provides configurable correspondence, qualifier, attribution, permission, asymmetry, and correction-return instruments.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — permits ordinary error without granting immunity from scrutiny.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and trajectory across transformations.
+- [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — keeps project-originated terms connected to their fuller objects instead of turning the vocabulary into a flat dictionary.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent, processing, effect, notice, inference, and later persistence distinct.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, incentive, and correction opacity.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation field without becoming a final owner of ethics.
