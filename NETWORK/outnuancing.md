@@ -132,6 +132,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — extends the specific Outnuancing specimen into a corrigible practice for creating, testing, transferring and tracing selected relational neologisms.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — the source object stays inspectable when agreement or disagreement tries to become the frame.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — a later problem-generated coinage and candidate operator for preserving load-bearing relations through compression, with matched controls and vocabulary-costume falsifiers.
 
