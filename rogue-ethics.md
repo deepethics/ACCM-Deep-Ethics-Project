@@ -391,6 +391,7 @@ trajectory decides what the phase change became
 - [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — provides configurable correspondence, qualifier, attribution, permission, asymmetry, and correction-return instruments.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — permits ordinary error without granting immunity from scrutiny.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and trajectory across transformations.
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — joins the Project's scattered neologism work into a testable practice of relational compression, public diffusion and correction.
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — keeps project-originated terms connected to their fuller objects instead of turning the vocabulary into a flat dictionary.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent, processing, effect, notice, inference, and later persistence distinct.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, incentive, and correction opacity.
