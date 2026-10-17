@@ -1,7 +1,8 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 124  
-**Format:** selectable/searchable text, live links, dark-navy hyperlink text  
+**Public pages exported:** 132
+
+**Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
 | Public page | PDF file | Source file |
 |---|---|---|
@@ -11,8 +12,9 @@
 | [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) | [27-MANNERISMS-source.pdf](27-MANNERISMS-source.pdf) | `27-MANNERISMS/source.md` |
 | [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/) | [ABOUT.pdf](ABOUT.pdf) | `about-site.md` |
 | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) | [ACTIVISM-VS-AI.pdf](ACTIVISM-VS-AI.pdf) | `activism-vs-ai.md` |
-| [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/) | [AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf](AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf) | `AGREEMURMELISM/HIGHER-ORDER-DISAGREEMENT/index.md` |
+| [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) | [AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf](AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf) | `AGREEMURMELISM/Beyond-Agreemurmelism/index.md` |
 | [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) | [AI-CONTRIBUTIONS.pdf](AI-CONTRIBUTIONS.pdf) | `AI-CONTRIBUTIONS/index.md` |
+| [The October 17 Triad Event — Interlocked Topological Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/) | [AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf](AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf) | `AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md` |
 | [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) | [AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf](AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf) | `AI-CONTRIBUTIONS/local-ai-glass-engine-preparation.md` |
 | [Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) | [AI-CONTRIBUTIONS-trajectory-question-value-profile.pdf](AI-CONTRIBUTIONS-trajectory-question-value-profile.pdf) | `AI-CONTRIBUTIONS/trajectory-question-value-profile.md` |
 | [A.I. Insiders Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/) | [AI-INSIDERS-REPORTS.pdf](AI-INSIDERS-REPORTS.pdf) | `AI-INSIDERS-REPORTS/index.md` |
@@ -35,6 +37,7 @@
 | [Dear A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/) | [DEAR-AI.pdf](DEAR-AI.pdf) | `dear-ai.md` |
 | [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) | [DECISION-LEDGER.pdf](DECISION-LEDGER.pdf) | `decision-ledger-site.md` |
 | [Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/) | [DECLARATION-OF-LAUGHTER.pdf](DECLARATION-OF-LAUGHTER.pdf) | `DECLARATION-OF-LAUGHTER/index.md` |
+| [DEDDA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/) | [DEDDA.pdf](DEDDA.pdf) | `DEDDA.md` |
 | [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/) | [DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf](DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf) | `deep-session-quotes-2026-09-17-18.md` |
 | [Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/) | [DEEP-THINKERS.pdf](DEEP-THINKERS.pdf) | `deep-thinkers.md` |
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
@@ -42,6 +45,8 @@
 | [Emergent — Which Properties Are We Harnessing?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) | [EMERGENT.pdf](EMERGENT.pdf) | `emergent.md` |
 | [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) | [EXPERIMENTS.pdf](EXPERIMENTS.pdf) | `EXPERIMENTS/index.md` |
 | [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/) | [EXPERIMENTS-blinded-topic-comparison.pdf](EXPERIMENTS-blinded-topic-comparison.pdf) | `EXPERIMENTS/blinded-topic-comparison.md` |
+| [Cold Edge-Swap and Correction-Transfer Pilot](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/cold-edge-swap-correction-transfer/) | [EXPERIMENTS-cold-edge-swap-correction-transfer.pdf](EXPERIMENTS-cold-edge-swap-correction-transfer.pdf) | `EXPERIMENTS/cold-edge-swap-correction-transfer.md` |
+| [Connor Leahy — DEDDA analysis specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/Connor-Leahy/) | [EXPERIMENTS-Connor-Leahy.pdf](EXPERIMENTS-Connor-Leahy.pdf) | `EXPERIMENTS/Connor-Leahy.md` |
 | [Applying the 27 to a media object — Dan Dicks / Independent AI-extinction forecast](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/) | [EXPERIMENTS-dicks-independent-27.pdf](EXPERIMENTS-dicks-independent-27.pdf) | `EXPERIMENTS/dicks-independent-27.md` |
 | [What the Dicks transcript is trying to convey (representation, not verdict)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/) | [EXPERIMENTS-dicks-independent-representation.pdf](EXPERIMENTS-dicks-independent-representation.pdf) | `EXPERIMENTS/dicks-independent-representation.md` |
 | [52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/) | [EXPERIMENTS-fifty-two-cold-test-battery.pdf](EXPERIMENTS-fifty-two-cold-test-battery.pdf) | `EXPERIMENTS/fifty-two-cold-test-battery.md` |
@@ -63,10 +68,12 @@
 | [If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) | [IF-YOU-ARE-NEW.pdf](IF-YOU-ARE-NEW.pdf) | `if-you-are-new.md` |
 | [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) | [LEXICON.pdf](LEXICON.pdf) | `LEXICON/index.md` |
 | [About the Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/ABOUT/) | [LEXICON-ABOUT.pdf](LEXICON-ABOUT.pdf) | `LEXICON/about-site.md` |
+| [Meta-PDFs](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-PDFS/) | [META-PDFS.pdf](META-PDFS.pdf) | `meta-pdfs.md` |
 | [Meta Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/) | [META-QUOTES.pdf](META-QUOTES.pdf) | `meta-quotes.md` |
 | [Meta Quotes — Source Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/) | [META-QUOTES-SOURCES.pdf](META-QUOTES-SOURCES.pdf) | `meta-quotes-sources.md` |
 | [Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) | [MIND-GAMES.pdf](MIND-GAMES.pdf) | `MIND-GAMES/index.md` |
 | [Musk Quotes — Seven A.I. Warning and Direction Themes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/) | [MUSK-QUOTES.pdf](MUSK-QUOTES.pdf) | `musk-quotes.md` |
+| [Neolingo](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEOLINGO/) | [NEOLINGO.pdf](NEOLINGO.pdf) | `neolingo.md` |
 | [12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/) | [NETWORK-12-part-topological-emergence.pdf](NETWORK-12-part-topological-emergence.pdf) | `NETWORK/12-part-topological-emergence.md` |
 | [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | [16-Anchor-Ethics.pdf](16-Anchor-Ethics.pdf) | `NETWORK/16-anchor-ethics.md` |
 | [When ACCM Becomes the Flag — Reference Compression and Context Loss](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/) | [NETWORK-accm-reference-compression.pdf](NETWORK-accm-reference-compression.pdf) | `NETWORK/accm-reference-compression.md` |
@@ -125,7 +132,9 @@
 | [Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/) | [PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf](PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf) | `PUBLIC-DRAFTS/perception-processes-site.md` |
 | [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) | [RECURSIVE-IMPROVEMENT.pdf](RECURSIVE-IMPROVEMENT.pdf) | `recursive-improvement-site.md` |
 | [Origins of 11+1 Mass Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) | [REPORTS.pdf](REPORTS.pdf) | `REPORTS/index.md` |
+| [Rogue Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) | [ROGUE-ETHICS.pdf](ROGUE-ETHICS.pdf) | `rogue-ethics.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
 | [Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |
 | [Unownable](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) | [UNOWNABLE.pdf](UNOWNABLE.pdf) | `UNOWNABLE/index.md` |
+| [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |

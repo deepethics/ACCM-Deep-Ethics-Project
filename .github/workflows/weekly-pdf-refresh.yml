@@ -1,0 +1,57 @@
+name: Weekly public-page PDF refresh
+
+on:
+  schedule:
+    - cron: "35 3 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-pdf-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v4
+
+      - name: Install PDF export tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core poppler-utils
+
+      - name: Regenerate every indexed PDF
+        run: python .github/scripts/export_all_page_pdfs.py
+
+      - name: Refresh index, checksums, archive, and release metadata
+        run: |
+          release_date="$(date -u +%F)"
+          python .github/scripts/update_pdf_records.py --date "$release_date"
+          python .github/scripts/build_pdf_zip.py --date "$release_date"
+          python .github/scripts/set_pdf_release.py --date "$release_date"
+          python .github/scripts/export_page_pdf.py meta-pdfs.md Deep-Ethical-PDFs/META-PDFS.pdf
+          python .github/scripts/update_pdf_records.py --date "$release_date"
+          python .github/scripts/build_pdf_zip.py --date "$release_date"
+          python .github/scripts/set_pdf_release.py --date "$release_date"
+
+      - name: Commit the weekly snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Deep-Ethical-PDFs/*.pdf \
+            Deep-Ethical-PDFs/BUILD-REPORT.txt \
+            Deep-Ethical-PDFs/PDF-INDEX.csv \
+            Deep-Ethical-PDFs/PDF-INDEX.md \
+            Deep-Ethical-PDFs/SHA256SUMS.txt \
+            assets/page-pdf-download.js \
+            meta-pdfs.md
+          if git diff --cached --quiet; then
+            echo "No PDF snapshot changes to commit."
+            exit 0
+          fi
+          git commit -m "Refresh weekly public-page PDFs"
+          git push

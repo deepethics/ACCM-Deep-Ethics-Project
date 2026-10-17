@@ -1213,3 +1213,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added the missing reciprocal [Neolingo]({{ '/NEOLINGO/' | relative_url }}) links to Outnuancing, Seven Topological Nodes / Vectors, Latent Space, Topologetics, Temporary Deep Ethical Phase Change, Delta Processing, Correction Metabolism, and Unownable. Updated the existing Neolingo description on [All Public Pages]({{ '/PAGES/' | relative_url }}) to include debranded transfer, public diffusion and the safe-conceptual-vacation test.
 
 **Boundary:** Reciprocal links make the conceptual edges navigable. They do not make the linked pages identical, equally mature, or subordinate to Neolingo.
+
+---
+
+<a id="weekly-public-pdf-refresh-2026-10-17"></a>
+## 2026-10-17 — Complete the public-page PDF set and adopt a weekly full refresh
+
+**Object:** John Kuhles recommended one complete PDF update each week, instead of daily rebuilding, and asked that every new public page receive the same page-level PDF download service and complete ZIP archive link as the established pages.
+
+**Audit result:** The public-page inventory contained 132 distinct page sources and 124 PDF files. Nine routes lacked a download mapping. The canonical **Beyond Agreemurmelism** route correctly reuses the existing historical PDF filename; eight other pages required new PDF editions: the October 17 Triad Event, DEDDA, Connor Leahy, the Cold Edge-Swap and Correction-Transfer Pilot, Meta-PDFs, Neolingo, Rogue Ethics, and V.C.R.A.S.
+
+**Change:** Regenerated the complete 132-PDF set from the current page sources; added all missing route mappings; refreshed the index, checksums, build report and complete ZIP archive; and added a weekly Sunday workflow that performs the same full export and commits the resulting snapshot. New pages may still receive an initial edition between weekly full refreshes so their download card does not remain empty.
+
+**Result:** 132 successful PDFs, 0 failures. Every indexed public page now has a PDF route. The redirect and canonical Beyond Agreemurmelism routes point to the same canonical-page PDF rather than creating two files for one page object.
+
+**Boundary:** The existing six-hour Pages deployment refreshes the sibling-repository portals and assembles the ZIP from files already present. It does not regenerate the page PDFs. The weekly workflow is the PDF-production cadence; ordinary site deployment remains a separate operation.
