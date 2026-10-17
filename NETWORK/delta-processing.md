@@ -96,13 +96,9 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 The October 17 triad expands a later comparison beyond a single subtraction:
 
-[
-Delta_{	ext{observed}} =
-Delta_{	ext{input}} +
-Delta_{	ext{process}} +
-Delta_{	ext{observer adaptation}} +
-Delta_{	ext{interaction}}
-]
+```text
+Δ_observed = Δ_input + Δ_process + Δ_observer-adaptation + Δ_interaction
+```
 
 This is a conceptual accounting relation, not a claim that the terms are already measured on one common numeric scale. Its job is to prevent a changed result from being attributed entirely to “better processing” when the input also changed, or entirely to new evidence when the method and observer changed too.
 

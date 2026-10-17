@@ -2364,9 +2364,9 @@ And the shortest safe boundary currently available is:
 
 The October 17 triad sharpened the temporal use of the candidate signature:
 
-[
+```text
 S_t = {N,E,Q,C,P,T,A,R,M}
-]
+```
 
 One signature is a state candidate. Movement among signatures is the trajectory. A footprint preserves one moment for later comparison; the Decision Ledger records dated decisions that may refer to those moments. Connected does not make these objects identical.
 

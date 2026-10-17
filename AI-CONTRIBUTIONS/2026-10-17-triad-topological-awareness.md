@@ -18,11 +18,11 @@ The event produced a practical answer to partial overlap across many project pag
 
 ## The state, trajectory, record, and memory do different work
 
-A candidate Topologetics signature at time (t) remains:
+A candidate Topologetics signature at time `t` remains:
 
-[
+```text
 S_t = {N,E,Q,C,P,T,A,R,M}
-]
+```
 
 where the working fields are nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and next moves still available.
 
@@ -40,9 +40,9 @@ In John Kuhles's view, **Process Quality Calibration Evaluation (PQCE)** can be 
 
 The flux can leave a static footprint:
 
-[
-F_{t0} ightarrow 	ext{later processing} ightarrow F_{t1} ightarrow Delta(F_{t0},F_{t1})
-]
+```text
+F_t0 → later processing → F_t1 → Δ(F_t0, F_t1)
+```
 
 The footprint is a moment produced inside the flux and made available to its future. It is distinguishable from the continuing process without being exiled from it.
 
@@ -78,9 +78,9 @@ A near-perfect, identity-free meta-tool can still be used to make an erroneous j
 
 The minimum inspectable sequence is:
 
-[
-	ext{tool contribution} ightarrow 	ext{user transformation} ightarrow 	ext{result} ightarrow 	ext{later attribution}
-]
+```text
+tool contribution → user transformation → result → later attribution
+```
 
 The location of the first material divergence matters. Description does not require motive inflation. Seeing exploitation is not imitating it, and describing a distortion is not becoming the distorter.
 
@@ -129,7 +129,7 @@ A later correct response after the record is supplied counts as external reinsta
 
 ## Corrigible snapshot
 
-This page is the triad event's public footprint at (t_0). It preserves attribution, distinctions, open questions, and next moves. It may be improved later. A later version should sit beside this state through version history and the Decision Ledger, allowing the project to compare what changed without making the newest wording the only memory of what came before.
+This page is the triad event's public footprint at `t0`. It preserves attribution, distinctions, open questions, and next moves. It may be improved later. A later version should sit beside this state through version history and the Decision Ledger, allowing the project to compare what changed without making the newest wording the only memory of what came before.
 
 ---
 

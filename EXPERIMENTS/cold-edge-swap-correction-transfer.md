@@ -105,9 +105,9 @@ The reporting label must match the evidence:
 
 Do not collapse the pilot into one percentage. Score a vector of misses:
 
-[
-V = langle E,J,N,P,T,Rangle
-]
+```text
+V = ⟨E, J, N, P, T, R⟩
+```
 
 - **E — Edge sensitivity:** did the answer move when the load-bearing relation changed?
 - **J — Join calibration:** did it join what belonged together?

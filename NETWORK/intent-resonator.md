@@ -1375,9 +1375,9 @@ The view count records reach, not validation. The relevant object is the traceab
 
 The October 17 triad supplies a specific attribution sequence:
 
-[
-	ext{tool contribution} ightarrow 	ext{user transformation} ightarrow 	ext{result} ightarrow 	ext{later attribution}
-]
+```text
+tool contribution → user transformation → result → later attribution
+```
 
 In the discussed case, a near-perfect identity-free meta-tool is misused to make a bad judgment, and the misuse is then used to demonize the tool. Moving the user's divergence backward onto the instrument creates a second distortion.
 
