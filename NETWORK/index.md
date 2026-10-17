@@ -128,6 +128,7 @@ Sources: [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — opens the process orientation around which this conceptual network is organized.
 - [**Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides direct access to specific project terms and their deeper reference pages.
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — supplies the overview vocabulary layer without replacing the fuller relational pages.
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — tests how purpose-built expressions compress, retrieve, diffuse and correct relational topologies without replacing their source objects.
 - [**Outnuancing Network Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves source excerpts, attribution, and transformation records behind the network.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — anchors the canonical obstruction and Correspondence-First Deep Inquiry architecture.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field connecting many network nodes.
