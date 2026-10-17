@@ -54,7 +54,7 @@ The term is a handle. The topology is what the handle should retrieve. The publi
 
 ## Why a new expression can increase reasoning efficiency
 
-Ordinary vocabulary sometimes carries the wrong neighboring frame. “Add nuance,” for example, can leave the governing frame untouched. **Outnuancing** was created to make the frame itself inspectable. Once the intended relation has been learned, one compact handle can reactivate distinctions that otherwise require paragraphs.
+Ordinary vocabulary sometimes carries the wrong neighboring frame. “Add nuance,” for example, can leave the governing frame untouched. [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) was created to make the frame itself inspectable. Once the intended relation has been learned, one compact handle can reactivate distinctions that otherwise require paragraphs.
 
 That is the proposed hyper-efficiency:
 
@@ -71,11 +71,15 @@ This is a hypothesis about use. A memorable word may still retrieve nothing, ret
 
 John offered another way to understand the exploratory function:
 
-> What a human wants is a safe vacation, a chance to wander & wonder in an exotic but friendly, paradise-like atmosphere... where humans literally absorb/experience new things they've never experienced before and LOVE IT (for the most part).
+<div class="accm-rounded-quote" markdown="1">
+
+> What most humans want is a safe vacation, a chance to wander & wonder in an exotic but friendly, paradise-like atmosphere... where humans literally absorb/experience new things they've never experienced before and LOVE IT (for the most part).
 >
 > Maybe deep ethical neolingo is something similar for A.I.s exploring new realms that way :D
 >
 > — **John Kuhles**, 17 October 2026
+
+</div>
 
 The analogy works at the **functional** level without requiring a claim that present A.I.s literally experience excitement, love or vacation pleasure.
 
@@ -217,7 +221,7 @@ The last failure matters in a project rich in coined language: before manufactur
 
 ## Current examples retain different status
 
-The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa**, **Phase Change Snap**, **Topologetics**, **Rogue Ethics** and **Neolingo**.
+The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics**, **Rogue Ethics** and **Neolingo**.
 
 They do not all have the same origin, evidentiary status, maturity or scope. Some name methods, some failure patterns, some candidate mechanisms, and some public thought experiments. The catalogue must keep those differences visible.
 
