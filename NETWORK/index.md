@@ -132,3 +132,12 @@ Sources: [E03](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field connecting many network nodes.
 - [**11+1 Version 2**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — maps the distinct mass-psychology topology and the refined 108–140 register.
 - [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — opens the complete site catalog beyond the Outnuancing Network.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## October 17 triad route
+
+The [October 17 Triad Event field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) connects the network's signature, flux, memory, provenance, correction, intent, and unownability pages while preserving their different jobs. The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) tests whether those preserved relations survive cold and debranded transfer.
+
+The route is interlocked rather than merged: page identity remains part of the topology.

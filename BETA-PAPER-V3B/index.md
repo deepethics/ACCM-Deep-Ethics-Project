@@ -2754,3 +2754,14 @@ The proposal becomes scientifically valuable only where it can be measured, comp
 - [**Original public Beta Paper — preserved earlier version**]({{ '/BETA-PAPER/' | relative_url }})
 
 V03b is a public theory-and-method candidate, not a result. The earlier version remains available so that expansion, correction, and changed experimental architecture can be inspected rather than hidden by replacement.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## October 17 research extension — matched edges and temporal transfer
+
+The triad event yields a small falsifiable design: keep most words stable, change one load-bearing relation, and test whether the representation moves at that edge. Include a join-control so that “always split,” a valid-null item so that “always correct,” and a debranded item so that project vocabulary cannot carry the result.
+
+Four frozen context conditions compare no support, ordinary summaries, separate Topologetic summaries, and interlocked summaries plus one PQCE pass. Report external reinstatement, contextual transfer, debranded transfer, and candidate cross-session persistence separately.
+
+The complete protocol is published as the [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).

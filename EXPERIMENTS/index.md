@@ -55,3 +55,11 @@ permalink: /EXPERIMENTS/
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## New October 17 pilot
+
+- [**Cold Edge-Swap and Correction-Transfer Pilot**]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) — tests whether changing one load-bearing relation changes the representation, includes joining and valid-null controls, and separates external reinstatement from candidate durable memory.
+- [**October 17 Triad Event field note**]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) — preserves the conceptual object and the correction trajectory from which the pilot was derived.

@@ -96,3 +96,12 @@ Sources: [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — interoperation without identity collapse
+
+The October 17 triad demonstrates how the stack can operate as an interlocked consultation field. Topologetics preserves the relation; PQCE audits the route; TCoAw keeps the foreground partial; C1–C2 clarifies; Correction Metabolism tests later governance; V.C.R.A.S. reopens; Intent Liability locates choices and consequences; provenance preserves who changed what.
+
+The tools enrich one another without becoming one tool. The resulting consultation effect is usable and unownable. Full topology: [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

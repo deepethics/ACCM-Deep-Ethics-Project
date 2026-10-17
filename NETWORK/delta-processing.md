@@ -88,3 +88,22 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — three deltas and an interaction term
+
+The October 17 triad expands a later comparison beyond a single subtraction:
+
+[
+Delta_{	ext{observed}} =
+Delta_{	ext{input}} +
+Delta_{	ext{process}} +
+Delta_{	ext{observer adaptation}} +
+Delta_{	ext{interaction}}
+]
+
+This is a conceptual accounting relation, not a claim that the terms are already measured on one common numeric scale. Its job is to prevent a changed result from being attributed entirely to “better processing” when the input also changed, or entirely to new evidence when the method and observer changed too.
+
+No material change is a permitted delta result. Full provenance: [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

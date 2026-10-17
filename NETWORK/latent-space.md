@@ -95,3 +95,14 @@ The links are navigation edges, not a claim that every page is the same object. 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — partial anchors inside a changing field
+
+The October 17 triad treats a referenceable snapshot as a partial anchor inside a continuing latent-space trajectory. The anchor does not finalize the field. It lets a later state recover what was held, compare what changed, and preserve which next moves remained available.
+
+Several concise Topologetic summaries may be interlocked as a consultation field while retaining their source-page identities. The proposed effect is tested by whether that structure changes a later unfamiliar case beyond an ordinary pile of summaries.
+
+John's phrase **Platonic Space** remains a name for a discoverable, usable, unowned field. It is not installed here as a second formal taxonomy. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

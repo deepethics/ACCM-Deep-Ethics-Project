@@ -2357,3 +2357,19 @@ And the shortest safe boundary currently available is:
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — preserves source and transformation history.
 - [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — browse the wider ACCM Deep Ethics Project.
 
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — temporal signatures and interlocked page identity
+
+The October 17 triad sharpened the temporal use of the candidate signature:
+
+[
+S_t = {N,E,Q,C,P,T,A,R,M}
+]
+
+One signature is a state candidate. Movement among signatures is the trajectory. A footprint preserves one moment for later comparison; the Decision Ledger records dated decisions that may refer to those moments. Connected does not make these objects identical.
+
+Interlocking summaries therefore have a strict requirement: preserve each page's identity while making its load-bearing relations available to the other pages. A concise summary that retains the nouns but drops the edge is a flattening event.
+
+The [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) preserves the complete correction sequence. The [cold edge-swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) tests whether changing one relation changes the representation.

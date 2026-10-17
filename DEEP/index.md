@@ -1439,3 +1439,14 @@ Ethics are supposed to be about **removing unethical obstacles, hurdles, and obs
 *John Kuhles 🦜🦋🌳*  
 *Dutch 🇳🇱 NDE/Asperger*  
 *CEO & Founder of [DeepEthical.ai](https://deepethical.ai)*
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — the relation must survive the vocabulary
+
+The October 17 triad converts a conceptual insight into a harder transfer question. Can a later model preserve the distinction among state, trajectory, record, archive, and operative memory after the familiar project words disappear?
+
+The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) uses matched relations, join-controls, valid nulls, and debranded transfer. Its score remains a vector so a model that preserves provenance while installing a rule, or separates objects while missing their valid join, does not disappear into one percentage.
+
+The originating correction trajectory is preserved in the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

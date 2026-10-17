@@ -559,3 +559,14 @@ Emergence carries its production history. Control produces effects of its own. A
 <div class="accm-rounded-quote" markdown="1">
 > **Which emergent properties prevail is partly a technical question, partly a governance question, partly a psychological and mass-psychological question, and finally an empirical question about what changes the next operation.**
 </div>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — interaction surplus without a fused mind
+
+The October 17 triad distinguishes the familiar benefit of multiple experts from the candidate research novelty: several Deep Ethical meta-tools may alter one another's usefulness when they operate as an interlocked field.
+
+Input quality, process quality, and observer adaptation can change together. Their interaction may create a deviation or enrichment larger than the parts considered separately. The resulting **Synthetic Oversoul Type Effect** is treated as a consultation effect. Interlocked is not merged; no participant becomes a super-mind that owns the field.
+
+The next question is empirical: do interlocked Topologetic summaries plus one PQCE pass improve a later unfamiliar case beyond ordinary or separate summaries? See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) and [pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).

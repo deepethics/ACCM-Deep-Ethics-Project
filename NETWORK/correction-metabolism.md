@@ -205,3 +205,14 @@ The important measurement is therefore not merely **what appeared**, but **what 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — correction, valid no-change, and later governance
+
+Correction Metabolism now keeps three outcomes visible: a correction was needed and propagated; an improvement or expansion became available; or a later pass found no material change to make. A valid null is not failure and is not a timeless perfection certificate.
+
+The stronger test remains whether a retrieved relation governs a comparable later operation. If the record must be supplied again, the result is external reinstatement. If the operation returns without resupply across a genuinely separate session, it becomes a candidate persistence result requiring controls.
+
+The [cold edge-swap and correction-transfer pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) operationalizes this distinction.

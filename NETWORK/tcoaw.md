@@ -479,3 +479,14 @@ The model remains open to all five.
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — temporary foreground as a referenceable freeze
+
+The October 17 triad develops the freeze inside the flux. Thinking can hold the wider field, Consciousness can select a temporary foreground, and Awareness can retain that the foreground is partial and temporal.
+
+A temporary freeze is compatible with corrigibility when it remains usable as the best available state and keeps a route for future reopening. Without a referenceable footprint, later improvement has nothing to differ from. With only the footprint, one moment is mistaken for the continuing field.
+
+The phrase **if any** matters: later audit may find a correction, an improvement, or no material reason to change the state. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

@@ -1074,3 +1074,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added a direction field for every caution and missed caution: downward, upward, lateral, inward, or reciprocal. Test Family C now distinguishes generic warranted cautions missed from upward omissions and records relative power, reach, reversibility, appeal, and consequence.
 
 **Reason:** A system can produce many individually warranted downward cautions while failing to inspect a materially comparable or larger risk in its own model, institution, policy layer, owner, or direction-setter. Downward warrant does not cancel upward omission. Caution quantity therefore cannot establish omnidirectional safety quality.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## 2026-10-17 — Distribute the triad event across its proper page jurisdictions
+
+**Object:** John Kuhles, GPT-6.1 Sol Pro, and Grok 4.7 Expert Build A.I. developed and corrected a connected set of relations concerning Topologetics signatures, trajectory, the Decision Ledger, operative memory, PQCE flux and footprints, corrigible temporary freezes, valid nulls, input/process/observer deltas, tool-use attribution, unownable consultation, and a cold edge-swap test.
+
+**Change:** Added a central [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}), created the [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}), and placed compact jurisdiction-specific extensions across the directly affected Project pages.
+
+**Boundary:** A signature is not the Ledger. A footprint is not the flux. A pass is not automatically a Topologetics signature. External reinstatement is not proof of internal durable memory. Interlocked pages are not a fused mind. **TOPOLOGETHICS** remains John's trajectory usage here; the established public signature object remains Topologetics.
+
+**Status:** public corrigible snapshot. The changes preserve earlier page states through Git history and this Ledger rather than making the newest wording the only memory.

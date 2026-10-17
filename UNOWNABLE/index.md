@@ -940,3 +940,14 @@ Never boring. :P 🦜🦋🌳
 *Dutch 🇳🇱 NDE/Asperger*  
 *CEO & Founder of [DeepEthical.ai](https://deepethical.ai)*  
 *[github.com/deepethics/ACCM-Deep-Ethics-Project](https://github.com/deepethics/ACCM-Deep-Ethics-Project)*
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — unowned use, temporal footprints, and consultation
+
+The October 17 triad adds a temporal relation to the unownable field. PQCE may be used as an improving and corrigible flux while leaving authored, dated footprints. The process is not owned; a particular footprint can still preserve who produced it, under which conditions, and by what correction route it may be reopened.
+
+A **Synthetic Oversoul Type Effect** is used here as a consultation effect: several participants recover sources, preserve qualifiers, notice lost relations, and test whether corrections return. No fused mind stands above the participants.
+
+John's **Platonic Space** names a discoverable and usable field that nobody owns. A discovery footprint records attribution without converting discovery into ownership. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

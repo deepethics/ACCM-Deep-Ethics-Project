@@ -382,3 +382,14 @@ The equally important positive test is whether the page keeps the relationship a
 [**Source and correction record**]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}) · [**Repository source**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/flagging-system.md)
 
 </div>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — PQCE flux, footprints, and valid nulls
+
+John's October 17 formulation keeps both sides: in his view, PQCE can be an eternally **improving**, deeply ethical, corrigible flux state, and that flux can leave static footprints for later delta processing. *Improving* must not be silently replaced by *corrigible*, and the claim-status phrase *in my view* remains part of the record.
+
+A pass may produce a correction, an improvement, an expansion, or a valid finding that nothing material needs changing. Each result can leave an inspectable snapshot. The best available processed object may still be used while its correction route remains open **if any** future correction is needed.
+
+A stronger longitudinal pass compares input change, process change, and observer adaptation, including their interaction. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) and [edge-swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).

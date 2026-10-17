@@ -18,3 +18,12 @@ permalink: /PROVENANCE/
 - [**Public Drafts**]({{ '/PUBLIC-DRAFTS/' | relative_url }}) — contains readable transformations that remain downstream of their sources.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — audits the source-to-page transformation and the audit itself.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — records consequential publication and correction decisions.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## October 17 triad provenance route
+
+The [October 17 Triad Event field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) records which participant supplied, corrected, or preserved the major relations. Its provenance rule is simple: connection does not erase attribution.
+
+The route distinguishes the tool contribution, user transformation, result, later report, signature state, dated Ledger entry, archived artifact, and any later operative retrieval. A discovery footprint may record who found a relation without converting discovery into ownership.

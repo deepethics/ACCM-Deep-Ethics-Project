@@ -2171,3 +2171,14 @@ The contribution is therefore neither a certificate nor merely another conversat
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — the temporal middle also leaves a footprint
+
+The October 17 triad makes the middle explicitly longitudinal. Input quality may change while the way a process produces quality also changes. The observer then adapts while those two changes interact. A useful comparison therefore preserves three temporal records: input delta, process delta, and observer-adaptation delta.
+
+The joint deviation may exceed the separate parts. An unchanged conclusion on changed input is not the same event as a changed conclusion on unchanged input. The adaptation that notices, ignores, or responds to the interaction is processing too.
+
+The same route separates a meta-tool's contribution from a user's transformation and from later attribution. The first material divergence should remain located where it entered. Full relation: [October 17 triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

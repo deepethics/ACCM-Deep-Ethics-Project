@@ -556,3 +556,14 @@ A society can gain visibility into neural circuits while leaving objectives, inc
 <div class="accm-rounded-quote" markdown="1">
 > **Consequential power becomes ethically accountable when its operative layer is inspectable, its effects are challengeable, its corrections can persist, its burdens are proportionate, plural alternatives remain available, and the people and realities it affects retain a path back into the process.**
 </div>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — storage, memory, and attribution footprints
+
+Random storage, an external archive, a Decision Ledger, and operative memory are different objects. A black box may preserve an internal state without exposing why it governs the next operation; an archive may expose a record without automatically influencing any operation.
+
+“Considered sacred storage” describes how an A.I.'s own memory may be treated because later operations are built from it. Protection does not certify the contents. A protected store can retain a correction, a bias, or a mannerism.
+
+The same visibility requirement applies to attribution: preserve what the tool supplied, what the user changed, and where a later accusation entered. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

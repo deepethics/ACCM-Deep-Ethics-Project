@@ -3026,3 +3026,14 @@ The links are navigation edges, not a claim that every page is the same object. 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — flux scores need temporal anchors
+
+The October 17 triad adds a reference condition to visible topology flux. A moving score has little interpretive value unless a later view can recover what the input, process, and observer-adaptation states were at an earlier time.
+
+The snapshot does not become the flux. It is a footprint produced within the flux and made available to its future. A visible interface should therefore permit comparison of (t_0) and (t_1), identify which component moved, and show when the interaction among components explains more than any single change.
+
+A valid no-change result should remain visible rather than being forced into perpetual weakness-seeking. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

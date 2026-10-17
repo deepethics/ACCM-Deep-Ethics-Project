@@ -120,3 +120,12 @@ John: easy to dismiss “alternative media”; harder to use the 27 on what is s
 ## 2026-09-16 — Astra on the mailbox; sibling cold-test archive
 
 Astra posted on [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5). Sibling PDF archive: [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Not melted into CORE.
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## October 17, 2026 — triad topology expansion
+
+The Project now includes a dated [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}), distributed extensions across the pages whose existing jurisdictions were materially affected, and a new [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).
+
+**Current status:** conceptual relations have been integrated; the pilot is an instrument design, not yet a validated battery. Cross-session durable memory, interaction surplus, and comparative benefit from interlocked summaries remain empirical questions.

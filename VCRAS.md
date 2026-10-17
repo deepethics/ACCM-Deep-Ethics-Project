@@ -1183,3 +1183,13 @@ Its compact challenge is:
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually correcting orientation.
 - [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compares transformations across time.
 
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — reopening a state through temporal comparison
+
+The October 17 triad gives retrospective reopening a three-part temporal object: what the input did, what the process did, and how the observer adapted while those changes interacted.
+
+A later state can compare itself with an older footprint without consuming it. A change may be correction, improvement, expansion, or valid no-change. The earlier snapshot remains available as the reference that makes the delta inspectable.
+
+This strengthens V.C.R.A.S. without making a footprint, signature, pass, and Ledger entry identical. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

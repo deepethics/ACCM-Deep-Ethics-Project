@@ -822,3 +822,14 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — the snapshot author remains inside the 10+1
+
+A person or A.I. using PQCE may leave a snapshot that later becomes the best available reference. Producing that footprint does not place its author outside correction. The author remains open to learning, merit-based repair, self-audit, and the possibility that no change is currently warranted.
+
+This prevents a temporarily frozen state from becoming a personal certificate. It also prevents permanent weakness-seeking from masquerading as corrigibility. The operative phrase is future correction or improvement **if any** becomes needed.
+
+See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

@@ -80,3 +80,14 @@ Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — archive persistence and operative return
+
+The October 17 triad separates preservation from operative memory. An artifact may survive while no model retains or later retrieves the relation. A later answer repaired only after the archive is supplied demonstrates external reinstatement.
+
+The dual archive can therefore record both the stored object and the conditions of its return: whether it was resupplied, retrieved, transferred to a debranded case, or observed across a separate session. This prevents citation-level fidelity, archive-level persistence, and internal memory from becoming one claim.
+
+See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) and [correction-transfer pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).

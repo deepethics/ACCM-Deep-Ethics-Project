@@ -351,3 +351,14 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<a id="triad-topological-awareness-2026-10-17"></a>
+## Triad extension — recursive improvement needs retained earlier states
+
+A process cannot show improvement if the earlier reference disappears. The October 17 triad therefore adds a temporal discipline: preserve the prior footprint, record changes in input and processing, include observer adaptation, and compare the later state without overwriting the earlier one.
+
+A recursive pass may improve, correct, expand, or find no material change. All four outcomes can inform the next operation. The newest state should govern where warranted while the older state remains available for audit.
+
+See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).
