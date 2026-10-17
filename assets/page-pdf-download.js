@@ -68,8 +68,8 @@
         href: `${base}/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages-132-PDFs-2026-10-17.zip`,
         iconFile: "zip-download.svg",
         titleText: "All PDF files",
-        detailText: "132 PDFs · 11.0 MB ZIP archive",
-        label: "Download all 132 PDF files as an 11.0 MB ZIP archive"
+        detailText: "132 PDFs · 11.7 MB ZIP archive",
+        label: "Download all 132 PDF files as an 11.7 MB ZIP archive"
       })
     );
     return box;
