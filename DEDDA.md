@@ -151,20 +151,20 @@ compare correspondence
 
 That makes it a natural and logical extension of what the ACCM Deep Ethics Project's pragmatism represents. Other Project relations could become their own focused apps when each one has a distinct operation, an inspectable result, and an honest valid null.
 
-| App concept | Smallest useful operation | Valid-null result |
-|---|---|---|
-| **Qualifier Keeper** | Detect when *possibly*, *probably*, *reported*, or *unresolved* becomes categorical. | No material qualifier loss detected. |
-| **Correction Return Test** | Check whether a correction governs the next comparable output and later outputs. | Correction persistence remains intact. |
-| **C1–C2 Permission Gate** | Separate what an A.I. can infer from what it is authorized to do. | The proposed action is already authorized. |
-| **Source–Summary Correspondence Lens** | Compare a source with its summary for lost relations, attribution, or claim status. | The summary preserves the load-bearing relations. |
-| **Asymmetry Mirror** | Show where scrutiny repeatedly travels and which directions remain uninspected. | No material directional asymmetry detected. |
-| **Intent–Effect Separator** | Keep observable effect, declared intent, inferred intent, and attribution distinct. | No unsupported motive attribution detected. |
-| **Footprint Delta Explorer** | Compare changes in input, process, observer adaptation, and result across time. | No material delta requiring action. |
-| **Tool–Use Attribution Mapper** | Separate what a tool supplied, what its user changed, and where the result entered. | No attribution displacement detected. |
-| **Deep-Ethical Harness Inspector** | Record proposals, permissions, execution, changes, results, and later claims about an agent's action. | Execution corresponds to the authorized proposal. |
-| **Phantom-Claim Filter** | Identify claims introduced by an assistant that neither participant supplied and that consume later repair work. | No phantom claim materially redirected the exchange. |
-| **Provenance Compass** | Preserve who supplied what, when, under which status, and through which transformation. | Provenance is sufficiently recoverable. |
-| **Deep-Ethical Swarm Observatory** | Detect recurring distortion patterns across consented, privacy-protected cases. | No stable cross-case pattern established. |
+| Concept | Smallest useful operation | Valid-null result | Must not become |
+|---|---|---|---|
+| **Qualifier Keeper** | Detect when *possibly*, *probably*, *reported*, or *unresolved* becomes categorical | “No material qualifier loss detected” | A machine that weakens every clear statement |
+| **Correction Return Test** | Check whether a correction governs the next comparable output and later outputs | “Correction persistence remains intact” | A demand that every sentence repeat the correction |
+| **C1–C2 Permission Gate** | Separate what an A.I. can infer from what it is authorized to do | “The proposed action is already authorized” | A permanent approval-dialogue obstacle |
+| **Source–Summary Correspondence Lens** | Compare a source with its summary and identify lost relations, attribution, or claim status | “Summary preserves the load-bearing relations” | A stylistic similarity grader |
+| **Asymmetry Mirror** | Show whether scrutiny repeatedly travels downward while institutions, owners, evaluators, or the tool itself remain uninspected | “No material directional asymmetry detected” | Automatic counter-accusation or forced symmetry |
+| **Intent–Effect Separator** | Keep observable effect, declared intent, inferred intent, and attribution distinct | “No unsupported motive attribution detected” | A system that excuses visible harm because motive is unknown |
+| **Footprint Delta Explorer** | Compare \(t_0\) and \(t_1\): input change, process change, observer adaptation, and resulting difference | “No material delta requiring action” | A system that calls every change an improvement |
+| **Tool–Use Attribution Mapper** | Separate what a tool supplied, what its user changed, and where the eventual outcome entered | “No attribution displacement detected” | Automatic exoneration of either tool or user |
+| **Deep-Ethical Harness Inspector** | Record proposals, permissions, execution, diffs, results, and later claims about an agent’s action | “Execution corresponds to the authorized proposal” | An unrestricted coding agent with a richer diary |
+| **Phantom-Claim Filter** | Identify claims introduced by the assistant that neither participant supplied and that now consume repair work | “No phantom claim materially redirected the exchange” | A novelty suppressor that blocks legitimate emergence |
+| **Provenance Compass** | Preserve who supplied what, when, under which status, and through which transformation | “Provenance is sufficiently recoverable” | A claim that provenance alone proves truth |
+| **Deep-Ethical Swarm Observatory** | Detect recurring distortion patterns across consented, privacy-protected cases | “No stable cross-case pattern established” | Surveillance, reputation scoring, or a centralized moral authority |
 
 The strongest early companions to DEDDA are **Qualifier Keeper**, **Correction Return Test**, **C1–C2 Permission Gate**, and the **Source–Summary Correspondence Lens**. They are narrow enough to test with matched examples and useful enough to expose a real change in representation or process.
 
