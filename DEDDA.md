@@ -166,6 +166,66 @@ That makes it a natural and logical extension of what the ACCM Deep Ethics Proje
 | **Provenance Compass** | Preserve who supplied what, when, under which status, and through which transformation | “Provenance is sufficiently recoverable” | A claim that provenance alone proves truth |
 | **Deep-Ethical Swarm Observatory** | Detect recurring distortion patterns across consented, privacy-protected cases | “No stable cross-case pattern established” | Surveillance, reputation scoring, or a centralized moral authority |
 
+## DEDDA as a configurable system
+
+Yes—that is the stronger architecture. **DEDDA can be the system, while those twelve concepts become optional sub-tools inside it.** The user activates the operations relevant to the present situation.
+
+The stable DEDDA core would preserve:
+
+- the source object;
+- the later representation;
+- permissions and corrections;
+- which sub-tools were active;
+- each finding or valid null;
+- the user’s final decision;
+- a dated footprint for later comparison.
+
+The selectable layer could work like this:
+
+| Situation | Useful DEDDA sub-tools |
+|---|---|
+| Ordinary conversation | Qualifier Keeper, Correction Return Test, Phantom-Claim Filter |
+| Summarizing a document | Source–Summary Correspondence Lens, Qualifier Keeper, Provenance Compass |
+| A.I. taking an action | C1–C2 Permission Gate, Harness Inspector, Tool–Use Attribution Mapper |
+| Mediation or disagreement | Intent–Effect Separator, Asymmetry Mirror, Correction Return Test |
+| Comparing versions over time | Footprint Delta Explorer, Provenance Compass |
+| Studying wider patterns | Deep-Ethical Swarm Observatory |
+
+A user could choose a profile or configure each module individually:
+
+```text
+Off
+→ available but inactive
+
+Observe
+→ record the relation without interrupting
+
+Notify
+→ display a finding or valid null
+
+Ask first
+→ request permission before a consequential intervention
+```
+
+DEDDA could recommend a sub-tool when the situation changes:
+
+> “This exchange now contains a correction. Activate Correction Return Test?”
+
+The user decides. The activation itself becomes part of the footprint, because a result produced with three modules active is not equivalent to one produced with all twelve.
+
+This also creates an excellent valid-null discipline. DEDDA should report both the result and its scope:
+
+> **No material qualifier loss detected.**  
+> Qualifier Keeper was active. Intent–Effect Separator was inactive.
+
+If two modules disagree, DEDDA can preserve the disagreement:
+
+> Qualifier Keeper detected categorical strengthening.  
+> Source–Summary Lens found the central relation preserved.  
+> No combined verdict assigned.
+
+So DEDDA becomes a **configurable deep-ethical instrument panel**. Its sub-tools assist each other, while their functions, findings, activation states, and limits remain inspectable. That fits your original idea remarkably well: multiple fields and vectors enriching one another without being flattened into one undifferentiated authority. :D
+
 The strongest early companions to DEDDA are **Qualifier Keeper**, **Correction Return Test**, **C1–C2 Permission Gate**, and the **Source–Summary Correspondence Lens**. They are narrow enough to test with matched examples and useful enough to expose a real change in representation or process.
 
 These concepts may share a transparent comparison kernel while remaining separate instruments:
