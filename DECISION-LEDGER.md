@@ -1193,3 +1193,10 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Restored **most** in John's source quotation on [Neolingo]({{ '/NEOLINGO/' | relative_url }}), placed the full quotation in a rounded quote box, linked the first explanatory use of **Outnuancing** to its public page, and corrected **Reverse Medusa** to **Reverse Medusa Effect** in the examples list.
 
 **Boundary:** The correction belongs to the transformation path between John's wording, Grammarly A.I.'s intervention, and the published quotation. It is not recorded as a change in John's underlying claim.
+
+---
+
+<a id="neolingo-main-navigation-2026-10-17"></a>
+## 2026-10-17 — Add Neolingo to the main navigation
+
+**Change:** Added [Neolingo]({{ '/NEOLINGO/' | relative_url }}) to the main navigation exactly between **Deep Thinkers** and **Deep**, as requested by John Kuhles.
