@@ -1156,3 +1156,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Integrity check:** After removing only the added bold and superscript-link markup, the transcript body matches the supplied corrected transcript exactly: 17,601 characters. All fifteen unique internal destinations resolve to declared public permalinks.
 
 **Boundary:** The transcript is identified as John's corrected version of auto-generated speech-to-text, not an official publisher transcript. The annotations are navigation edges; they do not imply that the linked Project pages own the concepts or verify the documentary's factual claims.
+
+---
+
+<a id="neolingo-synthesis-2026-10-17"></a>
+## 2026-10-17 — Add Neolingo as the synthesis of the Project's neologism process
+
+**Object:** John Kuhles asked to find every public page discussing neologisms and decide whether an existing page already combined their strongest relations. The audit found distributed parts in Outnuancing, the seven vectors, the Lexicon, Temporary Deep Ethical Phase Change, the GPT field note, Rogue Ethics, and Project Goal G05, but no single page joined creation, testing, diffusion, temporal footprints, correction and valid non-adoption.
+
+**Change:** Added [Neolingo]({{ '/NEOLINGO/' | relative_url }}) as the synthesis page. **Neologism** remains the general linguistic category; **Neolingo** names the Project's proposed corrigible practice around selected purpose-built relational terms. Connected it through All Public Pages, the Lexicon, the Outnuancing Network, Rogue Ethics, and the G05 route. Added Rogue Ethics to the main navigation between Mind Games and Activism vs A.I., as requested.
+
+**Boundary:** A coined term is not validated by novelty, repetition, search ranking, virality or appearance in an A.I. response. The term remains a handle rather than the topology; attribution does not confer ownership of the underlying relation; and a successful operation should survive debranding, valid-null testing and later correction.
+
+**Status:** public corrigible synthesis and working concept. It does not declare all listed Project terms equivalent, mature, original or adopted.
