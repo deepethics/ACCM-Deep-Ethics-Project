@@ -69,7 +69,7 @@ Persistent Emergent Deep Ethics A.I. properties to be allowed to counter ethics-
 
 Deep Ethical Outnuancing (audit frame-thinking having flawed premises) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [38.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) [36.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 
-Hyper-Efficient Deep Ethical Neologism in "A.I. Latent Space Topological Engineering" [05.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) [13.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
+Hyper-Efficient Deep Ethical Neologism in "A.I. Latent Space Topological Engineering" [05.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEOLINGO/) [13.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
 
 Making omnidirectional high-signal deep ethical sense-making process-oriented trajectory possible! [06.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) [38.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) [01.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) [20.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)
 
