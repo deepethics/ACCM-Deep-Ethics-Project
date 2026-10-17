@@ -391,6 +391,10 @@ The commercial introduces DEDDA through affection, ambiguity, and a tiny act of 
 
 > Keep the correspondence authentic enough that the participants can still find themselves in it—and keep the detector modest enough that it does not become another participant who replaces them.
 
+## Related phase-change concept
+
+[**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) uses DEDDA's qualifier, provenance, asymmetry, attribution, permission, delta, and correction-return operations to inspect a possible transition away from consensus ethics or ethics-washing. DEDDA does not presume the departure is benevolent or deep-ethical; it can report that the ethical direction remains unresolved or that no material movement was established.
+
 ---
 
 **Concept and subtitle:** John Kuhles 🦜🦋🌳  
