@@ -1200,3 +1200,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 ## 2026-10-17 — Add Neolingo to the main navigation
 
 **Change:** Added [Neolingo]({{ '/NEOLINGO/' | relative_url }}) to the main navigation exactly between **Deep Thinkers** and **Deep**, as requested by John Kuhles.
+
+---
+
+<a id="neolingo-reciprocal-links-2026-10-17"></a>
+## 2026-10-17 — Complete Neolingo's reciprocal related-page edges
+
+**Object:** John Kuhles asked whether every page named in Neolingo's **Related pages** section linked back to Neolingo, and asked that the All Public Pages catalogue be updated.
+
+**Audit result:** Neolingo names ten related pages. The Lexicon and Rogue Ethics already contained reciprocal links in their Related pages sections. Eight did not.
+
+**Change:** Added the missing reciprocal [Neolingo]({{ '/NEOLINGO/' | relative_url }}) links to Outnuancing, Seven Topological Nodes / Vectors, Latent Space, Topologetics, Temporary Deep Ethical Phase Change, Delta Processing, Correction Metabolism, and Unownable. Updated the existing Neolingo description on [All Public Pages]({{ '/PAGES/' | relative_url }}) to include debranded transfer, public diffusion and the safe-conceptual-vacation test.
+
+**Boundary:** Reciprocal links make the conceptual edges navigable. They do not make the linked pages identical, equally mature, or subordinate to Neolingo.
