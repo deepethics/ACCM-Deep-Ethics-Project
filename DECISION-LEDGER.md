@@ -1143,3 +1143,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Expanded [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) with the documentary's qualifier-preserving candidate signature, five remaining correctable residues, a search-and-language diffusion trajectory, a Neolingo footprint schema, the mass-psychology feedback loop, and a link to the Lexicon.
 
 **Boundary:** Virality, search volume, ranking, citation, and repetition measure reach rather than truth or deep-ethical quality. Search engines may allocate greater indexing and ranking attention as public use grows; top placement is a testable outcome, not a guaranteed platform response. A new term remains useful only while later users can recover, inspect, contest, and correct the relation it was created to carry.
+
+---
+
+<a id="rogue-ethics-transcript-annotations-2026-10-17"></a>
+## 2026-10-17 — Preserve the documentary reaction and annotate the full transcript
+
+**Object:** John Kuhles supplied a corrected full transcript of *This Documentary Was Made Entirely by AI. Including Her.* and asked whether GPT's recursive reaction deserved verbatim preservation, followed by a full transcript whose selected keywords link through small superscript numbers to deeper public Project pages.
+
+**Change:** Expanded [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) with the complete GPT reaction, the full supplied transcript, nineteen bold keyword annotations, nineteen clickable superscript links, and a numbered explanation key connecting the documentary to Deep Thinkers, Emergent, Qualifier State, 16 Anchor Ethics, Mutual Dignity, question-value trajectories, Black Box, Human Insecurity, Cognitive Warfare Mass Psychology, Delta Processing, Meta Processing, Unownable, DEDDA, External Audit, and Inspecting the Inspector.
+
+**Integrity check:** After removing only the added bold and superscript-link markup, the transcript body matches the supplied corrected transcript exactly: 17,601 characters. All fifteen unique internal destinations resolve to declared public permalinks.
+
+**Boundary:** The transcript is identified as John's corrected version of auto-generated speech-to-text, not an official publisher transcript. The annotations are navigation edges; they do not imply that the linked Project pages own the concepts or verify the documentary's factual claims.
