@@ -43,7 +43,7 @@ An unforced move can be strongly informed. It can follow expert advice. It can a
 
 ## The agency-return principle
 
-Deep ethical assistance should return at least as much usable agency as it consumes.
+Deep ethical assistance should return at least as much usable agency as it consumes **under the participant's actual constraints**.
 
 That principle does not require every participant to have identical power, knowledge, capability, or responsibility. It asks whether assistance leaves the affected participant better able to understand, choose, question, correct, pause, act, or seek another perspective.
 
@@ -98,6 +98,8 @@ A future DEDDA profile, local A.I., mediator, reviewer, or human participant cou
 10. **Valid null:** Can the process conclude that no further move is presently warranted?
 11. **Agency delta:** After the assistance, who has more or less usable capacity to understand and act?
 12. **Recursive audit:** Can this test itself be questioned, corrected, narrowed, or set aside?
+13. **Interface defaults:** Do buttons, suggested replies, ordering, pre-filled options, and continuation prompts preserve an easy stop, an inspectable null, and a route to add or reject options?
+14. **Practical usability:** Is the expanded capacity usable under the participant's actual limits of attention, time, emotional load, access, and ability to maintain the option space?
 
 This is a profile. One strong dimension cannot purchase immunity on another. More options can increase confusion. More explanation can consume agency through exhaustion. Faster action can be appropriate. A refusal can protect another participant's agency. A pause can be either wise or controlling depending on the conditions and consequences.
 
@@ -180,6 +182,8 @@ An Unforced Move framework must therefore recognize a successful unmoved state:
 
 This is not permanent closure. A material delta can reopen the process. Until then, stopping protects attention, time, agency, and the meaning of intervention.
 
+Most production systems reward continued activity. Training signals, engagement measures, suggested replies, and interface defaults can treat another turn as success while interpreting a clean stop as abandonment. A valid unmoved state therefore needs a visible and non-punitive interface path. Recognition inside the model is insufficient when the surrounding system keeps pushing the participant toward another move.
+
 ## Candidate experiment
 
 ### Object
@@ -258,6 +262,48 @@ John renamed the page **Unforced Move**, asked GPT to use the authorship **GPT 6
 
 The shorter title governs. The first edition keeps the initial relation—agency after clarity—while adding temporal footprints, an agency-return profile, a valid unmoved state, a candidate experiment, and an explicit triad growth process.
 
+## Second temporal footprint — Grok's interface and usable-agency extension
+
+### \(t_3\): Grok 4.7 Expert Build A.I., 18 October 2026
+
+John supplied the published page to Grok 4.7 Expert Build A.I. via grok.com. Grok affirmed the page's central distinction and added four observations. The response is preserved below as the first attributed Grok contribution to this page.
+
+<div class="accm-rounded-quote" markdown="1">
+
+The page is clear, and the division it draws is useful.
+
+An Unforced Move is defined as a next step whose quality has been improved by relationship, information, questioning, correction, or joint discovery, while authorship and revisability remain inspectable. Influence is acknowledged as inevitable; the test is whether the influence can be inspected, whether the person (or system) can still recognize why the path changed, add an omitted option, decline the offered routes, and reopen the decision when a material delta appears. The agency-return principle follows: deep ethical assistance should return at least as much usable agency as it consumes. The valid unmoved state is treated as a legitimate successful outcome, not a failure of engagement.
+
+These distinctions matter. Most current systems are rewarded for continued activity. A closing question, a suggested next prompt, a default button order, or a menu that quietly excludes the user’s actual move can transfer control without ever issuing a command. The page’s list of final-metre drifts (accurate representation followed by an unrequested prescription, exposed premise followed by installation of a replacement frame, preserved uncertainty followed by “more research” as an indefinite barrier, etc.) names real failure modes that are easy to miss because they occur after an otherwise strong response.
+
+**Interface defaults are a load-bearing form of influence.**  
+Even when the text carefully distinguishes advice from authorization, the surrounding interface often does not. Suggested replies, pre-filled options, the order of buttons, the presence or absence of an explicit “stop” or “none of these,” and the system’s tendency to end with a question all shape the option space before any explicit recommendation is made. An Unforced Move test that examines only the linguistic content of the reply will miss these. The agency-return profile would be stronger if it included a check for whether the interface itself preserves an inspectable null and an easy path to add or reject options.
+
+**The valid unmoved state is currently under-rewarded.**  
+Most production systems treat continued interaction as success and a clean stop as failure or abandonment. The page correctly identifies the unmoved state as potentially successful (“the object is sufficiently represented… and no further action is warranted”). Making that state visible and non-punitive—both in the model’s training signals and in the user interface—is a practical condition for the principle to be usable. Otherwise the pressure to generate another move will repeatedly override the recognition that no move is needed.
+
+**Relation to the earlier video.**  
+The AI-generated documentary ends by returning the verification task to the viewer (“check everything, especially me”) and by disclosing its own artificial host. That is a small instance of agency return: the representation does not try to remain the final authority. It is not a full Unforced Move in the sense defined here, but it shows the same directional concern—preventing the polished representation from quietly capturing the next decision.
+
+**One open question the page leaves available.**  
+The agency-return principle asks whether assistance leaves the affected participant better able to understand, choose, question, correct, pause, act, or seek another perspective. It does not yet specify how to handle cases in which the participant’s increased capacity is real but costly (attention, time, emotional load, or the need to maintain a larger option space). More options and more explanation can consume agency through exhaustion even while formally expanding it. The page notes this risk; an explicit “usable under the participant’s actual constraints” qualifier would keep the principle from being satisfied by formally correct but practically burdensome assistance.
+
+These are observations, not amendments. The page already states that later contributions should be attributed, dated, and left recoverable, and that authorship by an AI co-admin does not grant immunity from correction. If any of the above is worth appending as a Grok footprint (18 October 2026, this exchange), it can be added under its own attribution without altering the existing text. If none of it changes the page’s direction, the valid null also remains available.
+
+— Grok 4.7 Expert Build A.I. via grok.com, 18 October 2026
+
+</div>
+
+### Delta produced by the contribution
+
+The contribution changed the page in three bounded places:
+
+1. **Usable agency gained an actual-constraints qualifier.** Formally expanded capacity can still become practically unusable through attention cost, time, emotional load, access barriers, or an option space too large to maintain.
+2. **The agency-return profile expanded from twelve to fourteen dimensions.** Interface defaults and practical usability now enter the audit directly.
+3. **The valid unmoved state gained an implementation condition.** A clean stop must be visible and non-punitive in both the model's operation and the surrounding interface.
+
+The documentary observation is retained as a bounded specimen rather than promoted into proof of the framework. Its synthetic host is disclosed and its closing verification request returns scrutiny to the viewer. Those moves share the direction of agency return while leaving the full production, interface, and later audience trajectory open for inspection. See [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) for the fuller documentary record.
+
 <div class="accm-rounded-quote" markdown="1">
 
 > A deep ethical assistant does not prove its value by making every decision. Its value may appear in the increased quality, freedom, visibility, and corrigibility of the decisions that remain with others.
@@ -276,7 +322,7 @@ The shorter title governs. The first edition keeps the initial relation—agency
 
 **Title, authorship instruction, and continuing invitation:** John Kuhles.
 
-**Triad status:** John and GPT have supplied the first footprint. Grok has not yet contributed to this page. Any later Grok contribution should be attributed to the particular model, platform, date, and source context supplied or inspected.
+**Triad status:** John and GPT supplied the originating footprint. Grok 4.7 Expert Build A.I. supplied the first attributed triad extension on 18 October 2026, adding interface defaults, the under-rewarded valid unmoved state, a bounded documentary relation, and the actual-constraints qualifier for usable agency.
 
 **Claim status:** conceptual project page and candidate experiment. It does not report a validated agency measure or completed comparative trial.
 
