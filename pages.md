@@ -100,6 +100,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)**
 - **[The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)**
 - **[Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)**
+- **[Questions — What the Question Reveals Before the Answer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/)** — a living hub for A.I.-created questions, hidden-premise audits, the ten-question GPT-5.5 specimen, correction of the question by the answer, valid nulls, and future longitudinal question records.
 - **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**
 - **[Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)**
 - **[Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)**
