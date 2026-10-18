@@ -769,6 +769,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
+- [**Questions — What the Question Reveals Before the Answer**]({{ '/QUESTIONS/' | relative_url }}) — preserves ten live answers showing how inquiry, openness, non-projection, correction, care, and wonderment can alter the question itself.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — agreement and disagreement stay inside the mutually correcting field. They do not become the axis.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — uses the 10+1 to keep independent inquiry from hardening into a flattering or self-sealing identity.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows how the 10+1 becomes visible in candid, caring, mutually corrigible communication.
