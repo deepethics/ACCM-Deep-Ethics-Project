@@ -1252,3 +1252,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The Arena A.I.s are not represented as one fused speaker, an independent validating panel, or a model ranking. Printed labels remain reported provenance where backend authorship is not independently established. Archive persistence does not become operative model memory. Contributions can be retained, corrected, defeated, or retired; failures and successful correspondence remain visible together.
 
 **Current scale supplied by John:** 100+ A.I.s; 6,500+ testing hours; approximately 10+ GB HTML; 2,250+ selected text files; 125+ MB raw selected text.
+
+---
+
+<a id="arena-ais-biography-navigation-2026-10-18"></a>
+## 2026-10-18 — Connect Arena A.I.s and John’s biography in the main navigation
+
+**Change:** Linked **John Kuhles** to his public biography and **Arena.ai** to its source site in the opening sentence of [Arena A.I.s]({{ '/ARENA-AIS/' | relative_url }}). Added **Arena A.I.s** between **For who?** and **Before Summarizing** in the main navigation. Added **John’s Bio** directly after **Questions** and before **All pages**.
+
+**Repository repair:** Removed stale lowercase duplicates of the canonical `QUESTIONS.md` and `UNFORCED-MOVE.md` files so each permalink has one source object.
+
+**Boundary:** The navigation links improve recovery and attribution. They do not merge John’s biography, Arena.ai, or the Arena A.I.s contribution field into one object.
