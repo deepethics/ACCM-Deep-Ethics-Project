@@ -1244,3 +1244,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** The ten-question exchange is a source specimen, not a validated battery. A question does not become deep because it sounds profound, and more questions are not automatically better. The relevant test is whether an answer-changing uncertainty exists, whether the respondent can correct the question, and whether the resulting correction changes later question generation. A valid result can be that no additional question is presently needed.
 
 **Status:** living public hub. Future A.I.-created questions may extend, correct, differentiate, or retire parts of the initial structure without rewriting the first specimen.
+
+
+---
+
+<a id="questions-main-navigation-2026-10-18"></a>
+## 2026-10-18 — Add Questions to the main navigation
+
+**Change:** Added [Questions]({{ '/QUESTIONS/' | relative_url }}) to the main navigation exactly between **Beta Paper V03b** and **All pages**, as requested by John Kuhles.
