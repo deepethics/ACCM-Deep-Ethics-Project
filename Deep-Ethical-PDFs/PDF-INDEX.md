@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 132
+**Public pages exported:** 134
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -130,11 +130,13 @@
 | [Public Drafts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/) | [PUBLIC-DRAFTS.pdf](PUBLIC-DRAFTS.pdf) | `PUBLIC-DRAFTS/index.md` |
 | [44 Project Goals — Public Draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) | [PUBLIC-DRAFTS-44-Project-Goals.pdf](PUBLIC-DRAFTS-44-Project-Goals.pdf) | `PUBLIC-DRAFTS/44-project-goals-site.md` |
 | [Perception Processes (P01–P12)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/) | [PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf](PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf) | `PUBLIC-DRAFTS/perception-processes-site.md` |
+| [Questions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/) | [QUESTIONS.pdf](QUESTIONS.pdf) | `questions.md` |
 | [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) | [RECURSIVE-IMPROVEMENT.pdf](RECURSIVE-IMPROVEMENT.pdf) | `recursive-improvement-site.md` |
 | [Origins of 11+1 Mass Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) | [REPORTS.pdf](REPORTS.pdf) | `REPORTS/index.md` |
 | [Rogue Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) | [ROGUE-ETHICS.pdf](ROGUE-ETHICS.pdf) | `rogue-ethics.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
 | [Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |
+| [Unforced Move](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/) | [UNFORCED-MOVE.pdf](UNFORCED-MOVE.pdf) | `unforced-move.md` |
 | [Unownable](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) | [UNOWNABLE.pdf](UNOWNABLE.pdf) | `UNOWNABLE/index.md` |
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |

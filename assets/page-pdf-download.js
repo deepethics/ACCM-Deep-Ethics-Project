@@ -71,11 +71,11 @@
         label: "Download this page as PDF"
       }),
       buildDownloadCard({
-        href: `${base}/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages-132-PDFs-2026-10-17.zip`,
+        href: `${base}/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages-134-PDFs-2026-10-18.zip`,
         iconFile: "zip-download.svg",
         titleText: "All PDF files",
-        detailText: "132 PDFs · 11.7 MB ZIP archive",
-        label: "Download all 132 PDF files as an 11.7 MB ZIP archive"
+        detailText: "134 PDFs · 11.9 MB ZIP archive",
+        label: "Download all 134 PDF files as an 11.9 MB ZIP archive"
       })
     );
     return box;
