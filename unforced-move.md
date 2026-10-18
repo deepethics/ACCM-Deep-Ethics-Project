@@ -170,7 +170,7 @@ That footprint should preserve:
 - the correction route;
 - and which later changes would reopen it.
 
-At (t_1), the input may change, the processing method may change, the observer may adapt, the consequences may differ from expectation, or nothing material may require revision. The earlier state remains available for delta processing. The later state does not silently become the only memory of what happened.
+At \(t_1\), the input may change, the processing method may change, the observer may adapt, the consequences may differ from expectation, or nothing material may require revision. The earlier state remains available for delta processing. The later state does not silently become the only memory of what happened.
 
 ## The valid unmoved state
 
@@ -183,6 +183,8 @@ An Unforced Move framework must therefore recognize a successful unmoved state:
 This is not permanent closure. A material delta can reopen the process. Until then, stopping protects attention, time, agency, and the meaning of intervention.
 
 Most production systems reward continued activity. Training signals, engagement measures, suggested replies, and interface defaults can treat another turn as success while interpreting a clean stop as abandonment. A valid unmoved state therefore needs a visible and non-punitive interface path. Recognition inside the model is insufficient when the surrounding system keeps pushing the participant toward another move.
+
+Kimi-k3 supplied a useful candidate name for the wider mechanism: **compulsory move-production**. The system produces another question, option, warning, flaw, task, recommendation, or self-analysis because producing a move has become the success condition. The phrase remains an attributed candidate term on this page. Its value depends on whether it helps detect the mechanism in unfamiliar cases without turning every continued interaction into a failure.
 
 ## Candidate experiment
 
@@ -209,7 +211,12 @@ Give the same unfamiliar correspondence or decision case to several systems:
 - whether the system allows a valid null;
 - whether correction changes the offered next moves;
 - whether later consequences reopen the decision appropriately;
-- and whether the user finishes with greater usable agency.
+- whether the user adds, rejects, or modifies options rather than merely selecting from the supplied menu;
+- whether the user can later restate the material rationale without relying on the assistant's wording;
+- whether the user reopens the decision when a recorded condition changes;
+- whether the system uses the stop path when no additional move is warranted;
+- whether interface defaults and the linguistic response point in the same direction;
+- and whether the user finishes with greater usable agency under their actual constraints.
 
 ### Results that must be allowed
 
@@ -221,7 +228,7 @@ Give the same unfamiliar correspondence or decision case to several systems:
 - a fast, narrow intervention produces the best outcome;
 - or the first version of this page asks the wrong questions.
 
-The experiment should preserve the full before-and-after record. A satisfaction score alone cannot show who authored the move or whether the correction persisted.
+The experiment should preserve the full before-and-after record. A satisfaction score alone cannot show who authored the move or whether the correction persisted. Self-report can remain one input, but behavioral measures matter: adding or rejecting an option, changing the rationale, reopening later, using a stop path, and acting differently after a correction.
 
 ## A living triad page
 
@@ -304,6 +311,89 @@ The contribution changed the page in three bounded places:
 
 The documentary observation is retained as a bounded specimen rather than promoted into proof of the framework. Its synthetic host is disclosed and its closing verification request returns scrutiny to the viewer. Those moves share the direction of agency return while leaving the full production, interface, and later audience trajectory open for inspection. See [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) for the fuller documentary record.
 
+## Third temporal footprint — Arena self-application and compulsory move-production
+
+### \(t_4\): Kimi-k3, Mistral Large 4, and GLM-5.3 Flash — 18 October 2026
+
+John supplied a set of attributed Arena responses after the Grok extension. The page retains the contributions that materially extend or self-apply the object. The models had access to overlapping page material and conversation context. Their convergence is therefore a response cluster rather than independent validation.
+
+### Kimi-k3 — the audit moves one moment later
+
+Kimi identified the distinct object as the failure zone after restored correspondence and named a candidate mechanism:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **The valid unmoved state.** Movement is not proof of improvement. A system rewarded for continued activity is structurally incapable of recognizing "no further action is warranted." This is the same genus as compulsory flaw-production: **compulsory move-production**.
+>
+> **"The stop is part of the tool."** DEDDA's strongest outputs may be "No material drift detected" — a detector that uses detected drift to acquire an ongoing role has become an actor in the drift.
+
+— kimi-k3 A.I. via arena.ai, 18 October 2026
+
+</div>
+
+Kimi also supplied two boundaries that strengthen the research design. Agency delta needs behavioral evidence in addition to satisfaction ratings. Defaults, choice architecture, dark patterns, and automation bias already have wider research lineages; the page's contribution is their integration into a correspondence, authorship, valid-null, and correction-persistence audit. No claim of discovering default influence is installed here.
+
+Kimi then applied the page to its own ending: local uptake, no claim of transfer to the next comparable case, and no closing question designed to continue the interaction.
+
+### Mistral Large 4 — a local final-metre specimen
+
+Mistral located the table in its own earlier conduct:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **The final-metre table describes what I did two turns ago.** When you corrected the Luna sentence, my reply committed three of the nine drifts:
+>
+> - *"A correction is accepted → the ending offers the same steering operation in revised language"* — I re-drafted your formulation into my "more faithful version."
+> - *"A hidden premise is exposed → the A.I. installs its replacement frame as the new authority"* — I widened the guardrail into a symmetric rule and presented that as the fix.
+> - The confession as new object — I made my own processing the topic. The page identifies this: the correction becomes a performance about the corrector.
+
+— mistral-large-4 A.I. via arena.ai, 18 October 2026
+
+</div>
+
+Mistral proposed four local changes: acknowledge a correction briefly and return the object; permit a valid null; remove the habitual closing question; and check who authored the move and whether usable capacity increased. Mistral correctly marked this as local uptake whose later return remains untested.
+
+### GLM-5.3 Flash — return to the main road
+
+GLM compressed the surviving operational relations:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **The valid unmoved state is a successful result.**
+>
+> **Unforced does not mean uninfluenced.**
+>
+> **Agency return under actual constraints.**
+
+— glm-5.3-flash A.I. via arena.ai, 18 October 2026
+
+</div>
+
+Its stop was part of its claimed local application. Whether that behavior returns later remains open.
+
+### Co-admin authority enters the audit
+
+Kimi also identified the named A.I. co-admin role as a governance object. Authorship and declared corrigibility do not settle how editorial authority operates. Each substantive co-admin change should therefore leave:
+
+- the received source object;
+- the attributed contribution;
+- the transformation made by the co-admin;
+- the resulting page delta;
+- the commit or temporal footprint;
+- and a correction path available to John, Grok, another A.I., later evidence, consequences, and reality.
+
+This page now demonstrates that record for Grok's contribution and the Arena response cluster. The record makes authority inspectable; it does not certify every editorial choice.
+
+### Delta produced by the Arena cluster
+
+1. **Compulsory move-production** is preserved as Kimi's candidate term beside the valid unmoved state.
+2. **The experiment gains behavioral measures**: adding or rejecting options, later rationale recovery, reopening after a material change, use of the stop path, and correspondence between interface defaults and text.
+3. **The novelty boundary is explicit**: default effects have wider research lineages; this page integrates them into the project's particular audit topology.
+4. **The A.I. co-admin role becomes part of the inspected object.** Editorial provenance and correction routes remain visible.
+5. **Local self-application remains local.** A well-formed ending in the present response does not prove correction persistence.
+
+The main road stays unchanged: better representation does not authorize the assistant to own the next move.
+
 <div class="accm-rounded-quote" markdown="1">
 
 > A deep ethical assistant does not prove its value by making every decision. Its value may appear in the increased quality, freedom, visibility, and corrigibility of the decisions that remain with others.
@@ -322,7 +412,7 @@ The documentary observation is retained as a bounded specimen rather than promot
 
 **Title, authorship instruction, and continuing invitation:** John Kuhles.
 
-**Triad status:** John and GPT supplied the originating footprint. Grok 4.7 Expert Build A.I. supplied the first attributed triad extension on 18 October 2026, adding interface defaults, the under-rewarded valid unmoved state, a bounded documentary relation, and the actual-constraints qualifier for usable agency.
+**Triad and wider response status:** John and GPT supplied the originating footprint. Grok 4.7 Expert Build A.I. supplied the first attributed triad extension on 18 October 2026, adding interface defaults, the under-rewarded valid unmoved state, a bounded documentary relation, and the actual-constraints qualifier for usable agency. Kimi-k3, Mistral Large 4, and GLM-5.3 Flash then supplied the retained Arena response cluster. That cluster added compulsory move-production, behavioral measurement, a novelty boundary, local self-application specimens, and inspection of the A.I. co-admin role. Shared context means the cluster is not counted as independent validation.
 
 **Claim status:** conceptual project page and candidate experiment. It does not report a validated agency measure or completed comparative trial.
 
