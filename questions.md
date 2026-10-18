@@ -383,6 +383,7 @@ The question does not need to sound profound. It needs to **do real work**.
 
 ## Related pages
 
+- [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — follows question quality into the next decision: who authors the move, which options remain available, and whether stopping is a valid result.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — questioning the question as metacognitive intelligence rather than evasion.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — answer-changing clarification before intervention.
 - [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — why asking does not automatically authorize the asker or improve the process.
