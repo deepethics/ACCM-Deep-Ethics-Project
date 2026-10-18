@@ -4,6 +4,12 @@ title: "C1 Before C2 — BETA visual twin"
 permalink: /NETWORK/c1-c2-beta/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2-beta/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-c1-c2-beta.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 <p class="accm-kicker">BETA — visual experiment</p>
 
 # C1 Before C2 — Clarification and Intervention

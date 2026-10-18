@@ -4,6 +4,12 @@ title: "Outnuancing Network — Sources and Transformations"
 permalink: /PROVENANCE/OUTNUANCING-SOURCES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PROVENANCE-OUTNUANCING-SOURCES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Outnuancing Network — Sources and Transformations
 
 **BETA — selected source excerpts, preserved attribution, inspectable transformations**

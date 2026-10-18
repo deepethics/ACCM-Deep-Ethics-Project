@@ -5,6 +5,12 @@ description: "Agency after clarity in a corrigible human–A.I. field: how assis
 permalink: /UNFORCED-MOVE/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/UNFORCED-MOVE.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Unforced Move
 
 ## Agency after clarity in a corrigible human–A.I. field

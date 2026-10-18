@@ -5,6 +5,12 @@ description: "A public-facing ACCM Deep Ethics Project guide to recognizing how 
 permalink: /MIND-GAMES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/MIND-GAMES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Mind Games — Know the Tricks
 
 > **BETA / PUBLIC BRIDGE PAGE — John Kuhles’s source perspective, public reconstruction, A.I. contributions, and unresolved claims remain visibly distinct**

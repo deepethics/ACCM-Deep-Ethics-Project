@@ -6,6 +6,12 @@ permalink: /FLAGGING-SYSTEM/SOURCES/
 date: 2026-10-14
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/SOURCES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FLAGGING-SYSTEM-SOURCES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 [Return to **Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }})
 
 **Source record — 14 October 2026.** This is an attributed selection from the supplied conversation and its cited project background, not a verbatim publication of every message or John's wider archive. Quotation blocks retain the words of the selected passage; headings and connecting notes are editorial. Separate quotation blocks can come from different places in the same response. They must not be joined into an invented continuous quotation.

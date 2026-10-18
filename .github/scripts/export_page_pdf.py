@@ -48,6 +48,12 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
     title = frontmatter_value(text, "title") or source.stem.replace("-", " ").title()
     if text.startswith("---\n"):
         text = text.split("---\n", 2)[2]
+    text = re.sub(
+        r"<!-- ACCM_FORMAT_LINKS_START -->.*?<!-- ACCM_FORMAT_LINKS_END -->\n*",
+        "",
+        text,
+        flags=re.DOTALL,
+    )
     text = expand_includes(text, source)
 
     # Turn Jekyll-generated internal links into durable public URLs.

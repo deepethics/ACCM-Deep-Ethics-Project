@@ -4,6 +4,12 @@ title: "Asymmetric Grace and Bidirectional Scrutiny"
 permalink: /NETWORK/asymmetric-grace/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-asymmetric-grace.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Asymmetric Grace and Bidirectional Scrutiny
 
 **BETA — source-based editorial synthesis and proposed test architecture**

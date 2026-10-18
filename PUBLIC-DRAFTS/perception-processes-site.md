@@ -4,6 +4,12 @@ title: "Perception Processes (P01–P12)"
 permalink: /PUBLIC-DRAFTS/Perception-Processes-P01-P12/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 {% include_relative Perception-Processes-P01-P12.md %}
 
 ---

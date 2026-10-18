@@ -4,6 +4,12 @@ title: "44 Project Goals — Public Draft"
 permalink: /PUBLIC-DRAFTS/44-Project-Goals/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PUBLIC-DRAFTS-44-Project-Goals.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 {% include_relative 44-Project-Goals.md %}
 
 ---

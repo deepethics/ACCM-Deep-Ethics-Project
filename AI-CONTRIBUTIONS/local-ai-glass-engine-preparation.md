@@ -4,6 +4,12 @@ title: "From Archive to Local A.I. — Glass-Engine Preparation and the Vocabula
 permalink: /AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # From Archive to Local A.I.
 
 > **BETA / A.I. CONTRIBUTION — architecture proposal and experiment, not canon**

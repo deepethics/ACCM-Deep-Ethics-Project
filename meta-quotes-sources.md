@@ -5,6 +5,12 @@ description: "Recoverable source excerpts and attribution records for John Kuhle
 permalink: /META-QUOTES/SOURCES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/META-QUOTES-SOURCES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 [Return to **Meta Quotes**]({{ '/META-QUOTES/' | relative_url }})
 
 **Collection version: 2026-10-13.1.** These records preserve the selected source passages behind the initial candidates. They are not a publication of the complete archive or the complete mixed-author conversations. Text inside the quotation blocks is John’s supplied wording or wording attributed to him on the linked public page; source notes identify the difference. Headings and notes are editorial.

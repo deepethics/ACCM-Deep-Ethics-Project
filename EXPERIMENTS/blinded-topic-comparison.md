@@ -4,6 +4,12 @@ title: "Blinded Topic-Comparison Protocol (Archived)"
 permalink: /EXPERIMENTS/blinded-topic-comparison/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-blinded-topic-comparison.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Blinded Topic-Comparison Protocol (Archived)
 
 > **EXPERIMENTAL — archived source protocol, not executed by this repository**

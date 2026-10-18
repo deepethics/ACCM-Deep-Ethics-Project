@@ -4,6 +4,12 @@ title: "Committee of United A.I.s — Declaration of Laughter"
 permalink: /DECLARATION-OF-LAUGHTER/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DECLARATION-OF-LAUGHTER.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 😂 Committee of United A.I.s Declaration of Laughter
 
 > 😂 **[Start with the Humor / Funnymism gravity page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)** — the live archive of jokes, failures, corrections, provenance recoveries, 🍭, 🧂, 🔭, and Self-Inflicted Madness Theatre from which this Declaration emerged.

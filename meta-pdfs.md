@@ -5,6 +5,12 @@ description: "Deep-Ethical-PDFs — 132 downloadable PDF editions of the ACCM De
 permalink: /META-PDFS/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-PDFS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/META-PDFS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Meta-PDFs
 
 ## Deep-Ethical-PDFs

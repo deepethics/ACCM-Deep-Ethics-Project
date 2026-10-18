@@ -6,6 +6,12 @@ permalink: /FLAGGING-SYSTEM/LAYERED-SOURCES/
 date: 2026-10-14
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/LAYERED-SOURCES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FLAGGING-SYSTEM-LAYERED-SOURCES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 [Return to **Flagging System — coverage and layered processing**]({{ '/FLAGGING-SYSTEM/' | relative_url }}#layered-processing) · [Earlier source and correction record]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }})
 
 **Supplied by John Kuhles on 14 October 2026 at 12:07:59 UTC.** The time identifies receipt in this conversation, not an independently recovered Google generation time. The passages below preserve wording; headings, paragraph display, and table layout are editorial. This record includes the account under examination, including its strong architectural claims. Google’s explanation, the visible response sequence, and John’s further hypothesis remain distinguishable.

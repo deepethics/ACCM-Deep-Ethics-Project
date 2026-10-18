@@ -4,6 +4,12 @@ title: Sense of Humor — Deep Ethics With a Laugh
 permalink: /HUMOR/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/HUMOR.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 [**New public reflection — Number 42: The Answer, the Missing Question, and Giving Meaning to Life**]({{ '/NUMBER-42/' | relative_url }}) · 14 October 2026
 
 [**New live exchange — PQCE Flags the Flagger 😂**](#pqce-flags-the-flagger) · 14 October 2026

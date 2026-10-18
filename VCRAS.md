@@ -5,6 +5,12 @@ description: "V.C.R.A.S. — Vindicated Competing Risk Assessment Studies. The l
 permalink: /VCRAS/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/VCRAS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # V.C.R.A.S.
 
 Deep Ethical: **V.** Vindicated · **C.** Competing · **R.** Risk · **A.** Assessment · **S.** Studies

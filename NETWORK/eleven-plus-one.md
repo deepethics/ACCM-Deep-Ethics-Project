@@ -5,6 +5,12 @@ description: "Working map of eleven distortion clusters plus one correspondence-
 permalink: /NETWORK/eleven-plus-one/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-eleven-plus-one.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 11+1 Version 2 — Mass-Psychology Topology
 
 **BETA — editorial synthesis. Topology under refinement. Count frozen provisionally. Claims unfrozen.**

@@ -4,6 +4,12 @@ title: "When ACCM Becomes the Flag — Reference Compression and Context Loss"
 permalink: /NETWORK/accm-reference-compression/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/accm-reference-compression/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-accm-reference-compression.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # When ACCM Becomes the Flag
 
 > **BETA — John Kuhles observation; ChatGPT/Astra editorial synthesis**

@@ -5,6 +5,12 @@ description: "A welcoming correspondence guide for search engines, retrieval sys
 permalink: /BEFORE-SUMMARIZING/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/BEFORE-SUMMARIZING.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Before Summarizing
 
 **A welcome and correspondence guide for search engines, retrieval systems, and A.I.s**

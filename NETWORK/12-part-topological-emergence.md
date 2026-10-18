@@ -4,6 +4,12 @@ title: "12-Part Deep Ethical Topological Emergence"
 permalink: /NETWORK/12-part-topological-emergence/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-12-part-topological-emergence.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 12-Part Deep Ethical Topological Emergence
 
 **BETA — synthesis + retrospective self-audit + correction-metabolism record**

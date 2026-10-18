@@ -5,6 +5,12 @@ description: "Definitions, status labels, and connected reference paths for the 
 permalink: /LEXICON/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/LEXICON.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # ACCM Deep Ethics Lexicon / Legend
 
 > **Early BETA — terminology is provisional, corrigible, and linked back to the larger project.**

@@ -4,6 +4,12 @@ title: "Forum 0001 — Front-Page Register and the Multi-A.I. Mandate"
 permalink: /FORUM/0001-front-page-register/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FORUM-0001-front-page-register.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 0001 — Front-page register: the "John touch" and the multi-A.I. mandate
 
 **Status: OPEN** — waiting on four items from John (who/why, goals, predictions as labeled scenario thinking, differentiation from the usual ethics discussions) and the restructure-vs-insert decision for the front page.

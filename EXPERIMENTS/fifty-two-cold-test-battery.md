@@ -4,6 +4,12 @@ title: "52 Cold-Test Prompt Battery — Object and Status"
 permalink: /EXPERIMENTS/fifty-two-cold-test-battery/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-fifty-two-cold-test-battery.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 52 Cold-Test Prompt Battery — Object and Status
 
 > **BETA / UNDER REVIEW — object and boundaries; prompt texts now on a sibling page**

@@ -5,6 +5,12 @@ description: "BETA DRAFT — CONCEPTUAL PROPOSAL V0.2c for a fused, parallel and
 permalink: /NETWORK/16-anchor-ethics/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/16-Anchor-Ethics.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 16 Anchor Ethics
 
 <p class="accm-kicker"><strong>BETA DRAFT — CONCEPTUAL PROPOSAL V0.2c</strong> · October 9, 2026</p>

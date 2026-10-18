@@ -5,6 +5,12 @@ permalink: /NETWORK/deep-ethical-influence-jurisdiction/
 description: "BETA research page on trust, distrust, process quality, influence permission, governing jurisdiction, relational history, and how influence can alter a Deep Ethical sense-making trajectory."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-influence-jurisdiction/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-deep-ethical-influence-jurisdiction.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Deep Ethical Influence Jurisdiction
 
 **BETA — living research page**

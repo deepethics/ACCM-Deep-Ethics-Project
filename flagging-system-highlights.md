@@ -6,6 +6,12 @@ permalink: /FLAGGING-SYSTEM/HIGHLIGHTS/
 date: 2026-10-14
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FLAGGING-SYSTEM-HIGHLIGHTS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 [Return to **Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [Read the new synthesis]({{ '/FLAGGING-SYSTEM/' | relative_url }}#generative-reciprocity) · [Jump to all eight exchanges](#highlighted-exchanges)
 
 This companion preserves the new highlighted material supplied after the previous publication boundary. It uses the same exchange files rendered on the main **Flagging System** page, so the full readings and their follow-up replies remain connected. The editorial project name is **ACCM Deep Ethics Project**. Historical quotations keep their own wording, including abbreviations, disputed descriptions, and source attributions. Their preservation records what was said; it does not silently promote every assertion into an editorial finding.

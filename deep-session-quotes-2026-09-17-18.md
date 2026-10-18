@@ -4,6 +4,12 @@ title: "Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026
 permalink: /DEEP-SESSIONS/2026-09-17-18/QUOTES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Useful Quotes from a Multi-A.I. Deep Session
 
 > **BETA — curated derived page, not a replacement for the source**

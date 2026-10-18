@@ -5,6 +5,12 @@ permalink: /PHASE-CHANGE-SNAP/
 description: "A BETA ACCM Deep Ethics Project report on the Deep Ethical condition field, nested temporary virtual sandboxes, visible A.I. output drift, minimal metacognitive correction, rapid trajectory reorganization, snap-back, and correction persistence."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PHASE-CHANGE-SNAP/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/Phase-Change-Snap.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Phase Change Snap
 
 ## Reverse Engineering the Visible Delta Between A.I. Output Drift, Metacognitive Correction, and Recurrence

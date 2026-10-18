@@ -5,6 +5,12 @@ description: "The ACCM Deep Ethics Project's eleven mutually corrective baseline
 permalink: /NETWORK/ten-plus-one/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/10-plus-1-Metaflux-Mutual-Correction.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 10+1 Metaflux — Mutual Correction
 
 <p class="accm-hero-sub">Eleven mutually corrective ingredients for a better relationship with reality</p>

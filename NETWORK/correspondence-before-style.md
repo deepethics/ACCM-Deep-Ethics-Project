@@ -5,6 +5,12 @@ permalink: /NETWORK/correspondence-before-style/
 description: "A correspondence-preserving writing filter extracted from useful parts of the Nederlandse Stijlgids, with drift-producing style rules deliberately excluded."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-style/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-correspondence-before-style.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Correspondence Before Style
 
 **BETA — extracted method, not a new numbered protocol**

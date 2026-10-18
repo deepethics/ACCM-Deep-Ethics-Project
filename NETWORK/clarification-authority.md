@@ -5,6 +5,12 @@ permalink: /NETWORK/clarification-authority/
 description: "When clarification is understood and acknowledged, but the representation it corrected keeps governing anyway."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-clarification-authority.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Solving the Clarification Authority Paradox
 
 **BETA v0.4 — living expansion page**

@@ -6,6 +6,12 @@ permalink: /EXPERIMENTS/cold-edge-swap-correction-transfer/
 date: 2026-10-17
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/cold-edge-swap-correction-transfer/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-cold-edge-swap-correction-transfer.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Cold Edge-Swap and Correction-Transfer Pilot
 
 **Status:** instrument-design pilot; not yet a validated battery  

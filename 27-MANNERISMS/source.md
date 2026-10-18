@@ -4,6 +4,12 @@ title: "27 obstructions of deep ethical sense-making processes"
 permalink: /27-MANNERISMS/source/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/27-MANNERISMS-source.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 > **BETA — source object**
 >
 > John uploaded this file on 2026-09-16 as “the missing 52,” then: “that file is the 27, WITH the 52.”

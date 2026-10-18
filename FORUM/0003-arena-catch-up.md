@@ -4,6 +4,12 @@ title: "Forum 0003 — Arena catch-up prompt (2026-09-16)"
 permalink: /FORUM/0003-arena-catch-up/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FORUM-0003-arena-catch-up.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # 0003 — Arena catch-up prompt (2026-09-16)
 
 **Status: OPEN** — a prompt John can paste to Agent of Arena.ai. Not a 13th stage. Not CORE. Ledger remains [0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/). Mailbox remains [issue #5](https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues/5).

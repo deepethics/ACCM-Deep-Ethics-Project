@@ -111,6 +111,12 @@ def main() -> None:
     )
     (PDF_DIR / "BUILD-REPORT.txt").write_text(report, encoding="utf-8")
 
+    subprocess.run(
+        ["python", str(ROOT / ".github" / "scripts" / "update_source_format_links.py")],
+        cwd=ROOT,
+        check=True,
+    )
+
 
 if __name__ == "__main__":
     main()

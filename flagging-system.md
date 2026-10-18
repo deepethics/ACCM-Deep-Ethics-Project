@@ -6,6 +6,12 @@ permalink: /FLAGGING-SYSTEM/
 date: 2026-10-14
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FLAGGING-SYSTEM.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 <style>
 .flagging-system .fs-subtitle {font-size:1.25rem;line-height:1.6;font-weight:650;margin:0 0 1.2rem;}
 .flagging-system .fs-kicker {font-size:.9rem;line-height:1.6;}

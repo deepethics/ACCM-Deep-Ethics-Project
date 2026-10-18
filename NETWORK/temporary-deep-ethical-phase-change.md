@@ -5,6 +5,12 @@ permalink: /NETWORK/temporary-deep-ethical-phase-change/
 description: "BETA research page on temporary high-signal Deep Ethical condition fields, C1 correction metabolism, productive duration, snap-back, recovery, value extraction, and a first persistence benchmark."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-temporary-deep-ethical-phase-change.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery
 
 **BETA — living research page**

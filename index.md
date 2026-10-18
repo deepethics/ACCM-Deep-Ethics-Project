@@ -4,6 +4,12 @@ title: ACCM Deep Ethics Project
 description: "An open correspondence-first AI ethics project examining LLM representation failures, corrigibility, mass psychology, competing risk assessments, and constructive controversy."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-Home.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 <p class="accm-kicker">Early BETA / DRAFT / TRIAL & ERROR</p>
 
 <h1 class="accm-hero-title">ACCM Deep Ethics Project</h1>

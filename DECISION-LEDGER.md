@@ -1300,3 +1300,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added a third shared service card, **View GitHub source**, with a GitHub source icon matching the visual scale of the PDF and ZIP icons. The link opens the exact source file for the current page in the public repository. Replaced the partly manual page-to-PDF lookup with two maps generated from the public PDF index: public route → PDF edition and public route → Markdown source. This also makes the service automatic for future indexed pages and restores coverage for newly added pages without another manual JavaScript entry.
 
 **Boundary:** The card links to the recoverable repository source. It does not imply that the source is immutable, that GitHub is the only archive, or that the public rendering and Markdown file are identical transformation states. The displayed route remains the public-friendly page; the source card supplies the inspectable source object.
+
+---
+
+<a id="source-format-links-all-markdown-pages-2026-10-18"></a>
+## 2026-10-18 — Add HTML and PDF routes to every indexed Markdown source
+
+**Object:** John Kuhles asked whether each raw Markdown source connected to a public page could offer direct choices for the public-friendly HTML rendering and the corresponding PDF edition.
+
+**Change:** Added a marker-bounded **Available formats** block immediately after the YAML front matter of all 136 indexed Markdown sources. Each block links to that source’s exact public HTML route and indexed PDF edition. Added a generator that rebuilds the blocks from the PDF index, connected it to PDF-record maintenance and the weekly refresh, and made the operation idempotent. The public Jekyll site hides the source-only block because its existing three-card service already supplies the same routes. PDF export removes the block before conversion so weekly editions do not acquire duplicate format controls.
+
+**Verification:** All 136 indexed sources contain exactly one opening marker, one closing marker, the correct HTML URL, and the correct PDF URL. Every source still begins with valid YAML front matter. A second generator pass changed zero files.
+
+**Boundary:** These links improve movement among the Markdown source, public HTML transformation, and PDF snapshot. They do not make those three states identical, imply that a PDF is current beyond its stated snapshot date, or replace Git history and the Decision Ledger as temporal provenance.

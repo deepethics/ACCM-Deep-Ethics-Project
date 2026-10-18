@@ -4,6 +4,12 @@ title: "Applying the 27 to a media object — Dan Dicks / Independent AI-extinct
 permalink: /EXPERIMENTS/dicks-independent-27/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-dicks-independent-27.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Applying the 27 to a media object — Dan Dicks / Independent AI-extinction forecast
 
 > **BETA / SPECIMEN — the 27 used as a portable instrument, not a verdict**

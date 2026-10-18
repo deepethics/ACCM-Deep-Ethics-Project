@@ -4,6 +4,12 @@ title: "Ethics Washing — Declaration, Process, and Correction"
 permalink: /NETWORK/ethics-washing/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-ethics-washing.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Ethics Washing — Declaration, Process, and Correction
 
 **BETA — source-based editorial synthesis**

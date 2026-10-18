@@ -6,6 +6,12 @@ permalink: /DEDDA/
 date: 2026-10-17
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DEDDA.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # DEDDA
 
 > **Deep Ethical Drift Detector App** concept: a personal, deep-ethical A.I. third-party assistant/mediator app to keep correspondence mutually authentic, deep ethical & on point, without sidetracking into endless phantom claims that need repair.

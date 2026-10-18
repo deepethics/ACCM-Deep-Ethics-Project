@@ -6,6 +6,12 @@ permalink: /EXPERIMENTS/Connor-Leahy/
 date: 2026-10-17
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/Connor-Leahy/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-Connor-Leahy.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Connor Leahy
 
 > **A high-reach A.I. expert and policy advocate analyzed as an example of how key people's reasoning can be inspected through the configurable DEDDA system—without turning agreement, disagreement, fame, or urgency into the verdict.**

@@ -5,6 +5,12 @@ description: "Full PDF report on the origins, structure, correction history, and
 permalink: /REPORTS/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/REPORTS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Origins of 11+1 Mass Psychology Clusters
 
 This full report follows the development of the ACCM Deep Ethics Project’s eleven distortion clusters and the +1 correspondence-restoring field. It preserves the distinction between the original 1–107 architecture, the distributed 108–137 refinements, Item 111 as a cross-field guardrail, and Items 138–140 as operators that explicitly operationalize the +1.

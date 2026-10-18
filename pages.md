@@ -5,6 +5,12 @@ description: "Public pages grouped by how load-bearing they are for the topologi
 permalink: /PAGES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PAGES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Explore the ACCM Deep Ethics Project
 
 The clusters below are a reading order. A higher cluster carries more of the topological taxonomy. Inside a cluster, earlier pages carry more of that cluster.

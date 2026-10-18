@@ -5,6 +5,12 @@ description: "A deeper introduction to the ACCM Deep Ethics Project, corresponde
 permalink: /DEEPER-INTRODUCTION/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DEEPER-INTRODUCTION.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # A Deeper Introduction — Before the Verdict
 
 > **BETA — DRAFT — A GROWING PAGE**

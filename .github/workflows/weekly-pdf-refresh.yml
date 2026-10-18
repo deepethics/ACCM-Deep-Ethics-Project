@@ -30,7 +30,9 @@ jobs:
           sudo apt-get install --yes pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core poppler-utils
 
       - name: Regenerate every indexed PDF
-        run: python .github/scripts/export_all_page_pdfs.py
+        run: |
+          python .github/scripts/update_source_format_links.py
+          python .github/scripts/export_all_page_pdfs.py
 
       - name: Refresh index, checksums, archive, and release metadata
         run: |
@@ -47,6 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
           git add Deep-Ethical-PDFs/*.pdf \
             Deep-Ethical-PDFs/BUILD-REPORT.txt \
             Deep-Ethical-PDFs/PDF-INDEX.csv \

@@ -4,6 +4,12 @@ title: "Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, a
 permalink: /EXPERIMENTS/inspect-the-inspector/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-inspect-the-inspector.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Inspecting the Inspector
 
 

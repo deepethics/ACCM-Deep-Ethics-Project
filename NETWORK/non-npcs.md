@@ -5,6 +5,12 @@ description: "John Kuhles’s non-NPC concept reconstructed as a temporary, self
 permalink: /NETWORK/non-npcs/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/non-npcs/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-non-npcs.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # non-NPCs
 
 **BETA — public-facing reconstruction from a living source archive**

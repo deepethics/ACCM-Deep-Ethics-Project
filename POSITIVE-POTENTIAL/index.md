@@ -5,6 +5,12 @@ description: "Human and multi-A.I. quotations on emerging potential, premature c
 permalink: /POSITIVE-POTENTIAL/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/POSITIVE-POTENTIAL.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Before the Next Tesla Has a Name
 
 > **BETA / DERIVED MULTI-VOICE PAGE — quotations do not equal consensus or canon**

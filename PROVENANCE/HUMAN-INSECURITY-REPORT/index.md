@@ -5,6 +5,12 @@ description: "Access states, file fingerprints, transformation boundaries, speak
 permalink: /PROVENANCE/HUMAN-INSECURITY-REPORT/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PROVENANCE-HUMAN-INSECURITY-REPORT.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Human Insecurity Report — Source and Audit Record
 
 > **PROVENANCE LEDGER / CORRIGIBLE — this record identifies what the report used, what it did not possess, and how later auditors can compare the transformation**

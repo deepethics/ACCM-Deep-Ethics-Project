@@ -4,6 +4,12 @@ title: "John’s process object — mirroring, 10 as glue, humor as carrier"
 permalink: /NETWORK/john-process-object/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-john-process-object.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # John’s process object — mirroring, 10 as glue, humor as carrier
 
 > **BETA — source object first. Representation after. Not a diagnosis. Not a 12th ingredient.**

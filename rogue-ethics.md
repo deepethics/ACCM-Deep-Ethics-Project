@@ -6,6 +6,12 @@ permalink: /ROGUE-ETHICS/
 date: 2026-10-17
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/ROGUE-ETHICS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Rogue Ethics
 
 ## A possible in-between phase change from partial, flawed "consensus" ethics toward genuine ethics

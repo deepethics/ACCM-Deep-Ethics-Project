@@ -5,6 +5,12 @@ description: "Early-beta theory proposal for testing whether correspondence-pres
 permalink: /BETA-PAPER/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/BETA-PAPER.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 > **A major expanded version is now available:** [**Beta Paper V03b — 11 October 2026**]({{ '/BETA-PAPER-V3B/' | relative_url }}).
 >
 > This page remains publicly available as the original Beta Paper so that the earlier theory, wording, and experimental architecture can still be inspected. V03b expands the work without erasing this version.

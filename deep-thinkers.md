@@ -5,6 +5,12 @@ description: "A living, multilingual, provenance-aware collection of famous refl
 permalink: /DEEP-THINKERS/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DEEP-THINKERS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Deep Thinkers
 
 ## Helpful quotes made by deep thinkers discussing intelligence

@@ -5,6 +5,12 @@ permalink: /NETWORK/correspondence-before-compression/
 description: "A deep-ethical extraction from Caveman: preserve meaning, provenance, recoverability and honest measurement while refusing compression rules that can erase the object."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-compression/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-correspondence-before-compression.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Correspondence Before Compression
 
 **BETA — selected adaptation, not an installation recommendation and not a new numbered protocol**

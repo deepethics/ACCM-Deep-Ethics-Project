@@ -4,6 +4,12 @@ title: "What the Dicks transcript is trying to convey (representation, not verdi
 permalink: /EXPERIMENTS/dicks-independent-representation/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXPERIMENTS-dicks-independent-representation.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # What the Dicks transcript is trying to convey
 
 > **Representation only. Not agreement. Not disagreement. Not a “looks like / sounds like.”**

@@ -5,6 +5,12 @@ description: "Scientific foundations of Model Autophagy Disorder and model colla
 permalink: /NETWORK/model-autophagy-disorder/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-model-autophagy-disorder.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Model Autophagy Disorder (MAD)
 
 **Established science, a deeper correspondence question, and a testable extension from the ACCM Deep Ethics Project**

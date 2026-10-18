@@ -5,6 +5,12 @@ description: "An in-depth ACCM Deep Ethics Project report on self-image, ambigui
 permalink: /HUMAN-INSECURITY/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/HUMAN-INSECURITY.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Human Insecurity, LLMs, Psychology & Mass Psychology
 
 > **BETA / DERIVED IN-DEPTH REPORT — John Kuhles’s working model, A.I.-assisted synthesis, neighboring research, proposed tests, and unresolved questions remain visibly distinct**

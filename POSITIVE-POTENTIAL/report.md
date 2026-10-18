@@ -5,6 +5,12 @@ description: "A deeper report on A.I., unfamiliar high-signal contributions, dev
 permalink: /POSITIVE-POTENTIAL/REPORT/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/POSITIVE-POTENTIAL-REPORT.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Emerging Human Potential, Premature Closure, and the T0 → Tn Record
 
 > **BETA / DERIVED REPORT — the supplied multi-A.I. exchange is the source object; this report is an attributed synthesis**

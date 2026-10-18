@@ -5,6 +5,12 @@ description: "A portable, identity-free method: an external audit is immediately
 permalink: /EXTERNAL-AUDIT/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/EXTERNAL-AUDIT.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # External Omnidirectional Auditing Mannerisms
 
 > **PUBLIC DRAFT — a method, not a finished taxonomy.**  

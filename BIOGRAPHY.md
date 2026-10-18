@@ -5,6 +5,12 @@ description: "John Kuhles' biography and the formative conditions behind the sta
 permalink: /BIOGRAPHY/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/BIOGRAPHY.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project
 
 > **Public working biography — September 2026**  

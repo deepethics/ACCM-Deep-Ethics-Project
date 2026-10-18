@@ -4,6 +4,12 @@ title: "Gravity-Well Trajectory and Representation Substitution"
 permalink: /NETWORK/gravity-well/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-gravity-well.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Gravity-Well Trajectory and Representation Substitution
 
 **BETA — source-based editorial synthesis**

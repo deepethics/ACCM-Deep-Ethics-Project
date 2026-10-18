@@ -5,6 +5,12 @@ description: "John Kuhles’s perspective on Thinking, Consciousness, Awareness,
 permalink: /NETWORK/tcoaw/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-tcoaw.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # TCoAw as Conceptual Topological Reasoning
 
 > **STATUS AND AUTHORSHIP — This page presents John Kuhles’s perspective. TCoAw is a corrigible conceptual and topological model for understanding how John experiences and organizes part of his reasoning. It is not offered as an absolute account of mind, evidence or proof of quantum consciousness, a neurological theory, a clinical model, or a universal description of people with an NDE or Asperger’s.**

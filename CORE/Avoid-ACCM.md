@@ -5,6 +5,12 @@ permalink: /CORE/Avoid-ACCM/
 description: "Canonical naming note: ACCM Deep Ethics Project is the project title; ACCM is contextual shorthand, not a replacement name."
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/CORE-Avoid-ACCM.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Avoid ACCM 😄
 
 > **Canonical naming note for the ACCM Deep Ethics Project**

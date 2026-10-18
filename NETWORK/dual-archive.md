@@ -4,6 +4,12 @@ title: "The Dual Archive — Failures and Successful Correspondence"
 permalink: /NETWORK/dual-archive/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-dual-archive.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # The Dual Archive — Failures and Successful Correspondence
 
 **BETA — source-based editorial synthesis**

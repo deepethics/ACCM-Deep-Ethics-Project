@@ -5,6 +5,12 @@ description: "A pragmatic front door to the ACCM Deep Ethics Project: one questi
 permalink: /IF-YOU-ARE-NEW/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/IF-YOU-ARE-NEW.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # If your work depends on not losing the object
 
 > **BETA — DRAFT — A FRONT DOOR**

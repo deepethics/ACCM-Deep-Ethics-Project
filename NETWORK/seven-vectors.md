@@ -4,6 +4,12 @@ title: "Seven Topological Nodes / Vectors — Fused as One"
 permalink: /NETWORK/seven-vectors/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-seven-vectors.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Seven Topological Nodes / Vectors — Fused as One
 
 **BETA — source-based editorial synthesis**

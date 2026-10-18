@@ -4,6 +4,12 @@ title: "AI Trend Watch — Reusable Report Template"
 permalink: /AI-TREND-WATCH/report-template/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/AI-TREND-WATCH-report-template.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Reusable report template
 
 Copy this structure for a selected [AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/) object. Remove instructional text from the published report.

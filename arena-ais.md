@@ -5,6 +5,12 @@ description: "Two years, 6,500+ hours, 100+ A.I.s, the 27+12, and a worldwide co
 permalink: /ARENA-AIS/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/ARENA-AIS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Arena A.I.s
 
 ## From 100+ recurring issues to the 27+12—and from isolated answers to an attributed worldwide contribution field
