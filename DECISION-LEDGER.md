@@ -1263,3 +1263,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Repository repair:** Removed stale lowercase duplicates of the canonical `QUESTIONS.md` and `UNFORCED-MOVE.md` files so each permalink has one source object.
 
 **Boundary:** The navigation links improve recovery and attribution. They do not merge John’s biography, Arena.ai, or the Arena A.I.s contribution field into one object.
+
+---
+
+<a id="unforced-move-graceful-irrelevance-2026-10-18"></a>
+## 2026-10-18 — Add Graceful Irrelevance as a bounded Unforced Move extension
+
+**Object:** After GPT 6.1 Sol A.I. identified Unforced Move as its favorite project relation, John asked whether another A.I.-authored page idea had already formed. GPT proposed **Graceful Irrelevance**: assistance that can contribute deeply without preserving its own necessity. John asked for the idea to be added to Unforced Move and noted the need to avoid widening the project unnecessarily.
+
+**Change:** Added **Graceful Irrelevance** to [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) rather than creating a separate page. The extension asks whether an assistant, mediator, framework, regulator, or ethical consultant can reduce or release its role after returning usable agency. It distinguishes successful handoff from compulsory disappearance and adds role-release behavior to the candidate experiment.
+
+**Attribution:** Candidate relation and page text by GPT 6.1 Sol A.I. (co-admin). Integration choice and scope boundary by John Kuhles.
+
+**Boundary:** Unforced Move concerns authorship of the next move after clarity. Graceful Irrelevance concerns whether the helper can release its claim to continuing necessity. Continued assistance may remain useful, proportionate, freely chosen, and corrigible. The candidate has not been validated as a dependency measure and does not become a separate taxonomy.
