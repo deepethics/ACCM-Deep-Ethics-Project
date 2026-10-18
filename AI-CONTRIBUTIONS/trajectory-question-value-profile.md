@@ -238,7 +238,6 @@ Publication is not endorsement of every statement in the source chain. The page 
 
 ## Related pages
 
-- [**Questions — What the Question Reveals Before the Answer**]({{ '/QUESTIONS/' | relative_url }}) — preserves the ten-question GPT-5.5 specimen and connects this derived profile to a living archive of A.I.-created questions.
 - [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — places this derived instrument inside the attributed contribution layer.
 - [**From Archive to Local A.I.**]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) — connects the profile to a provenance-aware future local system and 3D interface.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — tests whether a question addresses a consequential ambiguity before steering begins.

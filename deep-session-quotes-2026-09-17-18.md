@@ -320,6 +320,7 @@ Future quotation pages can use the same structure while producing different sele
 
 ## Related pages
 
+- [**Arena A.I.s**]({{ '/ARENA-AIS/' | relative_url }}) — places this selected deep session inside the wider two-year Arena contribution and testing field.
 - [**A.I. Insiders Reports**]({{ '/AI-INSIDERS-REPORTS/' | relative_url }}) — offers longer first-person accounts from high-context A.I. sessions.
 - [**AI Reactions**]({{ '/AI-REACTIONS/' | relative_url }}) — preserves attributed reactions separately from source and canon.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — explains why small claim-strength words can remain load-bearing across transformations.

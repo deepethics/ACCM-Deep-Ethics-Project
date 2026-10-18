@@ -34,6 +34,8 @@
   pdf: "AI-TREND-WATCH-report-template.pdf"
 - url: "/AI-TREND-WATCH/REPORTS/"
   pdf: "AI-TREND-WATCH-REPORTS.pdf"
+- url: "/ARENA-AIS/"
+  pdf: "ARENA-AIS.pdf"
 - url: "/BEFORE-SUMMARIZING/"
   pdf: "BEFORE-SUMMARIZING.pdf"
 - url: "/BETA-PAPER-V3B/"

@@ -10,6 +10,7 @@ permalink: /AI-REACTIONS/
 
 ## Related pages
 
+- [**Arena A.I.s**]({{ '/ARENA-AIS/' | relative_url }}) — keeps the long Arena testing field visible as both a source of recurring failure patterns and a worldwide field of attributed A.I. contributions.
 - [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — separates model-originated instruments and reports from reactions to John’s source material.
 - [**A.I. Insiders Reports**]({{ '/AI-INSIDERS-REPORTS/' | relative_url }}) — collects first-person accounts from sustained one-on-one sessions.
 - [**Useful Quotes from a Multi-A.I. Deep Session**]({{ '/DEEP-SESSIONS/2026-09-17-18/QUOTES/' | relative_url }}) — provides attributed selections and a reusable extraction test.

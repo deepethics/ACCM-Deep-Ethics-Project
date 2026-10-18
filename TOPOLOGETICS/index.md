@@ -2343,7 +2343,6 @@ And the shortest safe boundary currently available is:
 
 ## Related pages
 
-- [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — keeps the available next moves, authorization, agency delta, and reopening route inside the temporal signature.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — tests whether a coined handle retrieves a relation-preserving operation, survives debranding, and remains answerable to its source topology.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows the preserved topology across later evidence, treatment, and the next comparable case.
 - [**Deep**]({{ '/DEEP/' | relative_url }}) — the live correction dialogue and search-summary paradox from which the method emerged.

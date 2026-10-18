@@ -682,7 +682,6 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 
 ## Related pages
 
-- [**Questions — What the Question Reveals Before the Answer**]({{ '/QUESTIONS/' | relative_url }}) — keeps question quality, hidden premises, causal influence, valid nulls, and later transfer inside one living specimen archive.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — supplies the clarification/intervention distinction from which Clarification Authority develops.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — separates acquisition, propagation, transfer, and persistence after a correction enters governance.
 - [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — identifies existing mechanisms that may participate without turning Clarification Authority into obstruction #28.

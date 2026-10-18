@@ -174,6 +174,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Useful quotations and why they matter</strong>
     <span>John and participating A.I.s, direct links to the canonical record, and a reusable test of what later systems choose to extract.</span>
   </a>
+  <a class="accm-door" href="{{ '/ARENA-AIS/' | relative_url }}">
+    <span class="accm-door-kicker">100+ A.I.s · 6,500+ hours · failures and contributions</span>
+    <strong>Arena A.I.s</strong>
+    <span>The worldwide multi-model field that helped shape the 27+12 while contributing questions, corrections, instruments, humor, and new relations that remain attributed and corrigible.</span>
+  </a>
   <a class="accm-door" href="{{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}">
     <span class="accm-door-kicker">Local A.I. preparation</span>
     <strong>Has the model learned to walk?</strong>

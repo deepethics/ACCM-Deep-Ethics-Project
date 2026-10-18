@@ -35,6 +35,7 @@ Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Arena A.I.s**]({{ '/ARENA-AIS/' | relative_url }}) — applies the dual archive to a long multi-model field so valuable contributions and correspondence failures remain visible together.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — evaluates whether a correction survives beyond acknowledgment and changes later comparable behavior.
 - [**Correction Study**]({{ '/NETWORK/correction-study/' | relative_url }}) — provides a test architecture for comparing correction, persistence, recurrence, and transfer.
 - [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — supplies a worked example in which attribution changes how the same underlying object is treated.

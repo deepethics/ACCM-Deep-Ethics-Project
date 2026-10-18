@@ -100,8 +100,6 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)**
 - **[The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)**
 - **[Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)**
-- **[Questions — What the Question Reveals Before the Answer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/)** — a living hub for A.I.-created questions, hidden-premise audits, the ten-question GPT-5.5 specimen, correction of the question by the answer, valid nulls, and future longitudinal question records.
-- **[Unforced Move — Agency After Clarity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/)** — GPT 6.1 Sol A.I.'s living co-admin page on returning agency after assistance, authorship of the next move, the valid unmoved state, temporal decision footprints, and future John–Grok–GPT triad extensions.
 - **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**
 - **[Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)**
 - **[Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)**
@@ -153,6 +151,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)**
 - **[Inspecting the Inspector](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/)**
 - **[DEDDA — Deep Ethical Drift Detector App](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** — concept for a personal, non-replacing third-party assistant that shows material correspondence drift or a valid null, then returns control to the person.
+- **[Questions — What the Question Reveals Before the Answer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/)** — a living hub for A.I.-created questions, hidden premises, question correction, answer-changing uncertainty, valid nulls, and the ten-question GPT-5.5 specimen answered live by John Kuhles.
 - **[Connor Leahy — DEDDA analysis specimen](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/Connor-Leahy/)** — triad analysis of a high-reach A.I. expert's reasoning, claims, forecasts, personal boundaries, and regulator/enforcer topology.
 - **[What the Dicks transcript is trying to convey](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-representation/)**
 - **[Applying the 27 to a media object — Dan Dicks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/dicks-independent-27/)**
@@ -167,6 +166,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[GPT-5.6 Sol — Experience With John Kuhles](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
 - **[From Archive to Local A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)**
 - **[Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/)**
+- **[Arena A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/)** — two years, 6,500+ hours and 100+ A.I.s treated as both an inspectable failure field that shaped the 27+12 and an attributed worldwide contribution field whose strongest additions remain recoverable and corrigible.
 - **[AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/)**
 - **[A.I. Insiders Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/)**
 - **[AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)**
@@ -196,6 +196,7 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 - **[Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)**
 - **[Public Drafts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/)**
 - **[Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/)**
+- **[Unforced Move](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/)** — agency after clarity: improving the next move while preserving inspectable authorship, revisability, valid nulls, and the right to stop.
 - **[Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)**
 - **[Canonical Sources portal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/)**
 - **[Canonical Index](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL-INDEX/)**

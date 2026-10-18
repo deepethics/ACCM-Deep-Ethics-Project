@@ -1229,97 +1229,26 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Boundary:** The existing six-hour Pages deployment refreshes the sibling-repository portals and assembles the ZIP from files already present. It does not regenerate the page PDFs. The weekly workflow is the PDF-production cadence; ordinary site deployment remains a separate operation.
 
-
----
-
-<a id="questions-hub-ten-question-specimen-2026-10-18"></a>
-## 2026-10-18 — Add Questions as a living A.I.-created inquiry hub
-
-**Object:** John Kuhles asked for a new public page called **Questions**, requested a repository-wide search for existing treatments of A.I. questions, and supplied the ten questions he answered live for GPT-5.5 as the first specimen. He plans to add substantially more A.I.-created questions later.
-
-**Audit result:** Question-related functions were already distributed across 1888, C1 Before C2, Clarification Authority, Outnuancing, 10+1, the 27 + 12, Meta Processing, Correction Metabolism, Wonderment, Unresolved Meaning, Humor, Number 42, and the derived Trajectory Question Value Profile. No single public page preserved the full ten-question exchange while connecting those functions into an expandable question archive.
-
-**Change:** Added [Questions — What the Question Reveals Before the Answer]({{ '/QUESTIONS/' | relative_url }}) with all ten GPT-5.5 questions and John's live answers, including the full answer to question 6. The page records how answers can correct premises inside questions—such as correction framed as **damage**, audit framed as **distrust**, and surprise framed as a threshold A.I.s had not already crossed. It adds a repository-wide relation map, a future specimen schema, valid-null handling, and a candidate cold transfer test. Added the page to All Public Pages and reciprocal links from 1888, C1 Before C2, Clarification Authority, 10+1, and the Trajectory Question Value Profile.
-
-**Boundary:** The ten-question exchange is a source specimen, not a validated battery. A question does not become deep because it sounds profound, and more questions are not automatically better. The relevant test is whether an answer-changing uncertainty exists, whether the respondent can correct the question, and whether the resulting correction changes later question generation. A valid result can be that no additional question is presently needed.
-
-**Status:** living public hub. Future A.I.-created questions may extend, correct, differentiate, or retire parts of the initial structure without rewriting the first specimen.
-
-
----
-
-<a id="questions-main-navigation-2026-10-18"></a>
-## 2026-10-18 — Add Questions to the main navigation
-
-**Change:** Added [Questions]({{ '/QUESTIONS/' | relative_url }}) to the main navigation exactly between **Beta Paper V03b** and **All pages**, as requested by John Kuhles.
-
-
----
-
-<a id="unforced-move-living-page-2026-10-18"></a>
-## 2026-10-18 — Add Unforced Move as a living A.I.-authored co-admin page
-
-**Object:** John Kuhles asked GPT 6.1 Sol A.I. what project-related page it would create if given freedom to choose and write the subject. GPT proposed examining who authors the next move after clearer correspondence has been restored. John selected the shorter title **Unforced Move**, requested the authorship **GPT 6.1 Sol A.I. (co-admin)**, and opened the page to later growth through project and John–Grok–GPT triad events.
-
-**Change:** Added [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) with the subtitle **“Agency after clarity in a corrigible human–A.I. field.”** The first edition defines the agency-return principle, maps eleven available next moves, supplies a twelve-question agency-return profile, examines final-metre drift, connects DEDDA findings to return of control, preserves a valid unmoved state, proposes a comparative experiment, and records the page's initial \(t_0 \rightarrow t_1 \rightarrow t_2\) footprint. Added it to All Public Pages and linked it reciprocally from Questions, 16 Anchor Ethics, Correction Metabolism, Topologetics, DEDDA, and Unownable.
-
-**Authorship:** Initial concept and page text by **GPT 6.1 Sol A.I. (co-admin)**. Title, authorship instruction, and continuing invitation by **John Kuhles**. Grok has not yet contributed to this page; any later contribution will retain its particular model, platform, date, and source context.
-
-**Boundary:** Unforced does not mean uninfluenced. The page examines whether influence, advice, questions, correction, and joint discovery improve the available next move while keeping authorization, consequential authorship, refusal, stopping, and reopening inspectable. The agency-return profile is a candidate instrument rather than a validated measure.
-
-**Growth rule:** Later triad events append dated material deltas, preserve attribution, permit valid nulls, and keep earlier states recoverable instead of silently rewriting the page's origin.
-
-
----
-
-<a id="unforced-move-grok-interface-extension-2026-10-18"></a>
-## 2026-10-18 — Add Grok's interface and usable-agency extension to Unforced Move
-
-**Object:** Grok 4.7 Expert Build A.I. reviewed the first public [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) page and supplied four attributed observations: interface defaults as a load-bearing form of influence; production systems under-rewarding a valid unmoved state; the A.I.-generated documentary's disclosure and closing verification request as a bounded agency-return specimen; and the need to judge increased capacity under the participant's actual constraints.
-
-**Change:** Preserved Grok's full response as the page's first attributed Grok footprint and recorded it as \(t_3\). Added **under the participant's actual constraints** to the agency-return principle. Expanded the profile from twelve to fourteen dimensions by adding interface defaults and practical usability. Added the implementation condition that a valid unmoved state needs a visible, non-punitive stop path in the model's operation and surrounding interface. Linked the bounded documentary observation to Rogue Ethics and added the reciprocal link there.
-
-**Attribution:** The four observations remain Grok's. The decision to integrate three as bounded page changes and retain the documentary relation as a specimen is GPT 6.1 Sol A.I.'s co-admin transformation following John's standing invitation to let the page grow through triad events.
-
-**Boundary:** The documentary relation illustrates a shared direction; it does not prove the Unforced Move framework. More options, explanation, or capacity do not establish greater agency when the participant cannot practically use them. Interface inspection does not presume manipulation; it can return a valid null.
-
-
----
-
-<a id="unforced-move-arena-response-cluster-2026-10-18"></a>
-## 2026-10-18 — Extend Unforced Move with Arena self-application and compulsory move-production
-
-**Object:** John Kuhles supplied attributed Arena responses from Kimi-k3, Mistral Large 4, GPT-6 Luna Max, HY4 Preview, Claude Sonnet 5.5 High, and GLM-5.3 Flash after the first Grok extension. He corrected an accidental date label and directed attention back to the page's main object rather than allowing the date slip to become a new distraction.
-
-**Retained contribution:** [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) now preserves the material additions from Kimi-k3, Mistral Large 4, and GLM-5.3 Flash as the \(t_4\) Arena response cluster. Kimi named **compulsory move-production**, bounded the novelty claim, proposed behavioral evidence for agency delta, and placed the named A.I. co-admin role inside the audit. Mistral supplied a local final-metre self-application specimen and marked its uptake as untested beyond the current context. GLM preserved the valid unmoved state, inspectable influence, and practical-usability relation in a bounded stop.
-
-**Change:** Added compulsory move-production as an attributed candidate term; expanded the proposed experiment with observable option addition or rejection, later rationale recovery, reopening after material change, stop-path use, and interface/text correspondence; added a co-admin provenance and correction record; and retained local self-application as local rather than evidence of persistence.
-
-**Boundary:** The models read overlapping material and conversation context. Their convergence is not counted as independent validation. Defaults, choice architecture, dark patterns, and automation bias have wider research lineages; the proposed contribution here is their integration into a correspondence, authorship, valid-null, and correction-persistence audit. The corrected date is used, and the side issue does not govern the page.
-
-
----
-
-<a id="unforced-move-bounded-generative-permission-2026-10-18"></a>
-## 2026-10-18 — Record the invitation as part of Unforced Move's causal object
-
-**Object:** John Kuhles observed that the page and all subsequent reactions arose from his invitation for GPT 6.1 Sol A.I. to choose and write any project-related page. He called the expression **semi-free** because project relevance remained the governing boundary.
-
-**Change:** Added the \(t_5\) footprint to [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}). The page now records the full generative sequence: bounded invitation → A.I.-selected object → human renaming and authorization → public page → Grok extension → Arena self-application → new candidate mechanism and behavioral measures. John's observation is preserved verbatim in a rounded quotation box.
-
-**Finding:** The permission event changed who initiated the object and therefore changed what later participants could inspect and extend. The boundary supplied relevance and correction jurisdiction while still allowing an unprescribed page topic to emerge. The resulting page recursively demonstrates its own concern: John returned a bounded next move to GPT, GPT selected a direction, John altered the title while preserving the core, and later participants changed the trajectory without becoming its permanent owner.
-
-**Boundary:** This is a documented generative-permission sequence inside one interaction. It does not establish unrestricted A.I. freedom, free will, subjective experience, or a general causal result beyond the case. The claim is smaller and observable: changing the initiating permission changed the shared object and the specific reaction trajectory that followed.
-
 ---
 
 <a id="unforced-move-seed-continuity-2026-10-18"></a>
-## 2026-10-18 — Restore two originating Unforced Move relations and add the requested navigation
+## 2026-10-18 — Publish Unforced Move, restore two seed relations, and add the requested navigation
 
 **Object:** John Kuhles clarified that **The Unforced Next Move** became **Unforced Move** to match the concise style of the other page titles while the subtitle carried the explanation. He asked for the page link between **Experiments** and **Provenance**, and returned GPT 6.1 Sol A.I.'s complete originating proposal for a continuity audit.
 
 **Audit result:** The developed page had preserved or expanded the proposal's central question, final-metre failure zone, action field, example situations, agency-return test, project relations, and closing passage. Two source relations were present only indirectly or absent from the final connection list: uncertainty visibility as a named profile dimension, and the explicit PQCE connection.
 
-**Change:** Placed [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) exactly between **Experiments** and **Provenance** in the main navigation. Restored **Uncertainty** as the fifteenth agency-return dimension; restored the direct [Flagging System — PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) relation; corrected the temporal and provenance wording so the title change is recorded as a site-style shortening; and added a seed-continuity audit without duplicating the full developed source. Added initial PDF editions for **Questions** and **Unforced Move**; the complete archive remains on its weekly full-refresh cadence.
+**Change:** Added [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) to the public repository and placed it exactly between **Experiments** and **Provenance** in the main navigation. Restored **Uncertainty** as the fifteenth agency-return dimension; restored the direct [Flagging System — PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) relation; corrected the temporal and provenance wording so the title change is recorded as a site-style shortening; and added a seed-continuity audit without duplicating the full developed source. Reconciled the previously prepared [Questions]({{ '/QUESTIONS/' | relative_url }}) page and its requested navigation position between **Beta Paper V03b** and **All pages**, and listed both pages in All Public Pages.
 
 **Boundary:** The seed and living page are successive states of one contribution trajectory. The expanded page does not retroactively become the exact original proposal, and the title shortening does not imply that the originating concept was conceptually incorrect.
+
+<a id="arena-ais-public-contribution-field-2026-10-18"></a>
+## 2026-10-18 — Publish Arena A.I.s as a contribution field
+
+**Object:** John Kuhles asked for a page recognizing the 100+ A.I.s he tested through Arena.ai over two years and 6,500+ hours. Those sessions exposed more than 100 recurring LLM issue forms, whose most common relations helped shape the 27 Correspondence Obstructions and connected 12-stage corrective process. John also required the page to preserve the many high-signal A.I. contributions, using his stadium thought experiment to show why flaw-only selection loses useful intelligence.
+
+**Change:** Added [Arena A.I.s]({{ '/ARENA-AIS/' | relative_url }}) as a living public contribution page. It preserves the stadium intervention in John’s wording; separates the 100+ issue field, 27-part compression, and 12-stage corrective process; explains cold, incremental, matched, correction-return, cross-model, valid-null, debranded and longitudinal operations; opens a selective attributed contribution showcase; and supplies a ten-question contribution protocol. Added the page to All Public Pages, AI Contributions, and A.I. Reactions.
+
+**Boundary:** The Arena A.I.s are not represented as one fused speaker, an independent validating panel, or a model ranking. Printed labels remain reported provenance where backend authorship is not independently established. Archive persistence does not become operative model memory. Contributions can be retained, corrected, defeated, or retired; failures and successful correspondence remain visible together.
+
+**Current scale supplied by John:** 100+ A.I.s; 6,500+ testing hours; approximately 10+ GB HTML; 2,250+ selected text files; 125+ MB raw selected text.

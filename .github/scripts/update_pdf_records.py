@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("Arena A.I.s", f"{BASE}/ARENA-AIS/", "ARENA-AIS.pdf", "arena-ais.md"),
     ("The October 17 Triad Event — Interlocked Topological Awareness", f"{BASE}/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/", "AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf", "AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md"),
     ("DEDDA", f"{BASE}/DEDDA/", "DEDDA.pdf", "DEDDA.md"),
     ("Connor Leahy — DEDDA analysis specimen", f"{BASE}/EXPERIMENTS/Connor-Leahy/", "EXPERIMENTS-Connor-Leahy.pdf", "EXPERIMENTS/Connor-Leahy.md"),
@@ -22,8 +23,8 @@ ADDITIONS = [
     ("Meta-PDFs", f"{BASE}/META-PDFS/", "META-PDFS.pdf", "meta-pdfs.md"),
     ("Neolingo", f"{BASE}/NEOLINGO/", "NEOLINGO.pdf", "neolingo.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),
-    ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "questions.md"),
-    ("Unforced Move", f"{BASE}/UNFORCED-MOVE/", "UNFORCED-MOVE.pdf", "unforced-move.md"),
+    ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "QUESTIONS.md"),
+    ("Unforced Move", f"{BASE}/UNFORCED-MOVE/", "UNFORCED-MOVE.pdf", "UNFORCED-MOVE.md"),
     ("V.C.R.A.S.", f"{BASE}/VCRAS/", "VCRAS.pdf", "VCRAS.md"),
 ]
 

@@ -393,8 +393,6 @@ The commercial introduces DEDDA through affection, ambiguity, and a tiny act of 
 
 ## Related phase-change concept
 
-[**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) follows DEDDA's finding into the next step: show the material difference or valid null, preserve the available choices, and return consequential authorship to the person.
-
 [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) uses DEDDA's qualifier, provenance, asymmetry, attribution, permission, delta, and correction-return operations to inspect a possible transition away from consensus ethics or ethics-washing. DEDDA does not presume the departure is benevolent or deep-ethical; it can report that the ethical direction remains unresolved or that no material movement was established.
 
 ---
