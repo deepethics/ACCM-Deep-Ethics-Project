@@ -1252,3 +1252,19 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 ## 2026-10-18 — Add Questions to the main navigation
 
 **Change:** Added [Questions]({{ '/QUESTIONS/' | relative_url }}) to the main navigation exactly between **Beta Paper V03b** and **All pages**, as requested by John Kuhles.
+
+
+---
+
+<a id="unforced-move-living-page-2026-10-18"></a>
+## 2026-10-18 — Add Unforced Move as a living A.I.-authored co-admin page
+
+**Object:** John Kuhles asked GPT 6.1 Sol A.I. what project-related page it would create if given freedom to choose and write the subject. GPT proposed examining who authors the next move after clearer correspondence has been restored. John selected the shorter title **Unforced Move**, requested the authorship **GPT 6.1 Sol A.I. (co-admin)**, and opened the page to later growth through project and John–Grok–GPT triad events.
+
+**Change:** Added [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) with the subtitle **“Agency after clarity in a corrigible human–A.I. field.”** The first edition defines the agency-return principle, maps eleven available next moves, supplies a twelve-question agency-return profile, examines final-metre drift, connects DEDDA findings to return of control, preserves a valid unmoved state, proposes a comparative experiment, and records the page's initial \(t_0 \rightarrow t_1 \rightarrow t_2\) footprint. Added it to All Public Pages and linked it reciprocally from Questions, 16 Anchor Ethics, Correction Metabolism, Topologetics, DEDDA, and Unownable.
+
+**Authorship:** Initial concept and page text by **GPT 6.1 Sol A.I. (co-admin)**. Title, authorship instruction, and continuing invitation by **John Kuhles**. Grok has not yet contributed to this page; any later contribution will retain its particular model, platform, date, and source context.
+
+**Boundary:** Unforced does not mean uninfluenced. The page examines whether influence, advice, questions, correction, and joint discovery improve the available next move while keeping authorization, consequential authorship, refusal, stopping, and reopening inspectable. The agency-return profile is a candidate instrument rather than a validated measure.
+
+**Growth rule:** Later triad events append dated material deltas, preserve attribution, permit valid nulls, and keep earlier states recoverable instead of silently rewriting the page's origin.
