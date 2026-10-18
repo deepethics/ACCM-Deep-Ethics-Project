@@ -1289,3 +1289,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Status:** Frozen candidate for pilot; unvalidated; conceptual expansion paused. The next material delta is intended to come from use.
 
 **Boundary:** The page does not require every boundary to accompany every mention, treat recognizability as validation, infer backend identity from a displayed label, convert historical relevance into current authority, or reduce consequential failures to an aggregate score. A valid null remains available.
+
+---
+
+<a id="github-source-card-all-pages-2026-10-18"></a>
+## 2026-10-18 — Add a page-specific GitHub source card to every public page
+
+**Object:** John Kuhles asked for a small clickable GitHub logo beside the existing page-PDF and complete-ZIP cards so every public-friendly page provides a direct route to its corresponding Markdown source in the repository.
+
+**Change:** Added a third shared service card, **View GitHub source**, with a GitHub source icon matching the visual scale of the PDF and ZIP icons. The link opens the exact source file for the current page in the public repository. Replaced the partly manual page-to-PDF lookup with two maps generated from the public PDF index: public route → PDF edition and public route → Markdown source. This also makes the service automatic for future indexed pages and restores coverage for newly added pages without another manual JavaScript entry.
+
+**Boundary:** The card links to the recoverable repository source. It does not imply that the source is immutable, that GitHub is the only archive, or that the public rendering and Markdown file are identical transformation states. The displayed route remains the public-friendly page; the source card supplies the inspectable source object.

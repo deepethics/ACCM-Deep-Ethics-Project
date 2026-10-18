@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import argparse
+import csv
+import json
 import re
 import subprocess
 from datetime import date
@@ -12,6 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
+PUBLIC_BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 
 
 def total_pages(pdfs: list[Path]) -> int:
@@ -40,6 +43,32 @@ def main() -> None:
 
     js_path = ROOT / "assets" / "page-pdf-download.js"
     js = js_path.read_text(encoding="utf-8")
+
+    with (PDF_DIR / "PDF-INDEX.csv").open(newline="", encoding="utf-8") as stream:
+        rows = list(csv.DictReader(stream))
+
+    def page_key(public_url: str) -> str:
+        route = public_url.removeprefix(PUBLIC_BASE)
+        return route or "/"
+
+    pdf_by_page = {page_key(row["public_url"]): row["pdf_file"] for row in rows}
+    source_by_page = {page_key(row["public_url"]): row["source_file"] for row in rows}
+    js = re.sub(
+        r"const pdfByPage = /\* PDF_MAP_START \*/.*?/\* PDF_MAP_END \*/;",
+        "const pdfByPage = /* PDF_MAP_START */ "
+        + json.dumps(pdf_by_page, ensure_ascii=False, separators=(",", ":"))
+        + " /* PDF_MAP_END */;",
+        js,
+        flags=re.DOTALL,
+    )
+    js = re.sub(
+        r"const sourceByPage = /\* SOURCE_MAP_START \*/.*?/\* SOURCE_MAP_END \*/;",
+        "const sourceByPage = /* SOURCE_MAP_START */ "
+        + json.dumps(source_by_page, ensure_ascii=False, separators=(",", ":"))
+        + " /* SOURCE_MAP_END */;",
+        js,
+        flags=re.DOTALL,
+    )
     js = re.sub(r'const snapshotDate = "[^"]+";', f'const snapshotDate = "{human_date}";', js)
     js = re.sub(
         r"ACCM-Deep-Ethics-Project-All-Public-Pages-\d+-PDFs-\d{4}-\d{2}-\d{2}\.zip",
