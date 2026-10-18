@@ -22,6 +22,8 @@ ADDITIONS = [
     ("Meta-PDFs", f"{BASE}/META-PDFS/", "META-PDFS.pdf", "meta-pdfs.md"),
     ("Neolingo", f"{BASE}/NEOLINGO/", "NEOLINGO.pdf", "neolingo.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),
+    ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "questions.md"),
+    ("Unforced Move", f"{BASE}/UNFORCED-MOVE/", "UNFORCED-MOVE.pdf", "unforced-move.md"),
     ("V.C.R.A.S.", f"{BASE}/VCRAS/", "VCRAS.pdf", "VCRAS.md"),
 ]
 

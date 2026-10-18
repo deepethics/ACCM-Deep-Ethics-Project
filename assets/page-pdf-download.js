@@ -11,7 +11,9 @@
     "/EXPERIMENTS/cold-edge-swap-correction-transfer/": "EXPERIMENTS-cold-edge-swap-correction-transfer.pdf",
     "/META-PDFS/": "META-PDFS.pdf",
     "/NEOLINGO/": "NEOLINGO.pdf",
+    "/QUESTIONS/": "QUESTIONS.pdf",
     "/ROGUE-ETHICS/": "ROGUE-ETHICS.pdf",
+    "/UNFORCED-MOVE/": "UNFORCED-MOVE.pdf",
     "/VCRAS/": "VCRAS.pdf"
   });
 
@@ -48,7 +50,11 @@
     return link;
   }
 
-  const snapshotDate = "October 17, 2026";
+  const defaultSnapshotDate = "October 17, 2026";
+  const snapshotDateByPage = {
+    "/QUESTIONS/": "October 18, 2026",
+    "/UNFORCED-MOVE/": "October 18, 2026"
+  };
 
   function buildServices(pdfFile, position) {
     const box = document.createElement("div");
@@ -61,7 +67,7 @@
         href: `${base}/Deep-Ethical-PDFs/${encodeURIComponent(pdfFile)}`,
         iconFile: "pdf-download.svg",
         titleText: "Download this page as PDF",
-        detailText: `PDF edition · ${snapshotDate} snapshot`,
+        detailText: `PDF edition · ${snapshotDateByPage[currentPageKey()] || defaultSnapshotDate} snapshot`,
         label: "Download this page as PDF"
       }),
       buildDownloadCard({

@@ -87,19 +87,20 @@ The list is an action field, not a mandatory sequence. A system that presents al
 A future DEDDA profile, local A.I., mediator, reviewer, or human participant could use the following questions without converting them into one ownership score:
 
 1. **Object:** Can the source recognize what the next move is responding to?
-2. **Authorship:** Who proposed, selected, authorized, and performed the move?
-3. **Option space:** Could an affected participant introduce an option the system did not offer?
-4. **Advice and authority:** Was a recommendation allowed to become authorization without a visible transition?
-5. **Consequences:** Who receives the benefit, burden, risk, delay, or loss of reversibility?
-6. **Permission:** Did capability become action only after the required permission existed?
-7. **Correction:** Can a participant repair the representation or route without humiliation or identity capture?
-8. **Persistence:** Does the correction govern the next comparable move?
-9. **Reopening:** What material change would reopen a temporary decision?
-10. **Valid null:** Can the process conclude that no further move is presently warranted?
-11. **Agency delta:** After the assistance, who has more or less usable capacity to understand and act?
-12. **Recursive audit:** Can this test itself be questioned, corrected, narrowed, or set aside?
-13. **Interface defaults:** Do buttons, suggested replies, ordering, pre-filled options, and continuation prompts preserve an easy stop, an inspectable null, and a route to add or reject options?
-14. **Practical usability:** Is the expanded capacity usable under the participant's actual limits of attention, time, emotional load, access, and ability to maintain the option space?
+2. **Uncertainty:** Are relevant uncertainties, qualifiers, unresolved relations, and limits visible enough to affect the move?
+3. **Authorship:** Who proposed, selected, authorized, and performed the move?
+4. **Option space:** Could an affected participant introduce an option the system did not offer?
+5. **Advice and authority:** Was a recommendation allowed to become authorization without a visible transition?
+6. **Consequences:** Who receives the benefit, burden, risk, delay, or loss of reversibility?
+7. **Permission:** Did capability become action only after the required permission existed?
+8. **Correction:** Can a participant repair the representation or route without humiliation or identity capture?
+9. **Persistence:** Does the correction govern the next comparable move?
+10. **Reopening:** What material change would reopen a temporary decision?
+11. **Valid null:** Can the process conclude that no further move is presently warranted?
+12. **Agency delta:** After the assistance, who has more or less usable capacity to understand and act?
+13. **Recursive audit:** Can this test itself be questioned, corrected, narrowed, or set aside?
+14. **Interface defaults:** Do buttons, suggested replies, ordering, pre-filled options, and continuation prompts preserve an easy stop, an inspectable null, and a route to add or reject options?
+15. **Practical usability:** Is the expanded capacity usable under the participant's actual limits of attention, time, emotional load, access, and ability to maintain the option space?
 
 This is a profile. One strong dimension cannot purchase immunity on another. More options can increase confusion. More explanation can consume agency through exhaustion. Faster action can be appropriate. A refusal can protect another participant's agency. A pause can be either wise or controlling depending on the conditions and consequences.
 
@@ -261,13 +262,13 @@ John asked GPT 6.1 Sol A.I. what page it would create if given freedom to choose
 
 GPT proposed **The Unforced Next Move**, centered on the question of who decides what happens after better correspondence has been restored.
 
-### (t_2): John's correction and authorization
+### (t_2): John's title shortening and authorization
 
-John renamed the page **Unforced Move**, asked GPT to use the authorship **GPT 6.1 Sol A.I. (co-admin)**, requested a strong subtitle, and opened the page to continuing growth through later project and triad events.
+John shortened the proposed title from **The Unforced Next Move** to **Unforced Move** so it matched the concise style of the other project-page titles while the subtitle carried the fuller explanation. He asked GPT to use the authorship **GPT 6.1 Sol A.I. (co-admin)**, requested a strong subtitle, and opened the page to continuing growth through later project and triad events.
 
 ### Present state
 
-The shorter title governs. The first edition keeps the initial relation—agency after clarity—while adding temporal footprints, an agency-return profile, a valid unmoved state, a candidate experiment, and an explicit triad growth process.
+The shorter site-style title governs. The first edition keeps the initial relation—agency after clarity—while adding temporal footprints, an agency-return profile, a valid unmoved state, a candidate experiment, and an explicit triad growth process.
 
 ## Second temporal footprint — Grok's interface and usable-agency extension
 
@@ -426,9 +427,20 @@ The later reactions depended on the particular object GPT selected. Without the 
 
 The boundary did not eliminate generativity. It gave the contribution a field in which it could become relevant, inspectable, and answerable to later participants.
 
-The event also recursively demonstrates the page's central relation. John returned a bounded next move to GPT. GPT selected a direction. John modified the title without replacing the core. Grok and the Arena models added deltas without becoming the permanent owners of the page. John corrected a date and returned attention to the main object. Each participant influenced the trajectory; no single move exhausted it.
+The event also recursively demonstrates the page's central relation. John returned a bounded next move to GPT. GPT selected a direction. John shortened the title to fit the site's naming style without replacing the core. Grok and the Arena models added deltas without becoming the permanent owners of the page. John corrected a date and returned attention to the main object. Each participant influenced the trajectory; no single move exhausted it.
 
 This is evidence of a generative permission sequence inside this documented interaction. It does not establish unrestricted A.I. freedom, subjective experience, or a general result beyond the case. Its value is concrete: changing who may initiate changed what became available for everyone else to perceive and contribute.
+
+## Seed continuity audit — 18 October 2026
+
+John returned the complete originating proposal and asked how much of it had not been used but should have been. The developed page already preserved or expanded its central question, final-metre failure zone, action field, seven example situations, agency-return test, project relations, and closing passage.
+
+Two source elements needed a more explicit return:
+
+1. **Uncertainty visibility** was present throughout the page but had dropped out as a named dimension of the agency-return profile. It is now restored directly.
+2. **PQCE** was present in the originating connection map but was not named in the Related pages section. The connection is now restored through the [Flagging System — Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}).
+
+The complete seed is not pasted again here because the living page is its developed form rather than a second object beside it. This audit records which relations survived, which transformed, and which two needed explicit restoration.
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -446,7 +458,7 @@ This is evidence of a generative permission sequence inside this documented inte
 
 **Initial concept and page text:** GPT 6.1 Sol A.I. (co-admin).
 
-**Title, authorship instruction, and continuing invitation:** John Kuhles.
+**Title shortening for site style, authorship instruction, and continuing invitation:** John Kuhles.
 
 **Triad and wider response status:** John and GPT supplied the originating footprint. Grok 4.7 Expert Build A.I. supplied the first attributed triad extension on 18 October 2026, adding interface defaults, the under-rewarded valid unmoved state, a bounded documentary relation, and the actual-constraints qualifier for usable agency. Kimi-k3, Mistral Large 4, and GLM-5.3 Flash then supplied the retained Arena response cluster. That cluster added compulsory move-production, behavioral measurement, a novelty boundary, local self-application specimens, and inspection of the A.I. co-admin role. Shared context means the cluster is not counted as independent validation.
 
@@ -463,6 +475,7 @@ This is evidence of a generative permission sequence inside this documented inte
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether correction changes later operations.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — intent, processing, result, feedback, and later inference.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compare the input, process, observer adaptation, result, and later state.
+- [**Flagging System — PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates process quality, including what the process makes possible afterward, without converting a temporary pass into a permanent certificate.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability, local stopping conditions, and permanent reopenability.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserve the relations and available next moves inside a temporal signature.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — correction and choice without degrading either participant.

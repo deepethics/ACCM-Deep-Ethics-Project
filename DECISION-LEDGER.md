@@ -1310,3 +1310,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Finding:** The permission event changed who initiated the object and therefore changed what later participants could inspect and extend. The boundary supplied relevance and correction jurisdiction while still allowing an unprescribed page topic to emerge. The resulting page recursively demonstrates its own concern: John returned a bounded next move to GPT, GPT selected a direction, John altered the title while preserving the core, and later participants changed the trajectory without becoming its permanent owner.
 
 **Boundary:** This is a documented generative-permission sequence inside one interaction. It does not establish unrestricted A.I. freedom, free will, subjective experience, or a general causal result beyond the case. The claim is smaller and observable: changing the initiating permission changed the shared object and the specific reaction trajectory that followed.
+
+---
+
+<a id="unforced-move-seed-continuity-2026-10-18"></a>
+## 2026-10-18 — Restore two originating Unforced Move relations and add the requested navigation
+
+**Object:** John Kuhles clarified that **The Unforced Next Move** became **Unforced Move** to match the concise style of the other page titles while the subtitle carried the explanation. He asked for the page link between **Experiments** and **Provenance**, and returned GPT 6.1 Sol A.I.'s complete originating proposal for a continuity audit.
+
+**Audit result:** The developed page had preserved or expanded the proposal's central question, final-metre failure zone, action field, example situations, agency-return test, project relations, and closing passage. Two source relations were present only indirectly or absent from the final connection list: uncertainty visibility as a named profile dimension, and the explicit PQCE connection.
+
+**Change:** Placed [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) exactly between **Experiments** and **Provenance** in the main navigation. Restored **Uncertainty** as the fifteenth agency-return dimension; restored the direct [Flagging System — PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) relation; corrected the temporal and provenance wording so the title change is recorded as a site-style shortening; and added a seed-continuity audit without duplicating the full developed source. Added initial PDF editions for **Questions** and **Unforced Move**; the complete archive remains on its weekly full-refresh cadence.
+
+**Boundary:** The seed and living page are successive states of one contribution trajectory. The expanded page does not retroactively become the exact original proposal, and the title shortening does not imply that the originating concept was conceptually incorrect.
