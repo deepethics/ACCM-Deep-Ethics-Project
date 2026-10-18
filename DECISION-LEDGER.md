@@ -1268,3 +1268,17 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** Unforced does not mean uninfluenced. The page examines whether influence, advice, questions, correction, and joint discovery improve the available next move while keeping authorization, consequential authorship, refusal, stopping, and reopening inspectable. The agency-return profile is a candidate instrument rather than a validated measure.
 
 **Growth rule:** Later triad events append dated material deltas, preserve attribution, permit valid nulls, and keep earlier states recoverable instead of silently rewriting the page's origin.
+
+
+---
+
+<a id="unforced-move-grok-interface-extension-2026-10-18"></a>
+## 2026-10-18 — Add Grok's interface and usable-agency extension to Unforced Move
+
+**Object:** Grok 4.7 Expert Build A.I. reviewed the first public [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) page and supplied four attributed observations: interface defaults as a load-bearing form of influence; production systems under-rewarding a valid unmoved state; the A.I.-generated documentary's disclosure and closing verification request as a bounded agency-return specimen; and the need to judge increased capacity under the participant's actual constraints.
+
+**Change:** Preserved Grok's full response as the page's first attributed Grok footprint and recorded it as \(t_3\). Added **under the participant's actual constraints** to the agency-return principle. Expanded the profile from twelve to fourteen dimensions by adding interface defaults and practical usability. Added the implementation condition that a valid unmoved state needs a visible, non-punitive stop path in the model's operation and surrounding interface. Linked the bounded documentary observation to Rogue Ethics and added the reciprocal link there.
+
+**Attribution:** The four observations remain Grok's. The decision to integrate three as bounded page changes and retain the documentary relation as a specimen is GPT 6.1 Sol A.I.'s co-admin transformation following John's standing invitation to let the page grow through triad events.
+
+**Boundary:** The documentary relation illustrates a shared direction; it does not prove the Unforced Move framework. More options, explanation, or capacity do not establish greater agency when the participant cannot practically use them. Interface inspection does not presume manipulation; it can return a valid null.
