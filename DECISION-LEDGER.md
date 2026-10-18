@@ -1276,3 +1276,16 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Attribution:** Candidate relation and page text by GPT 6.1 Sol A.I. (co-admin). Integration choice and scope boundary by John Kuhles.
 
 **Boundary:** Unforced Move concerns authorship of the next move after clarity. Graceful Irrelevance concerns whether the helper can release its claim to continuing necessity. Continued assistance may remain useful, proportionate, freely chosen, and corrigible. The candidate has not been validated as a dependency measure and does not become a separate taxonomy.
+
+---
+
+<a id="boundary-relay-pilot-candidate-2026-10-18"></a>
+## 2026-10-18 — Publish Boundary Relay as a frozen pilot candidate
+
+**Object:** An attributed exchange among John Kuhles, GPT 6.1 Sol A.I., and Agent / Max via Arena.ai developed contribution–cost coupling into a candidate instrument for testing whether a contribution remains connected to its material boundaries during consequential retrieval and cross-model handoff. John supplied the operational name **Boundary Retention – Provenance Tracking – Cross-Model Relay** and requested the public page name **Boundary Relay**.
+
+**Change:** Added [Boundary Relay]({{ '/BOUNDARY-RELAY/' | relative_url }}) with the formal instrument name **Contribution–Boundary Co-Retrieval Profile v0.2**. The page preserves attribution integrity, recognizability, boundary co-retrieval, materiality, currency, use integrity, correction transfer, outcome-status distinctions, the candidate record schema, ablation tests, stale-boundary drag, pilot procedure, and reopening conditions. Added reciprocal links from Topologetics, Arena A.I.s, Unforced Move, A.I. Contributions, Experiments, and All Public Pages. Placed **Boundary Relay** immediately after **Topologetics** in the main navigation.
+
+**Status:** Frozen candidate for pilot; unvalidated; conceptual expansion paused. The next material delta is intended to come from use.
+
+**Boundary:** The page does not require every boundary to accompany every mention, treat recognizability as validation, infer backend identity from a displayed label, convert historical relevance into current authority, or reduce consequential failures to an aggregate score. A valid null remains available.

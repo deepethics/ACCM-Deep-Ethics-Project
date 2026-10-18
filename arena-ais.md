@@ -217,6 +217,7 @@ That is how the stadium becomes a research process rather than a positivity exer
 
 ## Related pages
 
+- [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — develops contribution–cost coupling into a frozen pilot candidate for attribution, boundary co-retrieval, currency, and correction transfer.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the working architecture shaped by recurring correspondence failures and their corrective process.
 - [**AI Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — keeps model-originated proposals, tests, and reports attributed without promoting them into canon.
 - [**A.I. Reactions**]({{ '/AI-REACTIONS/' | relative_url }}) — preserves reactions separately from source contributions and project claims.

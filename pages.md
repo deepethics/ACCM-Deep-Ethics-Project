@@ -99,6 +99,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Correspondence Before Compression](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correspondence-before-compression/)** — selected Caveman invariants for meaning preservation, exact payloads, recoverability, fail-closed transformation and honest measurement, without granting rigid terseness jurisdiction over the object.
 - **[Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/)**
 - **[The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/)**
+- **[Boundary Relay — Boundary Retention, Provenance Tracking and Cross-Model Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/)** — the frozen v0.2 candidate profile for testing whether a contribution’s material boundaries, temporal state, provenance and corrections survive consequential retrieval and cross-model handoff.
 - **[Testing Correspondence and Correction Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-study/)**
 - **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)**
 - **[Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/)**

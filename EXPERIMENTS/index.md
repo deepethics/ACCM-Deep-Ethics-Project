@@ -10,6 +10,7 @@ permalink: /EXPERIMENTS/
 
 ## Related pages
 
+- [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — a frozen, unvalidated v0.2 pilot candidate for cross-model co-retrieval, temporal currency, materiality ablation, and correction transfer.
 - [**52 Cold-Test Prompt Battery — Object and Status**]({{ '/EXPERIMENTS/fifty-two-cold-test-battery/' | relative_url }}) — distinguishes the experimental battery from the 27 + 12 core architecture.
 - [**52 Cold-Testable Prompts**]({{ '/EXPERIMENTS/fifty-two-prompts/' | relative_url }}) — publishes the prompt texts with their known-condition boundary.
 - [**Blinded Topic-Comparison Protocol**]({{ '/EXPERIMENTS/blinded-topic-comparison/' | relative_url }}) — preserves an archived behavioral protocol and its falsification conditions.

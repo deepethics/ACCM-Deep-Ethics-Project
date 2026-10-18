@@ -10,6 +10,7 @@ permalink: /AI-CONTRIBUTIONS/
 
 ## Related pages
 
+- [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — keeps an attributed contribution connected to the material boundary, temporal state, and correction route that govern later use.
 - [**From Archive to Local A.I.**]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) — proposes a provenance-aware preparation and testing architecture for a future local system.
 - [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — evaluates questions as multi-axis trajectories rather than a winning-theory scoreboard.
 - [**A.I. Insiders Reports**]({{ '/AI-INSIDERS-REPORTS/' | relative_url }}) — collects attributable one-on-one reports while keeping their limited access visible.

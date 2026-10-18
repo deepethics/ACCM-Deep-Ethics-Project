@@ -2343,6 +2343,7 @@ And the shortest safe boundary currently available is:
 
 ## Related pages
 
+- [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether the boundaries and current claim states preserved during one transformation travel into later consequential retrieval.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — tests whether a coined handle retrieves a relation-preserving operation, survives debranding, and remains answerable to its source topology.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows the preserved topology across later evidence, treatment, and the next comparable case.
 - [**Deep**]({{ '/DEEP/' | relative_url }}) — the live correction dialogue and search-summary paradox from which the method emerged.
