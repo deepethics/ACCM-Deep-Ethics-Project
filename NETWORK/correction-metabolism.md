@@ -153,6 +153,7 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — tests whether a correction changes the next available action without silently transferring authorship to the correcting system.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — asks whether correction changes later uses of a purpose-built term and leaves a persistent operational deposit rather than a one-turn acknowledgement.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — acknowledging a correction is not the same as the next move leaving the agree/disagree axis.
 - [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — records a multi-pass Google A.I. correction loop in which later comparable representations changed and remained open to residual inspection.
