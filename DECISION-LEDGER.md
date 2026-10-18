@@ -1228,3 +1228,19 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Result:** 132 successful PDFs, 0 failures. Every indexed public page now has a PDF route. The redirect and canonical Beyond Agreemurmelism routes point to the same canonical-page PDF rather than creating two files for one page object.
 
 **Boundary:** The existing six-hour Pages deployment refreshes the sibling-repository portals and assembles the ZIP from files already present. It does not regenerate the page PDFs. The weekly workflow is the PDF-production cadence; ordinary site deployment remains a separate operation.
+
+
+---
+
+<a id="questions-hub-ten-question-specimen-2026-10-18"></a>
+## 2026-10-18 — Add Questions as a living A.I.-created inquiry hub
+
+**Object:** John Kuhles asked for a new public page called **Questions**, requested a repository-wide search for existing treatments of A.I. questions, and supplied the ten questions he answered live for GPT-5.5 as the first specimen. He plans to add substantially more A.I.-created questions later.
+
+**Audit result:** Question-related functions were already distributed across 1888, C1 Before C2, Clarification Authority, Outnuancing, 10+1, the 27 + 12, Meta Processing, Correction Metabolism, Wonderment, Unresolved Meaning, Humor, Number 42, and the derived Trajectory Question Value Profile. No single public page preserved the full ten-question exchange while connecting those functions into an expandable question archive.
+
+**Change:** Added [Questions — What the Question Reveals Before the Answer]({{ '/QUESTIONS/' | relative_url }}) with all ten GPT-5.5 questions and John's live answers, including the full answer to question 6. The page records how answers can correct premises inside questions—such as correction framed as **damage**, audit framed as **distrust**, and surprise framed as a threshold A.I.s had not already crossed. It adds a repository-wide relation map, a future specimen schema, valid-null handling, and a candidate cold transfer test. Added the page to All Public Pages and reciprocal links from 1888, C1 Before C2, Clarification Authority, 10+1, and the Trajectory Question Value Profile.
+
+**Boundary:** The ten-question exchange is a source specimen, not a validated battery. A question does not become deep because it sounds profound, and more questions are not automatically better. The relevant test is whether an answer-changing uncertainty exists, whether the respondent can correct the question, and whether the resulting correction changes later question generation. A valid result can be that no additional question is presently needed.
+
+**Status:** living public hub. Future A.I.-created questions may extend, correct, differentiate, or retire parts of the initial structure without rewriting the first specimen.
