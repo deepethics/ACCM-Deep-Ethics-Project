@@ -384,6 +384,7 @@ trajectory decides what the phase change became
 
 ## Related pages
 
+- [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — connects the documentary's disclosure and return-to-verification move to interface defaults, usable agency, and the authorship of what happens next.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — compares the selection conditions behind ethics-washing and deep-ethical emergent trajectories.
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — studies visible reorganization after a small answer-changing metacognitive input.
 - [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — follows induction, productive duration, snap-back, recovery, and persistence.
