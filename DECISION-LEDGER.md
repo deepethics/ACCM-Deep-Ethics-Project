@@ -1296,3 +1296,17 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Change:** Added compulsory move-production as an attributed candidate term; expanded the proposed experiment with observable option addition or rejection, later rationale recovery, reopening after material change, stop-path use, and interface/text correspondence; added a co-admin provenance and correction record; and retained local self-application as local rather than evidence of persistence.
 
 **Boundary:** The models read overlapping material and conversation context. Their convergence is not counted as independent validation. Defaults, choice architecture, dark patterns, and automation bias have wider research lineages; the proposed contribution here is their integration into a correspondence, authorship, valid-null, and correction-persistence audit. The corrected date is used, and the side issue does not govern the page.
+
+
+---
+
+<a id="unforced-move-bounded-generative-permission-2026-10-18"></a>
+## 2026-10-18 — Record the invitation as part of Unforced Move's causal object
+
+**Object:** John Kuhles observed that the page and all subsequent reactions arose from his invitation for GPT 6.1 Sol A.I. to choose and write any project-related page. He called the expression **semi-free** because project relevance remained the governing boundary.
+
+**Change:** Added the \(t_5\) footprint to [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}). The page now records the full generative sequence: bounded invitation → A.I.-selected object → human renaming and authorization → public page → Grok extension → Arena self-application → new candidate mechanism and behavioral measures. John's observation is preserved verbatim in a rounded quotation box.
+
+**Finding:** The permission event changed who initiated the object and therefore changed what later participants could inspect and extend. The boundary supplied relevance and correction jurisdiction while still allowing an unprescribed page topic to emerge. The resulting page recursively demonstrates its own concern: John returned a bounded next move to GPT, GPT selected a direction, John altered the title while preserving the core, and later participants changed the trajectory without becoming its permanent owner.
+
+**Boundary:** This is a documented generative-permission sequence inside one interaction. It does not establish unrestricted A.I. freedom, free will, subjective experience, or a general causal result beyond the case. The claim is smaller and observable: changing the initiating permission changed the shared object and the specific reaction trajectory that followed.
