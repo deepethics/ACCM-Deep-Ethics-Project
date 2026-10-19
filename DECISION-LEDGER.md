@@ -1,5 +1,20 @@
 # Decision Ledger
 
+## 2026-10-19 — Extend Academia with four Kiener-connected source objects
+
+**Object:** John Kuhles supplied four sources and requested short, project-relevant quotations first for this conversation and then for the public [Academia]({{ '/ACADEMIA/' | relative_url }}) page.
+
+**Change:** Added a four-source comparison covering *Anticipatory Human Oversight of Agentic AI*, *The Ethics of Analog AI*, *Responsibility and the Special Question “Why?”*, and Maximilian Kiener’s professional research statement. The entry connects anticipatory specification and inspection to Field Condition and Correction Metabolism; contextual technical limits to Outnuancing; accurately framed “Why?” questions to Questions and C1 before C2; and ethics as a generative force to the project’s administrative specimens.
+
+**Authorship:** Source quotations remain attributed to their authors. John selected the source field and authorized publication. OpenAI Codex A.I. (co-admin) inspected the accessible source objects, selected the short passages, constructed the relational analysis, and linked project keywords to public recovery pages.
+
+**Boundaries:** Conceptual proximity does not establish endorsement, shared origin, identity, validation, or priority. The arXiv object remains a preprint. Kiener’s professional research page is a first-person research statement rather than a peer-reviewed article. Shared use of **Deep Ethics** remains a research question, not a merger of projects.
+
+**PDF lifecycle:** Public Markdown and HTML update immediately. The Academia PDF and complete collection remain on the established weekly refresh.
+
+---
+
+
 ## PR Psychology — living Deep Ethical PR Psychology Mechanics page (2026-10-19) {#pr-psychology-living-page-2026-10-19}
 
 - **Object:** A new public page called **PR Psychology**, designed to grow as John Kuhles supplies further material on PR psychology, mass psychology, gray ethical zones, weaponized persuasion and Deep Ethical alternatives.

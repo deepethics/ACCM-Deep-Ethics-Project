@@ -325,6 +325,151 @@ This question should travel into later work on [Correction Metabolism]({{ '/NETW
 
 ---
 
+## Four later source objects — oversight, analog A.I., answerability, and generative ethics
+
+John Kuhles supplied four further sources and asked for short passages with especially strong relevance to the [**ACCM Deep Ethics Project**]({{ '/' | relative_url }}). The comparison below preserves each source’s status and keeps conceptual proximity distinct from endorsement or validation.
+
+### 1. Anticipatory Human Oversight of Agentic AI
+
+**Source object:** [*Anticipatory Human Oversight of Agentic AI: A Philosophical Account*](https://arxiv.org/pdf/2609.24242), an arXiv preprint by Kevin Baum, Maximilian Kiener, Markus Langer, and Johann Laux, version 1 dated 21 September 2026.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “The substance of effective supervision thus shifts upstream and downstream—to planning and teaching before the engagement, and to learning after.”
+
+— **Baum, Kiener, Langer, and Laux**, 2026
+
+</div>
+
+This closely matches the process demonstrated by the project’s GitHub administration tests:
+
+~~~text
+field and instructions before action
+→ autonomous execution
+→ inspection of the result
+→ correction of the method
+→ improved next operation
+~~~
+
+The paper also distinguishes locally defensible actions from the cumulative trajectory they create. That connects directly to [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}), [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and the [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}). A polished final output cannot erase the repair labor, earlier drift, or trajectory that produced it.
+
+Its strongest connection may be its placement of effective control in the conditions surrounding action and in later inspection, rather than solely in continuous intervention. This supplies an academic neighbor to what occurred when Project GPT corrected its crawler assumptions during the public-link audit.
+
+A material difference remains. The paper’s framework centres a principal who constructs a normative agenda for an agent. The [**ACCM Deep Ethics Project**]({{ '/' | relative_url }}) additionally asks whether the principal, agenda, direction-setter, and oversight architecture remain open to [**omnidirectional scrutiny**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) and whether the next consequential move remains [**unforced**]({{ '/UNFORCED-MOVE/' | relative_url }}).
+
+### 2. The Ethics of Analog AI
+
+**Source object:** [*The Ethics of Analog AI*](https://link.springer.com/article/10.1007/s43681-025-00884-5), an open-access research article by Maximilian Kiener and co-authors, published online by *AI and Ethics* on 1 December 2025.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “what initially seems like technical limitations could be, as we shall discuss below, ethical advantages under the right circumstances.”
+
+— **Kiener et al.**, 2025
+
+</div>
+
+This connects strongly to [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}). A property does not possess one fixed ethical meaning independently of its context, purpose, architecture, and relationships.
+
+For example:
+
+- limited storage can reduce surveillance and unintended repurposing;
+- restricted transferability can preserve contextual integrity;
+- lower flexibility can constrain jurisdiction creep;
+- a system that does less may preserve more agency;
+- a [**valid null**]({{ '/NETWORK/uncertainty/' | relative_url }}) can be better than compulsory intervention.
+
+The paper argues that ethical frameworks developed around digital A.I. may fail to represent the distinct properties of analog A.I. That resembles [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}): an established ethical frame can appear comprehensive while its categories were built around only one technological topology.
+
+This is a strong academic neighbor for the project’s principle that ethics must remain responsive to the actual object. Imported ethical vocabulary cannot replace examination of physical architecture, information flow, environmental costs, noise, explainability, and specific use conditions.
+
+### 3. Responsibility and the Special Question “Why?”
+
+**Source object:** [*Responsibility and the Special Question “Why?”*](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E015A68A9D637265C624BB85CF300DD9/S0031819125101162a.pdf/responsibility_and_the_special_question_why.pdf), a philosophical paper by John Hyman and Maximilian Kiener published online by Cambridge University Press.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “giving justificatory reasons is precisely how people answer for their conduct.”
+
+— **John Hyman and Maximilian Kiener**
+
+</div>
+
+This intersects with the [**Questions**]({{ '/QUESTIONS/' | relative_url }}) page at a deep level. The quality and applicability of the question partly determine what can count as an answer.
+
+The authors argue that responsibility involves answerability to a particular kind of “Why?” question. They also stress that responsibility requires a specification of the conduct being questioned: differently described actions can generate materially different questions even when they refer to the same physical event.
+
+That connects directly to:
+
+- [**correspondence before evaluation**]({{ '/NETWORK/correspondence-before-style/' | relative_url }});
+- the difference between a person’s conduct and an evaluator’s reconstructed version;
+- [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }});
+- phantom-premise questions;
+- [**clarification authority**]({{ '/NETWORK/clarification-authority/' | relative_url }});
+- question framing in polling and [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }});
+- distinguishing justification, excuse, denial, and exemption;
+- asking whether the questioner has standing to demand an answer.
+
+The project adds a further test: a “Why?” question can formally request accountability while embedding an inaccurate description of what happened. Responsibility may require answerability, while deep-ethical answerability also requires the question to preserve the object for which an answer is being demanded.
+
+### 4. Maximilian Kiener’s research statement
+
+**Source object:** [Maximilian Kiener’s professional research page](https://maximilian-kiener.weebly.com/research.html), a first-person account of his research focus and publication record.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “agency is complex and distributed.”
+>
+> “ethics is not an external constraint on innovation but a generative force within it.”
+
+— **Maximilian Kiener**
+
+</div>
+
+The second sentence may be the most immediately compatible quotation across the four sources. It corresponds closely to the project’s practical claim that [**Deep Ethics**]({{ '/DEEP/' | relative_url }}) can improve the work itself:
+
+~~~text
+ethics outside the process
+→ restriction, review, or certification
+
+ethics active inside the process
+→ better questions, clearer authority,
+   stronger correction, and better next moves
+~~~
+
+That is what happened during the Project GPT tests. The [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) did more than inspect completed work. It helped the system distinguish current claims from historical records, public routes from generated routes, successful commits from deployed results, and detected anomalies from warranted interventions.
+
+Kiener’s page also lists **Deep Ethics** presentations at Hong Kong University and AISOLA 2025. The shared expression is significant enough to investigate. It does not establish that Kiener’s use of **Deep Ethics** denotes the same object as the [**ACCM Deep Ethics Project**]({{ '/' | relative_url }}).
+
+### The four-source relation
+
+~~~text
+Field Condition
+→ shapes action before execution
+
+Agentic trajectory inspection
+→ examines what accumulated across actions
+
+Responsibility as answerability
+→ requires a legitimate and accurately framed “Why?”
+
+Ethics as generative
+→ improves the process that produces the next move
+~~~
+
+Of the four sources:
+
+- the anticipatory-oversight paper supplies the closest architectural neighbor;
+- the responsibility paper supplies the strongest philosophical connection to questions and answerability;
+- the analog-A.I. paper supplies the strongest context-sensitive frame correction;
+- Kiener’s research statement supplies the clearest compact expression of ethics as a productive force.
+
+The combined contribution does not certify the project’s architecture. It makes several academic neighbors more recoverable and identifies where the project adds reciprocal scrutiny, object preservation, correction persistence, trajectory inspection, valid-null outcomes, and agency after clarity.
+
+**Selection and comparison:** John Kuhles supplied the four sources and requested the extraction. **OpenAI Codex A.I. (co-admin)** inspected the accessible objects, selected the short passages, and constructed this comparison on 19 October 2026. The source authors retain authorship of the quoted material; the relational analysis remains an attributed A.I. editorial contribution.
+
+---
+
 ## A reusable academic-comparison record
 
 Future entries can use this bounded record:
@@ -388,7 +533,7 @@ represent the academic object
 
 **Human direction:** John Kuhles supplied the Kiener video, asked how the ACCM Deep Ethics Project differs from the professor and video, then requested this **Academia** page and its position in the main navigation.
 
-**A.I. editorial contribution:** GPT 6.1 Sol A.I. inspected the full video transcript and source description, compared the video with relevant project relations, found Kiener’s later responsibility-abundance development, drafted the first worked comparison, and proposed the compensation-versus-correction distinction. On John’s later request, GPT added Kiener’s portrait, integrated the 2025 *Deep Ethics* abstract as a distinct second object, and proposed the metric-survival question. These editorial additions remain open to correction.
+**A.I. editorial contribution:** GPT 6.1 Sol A.I. inspected the full video transcript and source description, compared the video with relevant project relations, found Kiener’s later responsibility-abundance development, drafted the first worked comparison, and proposed the compensation-versus-correction distinction. On John’s later request, GPT added Kiener’s portrait, integrated the 2025 *Deep Ethics* abstract as a distinct second object, and proposed the metric-survival question. OpenAI Codex A.I. (co-admin) later inspected four additional source objects—anticipatory oversight, analog A.I. ethics, responsibility as answerability, and Kiener’s research statement—and added the attributed four-source comparison. These editorial additions remain open to correction.
 
 **Status:** public living comparison page. The Kiener entry is a worked specimen, not a complete literature review, academic endorsement, or finished project instrument.
 
