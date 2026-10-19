@@ -16,7 +16,7 @@ pdfs = sorted(source.glob("*.pdf"), key=lambda p: p.name.casefold())
 expected = sum(1 for line in (source / "PDF-INDEX.csv").read_text(encoding="utf-8").splitlines()[1:] if line.strip())
 if len(pdfs) != expected:
     raise SystemExit(f"Expected {expected} PDFs, found {len(pdfs)}")
-out = source / f"ACCM-Deep-Ethics-Project-All-Public-Pages-{expected}-PDFs-{release_date.isoformat()}.zip"
+out = source / "ACCM-Deep-Ethics-Project-All-Public-Pages.zip"
 for previous in source.glob("ACCM-Deep-Ethics-Project-All-Public-Pages-*-PDFs-*.zip"):
     previous.unlink()
 

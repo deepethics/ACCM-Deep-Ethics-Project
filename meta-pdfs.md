@@ -19,7 +19,11 @@ permalink: /META-PDFS/
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—and the October 19 Academia edition. Each PDF contains selectable and searchable text with live links.
 
-The complete PDF set is scheduled for a full refresh **once a week**. New public pages may receive an initial PDF edition between full refreshes so their download service does not remain empty.
+The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
+
+[**Download the complete PDF collection**]({{ '/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages.zip' | relative_url }}) · stable address, refreshed weekly
+
+The archive address does not contain a file count or date. Every public page can therefore use the same link while the archive behind it is replaced centrally. Counts, dates, page totals, checksums, and build results remain visible in this archive record and inside the downloadable collection; they do not need to become part of the address or the shared download card.
 
 The PDFs preserve a dated research state. The connected **Live page** remains the corrigible version and may contain later changes.
 

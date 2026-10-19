@@ -1325,3 +1325,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Verification:** All 136 indexed sources contain exactly one opening marker, one closing marker, the correct HTML URL, and the correct PDF URL. Every source still begins with valid YAML front matter. A second generator pass changed zero files.
 
 **Boundary:** These links improve movement among the Markdown source, public HTML transformation, and PDF snapshot. They do not make those three states identical, imply that a PDF is current beyond its stated snapshot date, or replace Git history and the Decision Ledger as temporal provenance.
+
+---
+
+<a id="stable-weekly-pdf-release-2026-10-19"></a>
+## 2026-10-19 — Replace the growing PDF update chain with one stable weekly release
+
+**Object:** John Kuhles observed that repeatedly rebuilding, renaming, relinking, counting, and re-verifying the complete PDF archive made each page improvement trigger an increasingly expensive update chain. He proposed one central archive address without a PDF count in its filename and a scheduled batch cadence instead of rebuilding the complete collection after ordinary page edits.
+
+**Change:** Replaced the dated, count-bearing archive name with the stable address `Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages.zip`. The shared download card now says **Complete PDF collection · refreshed weekly** and no longer publishes a count or file size that must be rewritten after every addition. Routine HTML changes publish immediately; routine PDF changes wait for the weekly batch. Counts, dates, page totals, checksums, and build results remain in Meta-PDFs and the archive records, where they describe a snapshot without becoming part of its permanent address.
+
+**Exception rule:** A new page may receive one initial PDF between batches when required to avoid a broken page-level download. An urgent rebuild is also permitted for a broken link, corrupt archive, or material correction that should not remain downloadable until the next scheduled run. Ordinary editorial improvement is not an urgent exception.
+
+**Result:** Every current and future public page can point to one durable archive URL. The weekly process replaces the file behind that address once, rather than propagating a new filename and count through the public interface.
+
+**Boundary:** Stable address does not mean immutable contents. The ZIP is a periodically replaced collection; individual PDFs remain dated snapshots, and the live HTML pages remain the current corrigible public state.

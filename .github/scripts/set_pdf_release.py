@@ -35,11 +35,10 @@ def main() -> None:
     pdfs = sorted(PDF_DIR.glob("*.pdf"))
     count = len(pdfs)
     pages = total_pages(pdfs)
-    zip_name = f"ACCM-Deep-Ethics-Project-All-Public-Pages-{count}-PDFs-{release_date.isoformat()}.zip"
+    zip_name = "ACCM-Deep-Ethics-Project-All-Public-Pages.zip"
     zip_path = PDF_DIR / zip_name
     if not zip_path.is_file():
         raise SystemExit(f"Missing release archive: {zip_name}")
-    size = f"{zip_path.stat().st_size / 1024 / 1024:.1f}"
 
     js_path = ROOT / "assets" / "page-pdf-download.js"
     js = js_path.read_text(encoding="utf-8")
@@ -69,16 +68,20 @@ def main() -> None:
         js,
         flags=re.DOTALL,
     )
-    js = re.sub(r'const snapshotDate = "[^"]+";', f'const snapshotDate = "{human_date}";', js)
+    js = re.sub(r'const defaultSnapshotDate = "[^"]+";', f'const defaultSnapshotDate = "{human_date}";', js)
     js = re.sub(
-        r"ACCM-Deep-Ethics-Project-All-Public-Pages-\d+-PDFs-\d{4}-\d{2}-\d{2}\.zip",
+        r"ACCM-Deep-Ethics-Project-All-Public-Pages(?:-\d+-PDFs-\d{4}-\d{2}-\d{2})?\.zip",
         zip_name,
         js,
     )
-    js = re.sub(r'\d+ PDFs · \d+(?:\.\d+)? MB ZIP archive', f'{count} PDFs · {size} MB ZIP archive', js)
     js = re.sub(
-        r'Download all \d+ PDF files as an \d+(?:\.\d+)? MB ZIP archive',
-        f'Download all {count} PDF files as an {size} MB ZIP archive',
+        r'(?:\d+ PDFs · \d+(?:\.\d+)? MB ZIP archive|Complete PDF collection · refreshed weekly)',
+        'Complete PDF collection · refreshed weekly',
+        js,
+    )
+    js = re.sub(
+        r'(?:Download all \d+ PDF files as an? \d+(?:\.\d+)? MB ZIP archive|Download the complete weekly PDF collection)',
+        'Download the complete weekly PDF collection',
         js,
     )
     js_path.write_text(js, encoding="utf-8")
@@ -96,7 +99,7 @@ def main() -> None:
     meta = re.sub(r"- \*\*Build result:\*\* \d+ successful PDFs; 0 failures", f"- **Build result:** {count} successful PDFs; 0 failures", meta)
     meta_path.write_text(meta, encoding="utf-8")
 
-    print(f"Release metadata: {count} PDFs, {pages} pages, {size} MB, {human_date}")
+    print(f"Release metadata: {count} PDFs, {pages} pages, {human_date}")
 
 
 if __name__ == "__main__":
