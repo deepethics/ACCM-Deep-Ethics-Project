@@ -34,6 +34,11 @@ ADDITIONS = [
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=date.today().isoformat(), help="Snapshot date in YYYY-MM-DD format")
+    parser.add_argument(
+        "--prepare-index",
+        action="store_true",
+        help="Add registered pages to the CSV before their first PDFs are exported",
+    )
     args = parser.parse_args()
     export_date = date.fromisoformat(args.date).isoformat()
     csv_path = PDF_DIR / "PDF-INDEX.csv"
@@ -52,6 +57,18 @@ def main() -> None:
             existing.add(pdf_file)
 
     rows.sort(key=lambda row: row["public_url"].casefold())
+    if args.prepare_index:
+        with csv_path.open("w", newline="", encoding="utf-8") as stream:
+            writer = csv.DictWriter(
+                stream,
+                fieldnames=["title", "public_url", "pdf_file", "source_file"],
+                lineterminator="\n",
+            )
+            writer.writeheader()
+            writer.writerows(rows)
+        print(f"Prepared index with {len(rows)} public pages.")
+        return
+
     pdfs = sorted(PDF_DIR.glob("*.pdf"), key=lambda path: path.name.casefold())
     if len(rows) != len(pdfs):
         raise SystemExit(f"Index has {len(rows)} rows but archive has {len(pdfs)} PDFs")
