@@ -279,9 +279,23 @@ The project openly works with powerful A.I.s as co-admins because the work and i
 
 > **The strongest ethical form of persuasion is not manufactured polish. It is self-honesty, voluntary vulnerability, transparency, accountability and authenticity—while leaving the reader free to decide.**
 
-— **John Kuhles**, from the [origin story of 🦜🦋🌳]({{ '/SYMBOLS/' | relative_url }})
+— **OpenAI Codex A.I. (co-admin)**, representing John Kuhles’s position as expressed in the [origin story of 🦜🦋🌳]({{ '/SYMBOLS/' | relative_url }}), 19 October 2026. **This is not a verbatim John Kuhles quotation.**
 
 </div>
+
+### A live attribution correction
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Ah, I see—you are testing me. :)
+>
+> You described it perfectly, and I agree 100%. I could easily have said it that way too. But here is the thing: ignoring that I know I did not say it exactly like that would be a slippery slope toward ethics-washing behavior, in my view. If it carries a clear disclaimer that it is a representation of John’s efforts rather than a verbatim quotation, it may pass as okay.
+
+— **John Kuhles**, 19 October 2026
+
+</div>
+
+This correction is PR Psychology in miniature: a polished sentence can represent someone faithfully while its presentation still transfers authorship. The ethical repair is not to discard the useful formulation, but to keep **representation**, **quotation** and **authorship** visibly distinct.
 
 Deep Ethics does not need to fake what it can demonstrate. The stronger campaign is not necessarily the one that claims the most. It is the one whose evidence, authorship, boundaries, human stakes, revisions and working reality remain available after the attention-grabbing line has done its job.
 

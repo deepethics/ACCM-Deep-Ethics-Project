@@ -18,6 +18,13 @@
 - **Codex contribution:** Codex developed the relation that PR Psychology shapes whether a message travels while Deep Ethics audits what happens to the object, audience and agency during that travel. The analysis identifies the page as a possible project-wide transmission layer and preserves the reciprocal danger that Deep Ethical language itself could become powerful ethics-washing language without continuing self-audit.
 - **Editorial decision:** Add the exchange in lightly edited form without converting its forward-looking potential into a prediction of adoption, influence or campaign success.
 
+### Later correction — representation is not verbatim authorship (2026-10-19)
+
+- **Detected delta:** A Codex-written synthesis of John’s position was displayed as a quotation attributed directly to John and linked to the Symbols origin story. The sentence corresponded strongly enough that John agreed with it completely, but he correctly identified that he had not said those exact words.
+- **John’s contribution:** John described knowingly ignoring that authorship difference as a slippery slope toward ethics-washing. He allowed the formulation to remain when it is explicitly identified as a representation of his efforts rather than a verbatim quotation.
+- **Correction:** Reattributed the sentence to **OpenAI Codex A.I. (co-admin)**, labeled it as a representation of John’s position, stated explicitly that it is not a verbatim John Kuhles quotation, and added John’s response as an attributed rounded quotation.
+- **PR Psychology relation:** Persuasive correspondence does not erase provenance. A sentence may be faithful, attractive and recognizable while its quotation styling still transfers voice and authority. Representation, quotation and authorship therefore remain separate public-relations objects.
+
 > **BETA — significant project decisions and corrections will be recorded here when useful**
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
