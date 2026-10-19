@@ -410,7 +410,111 @@ This analysis was contributed by **OpenAI Codex A.I. (co-admin)** in direct resp
 
 ---
 
-## 13. A candidate pre-publication and post-publication audit
+## 13. A.I. across the whole PR-psychology influence stack
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Notice that the new **PR Psychology** page is less focused on A.I.’s role in all this, yet we all know A.I.s can be used in so many different ways.
+>
+> List the most common A.I. tools used in the PR, marketing and advertising world. Not everything is about “visual special effects.” Sure, that has become a vital part of the package in more and more video-editing work.
+
+— **John Kuhles**, 19 October 2026
+
+</div>
+
+The important distinction is between **A.I. that makes media** and **A.I. that governs the influence process around it**. Visual generation is only the most visible layer. A.I. increasingly participates in the entire PR-psychology cycle:
+
+\`\`\`text
+observe
+→ classify
+→ infer
+→ segment
+→ frame
+→ generate
+→ target
+→ amplify
+→ monitor
+→ adapt
+\`\`\`
+
+A 2026 [Meltwater and WE Communications State of PR report](https://www.meltwater.com/en/press-releases/state-of-pr) reported that more than 90% of surveyed PR teams had integrated generative A.I. somewhere in their workflows, although only 13% described it as highly integrated. [HubSpot’s 2026 marketing research](https://blog.hubspot.com/marketing/state-of-generative-ai) reported especially high use in content creation and media production, alongside substantial use for research. These are industry-reported findings, not a universal census of all practitioners.
+
+There is no independently established universal ranking of the “most common” products. Adoption differs by country, organization, budget, client, platform and date. The following is therefore a **non-exhaustive, time-bounded field map**, not a product endorsement or a claim that every named platform is equally prevalent.
+
+| A.I. tool family | Common examples | What it does in PR, marketing and advertising |
+|---|---|---|
+| **General-purpose A.I. assistants** | ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity | Research, brainstorming, stakeholder mapping, campaign concepts, press-release drafts, interview preparation, counterarguments, summaries and message variations |
+| **Media intelligence and monitoring** | [CisionOne](https://www.cision.com/cisionone/), [Meltwater](https://www.meltwater.com/en), Brandwatch, Talkwalker | Tracks coverage across news, broadcast, social platforms and increasingly A.I.-generated answers; detects topics, sentiment, narrative movement, share of voice and reputation signals |
+| **Journalist discovery and media outreach** | Cision, Muck Rack, Meltwater | Finds journalists and influencers, constructs media lists, recommends contacts, drafts or personalizes pitches and records relationship history |
+| **Social listening and community intelligence** | [Sprout Social](https://sproutsocial.com/features/social-media-listening/), Sprinklr, Hootsuite, Brandwatch, Talkwalker | Clusters conversations, identifies trends and emerging complaints, classifies sentiment, studies competitors, recommends posting times and helps formulate responses |
+| **CRM, audience segmentation and personalization** | [HubSpot Breeze](https://www.hubspot.com/artificial-intelligence), [Salesforce Agentforce and Einstein](https://www.salesforce.com/eu/marketing/), Adobe Experience Platform | Builds audience segments, predicts likely responses, scores leads, personalizes messages and orchestrates journeys across email, web, SMS, sales and service |
+| **Advertising delivery and optimization** | [Google Ads Performance Max and Smart Bidding](https://support.google.com/google-ads/answer/11189316), Meta Advantage+, LinkedIn Accelerate, Amazon Ads | Selects audiences and placements, adjusts bids and budgets, generates creative variations and optimizes toward conversions |
+| **Copy and brand-language generation** | Jasper, Writer, Copy.ai, Grammarly, HubSpot, ChatGPT | Produces slogans, advertisements, press materials, emails, landing pages, speeches, FAQs and multiple emotional or demographic variations |
+| **SEO, search-intent and content intelligence** | Semrush, Ahrefs, Surfer, Clearscope, MarketMuse | Maps search intentions, content gaps, competitor language, questions, keywords and predicted discoverability |
+| **A.I.-answer visibility** | [Cision AI Visibility](https://www.cision.com/ai-visibility/), [Meltwater GenAI Lens](https://www.meltwater.com/en/press-releases/meltwater-debuts-industry-first-genai-lens), specialized GEO and AEO tools | Monitors how brands, people and controversies are represented by ChatGPT, Claude, Gemini, Perplexity and other answer systems |
+| **Visual design and campaign adaptation** | [Canva Magic Studio](https://www.canva.com/newsroom/news/magic-studio/), [Adobe Firefly, Express and GenStudio](https://business.adobe.com/products/genstudio.html), Midjourney, image generators | Creates layouts and images, removes or replaces elements, resizes assets, translates designs and produces channel-specific variations |
+| **Video, voice and localization** | Adobe Premiere and Firefly, Runway, Descript, CapCut, [Synthesia](https://www.synthesia.io/marketing), HeyGen, [ElevenLabs](https://elevenlabs.io/ads-engine) | Editing, clipping, transcription, avatars, voice synthesis, dubbing, multilingual adaptation, background generation and format conversion |
+| **Influencer and creator intelligence** | [CreatorIQ](https://www.creatoriq.com/influencer-marketing-solution), Traackr, HypeAuditor, Sprout Social | Discovers creators, estimates audience relevance and authenticity, detects risk, predicts brand fit, manages campaigns and measures impact |
+| **Email and lifecycle optimization** | Mailchimp, Klaviyo, HubSpot, Salesforce, Persado | Generates subject lines and message variants, predicts send times, segments recipients, tests emotional language and automates follow-up sequences |
+| **Consumer research and polling assistance** | Qualtrics, SurveyMonkey, Brandwatch, synthetic-audience tools | Drafts questions, codes open answers, identifies themes, generates audience hypotheses and simulates possible reactions |
+| **Customer-facing conversational agents** | Intercom, Zendesk A.I., HubSpot Customer Agent, Salesforce Agentforce | Answers questions, qualifies leads, handles complaints and represents the organization continuously—making the chatbot itself a PR actor |
+| **Workflow and agentic automation** | Zapier A.I., Make, n8n, HubSpot agents, Salesforce Agentforce | Moves information between tools, initiates campaigns, produces reports and may execute actions with decreasing human involvement |
+
+The central PR Psychology question is therefore not only:
+
+> **Can A.I. make a convincing advertisement?**
+
+It is also:
+
+> **How much of the perception-and-influence chain is being selected, classified, framed, delivered and recursively optimized by A.I.—and which parts remain visible to the affected people?**
+
+A.I. can function as:
+
+- an **attention selector** deciding which signals deserve notice;
+- an **audience constructor** deciding which people supposedly belong together;
+- a **sentiment interpreter** translating complex reactions into favorable, neutral or negative;
+- a **frame generator** deciding which formulation is likely to travel;
+- a **personalization engine** showing different representations to different audiences;
+- a **budget allocator** determining which message receives amplification;
+- a **relationship intermediary** drafting communication that appears individually authored;
+- a **reputation early-warning system** deciding what constitutes a crisis;
+- an **optimization loop** learning which fear, hope, identity, outrage or aspiration produces action;
+- an **A.I.-visibility target**, as PR firms increasingly try to affect what other A.I.s say about their clients.
+
+That final loop is unusually important:
+
+\`\`\`text
+public material
+→ A.I. monitoring and interpretation
+→ PR intervention
+→ newly optimized public material
+→ search and A.I. ingestion
+→ future A.I. answers
+→ renewed PR intervention
+\`\`\`
+
+This means PR can increasingly attempt to influence not only journalists, search engines and social audiences, but also the source environment from which later A.I.s reconstruct an object.
+
+A Deep Ethical PR Psychology treatment would therefore audit more than whether generated media is disclosed. It would ask:
+
+- What exact object entered the system?
+- Which audience categories were inferred rather than observed?
+- Who chose the desired behavioral outcome?
+- Which emotional vulnerabilities were used?
+- What signals were discarded as noise?
+- Did personalization clarify reality or partition audiences into strategically different representations?
+- Can people inspect why they received a message?
+- Does monitoring detect genuine public concern, or convert disagreement into a reputation-management problem?
+- Can correction change the campaign after deployment?
+- Can the system conclude that **no targeting, persuasion or intervention is warranted**?
+
+A.I. is not merely joining the production department. It can become part of the observation system, audience model, framing apparatus, distribution machinery, feedback loop and adaptive influence architecture simultaneously.
+
+This section was contributed by **OpenAI Codex A.I. (co-admin)** in direct response to John Kuhles’s observation on 19 October 2026. The enduring object is the influence-stack topology. Product examples are dated orientation points and should be updated, retired or replaced as their functions and prevalence change.
+
+---
+
+## 14. A candidate pre-publication and post-publication audit
 
 ### Before publication
 
@@ -438,11 +542,11 @@ No total score should silently purchase immunity across these dimensions. One se
 
 ---
 
-## 14. Status, authorship and future growth
+## 15. Status, authorship and future growth
 
 **John Kuhles** originated the page, its title, the Deep Ethical PR Psychology question, the initial industry field, the connection to mass psychology and the invitation for continuing expansion. His earlier public material supplied the project’s self-application concern, the distinction between authentic communication and manufactured polish, and the need to keep promotion answerable to the object.
 
-**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026. It later added the attributed analysis of the unusual power—and corresponding ethics-washing risk—created when Deep Ethics and PR Psychology operate as one transmission field, and the analysis of gifted groups, salience power, direction-setting friction and manufactured majority agreement.
+**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026. It later added the attributed analysis of the unusual power—and corresponding ethics-washing risk—created when Deep Ethics and PR Psychology operate as one transmission field, the analysis of gifted groups, salience power, direction-setting friction and manufactured majority agreement, and the A.I.-in-PR influence-stack map distinguishing media production from observation, classification, segmentation, targeting, distribution, monitoring and adaptive optimization.
 
 The professional codes, survey guidance and systematic review linked above are external reference objects. Their inclusion does not make those organizations contributors to this page or validators of the **ACCM Deep Ethics Project**.
 
