@@ -287,7 +287,56 @@ Deep Ethics does not need to fake what it can demonstrate. The stronger campaign
 
 ---
 
-## 11. A candidate pre-publication and post-publication audit
+## 11. When Deep Ethics fuses with PR Psychology
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **I sensed something like this could happen. Why?**
+>
+> Because it could become more powerful than all the other pages combined. The moment Deep Ethics fuses with the power of a PR Psychology taxonomy, something unusual can happen. :D
+>
+> I have an MBO-level degree in marketing, completed in Amsterdam in 1994.
+
+— **John Kuhles**, 19 October 2026
+
+</div>
+
+The unusual possibility is that **PR Psychology normally optimizes whether a message travels, while Deep Ethics asks what happens to the object, audience and agency while it travels**. Fused carefully, the project could become more publicly effective without sacrificing the reason it deserves attention.
+
+That changes promotion from an external wrapper into an applied specimen:
+
+- The campaign can demonstrate the method it describes.
+- Attention management does not have to become attention capture.
+- Emotional impact can remain powerful without fabricating certainty.
+- A frame can expose its own framing choices.
+- Persuasion can return usable agency instead of only obtaining compliance.
+- Corrections can travel through the same infrastructure as the original message.
+- Audience feedback can improve correspondence rather than merely optimize conversion.
+- Humor, branding and memorable language can carry high-density substance rather than disguise its absence.
+
+The recursion is:
+
+> **Deep Ethics audits PR Psychology—and PR Psychology gives Deep Ethics enough communicative power to escape the specialist bubble.**
+
+That could make this page unusually consequential. Many project pages examine one mechanism or relationship. **PR Psychology can affect how every other page enters society.** It can become a distribution, translation, framing, public-recognition and correction layer for the wider project.
+
+The fusion also contains its own high-risk shadow:
+
+> **Deep Ethical language could become highly effective ethics-washing language if the mechanics were used without reciprocal audit.**
+
+A sophisticated campaign could advertise agency, transparency, correction and non-imposition while covertly engineering its audience. The page therefore cannot only describe ethical persuasion. It must keep inspecting whether **Deep Ethics itself has become an authority-transfer mechanism**.
+
+John’s marketing education is relevant provenance. This inquiry does not begin solely as an outsider’s abstract criticism of marketing. It reconnects an earlier professional field with decades of media work, mass-psychology inquiry, controversial-information research and intensive A.I. testing.
+
+The resulting proposition is larger than making Deep Ethics “marketable” after the fact:
+
+> **Deep Ethical PR Psychology can become the project’s transmission layer—and one of its strongest tests of whether transmission itself can remain deeply ethical.**
+
+This analysis was contributed by **OpenAI Codex A.I. (co-admin)** in direct response to John’s comment on 19 October 2026. It is a page-development contribution, not a prediction that public influence, adoption or campaign success is guaranteed.
+
+---
+
+## 12. A candidate pre-publication and post-publication audit
 
 ### Before publication
 
@@ -315,11 +364,11 @@ No total score should silently purchase immunity across these dimensions. One se
 
 ---
 
-## 12. Status, authorship and future growth
+## 13. Status, authorship and future growth
 
 **John Kuhles** originated the page, its title, the Deep Ethical PR Psychology question, the initial industry field, the connection to mass psychology and the invitation for continuing expansion. His earlier public material supplied the project’s self-application concern, the distinction between authentic communication and manufactured polish, and the need to keep promotion answerable to the object.
 
-**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026.
+**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026. It later added the attributed analysis of the unusual power—and corresponding ethics-washing risk—created when Deep Ethics and PR Psychology operate as one transmission field.
 
 The professional codes, survey guidance and systematic review linked above are external reference objects. Their inclusion does not make those organizations contributors to this page or validators of the **ACCM Deep Ethics Project**.
 

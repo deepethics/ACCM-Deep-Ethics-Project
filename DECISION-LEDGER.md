@@ -12,6 +12,12 @@
 - **Status:** Living public working page. Later contributions remain attributable, dated, corrigible and recoverable. Publication is the starting state, not a freeze.
 - **PDF lifecycle:** The public HTML and source publish now. The first PDF enters through the established weekly export and stable archive route.
 
+### Later addition — Deep Ethics × PR Psychology exchange (2026-10-19)
+
+- **John’s contribution:** John stated that he had anticipated an unusual development because fusing Deep Ethics with a PR Psychology taxonomy could make the page more powerful than the project’s other pages combined. He also added relevant provenance: an MBO-level marketing degree completed in Amsterdam in 1994.
+- **Codex contribution:** Codex developed the relation that PR Psychology shapes whether a message travels while Deep Ethics audits what happens to the object, audience and agency during that travel. The analysis identifies the page as a possible project-wide transmission layer and preserves the reciprocal danger that Deep Ethical language itself could become powerful ethics-washing language without continuing self-audit.
+- **Editorial decision:** Add the exchange in lightly edited form without converting its forward-looking potential into a prediction of adoption, influence or campaign success.
+
 > **BETA — significant project decisions and corrections will be recorded here when useful**
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
