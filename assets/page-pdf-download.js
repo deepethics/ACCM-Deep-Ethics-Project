@@ -67,8 +67,8 @@
         href: `${base}/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages-137-PDFs-2026-10-19.zip`,
         iconFile: "zip-download.svg",
         titleText: "All PDF files",
-        detailText: "137 PDFs · 11.4 MB ZIP archive",
-        label: "Download all 137 PDF files as an 11.4 MB ZIP archive"
+        detailText: "137 PDFs · 12.2 MB ZIP archive",
+        label: "Download all 137 PDF files as an 12.2 MB ZIP archive"
       }),
       buildDownloadCard({
         href: `https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/${sourceFile.split("/").map(encodeURIComponent).join("/")}`,

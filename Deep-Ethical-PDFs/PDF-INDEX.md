@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 136
+**Public pages exported:** 137
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -11,6 +11,7 @@
 | [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) | [27-MANNERISMS.pdf](27-MANNERISMS.pdf) | `27-MANNERISMS/index.md` |
 | [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) | [27-MANNERISMS-source.pdf](27-MANNERISMS-source.pdf) | `27-MANNERISMS/source.md` |
 | [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/) | [ABOUT.pdf](ABOUT.pdf) | `about-site.md` |
+| [Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/) | [ACADEMIA.pdf](ACADEMIA.pdf) | `academia.md` |
 | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) | [ACTIVISM-VS-AI.pdf](ACTIVISM-VS-AI.pdf) | `activism-vs-ai.md` |
 | [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) | [AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf](AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf) | `AGREEMURMELISM/Beyond-Agreemurmelism/index.md` |
 | [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) | [AI-CONTRIBUTIONS.pdf](AI-CONTRIBUTIONS.pdf) | `AI-CONTRIBUTIONS/index.md` |
