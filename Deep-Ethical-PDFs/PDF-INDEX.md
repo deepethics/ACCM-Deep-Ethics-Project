@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 139
+**Public pages exported:** 140
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -121,6 +121,7 @@
 | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | [10-plus-1-Metaflux-Mutual-Correction.pdf](10-plus-1-Metaflux-Mutual-Correction.pdf) | `NETWORK/ten-plus-one.md` |
 | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) | [NETWORK-uncertainty.pdf](NETWORK-uncertainty.pdf) | `NETWORK/uncertainty.md` |
 | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) | [NETWORK-wonderment.pdf](NETWORK-wonderment.pdf) | `NETWORK/wonderment.md` |
+| [Neural Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEURAL-ETHICS/) | [NEURAL-ETHICS.pdf](NEURAL-ETHICS.pdf) | `NEURAL-ETHICS.md` |
 | [Number 42 — The Answer, the Missing Question, and Giving Meaning to Life](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NUMBER-42/) | [NUMBER-42.pdf](NUMBER-42.pdf) | `NUMBER-42/index.md` |
 | [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) | [PAGES.pdf](PAGES.pdf) | `pages.md` |
 | [Phase Change Snap](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PHASE-CHANGE-SNAP/) | [Phase-Change-Snap.pdf](Phase-Change-Snap.pdf) | `PHASE-CHANGE-SNAP/index.md` |

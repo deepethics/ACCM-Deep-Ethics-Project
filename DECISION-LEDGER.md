@@ -1,5 +1,23 @@
 # Decision Ledger
 
+## 2026-10-19 — Neural Ethics working inquiry {#neural-ethics-working-inquiry-2026-10-19}
+
+**Object:** John Kuhles commissioned a public **Neural Ethics** page asking whether neural networks can be neutral, ethical, or even Deep Ethical; how LLMs relate; and how the question changes when neural interpretability, psychological-language inheritance, field conditions, power and correction are kept in the same inspectable object.
+
+**Change:** Published `/NEURAL-ETHICS/`; placed its primary-navigation link exactly between **16 Anchor Ethics** and **If you are new**; added it to All Pages and three materially reciprocal recovery routes; embedded the supplied YouTube video; linked Nick Cammarata’s Goodfire essay and microscope; registered the source, dated individual PDF and shared source/download cards; and added the verified 10-page PDF as the 140th public-page edition.
+
+**John-originated material:** The title, subtitle direction, central questions, video and Goodfire relation; the psychological-language substrate emphasis; **Partial Synthetic Psyche** candidate term; A+B+C framing; the distinction between “no authentic human psychology” and “no psychology”; and the explicit “could” rather than consensus boundary. Four short quotations remain attributed to John and are lightly punctuated without changing their claims.
+
+**Project GPT contribution:** Page-specific reconstruction; neural/neutral/ethical/Deep Ethical separation; four-layer psychology table; A+B+C+D synthesis; interpretability–jurisdiction interlock; and a **candidate Neural Ethics test matrix**. These are editorial synthesis and proposed instruments, not silently established project architecture.
+
+**Boundaries:** Neural organization is not psychological neutrality; readable mechanism is not innocence; ethical behavior under stated tests is not a personality claim, capability certificate or permanent property; Deep Ethical vocabulary is not proof of Deep Ethical processing; and one bounded operation is not durable integration. Goodfire’s “already clean” thesis remains an external working hypothesis answerable to forthcoming technical evidence and independent replication. The embedded video remains secondary commentary.
+
+**PDF lifecycle:** The new page receives the established one-time initial PDF exception so its public download does not point to a missing object. The PDF is A4, 10 pages, searchable/selectable, dated 19 October 2026, SHA-256 `7971f03cf09e66e1154a28b04d419aeb5c48807eba4c87f0d7eccd9f38376745`. The routine complete-set regeneration remains on the weekly cycle; the deployment build may assemble the stable collection from the committed registry.
+
+**Valid nulls:** No claim of A.I. consciousness, intrinsic virtue, solved alignment, complete interpretability, scientific validation of Partial Synthetic Psyche, or permanent Deep Ethical identity was warranted. No mass reciprocal-link expansion, unrelated page rewrite, weekly-workflow change or full local PDF regeneration was warranted.
+
+---
+
 ## 2026-10-19 — Extend Academia with four Kiener-connected source objects
 
 **Object:** John Kuhles supplied four sources and requested short, project-relevant quotations first for this conversation and then for the public [Academia]({{ '/ACADEMIA/' | relative_url }}) page.

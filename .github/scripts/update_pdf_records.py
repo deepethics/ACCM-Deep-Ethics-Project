@@ -26,6 +26,7 @@ ADDITIONS = [
     ("Cold Edge-Swap and Correction-Transfer Pilot", f"{BASE}/EXPERIMENTS/cold-edge-swap-correction-transfer/", "EXPERIMENTS-cold-edge-swap-correction-transfer.pdf", "EXPERIMENTS/cold-edge-swap-correction-transfer.md"),
     ("Meta-PDFs", f"{BASE}/META-PDFS/", "META-PDFS.pdf", "meta-pdfs.md"),
     ("Neolingo", f"{BASE}/NEOLINGO/", "NEOLINGO.pdf", "neolingo.md"),
+    ("Neural Ethics", f"{BASE}/NEURAL-ETHICS/", "NEURAL-ETHICS.pdf", "NEURAL-ETHICS.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),
     ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "QUESTIONS.md"),
     ("Unforced Move", f"{BASE}/UNFORCED-MOVE/", "UNFORCED-MOVE.pdf", "UNFORCED-MOVE.md"),
