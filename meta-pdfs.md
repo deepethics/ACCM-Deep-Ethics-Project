@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 137 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 138 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**137 public-page PDF editions · 1,734 pages · exported through October 19, 2026**
+**138 public-page PDF editions · 1,744 pages · exported through October 19, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—and the October 19 Academia edition. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—and two October 19 editions—Academia and Field Condition. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -79,6 +79,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **52 cold-testable prompts** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXPERIMENTS-fifty-two-prompts.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) |
 | **Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, and a Reverse-Asch Thought Experiment** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXPERIMENTS-inspect-the-inspector.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) |
 | **External Omnidirectional Auditing Mannerisms** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXTERNAL-AUDIT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) |
+| **Field Condition** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FIELD-CONDITION.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/) |
 | **Flagging System** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FLAGGING-SYSTEM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
 | **Flagging System — Highlighted Exchanges** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FLAGGING-SYSTEM-HIGHLIGHTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/) |
 | **Flagging System — Layered Processing Source Record** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FLAGGING-SYSTEM-LAYERED-SOURCES.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/LAYERED-SOURCES/) |
@@ -171,11 +172,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 137
-- **Total pages:** 1,734
-- **Extractable text:** verified across all 137 files
+- **PDF files:** 138
+- **Total pages:** 1,744
+- **Extractable text:** verified across all 138 files
 - **Live links:** preserved in the exported editions
-- **Build result:** 137 successful PDFs; 0 failures
+- **Build result:** 138 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)
