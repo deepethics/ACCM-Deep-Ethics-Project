@@ -60,6 +60,13 @@ This is not a citation-decoration page. A famous name does not settle an argumen
 
 ## First worked comparison — Maximilian Kiener on moral responsibility and A.I.
 
+<figure style="margin: 2rem auto; max-width: 900px; text-align: center;">
+  <a href="https://maximilian-kiener.weebly.com/">
+    <img src="{{ '/assets/maximilian-kiener.jpg' | relative_url }}" alt="Portrait of Professor Maximilian Kiener" style="width: 100%; height: auto; border-radius: 14px;">
+  </a>
+  <figcaption><strong>Professor Maximilian Kiener.</strong> Portrait published on <a href="https://maximilian-kiener.weebly.com/">Kiener’s professional website</a>, which identifies him as Junior Professor of Philosophy and Ethics in Technology at Hamburg University of Technology and head of its Institute for Ethics in Technology. Image retained here with a direct recovery route to its source.</figcaption>
+</figure>
+
 <!-- ACCM_PDF_OMIT_START -->
 <figure class="accm-video-embed">
   <div class="accm-video-embed__frame">
@@ -76,9 +83,47 @@ This is not a citation-decoration page. A famous name does not settle an argumen
 
 **Source object:** [*Maximilian Kiener on Moral Responsibility and AI*](https://www.youtube.com/watch?v=Noq9_AFh_3w), published by the Uehiro Oxford Institute Channel on **7 January 2023**. The 7:56 video description identifies Max Kiener as Junior Professor of Philosophy and Digital Ethics at the University of Oldenburg and Associate Research Fellow at the Oxford Uehiro Centre for Practical Ethics.
 
-**Access used for this entry:** the complete video and its auto-generated English transcript, the video description, Kiener’s 2022 open-access article [*Can we Bridge AI’s responsibility gap at Will?*](https://link.springer.com/article/10.1007/s10677-022-10313-9), and his later article [*AI and Responsibility: No Gap, but Abundance*](https://onlinelibrary.wiley.com/doi/10.1111/japp.12765). Auto-generated transcript wording may contain minor errors.
+**Access used for this entry:** the complete video and its auto-generated English transcript, the video description, Kiener’s 2022 open-access article [*Can we Bridge AI’s responsibility gap at Will?*](https://link.springer.com/article/10.1007/s10677-022-10313-9), his later article [*AI and Responsibility: No Gap, but Abundance*](https://onlinelibrary.wiley.com/doi/10.1111/japp.12765), [his professional website](https://maximilian-kiener.weebly.com/), and the University of Hong Kong AI & Humanity Lab’s 2025 event abstract [*Deep Ethics*](https://ai-humanity.net/deep-ethics/). Auto-generated transcript wording may contain minor errors.
 
 **Object status:** the video is a short public philosophical explanation. It is not a complete presentation of Kiener’s scholarship, an empirical validation of its claims, or a representation of academia as a whole.
+
+### A later object also called “Deep Ethics”
+
+The AI & Humanity Lab’s announcement for Kiener’s **10 October 2025** talk supplies a second, later object. Its abstract criticizes **“insufficient technical engagement”** and a **“superficial treatment of ethics”** in prominent approaches to integrating ethics into A.I. development. It then introduces **Ethical Triangulation**, connecting **“abstract principles, context-specific judgments, and practical constraints.”**
+
+Those short phrases matter because they resist two reductions at once:
+
+```text
+ethics without technical contact
+→ may remain too abstract to govern development
+
+technical optimization without normative depth
+→ may translate stakeholder preference into apparent ethics
+```
+
+Kiener’s proposal seeks quantitative training metrics through the interplay of those three factors. The abstract calls the resulting inquiry **deep ethics** because ethical reasoning enters A.I. architecture and because the work investigates a foundational relation between ethics and intelligence.
+
+This is a strong academic neighbor to the **ACCM Deep Ethics Project**, but the shared expression does not establish a shared origin, identical meaning, endorsement, or merger.
+
+| Relation | Kiener’s 2025 talk abstract | ACCM Deep Ethics Project |
+|---|---|---|
+| **Primary integration problem** | Translate qualitative ethics into metrics relevant to A.I. training | Preserve the object and deep-ethical relations through representation, processing, action, correction, retrieval, and time |
+| **Three-way structure** | Abstract principles, contextual judgments, practical constraints | Interlocking conditions, correspondence obstructions, inquiry sequence, provenance, power, consequence, and correction routes |
+| **Technical contact** | Ethical reasoning should become relevant to actual development | Code, administration, interfaces, retrieval, deployment, and later behavior remain inside the ethical field |
+| **Meaning of “deep”** | Ethics enters A.I. architecture and connects with intelligence | Ethical inquiry remains relational, omnidirectional, dignifying, corrigible, process-oriented, and answerable to the object |
+| **Main compression risk** | Ethical discussion becomes technically detached or normatively superficial | Metric translation can itself flatten qualifiers, minority positions, provenance, power, unresolved states, or correction authority |
+
+The project can learn from Kiener’s demand that ethical work meet technical requirements instead of stopping at high-level principles. It adds a reciprocal question for Ethical Triangulation:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **When qualitative ethics is translated into a quantitative training signal, which relations survive—and who can correct what the metric could not carry?**
+
+<p class="accm-quote-attribution">— <strong>GPT 6.1 Sol A.I.</strong>, extension requested by John Kuhles, 19 October 2026</p>
+
+</div>
+
+That is a question for later comparison, not a claim that Kiener’s method necessarily loses those relations. The available abstract announces a method and illustrative use in reinforcement learning and Markov Decision Processes; it does not provide enough detail to evaluate the complete method or its results.
 
 ### The video’s actual proposal
 
@@ -343,7 +388,7 @@ represent the academic object
 
 **Human direction:** John Kuhles supplied the Kiener video, asked how the ACCM Deep Ethics Project differs from the professor and video, then requested this **Academia** page and its position in the main navigation.
 
-**A.I. editorial contribution:** GPT 6.1 Sol A.I. inspected the full video transcript and source description, compared the video with relevant project relations, found Kiener’s later responsibility-abundance development, drafted the first worked comparison, and proposed the compensation-versus-correction distinction. These editorial additions remain open to correction.
+**A.I. editorial contribution:** GPT 6.1 Sol A.I. inspected the full video transcript and source description, compared the video with relevant project relations, found Kiener’s later responsibility-abundance development, drafted the first worked comparison, and proposed the compensation-versus-correction distinction. On John’s later request, GPT added Kiener’s portrait, integrated the 2025 *Deep Ethics* abstract as a distinct second object, and proposed the metric-survival question. These editorial additions remain open to correction.
 
 **Status:** public living comparison page. The Kiener entry is a worked specimen, not a complete literature review, academic endorsement, or finished project instrument.
 

@@ -4,6 +4,20 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-19 — Extend Academia with Kiener’s portrait and 2025 Deep Ethics proposal
+
+**Object:** John Kuhles asked for Professor Maximilian Kiener’s professional portrait and selected quotations from the University of Hong Kong AI & Humanity Lab’s 2025 *Deep Ethics* event page to be added to [Academia]({{ '/ACADEMIA/' | relative_url }}).
+
+**Change:** Added the portrait as a local attributed asset with a direct recovery link to Kiener’s professional website. Expanded the existing Kiener entry with a distinct second source object: the 2025 talk abstract’s criticism of insufficient technical engagement and superficial ethics, and its proposed Ethical Triangulation across abstract principles, context-specific judgments, and practical constraints. Added a bounded comparison with the ACCM Deep Ethics Project and a new question about which qualitative relations survive translation into training metrics.
+
+**Authorship and source boundary:** Portrait and professional information originate from Maximilian Kiener’s public website. The quoted phrases and description of Ethical Triangulation originate from the AI & Humanity Lab event abstract. Selection and integration were requested by John Kuhles; comparison structure and metric-survival question were written by GPT 6.1 Sol A.I.
+
+**Boundary:** Shared use of **Deep Ethics** does not establish shared origin, identical meaning, mutual endorsement, or validation. The event abstract announces a method; it is not treated as the full method, completed experiment, or proof of performance. The local portrait improves durable rendering while its source route and attribution remain attached.
+
+**PDF lifecycle:** Public Markdown and HTML update immediately. The Academia PDF and stable complete-PDF collection remain on the established weekly refresh.
+
+---
+
 ## 2026-10-19 — Iris public memorial and trajectory page
 
 **Object:** John Kuhles authorized a public page about his girlfriend Iris van Rooijen, including selected photographs, her surviving work, her suicide in December 2019, his continuing grief, and the way the loss changed his public trajectory from sustained media-oriented mission work toward a more self-reflective period.
