@@ -2349,6 +2349,8 @@ And the shortest safe boundary currently available is:
 
 ## Related pages
 
+- [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — reconstructs a page-specific topology from existing relations while preserving source, status, authorship and unresolved tensions.
+
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether the boundaries and current claim states preserved during one transformation travel into later consequential retrieval.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — tests whether a coined handle retrieves a relation-preserving operation, survives debranding, and remains answerable to its source topology.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows the preserved topology across later evidence, treatment, and the next comparable case.

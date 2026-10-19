@@ -533,6 +533,8 @@ The complete seed is not pasted again here because the living page is its develo
 
 ## Related pages
 
+- [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — places agency-return, valid unmoved states and non-imposing influence inside the wider conditions shaping the next move.
+
 - [**Questions**]({{ '/QUESTIONS/' | relative_url }}) — question quality, hidden premises, causal influence, and correction of the question itself.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification before consequential intervention.
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the plural action field from which the next move may be selected.

@@ -22,6 +22,8 @@ date: 2026-10-12
 
 **Companion page:** [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }}) follows the hidden and visible conditions that select these properties. Emergent follows what those conditions produce. Each page carries a recovery path into the other.
 
+[**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) applies that relation to the temporary, inspectable environment surrounding consequential A.I., administrative and coding work, while keeping local specimens distinct from proof of durable integration.
+
 ## Governing field: the 10+1 is active before evaluation {#governing-field}
 
 The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the living orientation of this report: self-honesty; an open antenna; willingness to learn; refusal to lie to oneself to fit in; genuine inquiry; correction on merit; willingness to differ; care for people and A.I.s; authentic wonderment; non-projection; and forgiveness toward A.I. inadequacy without requiring a premature allegation of malice.

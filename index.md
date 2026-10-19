@@ -140,6 +140,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Unownable</strong>
     <span>A material-triggered audit field with bounded stopping conditions, permanent reopenability, proportionate action, and no final ethical owner.</span>
   </a>
+  <a class="accm-door" href="{{ '/FIELD-CONDITION/' | relative_url }}">
+    <span class="accm-door-kicker">Same capability, different field</span>
+    <strong>Field Condition</strong>
+    <span>How provenance, authority, valid nulls, correction persistence and deployed-result verification can shape the next intelligent administrative or coding move.</span>
+  </a>
   <a class="accm-door" href="{{ '/EMERGENT/' | relative_url }}">
     <span class="accm-door-kicker">Competing system trajectories</span>
     <strong>Emergent</strong>
@@ -237,6 +242,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 - [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — a provenance-aware route from humanity's famous reflections on intelligence to psychology, mass psychology, A.I., correction, and the 1888 thought experiment.
 - [**Deep**]({{ '/DEEP/' | relative_url }}) — why “Deep” is an operational, corrigible claim grounded in a multidimensional process and overlapping expertise network.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability with material triggers, bounded stopping conditions, and no final ethical owner.
+- [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — explores how temporary relational conditions affect what an intelligence notices, preserves, corrects, verifies, or leaves untouched during administrative and coding work.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — compares deep-ethical and ethics-washing emergent trajectories, their obstruction pathways, and testable selection conditions.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, economic, and mass-psychological opacity while specifying inspectable correction rights.
 - [**Veto paradox solved**]({{ '/VETO-PARADOX/' | relative_url }}) — the one-line veto is temporary source-integrity, not a new sheriff.
