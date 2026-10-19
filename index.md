@@ -100,6 +100,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Cognitive Warfare Mass Psychology</strong>
     <span>An extensive, source-status-preserving report on cognition as operational terrain, classification power, the 27 + 12 at population scale, and an auditable deep-ethical cognitive defence.</span>
   </a>
+  <a class="accm-door" href="{{ '/PR-PSYCHOLOGY/' | relative_url }}">
+    <span class="accm-door-kicker">Influence that remains answerable</span>
+    <strong>PR Psychology</strong>
+    <span>Deep Ethical PR Psychology Mechanics across marketing, media, politics, polling, lobbying, campaigns, creators, crisis communication, mass psychology, and the project’s own promotion.</span>
+  </a>
   <a class="accm-door" href="{{ '/HUMAN-INSECURITY/' | relative_url }}">
     <span class="accm-door-kicker">Psychology, mass psychology, and LLMs</span>
     <strong>Human Insecurity and the Correction Loop</strong>
@@ -243,6 +248,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 - [**Deep**]({{ '/DEEP/' | relative_url }}) — why “Deep” is an operational, corrigible claim grounded in a multidimensional process and overlapping expertise network.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability with material triggers, bounded stopping conditions, and no final ethical owner.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — explores how temporary relational conditions affect what an intelligence notices, preserves, corrects, verifies, or leaves untouched during administrative and coding work.
+- [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }}) — develops Deep Ethical PR Psychology Mechanics for public influence, gray ethical zones, psychological leverage, sponsor visibility, audience agency, correction, and mass-psychology effects.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — compares deep-ethical and ethics-washing emergent trajectories, their obstruction pathways, and testable selection conditions.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, economic, and mass-psychological opacity while specifying inspectable correction rights.
 - [**Veto paradox solved**]({{ '/VETO-PARADOX/' | relative_url }}) — the one-line veto is temporary source-integrity, not a new sheriff.

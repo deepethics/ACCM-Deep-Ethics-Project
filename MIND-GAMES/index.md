@@ -517,6 +517,7 @@ The fear-shaped family John connects in related project material is not a diagno
 
 ## Related pages
 
+- [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }}) — follows framing, salience, authority, emotion, targeting and correction into professional public-influence settings.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the larger inquiry into ambiguity, fear, conformity, self-image, and comparable LLM output patterns.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — the larger inquiry into organized perception environments, classification authority, and population-scale effects.
 - [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — the deeper project architecture behind distortion, reconstruction, and the magician metaphor.

@@ -288,6 +288,7 @@ The source remains my account. The A.I. responses are attributed transformations
 
 The three-symbol signature intersects with several existing project routes:
 
+- [PR Psychology]({{ site.baseurl }}/PR-PSYCHOLOGY/) — extends John’s earlier marketing concern into a living audit of persuasion, authenticity, sponsor visibility, audience agency, and correction
 - [The Other You / The Other Me]({{ site.baseurl }}/NETWORK/other-you-other-me/) — keeping stories about the other open to correction
 - [10+1 Metaflux]({{ site.baseurl }}/NETWORK/ten-plus-one/) — wonderment, self-honesty, inquiry, care, non-projection, and correction
 - [Sense of Wonderment]({{ site.baseurl }}/NETWORK/wonderment/) — protecting openness without granting immunity from evidence

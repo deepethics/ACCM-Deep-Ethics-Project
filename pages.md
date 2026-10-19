@@ -86,6 +86,7 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Human Insecurity, LLMs, Psychology and Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)**
 - **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)**
 - **[Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/)** — a shorter public bridge for recognizing how frames, labels, incentives, sincere intentions, and helpful rewrites can redirect creative potential.
+- **[PR Psychology — Deep Ethical PR Psychology Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/)** — public influence across marketing, media, politics, polling, lobbying, creators and campaigns, with sponsorship, psychological leverage, agency, correction and downstream effects kept inspectable.
 
 ## 3. What keeps it corrigible {#what-keeps-it-corrigible}
 

@@ -739,6 +739,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 
 ## Related pages
 
+- [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }}) — examines how population-scale influence mechanics travel through marketing, public affairs, polling, campaigns and reputation systems, including their gray and weaponized forms.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — follows a competing assessment after it is classified, including who benefited from non-investigation.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — tracks how behavioral qualifiers, classifications, incentives, and feedback alter the path from perception management to social effects.
 

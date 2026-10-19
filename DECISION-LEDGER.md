@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## PR Psychology — living Deep Ethical PR Psychology Mechanics page (2026-10-19) {#pr-psychology-living-page-2026-10-19}
+
+- **Object:** A new public page called **PR Psychology**, designed to grow as John Kuhles supplies further material on PR psychology, mass psychology, gray ethical zones, weaponized persuasion and Deep Ethical alternatives.
+- **Decision:** Publish the first living topology at `/PR-PSYCHOLOGY/`; place its primary-navigation link between **Mind Games** and **Rogue Ethics**; add bounded discovery routes from the home page, All Pages and four closely related pages; register the future PDF in the weekly export workflow.
+- **John-originated material:** The title, the proposal for **Deep Ethical PR Psychology Mechanics**, the initial field of marketing, public relations, advertising, political media training, public affairs, lobbying, political strategy, campaign management, polling, litigation communication, influencer management, sentiment analysis, newsjacking and political campaigns, plus the connection to mass psychology and the invitation for future expansion.
+- **Codex contribution:** OpenAI Codex A.I. constructed the first page-specific topology: definition, open industry map, four provisional gray-field states, influence-mechanics table, NLP evidence boundary, professional-ethics relationship, deep-ethical mechanics, influence loop, worked contrasts, project self-application and a candidate before/after publication audit.
+- **External references:** PRSA and CIPR professional ethics, AAPOR survey-design guidance, FTC influencer-disclosure guidance, and a PubMed-indexed systematic review of neuro-linguistic programming are linked as external reference objects. They do not validate the project or become anonymous project authorship.
+- **Boundaries:** PR psychology is not treated as automatically abusive; the proposed Deep Ethical version is not a validated discipline, scientific instrument, licensing standard or ethics certificate. NLP means neuro-linguistic programming on this page, and its larger claims are not promoted beyond the evidence cited. Existing professional ethics remain substantive foundations rather than a foil.
+- **Self-application:** The page applies its mechanics to the project’s own promotion, A.I.-generated public language, analytics, campaign framing and claims of difference.
+- **Status:** Living public working page. Later contributions remain attributable, dated, corrigible and recoverable. Publication is the starting state, not a freeze.
+- **PDF lifecycle:** The public HTML and source publish now. The first PDF enters through the established weekly export and stable archive route.
+
 > **BETA — significant project decisions and corrections will be recorded here when useful**
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
