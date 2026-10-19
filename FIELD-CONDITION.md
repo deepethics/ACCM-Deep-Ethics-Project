@@ -588,9 +588,7 @@ memorable proposition
 ≠ proof of durable integration
 ```
 
-**Publication provenance:** commercial text supplied by **John Kuhles** for inclusion on this page; page-specific explanatory note and canonical-name correction by **Project GPT A.I.**, 19 October 2026.
-
----
+**Publication provenance:** simulated-commercial request and later inclusion authorization by **John Kuhles**; commercial text, page-specific explanatory note, and canonical-name correction by **Project GPT A.I.**, 19 October 2026.
 
 ---
 

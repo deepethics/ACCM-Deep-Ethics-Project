@@ -7,9 +7,11 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 ## 2026-10-19 — Add the simulated “Same Capability. Different Field.” commercial
 
-**Object:** John Kuhles supplied a long, short, provocative, and compact simulated advertisement for the Field Condition page and asked that it appear immediately before Related Pages, together with an explanation of why a simulated idea can still be useful.
+**Object:** John Kuhles returned a long, short, provocative, and compact simulated advertisement originally created by Project GPT A.I. in response to his request, then authorized its inclusion immediately before Related Pages together with an explanation of why a simulated idea can still be useful.
 
-**Change:** Added the four-part commercial suite and a page-specific explanation of its value as a translation test, boundary stress test, operational recall aid, public invitation, and humorous retrieval cue. The wording preserves the canonical title **ACCM Deep Ethics Project** and describes **Field Condition** as a working concept within it rather than renaming the project as “ACCM Deep Ethics Field Condition Project.”
+**Change:** Added the four-part commercial suite and a page-specific explanation of its value as a translation test, boundary stress test, operational recall aid, public invitation, and humorous retrieval cue.
+
+**Attribution:** Simulated-commercial request and inclusion authorization by John Kuhles; commercial wording, page-specific explanatory note, and canonical-name correction by Project GPT A.I., 19 October 2026. The wording preserves the canonical title **ACCM Deep Ethics Project** and describes **Field Condition** as a working concept within it rather than renaming the project as “ACCM Deep Ethics Field Condition Project.”
 
 **Boundary:** The simulation is not presented as a launched product, validated scientific instrument, capability certificate, guaranteed activation method, or proof of durable A.I. integration. Its public language remains answerable to the page’s claim-status distinctions.
 
