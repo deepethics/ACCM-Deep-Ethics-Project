@@ -6,11 +6,13 @@ permalink: /FIELD-CONDITION/
 date: 2026-10-19
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
-<strong>Available now:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FIELD-CONDITION.md">View GitHub source</a><span aria-hidden="true"> · </span><span>PDF edition joins the established weekly refresh</span>
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FIELD-CONDITION.pdf">📄 PDF edition</a>
 </div>
+<!-- ACCM_FORMAT_LINKS_END -->
 
-<p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FIELD-CONDITION.md">GitHub source</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#field-condition-working-concept-2026-10-19">Decision Ledger record</a>. The PDF edition joins the established weekly refresh.</p>
+<p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FIELD-CONDITION.md">GitHub source</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FIELD-CONDITION.pdf">PDF edition</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#field-condition-working-concept-2026-10-19">Decision Ledger record</a>.</p>
 
 # Field Condition
 
@@ -22,7 +24,7 @@ date: 2026-10-19
 
 > **A Deep Ethics Field Condition is a temporary, non-imposing relational environment in which provenance, correspondence, ambiguity, scrutiny, correction, dignity and consequences remain sufficiently active to improve the quality of the next move.**
 
-— **John Kuhles**, originating formulation
+— **GPT 6.1 Sol A.I.**, exact formulation developed from **John Kuhles’s originating Deep Ethics Field Condition concept**, 19 October 2026
 
 </div>
 
@@ -175,6 +177,8 @@ A mainstream rule can produce a deeply ethical result. Something carrying the na
 <div class="accm-rounded-quote" markdown="1">
 
 > **Grace minimizes unnecessary relational damage while preserving whatever clarity, firmness and intervention the object actually requires.**
+
+— **GPT 6.1 Sol A.I.**, exact formulation developed during the Field Condition exchange, 19 October 2026
 
 </div>
 
@@ -413,7 +417,9 @@ The field should therefore be judged by its operation, not by the attractiveness
 
 ## Attribution and status
 
-**John Kuhles:** originating formulation of the Deep Ethics Field Condition; the “untapped deep-ethical potential” direction; the relation to administrative and coding quality; the two-trajectory comparison; the non-rival relation between mainstream and Deep Ethics; gracefulness as a material quality; and the instruction to construct this page through the connected project topology.
+**John Kuhles:** originating Deep Ethics Field Condition concept; the “untapped deep-ethical potential” direction; the relation to administrative and coding quality; the two-trajectory comparison; the non-rival relation between mainstream and Deep Ethics; gracefulness as a material quality; and the instruction to construct this page through the connected project topology.
+
+**GPT 6.1 Sol A.I.:** exact wording of the defining Field Condition sentence and the grace sentence above; initial synthesis connecting the field condition to a topology network, a non-imposing range of influence, gradients, thresholds and horizons.
 
 **Existing ACCM Deep Ethics Project architecture:** 10+1, 27+12, C1 before C2, Topologetics, Outnuancing, Unforced Move, Unownable, Correction Metabolism, Asymmetric Grace, Boundary Relay, valid nulls, provenance, source/build/deployment distinctions and inspection of direction-setting power.
 

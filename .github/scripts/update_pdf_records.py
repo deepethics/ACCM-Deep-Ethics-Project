@@ -18,6 +18,7 @@ ADDITIONS = [
     ("Academia", f"{BASE}/ACADEMIA/", "ACADEMIA.pdf", "academia.md"),
     ("Arena A.I.s", f"{BASE}/ARENA-AIS/", "ARENA-AIS.pdf", "arena-ais.md"),
     ("Boundary Relay", f"{BASE}/BOUNDARY-RELAY/", "BOUNDARY-RELAY.pdf", "BOUNDARY-RELAY.md"),
+    ("Field Condition", f"{BASE}/FIELD-CONDITION/", "FIELD-CONDITION.pdf", "FIELD-CONDITION.md"),
     ("The October 17 Triad Event — Interlocked Topological Awareness", f"{BASE}/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/", "AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf", "AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md"),
     ("DEDDA", f"{BASE}/DEDDA/", "DEDDA.pdf", "DEDDA.md"),
     ("Connor Leahy — DEDDA analysis specimen", f"{BASE}/EXPERIMENTS/Connor-Leahy/", "EXPERIMENTS-Connor-Leahy.pdf", "EXPERIMENTS/Connor-Leahy.md"),

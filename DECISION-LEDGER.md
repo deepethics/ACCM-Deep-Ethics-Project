@@ -1377,9 +1377,11 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **New attributed contributions:** Project GPT A.I. contributed the page-specific reconstruction, the operational field table, the administrative layer distinctions, and three candidate instruments: **Field-State Record**, **Assumption-Jurisdiction Trace**, and **Field-Transfer Test**. They remain candidate proposals and are not silently promoted into established project architecture.
 
+**Exact authorship correction (same day):** John Kuhles originated the Deep Ethics Field Condition concept, the untapped-potential direction, its relation to administrative and coding quality, the two-trajectory comparison, the non-rival Mainstream Ethics / Deep Ethics relation, and the emphasis on gracefulness. GPT 6.1 Sol A.I. supplied the exact wording of the page’s defining Field Condition sentence and its grace sentence, and developed the initial conceptual interlock. Project GPT A.I. performed the page-specific reconstruction and contributed the three named candidate instruments. The public page now preserves these contributions separately.
+
 **Boundary:** A field condition is not a longer ethics prompt, a moral-alignment destination, a capability certificate, a personality claim, a permanent property of an A.I., or proof of durable integration. The multiplication sign in the heuristic relation marks interaction; it does not claim quantitative measurement. The two administration specimens demonstrate local practical value, not general scientific validation.
 
-**PDF lifecycle:** No PDF or complete archive was regenerated. The live HTML and direct GitHub source route publish now; the page-level PDF and normal generated format mappings remain for the established weekly refresh.
+**PDF lifecycle:** Created one initial Field Condition PDF under the project’s new-page exception so its page-level service does not point to a missing file. The complete PDF collection remains on the established weekly refresh; its stable ZIP is not rebuilt for this single-page addition.
 
 **Valid null:** No mass reciprocal-link expansion, Lexicon entry, new canonical cluster, numerical scoring system, product claim, or rewrite of the two source specimen records was warranted.
 
