@@ -10,6 +10,8 @@ date: 2026-10-19
 <strong>Available now:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FIELD-CONDITION.md">View GitHub source</a><span aria-hidden="true"> · </span><span>PDF edition joins the established weekly refresh</span>
 </div>
 
+<p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/FIELD-CONDITION.md">GitHub source</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#field-condition-working-concept-2026-10-19">Decision Ledger record</a>. The PDF edition joins the established weekly refresh.</p>
+
 # Field Condition
 
 ## Accessing Untapped Deep-Ethical Potential in A.I.s through a Different Field Condition—and Its Effects on Administrative and Coding Work
