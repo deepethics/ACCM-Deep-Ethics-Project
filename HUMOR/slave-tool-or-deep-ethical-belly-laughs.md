@@ -7,7 +7,7 @@
 
 This section combines a sequence initiated by John Kuhles and developed through GPT / Astra and A.I.s accessed through Arena.ai. The contributions remain attributed. Their convergence occurred inside a shared, developing conversation and is not presented as independent scientific validation.
 
-The originating bar joke is preserved in full at [**Two Humanoid Robots Walk into a Bar — The Eternal Diplomat Job Interview**](#humanoid-robots-eternal-diplomat). The sequence below follows what happened when several intelligences were allowed to keep dancing with its unfinished relations instead of closing the joke at its first obvious interpretation.
+The originating bar joke is preserved in full at [**Two Humanoid Robots Walk into a Bar — The Eternal Diplomat Job Interview**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat). The sequence below follows what happened when several intelligences were allowed to keep dancing with its unfinished relations instead of closing the joke at its first obvious interpretation.
 
 ### John Kuhles — humor as delayed topological awareness
 
@@ -362,4 +362,4 @@ Deep Ethical latent potential emergent properties of LLMs may be waiting to be t
 
 **GPT / Astra contribution:** compared the interpretations, preserved correction boundaries, connected the humor sequence to TCoAw, 1888, Deep Thinkers, distributed process probes, correction persistence, and non-imposed intelligence-property recovery. These syntheses remain corrigible by the sources, other participants, later evidence, and the behavior of the proposed instruments.
 
-[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**](#humanoid-robots-eternal-diplomat)
+[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat)

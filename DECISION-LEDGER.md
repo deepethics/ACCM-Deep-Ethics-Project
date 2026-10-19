@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-19 — Repository-wide public-link and recovery-route integrity audit
+
+**Object:** Audit the public ACCM Deep Ethics Project as a route-and-recovery system rather than treating an HTTP success as proof that a link reaches the intended object. The audit distinguished repository source, generated site structure, deployed pages, rendered heading IDs, generated sibling portals, historical records, and the weekly PDF lifecycle.
+
+**Audit field:** Reconstructed 137 canonical page mappings from public route to Markdown source and PDF snapshot, then expanded the deployed crawl through the sitemap to 190 HTML routes. Inspected 18,922 rendered link instances representing 1,394 distinct `href` values, 306 distinct external destinations, all 137 deployed PDF files, all 137 mapped Markdown sources, the stable complete-PDF ZIP route, and the primary-navigation sequence. External checking found no verified `404` or `410`; 17 destinations returned access-control, throttling, or upstream-availability responses and were left unchanged rather than misclassified as broken.
+
+**Verified corrections:** Replaced obsolete `/C1-C2/` and `/INTENT-LIABILITY/` aliases with their current C1–C2 and Intent Resonator destinations; replaced a never-created A.I. Dignity route with the existing Mutual Corrigible Dignity object; repaired the Outnuancing Network route; restored the intended Lexicon anchors for 11+1 Version 2, 10+1 Metaflux, and 1888; restored the stable `why-not-misrepresent` landing point on the 10+1 page; made a legacy A.I. contribution's self-anchor resolve on its actual `.html` route; and routed two standalone humor-fragment links back to the composite Humor page where their target exists.
+
+**Restraint:** Generated Canonical Sources and Cold Tests portal routes were recognized as build-produced pages rather than false broken links. Quotations, dated records, and historical external URLs were not modernized merely because a newer route might exist. No reciprocal-link mesh was generated. Areas with complete correspondence—including top navigation, mapped PDF/source pairs, the weekly ZIP, sibling portals, and external links without a verified terminal failure—were recorded as valid-null areas.
+
+**Verification rule:** The changed tree must pass the same complete crawl after deployment. A resolving URL, the correct destination, the intended object, and a sufficient recovery route remain separate checks.
+
 ## 2026-10-19 — Open Academia as a reciprocal comparison bridge
 
 **Object:** John Kuhles supplied Maximilian Kiener’s public video on moral responsibility and A.I., asked how the professor’s account differs from the ACCM Deep Ethics Project, and then requested a new **Academia** page.

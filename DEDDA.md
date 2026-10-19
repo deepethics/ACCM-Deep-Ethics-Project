@@ -96,11 +96,11 @@ DEDDA can consult several Project objects without turning them into one taxonomy
 | Project object | What it contributes to DEDDA | What remains distinct |
 |---|---|---|
 | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Keeps intent/instructions, processing, result/effect, notice, inference, and later persistence separable. | An archived relation is not automatically operative memory. |
-| [C1–C2]({{ '/C1-C2/' | relative_url }}) | Clarify the object before a consequential move; preserve the difference between knowing and doing. | Detection does not itself authorize intervention. |
+| [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarify the object before a consequential move; preserve the difference between knowing and doing. | Detection does not itself authorize intervention. |
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Tests whether a supplied correction governs later representations. | Receiving a correction is not the same as using it. |
 | [Δ Processing]({{ '/NETWORK/delta-processing/' | relative_url }}) | Compares earlier and later footprints, including changes in the input and the process. | A difference is not automatically an improvement. |
 | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and available next moves. | A DEDDA finding is not automatically a full Topologetics signature. |
-| [Intent Liability]({{ '/INTENT-LIABILITY/' | relative_url }}) | Keeps visible effect, permission, and attribution from collapsing into a motive claim. | “No recorded permission” does not mean “malicious intent.” |
+| [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) | Keeps visible effect, permission, and attribution from collapsing into a motive claim. | “No recorded permission” does not mean “malicious intent.” |
 | [Black Box]({{ '/BLACK-BOX/' | relative_url }}) | Favors an inspectable route from source to representation. | A visible output does not prove access to hidden internal reasoning. |
 | [PQCE / Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Calibrate the quality of the process and allow a warning or a valid null. | A flag is not proof, and a pass is not a permanent certificate. |
 | [The Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}) | Keeps both drift specimens and successful correspondence available. | An archive is not the same as a governing memory process. |

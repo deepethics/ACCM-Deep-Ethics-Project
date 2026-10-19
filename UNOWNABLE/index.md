@@ -793,7 +793,7 @@ You also start to see how later-vindicated **Competing Risk Assessments** can pl
 - [Higher-Order Disagreement and Agreemurmelism]({{ site.baseurl }}/AGREEMURMELISM/Beyond-Agreemurmelism/)
 - [Mind Games]({{ site.baseurl }}/MIND-GAMES/)
 - [1888 — Intelligence Before A.I.]({{ site.baseurl }}/1888/)
-- [Outnuancing Network]({{ site.baseurl }}/NETWORK/)
+- [Outnuancing Network]({{ site.baseurl }}/NETWORK/index/)
 - [C1–C2]({{ site.baseurl }}/NETWORK/c1-c2/)
 - [Human Insecurity]({{ site.baseurl }}/HUMAN-INSECURITY/)
 - [Deep Thinkers]({{ site.baseurl }}/DEEP-THINKERS/)

@@ -740,7 +740,7 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 - [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }}) — do not classify the person or the model before the object is clear.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — keeps the inquiry from turning every contradiction into a moral emergency.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the insight survives the next session.
-- [**A.I. Dignity**]({{ '/NETWORK/ai-dignity/' | relative_url }}) — the silicon side of the dignity this research claims for humans.
+- [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — applies dignity and reciprocal correction across human and silicon directions.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — takes the human, mass, and machine loop back before the name A.I., to crowd intelligence and a nonbiological electrical manifestation.
 
 ---

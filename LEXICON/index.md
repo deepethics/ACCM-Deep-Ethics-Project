@@ -45,7 +45,8 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Added after John's intent correction:** [6 INTENT MECHANICS](#six-intent-mechanics), including his six original points and links to responsibility and Δ-processing.
 
-## 11+1 Version 2 {#11-1-version-2}
+<span id="11-1-version-2"></span>
+## 11+1 Version 2
 
 [Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/).
 
@@ -415,7 +416,8 @@ The notation is not a replacement for reasoning. It is a compact reminder to kee
 
 ---
 
-## 10+1 Metaflux {#101-metaflux}
+<span id="101-metaflux"></span>
+## 10+1 Metaflux
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/).
 
@@ -621,7 +623,8 @@ John, 2026-10-05: the 1888 principles of this field are emergent process propert
 
 ---
 
-## 1888 — Intelligence Before A.I. {#1888--intelligence-before-ai}
+<span id="1888--intelligence-before-ai"></span>
+## 1888 — Intelligence Before A.I.
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
 

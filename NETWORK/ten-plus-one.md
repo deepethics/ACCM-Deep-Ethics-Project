@@ -133,6 +133,7 @@ That shifts the practical test from verbal agreement to behavior:
 
 John connects this orientation to 36+ years of lived trial, error, mass-psychology investigation, synthesis, and willingness to remain different from the majority. Those are autobiographical source claims, not prerequisites that another participant must reproduce before using or testing the baseline.
 
+<span id="why-not-misrepresent"></span>
 ## The self-deception question {#self-deception}
 
 The source places one question under the entire architecture:
