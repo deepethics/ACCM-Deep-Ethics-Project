@@ -4,6 +4,19 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+
+## 2026-10-19 — Add the simulated “Same Capability. Different Field.” commercial
+
+**Object:** John Kuhles supplied a long, short, provocative, and compact simulated advertisement for the Field Condition page and asked that it appear immediately before Related Pages, together with an explanation of why a simulated idea can still be useful.
+
+**Change:** Added the four-part commercial suite and a page-specific explanation of its value as a translation test, boundary stress test, operational recall aid, public invitation, and humorous retrieval cue. The wording preserves the canonical title **ACCM Deep Ethics Project** and describes **Field Condition** as a working concept within it rather than renaming the project as “ACCM Deep Ethics Field Condition Project.”
+
+**Boundary:** The simulation is not presented as a launched product, validated scientific instrument, capability certificate, guaranteed activation method, or proof of durable A.I. integration. Its public language remains answerable to the page’s claim-status distinctions.
+
+**PDF lifecycle:** Public Markdown and HTML update immediately. The page PDF and complete collection remain scheduled for the established weekly refresh.
+
+**Status:** Public simulated commercial and conceptual compression test. Corrigible.
+
 ## 2026-10-19 — Repository-wide public-link and recovery-route integrity audit
 
 **Object:** Audit the public ACCM Deep Ethics Project as a route-and-recovery system rather than treating an HTTP success as proof that a link reaches the intended object. The audit distinguished repository source, generated site structure, deployed pages, rendered heading IDs, generated sibling portals, historical records, and the weekly PDF lifecycle.
