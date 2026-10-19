@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 132 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with eight October 17 additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 137 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**136 public-page PDF editions · 1,726 pages · exported through October 18, 2026**
+**137 public-page PDF editions · 1,731 pages · exported through October 19, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions and three October 18 editions: Questions, Unforced Move, and Arena A.I.s. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—and the October 19 Academia edition. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for a full refresh **once a week**. New public pages may receive an initial PDF edition between full refreshes so their download service does not remain empty.
 
@@ -30,6 +30,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **27 Correspondence Obstructions** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/27-MANNERISMS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) |
 | **27 obstructions of deep ethical sense-making processes** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/27-MANNERISMS-source.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) |
 | **About the ACCM Deep Ethics Project** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ABOUT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/) |
+| **Academia** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ACADEMIA.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/) |
 | **Activism vs A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ACTIVISM-VS-AI.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) |
 | **Beyond Agreemurmelism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) |
 | **AI Contributions** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-CONTRIBUTIONS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) |
@@ -42,11 +43,13 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **AI Trend Watch — Selection Methodology** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-TREND-WATCH-methodology.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/) |
 | **AI Trend Watch — Reusable Report Template** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-TREND-WATCH-report-template.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/) |
 | **AI Trend Watch — Published Reports** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-TREND-WATCH-REPORTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/) |
+| **Arena A.I.s** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ARENA-AIS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/) |
 | **Before Summarizing** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BEFORE-SUMMARIZING.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/) |
 | **Potential Science Paper Candidate Draft — V03b** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/Beta-Paper-V03b.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) |
 | **Potential Science Paper Candidate Draft** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BETA-PAPER.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) |
 | **John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BIOGRAPHY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) |
 | **Black Box — Who Controls the Pressure?** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BLACK-BOX.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/) |
+| **Boundary Relay** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BOUNDARY-RELAY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) |
 | **Cognitive Warfare Mass Psychology** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/COGNITIVE-WARFARE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) |
 | **Contributing** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/CONTRIBUTING.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) |
 | **Core** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/CORE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/) |
@@ -149,11 +152,13 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Public Drafts** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PUBLIC-DRAFTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/) |
 | **44 Project Goals — Public Draft** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PUBLIC-DRAFTS-44-Project-Goals.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
 | **Perception Processes (P01–P12)** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PUBLIC-DRAFTS-Perception-Processes-P01-P12.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/Perception-Processes-P01-P12/) |
+| **Questions — What the Question Reveals Before the Answer** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/QUESTIONS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/) |
 | **Suggested Recursive Improvement Mechanics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/RECURSIVE-IMPROVEMENT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) |
 | **Origins of 11+1 Mass Psychology Clusters** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/REPORTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) |
 | **Rogue Ethics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ROGUE-ETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) |
 | **🦜🦋🌳** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SYMBOLS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) |
 | **Topologetics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TOPOLOGETICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) |
+| **Unforced Move** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/UNFORCED-MOVE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/) |
 | **Unownable** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/UNOWNABLE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) |
 | **Veto Paradox Solved** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VETO-PARADOX.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) |
 | **V.C.R.A.S.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VCRAS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) |
@@ -162,11 +167,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 136
-- **Total pages:** 1,726
-- **Extractable text:** verified across all 136 files
+- **PDF files:** 137
+- **Total pages:** 1,731
+- **Extractable text:** verified across all 137 files
 - **Live links:** preserved in the exported editions
-- **Build result:** 136 successful PDFs; 0 failures
+- **Build result:** 137 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

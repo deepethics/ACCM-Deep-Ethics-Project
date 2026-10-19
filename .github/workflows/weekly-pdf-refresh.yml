@@ -31,6 +31,8 @@ jobs:
 
       - name: Regenerate every indexed PDF
         run: |
+          release_date="$(date -u +%F)"
+          python .github/scripts/update_pdf_records.py --date "$release_date"
           python .github/scripts/update_source_format_links.py
           python .github/scripts/export_all_page_pdfs.py
 

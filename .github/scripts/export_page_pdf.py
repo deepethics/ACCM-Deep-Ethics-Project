@@ -54,6 +54,12 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
         text,
         flags=re.DOTALL,
     )
+    text = re.sub(
+        r"<!-- ACCM_PDF_OMIT_START -->.*?<!-- ACCM_PDF_OMIT_END -->\n*",
+        "",
+        text,
+        flags=re.DOTALL,
+    )
     text = expand_includes(text, source)
 
     # Turn Jekyll-generated internal links into durable public URLs.

@@ -4,6 +4,18 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-19 — Open Academia as a reciprocal comparison bridge
+
+**Object:** John Kuhles supplied Maximilian Kiener’s public video on moral responsibility and A.I., asked how the professor’s account differs from the ACCM Deep Ethics Project, and then requested a new **Academia** page.
+
+**Change:** Published [Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/) as a growing comparison page and placed it between **Before Summarizing** and **16 Anchor Ethics** in the main navigation. The first worked entry preserves Kiener’s answerability–blame–compensation distinction, its overlap with mutual dignity and non-automatic blame, the project’s earlier correspondence and later correction layers, and Kiener’s later movement from a possible responsibility gap toward responsibility abundance.
+
+**Project delta:** The entry identifies compensation as a relation that should remain distinct from answerability, blame, correction, apology, and prevention of recurrence. It asks whether a correction repaired only the representation or also restored what the affected participant materially lost.
+
+**Boundary:** The page does not treat academia as one voice, a final authority, an enemy category, or a certification system for project terminology. The short video is not represented as Kiener’s complete scholarship. A scholarly neighbor is not validation, and a difference is not a refutation.
+
+**Status:** Public living comparison page. Corrigible.
+
 ## 2026-10-16 — Related pages link back to Beyond Agreemurmelism
 
 **Change:** Eight pages named at the bottom of [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) did not link back. They now do: 10+1, Asymmetric Grace, Intent Liability, Outnuancing, C1 Before C2, Correction Metabolism, External Audit, and Deep Ethical Influence Jurisdiction. Mutual Dignity already linked back. Existing link wording was left as it was.

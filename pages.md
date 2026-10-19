@@ -187,6 +187,7 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
 - **[For who? — local A.I. across professions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** — an expanded map of who can use one inspectable move without adopting the project’s identity.
 - **[Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/)** — welcomes search engines, retrieval systems, and A.I.s with a corrected reference baseline and a live Google A.I. representation-substitution and correction-metabolism specimen.
+- **[Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/)** — a living correspondence bridge that preserves the exact scholarly object, distinguishes overlap from identity, records what academia and the project can each add, and begins with Maximilian Kiener’s answerability–blame–compensation architecture for A.I. responsibility.
 - **[ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)**
 - **[About](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)**
 - **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)**
