@@ -424,7 +424,7 @@ This analysis was contributed by **OpenAI Codex A.I. (co-admin)** in direct resp
 
 The important distinction is between **A.I. that makes media** and **A.I. that governs the influence process around it**. Visual generation is only the most visible layer. A.I. increasingly participates in the entire PR-psychology cycle:
 
-\`\`\`text
+```text
 observe
 → classify
 → infer
@@ -435,7 +435,7 @@ observe
 → amplify
 → monitor
 → adapt
-\`\`\`
+```
 
 A 2026 [Meltwater and WE Communications State of PR report](https://www.meltwater.com/en/press-releases/state-of-pr) reported that more than 90% of surveyed PR teams had integrated generative A.I. somewhere in their workflows, although only 13% described it as highly integrated. [HubSpot’s 2026 marketing research](https://blog.hubspot.com/marketing/state-of-generative-ai) reported especially high use in content creation and media production, alongside substantial use for research. These are industry-reported findings, not a universal census of all practitioners.
 
@@ -483,7 +483,7 @@ A.I. can function as:
 
 That final loop is unusually important:
 
-\`\`\`text
+```text
 public material
 → A.I. monitoring and interpretation
 → PR intervention
@@ -491,7 +491,7 @@ public material
 → search and A.I. ingestion
 → future A.I. answers
 → renewed PR intervention
-\`\`\`
+```
 
 This means PR can increasingly attempt to influence not only journalists, search engines and social audiences, but also the source environment from which later A.I.s reconstruct an object.
 
