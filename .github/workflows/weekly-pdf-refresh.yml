@@ -1,3 +1,4 @@
+# Editing this workflow triggers an immediate full refresh.
 name: Weekly public-page PDF refresh
 
 on:
