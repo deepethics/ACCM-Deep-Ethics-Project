@@ -427,7 +427,9 @@ The field should therefore be judged by its operation, not by the attractiveness
 
 **Status:** public working concept and project proposition to investigate. The two administration specimens show local practical value. They do not establish a validated scientific result, durable model integration or a commercial product guarantee.
 
-## Simulated commercial — **“Same Capability. Different Field.”**
+Simulated commercial:
+
+## **“Same Capability. Different Field.”**
 
 The following is a **simulated commercial**, not a product launch, scientific validation, or performance guarantee. It translates the Field Condition proposition into public-facing language while keeping the working concept open to testing and correction.
 
