@@ -25,6 +25,13 @@
 - **Correction:** Reattributed the sentence to **OpenAI Codex A.I. (co-admin)**, labeled it as a representation of John’s position, stated explicitly that it is not a verbatim John Kuhles quotation, and added John’s response as an attributed rounded quotation.
 - **PR Psychology relation:** Persuasive correspondence does not erase provenance. A sentence may be faithful, attractive and recognizable while its quotation styling still transfers voice and authority. Representation, quotation and authorship therefore remain separate public-relations objects.
 
+### Later addition — gifted rooms and salience power (2026-10-19)
+
+- **John’s contribution:** John proposed that a room containing 100 highly gifted people may distort itself faster when none are deeply ethical, while a smaller deep-ethical presence relocates friction toward the question of who determines what is important. He identified the danger that those capable of manipulating a majority may treat power as correctness.
+- **Codex contribution:** Codex developed the distinction between intelligence and field quality; mapped persuasive capacity through agenda-setting, coalition control and apparent legitimacy; separated productive direction-setting friction from self-protective conflict; and connected the relation to Field Condition, PR Psychology, mass psychology and Unforced Move.
+- **Public proposition:** Numerical agreement can record the effectiveness of an influence architecture rather than correspondence with reality. Deep Ethics does not promise harmony; it keeps salience selection, direction-setting authority, persuasive coalitions and excluded objects inside the audit field.
+- **Boundary:** This is a project-level process proposition, not a claim that every gifted group distorts, every majority is manipulated, or a self-declared deep-ethical minority is automatically correct.
+
 > **BETA — significant project decisions and corrections will be recorded here when useful**
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.

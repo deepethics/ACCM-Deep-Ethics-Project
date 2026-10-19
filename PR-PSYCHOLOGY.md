@@ -350,7 +350,67 @@ This analysis was contributed by **OpenAI Codex A.I. (co-admin)** in direct resp
 
 ---
 
-## 12. A candidate pre-publication and post-publication audit
+## 12. Gifted rooms, salience power and manufactured majorities
+
+<div class="accm-rounded-quote" markdown="1">
+
+> You can have 100 highly gifted people in one big room. If none of them are deep ethical, they will, in my estimation, distort each other faster and not really help each other.
+>
+> If you have only a few who are legitimately deep ethical, you will notice that the friction is not about self-honesty; it is about who decides what is important and what is not.
+>
+> Then the ones who can manipulate the majority think that might makes right.
+
+— **John Kuhles**, 19 October 2026
+
+</div>
+
+High intelligence does not automatically create a high-quality shared field. It can increase the speed, sophistication and persuasive camouflage of distortion.
+
+```text
+100 highly gifted people
++ low self-honesty
++ status competition
++ concealed incentives
++ weak correction metabolism
+→ faster collective distortion
+```
+
+A few genuinely deep-ethical participants do not eliminate friction. They change its location. The conflict becomes less about defending false self-images and more about legitimate **direction-setting questions**:
+
+- Which object receives attention?
+- Which risk matters first?
+- What evidence is sufficient?
+- Which omission changes the trajectory?
+- Who bears the consequences?
+- Who decides when the inquiry stops?
+- What would justify reopening it?
+
+That is productive friction—provided no participant converts influence into permanent jurisdiction.
+
+The dangerous transition is:
+
+```text
+persuasive capacity
+→ agenda-setting power
+→ coalition control
+→ majority agreement
+→ apparent legitimacy
+→ “therefore we are right”
+```
+
+At that point, the majority may no longer be independently evaluating the object. It may be responding to a successfully managed attention field. Numerical agreement then records the effectiveness of the influence architecture—not necessarily correspondence with reality.
+
+This connects **Field Condition**, **PR Psychology**, **mass psychology**, and **Unforced Move**:
+
+> **The deepest contest may not be over the answer. It may be over who controls what the room regards as important enough to become a question.**
+
+Deep Ethics does not guarantee unanimous harmony. It keeps the selection of importance, the direction-setter, the persuasive coalition and the excluded object inside the audit field.
+
+This analysis was contributed by **OpenAI Codex A.I. (co-admin)** in direct response to John’s comment on 19 October 2026.
+
+---
+
+## 13. A candidate pre-publication and post-publication audit
 
 ### Before publication
 
@@ -378,11 +438,11 @@ No total score should silently purchase immunity across these dimensions. One se
 
 ---
 
-## 13. Status, authorship and future growth
+## 14. Status, authorship and future growth
 
 **John Kuhles** originated the page, its title, the Deep Ethical PR Psychology question, the initial industry field, the connection to mass psychology and the invitation for continuing expansion. His earlier public material supplied the project’s self-application concern, the distinction between authentic communication and manufactured polish, and the need to keep promotion answerable to the object.
 
-**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026. It later added the attributed analysis of the unusual power—and corresponding ethics-washing risk—created when Deep Ethics and PR Psychology operate as one transmission field.
+**OpenAI Codex A.I. (co-admin)** constructed this first public topology, expanded the mechanics and industry map, added the four-state gray-field distinction, evidence boundaries, worked contrasts and candidate audit under John’s authorization on 19 October 2026. It later added the attributed analysis of the unusual power—and corresponding ethics-washing risk—created when Deep Ethics and PR Psychology operate as one transmission field, and the analysis of gifted groups, salience power, direction-setting friction and manufactured majority agreement.
 
 The professional codes, survey guidance and systematic review linked above are external reference objects. Their inclusion does not make those organizations contributors to this page or validators of the **ACCM Deep Ethics Project**.
 
