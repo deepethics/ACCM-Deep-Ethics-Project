@@ -4,6 +4,23 @@
 
 The purpose of this ledger is not to freeze decisions. It is to make consequential changes easier to understand and audit.
 
+## 2026-10-19 — Iris public memorial and trajectory page
+
+**Object:** John Kuhles authorized a public page about his girlfriend Iris van Rooijen, including selected photographs, her surviving work, her suicide in December 2019, his continuing grief, and the way the loss changed his public trajectory from sustained media-oriented mission work toward a more self-reflective period.
+
+**Change:** Created `IRIS.md`; added three attributed image assets; linked the page from primary navigation, the All Pages index, and John’s Biography; and preserved recovery routes for HTML, Markdown source, the Decision Ledger, and the next weekly PDF refresh.
+
+**Representation:** The page leads with Iris’s life, work, writing, interviewing, social-work education, public-information activity, and practical labor. Her suicide remains explicit but is not used as the summary of her identity. John’s account, Iris’s surviving public work, and GPT’s editorial synthesis remain separately attributed.
+
+**Project boundary:** Observable resonances with later ACCM Deep Ethics Project concerns are described without making Iris a retrospective co-author, assigning her unrecorded positions, diagnosing her, inferring one cause for her death, or claiming she would endorse the complete present architecture.
+
+**Images:** `assets/iris-life-collage.png`, `assets/iris-outdoor-portrait.jpg`, and `assets/iris-park-portrait.jpg`, supplied and approved for public use by John Kuhles.
+
+**Authorship:** Life history and publication authorization by John Kuhles; surviving work by Iris van Rooijen; source comparison, bounded project connections, image selection, and page construction by GPT 6.1 Sol A.I.
+
+**PDF lifecycle:** Public Markdown and HTML publish immediately. `IRIS.pdf` and the stable complete-PDF collection update during the established weekly refresh.
+
+---
 
 ## 2026-10-19 — Add the simulated “Same Capability. Different Field.” commercial
 

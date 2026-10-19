@@ -138,6 +138,7 @@ John’s own records. The public pages above are not a substitute for these.
 - **[Arena deep session, 17–18 September 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18/)**
 - **[A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)**
 - **[Biography and the conditions behind the project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)**
+- **[Iris](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IRIS/)** — Iris van Rooijen, her surviving work, her relationship with John Kuhles, and the loss that changed the public trajectory behind the project.
 - **[Meta Quotes — candidate collection](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/)** — John’s Deep Ethical metacognitive candidate quotes, kept for later comparison rather than installed as a canon.
 - **[Meta Quotes — source record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/)** — the recoverable excerpts behind that collection.
 - **[🦜🦋🌳 — The origin story behind the three-symbol signature](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/)** — John’s personal account of freedom and compassion, transformation and wonderment, grounding and living continuity, followed by clearly attributed and bounded A.I. interpretations.

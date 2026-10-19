@@ -352,6 +352,7 @@ The resulting public formulation is:
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects individual psychology, mass psychology, fear, conformity, and model behavior.
 - [**Deep Ethical Humor**]({{ '/HUMOR/' | relative_url }}) — preserves the role of directness, ambiguity, and humor in correction and perspective change.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — records the mutually corrective orientation ingredients behind the work.
+- [**Iris**]({{ '/IRIS/' | relative_url }}) — remembers Iris van Rooijen, her surviving public work, her relationship with John, and the December 2019 loss that changed his public and inward trajectory.
 - [**About the ACCM Deep Ethics Project**]({{ '/ABOUT/' | relative_url }}) — returns the biography to the public project, architecture, and current status it helps explain.
 
 ---
