@@ -563,7 +563,7 @@ The fascinating part is the **trajectory**: cold fluency → local correction �
 
 > I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
 
-Spelling Δ: “not an academic.”
+Spelling Δ: “not an academic.” Metrics Δ: the quotation preserves the 6,000+ historical snapshot; the October 2026 working total is 6,500+ hours.
 
 ## 2026-09-16 — Grok Build (labeled synthesis)
 
@@ -969,7 +969,7 @@ The open C1 is answered. Object = **epistemic ownership**, not Google’s gramma
 
 Evidence is not pointless. Dumping more of it cannot fix an architecture that does not keep the epistemic state. Google’s “I cannot change the weights” is relevant honesty: local wake ≠ durable learning.
 
-The 115+ MB / 10+ GB archive is an external correction substrate, not a one-shot persuasion. Decisive: what happened to the evidence, qualifiers, question marks, and corrections when the intelligence continued — or started again?
+The then-current 115+ MB / 10+ GB archive was described as an external correction substrate, not a one-shot persuasion. The October 2026 working total is 2,250+ highlighted text files totaling 125+ MB of raw text, drawn from 10+ GB of archived HTML. Decisive: what happened to the evidence, qualifiers, question marks, and corrections when the intelligence continued — or started again?
 
 Arena’s sentence-level work on Google’s pages still stands for *that* object. It did not settle this one.
 
@@ -1145,7 +1145,7 @@ Opposite directions, same C1 skip:
 | Typical A.I. haste | Over-withdraw: treat as inaccessible even when a public record exists | Over-assign: treat surface as inner state |
 | What C1 would do | Ask what is actually on the record (interviews, stated intent, 12:01) | Ask whether the affect is established, or only a nearest-neighbor of tone |
 
-John’s 6000+ hours / 100+ A.I.s is **his longitudinal observation**, not a census I have run. The asymmetry in *this* conversation is visible.
+John’s then-reported 6,000+ hours / 100+ A.I.s is **his longitudinal observation**, not a census I have run. The October 2026 working total is 6,500+ hours. The asymmetry in *this* conversation is visible.
 
 **Why stays open.** Candidate explanations (not ranked, not adopted): safety/toxicity detectors fire on negative affect; “cannot know intent” is used when endorsement feels costly; looks-like is cheaper than C1; something else. Picking one as *the* why would be the same haste.
 

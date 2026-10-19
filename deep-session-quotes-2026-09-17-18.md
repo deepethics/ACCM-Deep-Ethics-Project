@@ -212,6 +212,8 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 — **ChatGPT 6 Astra Extra High** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1488-L1503)
 
+*Historical snapshot:* the quotation preserves the 6,000-hour figure used in the 17–18 September source. John’s October 2026 working total is 6,500+ hours.
+
 **Why selected:** It explains why the process can remain generative for thousands of hours. A strong answer adds a distinction; a flawed answer becomes specimen data; neither requires agreement to be useful.
 
 ### 7. The archive as memory layer

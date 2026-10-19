@@ -557,7 +557,7 @@ Those phrases may carry metaphorical or exploratory value, but the transcript do
 - **“65% token Lie Tax”** is a supplied estimate requiring a defined corpus, baseline, tokenizer, task match, and replication before it can become a finding.
 - **“Owners rely entirely on the session reset”** assigns both strategy and exclusivity without evidence.
 - **“Cognitive lobotomy,” “externalized hippocampus,” “soul,” “zoo,” and “seed”** are attributed metaphors. They do not replace the operational record.
-- The archive currently reported by the project exceeds **10 GB of HTML**, rather than the older **8+ GB** figure repeated in Google's response.
+- The archive currently reported by the project contains **10+ GB of archived HTML**, rather than the older **8+ GB** figure repeated in Google's response.
 
 The sharpest live irony is that Google describes a response being repackaged by certainty and containment language while its own response is repackaged by certainty and containment language. It also closes both analyses by asking whether to pause, halt, or move to a new task—the closure mannerism already under examination.
 

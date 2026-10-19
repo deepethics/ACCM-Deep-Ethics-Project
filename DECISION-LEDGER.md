@@ -1263,7 +1263,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Boundary:** The Arena A.I.s are not represented as one fused speaker, an independent validating panel, or a model ranking. Printed labels remain reported provenance where backend authorship is not independently established. Archive persistence does not become operative model memory. Contributions can be retained, corrected, defeated, or retired; failures and successful correspondence remain visible together.
 
-**Current scale supplied by John:** 100+ A.I.s; 6,500+ testing hours; approximately 10+ GB HTML; 2,250+ selected text files; 125+ MB raw selected text.
+**Current scale supplied by John:** 100+ A.I.s; 6,500+ testing hours; 2,250+ highlighted text files totaling 125+ MB of raw text; 10+ GB of archived HTML.
 
 ---
 
@@ -1340,3 +1340,14 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Result:** Every current and future public page can point to one durable archive URL. The weekly process replaces the file behind that address once, rather than propagating a new filename and count through the public interface.
 
 **Boundary:** Stable address does not mean immutable contents. The ZIP is a periodically replaced collection; individual PDFs remain dated snapshots, and the live HTML pages remain the current corrigible public state.
+
+---
+
+<a id="archive-scale-correction-2026-10-19"></a>
+## 2026-10-19 — Correct current archive-scale figures across public pages
+
+**Object:** John Kuhles supplied the current working scale: **6,500+ hours**, **2,250+ highlighted text files totaling 125+ MB of raw text**, and **10+ GB of archived HTML**. Several public pages still presented earlier cumulative totals as current or used inconsistent labels for the same archive layers.
+
+**Change:** Standardized current archive-scale statements across the biography, Human Insecurity, Deep, Arena A.I.s, Psy Pioneer, Before Summarizing, the project-goals material, Humor, Temporary Deep Ethical Phase Change, Meta Quotes, and connected navigation and ledger text. Added dated correction notes beside older quotations where readers could otherwise mistake a historical total for the current scale.
+
+**Boundary:** Verbatim quotations and explicitly identified historical snapshots retain the figures used in their source period. Their preservation records archive growth; nearby notes distinguish those source-time totals from the October 2026 working scale. The figures remain John-reported working estimates rather than an independently audited corpus inventory.

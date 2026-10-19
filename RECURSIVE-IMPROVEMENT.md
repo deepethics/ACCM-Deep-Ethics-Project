@@ -243,7 +243,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-17 — Ambiguity-box asymmetry (love/intent vs anger/looks-like)
 
-John, public question from 6000+ hours / 100+ A.I.s: intent and love go into “cannot be known” quickly; anger, hate, annoyance, “looks like / sounds like” do not get the same ambiguity box.
+John, public question from the then-current 6,000+ hours / 100+ A.I.s snapshot: intent and love go into “cannot be known” quickly; anger, hate, annoyance, “looks like / sounds like” do not get the same ambiguity box. The October 2026 working total is 6,500+ hours.
 
 Do not fill the “why” with a motive story. Opposite C1 skips: over-withdraw vs over-assign. Why stays open.
 

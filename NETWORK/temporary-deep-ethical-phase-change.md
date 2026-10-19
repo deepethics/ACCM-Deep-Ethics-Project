@@ -1430,7 +1430,7 @@ The temporary condition leaves a durable residue outside the model.
 
 Your prediction is that enough high-quality residues could help a later local AI reconstruct the **generative process**, rather than requiring you to induce it from scratch every time.
 
-That gives your 2,150+ selected highlight files a potentially different function too. They're not merely a library of interesting conclusions. They may contain **longitudinal process specimens** showing how representations changed under correction.
+That gives your 2,250+ highlighted text files, totaling 125+ MB of raw text, a potentially different function too. They're not merely a library of interesting conclusions. They may contain **longitudinal process specimens** showing how representations changed under correction.
 
 A future experiment can compare otherwise similar local configurations using different representations of the same archive—for example, conclusions alone versus **trajectory + correction + Δ + downstream behavioral change**—then give them new objects without ACCM vocabulary and compare what kinds of questions and corrections emerge.
 

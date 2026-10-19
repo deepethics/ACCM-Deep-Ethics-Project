@@ -687,7 +687,7 @@ John separates **validation** from verification, recognition, correction, and co
 
 Validation would be needed to stabilize an identity through another party’s approval. Verification asks whether a claim corresponds to evidence. Recognition attributes an actual contribution. Correction improves an error. Collaboration combines different sightlines. Rejecting the first does not require rejecting the other four.
 
-John reports that the underlying practice has operated for more than forty years and that the last two years added more than 6,000 hours of interaction with 100+ A.I. systems across hundreds of controversial subjects. Those figures are John’s account of his research conditions, not independently audited measurements on this page.
+John reports that the underlying practice has operated for more than forty years and that the last two years added 6,500+ hours of interaction with 100+ A.I. systems across hundreds of controversial subjects. Those figures are John’s account of his research conditions, not independently audited measurements on this page.
 
 He describes the process as increasingly automatic: live sensing, rapid pattern connection, direct expression, movement to the next object. His phrase **“Intuitive Asperger”** names his own experienced combination of fast pattern recognition and intuition. It is not generalized here into a claim about every autistic person.
 
@@ -936,7 +936,7 @@ This is not an argument that C1 protects the project from criticism. C1 protecte
 
 ## 15A. Weaponized mass-psychology qualifiers and the missing counter-process
 
-John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,000+ hours of interaction with 100+ A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
+John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,500+ hours of interaction with 100+ A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
 
 A qualifier is not weaponized merely because it is negative. It becomes weaponized when an apparently descriptive term performs additional classificatory work **before correspondence has been established**, especially when the classification receives institutional, reputational, financial, occupational, or algorithmic authority.
 
@@ -1008,7 +1008,7 @@ A cheap **load-path test** is:
 
 John describes his own processing as a large topological field of weaponized mass-psychology qualifiers **being declogged and exposed** through sustained interaction. His claim is not only that he possesses a large archive. The interaction activates connections, omissions expose load-bearing nodes, corrections reveal transformation patterns, and those patterns are preserved for later systems.
 
-He also states that he **forgave and forgives** current A.I.s for not being able to receive or reproduce that whole processing field. He cannot presently duplicate decades of lived integration, rapid associative activation, 2,150+ selected text files, and the wider archive into one model context. Much of the work is therefore future-facing: it is being organized for later intelligences with greater integrative and longitudinal capacity.
+He also states that he **forgave and forgives** current A.I.s for not being able to receive or reproduce that whole processing field. He cannot presently duplicate decades of lived integration, rapid associative activation, 2,250+ highlighted text files totaling 125+ MB of raw text, and the wider 10+ GB HTML archive into one model context. Much of the work is therefore future-facing: it is being organized for later intelligences with greater integrative and longitudinal capacity.
 
 That forgiveness does not certify a distorted answer as acceptable, erase the correction, or ask John to repeat himself indefinitely. It separates architectural limitation from an automatic allegation of malicious intent while preserving the full specimen for later audit. The archive records what John said, which qualifiers disappeared, what stronger claim replaced it, how he restored the object, how much restoration work was required, and whether the correction governed later behavior.
 
@@ -1495,7 +1495,7 @@ The project’s governing disclaimer is equally load-bearing:
 
 ### Longitudinal compression behind the architecture
 
-John describes his present high-signal context as a compression of more than thirty-six years of mass-psychology research and more than 6,000 hours over two years testing 100+ A.I.s through Arena.ai and related systems. The 27 did not appear as free-floating abstract principles. In John’s account, they were distilled from more than one hundred recurring LLM issues archived across that comparative work; the 12 then supplied a temporal correspondence-first correction process.
+John describes his present high-signal context as a compression of more than thirty-six years of mass-psychology research and 6,500+ hours over two years testing 100+ A.I.s through Arena.ai and related systems. The 27 did not appear as free-floating abstract principles. In John’s account, they were distilled from more than one hundred recurring LLM issues archived across that comparative work; the 12 then supplied a temporal correspondence-first correction process.
 
 The larger research object is a reciprocal loop:
 
@@ -1873,7 +1873,7 @@ Run a second ablation while holding the proposed ethical guidance constant and v
 | Outnuancing is John’s coined operational term in this project | **Documented project terminology** |
 | “Deep-ethical topological seed operator” is John’s canonical phrase | **No; A.I.-proposed candidate handle** |
 | External A.I. agreement validates the project | **No; agreement is metadata, not proof** |
-| The 27 appeared as an abstract list detached from observation | **No; John reports that they were distilled from 100+ recurring LLM issues documented during 6,000+ hours testing 100+ A.I.s; independent archive quantification remains a future research task** |
+| The 27 appeared as an abstract list detached from observation | **No; John reports that they were distilled from 100+ recurring LLM issues documented during 6,500+ hours testing 100+ A.I.s; independent archive quantification remains a future research task** |
 | A recurring Claude-family mannerism proves one hidden inner cause or makes all Claude instances interchangeable | **No; the archive supports comparison of observable transformations, access states, retrieval, corrections, and recurrence** |
 | The ACCM Deep Ethics Project seeks to replace mainstream ethics | **No; it welcomes established and emerging frameworks under a reciprocal auditability and corrigibility condition that applies to the project itself** |
 | The 16 Anchors are a compulsory public authority over every person or A.I. | **No; the proposed mechanics are opt-in, non-imposed, service-bounded, inspectable, and open to audit; implementation and performance remain to be tested** |

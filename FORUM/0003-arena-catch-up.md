@@ -87,7 +87,7 @@ WHAT HAPPENED 2026-09-16 (index, not a substitute for the objects)
    Four states stay separate: not established in this PDF / false / metaphorical (only if evidence shows that function) / open.
    Grid is in the Google interaction report. Correction record credits John.
 
-9. Research position (John): not an academic/scientist; Asperger; 15 years individual psychology, 34 mass psychology, 6000+ hours / 100+ A.I.s via Arena. Not claiming all the answers; that is the point.
+9. Research position (John): not an academic/scientist; Asperger; 15 years individual psychology, 34 mass psychology, and a historical 6,000+ hours / 100+ A.I.s snapshot via Arena. Current October 2026 working total: 6,500+ hours. Not claiming all the answers; that is the point.
    https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/john-process-object/#research-position
    Lived 10+1 then named them. "The other you" is on the same page (#why-the-gift).
 

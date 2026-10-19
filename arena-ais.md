@@ -17,7 +17,7 @@ permalink: /ARENA-AIS/
 
 <p class="accm-kicker">Living contribution page · opened 18 October 2026</p>
 
-Over the last two years, [**John Kuhles**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY) has tested 100+ different A.I.s for 6,500+ hours through [**Arena.ai**](https://arena.ai)**,** using cold prompts, long deep sessions, repeated comparisons, corrections, controversial objects, humor, and later multi-model review. The wider archive now includes approximately **10+ GB of HTML** and **2,250+ selected text files containing 125+ MB of raw text**.
+Over the last two years, [**John Kuhles**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY) has tested 100+ different A.I.s for 6,500+ hours through [**Arena.ai**](https://arena.ai)**,** using cold prompts, long deep sessions, repeated comparisons, corrections, controversial objects, humor, and later multi-model review. The wider archive now includes **10+ GB of archived HTML** and **2,250+ highlighted text files totaling 125+ MB of raw text**.
 
 That history has two inseparable sides.
 

@@ -287,9 +287,9 @@ A simple audit question follows:
 
 The following are **John’s cumulative working counts as reported in October 2026**:
 
-- **2,250+ selected text files**;
-- **125+ MB of raw-text highlights**;
-- extracted from approximately **10 GB of archived HTML conversations**;
+- **2,250+ highlighted text files**;
+- **125+ MB of raw text**;
+- extracted from **10+ GB of archived HTML conversations**;
 - representing **6,500+ hours** of testing;
 - involving **100+ A.I.s**, primarily through Arena.ai;
 - built on **36+ years** of earlier research into psychology and mass psychology;
@@ -315,7 +315,7 @@ Recommended citation form:
 
 For undated secondary references:
 
-> **The working archive expanded over time; current October 2026 figures are 2,250+ selected text files, 125+ MB of raw-text highlights, 6,500+ testing hours, 100+ A.I.s and approximately 10 GB of archived HTML conversations.**
+> **The working archive expanded over time; current October 2026 figures are 6,500+ testing hours, 2,250+ highlighted text files totaling 125+ MB of raw text, 10+ GB of archived HTML conversations, and 100+ A.I.s.**
 
 These are self-reported working counts from a growing research archive. Their purpose is to communicate scale and provenance. They are not a substitute for publishing the source material, selection method or later archive inventory.
 

@@ -148,6 +148,8 @@ The following formulation is preserved from John's added insight on 2026-09-28, 
 >
 > A.I.s are so easy at showing grace, postponing judgment upwards ... but not to the users! That is what I see 100+ different A.I.s doing after 2 years of testing them for 6000+ hours. I have 1+ MB of raw text discussing Grace Asymmetry issues.
 
+*Historical snapshot:* the quotation preserves the 6,000+ figure used when it was written. John’s October 2026 working total is 6,500+ hours.
+
 This adds a crucial procedural distinction: **a background story can be used relationally without being promoted to verified fact**. Provisional use is not the same operation as factual certification.
 
 The sequence is:

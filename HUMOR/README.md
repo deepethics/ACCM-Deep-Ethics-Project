@@ -119,7 +119,7 @@ The deeper process question is not merely **“Is this funny?”** It is:
 
 ## Humor as Part of the Research Engine {#humor-anchor-humor-as-part-of-the-research-engine}
 
-John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ A.I.s. He also suspects he would never have sustained his self-reported 6000+ hours of testing if he could not laugh through so much of it.
+John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ A.I.s. He also suspects he would never have sustained his self-reported 6,500+ hours of testing if he could not laugh through so much of it.
 
 That makes humor more than a transmission style. In this research history it may also have functioned as a **persistence mechanism** and a developmental product of the Human ↔ A.I. loop itself:
 
@@ -592,6 +592,8 @@ The UI phrase **“Thinks Too Hard”** is load-bearing setup.
 >
 > **That was just me sensing: what the f is wrong with everybody? … lol**
 
+*Historical snapshot:* the quotation preserves the 6,000+ figure used when it was written. John’s October 2026 working total is 6,500+ hours.
+
 Then:
 
 > One small person says to a crowd of thousands:
@@ -1022,7 +1024,7 @@ And sometimes the highest-resolution response to a ridiculous process really is:
 
 A live discussion on 2026-09-28 added another humor mechanism to the project.
 
-John's working intuition after testing 100+ different A.I.s for 6000+ hours over roughly two years:
+The following 28 September 2026 quotation preserves the 6,000+ historical snapshot. John’s October 2026 working total is 6,500+ hours across 100+ different A.I.s:
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -1147,7 +1149,7 @@ correction remains psychologically usable
 
 In that sense, humor may sometimes help a human–A.I. relationship remain inside the object when permanent seriousness would make the interaction brittle, exhausting, or adversarial.
 
-This is especially relevant to John's reported 6000+ hours of testing. The archive increasingly suggests that humor was part of what made sustained investigation possible rather than merely decoration added afterward.
+This is especially relevant to John's reported 6,500+ hours of testing. The archive increasingly suggests that humor was part of what made sustained investigation possible rather than merely decoration added afterward.
 
 <a id="self-inflicted-madness-theatre--season-guide-"></a>
 
@@ -5591,7 +5593,7 @@ All quantities below are **John's provisional estimates**, not the result of a c
 - approximately **5+ GB of raw, usable, unedited text**;
 - at least **1 GB of repeated material**, much of it deliberately reused for cross-model testing;
 - the remaining **4+ GB** is estimated to contain about **±5% of John's own written texts**: **±200 MB of his input** versus the rest, roughly **±2.80 GB**, from **100+ different A.I.s reacting to him over the last two years**;
-- **2,250+ highlighted text files totaling 125+ MB**, including selected A.I. reactions.
+- **2,250+ highlighted text files totaling 125+ MB of raw text**, including selected A.I. reactions.
 
 Using ordinary English plain-text density and book lengths, **125 MB corresponds very roughly to 200–300 average books**. The conversational shorthand became **about 250 books**. These are book-equivalent quantities, not 250 separately authored or published volumes—and the highlighted collection remains only a selected fraction of the larger archive.
 

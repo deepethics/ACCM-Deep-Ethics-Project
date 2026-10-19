@@ -44,7 +44,7 @@ date: 2026-10-13
 <p>This collection is open for expansion. <strong>No Top 10 has been selected.</strong> IDs such as MQ01 identify candidates; they are not positions in a ranking.</p>
 </div>
 
-<p><strong>Extraction scope:</strong> the supplied exchanges, selected John-authored passages in <em>007 - I LOVE CORRECTIONS(5).txt</em>, and John-attributed passages on the linked project pages. John is still skimming his wider archive. This first collection does not claim to exhaustively search all 2,250+ files.</p>
+<p><strong>Extraction scope:</strong> the supplied exchanges, selected John-authored passages in <em>007 - I LOVE CORRECTIONS(5).txt</em>, and John-attributed passages on the linked project pages. John is still skimming his wider archive. This first collection does not claim to exhaustively search all 2,250+ highlighted text files.</p>
 
 <p><strong>Wording:</strong> quotation blocks preserve the selected source wording. Some are short lines; others remain longer because the relationship would be lost by cutting it shorter. Headings and context notes are editorial. Public-page attributions are distinguished from direct supplied excerpts; their source notes disclose existing editorial treatment. Grok’s and GPT’s interpretations have not been relabelled as John’s quotations.</p>
 

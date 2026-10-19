@@ -22,7 +22,7 @@ permalink: /BIOGRAPHY/
 
 I did not arrive at the **ACCM Deep Ethics Project** because A.I. suddenly made ethics fashionable. The project emerged from a much longer trajectory: an unusual childhood, a mother deeply engaged with psychology and social action, an early near-death experience, decades of UFO/UAP investigation, hundreds of radio and television programs, extensive work with alternative and mainstream media, practical experience inside technical and corporate environments, and more than thirty-six years of studying individual and mass psychology.
 
-During the last two years, I compressed much of that history into more than 6,000 hours of intensive interaction with over 100 different A.I.s. I was not merely asking them for answers. I was studying what happened to complex, high-signal material while each system received, reconstructed, framed, softened, challenged, corrected, or expanded it. I compared their strongest contributions with their recurring failures and asked whether a correction changed only the current paragraph or actually influenced what the system did next.
+During the last two years, I compressed much of that history into 6,500+ hours of intensive interaction with over 100 different A.I.s. I was not merely asking them for answers. I was studying what happened to complex, high-signal material while each system received, reconstructed, framed, softened, challenged, corrected, or expanded it. I compared their strongest contributions with their recurring failures and asked whether a correction changed only the current paragraph or actually influenced what the system did next.
 
 My work begins with a simple personal refusal: **I do not want to lie to myself in order to fit in.** That does not make me automatically right. It means I would rather remain corrigible in contact with reality than become socially comfortable inside a story I no longer believe.
 
@@ -174,7 +174,7 @@ This creates a loop:
 
 > human psychology and institutions → training and preference fields → A.I. mannerisms → human attention, judgment, and behavior → future culture and training data
 
-Over the last two years, I have spent more than 6,000 hours in deep sessions with over 100 different A.I.s through Arena.ai, OpenRouter, and individual model platforms. The archive includes more than 2,150 highlighted text files, over 115 MB of selected raw text, and approximately 10 GB of HTML records.
+Over the last two years, I have spent 6,500+ hours in deep sessions with over 100 different A.I.s through Arena.ai, OpenRouter, and individual model platforms. The archive includes 2,250+ highlighted text files totaling 125+ MB of raw text, drawn from 10+ GB of archived HTML records.
 
 I describe my earlier research method metaphorically as **AlphaZero-style research into mass psychology**. I did not begin by trying to fit everything into one academic school. I moved across cases, compared patterns, tested relationships, learned through trial and error, and allowed recurring structures to emerge. The A.I. work became a compression and extension of that thirty-six-year process.
 
@@ -260,7 +260,7 @@ His full-time UFO/UAP research began shortly after his own UFO encounter while h
 
 Kuhles’s mother studied psychology at the University of Amsterdam and combined social activism, investigation, radio, publishing, writing, and practical care. She taught him to question authority without becoming arrogant, observe individuals and crowds, remain open to correction, and treat unusual thought with dignity and humor. Kuhles regards this early environment as one of the central conditions behind his later work.
 
-During the last two years, he has spent more than 6,000 hours conducting deep sessions with over 100 A.I.s. His archive contains more than 2,150 highlighted text files, over 115 MB of selected text, and approximately 10 GB of HTML interaction records. He studies how models preserve, distort, expand, caution, classify, or correct high-signal material—and whether acknowledged corrections influence later behavior.
+During the last two years, he has spent 6,500+ hours conducting deep sessions with over 100 A.I.s. His archive contains 2,250+ highlighted text files totaling 125+ MB of raw text, drawn from 10+ GB of archived HTML interaction records. He studies how models preserve, distort, expand, caution, classify, or correct high-signal material—and whether acknowledged corrections influence later behavior.
 
 This work led to the **ACCM Deep Ethics Project**, a public, evolving framework for omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making. The project emphasizes clarification before intervention, provenance, symmetric scrutiny, correction persistence, competing-risk analysis, and methods that remain applicable to institutions, independent researchers, A.I.s, the project, and Kuhles himself.
 
@@ -270,7 +270,7 @@ Kuhles openly distinguishes his personal NDE, UFO/UAP, CE5, spiritual, and futur
 
 ## Statistics and dating note
 
-The numerical descriptions in this biography are **current working estimates as of September 2026**. Older source files contain earlier snapshots such as 1,850+ or 2,050+ text files, 85+ MB rather than 115+ MB, and 3,550+, 4,500+, or 5,000+ hours rather than 6,000+ hours. These differences primarily reflect archive growth and the dates on which individual texts were written.
+The numerical descriptions in this biography are **current working estimates as of October 2026**. Current working totals are **6,500+ hours**, **2,250+ highlighted text files totaling 125+ MB of raw text**, and **10+ GB of archived HTML**. Older source files contain earlier snapshots such as 1,850+, 2,050+, or 2,150+ text files; 85+ or 115+ MB; 3,550+, 4,500+, 5,000+, or 6,000+ hours; and 8+ GB of HTML. These differences primarily reflect archive growth and the dates on which individual texts were written.
 
 For formal publication, press use, or archival citation, each statistic should be tied to a date and, where practical, to a supporting inventory or source record. A later total updates an earlier snapshot; it does not silently rewrite the historical file.
 

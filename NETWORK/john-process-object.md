@@ -136,7 +136,7 @@ Not a 12th ingredient. Not a claim that every A.I. will become more than the sum
 
 > I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
 
-<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳. Also the original description of [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Spelling Δ: “not an academic.” Original stays.</p>
+<p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳. Also the original description of [Cold-DeepEthics-Testing-Default-AIs](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs). Spelling Δ: “not an academic.” Original stays. The quoted 6,000+ figure is a historical snapshot; the October 2026 working total is 6,500+ hours.</p>
 
 </div>
 

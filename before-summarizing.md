@@ -217,7 +217,7 @@ These objects can interact without becoming interchangeable or receiving one sha
 
 ## Archive scope — October 2026 snapshot
 
-John reports **6,500+ hours** testing **100+ A.I.s**, with **2,250+ text files** and **125+ MB** of selected text material drawn from a much larger HTML archive.
+John reports **6,500+ hours** testing **100+ A.I.s**, with **2,250+ highlighted text files totaling 125+ MB of raw text**, drawn from **10+ GB of archived HTML**.
 
 Those figures describe **John Kuhles’ wider upstream testing and archive history**. They do not mean that every source file is public, that the GitHub repository is identical to the archive, or that the collection is already a prepared monolithic dataset. Older public files may preserve smaller historical snapshots. A changed number is not automatically a contradiction when the collection continued growing.
 

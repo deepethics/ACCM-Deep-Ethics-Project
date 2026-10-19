@@ -196,7 +196,7 @@ The conceptual range helps discover relations. The pragmatic return path tests w
 
 ## Four archive specimens
 
-John’s wider archive contains more than **2,250 text files** and approximately **125 MB of raw text** across many topics. Four source files supplied during the construction of this page make the Psy Pioneer trajectory especially visible.
+John’s wider archive contains **2,250+ highlighted text files totaling 125+ MB of raw text**, drawn from **10+ GB of archived HTML** across many topics. Four source files supplied during the construction of this page make the Psy Pioneer trajectory especially visible.
 
 These titles describe archive specimens; their mention does not imply that the full private files are published here.
 

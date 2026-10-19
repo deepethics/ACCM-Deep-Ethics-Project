@@ -200,7 +200,7 @@ Help prevent [MAD](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK
 <a id="g22"></a>
 ### G22 — Explain the 36+ year research trajectory and its loop
 
-34+ years of AlphaZero-style deep research into mass psychology, then 6,000+ hours testing 100+ different A.I.s through Arena.ai over two years, together a 36+ year trajectory. The case to be made:
+34+ years of AlphaZero-style deep research into mass psychology, then 6,500+ hours testing 100+ different A.I.s through Arena.ai over two years, together a 36+ year trajectory. The case to be made:
 
 LLM mannerisms ⇄ mass psychology ⇄ individual psychology ⇄ LLM mannerisms … loop.
 

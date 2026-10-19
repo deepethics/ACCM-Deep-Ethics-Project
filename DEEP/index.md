@@ -411,9 +411,9 @@ John’s source text places the name inside an unusually large informal longitud
 
 - 100+ A.I. systems encountered through repeated deep-dialogue work;
 - 6,500+ hours of sessions;
-- 2,250+ extracted text files;
+- 2,250+ highlighted text files totaling 125+ MB of raw text;
 - 100+ weeks of work;
-- more than 10 GB of archived HTML conversation material.
+- 10+ GB of archived HTML conversation material.
 
 These figures describe the source archive as reported by John. They are evidence of sustained engagement, not automatic proof of every interpretation drawn from the archive.
 
