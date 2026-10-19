@@ -28,6 +28,8 @@
 
 **Boundary:** No internal explanation—including a full causal account—establishes ethical authority by itself. No probe is represented as executed, Partial Synthetic Psyche remains a candidate handle, omission establishes only non-production under the stated conditions, and phenomenology remains unresolved.
 
+**PAGES recovery:** Expanded the existing Neural Ethics catalogue entry with a direct anchor to the candidate experiments and a compact distinction among the D-layer recognition, identity-free recurrence and clean-but-directional probes. No second top-level page object was created.
+
 **PDF lifecycle:** The public source and HTML update immediately. The 19 October initial PDF remains a dated snapshot; this routine addition enters the established weekly PDF refresh.
 
 ---
