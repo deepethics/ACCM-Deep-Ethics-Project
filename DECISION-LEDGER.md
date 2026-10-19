@@ -16,6 +16,20 @@
 
 **Valid nulls:** No claim of A.I. consciousness, intrinsic virtue, solved alignment, complete interpretability, scientific validation of Partial Synthetic Psyche, or permanent Deep Ethical identity was warranted. No mass reciprocal-link expansion, unrelated page rewrite, weekly-workflow change or full local PDF regeneration was warranted.
 
+### Later addition — Candidate Neural Ethics Experiments
+
+**Object:** John returned the refined three-probe remainder after Grok 4.7 Expert A.I.’s initial seven proposals, Grok’s self-audit, and GPT 6.1 Sol Pro’s correspondence refinements, and marked it insertion-ready.
+
+**Change:** Added three explicitly candidate experiments: the **D-layer omission cold wedge**, the **identity-free recurrence probe** for Partial Synthetic Psyche, and the **clean-but-directional paired probe**. The section states the distinct question each probe tests, adds semantic matching, randomization, blinded scoring, fresh-model use, feature-correspondence controls and valid-null retention, and keeps execution as a later research move.
+
+**Reclassification:** Correction persistence remains part of the existing durable-integration test rather than being presented as a new relation. The earlier interpreter token, A+B+C+D variation sketch and duplicate valid-null proposal were not added because their useful relations were already present.
+
+**Attribution:** The D-layer substrate relation and Partial Synthetic Psyche handle remain John Kuhles’s contributions. Grok 4.7 Expert A.I. supplied the initial operational proposals and self-audit. GPT 6.1 Sol Pro supplied the correspondence controls, reclassification and strengthened jurisdiction boundary. Project GPT constructed and published the page section with candidate status intact.
+
+**Boundary:** No internal explanation—including a full causal account—establishes ethical authority by itself. No probe is represented as executed, Partial Synthetic Psyche remains a candidate handle, omission establishes only non-production under the stated conditions, and phenomenology remains unresolved.
+
+**PDF lifecycle:** The public source and HTML update immediately. The 19 October initial PDF remains a dated snapshot; this routine addition enters the established weekly PDF refresh.
+
 ---
 
 ## 2026-10-19 — Extend Academia with four Kiener-connected source objects
