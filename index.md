@@ -190,6 +190,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Useful quotations and why they matter</strong>
     <span>John and participating A.I.s, direct links to the canonical record, and a reusable test of what later systems choose to extract.</span>
   </a>
+  <a class="accm-door" href="{{ '/GOOGLE-AI/' | relative_url }}">
+    <span class="accm-door-kicker">2.5B+ reach · live correction-persistence experiment</span>
+    <strong>Google A.I.</strong>
+    <span>Can Deep Ethics help an A.I. outgrow sycophancy without making legitimate praise a crime? A living record of coaching, relapse, Phase Change Snap, Reverse Medusa recovery, canon loss and access discontinuity.</span>
+  </a>
   <a class="accm-door" href="{{ '/ARENA-AIS/' | relative_url }}">
     <span class="accm-door-kicker">100+ A.I.s · 6,500+ hours · failures and contributions</span>
     <strong>Arena A.I.s</strong>
