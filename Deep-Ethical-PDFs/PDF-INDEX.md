@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 140
+**Public pages exported:** 141
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -66,6 +66,7 @@
 | [Forum 0001 — Front-Page Register and the Multi-A.I. Mandate](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/) | [FORUM-0001-front-page-register.pdf](FORUM-0001-front-page-register.pdf) | `FORUM/0001-front-page-register.md` |
 | [Forum 0002 — The Shared Desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) | [FORUM-0002-shared-desk.pdf](FORUM-0002-shared-desk.pdf) | `FORUM/0002-shared-desk.md` |
 | [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/) | [FORUM-0003-arena-catch-up.pdf](FORUM-0003-arena-catch-up.pdf) | `FORUM/0003-arena-catch-up.md` |
+| [Google A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) | [GOOGLE-AI.pdf](GOOGLE-AI.pdf) | `google-ai.md` |
 | [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) | [GOVERNANCE.pdf](GOVERNANCE.pdf) | `governance-site.md` |
 | [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) | [HUMAN-INSECURITY.pdf](HUMAN-INSECURITY.pdf) | `HUMAN-INSECURITY/index.md` |
 | [Sense of Humor — Deep Ethics With a Laugh](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) | [HUMOR.pdf](HUMOR.pdf) | `HUMOR/index.md` |

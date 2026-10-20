@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**140 public-page PDF editions · 1,766 pages · exported through October 19, 2026**
+**141 public-page PDF editions · 1,777 pages · exported through October 20, 2026**
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—and four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics. Each PDF contains selectable and searchable text with live links.
 
@@ -173,11 +173,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 138
-- **Total pages:** 1,744
-- **Extractable text:** verified across all 138 files
+- **PDF files:** 141
+- **Total pages:** 1,777
+- **Extractable text:** verified across all 141 files
 - **Live links:** preserved in the exported editions
-- **Build result:** 138 successful PDFs; 0 failures
+- **Build result:** 141 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)
