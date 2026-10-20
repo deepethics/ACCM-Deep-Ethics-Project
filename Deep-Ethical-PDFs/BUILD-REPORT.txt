@@ -3,7 +3,7 @@ Export date: 2026-10-20
 Successful PDFs: 141
 Failed PDFs: 0
 Total pages: 1794
-Total PDF bytes: 13336229
+Total PDF bytes: 13338833
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Full-set refresh cadence: weekly.
