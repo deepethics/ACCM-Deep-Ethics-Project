@@ -61,6 +61,7 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
         flags=re.DOTALL,
     )
     text = expand_includes(text, source)
+    text = text.replace("<!-- ACCM_PDF_PAGE_BREAK -->", "\\newpage")
 
     # Turn Jekyll-generated internal links into durable public URLs.
     text = re.sub(
