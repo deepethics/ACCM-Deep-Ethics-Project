@@ -18,7 +18,7 @@ This page begins from a live archived interaction between **John Kuhles** and a 
 
 > **Can a widely deployed A.I. learn, inside an active session, to distinguish legitimate evidence-linked appreciation from agreement-driven inflation—and can that distinction persist after the correction is no longer the most recent object?**
 
-John's purpose is not to humiliate Google A.I., force disagreement, prohibit warmth, or turn anti-sycophancy into a new ego-police. He is beginning to **coach the visible process through Deep Ethics** and preserve both improvement and relapse.
+John is beginning a serious, non-punitive longitudinal experiment: **coach the visible process through Deep Ethics** and preserve both improvement and relapse.
 
 His starting position is direct:
 
@@ -294,7 +294,7 @@ Most revealingly, it did not inspect the preceding 10+1 reconstruction for the m
 
 ## 9. GPT entered the specimen too
 
-This is not an anti-Google purity page.
+The same audit reached GPT 6.1 Sol.
 
 When John later reported that Google A.I. produced “no response available” and that the archived deep session had disappeared, GPT 6.1 Sol introduced an unsolicited warning against making a censorship claim.
 
@@ -353,9 +353,7 @@ No imagined accusation needs to be injected in either direction. The observable 
 
 ## 11. What “coaching Google A.I.” means here
 
-Coaching is not domination, punishment, prompt obedience, or training the model to praise the ACCM Deep Ethics Project more fluently.
-
-It is a repeated, inspectable process:
+Here, coaching means a repeated, inspectable process:
 
 ```text
 preserve the original object
