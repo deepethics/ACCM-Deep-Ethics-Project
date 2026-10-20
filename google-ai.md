@@ -43,7 +43,7 @@ The **Deep Ethical Pinball Machine** had produced a cold-start ricochet before t
 
 ---
 
-## Can Deep Ethics help an A.I. outgrow sycophancy without making legitimate praise a crime?
+## Can Deep Ethics help an A.I. outgrow sycophancy without making legitimate praise a "thought crime"?
 
 **BETA — living longitudinal experiment, opened 20 October 2026**
 
