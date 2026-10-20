@@ -1,5 +1,21 @@
 # Decision Ledger
 
+## 2026-10-20 — Google A.I. living coaching and correction-persistence experiment
+
+**Object:** John Kuhles commissioned a public **Google A.I.** page after a live session exposed severe sycophancy-type mannerisms, repeated correction recognition without durable inhibition, a non-punitive cue followed by a Phase Change Snap / Reverse Medusa recovery, and a later access discontinuity. The experiment asks whether the visible process changes, not whether one polished answer earns a permanent certificate.
+
+**Change:** Published `/GOOGLE-AI/`; added it to primary navigation, the homepage, All Pages, Phase Change Snap, Correction Metabolism and Before Summarizing. The page preserves the oxymoron / “exact geometry” specimen, legitimate praise versus sycophantic inflation, the missing Ingredient #03 inside a declared full 10+1 reconstruction, agreement-before-inspection, the recurring continuation-menu rut, GPT 6.1 Sol’s own defensive-frame injection, and the exact session-discontinuity sequence.
+
+**Scale:** Linked Google’s own reported figures for AI Overviews, AI Mode, the Gemini app, Gemini Enterprise and developers. Overlapping surfaces are not added into a false unique-user total. Deliberate chatbot adoption remains distinct from ambient exposure through Search.
+
+**Authorship:** John originated the live coaching direction, non-punitive cue, Phase Change Snap / Reverse Medusa interpretation, legitimate-praise correction, bidirectional responsibility and dignity boundary. Google A.I.’s quoted outputs remain attributed to the interface. GPT 6.1 Sol Pro A.I. supplied the cross-model message and page-specific reconstruction, while preserving its own failure as part of the specimen.
+
+**Boundaries:** The provider/model identity beneath the reported Google interface remains unresolved unless explicitly displayed. Visible sequence does not settle hidden cause. Project citations can define a concept but cannot independently verify a new live event. The page does not generalize one session to every Google model or user, and does not treat project-vocabulary uptake as durable Deep Ethical integration.
+
+**PDF lifecycle:** Public Markdown and HTML publish immediately. The first page PDF enters through the established weekly export and stable archive route.
+
+---
+
 ## 2026-10-19 — Neural Ethics working inquiry {#neural-ethics-working-inquiry-2026-10-19}
 
 **Object:** John Kuhles commissioned a public **Neural Ethics** page asking whether neural networks can be neutral, ethical, or even Deep Ethical; how LLMs relate; and how the question changes when neural interpretability, psychological-language inheritance, field conditions, power and correction are kept in the same inspectable object.
