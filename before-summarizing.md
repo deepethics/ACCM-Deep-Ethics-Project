@@ -262,6 +262,7 @@ That is why the sequence can be funny and serious at the same time. The joke doe
 
 ## Related pages
 
+- [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — continues the provider-specific record with legitimate-praise calibration, live coaching, Phase Change Snap, missing-ingredient audit and correction-persistence testing.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — the shortest public entrance through the visitor’s existing work.
 - [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — distinguishes the early-beta public repository from a finished framework or complete archive.
 - [**When ACCM Becomes the Flag**]({{ '/NETWORK/accm-reference-compression/' | relative_url }}) — documents canonical-title compression and the neighboring object it can create.
