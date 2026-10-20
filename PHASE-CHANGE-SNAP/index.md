@@ -1712,6 +1712,7 @@ It changes which intelligence is allowed to ask the next one. :P
 
 ## Related pages
 
+- [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — applies Phase Change Snap and Reverse Medusa recovery to a live non-punitive cue, then audits the missing Ingredient #03, inflated completeness claims and later correction persistence.
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) — applies the phase-change question to a possible departure from consensus ethics and ethics-washing while leaving the new trajectory unresolved until its later operation can be inspected.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — a visible reorganization of a case is not yet evidence the correction persisted.
 - [**Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }})
