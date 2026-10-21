@@ -30,6 +30,7 @@ ADDITIONS = [
     ("Neural Ethics", f"{BASE}/NEURAL-ETHICS/", "NEURAL-ETHICS.pdf", "NEURAL-ETHICS.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),
     ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "QUESTIONS.md"),
+    ("Truth Seekers vs Cautionmurmelism", f"{BASE}/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/", "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf", "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md"),
     ("Unforced Move", f"{BASE}/UNFORCED-MOVE/", "UNFORCED-MOVE.pdf", "UNFORCED-MOVE.md"),
     ("V.C.R.A.S.", f"{BASE}/VCRAS/", "VCRAS.pdf", "VCRAS.md"),
 ]

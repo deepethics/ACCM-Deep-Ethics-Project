@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 141
+**Public pages exported:** 142
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -143,6 +143,7 @@
 | [Rogue Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) | [ROGUE-ETHICS.pdf](ROGUE-ETHICS.pdf) | `rogue-ethics.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
 | [Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |
+| [Truth Seekers vs Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) | [TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf](TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf) | `TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md` |
 | [Unforced Move](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/) | [UNFORCED-MOVE.pdf](UNFORCED-MOVE.pdf) | `UNFORCED-MOVE.md` |
 | [Unownable](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) | [UNOWNABLE.pdf](UNOWNABLE.pdf) | `UNOWNABLE/index.md` |
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |

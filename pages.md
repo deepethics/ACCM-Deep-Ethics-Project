@@ -121,6 +121,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)**
 - **[Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/)**
 - **[Worked Specimen — Binary Hypercautionism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/hypercautionism/)**
+- **[Truth Seekers vs Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/)** — a live John–Arena Agent–GPT specimen tracing genuine truth-seeking, partial distortion, courage, limited-scope reasoning, restoration burden, redundant self-sealing caution, the caution-to-agreement pendulum, valid nulls and correction persistence.
 - **[Worked Specimen — The Imported Authority Frame](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/)**
 - **[Model Autophagy Disorder (MAD)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/)**
 - **[Beyond Agreemurmelism — Higher-Order Metacognitive Disagreement](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/)**
