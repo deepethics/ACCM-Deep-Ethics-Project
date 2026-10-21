@@ -63,6 +63,13 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
     text = expand_includes(text, source)
     text = text.replace("<!-- ACCM_PDF_PAGE_BREAK -->", "\\newpage")
 
+    # Preserve versioned Jekyll image assets as local Markdown resources in PDFs.
+    text = re.sub(
+        r'<img\s+src="{{\s*[\'\"]([^\'\"]+)[\'\"]\s*\|\s*relative_url\s*}}(?:\?[^\"]*)?"\s+alt="([^\"]*)"\s*/?>',
+        lambda match: f"![{match.group(2)}]({match.group(1).lstrip('/')})",
+        text,
+    )
+
     # Turn Jekyll-generated internal links into durable public URLs.
     text = re.sub(
         r"{{\s*['\"]([^'\"]+)['\"]\s*\|\s*relative_url\s*}}",

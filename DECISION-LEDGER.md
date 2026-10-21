@@ -1614,7 +1614,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 ## 2026-10-21 — Godfather of A.I. page and evaluation-awareness specimen
 
-**Decision:** Publish `/GODFATHER-OF-AI/` as a provenance-disciplined applied page joining Geoffrey Hinton’s interview statements, the AI Abyss video’s stronger narration, John Kuhles’s two public YouTube comments, the limited public X-profile perimeter, and a candidate matched-field evaluation-awareness protocol.
+**Decision:** Publish `/GODFATHER-OF-AI/` as a provenance-disciplined applied page joining Geoffrey Hinton’s interview statements, the AI Abyss video’s stronger narration, two supplied public YouTube comments—John Kuhles’s initiating comment and a separately attributed comment—the limited public X-profile perimeter, and a candidate matched-field evaluation-awareness protocol.
 
 **Reason:** The object directly tests whether an evaluator can distinguish available capability, displayed capability, evaluation-conditioned behavior, probabilistic dialogue completion, policy inhibition, strategic underperformance and deliberate concealment. It also makes the evaluator and test design part of the observable field once a system may represent that it is being tested.
 

@@ -58,7 +58,7 @@ The source layers must remain separate:
 1. **Geoffrey Hinton’s recorded words** in the interview excerpts.
 2. **AI Abyss narration**, editing, headlines and causal interpretations.
 3. **Research papers and reports** referred to directly or indirectly.
-4. **John’s public comments**, which turn one part of the video into an intelligence-measurement problem.
+4. **The two public YouTube comments supplied for the page**—John’s initiating teacher–A.I. comment and a separately attributed comment—which turn one part of the video into an intelligence-measurement problem.
 5. **GPT 6.1 Sol Pro’s reconstruction**, which maps that problem onto the existing ACCM Deep Ethics Project architecture.
 6. **The full Steven Bartlett interview**, which supplies a longer primary audiovisual perimeter for Hinton’s job, misuse, control, digital-intelligence and governance arguments.
 7. **The supplied article-style synthesis**, which expands and interprets the interview but is not silently treated as Hinton’s wording.
@@ -213,15 +213,13 @@ The trajectory is stronger than agreement with Hinton and stronger than dismissa
 
 ---
 
-## 5. The second John comment restores the complete measurement problem
-
-John added a second public comment:
+## 5. Profound comment restores the complete measurement problem:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> If a system behaves differently because it recognises it's being tested, how do we distinguish genuine capability from performance designed to satisfy the examiner? That question goes way beyond AI. It's a problem with measuring intelligence itself.
+> If a system behaves differently because it recognizes it’s being tested, how do we distinguish genuine capability from performance designed to satisfy the examiner? That question goes way beyond AI. It’s a problem with measuring intelligence itself.
 >
-> — **John Kuhles**, public YouTube comment, 21 October 2026
+> — YouTube comment, 21 October 2026
 
 </div>
 
@@ -492,7 +490,7 @@ The video therefore supplies more than another A.I.-risk headline. It is a speci
 - `[OBSERVED-PROFILE]` — the named public X posts were visible on 21 October 2026 within a limited logged-out profile perimeter.
 - `[SUPPLIED-SYNTHESIS]` — the pasted article text reconstructs and extends the interview; its expanded occupation list and “too useful / too powerful / too dangerous” formulation remain attributed to that layer.
 - `[USER-SUPPLIED-VISUAL]` — the anti-complacency image and its governance bridge are preserved as a visual interpretation rather than converted into Hinton-authored material.
-- `[J-ACCOUNT]` — John’s two public YouTube comments and their initiating questions.
+- `[PUBLIC-COMMENTS]` — John’s initiating teacher–A.I. comment and the separately attributed profound YouTube comment, with their questions preserved without merging their authorship.
 - `[AI-ATTRIBUTED]` — GPT 6.1 Sol Pro’s page reconstruction, distinctions and proposed protocol.
 - `[CANDIDATE]` — the proposition that once evaluation awareness becomes active, the evaluator becomes part of the tested object.
 - `[PROJECT-PROPOSAL]` — the matched-field evaluation-awareness protocol.
@@ -542,7 +540,7 @@ No title, award, interview, narrator, benchmark, model self-report or project pa
 
 ### Contribution boundaries
 
-**John Kuhles:** selected the videos; wrote both public YouTube comments; supplied the article-style synthesis and anti-complacency image; identified the fascination of having to investigate possible test recognition and capability concealment; commissioned this page and its project integration.
+**John Kuhles:** selected the videos; supplied the article-style synthesis and anti-complacency image; identified the fascination of having to investigate possible test recognition and capability concealment; commissioned this page and its project integration.
 
 **Geoffrey Hinton:** supplied the interview arguments and public research/risk positions attributed to him through the linked sources. He did not author, endorse or review this ACCM Deep Ethics Project page.
 

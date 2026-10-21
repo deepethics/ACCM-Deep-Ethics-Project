@@ -482,6 +482,37 @@ pre, code {
   line-height: 1.45;
 }
 
+.accm-process-flow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 1.5rem 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--accm-line);
+  border-radius: 12px;
+  background: #f4efe5;
+  font-weight: 700;
+  text-align: center;
+}
+
+.accm-process-flow__arrow {
+  color: var(--accm-sage);
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+@media (max-width: 600px) {
+  .accm-process-flow {
+    flex-direction: column;
+  }
+
+  .accm-process-flow__arrow {
+    transform: rotate(90deg);
+  }
+}
+
 .accm-independent-media-box {
   margin: 2rem 0 2.5rem;
   padding: 1.3rem 1.4rem 1.25rem;

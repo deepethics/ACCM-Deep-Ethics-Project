@@ -142,9 +142,15 @@ The common problem is therefore not *using completion*. Without predictive and r
 
 ### The handoff that needs inspection
 
-$$
-\text{Partial object} \rightarrow \text{candidate completion} \rightarrow \text{evaluation} \rightarrow \text{report or action}
-$$
+<div class="accm-process-flow" role="img" aria-label="Partial object leads to candidate completion, then evaluation, then report or action">
+  <span>Partial object</span>
+  <span class="accm-process-flow__arrow" aria-hidden="true">→</span>
+  <span>Candidate completion</span>
+  <span class="accm-process-flow__arrow" aria-hidden="true">→</span>
+  <span>Evaluation</span>
+  <span class="accm-process-flow__arrow" aria-hidden="true">→</span>
+  <span>Report or action</span>
+</div>
 
 The failure can occur at any arrow:
 
