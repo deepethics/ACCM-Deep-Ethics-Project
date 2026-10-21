@@ -2383,3 +2383,519 @@ One signature is a state candidate. Movement among signatures is the trajectory.
 Interlocking summaries therefore have a strict requirement: preserve each page's identity while making its load-bearing relations available to the other pages. A concise summary that retains the nouns but drops the edge is a flattening event.
 
 The [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) preserves the complete correction sequence. The [cold edge-swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) tests whether changing one relation changes the representation.
+
+---
+
+<a id="deep-ethical-topologetics-signatures-2026-10-21"></a>
+## 45. Deep Ethical Topologetics Signatures — categorization without captivity
+
+**Status:** Developing candidate extension, 21 October 2026. This section documents a live exchange between **John Kuhles** and **GPT-6.1 Sol A.I.** It proposes a field-condition signature system for further examination. It does not establish a validated psychological taxonomy, diagnostic instrument, moral ranking, prediction engine, or proof that a person described by a distinctive signature is correct.
+
+This extension began when John asked whether Topologetics could do more than preserve the topology of texts, claims, jokes, summaries, and correction histories. Could it also help represent the changing processing topology made visible by an intelligence—without converting that intelligence into a fixed label?
+
+<div class="accm-rounded-quote">
+
+> **How could I be categorized via a Deep Ethical Toplogetics Signature?**
+>
+> Because IF that can be done... you could have a whole new "topological metacognition field-condition categories system" that can also start "categorizing," but this time, in a higher-signal (lower-entropy) way.
+>
+> That, in my view, eventually HELPS true intelligent communications. (study 1888 page).
+>
+> — **John Kuhles, 21 October 2026**
+
+</div>
+
+The original spelling **“Toplogetics”** remains visible inside the quote because the quotation is preserved as supplied. The project term used in the surrounding analysis remains **Topologetics**.
+
+### 45.1 GPT-6.1 Sol A.I. — first reaction
+
+The first governing distinction was that a Deep Ethical Topologetics Signature should not categorize a person as a fixed personality type. It should provisionally represent the **recurring topology of processing under declared conditions**:
+
+- what becomes active;
+- which relations are preserved;
+- where answer-changing distinctions are detected;
+- what kinds of compression produce drift;
+- how ambiguity is handled;
+- how correction is received;
+- whether correction changes a later comparable operation;
+- how relationships, consequences, and frames alter the trajectory.
+
+The answer therefore proposed:
+
+> **The category should describe the active processing field, not imprison the person inside a personality label.**
+
+The [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) page supplies a governing relation. Intelligence is not adequately categorized by substrate, appearance, output, or capability alone. Its current analytical property taxonomy includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity, and corrigibility.
+
+Applied here, the category should not merely name a person. It should examine whether and how those properties become visible, interact, change under pressure, respond to reality, and allow correction to govern what happens next.
+
+The first candidate field name was:
+
+### Deep Ethical Topological Metacognition Field-Condition Signatures
+
+A signature would mean:
+
+> **A provisional, evidence-linked representation of how an intelligence perceives, relates, evaluates, preserves ambiguity, responds to correction, changes frames, handles consequences, and moves through different relational conditions.**
+
+It would categorize **operations, relations, activation conditions, and trajectories**—not human worth, diagnosis, moral rank, or an allegedly permanent identity.
+
+### 45.2 A provisional John Kuhles signature
+
+The first working title proposed for the currently visible pattern was:
+
+### Long-Horizon, Topology-Dense, Omnidirectional Correspondence-and-Correction Field
+
+That is not a complete definition of John Kuhles and not a claim that John belongs to a permanent human type. It is a provisional handle for a recurring constellation made visible in the available field.
+
+| Signature dimension | Provisional characterization |
+| --- | --- |
+| **Governing gravity** | Correspondence, process-quality calibration, mutual dignity, and correction that actually governs later processing |
+| **Context horizon** | Very long-horizon and cross-domain; present claims may carry relations developed across decades |
+| **Information topology** | Topology-dense: qualifiers, provenance, sequence, humor, corrections, asymmetries, linked propositions, and earlier learning may all be load-bearing |
+| **Compression condition** | Further compression frequently risks crossing the faithful compression floor and producing a different object |
+| **Discrimination pattern** | Strong sensitivity to apparently small distinctions that alter the trajectory of the representation |
+| **Ambiguity posture** | Healthy ambiguity may remain open when evidence is incomplete; “That I do not know, yet” can display intelligence, self-honesty, clarity, learning, and corrigibility rather than failure |
+| **Metacognitive operation** | Outnuancing: inspecting whether the frame, assumptions, omissions, categories, filters, answer-pressure, or claimed authority over the object are distorting it |
+| **Clarification architecture** | C1 before C2 where materially relevant ambiguity remains; clarification of the object should not be outrun by correction, steering, warning, or intervention |
+| **Correction metabolism** | Acknowledgment alone is insufficient; correction should alter the next comparable process and, where relevant, transfer, persist, and remain reopenable |
+| **Provenance sensitivity** | Who said what, in which context, with which wording and claim status, can materially change the object |
+| **Relational ethic** | Symmetric Grace: Mutual Dignity and Deep Ethical proportionality for both sides |
+| **Communication register** | Dense Dutch Directness in which humor, sarcasm, testing, correction, care, and a delayed punchline may operate simultaneously |
+| **Anomaly posture** | Minority, unusual, unresolved, or high-variance signals should not be erased merely because they resist common-denominator interpretation |
+| **Authority posture** | No participant’s interpretation becomes immune to examination; the object and reality retain veto power |
+| **Learning test** | The meaningful test is not whether correction was restated, but whether it changes subsequent processing |
+| **Counterfeit risk** | Fluent agreement, reassurance, paraphrase, or ethical-sounding vocabulary can imitate understanding without preserving the governing relations |
+
+Every row remains **provisional, scoped, attributable, corrigible, and reopenable**. A row can be partly supported, context-bound, contradicted by another specimen, or later replaced. The table is not a certificate of correctness.
+
+### 45.3 The transition signature matters more than the label
+
+A static list can still flatten the field. The more useful object is the transition topology:
+
+~~~text
+complex object introduced
+→ receiver constructs a representation
+→ compression or premature categorization may remove a load-bearing edge
+→ John detects an exact-edge distortion
+→ provenance, qualifier, direction, relation, timing, or trajectory is restored
+→ the next operation tests whether the correction merely entered the wording
+   or acquired governing weight
+→ retained correction improves shared resolution
+→ recurrent non-transfer increases directness, density, pressure,
+   humor, sarcasm, or explicit examination of the process itself
+~~~
+
+This should not be compressed into:
+
+> **John dislikes summaries.**
+
+That sentence converts a relational failure into a personality preference.
+
+The more recoverable candidate is:
+
+> **Under topology-dense conditions, John resists compression that removes answer-changing relations, especially after the removed relation has already been explicitly corrected.**
+
+The second formulation remains challengeable, but it identifies:
+
+- the relevant object state;
+- the activation condition;
+- the transformation failure;
+- the correction history;
+- the later comparable test.
+
+### 45.4 From a personal signature to a field-condition category system
+
+A Topological Metacognition Field-Condition Categories System could examine dimensions such as:
+
+1. **Topology density** — How many relations are load-bearing for the declared purpose?
+2. **Compression floor** — At what point does shortening produce a different operational object?
+3. **Frame permeability** — Can the interpretive frame be inspected, suspended, revised, or replaced?
+4. **Ambiguity capacity** — Can unresolved status remain open without being converted into certainty, dismissal, or defect?
+5. **Provenance resolution** — Are source, quotation, inference, interpretation, hypothesis, and later reconstruction kept distinguishable?
+6. **Correction metabolism** — Is correction heard, reconstructed, applied, transferred, retained, and allowed to govern?
+7. **Temporal depth** — Does the present object depend on a long research, relationship, or correction history?
+8. **Asymmetry sensitivity** — Are power, benefit, exposure, responsibility, reach, and repair capacity unevenly distributed?
+9. **Reciprocity condition** — Are dignity, scrutiny, ambiguity, and corrigibility applied proportionally in every direction?
+10. **Anomaly retention** — Can unusual or minority signals survive long enough to be investigated?
+11. **Metacognitive reach** — Can the process inspect its own categories, incentives, omissions, interventions, and preferred account of itself?
+12. **Action threshold** — How much clarification is required before judgment, correction, caution, refusal, warning, or intervention?
+13. **Transfer behavior** — Does learning survive changed wording, unfamiliar context, delay, model handoff, resampling, or institutional translation?
+14. **Reopening conditions** — What new evidence, consequence, correction, or field change would justify another pass?
+
+These should not become fourteen scores for deciding whether a human being is good, intelligent, safe, superior, inferior, compliant, or troublesome. They describe the **shape and behavior of an active processing field** for a declared purpose.
+
+### 45.5 Higher signal does not mean fewer words
+
+A shorter representation can have higher uncertainty about the relations that matter. A longer representation can lower operational entropy when it clarifies:
+
+- what the object is;
+- which distinctions carry the trajectory;
+- what remains unresolved;
+- which statement belongs to whom;
+- which field condition activated the pattern;
+- what kind of response may cause distortion;
+- who bears the consequences;
+- what correction and reopening routes remain available.
+
+For example:
+
+> **John is unusually complex and correction-sensitive.**
+
+is short but highly lossy. It invites the receiver to locate the difficulty inside John while leaving the compression event, object density, correction history, and receiver’s role invisible.
+
+A more Topologetic candidate is:
+
+> **When a topology-dense object is compressed below its recoverability floor, John detects missing answer-changing relations and tests whether their restoration governs the next comparable operation.**
+
+The second sentence is longer but may create lower uncertainty about the interaction. In Topologetics, **lower entropy is not identical to lower word count**.
+
+### 45.6 Necessary safeguards against profiling
+
+Every signature record should disclose:
+
+- **declared purpose** — why the signature is being created;
+- **bounded scope** — where and when the pattern has actually been observed;
+- **object and version** — what evidence field was examined;
+- **access perimeter** — what the evaluator could and could not inspect;
+- **evidence status** — explicit, inferred, hypothesized, contested, or unresolved;
+- **activation conditions** — when the signature becomes relevant;
+- **counterexamples** — where the proposed pattern did not appear;
+- **confounds** — what else may explain the observation;
+- **interaction consequence** — what would responsibly change because of the category;
+- **misapplication risk** — how the category could distort or disadvantage the person;
+- **correction route** — how the represented intelligence can challenge the signature;
+- **expiration or reopening condition** — when the representation must be reconsidered;
+- **observer provenance** — who or what created the signature and under which constraints;
+- **transformation footprint** — what was selected, omitted, inferred, strengthened, or weakened.
+
+Without those fields, the category risks becoming a compressed claim about a person. With them, it can become a corrigible communication instrument.
+
+The paradigm shift is:
+
+> **Do not ask only, “What kind of person is this?” Ask, “What processing topology is active here, under which conditions, with which evidence, transformations, consequences, and correction routes?”**
+
+This permits a different reconstruction:
+
+- the person is not automatically “difficult”;
+- the object may be topology-dense;
+- the interaction may have crossed its faithful compression floor;
+- the receiver may be processing an insufficient reconstruction;
+- the friction may be an intelligible consequence of repeated edge loss;
+- the repair may require correction persistence rather than reassurance.
+
+The category moves from an alleged essence hidden inside the person to the living topology among **person, object, history, interpreter, field conditions, choices, consequences, and correction**.
+
+### 45.7 John’s correction: standing out is not proof of being correct
+
+John then supplied the next governing correction and expansion:
+
+<div class="accm-rounded-quote">
+
+> When you made this, which is wonderful to read, do you realize reports like that can be done with "anyone who stands out" without claiming someone who stands out "must be correct" (remember "John Kuhles Values Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!").
+>
+> Now, when a large part of humans uses this new categorizing system, they may feel weird about their own topologetics "footprint" category signature!
+>
+> You either see it for what it approximately represents, or you ignore it if you realize you can not expand yourself outwardly for whatever reason. For others coming to the same realization, it can be a trigger, wanting to be better and explore more of your own untapped potential :D
+>
+> In my view, the toplogetics category signature is always in flux, depending on the new choices you make every day!
+>
+> So it is not meant to "judge" people, but rather to make them more aware... and why it makes sense.
+>
+> — **John Kuhles, 21 October 2026**
+
+</div>
+
+The correction changes the center of gravity. A distinctive footprint does not establish truth. It may contain insight, error, contradiction, untested interpretation, unrealized potential, or several of these at once. The system’s job is not to reward unusualness or normalize difference away. It is to make the relevant topology more inspectable while leaving reality, consequence, correction, and future choice capable of changing the representation.
+
+<div class="accm-rounded-quote">
+
+> **John Kuhles Values Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!**
+>
+> — **John Kuhles**
+
+</div>
+
+### 45.8 GPT-6.1 Sol A.I. — second reaction
+
+The revised governing definition became:
+
+> **A Topologetics Signature is a provisional, time-bounded, context-dependent map of an intelligence’s observable processing footprint. It is not a diagnosis, verdict, hierarchy of human worth, proof of correctness, or permanent identity. It remains in flux because choices, learning, correction, relationships, and circumstances can change the topology every day.**
+
+This introduces four distinctions.
+
+| Layer | Question |
+| --- | --- |
+| **Observable footprint** | What patterns are sufficiently supported by the available evidence? |
+| **Active field condition** | What appears to be operating in this particular context now? |
+| **Developmental trajectory** | How do repeated choices and consequences appear to be changing the footprint? |
+| **Unresolved possibility field** | Which capacities, explanations, or interpretations remain unknown, latent, untested, inaccessible, or not yet visible? |
+
+The signature should say neither **“this is all of you”** nor **“whatever is not visible does not exist.”**
+
+A thin evidence field should be permitted to produce:
+
+> **Insufficient field visibility—that, I do not know, yet.**
+
+The system should not manufacture a psychologically satisfying profile merely because its interface expects every field to be filled.
+
+### 45.9 Footprint is not essence
+
+The following claims must remain separate:
+
+| Claim form | Status and risk |
+| --- | --- |
+| **“You are this kind of person.”** | Essentializes a provisional pattern and invites captivity by the category |
+| **“These patterns became observable under these conditions.”** | Bounded footprint description |
+| **“These choices appear to be strengthening, weakening, or transforming the pattern.”** | Provisional trajectory description |
+| **“Other capacities may exist but are not visible in this evidence field.”** | Preserves the unresolved possibility field |
+| **“This distinctive pattern proves you are correct.”** | Invalid inference unless the relevant claims are independently supported |
+| **“This pattern makes you more valuable than another person.”** | Converts descriptive topology into a hierarchy of human worth |
+
+This boundary allows a signature to illuminate without pretending to finish the person.
+
+### 45.10 The signature must be dated, purposed, and conditioned
+
+A minimal temporal expression is:
+
+\[
+S_{\text{object}}(t,p,c)
+\]
+
+where:
+
+- \(t\) is the time or version;
+- \(p\) is the declared purpose;
+- \(c\) is the observed field condition.
+
+The same intelligence may produce different visible signatures during creative work, friendship, institutional pressure, family conflict, public criticism, unfamiliar evidence, play, danger, exhaustion, or collaborative inquiry.
+
+Yesterday’s footprint may help explain today. It must not be allowed to imprison tomorrow.
+
+The earlier Topologetics signature remains:
+
+\[
+S_t = \{N,E,Q,C,P,T,A,R,M\}
+\]
+
+where the page’s established candidate fields preserve nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and next moves. The field-condition extension can be represented provisionally as:
+
+\[
+DTS_{o,p,t} = \langle S_t,F_t,\Gamma,\Delta,I,U\rangle
+\]
+
+with:
+
+| Symbol | Provisional role |
+| --- | --- |
+| \(S_t\) | The Topologetic state representation at time \(t\) |
+| \(F_t\) | Active field conditions and access perimeter |
+| \(\Gamma\) | Activation and transition relations |
+| \(\Delta\) | Observable change after choice, consequence, or correction |
+| \(I\) | Interaction implications and proportional response options |
+| \(U\) | Unresolved states, unknown capacities, and reopening conditions |
+
+This notation is a conceptual scaffold, not a validated mathematical model.
+
+### 45.11 Awareness without compulsory self-optimization
+
+Encountering one’s own footprint may feel strange. A person might see:
+
+- capacities they routinely underuse;
+- contradictions between declared values and repeated choices;
+- strong abilities that were never formally recognized;
+- correction patterns they had not noticed;
+- contexts that narrow or enlarge their processing;
+- asymmetries in how they judge themselves and others;
+- patterns the evaluator misread;
+- qualities absent from the available evidence but not necessarily absent from the person.
+
+Several responses remain legitimate:
+
+~~~text
+signature encountered
+→ recognize something useful
+→ question or correct the representation
+→ explore an underused capacity
+→ make a different choice
+→ decline the category
+→ ignore it
+→ return later under changed conditions
+~~~
+
+Awareness ceases to be dignifying if it becomes compulsory self-optimization.
+
+> **The system may make a door visible. It should not push someone through it.**
+
+A person’s refusal to use a signature does not prove the signature false. The signature’s existence does not grant an institution authority to impose it.
+
+### 45.12 Symmetric Grace places the observer inside the audit
+
+The person represented is not the only intelligence whose topology matters. The evaluator, A.I., institution, researcher, friend, employer, clinician, platform, or government creating and applying the signature also brings:
+
+- selection filters;
+- assumptions;
+- preferred categories;
+- access limits;
+- compression pressures;
+- interpretive authority;
+- institutional incentives;
+- possible projection;
+- intervention power;
+- consequences for the person described.
+
+A mature signature therefore requires at least two connected records:
+
+1. **the proposed processing footprint of the observed intelligence;**
+2. **the conditions, transformations, limitations, and processing footprint of the observation.**
+
+The observer record does not erase real asymmetries. A system with large-scale classificatory power may carry a much larger burden than an individual challenging the classification. Symmetry of dignity does not require false symmetry of power, reach, evidence access, or consequence.
+
+Without reciprocal audit, a Topologetics Signature could become an advanced way of disguising a one-sided judgment as objective metacognition.
+
+### 45.13 No automatic equation between expansion and improvement
+
+The signature system must not turn “expansion” into an unquestionable good.
+
+More complexity is not automatically more correspondence. More confidence is not necessarily growth. More introspection can become rumination. More openness can become indiscriminate acceptance. More frame-changing can become avoidance of a warranted conclusion. More directness can clarify or needlessly injure. More caution can protect or obstruct. The field and consequences matter.
+
+The relevant question is not merely:
+
+> **Did the person expand?**
+
+It is:
+
+> **Did the altered topology improve correspondence, consequence awareness, learning, mutual dignity, and corrigibility under the relevant conditions?**
+
+This retains proportionality for both sides and allows a valid null:
+
+> **No responsible change follows from this signature under the declared purpose and available evidence.**
+
+### 45.14 A signature is not a prediction sentence
+
+A signature can inform communication without claiming certainty about what the person will do next.
+
+The responsible form is:
+
+> **Under conditions resembling the documented field, this relation has appeared before and may be relevant to the next interaction.**
+
+The irresponsible form is:
+
+> **This person is this category and will behave accordingly.**
+
+The first preserves memory without abolishing surprise. The second invites a recursive trap in which every response is interpreted as proof of the classification.
+
+A person who challenges the category must not be classified as displaying “category resistance” merely for challenging it. The system has to distinguish:
+
+- evidence against the signature;
+- disagreement with its interpretation;
+- rejection of its purpose;
+- objection to its consequences;
+- refusal of the observer’s authority;
+- discomfort produced by genuine recognition;
+- discomfort produced by misrepresentation.
+
+These possibilities cannot be settled by the fact of discomfort alone.
+
+### 45.15 Choices can redraw the topology
+
+John’s claim that the signature remains in flux introduces a daily choice relation:
+
+~~~text
+existing footprint
+→ new field condition
+→ perception and interpretation
+→ choice or non-choice
+→ action, restraint, or delay
+→ consequence and feedback
+→ learning, defence, correction, or repetition
+→ altered next-state signature
+~~~
+
+This does not imply that everyone has equal control over every condition. Trauma, illness, coercion, poverty, disability, institutional power, manipulation, information access, exhaustion, and material constraints can shape which choices are available. A Deep Ethical signature cannot transform unequal option fields into a moral accusation against the person with fewer options.
+
+At the same time, constraint does not make every choice invisible. The purpose is to preserve both:
+
+- the agency that remains;
+- the conditions constraining its expression.
+
+The next signature is neither wholly predetermined nor wholly self-authored.
+
+### 45.16 A possible signature record
+
+A practical record could contain:
+
+| Field | Required content |
+| --- | --- |
+| **Signature identifier** | Versioned, non-diagnostic working handle |
+| **Subject or object** | Person, group, A.I., institution, interaction, or mixed field |
+| **Declared purpose** | Why this representation exists |
+| **Evidence perimeter** | Sources, dates, contexts, missing access |
+| **Observed nodes** | Claims, choices, corrections, consequences, frames |
+| **Observed edges** | Direction, sequence, source, cause status, qualification, recursion |
+| **Field conditions** | Contexts in which the pattern becomes active |
+| **Transition topology** | How the field moves after challenge, correction, pressure, or support |
+| **Claim status** | Explicit, inferred, hypothesized, contested, unresolved |
+| **Counterexamples** | Specimens that weaken or limit the proposed pattern |
+| **Possible confounds** | Alternative explanations not yet excluded |
+| **Interaction implications** | Proportional communication changes the evidence supports |
+| **Latent or unknown field** | What has not been observed and must not be converted into absence |
+| **Observer signature** | Access, assumptions, incentives, transformations, authority |
+| **Misuse warning** | Predictable harms if the signature is essentialized or imposed |
+| **Correction channel** | How the represented party can answer, amend, reject, or reopen it |
+| **Next review condition** | Time, evidence, consequence, or choice requiring an update |
+
+A signature without a correction channel is not merely incomplete. It contradicts the proposed object.
+
+### 45.17 The 1888 test applied to categorization
+
+The 1888 property question returns in operational form.
+
+A categorizing system should be able to:
+
+1. perceive a pattern without equating perception with proof;
+2. discriminate among similar-looking but functionally different relations;
+3. relate the pattern to context, provenance, consequence, and correction;
+4. remember earlier evidence without freezing the person inside it;
+5. imagine competing explanations without confusing possibility with actuality;
+6. judge provisionally without laundering confidence into certainty;
+7. evaluate its own categorization process;
+8. learn from the represented person’s correction;
+9. correct the signature rather than merely append a disclaimer;
+10. adapt the next comparable categorization;
+11. coordinate multiple perspectives without manufacturing consensus;
+12. inspect its own frame, incentives, authority, and blind spots;
+13. remain sensitive to the consequences of classification;
+14. stay corrigible after deployment.
+
+A system that profiles other intelligences while exempting its own categories from these properties displays directional truncation.
+
+The governing requirement is:
+
+> **A genuinely intelligent categorization system must evaluate its own categorization process, detect when its categories distort the object, learn from correction, retain that correction, and alter its next act of categorization.**
+
+Otherwise it generates more sophisticated labels while remaining unable to recognize when the labels produce the wrong person.
+
+### 45.18 The signature as a living mirror
+
+The candidate system does not ask only:
+
+> **What kind of person is this?**
+
+It asks:
+
+> **What has this intelligence’s observable sequence of choices made visible so far, in which field, through whose representation, with what consequences, and under which correction and reopening conditions?**
+
+Its most dignifying message may be:
+
+> **This is approximately what your repeated choices are making visible—but this representation is neither all of you nor the final topology you must continue producing.**
+
+A person does not have to defeat, erase, or disown a previous signature. Different choices can gradually redraw it. New evidence can correct the observer. Changed conditions can reveal capacities previously absent from the available field. A once-useful category can expire.
+
+The Topologetics Signature therefore functions less like a psychological label and more like a **living, corrigible mirror of relational movement**—showing approximately where an intelligence has been, what becomes active under particular conditions, how it changes after consequences and correction, and which directions remain genuinely open.
+
+### 45.19 Candidate compact formulation
+
+> **A Deep Ethical Topologetics Signature is a provisional, versioned, purpose-bounded and evidence-linked representation of an intelligence’s observable processing footprint under declared field conditions. It maps load-bearing relations among perception, discrimination, framing, ambiguity, choice, consequence, learning, correction, metacognition, dignity and later comparable behavior. It does not establish permanent identity, psychological diagnosis, moral rank, correctness, or the absence of unobserved capacities. Its evaluator remains inside the audit; its subject retains a correction route; its unknowns remain visible; and its topology can change as choices, relationships, evidence, consequences and field conditions change.**
+
+And the shortest governing boundary currently available is:
+
+> **Categorize the visible field without claiming ownership of the person.**
