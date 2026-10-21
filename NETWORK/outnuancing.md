@@ -164,3 +164,14 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — checks whether frame questioning and scrutiny remain available in every relevant direction.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — examines how assumptions, incentives, choices, and omissions shape the frame’s practical results.
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps unresolved states available when a familiar category would prematurely replace the object.
+
+<!-- 2026-10-21 contribution-state triad extension -->
+## Outnuancing the agreement frame {#outnuancing-agreement-frame}
+
+**Status:** `[CANDIDATE-APPLICATION]`
+
+When *agree/disagree* governs, further optimization can produce sophisticated loyalty management while losing the object. Outnuancing makes that frame inspectable. The **Deep Ethical Contribution State Grammar Vector Trajectory** is one candidate replacement: What does this add, restore or permit us to test? Where is it not useful? Which explanation supports that finding? Does the next move change?
+
+Outnuancing audits this replacement too. If the long phrase becomes costume, suppresses ordinary language, manufactures complexity, or lets *here is why* become final authority, revise, suspend or discard the frame while preserving functional distinctions that survive.
+
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})

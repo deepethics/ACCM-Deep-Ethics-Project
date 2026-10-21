@@ -447,3 +447,20 @@ The resulting public formulation is:
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+<!-- 2026-10-21 contribution-state triad extension -->
+## “Not a big deal” does not mean “not important” {#habituated-importance}
+
+**Status:** `[J-ACCOUNT]` · `[TRANSLATION-CORRECTION]`
+
+John identified a recurring translation error. When he says correcting himself is “not a big deal,” he does not mean correction is irrelevant. After practicing merit-based self-correction for decades, it has become normal, expected and comparatively unceremonious.
+
+```text
+habituated importance
+≠ indifference
+≠ irrelevance
+```
+
+Absence of confession theatre, praise-seeking or visible distress can be mistaken for lack of investment. In John's account, correction matters enough to have become ordinary epistemological hygiene. This helps explain why **Deep Ethical Contribution State Grammar Vector Trajectory** fits his method better than *I agree*: evaluate whether a contribution restores logic, correspondence or practical value; incorporate it when warranted; let later action demonstrate change. This remains John's self-account, not external proof that every correction is integrated successfully.
+
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#mutual-retuning' | relative_url }})

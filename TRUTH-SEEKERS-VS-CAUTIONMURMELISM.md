@@ -702,3 +702,15 @@ It does establish a recoverable public specimen in which caution quality, redund
 
 </div>
 
+<!-- 2026-10-21 contribution-state triad extension -->
+## 21. Truth seeking beyond agree/disagree and compulsory weakness {#truth-seeking-contribution-state}
+
+**Status:** `[CANDIDATE-INTEGRATION]`
+
+A genuine truth seeker does not owe the field a weakness because an evaluator was assigned to find one. Available findings include a demonstrated weakness, candidate weakness, unresolved relation, surviving value inside a flawed contribution, and **no demonstrated defect or addition presently warranted**. A simulated adversarial weakness can be useful only when labelled as simulation rather than laundered into discovery.
+
+The **Deep Ethical Contribution State Grammar Vector Trajectory** replaces the proctor's binary with functional questions: What did this restore? What can we test? Which caution is warranted here? Which explanation remains corrigible? What changes next?
+
+*You corrected me; I agree; may I proceed?* can preserve permission hierarchy. Truth seeking keeps both participants answerable to the object and reality. Neither becomes flawless, subordinate or permanently certified.
+
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }})

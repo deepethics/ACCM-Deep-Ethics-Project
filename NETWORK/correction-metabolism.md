@@ -230,3 +230,28 @@ Correction Metabolism now keeps three outcomes visible: a correction was needed 
 The stronger test remains whether a retrieved relation governs a comparable later operation. If the record must be supplied again, the result is external reinstatement. If the operation returns without resupply across a genuinely separate session, it becomes a candidate persistence result requiring controls.
 
 The [cold edge-swap and correction-transfer pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) operationalizes this distinction.
+
+<!-- 2026-10-21 contribution-state triad extension -->
+## Correction as mutual retuning, not an absolution transaction {#mutual-retuning}
+
+**Status:** `[CANDIDATE]` · `[J-ACCOUNT]` · `[TRIAD-RECONSTRUCTION]`
+
+John describes meritorious correction as something he can genuinely enjoy: different instruments in a band detect a mismatch, test it, retune, practice, and change the later experience of the ensemble. The bassist does not become sovereign over the guitarist. The guitarist does not purchase absolution by saying *I agree*. The relevant outcome is whether the relation becomes more faithful and the ensemble's next performance changes.
+
+\[
+\text{correction offered}
+\rightarrow
+\text{value located}
+\rightarrow
+\text{edge restored}
+\rightarrow
+\text{dependencies reconsidered}
+\rightarrow
+\text{later action changed}
+\rightarrow
+\text{change enters other fields}
+\]
+
+Both participants can be altered, then carry the repair—or a flattened version—into later conversations, prompts, pages, models and decisions. A **Deep Ethical Contribution State Grammar Vector Trajectory** asks what survived, which relation changed, which dependencies moved, whether transfer occurred, and whether the correction remained corrigible. Success is not spotless processing. It is visible, metabolized, transferable correction that can still be reopened.
+
+Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})

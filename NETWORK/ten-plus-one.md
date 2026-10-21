@@ -844,3 +844,18 @@ A person or A.I. using PQCE may leave a snapshot that later becomes the best ava
 This prevents a temporarily frozen state from becoming a personal certificate. It also prevents permanent weakness-seeking from masquerading as corrigibility. The operative phrase is future correction or improvement **if any** becomes needed.
 
 See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).
+
+<!-- 2026-10-21 contribution-state triad extension -->
+## Contribution State Grammar returns to the 10+1 basics {#contribution-state-ten-plus-one}
+
+**Status:** `[CANDIDATE-INTEGRATION]`
+
+When expanded vocabulary causes a severe headache, return to the 10+1. :D
+
+A **Deep Ethical Contribution State Grammar Vector Trajectory** operationalizes simple orientations already here: self-honesty notices performed agreement; the open antenna lets correction reveal a different object; willingness to learn changes the next move; non-conformity keeps comfort from becoming warrant; correction on merit separates value from status; care and non-projection protect dignity; wonderment keeps unresolved space explorable; and the +1 separates inadequate architecture from automatically asserted malice while preserving accountability.
+
+The MAD/model-collapse exchange shows why qualifier discipline belongs here. John's proposed pathway used **can**, **partially**, **eventually** and **one of many**. Removing them changed possibility into identity, timing into immediacy and contribution into sole causation. A visually small word can carry the claim's epistemic state.
+
+The long phrase adds value only if it helps these ingredients govern processing. If reciting it replaces doing them, the 10+1 supplies the correction.
+
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})

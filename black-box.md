@@ -576,3 +576,21 @@ Random storage, an external archive, a Decision Ledger, and operative memory are
 “Considered sacred storage” describes how an A.I.'s own memory may be treated because later operations are built from it. Protection does not certify the contents. A protected store can retain a correction, a bias, or a mannerism.
 
 The same visibility requirement applies to attribution: preserve what the tool supplied, what the user changed, and where a later accusation entered. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).
+
+<!-- 2026-10-21 contribution-state triad extension -->
+## Contribution-state inference under opacity {#contribution-state-opacity}
+
+**Status:** `[CANDIDATE-INTEGRATION]`
+
+A visible output is evidence, but not a complete recovery of the system producing it. John's piezoelectric analogy keeps spark, crystal, pressure and apparatus apart. A surface answer may reveal recurrence while training composition, orchestration, model internals, institutional incentives and causal weighting remain unresolved.
+
+A **Deep Ethical Contribution State Grammar Vector Trajectory** separates:
+
+- **observed contribution state:** what the output demonstrably adds, drops or redirects;
+- **candidate process explanation:** how that state may have arisen;
+- **unavailable internal relation:** what the access perimeter cannot establish;
+- **downstream trajectory:** what happens after correction supplies new evidence.
+
+This prevents two substitutions: polished output as proof of sound processing, and observed distortion as proof of one hidden motive. Opacity does not make evaluation impossible. It makes claim status, matched tests, provenance and reopening conditions more important.
+
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})

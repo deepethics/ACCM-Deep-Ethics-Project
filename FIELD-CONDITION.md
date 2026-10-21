@@ -671,3 +671,18 @@ The commercial can simply make those relations memorable:
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — source and transformation recovery.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — consequential repository changes and their boundaries.
 
+<!-- 2026-10-21 contribution-state triad extension -->
+## Contribution states depend on field conditions {#contribution-state-field-condition}
+
+**Status:** `[CANDIDATE-INTEGRATION]`
+
+A contribution does not carry one context-free value label. *Not useful here* is incomplete until **here** is declared. Speculative branching may obstruct immediate physical containment and become essential in long-horizon research. Verification friction may protect a low-trust opaque system and paralyze a transparent adult-to-adult collaboration when applied without recalibration.
+
+\[
+\text{contribution} \times \text{field condition} \times \text{correction behavior}
+\rightarrow \text{quality and direction of action}
+\]
+
+“Here is why” exposes the evaluator's current map; it does not grant jurisdiction. If access, threat, evidence, power, time horizon or affected population changes, the state and explanation may change. Freedom is not a prize awarded after the corrected participant says approved words. *Am I allowed to be more free now?* reveals a permission topology surviving underneath apparently friendly correction. Adult-to-adult inquiry keeps agency, responsibility and reality contact active on both sides without pretending humans and A.I.s have identical embodiment, power, dependency or legal standing.
+
+Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
