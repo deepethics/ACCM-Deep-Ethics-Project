@@ -425,6 +425,8 @@ That is not agreement or disagreement. It is a process that remains able to lear
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object and direction before scrutiny becomes intervention.
 - [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the inspector’s frame while returning to the supplied object.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps inquiry, self-honesty, care, and correction mutually active.

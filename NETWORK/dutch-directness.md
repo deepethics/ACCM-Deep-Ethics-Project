@@ -393,6 +393,8 @@ No cultural costume is required.
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — develops the independent-inquiry mode that Dutch Directness can make speakable without turning dissent into a fixed identity.
 - [**10+1 Metaflux — Mutual Correction**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation that keeps directness from becoming one-way certainty.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps adult ⇄ adult dignity active while disagreement and correction remain possible.

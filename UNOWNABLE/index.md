@@ -481,6 +481,8 @@ This is a reproducible snapshot of the repository before the publication of this
 
 ## Related project pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — applies renewable auditability, bounded stopping and valid-null recognition to the relational conditions surrounding intelligent work.
 
 - [Neolingo]({{ site.baseurl }}/NEOLINGO/) — separates attributable coinage and textual footprints from ownership of the discoverable relation or Deep Ethical process property

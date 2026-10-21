@@ -389,6 +389,8 @@ The question does not need to sound profound. It needs to **do real work**.
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — questioning the question as metacognitive intelligence rather than evasion.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — answer-changing clarification before intervention.
 - [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — why asking does not automatically authorize the asker or improve the process.

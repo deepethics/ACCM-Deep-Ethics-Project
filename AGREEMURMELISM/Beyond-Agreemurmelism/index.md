@@ -842,6 +842,8 @@ That is why I01 ⇄ I02 belongs here.
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps agreement, disagreement, and the evaluator mutually open to correction.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — supports correction without turning difference into a status contest or relational withdrawal.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether trust, doubt, evidence demands, and interpretive generosity flow evenly.

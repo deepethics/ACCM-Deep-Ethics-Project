@@ -816,6 +816,8 @@ This distinction is especially important because the ACCM Deep Ethics Project is
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**About the Lexicon**]({{ '/LEXICON/ABOUT/' | relative_url }}) — explains why the Lexicon is relational navigation rather than a flat dictionary.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — explains when a neologism acts as a recoverable cognitive operator and how to test its trajectory without turning reach into validation.
 - [**Outnuancing Network — Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides a second compact route into the connected network pages.

@@ -652,6 +652,8 @@ The commercial can simply make those relations memorable:
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — applies field-condition distinctions to neural networks, LLM behavior, interpretability and durable correction.
 - [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }}) — applies field-condition scrutiny to public influence, campaign design, audience psychology and the project’s own promotion.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — interacting conditions, selection pressures and competing trajectories.

@@ -493,6 +493,8 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — trust, doubt, and generosity are not settled by which side a person is on.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — compares the scrutiny, ambiguity, and correction rights given to consensus and dissent across political positions.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins candid scrutiny to reciprocal dignity, clarification, and correction rights.

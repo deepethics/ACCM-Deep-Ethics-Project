@@ -545,6 +545,8 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) — examines the unresolved transition in which an existing ethical attractor loses governing force before a more reality-connected, corrigible trajectory is stabilized.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — which properties of a correction come to govern the next assessment.
 - [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }})

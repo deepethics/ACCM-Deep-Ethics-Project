@@ -179,6 +179,8 @@ Sources: [E20](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**The Imported Authority Frame**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — preserves the source sequence in which a hypothetical authority problem was introduced before the mutually corrective architecture was fully used.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the self-correcting calibration ecology that default caution repeatedly risks skipping.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — applies the warning’s scrutiny to the safety heuristic and evaluator as well as the proposed framework.

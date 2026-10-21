@@ -159,6 +159,8 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — asks which surrounding conditions let correction govern later administrative and coding behavior rather than remain a one-turn acknowledgment.
 
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — asks whether correction changes later uses of a purpose-built term and leaves a persistent operational deposit rather than a one-turn acknowledgement.

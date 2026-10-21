@@ -104,6 +104,8 @@ The fuller record is on [Human Insecurity, LLMs, Psychology & Mass Psychology](h
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — records the stewardship, correction, fork, and accountability principles surrounding the canonical project.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — preserves the fuller source and audit context from which the veto clarification emerged.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — shows the clarification that dissolves the permanent-authority interpretation before judging it.

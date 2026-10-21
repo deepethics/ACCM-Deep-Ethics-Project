@@ -776,6 +776,8 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
+- [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
+
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — agreement and disagreement stay inside the mutually correcting field. They do not become the axis.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — uses the 10+1 to keep independent inquiry from hardening into a flattering or self-sealing identity.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows how the 10+1 becomes visible in candid, caring, mutually corrigible communication.
