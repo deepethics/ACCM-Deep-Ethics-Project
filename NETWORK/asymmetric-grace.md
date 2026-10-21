@@ -18,6 +18,53 @@ permalink: /NETWORK/asymmetric-grace/
 
 The concept does **not** mean that institutions are always wrong, outsiders are always right, unusual proposals are inherently valuable, or every difference in treatment is unjustified. It asks whether a difference is grounded in the object and its consequences—or inherited from status, proximity to power, familiarity, or a frame that has not itself been audited.
 
+## Declogging clarification — diagnosis is not the valued trajectory
+
+A memory-export compression produced this sentence:
+
+> “Values Asymmetric Grace: mistakes may be forgiven without making the architecture, distortion, or resulting effect invisible.”
+
+That formulation does not compute against the page's own topology. **Asymmetric Grace / Grace Asymmetry names the possible unequal distribution being diagnosed and audited. It is not the Deep Ethical value John endorses.** The sentence also pulled “grace” toward forgiveness and fused it with nearby ideas from the 10+1 forgiveness protocol, Intent Liability, and Correction Metabolism.
+
+John's clarification restores the polarity:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> John Kuhles Values Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!
+
+</div>
+
+The Deep Ethical topologetics signature is:
+
+```text
+diagnosed imbalance
+→ Asymmetric Grace / Grace Asymmetry
+
+valued trajectory
+→ Symmetric Grace
+
+relational ground
+→ Mutual Dignity
+
+operational standard
+→ Deep Ethical Proportionality for both sides
+```
+
+**Symmetric Grace does not require identical treatment, identical evidential burdens, or identical conclusions.** It requires comparable access to faithful representation, clarification, uncertainty, scrutiny, correction, appeal, and reasons—while any difference in treatment remains proportionate to material differences in power, imposition, opacity, reversibility, exposure, evidence, and consequence.
+
+This specimen shows why a named concept cannot safely be inserted into a generic template such as “John values [concept].” Before assigning positive or negative value, the process must determine whether the term names a goal, a safeguard, a diagnostic, an imbalance, a failure signature, or a proposed test. Here the required polarity check is:
+
+```text
+Does John value Asymmetric Grace?
+→ No: he diagnoses and audits it.
+
+What does John value?
+→ Symmetric Grace (Mutual Dignity):
+  Deep Ethical Proportionality for both sides.
+```
+
+The declogging move is small but answer-changing: restore the direction of the relation before adding explanation.
+
 
 
 ## Grace as an epistemic operation
