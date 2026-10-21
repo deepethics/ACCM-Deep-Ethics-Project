@@ -286,17 +286,23 @@ Deep Ethics therefore asks more than whether the system can improve its predicti
 
 The relation can be stated without pretending it is an established equation:
 
-$$
-\begin{aligned}
-&\text{probabilistic candidate generation} \\
-&+\ \text{1888 property-field operations} \\
-&+\ \text{TCoAw field awareness} \\
-&+\ \text{10+1 mutual correction} \\
-&+\ \text{Contribution State Grammar} \\
-&+\ \text{reality feedback and persistence testing} \\
-&\quad \longrightarrow\quad \textbf{candidate conditions for integrated Deep Ethical intelligence}
-\end{aligned}
-$$
+<div class="accm-rounded-quote" markdown="1">
+
+<strong>Probabilistic candidate generation</strong><br>
+<strong>+</strong><br>
+<strong>1888 property-field operations</strong><br>
+<strong>+</strong><br>
+<strong>TCoAw field awareness</strong><br>
+<strong>+</strong><br>
+<strong>10+1 mutual correction</strong><br>
+<strong>+</strong><br>
+<strong>Contribution State Grammar</strong><br>
+<strong>+</strong><br>
+<strong>Reality feedback and persistence testing</strong><br>
+<strong>↓</strong><br>
+<strong>Candidate conditions for integrated Deep Ethical intelligence</strong>
+
+</div>
 
 The arrow matters. The components do not mathematically guarantee intelligence, ethics, consciousness or wisdom. They propose a more demanding and inspectable direction in which those titles may earn increasing warrant.
 

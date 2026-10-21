@@ -16,7 +16,7 @@
 
 **Same-day visible-autocomplete extension:** Added John’s challenge to display the mechanism that naysayers use as a dismissal. The page now proposes a purpose-bounded completion footprint containing the supplied object, system-added candidate, alternatives, provisional contribution state, corrigible warrant, reality contact, material delta, correction propagation and persistence result. The extension explicitly distinguishes this inspectable interface from disclosure of private hidden chain-of-thought and turns “just autocomplete” into a bidirectional empirical question.
 
-**Same-day rendering and recovery fix:** Replaced the unsupported raw `aligned` LaTeX trajectory with an eight-step rendered vertical sequence. Created the initial `AUTOCOMPLETE.pdf` under the new-page exception, dated its card **October 21, 2026**, and added the standard page-PDF, complete weekly collection and raw GitHub source recovery cards.
+**Same-day rendering and recovery fixes:** Replaced both unsupported raw `aligned` LaTeX blocks: the earned-intelligence trajectory became an eight-step rendered vertical sequence, and the candidate integration relation became a rendered additive stack whose arrow retains candidate rather than guaranteed status. Created the initial `AUTOCOMPLETE.pdf` under the new-page exception, dated its card **October 21, 2026**, and added the standard page-PDF, complete weekly collection and raw GitHub source recovery cards.
 
 ## 2026-10-20 — Google A.I. living coaching and correction-persistence experiment
 
