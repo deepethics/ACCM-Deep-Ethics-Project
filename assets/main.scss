@@ -192,7 +192,7 @@ a:hover {
 
 .accm-page-shell {
   display: grid;
-  grid-template-columns: 200px minmax(0, 1fr);
+  grid-template-columns: 150px minmax(0, 1fr);
   align-items: start;
   gap: clamp(28px, 3vw, 56px);
 }
