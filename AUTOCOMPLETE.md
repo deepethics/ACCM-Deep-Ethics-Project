@@ -452,6 +452,7 @@ Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identit
 
 ## 17. Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — applies the visible-autocomplete and earned-intelligence questions to evaluation awareness, apparent capability hiding and Hinton’s public claims.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
 - [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps foreground completion inside a wider field of relations, ambiguity and later correction.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — tests whether the representation preserved purpose-relevant nodes, edges, qualifiers, provenance and correction history.

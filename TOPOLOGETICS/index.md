@@ -2349,6 +2349,7 @@ And the shortest safe boundary currently available is:
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — preserves the provenance edges among Hinton, the interviewer, video narration, referenced research, John’s comments and the project synthesis.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — tests whether a representation preserves the boundary between supplied object and probable completion, and whether correction changes the later trajectory.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 

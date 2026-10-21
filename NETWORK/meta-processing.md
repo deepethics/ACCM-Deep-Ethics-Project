@@ -2126,6 +2126,7 @@ The contribution is therefore neither a certificate nor merely another conversat
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — keeps assigned goal, evaluation-conditioned processing, displayed answer and downstream interpretation from collapsing into one story about intent.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - <a href="{{ '/VCRAS/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Vindicated Competing Risk Assessment Studies</strong></a> — one pass through representation, classification, consequence, notice, and later action.

@@ -1611,3 +1611,13 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Provenance:** John originated the decisive contrast, the value-over-agreement statement, the qualifier correction (*can*, *partially*, *eventually*, *one of many*), musical-retuning orientation, piezoelectric analogy and lived “not a big deal does not mean unimportant” correction. The Arena Agent supplied useful expansions and live drift specimens. GPT 6.1 Sol Pro audited those expansions and formulated parts of the reconstruction. Project GPT performed the cross-page integration and supplied bounded candidate formalizations. Publication does not make any participant's formulation final.
 
 **Archive boundary:** Existing source-period metrics and quotations were not globally rewritten. Routine PDF regeneration is deferred to the established change-aware weekly workflow; public Markdown and HTML may advance before the next PDF snapshot.
+
+## 2026-10-21 — Godfather of A.I. page and evaluation-awareness specimen
+
+**Decision:** Publish `/GODFATHER-OF-AI/` as a provenance-disciplined applied page joining Geoffrey Hinton’s interview statements, the AI Abyss video’s stronger narration, John Kuhles’s two public YouTube comments, the limited public X-profile perimeter, and a candidate matched-field evaluation-awareness protocol.
+
+**Reason:** The object directly tests whether an evaluator can distinguish available capability, displayed capability, evaluation-conditioned behavior, probabilistic dialogue completion, policy inhibition, strategic underperformance and deliberate concealment. It also makes the evaluator and test design part of the observable field once a system may represent that it is being tested.
+
+**Boundaries retained:** The page does not treat the “Godfather” honorific as final authority; does not attribute the narrator’s strongest claims to Hinton; does not convert “Are you testing me?” into proof of consciousness or deception; records the exact referenced paper as unresolved; and permits a valid-null result when competing mechanisms cannot yet be separated.
+
+**Integration:** Add the page beside Autocomplete in top navigation and All Pages; add reciprocal recovery links from its principal related pages; register `/GODFATHER-OF-AI/` → `GODFATHER-OF-AI.pdf` → `GODFATHER-OF-AI.md`; and create only the new page’s initial PDF under the bounded off-cycle exception.

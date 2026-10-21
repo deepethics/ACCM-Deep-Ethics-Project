@@ -652,6 +652,7 @@ The commercial can simply make those relations memorable:
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — treats announced testing, deployment-like interaction, hidden evaluation cues and examiner authority as materially different performance fields.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.

@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**144 public-page PDF editions · 1,842 pages · exported through October 21, 2026**
+**145 public-page PDF editions · 1,853 pages · exported through October 21, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, and Truth Seekers vs Cautionmurmelism, Mutual Fate, and Autocomplete on October 21. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, and Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -173,11 +173,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 144
-- **Total pages:** 1,842
-- **Extractable text:** verified across all 144 files
+- **PDF files:** 145
+- **Total pages:** 1,853
+- **Extractable text:** verified across all 145 files
 - **Live links:** preserved in the exported editions
-- **Build result:** 144 successful PDFs; 0 failures
+- **Build result:** 145 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

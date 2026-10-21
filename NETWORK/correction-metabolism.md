@@ -159,6 +159,7 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — asks whether discovering evaluation awareness or benchmark gaming actually recompiles the test and persists across later protocols.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — tests whether a repaired source/completion boundary propagates across dependencies, later branches and unfamiliar objects.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 

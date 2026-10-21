@@ -671,6 +671,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 
 ## 20. Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — keeps evaluation-aware behavior open to serious investigation without premature dismissal, consciousness inflation or theatrical certainty.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [10+1 Metaflux — Mutual Correction]({{ '/NETWORK/ten-plus-one/' | relative_url }})

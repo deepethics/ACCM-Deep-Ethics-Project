@@ -548,6 +548,7 @@ This page does not establish that agreement and disagreement are inherently harm
 
 ## 20. Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — follows how human evaluation design shapes A.I. behavior and how that behavior returns through governance, public narratives and future training archives.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — follows how generated candidates become reports, corrections and future archive conditions across the coupled human–A.I. trajectory.
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live precursor specimen showing insight, redundant caution, restoration burden, correction and overcorrection.
 - [**10+1 Metaflux — Mutual Correction**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the recoverable baseline and source status of ingredient 11.
