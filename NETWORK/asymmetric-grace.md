@@ -30,7 +30,7 @@ John's clarification restores the polarity:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> John Kuhles Values Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!
+### **John Kuhles Values Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!**
 
 </div>
 
