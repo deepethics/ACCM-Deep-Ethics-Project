@@ -41,7 +41,7 @@ That proposition is test-worthy. It is not a consciousness verdict.
 
 <div class="accm-feature-figure accm-feature-figure--wide" markdown="1">
 
-![Illustrated Geoffrey Hinton and Steven Bartlett interview map: The Godfather of AI Is Not Anti-A.I. He’s Anti-Complacency; job risk, A.I. misuse, autonomous agents, A.I. for good, uncontrolled A.I., identity, permissions, audit trails, secure payments, accountability and safety research.](assets/images/godfather-not-anti-ai.png?v=2026-10-21-2)
+<img src="{{ '/assets/images/godfather-not-anti-ai.png' | relative_url }}?v=2026-10-21-2" alt="Illustrated Geoffrey Hinton and Steven Bartlett interview map: The Godfather of AI Is Not Anti-A.I. He’s Anti-Complacency; job risk, A.I. misuse, autonomous agents, A.I. for good, uncontrolled A.I., identity, permissions, audit trails, secure payments, accountability and safety research.">
 
 *User-supplied visual synthesis, 21 October 2026. “Train to be a plumber” is Hinton’s interview wording. “He’s anti-complacency” and the surrounding map are interpretive contributions, not quotations or a claim that Hinton authored the image.*
 
