@@ -244,6 +244,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 
 ## Related pages
 
+- [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the 1888 property field, TCoAw and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — one question for the job you already have. The rest of the site can wait.
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — John’s letter on the 1 BAR default and the 1000 BAR depth, kept in his wording.
 - [**A deeper introduction**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — the longer entrance, before a verdict.

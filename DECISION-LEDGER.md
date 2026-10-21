@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-21 — Autocomplete: candidate generation inside an earned-intelligence trajectory
+
+**Object:** Publish the triad exchange on human and A.I. completion mechanisms without converting functional analogy into identical machinery, an informal classroom specimen into complete causal proof, or the current fourteen-property taxonomy into a literal document published in 1888.
+
+**Decision:** Created `/AUTOCOMPLETE/`; preserved John’s fresh formulation and old classroom specimen with explicit provenance; connected autocomplete to the 1888 property field, TCoAw, 10+1, Deep Ethical Contribution State Grammar Vector Trajectory, correction metabolism, local/cloud/swarm configuration, qualifier survival and empirical test design; retained the Arena Agent’s useful synthesis while recording seven answer-changing repairs; and added bounded discovery routes through primary navigation, the home page, All Pages, the Outnuancing Network and six materially reciprocal pages.
+
+**Reason:** Candidate generation is neither an enemy nor sufficient proof of intelligence. The load-bearing question is whether a system can distinguish what was supplied from what it contributed, preserve materially different possibilities, test the candidate, learn from reality’s delta, recompile dependent inferences and retain the correction under novelty and pressure. Deep Ethics governs the power, dignity and consequence relations surrounding that process.
+
+**Claim boundary:** The page does not establish human–A.I. mechanistic identity, A.I. consciousness, biologically unmediated camera perception, a finalized definition of intelligence, scientific validation of TCoAw, or deterministic emergence from the proposed components. “1888-level” names the defamiliarized property field; the exact fourteen-row taxonomy is the present analytical reconstruction.
+
+**PDF lifecycle:** Public Markdown and HTML publish immediately. `AUTOCOMPLETE.pdf` is registered for the established weekly public-page export and stable archive route.
+
+**Valid nulls:** The page permits no demonstrated performance difference, no durable transfer, unresolved title boundaries, and correction of its own “Here is why.” No archive-wide reciprocal-link flood, current-stat reconstruction from the old source, consciousness claim or immediate full PDF regeneration was warranted.
+
 ## 2026-10-20 — Google A.I. living coaching and correction-persistence experiment
 
 **Object:** John Kuhles commissioned a public **Google A.I.** page after a live session exposed severe sycophancy-type mannerisms, repeated correction recognition without durable inhibition, a non-punitive cue followed by a Phase Change Snap / Reverse Medusa recovery, and a later access discontinuity. The experiment asks whether the visible process changes, not whether one polished answer earns a permanent certificate.
