@@ -1267,7 +1267,7 @@ This micro-specimen also gives Topologetics an immediate self-test: a page devot
 
 ## 32. John’s attributed trajectory
 
-<div class="accm-rounded-quote">
+<div class="accm-rounded-quote" markdown="1">
 
 > **Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.**
 >
