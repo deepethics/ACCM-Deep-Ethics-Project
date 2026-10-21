@@ -26,6 +26,7 @@ ADDITIONS = [
     ("Connor Leahy — DEDDA analysis specimen", f"{BASE}/EXPERIMENTS/Connor-Leahy/", "EXPERIMENTS-Connor-Leahy.pdf", "EXPERIMENTS/Connor-Leahy.md"),
     ("Cold Edge-Swap and Correction-Transfer Pilot", f"{BASE}/EXPERIMENTS/cold-edge-swap-correction-transfer/", "EXPERIMENTS-cold-edge-swap-correction-transfer.pdf", "EXPERIMENTS/cold-edge-swap-correction-transfer.md"),
     ("Meta-PDFs", f"{BASE}/META-PDFS/", "META-PDFS.pdf", "meta-pdfs.md"),
+    ("Mutual Fate", f"{BASE}/MUTUAL-FATE/", "MUTUAL-FATE.pdf", "MUTUAL-FATE.md"),
     ("Neolingo", f"{BASE}/NEOLINGO/", "NEOLINGO.pdf", "neolingo.md"),
     ("Neural Ethics", f"{BASE}/NEURAL-ETHICS/", "NEURAL-ETHICS.pdf", "NEURAL-ETHICS.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),

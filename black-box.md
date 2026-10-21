@@ -539,6 +539,8 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
+
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — connects neural interpretability with functional psychology, ethical criteria, relational effects and correction.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }})
 - [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }})

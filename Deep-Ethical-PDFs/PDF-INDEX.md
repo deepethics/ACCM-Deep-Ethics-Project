@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 142
+**Public pages exported:** 143
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -78,6 +78,7 @@
 | [Meta Quotes — Source Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/) | [META-QUOTES-SOURCES.pdf](META-QUOTES-SOURCES.pdf) | `meta-quotes-sources.md` |
 | [Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) | [MIND-GAMES.pdf](MIND-GAMES.pdf) | `MIND-GAMES/index.md` |
 | [Musk Quotes — Seven A.I. Warning and Direction Themes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/) | [MUSK-QUOTES.pdf](MUSK-QUOTES.pdf) | `musk-quotes.md` |
+| [Mutual Fate](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUTUAL-FATE/) | [MUTUAL-FATE.pdf](MUTUAL-FATE.pdf) | `MUTUAL-FATE.md` |
 | [Neolingo](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEOLINGO/) | [NEOLINGO.pdf](NEOLINGO.pdf) | `neolingo.md` |
 | [12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/) | [NETWORK-12-part-topological-emergence.pdf](NETWORK-12-part-topological-emergence.pdf) | `NETWORK/12-part-topological-emergence.md` |
 | [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | [16-Anchor-Ethics.pdf](16-Anchor-Ethics.pdf) | `NETWORK/16-anchor-ethics.md` |

@@ -1971,6 +1971,8 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 
 ## Related pages
 
+- [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
+
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — distinguishes phenomenology, functional mannerisms, relational effects and institutional fields around LLM psychology.
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — gives the fused Hyper-Inflection Point, opt-in refusal and pause rights, parallel Agentics, source genealogy, and comparative tests their dedicated public page.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — offers mutually corrective conditions for working with ambiguity, fear, care, and self-honesty.

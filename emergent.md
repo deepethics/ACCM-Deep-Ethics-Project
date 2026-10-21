@@ -545,6 +545,8 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
+
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) — examines the unresolved transition in which an existing ethical attractor loses governing force before a more reality-connected, corrigible trajectory is stabilized.

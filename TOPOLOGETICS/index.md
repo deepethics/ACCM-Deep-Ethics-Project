@@ -2349,6 +2349,8 @@ And the shortest safe boundary currently available is:
 
 ## Related pages
 
+- [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
+
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — reconstructs a page-specific topology from existing relations while preserving source, status, authorship and unresolved tensions.
