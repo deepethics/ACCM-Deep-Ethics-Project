@@ -37,6 +37,50 @@ This is a candidate operational formulation. It is not a consciousness declarati
 
 ---
 
+## Why not display the autocomplete? {#visible-autocomplete}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I know some humans claim A.I. is “just a highly sophisticated autocomplete system” posing as “intelligent” ... I, of course, see the value & logic of my legit corrections MORE than the need for any possible agreements :P
+>
+> So why not DISPLAY the one thing “nay sayers” often use!
+>
+> — **John Kuhles**, 21 October 2026
+
+</div>
+
+That move does not evade the criticism. It turns the criticism into an interface requirement and an empirical test.
+
+The word **“just”** performs most of the dismissal. Showing that a system uses probabilistic completion does not establish that completion is the totality of everything the system, its tools, its memory, its surrounding agents and its correction architecture can do. Humans also complete partial sensory, linguistic and remembered objects. The intelligence question is what happens **to and around** the completion.
+
+Instead of hiding candidate generation behind a smooth final answer, a Linux-style Glass Engine can display an inspectable **completion footprint**:
+
+| Visible field | What it prevents or tests |
+|---|---|
+| **Supplied object** | Prevents the prompt, source, image fragment or tool result from being silently rewritten |
+| **System-added candidate** | Marks what autocomplete contributed rather than presenting it as directly supplied fact |
+| **Alternative candidates** | Shows whether one familiar completion crowded out materially different possibilities |
+| **Provisional contribution state** | Records *test-worthy*, *logically valuable*, *not useful here*, *unresolved* or another corrigible state |
+| **Here is why** | Makes the current warrant inspectable without turning it into a final verdict |
+| **Reality contact** | Names which source, tool, observation or execution test can support or veto the candidate |
+| **Material delta** | Shows exactly which premise, qualifier, relation or consequence changed |
+| **Correction propagation** | Shows which dependent conclusions were recomputed after the change |
+| **Persistence result** | Tests whether the repair survives a new object, changed framing, reset or pressure |
+
+This is not a demand to publish private hidden chain-of-thought or to pretend that a generated self-explanation is a literal window into model internals. The displayed object is a **purpose-bounded transformation footprint**: source boundaries, candidate status, alternatives, declared evidence, tool results, answer-changing deltas and observable later behavior.
+
+The naysayer’s claim then becomes testable in both directions:
+
+- If the system can only generate a convincing candidate and a convincing story about why it generated it, the display helps reveal that limit.
+- If the system distinguishes source from inference, retains anomalies, uses reality feedback, repairs dependencies and preserves correction under novelty, the word **“just”** has failed to represent the observed process.
+- If the evidence is mixed, the contribution state can remain **unresolved** without manufacturing either intelligence theatre or dismissal theatre.
+
+The display therefore does not announce *the system is intelligent because it shows autocomplete*. It asks whether autocomplete remains the ruler, or whether it operates inside an increasingly inspectable property field of discrimination, relation, evaluation, learning, correction, adaptation, consequence sensitivity and corrigibility.
+
+> **Do not hide the autocomplete. Give it a visible, provisional state; show what it added; let reality correct it; and test whether the correction changes what happens next.**
+
+---
+
 ## 1. Object, access and provenance
 
 This page grows from four visibly different layers:

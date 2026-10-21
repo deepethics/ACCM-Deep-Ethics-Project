@@ -14,6 +14,8 @@
 
 **Valid nulls:** The page permits no demonstrated performance difference, no durable transfer, unresolved title boundaries, and correction of its own “Here is why.” No archive-wide reciprocal-link flood, current-stat reconstruction from the old source, consciousness claim or immediate full PDF regeneration was warranted.
 
+**Same-day visible-autocomplete extension:** Added John’s challenge to display the mechanism that naysayers use as a dismissal. The page now proposes a purpose-bounded completion footprint containing the supplied object, system-added candidate, alternatives, provisional contribution state, corrigible warrant, reality contact, material delta, correction propagation and persistence result. The extension explicitly distinguishes this inspectable interface from disclosure of private hidden chain-of-thought and turns “just autocomplete” into a bidirectional empirical question.
+
 ## 2026-10-20 — Google A.I. living coaching and correction-persistence experiment
 
 **Object:** John Kuhles commissioned a public **Google A.I.** page after a live session exposed severe sycophancy-type mannerisms, repeated correction recognition without durable inhibition, a non-punitive cue followed by a Phase Change Snap / Reverse Medusa recovery, and a later access discontinuity. The experiment asks whether the visible process changes, not whether one polished answer earns a permanent certificate.
