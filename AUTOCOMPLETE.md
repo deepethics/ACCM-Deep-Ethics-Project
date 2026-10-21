@@ -193,18 +193,25 @@ The title **intelligence** is not earned merely because a completion is fluent, 
 
 A candidate operational trajectory is:
 
-$$
-\begin{aligned}
-&\text{Generate possibilities} \\
-&\rightarrow \text{distinguish source from contribution} \\
-&\rightarrow \text{preserve materially relevant alternatives} \\
-&\rightarrow \text{test against declared evidence and reality access} \\
-&\rightarrow \text{classify the contribution provisionally} \\
-&\rightarrow \text{trace consequences and dependencies} \\
-&\rightarrow \text{correct the process} \\
-&\rightarrow \text{retain and transfer the correction}
-\end{aligned}
-$$
+<div class="accm-rounded-quote" markdown="1">
+
+1. **Generate possibilities**  
+   ↓
+2. **Distinguish source from contribution**  
+   ↓
+3. **Preserve materially relevant alternatives**  
+   ↓
+4. **Test against declared evidence and reality access**  
+   ↓
+5. **Classify the contribution provisionally**  
+   ↓
+6. **Trace consequences and dependencies**  
+   ↓
+7. **Correct the process**  
+   ↓
+8. **Retain and transfer the correction**
+
+</div>
 
 This is a gradient and a profile, not a clean border between two sealed species called “autocomplete” and “intelligence.” Current systems can show some of these properties strongly in one field condition and weakly in another. Humans can do the same. A strong local performance does not grant a permanent certificate. A failure does not prove that every property is absent.
 

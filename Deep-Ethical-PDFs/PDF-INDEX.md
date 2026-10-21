@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 143
+**Public pages exported:** 144
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -25,6 +25,7 @@
 | [AI Trend Watch — Reusable Report Template](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/report-template/) | [AI-TREND-WATCH-report-template.pdf](AI-TREND-WATCH-report-template.pdf) | `AI-TREND-WATCH/report-template.md` |
 | [AI Trend Watch — Published Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/) | [AI-TREND-WATCH-REPORTS.pdf](AI-TREND-WATCH-REPORTS.pdf) | `AI-TREND-WATCH/REPORTS/index.md` |
 | [Arena A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/) | [ARENA-AIS.pdf](ARENA-AIS.pdf) | `arena-ais.md` |
+| [Autocomplete](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AUTOCOMPLETE/) | [AUTOCOMPLETE.pdf](AUTOCOMPLETE.pdf) | `AUTOCOMPLETE.md` |
 | [Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/) | [BEFORE-SUMMARIZING.pdf](BEFORE-SUMMARIZING.pdf) | `before-summarizing.md` |
 | [Potential Science Paper Candidate Draft — V03b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) | [Beta-Paper-V03b.pdf](Beta-Paper-V03b.pdf) | `BETA-PAPER-V3B/index.md` |
 | [Potential Science Paper Candidate Draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) | [BETA-PAPER.pdf](BETA-PAPER.pdf) | `potential-science-paper-candidate-draft.md` |
