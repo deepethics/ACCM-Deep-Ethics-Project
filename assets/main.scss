@@ -183,11 +183,167 @@ a:hover {
 
 .page-content > .wrapper {
   width: auto;
-  max-width: 760px;
+  max-width: 1680px;
   margin-left: auto;
   margin-right: auto;
   padding-left: clamp(18px, 3vw, 64px);
   padding-right: clamp(18px, 3vw, 64px);
+}
+
+.accm-page-shell {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  align-items: start;
+  gap: clamp(28px, 3vw, 56px);
+}
+
+.accm-main-column {
+  min-width: 0;
+  width: 100%;
+}
+
+.accm-main-column > .home.accm-home {
+  max-width: none;
+}
+
+.accm-sidebar {
+  position: sticky;
+  top: 18px;
+  max-height: calc(100vh - 36px);
+  overflow-y: auto;
+  padding: 0 14px 14px 0;
+  border-right: 1px solid var(--accm-line);
+  scrollbar-width: thin;
+  scrollbar-color: var(--accm-line) transparent;
+}
+
+.accm-sidebar h2 {
+  margin: 0 0 12px;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+
+.accm-sidebar-toggle,
+.accm-sidebar-toggle-label {
+  display: none;
+}
+
+.accm-sidebar-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.accm-sidebar-links li + li {
+  margin-top: 2px;
+}
+
+.page-content .accm-sidebar-links a,
+.page-content .accm-sidebar-links a:visited {
+  display: block;
+  padding: 5px 8px;
+  border-radius: 7px;
+  color: var(--accm-sage);
+  font-size: 0.86rem;
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.page-content .accm-sidebar-links a:hover {
+  background: var(--accm-chip);
+  color: var(--accm-ink);
+}
+
+.page-content .accm-sidebar-links a[aria-current="page"] {
+  background: var(--accm-sage);
+  color: #fff;
+  font-weight: 700;
+}
+
+.page-content .accm-sidebar-links a:focus-visible {
+  outline: 3px solid var(--accm-content-link-focus);
+  outline-offset: 2px;
+}
+
+@media screen and (max-width: 799px) {
+  .accm-page-shell {
+    display: block;
+  }
+
+  .accm-sidebar {
+    position: static;
+    max-height: none;
+    margin: 0 0 28px;
+    padding: 0;
+    overflow: visible;
+    border-right: 0;
+  }
+
+  .accm-sidebar h2 {
+    margin-bottom: 8px;
+  }
+
+  .accm-sidebar-toggle {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .accm-sidebar-toggle-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px;
+    border: 1px solid var(--accm-line);
+    border-radius: 10px;
+    background: var(--accm-chip);
+    color: var(--accm-sage);
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .accm-sidebar-toggle:focus-visible + .accm-sidebar-toggle-label {
+    outline: 3px solid var(--accm-content-link-focus);
+    outline-offset: 3px;
+  }
+
+  .accm-sidebar-toggle-icon {
+    font-size: 1.2rem;
+    transition: transform 0.18s ease;
+  }
+
+  .accm-sidebar-toggle:not(:checked) ~ .accm-sidebar-links {
+    display: none;
+  }
+
+  .accm-sidebar-toggle:checked + .accm-sidebar-toggle-label .accm-sidebar-toggle-icon {
+    transform: rotate(180deg);
+  }
+
+  .accm-sidebar-links {
+    max-height: min(65vh, 580px);
+    margin-top: 8px;
+    padding: 8px;
+    overflow-y: auto;
+    border: 1px solid var(--accm-line);
+    border-radius: 10px;
+    background: #fbf7ef;
+  }
+}
+
+@media print {
+  .accm-page-shell {
+    display: block;
+  }
+
+  .accm-sidebar {
+    display: none;
+  }
 }
 
 .home.accm-home {

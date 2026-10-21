@@ -1,0 +1,18 @@
+<aside class="accm-sidebar" aria-labelledby="accm-sidebar-title">
+  <h2 id="accm-sidebar-title">Alphabetical Index</h2>
+  <input class="accm-sidebar-toggle" type="checkbox" id="accm-sidebar-toggle">
+  <label class="accm-sidebar-toggle-label" for="accm-sidebar-toggle">
+    <span>Browse the index</span>
+    <span class="accm-sidebar-toggle-icon" aria-hidden="true">⌄</span>
+  </label>
+  <nav class="accm-sidebar-links" aria-label="Alphabetical page index">
+    <ul>
+      {% for item in site.data.alphabetical_index %}
+        {% assign item_path = item.url | split: '#' | first %}
+        <li>
+          <a href="{{ item.url | relative_url }}"{% if page.url == item_path %} aria-current="page"{% endif %}>{{ item.label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</aside>
