@@ -126,6 +126,7 @@ These quotations do not establish that every unfamiliar idea is valuable, that e
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — holds healthcare, education and wider beneficial potential in the same field as displacement, misuse, loss-of-control and governance risks.
 - [**Emerging Human Potential — Deeper Report**]({{ '/POSITIVE-POTENTIAL/REPORT/' | relative_url }}) — develops the T0 → Tn record, risk ledgers, research footholds, and benchmark questions.
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects this research direction to the wider project goals.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects unfamiliar contributions from classification before consequential ambiguity is clarified.

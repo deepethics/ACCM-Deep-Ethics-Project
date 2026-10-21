@@ -444,6 +444,37 @@ pre, code {
   border: 0;
 }
 
+.accm-video-embed--wide,
+.accm-feature-figure--wide {
+  width: min(1200px, calc(100vw - 2rem));
+  max-width: none;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.accm-feature-figure {
+  margin-top: 2rem;
+  margin-bottom: 2.25rem;
+  text-align: center;
+}
+
+.accm-feature-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--accm-line);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(28, 27, 22, 0.1);
+}
+
+.accm-feature-figure p:last-child {
+  max-width: 960px;
+  margin: 0.75rem auto 0;
+  color: var(--accm-muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
 .accm-video-embed figcaption {
   margin-top: 0.65rem;
   color: var(--accm-muted);

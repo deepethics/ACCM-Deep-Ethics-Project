@@ -16,6 +16,7 @@ permalink: /GOVERNANCE/
 
 ## Related pages
 
+- [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — maps anti-complacency into identity, permissions, audit trails, secure transactions, accountability, safety research and corrigible institutional controls.
 - [**Veto Paradox Solved**]({{ '/VETO-PARADOX/' | relative_url }}) — explains the construction-phase source-integrity veto and its intended handoff.
 - [**Contributing**]({{ '/CONTRIBUTING/' | relative_url }}) — translates the governance principles into practical guidance for proposals and corrections.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — keeps consequential project changes, boundaries, and reasons inspectable.
