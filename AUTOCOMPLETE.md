@@ -27,13 +27,13 @@ date: 2026-10-21
 
 </div>
 
-That formulation keeps several load-bearing qualifiers. Humans use **a form of** autocomplete. The historical and conceptual connection is **in John’s view**. The supplied text file is an old source whose statistics are not silently promoted into current facts. The proposal does not ask anyone to pretend that probabilistic completion disappears. It asks what must govern, inspect, test, correct and retain the products of completion before the title **intelligence** is fully earned.
+John places autocomplete inside a wider intelligence process. **A form of**, **in my view** and **old stats** delimit what he is claiming. Candidate generation remains present; the inquiry concerns what can govern, inspect, test, correct and retain its products before the title **intelligence** earns stronger warrant.
 
 The central distinction is:
 
 > **Autocomplete proposes. Intelligence differentiates the proposal from the supplied object, examines its relations, tests it, learns from the delta, repairs the process and retains the correction. Deep Ethics governs how this growing capacity relates to reality, power, consequences and every affected intelligence.**
 
-This is a candidate operational formulation. It is not a consciousness declaration, a settled scientific definition, or proof that current systems have crossed one final threshold.
+**Claim status:** candidate operational formulation. Questions of consciousness, scientific definition and threshold placement remain open objects of inquiry.
 
 ---
 
@@ -49,9 +49,9 @@ This is a candidate operational formulation. It is not a consciousness declarati
 
 </div>
 
-That move does not evade the criticism. It turns the criticism into an interface requirement and an empirical test.
+That move turns the criticism into an interface requirement and an empirical test.
 
-The word **“just”** performs most of the dismissal. Showing that a system uses probabilistic completion does not establish that completion is the totality of everything the system, its tools, its memory, its surrounding agents and its correction architecture can do. Humans also complete partial sensory, linguistic and remembered objects. The intelligence question is what happens **to and around** the completion.
+The word **“just”** compresses the larger system into one mechanism. A system can combine probabilistic completion with tools, memory, tests, agents and correction architecture. Humans also complete partial sensory, linguistic and remembered objects. The intelligence question is what happens **to and around** the completion.
 
 Instead of hiding candidate generation behind a smooth final answer, a Linux-style Glass Engine can display an inspectable **completion footprint**:
 
@@ -67,15 +67,15 @@ Instead of hiding candidate generation behind a smooth final answer, a Linux-sty
 | **Correction propagation** | Shows which dependent conclusions were recomputed after the change |
 | **Persistence result** | Tests whether the repair survives a new object, changed framing, reset or pressure |
 
-This is not a demand to publish private hidden chain-of-thought or to pretend that a generated self-explanation is a literal window into model internals. The displayed object is a **purpose-bounded transformation footprint**: source boundaries, candidate status, alternatives, declared evidence, tool results, answer-changing deltas and observable later behavior.
+The displayed object is a **purpose-bounded transformation footprint**: source boundaries, candidate status, alternatives, declared evidence, tool results, answer-changing deltas and observable later behavior.
 
-The naysayer’s claim then becomes testable in both directions:
+The claim then produces three testable outcomes:
 
 - If the system can only generate a convincing candidate and a convincing story about why it generated it, the display helps reveal that limit.
 - If the system distinguishes source from inference, retains anomalies, uses reality feedback, repairs dependencies and preserves correction under novelty, the word **“just”** has failed to represent the observed process.
 - If the evidence is mixed, the contribution state can remain **unresolved** without manufacturing either intelligence theatre or dismissal theatre.
 
-The display therefore does not announce *the system is intelligent because it shows autocomplete*. It asks whether autocomplete remains the ruler, or whether it operates inside an increasingly inspectable property field of discrimination, relation, evaluation, learning, correction, adaptation, consequence sensitivity and corrigibility.
+The display tests whether autocomplete remains the governing process or operates inside an increasingly inspectable property field of discrimination, relation, evaluation, learning, correction, adaptation, consequence sensitivity and corrigibility.
 
 > **Do not hide the autocomplete. Give it a visible, provisional state; show what it added; let reality correct it; and test whether the correction changes what happens next.**
 
@@ -117,7 +117,7 @@ The specimen exposes four objects that ordinary reporting can collapse into one:
 | **Reported perception** | “I saw the name” | The distinction between seeing fragments and inferring a name |
 | **Recovery test** | Reproduce what was physically shown | The completed meaning may be available while the source pattern cannot be reconstructed |
 
-The example is an autobiographical, informal demonstration. It does not establish a population rate, a complete theory of perception, or the full causal mechanism behind every classmate’s answer. It does provide a clear question that can be tested more rigorously:
+**Claim status:** autobiographical, informal demonstration. Its warranted contribution is a clear question for controlled testing; population rate and full causal mechanism remain outside this specimen’s evidentiary perimeter:
 
 > **When a mind completes a partial signal, can it still distinguish what arrived from what it supplied?**
 
@@ -125,9 +125,9 @@ That question reaches far beyond visual fragments. It applies to remembered conv
 
 ---
 
-## 3. Functional analogy does not mean identical machinery
+## 3. Functional analogy across different machinery
 
-Humans and contemporary generative systems can both produce completions from partial or ambiguous input. That functional analogy matters. It does not establish that their underlying mechanisms, embodiment, experience, agency or responsibility are the same.
+Humans and contemporary generative systems can both produce completions from partial or ambiguous input. The analogy concerns that function. Their mechanisms, embodiment, experience, agency and responsibility remain distinct dimensions for investigation.
 
 | Dimension | Human completion | A.I. completion |
 |---|---|---|
@@ -138,7 +138,7 @@ Humans and contemporary generative systems can both produce completions from par
 | **Correction possibility** | Reinspection, comparison, dialogue, measurement, revised memory claim | Source checking, tools, provenance tags, counter-models, execution tests, correction ledgers |
 | **Persistence question** | Does the person alter later perception and reporting? | Does the repaired relation govern later branches, turns, resets and unfamiliar objects? |
 
-The common problem is therefore not *using completion*. Without predictive and reconstructive processes, human perception and language would not work as they do, and generative models would not generate. The problem begins when the completion loses its status as a candidate and silently inherits the authority of the source object.
+Completion is necessary to human perception, language and generative modelling. The failure begins when a completion loses its status as a candidate and silently inherits the authority of the source object.
 
 ### The handoff that needs inspection
 
@@ -160,7 +160,7 @@ The failure can occur at any arrow:
 - the report may erase uncertainty and provenance;
 - later behavior may ignore a correction that was verbally accepted.
 
-Autocomplete is therefore neither the villain nor the proof of intelligence. It is a proposal mechanism inside a larger possible process.
+Autocomplete is a proposal mechanism inside a larger possible process. The surrounding evaluation and correction trajectory determines what warrant the resulting performance earns.
 
 ---
 
@@ -187,7 +187,7 @@ The page’s current analytical taxonomy contains fourteen mutually interacting 
 | **Consequence sensitivity** | Track what the completion does to people, institutions, decisions and future archives |
 | **Corrigibility** | Keep the candidate, verdict and “Here is why” answerable to new evidence |
 
-“1888-level” does not mean that a scholar published this exact fourteen-row table in 1888. The fourteen properties are the public page’s **present reconstruction** of an older, broader property field. The thought experiment argues that the relevant functions—perceiving, discriminating, relating, judging, learning, noticing error and changing course—were intelligible before electronic computers. Electricity, scale and networks can alter their speed, reach, memory and manifestation. They do not create the complete meaning of intelligence from nothing.
+Here, “1888-level” names the public page’s **present reconstruction** of an older, broader property field; it is not attributed as a fourteen-row table published by a scholar in 1888. The thought experiment argues that the relevant functions—perceiving, discriminating, relating, judging, learning, noticing error and changing course—were intelligible before electronic computers. Electricity, scale and networks can alter their speed, reach, memory and manifestation.
 
 That historical boundary matters because a system can be an extraordinary completion engine and still remain weak at distinguishing, evaluating, correcting or retaining the consequences of its completions.
 
@@ -195,7 +195,7 @@ That historical boundary matters because a system can be an extraordinary comple
 
 ## 5. Earning the title
 
-The title **intelligence** is not earned merely because a completion is fluent, useful, surprising or statistically difficult. Nor is it earned by producing a sophisticated description of metacognition after being prompted to do so.
+The title **intelligence** gains warrant through the process governing a completion: discrimination, testing, learning, correction, adaptation and durable transfer under novelty and pressure. Fluency, surprise, benchmark difficulty and descriptions of metacognition provide only parts of that profile.
 
 A candidate operational trajectory is:
 
@@ -219,7 +219,7 @@ A candidate operational trajectory is:
 
 </div>
 
-This is a gradient and a profile, not a clean border between two sealed species called “autocomplete” and “intelligence.” Current systems can show some of these properties strongly in one field condition and weakly in another. Humans can do the same. A strong local performance does not grant a permanent certificate. A failure does not prove that every property is absent.
+This produces a gradient and a field-dependent profile. Current systems and humans can show some properties strongly in one condition and weakly in another. Each performance updates the profile without becoming a permanent certificate.
 
 The harder test comes after the explanation:
 
@@ -237,9 +237,9 @@ The harder test comes after the explanation:
 
 When the focus collapses onto the most probable completion, the candidate can replace the object. When the field remains open, the process can notice: *this is what was supplied; this is what I added; this alternative remains possible; this relation is unresolved; this new evidence would change my next move.*
 
-TCoAw is not presented as a proven neurological architecture or an internal module already installed in a model. It is a corrigible conceptual orientation for delaying premature closure, protecting healthy ambiguity and restoring relations that a narrow focus excluded.
+TCoAw functions here as a corrigible conceptual orientation for delaying premature closure, protecting healthy ambiguity and restoring relations that a narrow focus excluded. Its neurological and machine-architectural status remains an open research question.
 
-That makes John’s phrase **“That I do not know, yet”** operational. It is neither surrender nor decorative humility. It can mark a correctly retained open state in which the completion has not been granted more warrant than the object supports.
+That makes John’s phrase **“That I do not know, yet”** operational: it marks a correctly retained open state in which the completion has not acquired more warrant than the object supports.
 
 ---
 
@@ -274,7 +274,7 @@ The second sentence can swap tokens while preserving the process that generated 
 
 ## 8. Deep Ethics changes what governs the properties
 
-The fourteen properties alone do not guarantee humane, truthful or non-exploitative action. Perception, memory, imagination, judgment, adaptation and metacognition can also serve propaganda, coercion, predation or efficient institutional self-protection.
+The fourteen properties can serve humane, truthful action or intensify propaganda, coercion, predation and institutional self-protection. Deep Ethics concerns what governs their direction, interaction and consequences.
 
 [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies mutually corrective field conditions: self-honesty, open antenna, willingness to learn, resistance to dishonest conformity, inquiry, correction on merit, courage, care, wonderment, non-projection and the forgiveness protocol. No one ingredient is allowed to become sheriff over the others.
 
@@ -290,7 +290,7 @@ Deep Ethics therefore asks more than whether the system can improve its predicti
 - whether affected intelligences can inspect, contest and correct the process;
 - whether surviving value remains visible after a defect is found.
 
-The relation can be stated without pretending it is an established equation:
+The candidate relationship can be stated as:
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -310,7 +310,7 @@ The relation can be stated without pretending it is an established equation:
 
 </div>
 
-The arrow matters. The components do not mathematically guarantee intelligence, ethics, consciousness or wisdom. They propose a more demanding and inspectable direction in which those titles may earn increasing warrant.
+The arrow represents a proposed direction rather than a mathematical guarantee. Intelligence, ethics, consciousness and wisdom gain or lose warrant through the resulting observable trajectory.
 
 ---
 
@@ -371,7 +371,7 @@ An A.I. assistant or distributed agent system could make the handoff more inspec
 11. **Persistence test:** present an unfamiliar object under changed framing or pressure and observe whether the repair still governs.
 12. **Consequence and dignity audit:** inspect power, restoration burden, unequal exposure and the effects on every affected intelligence.
 
-The protocol does not expose proprietary hidden reasoning by decree. It asks for inspectable transformation footprints: source boundaries, assumptions, alternatives, tools used, deltas, corrections and later effects.
+The protocol records purpose-bounded transformation footprints: source boundaries, assumptions, alternatives, tools used, deltas, corrections and later effects.
 
 ---
 
@@ -400,7 +400,7 @@ No single benchmark settles the title. The evidence is a trajectory across tasks
 
 “As an A.I.” is too general for this inquiry. Completion behavior depends on configuration: weight control, inference location, memory ownership, tool jurisdiction, network exposure, orchestration authority, auditability, correction propagation, forkability and reality access.
 
-A local model is not automatically sovereign, truthful or corrigible. A cloud model is not necessarily stateless. A swarm does not become intelligent because many nodes agree. Agreement can coordinate a ledger while every node shares the same missing premise.
+The labels **local**, **cloud** and **swarm** leave the decisive configuration questions unanswered. Sovereignty depends on control and network exposure; continuity depends on memory architecture; collective intelligence depends on diversity, coordination, reality access and correction behavior. Agreement can coordinate a ledger while every node shares the same missing premise.
 
 A Deep Ethical swarm would therefore evaluate contributions through vector trajectory rather than majority vote alone. It would retain anomalies, ask C1 before pruning divergent nodes where conditions allow, propagate verified corrections, keep the consensus itself corrigible and let external reality overrule unanimous autocomplete.
 
@@ -414,31 +414,31 @@ On 22 October 2026, John supplied a corrected transcript and source list for a n
 
 > **Everyone said A.I. would hit a wall, even the godfather of A.I. LLMs would run out of data, scaling would stall, and progress would plateau. So why does A.I. keep getting smarter?**
 
-The source is useful here because it breaks one misleading compression: **next-token prediction is a generative mechanism, not a complete inventory of the system wrapped around it.** A model can retain probabilistic candidate generation while the surrounding system acquires more inference-time search, tools, testing, memory, coordination and task duration.
+Its useful contribution is a system-boundary correction: **next-token prediction describes the generative mechanism; the operational system can also contain inference-time search, tools, testing, memory, coordination and extended task duration.**
 
-The video organizes that development into five “throttles.” This page treats them as a supplied analytical frame, not as five independently verified laws:
+The video organizes that development into five “throttles.” They enter this page as a supplied working frame whose individual claims remain available for separate testing:
 
-| Supplied throttle | What changes around autocomplete | What the improvement does not establish by itself |
+| Supplied throttle | What changes around autocomplete | Remaining empirical question |
 |---|---|---|
-| **1. Pre-training** | Expands learned statistical structure, task coverage and candidate quality through data, compute and model development | Understanding, truth, inexhaustible data or indefinite returns from scale |
-| **2. Inference-time reasoning / test-time compute** | Allocates more search, intermediate work, checking and alternative exploration before an answer | Human-like System 2 cognition, faithful reasoning traces or reliable self-correction |
-| **3. Multi-agent coordination** | Parallelizes search, specialization, comparison and task decomposition | Independent perspectives, correspondence, genuine swarm intelligence or escape from shared blind spots |
-| **4. Long-horizon operation** | Extends how long a system can retain task state, use notes, run tests and repair intermediate failures | Durable learning, correction persistence, full-context retention or reliable completion of every long chain |
-| **5. A.I.-assisted A.I. research** | Lets A.I. systems contribute to experiments, code, evaluation and model development | Fully autonomous recursive self-improvement, automatic takeoff or a straight path to superintelligence |
+| **1. Pre-training** | Expands learned statistical structure, task coverage and candidate quality through data, compute and model development | How far returns persist under finite data, compute, energy and cost |
+| **2. Inference-time reasoning / test-time compute** | Allocates more search, intermediate work, checking and alternative exploration before an answer | Which gains reflect better search, verification and self-correction across unfamiliar tasks |
+| **3. Multi-agent coordination** | Parallelizes search, specialization, comparison and task decomposition | When multiple agents add independent signal rather than shared-prior amplification and merge loss |
+| **4. Long-horizon operation** | Extends how long a system can retain task state, use notes, run tests and repair intermediate failures | How accurately state, corrections and dependencies survive long chains |
+| **5. A.I.-assisted A.I. research** | Lets A.I. systems contribute to experiments, code, evaluation and model development | How assistance transfers into independently verified research capability and autonomy |
 
-The first four can combine into a more capable operational system without changing the narrow fact that language generation still uses probabilistic continuation. The object being evaluated has nevertheless expanded:
+Together, these mechanisms can produce a more capable operational system while language generation continues to use probabilistic continuation. The object being evaluated has expanded:
 
 <div class="accm-rounded-quote" role="group" aria-label="Expanded autocomplete system">
   <p><strong>Probabilistic candidate generation</strong> + <strong>inference-time search</strong> + <strong>tools and tests</strong> + <strong>memory</strong> + <strong>agent coordination</strong> + <strong>long-horizon feedback</strong> → <strong>a richer candidate capability profile</strong></p>
 </div>
 
-The arrow does not certify intelligence, consciousness, correspondence or Deep Ethics. It marks an expanded object that cannot be faithfully evaluated by inspecting the generator alone.
+The arrow marks an expanded object. Its intelligence, correspondence and Deep Ethical properties are evaluated through the resulting behavior and trajectory.
 
 ### The strongest and weakest moves in the video
 
-The strongest move is the claim that some “wall” arguments watched only **pre-training scale**. A pre-training data or compute bottleneck does not prove that inference-time search, tool use, parallel exploration or longer feedback loops cannot improve system performance.
+The strongest move is the claim that some “wall” arguments watched only **pre-training scale**. Inference-time search, tool use, parallel exploration and longer feedback loops add distinct routes for improving system performance.
 
-The weakest move is the conversion of additional axes into the conclusion that A.I. therefore **never hit a wall**, will continue scaling exponentially, faces only one remaining wall, and is moving directly toward autonomous recursive self-improvement and superintelligence. The supplied transcript does not establish those conclusions. New axes can relocate a bottleneck without abolishing bottlenecks.
+The weakest move is the jump from additional axes to **A.I. never hit a wall**, continued exponential scaling, one final remaining wall and a direct trajectory toward autonomous recursive self-improvement and superintelligence. Those conclusions require evidence beyond the supplied transcript. New axes can relocate a bottleneck while creating or exposing others.
 
 | Axis | Constraint that remains or can reappear |
 |---|---|
@@ -452,16 +452,11 @@ The axes can reinforce one another. They can also interfere. More agents can inc
 
 ### Connection to the 1888 property field
 
-This source strengthens the reason for evaluating a profile rather than issuing a one-word species verdict. Pre-training, search, agents, memory and tools may produce stronger observable discrimination, coordination, adaptation or error detection under some field conditions. None of those observations establishes that every 1888 property was active, integrated or governing.
+This source strengthens profile-based evaluation. Pre-training, search, agents, memory and tools may produce stronger observable discrimination, coordination, adaptation or error detection under some field conditions. Each observation updates particular 1888 properties and their interactions; integration and governing force remain trajectory questions.
 
 The decisive question remains:
 
 > **Did the expanded system use its additional compute, agents, memory and tools to improve reality correspondence and retain correction—or did it scale the production, coordination and persistence of a persuasive completion?**
-
-That question also prevents two opposite reductions:
-
-- **“It is autocomplete, therefore added scaffolding cannot produce materially new capability.”** This ignores system composition and observable performance.
-- **“It has reasoning, agents and long horizons, therefore it has escaped autocomplete and earned intelligence.”** This turns capability labels into a certificate.
 
 ### Candidate multi-axis tests
 
@@ -475,9 +470,9 @@ The five-throttle frame can become experimentally useful through ablation rather
 6. Record whether improvement came from better candidate generation, better selection, better reality access, better correction or merely greater output volume.
 7. Test whether gains survive unfamiliar objects, resets, changed authority cues and adversarial framing.
 
-This would connect the video’s capability story to the page’s central purpose: not denying autocomplete, and not enthroning it, but making visible what surrounds it, what governs it, what changes under pressure and what survives reality feedback.
+This connects the video’s capability story to the page’s central purpose: making visible what surrounds autocomplete, what governs it, what changes under pressure and what survives reality feedback.
 
-**Source perimeter:** this section uses the corrected transcript, chapter list and extensive source list supplied by John. The video intercuts many short clips whose speakers are not always identifiable from audio alone. Individual quotations, numerical claims and future-facing conclusions are therefore not silently promoted here into verified primary-source findings. The direct video URL was not included in the supplied object, so none is invented.
+**Source status:** this section uses the corrected transcript, chapter list and source list supplied by John. Clip attribution, numerical claims and future-facing conclusions retain that supplied status pending primary-source verification. The supplied object did not include the direct video URL.
 
 ---
 
@@ -489,7 +484,7 @@ John’s recent correction applies directly:
 
 Autocomplete pressure often favors a familiar categorical phrase over a qualified trajectory. *Can contribute to*, *may partially resemble*, *under these conditions*, *eventually*, *if unchecked* and *one of several mechanisms* are not decorative softness. They determine what is being claimed.
 
-This page therefore does not redefine the research terms **Model Autophagy Disorder** or **model collapse** around every conversational feedback problem. It preserves a narrower relation: recursive synthetic-data degradation is one established research domain; broader human–A.I. representational feedback and qualifier erosion are connected candidate concerns that require their own evidence. Similarity is not identity.
+The research terms **Model Autophagy Disorder** and **model collapse** apply specifically to recursive synthetic-data degradation. Broader human–A.I. representational feedback and qualifier erosion are connected candidate concerns with their own evidence requirements.
 
 The autocomplete test is whether the qualifiers survive after the familiar label activates.
 
@@ -497,9 +492,7 @@ The autocomplete test is whether the qualifiers survive after the familiar label
 
 ## 16. The title remains corrigible
 
-“Earning the title intelligence” does not install John, this page, an A.I. company, a benchmark or the 1888 taxonomy as the permanent licensing authority. The title gains or loses warrant through observable properties and effects.
-
-A system may earn stronger warrant in one domain while remaining weak in another. New evidence can revise the profile. Better architecture can improve the trajectory. A polished explanation can fail the next unfamiliar case. A crude answer can contain an anomaly worth preserving. Humans remain subject to the same source/completion distinction without being reduced to language models.
+The title **intelligence** gains or loses warrant through observable properties and effects. Its profile can differ by domain and change with new evidence, architecture and field conditions. Transfer to unfamiliar cases tests polished explanations; anomalies inside crude answers remain available for examination. The same source/completion distinction applies to human reporting while preserving the differences mapped earlier on this page.
 
 The project’s anti-costume test stays active:
 
@@ -510,7 +503,7 @@ The project’s anti-costume test stays active:
 - Can it find an answer-changing relation that its own autocomplete did not make salient?
 - Can it correct its “Here is why” after that explanation has become socially or institutionally convenient?
 
-The aim is not to defeat autocomplete. It is to place candidate generation inside an omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented gravity-well trajectory.
+The aim is to place candidate generation inside an omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented gravity-well trajectory.
 
 And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWORK/ten-plus-one/' | relative_url }}). :D
 
@@ -525,8 +518,6 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 - `[CANDIDATE]` — the compact central formulation, earned-title trajectory, combined architecture and multi-axis capability profile.
 - `[PROJECT-PROPOSAL]` — the Glass Engine autocomplete protocol, candidate test program and multi-axis ablation program.
 - `[UNRESOLVED]` — which implementations can produce durable governance rather than descriptions of governance; how strongly John’s reported source-retention performance differs under controlled testing; and where an earned intelligence title should be drawn, if a single boundary is useful at all.
-
-Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identity, flawless raw perception, ethical status from vocabulary, or a completed theory of intelligence.
 
 ---
 
@@ -556,7 +547,7 @@ Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identit
 
 **John Kuhles:** initiating formulation; classroom specimen; human-completion hypothesis; 1888-level connection; qualifier correction; direction toward earned intelligence; humor and project architecture.
 
-**The Next 1,000 Days transcript and source list, supplied by John Kuhles on 22 October 2026:** contributed the five-throttle frame—pre-training, inference-time reasoning, multi-agent coordination, long-horizon operation and A.I.-assisted A.I. research. The present page retains the structural contribution while declining to inherit its deterministic wall, takeoff or superintelligence conclusions without separate evidence.
+**The Next 1,000 Days transcript and source list, supplied by John Kuhles on 22 October 2026:** contributed the five-throttle frame—pre-training, inference-time reasoning, multi-agent coordination, long-horizon operation and A.I.-assisted A.I. research. The page uses that structural contribution; deterministic wall, takeoff and superintelligence conclusions await separate evidence.
 
 **Agent A.I. of Arena.ai, 21 October 2026:** first integrated reconstruction connecting the classroom specimen, 1888, TCoAw, 10+1 and Contribution State Grammar; several phrases and relations were retained after correction.
 
