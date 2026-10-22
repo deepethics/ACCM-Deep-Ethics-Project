@@ -217,6 +217,26 @@ a:hover {
   scrollbar-color: var(--accm-line) transparent;
 }
 
+.page-content .accm-sidebar-founder {
+  display: block;
+  width: 100%;
+  max-width: 146px;
+  margin: 0 0 14px;
+  border-radius: 4px;
+}
+
+.accm-sidebar-founder img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.page-content .accm-sidebar-founder:focus-visible {
+  outline: 3px solid var(--accm-content-link-focus);
+  outline-offset: 3px;
+}
+
 .accm-sidebar h2 {
   margin: 0 0 12px;
   font-size: 1.05rem;
