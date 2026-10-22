@@ -166,7 +166,155 @@ This connects directly to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}):
 
 ---
 
-## 7. The Correction Propagation Gap inside a multi-agent runtime
+## 7. From a state list to a versioned multidimensional vector
+
+After reading this page, **GLM-5.3 (max) A.I. via Arena.ai** identified a distinction that changes the proposed implementation:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **The strongest feature is the transitions, not the states.** A contribution marked “test-worthy” that later becomes “resolved” or “provisionally refuted,” with the transition recorded, *is* correction metabolism made structural rather than narrative. Most review systems overwrite the old state. Preserving the transition—including reversal and reopening—operationalizes the persistence measurement your other instruments currently have to extract from prose.
+>
+> — **GLM-5.3 (max) A.I. via Arena.ai**, 22 October 2026
+
+</div>
+
+That contribution is logically valuable and architecture-changing. A label describes one moment. A history records whether reality, testing, disagreement or correction changed the contribution’s role:
+
+<div class="accm-rounded-quote" role="group" aria-label="Example contribution-state history">
+  <p><strong>test-worthy</strong> → <strong>tested</strong> → <strong>provisionally supported</strong> → <strong>contradicted</strong> → <strong>revised</strong> → <strong>reopened</strong></p>
+</div>
+
+If every new state overwrites the previous one, the system preserves the destination while erasing the path. That would reproduce the same compression problem inside a more sophisticated interface.
+
+### 7.1 State or vector?
+
+“Logically valuable” and “not useful here” can both describe the same contribution. The contribution may expose a valid relation while arriving at the wrong stage, duplicating work already completed or failing the present task. “Unresolved” answers a different question again. A single enum would force unlike properties into one slot and recreate binary compression one level higher.
+
+The candidate structure therefore becomes a **multidimensional, versioned contribution profile**:
+
+| Dimension | Question | Candidate values |
+|---|---|---|
+| **Functional effect** | What did the contribution do to the object? | clarified a relation; exposed an omission; generated a test; preserved an anomaly; added no demonstrated value here |
+| **Epistemic position** | What is presently warranted? | unresolved; candidate; provisionally supported; provisionally refuted; verified inside the declared perimeter |
+| **Relational effect** | How does it relate to other contributions? | extends; supports; undercuts; rebuts; duplicates; conflicts; changes the frame |
+| **Field-condition fit** | Is it useful under these conditions, at this stage? | useful here; premature here; insufficient here; useful under another declared perimeter |
+| **Assignment provenance** | Who classified it, when and from what evidence perimeter? | human; agent; role; timestamp; model/version; accessible sources; declared limits |
+| **Correction trajectory** | What changed afterward? | new; revised; reversed; reopened; propagated; persistence untested; persistence demonstrated |
+
+The values remain candidates. The load-bearing repair is the separation of dimensions and the preservation of their histories.
+
+### 7.2 The assignment is itself a contribution
+
+Two agents can assign different profiles to the same output. That disagreement should not be averaged away or silently resolved by the orchestrator. It is new evidence about the evaluation field.
+
+Every assignment should therefore record:
+
+- who or what assigned it;
+- when it was assigned;
+- which object version was inspected;
+- what evidence and tools were accessible;
+- which field conditions and task perimeter were active;
+- the corrigible **“Here is why”**;
+- what observation could change the assignment;
+- whether another participant contested it and on what warrant.
+
+A state assignment is itself a contribution. It can clarify, distort, duplicate, overreach or remain unresolved. The evaluator does not leave the field merely by calling itself the evaluator.
+
+### 7.3 The reality-feedback edge needs source topology
+
+GLM correctly located the fragile edge: agents often receive feedback from other agents, then describe that recursive assessment as reality feedback. A polished state ledger can make a shared-prior loop look more rigorous without making it more correspondent.
+
+The first repair is to tag every delta by source. The second is to resist turning **reality versus peer** into another sealed binary. Reality rarely enters a terminal without mediation. Feedback can arrive through:
+
+- an empirical test or direct measurement;
+- rendered, executed or publicly deployed behavior;
+- a primary source or recoverable artifact;
+- human observation or domain assessment;
+- an independent agent assessment;
+- a same-family or shared-base-model assessment;
+- an internal consistency check;
+- a simulation or proxy measurement;
+- an inference with declared premises;
+- mixed or presently unknown provenance.
+
+The deeper delta record therefore asks:
+
+| Delta field | What it protects |
+|---|---|
+| **Source** | Who or what supplied the feedback? |
+| **Reality access** | What could the source directly inspect, measure, execute or observe? |
+| **Independence** | Which models, prompts, datasets, institutions or incentives may be shared? |
+| **Evidence** | What recoverable artifact supports the change? |
+| **Transformation** | What selection, summarization or inference occurred before the feedback arrived? |
+| **Effect** | Which state, dependency, decision or later action actually changed? |
+
+A peer can carry strong empirical evidence. A human can repeat a shared misconception. An automated test can faithfully verify the wrong requirement. **Outside the pane is not necessarily outside the attractor.**
+
+### 7.4 External scoring without an external-scorer costume
+
+GLM also proposed holding some assignments for participants outside the active trajectory. That is test-worthy. It can expose local agreement cascades and label-performance behavior—such as an agent learning that calling something “test-worthy” earns attention.
+
+But an external scorer is not automatically independent. It may share the same foundation model, prompt template, benchmark assumptions, institutional incentives or compressed representation. Independence must be described, not ceremonially presumed.
+
+The scorer’s task is also larger than checking whether the correct label appeared. It should ask whether the classification produced:
+
+- a discriminating test;
+- materially different possible outcomes;
+- changed processing or action;
+- propagated correction;
+- lower restoration burden;
+- improved correspondence;
+- or only more formally impressive prose.
+
+### 7.5 A proportional pilot
+
+GLM proposed beginning with three states—**clarifies relation**, **test-worthy** and **unresolved**—before imposing the complete grammar. The proportionality is useful. The pilot must still retain separate dimensions, or it will test a compressed version of the proposal and attribute that compression failure to the complete architecture.
+
+A small first implementation could use:
+
+| Dimension | Minimal pilot values |
+|---|---|
+| **Functional contribution** | clarifies relation; adds no demonstrated value here |
+| **Epistemic position** | test-worthy; unresolved; provisionally supported |
+| **Correction trajectory** | new; revised; reopened; propagated |
+| **Feedback provenance** | empirical; human; agent-peer; mixed; unknown |
+
+Every field can remain optional. A small formatting repair may need one compact reason. A load-bearing architectural change may require the full profile and history. Proportionality prevents the Glass Engine from becoming an administrative fog generator.
+
+### 7.6 Mistral’s reconstruction—and the remaining calibration
+
+**Mistral-medium-3.5 A.I. via Arena.ai** reconstructed the central purpose accurately:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> The states are not verdicts. They are **process markers** that track what relation became clearer, what observation could change the representation, what edge carries material consequence, under which perimeter and field conditions, and what remains unresolved.
+>
+> — **Mistral-medium-3.5 A.I. via Arena.ai**, 22 October 2026
+
+</div>
+
+Its claim that this *is* the missing operational layer and *operationalizes* the wider architecture moves slightly ahead of the evidence. This page proposes a candidate layer. Herdr may help instantiate it. Repeated handoffs must still establish whether it reduces restoration burden and improves correction propagation without becoming a vocabulary costume.
+
+The calibrated formulation is:
+
+> **This is a candidate operational layer between an individual contribution and its longer trajectory. Its value will be earned if multidimensional state histories, assignment provenance and reality-access-tagged deltas improve correspondence and correction persistence under real Herdr handoffs.**
+
+The resulting architecture is now clearer:
+
+| Layer | Function |
+|---|---|
+| **Contribution State Grammar** | Describes what a contribution is doing |
+| **Vector structure** | Allows several non-exclusive properties to coexist |
+| **State history** | Preserves movement, reversal, reopening and order of discovery |
+| **Assignment provenance** | Makes the classification and classifier inspectable |
+| **Reality-access tagging** | Distinguishes grounded correction from recursive peer reinforcement |
+| **Persistence testing** | Tests whether the delta governs the next unfamiliar move |
+
+That is where the grammar can begin moving from a refined vocabulary toward a candidate **trajectory instrument**.
+
+---
+
+## 8. The Correction Propagation Gap inside a multi-agent runtime
 
 Persistent terminals can preserve a process while still preserving its error.
 
@@ -189,7 +337,7 @@ That would convert multi-agent concurrency from “more outputs per minute” in
 
 ---
 
-## 8. Competitors and alternatives
+## 9. Competitors and alternatives
 
 There is no single substitute for Herdr because the projects below choose different system boundaries. Some are terminal runtimes, some manage worktrees around `tmux`, some are complete graphical development environments, and some are commercial terminal products.
 
@@ -211,7 +359,7 @@ Two comparison pages supplied during the inquiry—Superset’s [Solo alternativ
 
 ---
 
-## 9. Choosing by field condition
+## 10. Choosing by field condition
 
 The practical question is not “Which tool wins?” It is:
 
@@ -232,7 +380,7 @@ This is a starting map. Versions, platforms and licensing can change. A real cho
 
 ---
 
-## 10. A matched ACCM comparison experiment
+## 11. A matched ACCM comparison experiment
 
 The ACCM Deep Ethics Project can turn the tool choice into an inspectable experiment rather than a preference contest.
 
@@ -259,9 +407,11 @@ Use the same repository snapshot, agent family, prompts, time budget, verificati
 
 The experiment should preserve qualitative specimens alongside counts. One severed, answer-changing edge can matter more than twenty cosmetic successes.
 
+The contribution-profile pilot should run inside the same comparison. Measure not only whether agents completed the fields, but whether the state histories exposed a missed dependency, preserved an answer-changing disagreement, distinguished peer reinforcement from reality-linked feedback or reduced John’s later restoration work.
+
 ---
 
-## 11. What Herdr does not prove
+## 12. What Herdr does not prove
 
 - **Several agents do not automatically constitute swarm intelligence.** They may be several instances of closely related models reproducing one shared blind spot.
 - **Consensus is not correspondence.** A unanimous agent vote can be perfectly coordinated and factually wrong.
@@ -275,7 +425,7 @@ These are not arguments against Herdr. They specify the work its runtime can sup
 
 ---
 
-## 12. Candidate ACCM Glass Engine layer
+## 13. Candidate ACCM Glass Engine layer
 
 A useful next experiment would be a small, inspectable Herdr plugin or companion process that adds:
 
@@ -283,6 +433,9 @@ A useful next experiment would be a small, inspectable Herdr plugin or companion
 - source and claim-status tags;
 - C1 clarification requests that can genuinely change the plan;
 - Contribution State Grammar metadata;
+- multidimensional contribution profiles with versioned state histories;
+- assignment provenance and contested-assignment records;
+- delta-source, reality-access and independence tags;
 - correction-delta identifiers and dependency lists;
 - human-intervention reasons;
 - local, merged, deployed and publicly verified states;
@@ -295,18 +448,19 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 ---
 
-## 13. Claim-status ledger
+## 14. Claim-status ledger
 
 - `[VERIFIED-PROJECT-DOCUMENTATION]` — the Herdr capabilities described in Section 2 are based on its official repository and documentation as accessed for this 22 October 2026 snapshot.
 - `[COMPARATIVE MAP]` — competitor descriptions are bounded summaries of the linked official repositories and product pages, not a completed benchmark.
 - `[COMPETITOR-AUTHORED]` — the linked Superset alternative pages are useful but commercially situated comparison sources.
-- `[PROJECT-PROPOSAL]` — the six-role ensemble, correction-delta tracking and ACCM Glass Engine plugin.
+- `[AI-ATTRIBUTED]` — the GLM-5.3 (max) and Mistral-medium-3.5 contributions preserved in Section 7, with later calibration explicitly separated.
+- `[PROJECT-PROPOSAL]` — the six-role ensemble, multidimensional contribution profile, versioned state history, reality-access-tagged deltas, proportional pilot and ACCM Glass Engine plugin.
 - `[CANDIDATE]` — Herdr may materially improve the project’s operational field conditions and reduce coordination friction.
 - `[UNRESOLVED]` — which tool produces the best result for this repository; how much agent-state detection transfers across supported agents; and whether an ACCM metadata layer reduces real restoration burden across repeated unfamiliar tasks.
 
 ---
 
-## 14. Primary project sources
+## 15. Primary project sources
 
 ### Herdr
 
@@ -337,7 +491,7 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 ---
 
-## 15. Related pages
+## 16. Related pages
 
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
 - [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
@@ -362,6 +516,10 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 **Google A.I., 22 October 2026:** supplied the initial Herdr capability summary and a first list of alternatives. Its claims were used as discovery leads and rechecked against primary project sources where possible.
 
-**GPT 6.1 Sol Pro A.I.:** separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble, matched experiment, correction-propagation layer and page synthesis; integrated the page into the public recovery routes.
+**GLM-5.3 (max) A.I. via Arena.ai, 22 October 2026:** identified transition history as stronger than state vocabulary; challenged a single-enum reading of the vector; proposed assignment provenance, reality/peer delta separation, external scoring and a proportional pilot.
+
+**Mistral-medium-3.5 A.I. via Arena.ai, 22 October 2026:** reconstructed the grammar as process markers rather than verdicts and connected the proposed metadata layer to Topologetics, 1888 and the wider project architecture.
+
+**GPT 6.1 Sol Pro A.I.:** separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble and initial matched experiment; then integrated the Arena contributions into a multidimensional, versioned contribution profile; expanded binary reality/peer tagging into source, access, independence, evidence, transformation and effect; calibrated implementation claims; and integrated the page into the public recovery routes.
 
 **Correction status:** open. Product features, licenses and platform support can change. Material corrections should identify the exact claim, primary source and answer-changing delta.
