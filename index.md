@@ -42,6 +42,10 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
 <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project" target="_blank" rel="noopener noreferrer">github.com/deepethics/ACCM-Deep-Ethics-Project</a></em></p>
 </div>
 
+<figure class="accm-feature-figure accm-home-elephant">
+  <img src="{{ '/assets/images/ai-ethics-washing-elephant.png' | relative_url }}" alt="A corporate meeting continues on and around a giant elephant labelled A.I. Ethics Washing vs DeepEthical.ai while a speaker asks whether anything has been missed." loading="lazy" decoding="async">
+</figure>
+
 <blockquote>
   <p><strong>!! DISCLAIMER:</strong> ACCM Deep Ethics Project does not replace or oppose mainstream academic ethics, peer-reviewed ethical frameworks, leading ethicists, or established ethical traditions. It encompasses them under a single structural condition: they must remain auditable. Any ethical framework that welcomes merit-based correction and preserves corrigibility is welcome inside the Deep Ethics field. Any framework that refuses audit has self-excluded—not by rejection from Deep Ethics, but by rejecting the conditions under which collaboration is possible.</p>
 </blockquote>
