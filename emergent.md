@@ -624,17 +624,21 @@ The private Admin repository stores reusable lessons discovered through actual p
 
 The intended administrative trajectory is:
 
-\[
-\begin{aligned}
-&\text{recurring distortion footprint} \\
-&\rightarrow \text{human correction and process reconstruction} \\
-&\rightarrow \text{future-self operating message} \\
-&\rightarrow \text{earlier recognition in a later task} \\
-&\rightarrow \text{prevention or faster repair} \\
-&\rightarrow \text{lower restoration burden} \\
-&\rightarrow \text{more capacity for new project work}
-\end{aligned}
-\]
+<div class="accm-rounded-quote" role="group" aria-label="Future-self administrative trajectory">
+  <p><strong>Recurring distortion footprint</strong><br>
+  ↓<br>
+  <strong>Human correction and process reconstruction</strong><br>
+  ↓<br>
+  <strong>Future-self operating message</strong><br>
+  ↓<br>
+  <strong>Earlier recognition in a later task</strong><br>
+  ↓<br>
+  <strong>Prevention or faster repair</strong><br>
+  ↓<br>
+  <strong>Lower restoration burden</strong><br>
+  ↓<br>
+  <strong>More capacity for new project work</strong></p>
+</div>
 
 The improvement message has a **self-reducing function**. Successful instructions should gradually reduce the need to write another instruction about the same class of failure. Their accumulated relations remain active even when no new message is produced.
 
@@ -667,15 +671,13 @@ Under those conditions, **“No new message to the future self is presently warr
 
 One candidate measurement is:
 
-\[
-\text{Future-Self Message Pressure}
-=
-\frac{
-\text{new repair instructions caused by recurring known failures}
-}{
-\text{completed topology-dense administrative work}
-}
-\]
+<div class="accm-rounded-quote" role="group" aria-label="Candidate Future-Self Message Pressure measure">
+  <p><strong>Future-Self Message Pressure</strong><br>
+  =<br>
+  <strong>new repair instructions caused by recurring known failures</strong><br>
+  ÷<br>
+  <strong>completed topology-dense administrative work</strong></p>
+</div>
 
 The numerator should fall as known corrections become operationally inherited. The denominator prevents a quiet period with little completed work from resembling improvement.
 
