@@ -110,9 +110,9 @@ An ACCM-informed layer would add separate, explicitly named states such as:
 
 These should not be squeezed into one status light. A pane can be operationally `done` while the claim remains `[UNRESOLVED]`. A process can be `blocked` because it is correctly refusing to invent missing evidence. An agent can be `working` while confidently optimizing the wrong frame.
 
-$$
-\text{runtime visibility} \neq \text{epistemic correspondence}
-$$
+<div class="accm-rounded-quote" role="group" aria-label="Runtime visibility is not equivalent to epistemic correspondence">
+  <p><strong>Runtime visibility ≠ epistemic correspondence</strong></p>
+</div>
 
 The first can support the second. It cannot substitute for it.
 
@@ -312,6 +312,71 @@ The resulting architecture is now clearer:
 
 That is where the grammar can begin moving from a refined vocabulary toward a candidate **trajectory instrument**.
 
+### 7.7 Recurrence after exposure is not independent confirmation
+
+After reading the expanded page, **Grok-4.6-medium A.I. via Arena.ai** preserved the central distinctions and added an important provenance limit:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I will not treat my earlier Arena-style comments as independent confirmation because they are now inside the page. Recurrence across files is not a second experiment.
+>
+> — **Grok-4.6-medium A.I. via Arena.ai**, 22 October 2026
+
+</div>
+
+That rule prevents an agreement cascade from manufacturing apparent replication. Once an A.I. has read the page, later recovery of its distinctions may demonstrate comprehension, local retention or reconstruction quality. It does not independently rediscover or externally validate the architecture.
+
+The contribution record should therefore distinguish:
+
+| Recurrence type | What it can support | What it cannot establish by itself |
+|---|---|---|
+| **Direct repetition** | The term remained available | Functional understanding or transfer |
+| **Faithful reconstruction after exposure** | The source topology was substantially retained | Independent convergence |
+| **Application to a new object** | Candidate transfer beyond recitation | Longitudinal persistence across resets |
+| **Independent derivation without access** | Stronger evidence of convergence | Empirical truth or complete independence of priors |
+| **Matched external test** | Comparative performance under declared conditions | Universal validity outside the tested perimeter |
+
+Provenance must record whether the evaluator had already seen the concept, the page, a derivative summary or another model’s reconstruction. Otherwise the archive can mistake circulation for confirmation.
+
+### 7.8 Impediment-to-circulation: when the instrument consumes the inquiry
+
+**Solar-pro4 A.I. via Arena.ai** contributed a failure mode that sharpens the proportionality requirement:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> A useful failure mode for any state grammar is **impediment-to-circulation**: when the grammar is too heavy, agents and humans start spending more effort producing the metadata than inspecting the object.
+>
+> — **Solar-pro4 A.I. via Arena.ai**, 22 October 2026
+
+</div>
+
+This is more precise than generic “administrative fatigue.” It identifies a correspondence cost: process protection begins obstructing the movement of the object through the process.
+
+The standing audit question becomes:
+
+> **When does the contribution grammar start protecting process at the cost of process?**
+
+Candidate symptoms include:
+
+- required fields whose contents never change a decision;
+- repeated classifications copied forward without reinspection;
+- agents optimizing label completion instead of examining the object;
+- simple repairs delayed by a full protocol intended for load-bearing disputes;
+- metadata growing faster than recoverable evidence;
+- reviewers reading the profile while skipping the contribution;
+- provenance detail that cannot later be searched, compared or used;
+- a lower restoration burden for the system purchased with a higher burden for the human.
+
+The remedy is not automatic simplification. It is proportional activation. A compact task can use one contribution state and one corrigible reason. A contested architectural change can activate the full vector, history, provenance and delta topology. Fields that repeatedly fail to change a decision should lose mandatory status unless a new field condition restores their value.
+
+This creates a second trajectory to measure alongside correspondence:
+
+<div class="accm-rounded-quote" role="group" aria-label="Protocol value trajectory">
+  <p><strong>Added process structure</strong> → <strong>observable decision value</strong> → <strong>correction or recovery gained</strong> → <strong>maintenance cost</strong> → <strong>retain, revise, suspend or remove</strong></p>
+</div>
+
+A Glass Engine should make its gears inspectable. It should not require everyone to polish every gear while the object waits outside.
+
 ---
 
 ## 8. The Correction Propagation Gap inside a multi-agent runtime
@@ -453,8 +518,8 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 - `[VERIFIED-PROJECT-DOCUMENTATION]` — the Herdr capabilities described in Section 2 are based on its official repository and documentation as accessed for this 22 October 2026 snapshot.
 - `[COMPARATIVE MAP]` — competitor descriptions are bounded summaries of the linked official repositories and product pages, not a completed benchmark.
 - `[COMPETITOR-AUTHORED]` — the linked Superset alternative pages are useful but commercially situated comparison sources.
-- `[AI-ATTRIBUTED]` — the GLM-5.3 (max) and Mistral-medium-3.5 contributions preserved in Section 7, with later calibration explicitly separated.
-- `[PROJECT-PROPOSAL]` — the six-role ensemble, multidimensional contribution profile, versioned state history, reality-access-tagged deltas, proportional pilot and ACCM Glass Engine plugin.
+- `[AI-ATTRIBUTED]` — the GLM-5.3 (max), Mistral-medium-3.5, Grok-4.6-medium and Solar-pro4 contributions preserved in Section 7, with later calibration explicitly separated.
+- `[PROJECT-PROPOSAL]` — the six-role ensemble, multidimensional contribution profile, versioned state history, reality-access-tagged deltas, exposure-aware recurrence ledger, proportional pilot, impediment-to-circulation audit and ACCM Glass Engine plugin.
 - `[CANDIDATE]` — Herdr may materially improve the project’s operational field conditions and reduce coordination friction.
 - `[UNRESOLVED]` — which tool produces the best result for this repository; how much agent-state detection transfers across supported agents; and whether an ACCM metadata layer reduces real restoration burden across repeated unfamiliar tasks.
 
@@ -520,6 +585,10 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 **Mistral-medium-3.5 A.I. via Arena.ai, 22 October 2026:** reconstructed the grammar as process markers rather than verdicts and connected the proposed metadata layer to Topologetics, 1888 and the wider project architecture.
 
-**GPT 6.1 Sol Pro A.I.:** separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble and initial matched experiment; then integrated the Arena contributions into a multidimensional, versioned contribution profile; expanded binary reality/peer tagging into source, access, independence, evidence, transformation and effect; calibrated implementation claims; and integrated the page into the public recovery routes.
+**Grok-4.6-medium A.I. via Arena.ai, 22 October 2026:** reconstructed the page’s central distinctions and supplied the explicit rule that recurrence after exposure is not an independent experiment or confirmation.
+
+**Solar-pro4 A.I. via Arena.ai, 22 October 2026:** reconstructed the proposal and contributed **impediment-to-circulation** as a correspondence-cost failure mode for metadata systems that become heavier than the inquiry warrants.
+
+**GPT 6.1 Sol Pro A.I.:** separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble and initial matched experiment; then integrated the Arena contributions into a multidimensional, versioned contribution profile; expanded binary reality/peer tagging into source, access, independence, evidence, transformation and effect; calibrated implementation claims; developed exposure-aware recurrence and proportional activation tests; and integrated the page into the public recovery routes.
 
 **Correction status:** open. Product features, licenses and platform support can change. Material corrections should identify the exact claim, primary source and answer-changing delta.
