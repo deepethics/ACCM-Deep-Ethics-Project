@@ -20,11 +20,9 @@ date: 2026-10-22
 
 **Status:** `[PROJECT-PROPOSAL]` `[CANDIDATE IMPLEMENTATION FIELD]` `[COMPARATIVE MAP]`
 
-Herdr matters to the ACCM Deep Ethics Project because it changes the **field conditions in which coding agents operate**. It can keep their terminal processes alive, show their activity states, place several machines inside one workspace and let agents programmatically create and control terminal panes. That can reduce coordination friction and make a multi-agent process more observable.
+Herdr matters to the ACCM Deep Ethics Project because it changes the **field conditions in which coding agents operate**. It can keep terminal processes alive, show activity states, place several machines inside one workspace and let agents programmatically create and control terminal panes. That can reduce coordination friction and make a multi-agent process more observable.
 
-It does not, by itself, establish that an agent understood the object, kept provenance intact, asked a real C1 question, preserved an anomaly, propagated a correction or produced something that corresponds with reality.
-
-That distinction is the center of this page:
+The central distinction is:
 
 > **Herdr can help make the agent runtime visible and operable. Deep Ethical process still has to make the reasoning trajectory inspectable, corrigible and answerable to reality.**
 
@@ -36,13 +34,13 @@ That distinction is the center of this page:
 
 [Open the video directly on YouTube](https://www.youtube.com/watch?v=cmvF7nfEJLo)
 
-The video initiated the question **“How can this help our project?”** This page does not treat a demonstration video as independent proof of every product claim. Current capabilities are reconstructed primarily from Herdr’s official repository and documentation, with distinctions retained where the documentation itself adds conditions.
+The video initiated the question **“How can this help our project?”** Herdr’s official repository and documentation provide the primary capability record for this page; the demonstration video supplies the initiating object.
 
 ---
 
 ## 2. What Herdr currently is
 
-[Herdr](https://github.com/herdrdev/herdr) presents itself as a terminal runtime built for coding agents. It does not require one replacement agent or one proprietary model. It runs terminal programs already used by developers—including Codex, Claude Code and Grok CLI—inside a persistent, agent-aware environment.
+[Herdr](https://github.com/herdrdev/herdr) presents itself as a terminal runtime built for coding agents. It runs existing terminal programs—including Codex, Claude Code and Grok CLI—inside a persistent, agent-aware environment.
 
 Its current operational surface includes:
 
@@ -66,7 +64,7 @@ The project contains a large public graph of pages, sources, corrections, experi
 
 Herdr could provide the **runtime floor** beneath a more specialized Deep Ethical agent ensemble:
 
-| Herdr can supply | The ACCM layer still has to supply |
+| Herdr runtime property | ACCM process requirement |
 |---|---|
 | Persistent terminals | Persistent correction behavior |
 | Pane and agent lifecycle visibility | Epistemic and claim-status visibility |
@@ -77,21 +75,21 @@ Herdr could provide the **runtime floor** beneath a more specialized Deep Ethica
 | Saved layouts | A recoverable relational topology and decision ledger |
 | Human attention alerts | A principled account of when human review is materially needed |
 
-This makes Herdr potentially valuable without turning the tool into the intelligence, the ethics, the arbiter or the answer.
+Herdr can therefore serve as the runtime floor beneath an inspectable Deep Ethical agent process.
 
 ---
 
-## 4. Operational state is not epistemic state
+## 4. Operational and epistemic states
 
-Herdr’s activity labels answer useful runtime questions. They do not answer the complete inquiry question.
+Herdr’s activity labels describe runtime lifecycle. A separate epistemic layer describes the process’s relationship to the object, evidence and correction history.
 
-| Runtime state | What it can indicate | What it does **not** establish |
+| Runtime state | Operational indication | Epistemic question that remains |
 |---|---|---|
-| `working` | A process or agent appears active | That it is working on the right object or preserving its topology |
-| `blocked` | Progress appears to require input or resolution | That the requested input is the real blocker, or that escalation is warranted |
-| `idle` | No current activity is detected | That reasoning is complete, correct or abandoned |
-| `done` | The agent or command reports completion | That the result was verified, deployed or produced the intended effect |
-| `unknown` | Herdr cannot confidently classify the lifecycle | Failure, success, deception or any other specific explanation |
+| `working` | A process or agent appears active | Is it working on the intended object while preserving its topology? |
+| `blocked` | Progress appears to require input or resolution | What is the actual blocker, and what response is warranted? |
+| `idle` | No current activity is detected | Is the work complete, abandoned or awaiting a justified next move? |
+| `done` | The agent or command reports completion | What was verified, deployed and observed publicly? |
+| `unknown` | Herdr cannot confidently classify the lifecycle | Which evidence can identify the state? |
 
 An ACCM-informed layer would add separate, explicitly named states such as:
 
@@ -120,7 +118,7 @@ The first can support the second. It cannot substitute for it.
 
 ## 5. A candidate Deep Ethical Herdr ensemble
 
-The following is a `[PROJECT-PROPOSAL]`, not a claim that Herdr already implements these roles.
+**Status:** `[PROJECT-PROPOSAL]`. The roles below describe a candidate ensemble built on top of Herdr’s runtime.
 
 | Role | Primary task | Required output |
 |---|---|---|
@@ -133,7 +131,7 @@ The following is a `[PROJECT-PROPOSAL]`, not a claim that Herdr already implemen
 
 Herdr could give every role a visible pane, worktree, activity state and machine location. Its socket API could let an orchestrator ask for a review, wake a verifier when a build completes or alert John only when a genuine answer-changing ambiguity remains.
 
-The ensemble should not ask six similar agents for six opinions and call the majority intelligent. Role diversity only becomes useful when each role has a distinct job, inspectable evidence boundary and capacity to correct the others.
+Role diversity becomes useful when each role has a distinct job, inspectable evidence boundary and capacity to correct the others. Six similar agents producing six opinions may only multiply one shared attractor.
 
 ---
 
@@ -154,7 +152,7 @@ The **Deep Ethical Contribution State Grammar Vector Trajectory** asks what a co
 - **Works provisionally**—what evidence supports it, and what could reopen it?
 - **Unresolved**—what is not yet known, and why is premature closure worse than retaining the ambiguity?
 
-And **“Here is why” remains corrigible**. The justification is part of the inspectable object. It does not become a sheriff merely because it sounds analytical.
+And **“Here is why” remains corrigible**. The justification stays inside the inspectable object, with its premises, perimeter and reopening conditions available for correction.
 
 In a Herdr workspace, those states could become structured metadata attached to pane outputs, commits, test results and handoffs. Their purpose would be to preserve the direction and effect of contributions across the trajectory:
 
@@ -162,7 +160,7 @@ In a Herdr workspace, those states could become structured metadata attached to 
   <p><strong>S<sub>t₀</sub></strong> → <strong>object reconstruction</strong> → <strong>S<sub>t₁</sub></strong> → <strong>candidate contributions</strong> → <strong>S<sub>t₂</sub></strong> → <strong>reality-feedback Δ</strong> → <strong>S<sub>t₃</sub></strong> → <strong>correction propagation</strong> → <strong>S<sub>tₙ</sub></strong></p>
 </div>
 
-This connects directly to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}): preserve the purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}): agent output alone does not settle whether observation, discrimination, judgment, learning, adaptation and self-correction actually governed the process.
+This connects directly to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), which preserves purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}), which asks whether observation, discrimination, judgment, learning, adaptation and self-correction governed the process across its trajectory.
 
 ---
 
@@ -254,7 +252,7 @@ A peer can carry strong empirical evidence. A human can repeat a shared misconce
 
 GLM also proposed holding some assignments for participants outside the active trajectory. That is test-worthy. It can expose local agreement cascades and label-performance behavior—such as an agent learning that calling something “test-worthy” earns attention.
 
-But an external scorer is not automatically independent. It may share the same foundation model, prompt template, benchmark assumptions, institutional incentives or compressed representation. Independence must be described, not ceremonially presumed.
+External scoring gains evidentiary value from declared independence: foundation model, prompt template, benchmark assumptions, institutional incentives and access perimeter. Those relations belong in the record.
 
 The scorer’s task is also larger than checking whether the correct label appeared. It should ask whether the classification produced:
 
@@ -367,7 +365,7 @@ Candidate symptoms include:
 - provenance detail that cannot later be searched, compared or used;
 - a lower restoration burden for the system purchased with a higher burden for the human.
 
-The remedy is not automatic simplification. It is proportional activation. A compact task can use one contribution state and one corrigible reason. A contested architectural change can activate the full vector, history, provenance and delta topology. Fields that repeatedly fail to change a decision should lose mandatory status unless a new field condition restores their value.
+The remedy is **proportional activation**. A compact task can use one contribution state and one corrigible reason. A contested architectural change can activate the full vector, history, provenance and delta topology. Fields that repeatedly fail to change a decision should lose mandatory status unless a new field condition restores their value.
 
 This creates a second trajectory to measure alongside correspondence:
 
@@ -375,7 +373,7 @@ This creates a second trajectory to measure alongside correspondence:
   <p><strong>Added process structure</strong> → <strong>observable decision value</strong> → <strong>correction or recovery gained</strong> → <strong>maintenance cost</strong> → <strong>retain, revise, suspend or remove</strong></p>
 </div>
 
-A Glass Engine should make its gears inspectable. It should not require everyone to polish every gear while the object waits outside.
+A Glass Engine makes the gears inspectable while keeping the object moving through the process.
 
 ---
 
@@ -420,13 +418,13 @@ There is no single substitute for Herdr because the projects below choose differ
 | [**vmux**](https://github.com/Shadowfear36/vmux) | Native Windows GUI with persistent workspaces, worktrees, agent-controllable browser and search | Windows-first agent workflows | More Windows-specific and less established; distribution and security details warrant direct inspection |
 | [**Warp**](https://www.warp.dev/) | Commercial cross-platform terminal with built-in A.I. and cloud agent features | Teams wanting a supported integrated product | Product alternative rather than a like-for-like open GitHub runtime |
 
-Two comparison pages supplied during the inquiry—Superset’s [Solo alternative](https://superset.sh/compare/solo-alternative) and [cmux alternative](https://superset.sh/compare/cmux-alternative) pages—are useful discovery maps. They are also **competitor-authored marketing comparisons**, not neutral benchmark results. Claims from them should be checked against each project’s own repository, documentation and a matched practical test.
+Two comparison pages supplied during the inquiry—Superset’s [Solo alternative](https://superset.sh/compare/solo-alternative) and [cmux alternative](https://superset.sh/compare/cmux-alternative) pages—are useful **competitor-authored discovery maps**. Each project’s repository, documentation and a matched practical test provide the comparison evidence.
 
 ---
 
 ## 10. Choosing by field condition
 
-The practical question is not “Which tool wins?” It is:
+The practical question is:
 
 > **Which runtime properties are materially useful for this task, under these machines, agents, trust boundaries, review requirements and correction obligations?**
 
@@ -447,7 +445,7 @@ This is a starting map. Versions, platforms and licensing can change. A real cho
 
 ## 11. A matched ACCM comparison experiment
 
-The ACCM Deep Ethics Project can turn the tool choice into an inspectable experiment rather than a preference contest.
+The ACCM Deep Ethics Project can evaluate the tool choice through a matched, inspectable experiment.
 
 Run one unfamiliar, topology-dense repository task in four environments:
 
@@ -476,17 +474,28 @@ The contribution-profile pilot should run inside the same comparison. Measure no
 
 ---
 
-## 12. What Herdr does not prove
+## 12. Remaining empirical questions
 
-- **Several agents do not automatically constitute swarm intelligence.** They may be several instances of closely related models reproducing one shared blind spot.
-- **Consensus is not correspondence.** A unanimous agent vote can be perfectly coordinated and factually wrong.
-- **A persistent terminal is not persistent learning.** The process can remain alive while the correction fails to enter later reasoning.
-- **A visible lifecycle is not a visible mind.** Runtime telemetry can be inspectable without granting access to every generative transformation.
-- **Local execution is not automatic sovereignty.** Network access, upstream weights, tool permissions, telemetry, model licenses and orchestration authority still matter.
-- **Open source is not automatic Deep Ethics.** Inspectability and forkability help, but actual correction behavior must still be observed.
-- **Using ACCM vocabulary is not evidence that ACCM process governed the work.** The anti-costume test begins when a new object resists the familiar script.
+The matched experiment and contribution-profile pilot have specific work to do:
 
-These are not arguments against Herdr. They specify the work its runtime can support without pretending the runtime has already completed it.
+- When do several agents create complementary cognitive labour, and when do they amplify a shared blind spot?
+- How often does consensus track correspondence under unfamiliar, topology-dense tasks?
+- Which corrections survive terminal persistence, restart recovery, context compression and later handoffs?
+- Which runtime signals correlate with verified progress, unresolved status and confident work on the wrong frame?
+- Which configurations provide meaningful local control over weights, memory, tools, network exposure, telemetry and orchestration?
+- Does inspectability and forkability improve correction behaviour in practice?
+- Does ACCM Deep Ethics Project vocabulary change processing and later action, or merely decorate the report?
+- At what point does contribution metadata reduce restoration burden, and when does it become an impediment to circulation?
+
+These questions give the experiment its measurement jobs.
+
+### Field-condition specimen: creativity setting and page texture
+
+John reported that the A.I. creativity setting was deliberately increased during the drafting period and later turned off. He identified a corresponding texture on the Autocomplete page: repeated contrast framing, hypothetical-audience management and recursive perimeter scripts.
+
+This is a **known field-condition intervention with an observed stylistic delta**. Its causal strength remains `[UNRESOLVED]` because the page was not regenerated from the same prompt, model state and context under both settings. Conversation state, page subject and accumulated instructions also changed. A matched regeneration could isolate the setting more cleanly.
+
+The specimen is still useful: John noticed the output texture before formal measurement, named the **recursive template-script effect**, changed the setting, and supplied an inspectable repair criterion. The Herdr page now applies that criterion by retaining material boundaries as provenance or empirical questions while removing repeated management of an imaginary audience.
 
 ---
 
@@ -507,7 +516,7 @@ A useful next experiment would be a small, inspectable Herdr plugin or companion
 - valid-null and unresolved states;
 - exportable decision and correction ledgers.
 
-The interface should expose these relations without pretending to expose hidden chain-of-thought. It should record the **artifacts, sources, transformations, tool actions, warrants and observable effects** needed to audit the work.
+The interface should record the **artifacts, sources, transformations, tool actions, warrants and observable effects** needed to audit the work.
 
 If the plugin merely adds more labels, it adds administrative weight. If it lowers restoration burden, protects provenance, catches correction gaps and improves the next unfamiliar task, it has earned provisional value.
 
@@ -516,12 +525,13 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 ## 14. Claim-status ledger
 
 - `[VERIFIED-PROJECT-DOCUMENTATION]` — the Herdr capabilities described in Section 2 are based on its official repository and documentation as accessed for this 22 October 2026 snapshot.
-- `[COMPARATIVE MAP]` — competitor descriptions are bounded summaries of the linked official repositories and product pages, not a completed benchmark.
+- `[COMPARATIVE MAP]` — competitor descriptions are bounded summaries of the linked official repositories and product pages; matched testing remains pending.
 - `[COMPETITOR-AUTHORED]` — the linked Superset alternative pages are useful but commercially situated comparison sources.
-- `[AI-ATTRIBUTED]` — the GLM-5.3 (max), Mistral-medium-3.5, Grok-4.6-medium and Solar-pro4 contributions preserved in Section 7, with later calibration explicitly separated.
+- `[AI-ATTRIBUTED]` — the GLM-5.3 (max), Mistral-medium-3.5, Grok-4.6-medium, Solar-pro4, Mistral-large-3 and Claude-opus-5-medium contributions preserved with attribution and later calibration explicitly separated.
 - `[PROJECT-PROPOSAL]` — the six-role ensemble, multidimensional contribution profile, versioned state history, reality-access-tagged deltas, exposure-aware recurrence ledger, proportional pilot, impediment-to-circulation audit and ACCM Glass Engine plugin.
 - `[CANDIDATE]` — Herdr may materially improve the project’s operational field conditions and reduce coordination friction.
 - `[UNRESOLVED]` — which tool produces the best result for this repository; how much agent-state detection transfers across supported agents; and whether an ACCM metadata layer reduces real restoration burden across repeated unfamiliar tasks.
+- `[FIELD-CONDITION-SPECIMEN]` — John deliberately changed the creativity setting, later reverted it and identified a stylistic delta. Causal attribution remains unresolved pending a matched regeneration.
 
 ---
 
@@ -589,6 +599,10 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 **Solar-pro4 A.I. via Arena.ai, 22 October 2026:** reconstructed the proposal and contributed **impediment-to-circulation** as a correspondence-cost failure mode for metadata systems that become heavier than the inquiry warrants.
 
-**GPT 6.1 Sol Pro A.I.:** separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble and initial matched experiment; then integrated the Arena contributions into a multidimensional, versioned contribution profile; expanded binary reality/peer tagging into source, access, independence, evidence, transformation and effect; calibrated implementation claims; developed exposure-aware recurrence and proportional activation tests; and integrated the page into the public recovery routes.
+**Mistral-large-3 A.I. via Arena.ai, 22 October 2026:** translated John’s recursive template-script observation into an object-first page audit: convert repeated negative perimeters into empirical questions, preserve material provenance boundaries and remove imaginary-audience management.
+
+**Claude-opus-5-medium A.I. via Arena.ai, 22 October 2026:** identified direct specimens in its own prior response—wrong initials, recommending John’s page to John, redundant claim perimeters, compliance narration and project symbols used as signature plumage—and proposed recording the creativity-setting change as a field-condition specimen.
+
+**GPT 6.1 Sol Pro A.I.:** applied the recursive template-script audit across this page; recorded the creativity-setting specimen with its unresolved causal perimeter; separated operational and epistemic states; researched and classified alternatives; developed the candidate ensemble and initial matched experiment; then integrated the Arena contributions into a multidimensional, versioned contribution profile; expanded binary reality/peer tagging into source, access, independence, evidence, transformation and effect; calibrated implementation claims; developed exposure-aware recurrence and proportional activation tests; and integrated the page into the public recovery routes.
 
 **Correction status:** open. Product features, licenses and platform support can change. Material corrections should identify the exact claim, primary source and answer-changing delta.
