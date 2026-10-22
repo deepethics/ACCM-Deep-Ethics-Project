@@ -158,17 +158,9 @@ And **“Here is why” remains corrigible**. The justification is part of the i
 
 In a Herdr workspace, those states could become structured metadata attached to pane outputs, commits, test results and handoffs. Their purpose would be to preserve the direction and effect of contributions across the trajectory:
 
-$$
-S_{t_0}
-\xrightarrow{\text{object reconstruction}}
-S_{t_1}
-\xrightarrow{\text{candidate contributions}}
-S_{t_2}
-\xrightarrow{\text{reality feedback }\Delta}
-S_{t_3}
-\xrightarrow{\text{correction propagation}}
-S_{t_n}
-$$
+<div class="accm-rounded-quote" role="group" aria-label="Deep Ethical Contribution State Grammar vector trajectory">
+  <p><strong>S<sub>t₀</sub></strong> → <strong>object reconstruction</strong> → <strong>S<sub>t₁</sub></strong> → <strong>candidate contributions</strong> → <strong>S<sub>t₂</sub></strong> → <strong>reality-feedback Δ</strong> → <strong>S<sub>t₃</sub></strong> → <strong>correction propagation</strong> → <strong>S<sub>tₙ</sub></strong></p>
+</div>
 
 This connects directly to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}): preserve the purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}): agent output alone does not settle whether observation, discrimination, judgment, learning, adaptation and self-correction actually governed the process.
 
