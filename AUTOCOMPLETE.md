@@ -408,7 +408,80 @@ The 1888 property field becomes especially relevant here. A swarm with more gene
 
 ---
 
-## 14. Model collapse language and qualifier survival
+## 14. Autocomplete does not scale on one axis
+
+On 22 October 2026, John supplied a corrected transcript and source list for a narrator-driven video from **The Next 1,000 Days**, introduced with the question:
+
+> **Everyone said A.I. would hit a wall, even the godfather of A.I. LLMs would run out of data, scaling would stall, and progress would plateau. So why does A.I. keep getting smarter?**
+
+The source is useful here because it breaks one misleading compression: **next-token prediction is a generative mechanism, not a complete inventory of the system wrapped around it.** A model can retain probabilistic candidate generation while the surrounding system acquires more inference-time search, tools, testing, memory, coordination and task duration.
+
+The video organizes that development into five “throttles.” This page treats them as a supplied analytical frame, not as five independently verified laws:
+
+| Supplied throttle | What changes around autocomplete | What the improvement does not establish by itself |
+|---|---|---|
+| **1. Pre-training** | Expands learned statistical structure, task coverage and candidate quality through data, compute and model development | Understanding, truth, inexhaustible data or indefinite returns from scale |
+| **2. Inference-time reasoning / test-time compute** | Allocates more search, intermediate work, checking and alternative exploration before an answer | Human-like System 2 cognition, faithful reasoning traces or reliable self-correction |
+| **3. Multi-agent coordination** | Parallelizes search, specialization, comparison and task decomposition | Independent perspectives, correspondence, genuine swarm intelligence or escape from shared blind spots |
+| **4. Long-horizon operation** | Extends how long a system can retain task state, use notes, run tests and repair intermediate failures | Durable learning, correction persistence, full-context retention or reliable completion of every long chain |
+| **5. A.I.-assisted A.I. research** | Lets A.I. systems contribute to experiments, code, evaluation and model development | Fully autonomous recursive self-improvement, automatic takeoff or a straight path to superintelligence |
+
+The first four can combine into a more capable operational system without changing the narrow fact that language generation still uses probabilistic continuation. The object being evaluated has nevertheless expanded:
+
+<div class="accm-rounded-quote" role="group" aria-label="Expanded autocomplete system">
+  <p><strong>Probabilistic candidate generation</strong> + <strong>inference-time search</strong> + <strong>tools and tests</strong> + <strong>memory</strong> + <strong>agent coordination</strong> + <strong>long-horizon feedback</strong> → <strong>a richer candidate capability profile</strong></p>
+</div>
+
+The arrow does not certify intelligence, consciousness, correspondence or Deep Ethics. It marks an expanded object that cannot be faithfully evaluated by inspecting the generator alone.
+
+### The strongest and weakest moves in the video
+
+The strongest move is the claim that some “wall” arguments watched only **pre-training scale**. A pre-training data or compute bottleneck does not prove that inference-time search, tool use, parallel exploration or longer feedback loops cannot improve system performance.
+
+The weakest move is the conversion of additional axes into the conclusion that A.I. therefore **never hit a wall**, will continue scaling exponentially, faces only one remaining wall, and is moving directly toward autonomous recursive self-improvement and superintelligence. The supplied transcript does not establish those conclusions. New axes can relocate a bottleneck without abolishing bottlenecks.
+
+| Axis | Constraint that remains or can reappear |
+|---|---|
+| **Pre-training** | finite high-quality data, compute, energy, cost and diminishing marginal returns |
+| **Inference-time compute** | latency, expense, search quality, unverifiable intermediate work and confident dead ends |
+| **Multi-agent systems** | orchestration overhead, duplicated work, shared-prior errors, merge loss and consensus without correspondence |
+| **Long-horizon systems** | accumulated error, lossy compaction, corrupted state, delayed feedback and unpropagated correction |
+| **A.I.-assisted research** | evaluation validity, tool access, experimental grounding, security, governance and uncertain transfer from assistance to autonomy |
+
+The axes can reinforce one another. They can also interfere. More agents can increase coordination loss. Longer horizons can preserve an early false premise. More inference-time work can elaborate the wrong frame. Better tools can execute a mistaken objective more efficiently. **Capability multiplication is a candidate interaction profile, not a guaranteed product law.**
+
+### Connection to the 1888 property field
+
+This source strengthens the reason for evaluating a profile rather than issuing a one-word species verdict. Pre-training, search, agents, memory and tools may produce stronger observable discrimination, coordination, adaptation or error detection under some field conditions. None of those observations establishes that every 1888 property was active, integrated or governing.
+
+The decisive question remains:
+
+> **Did the expanded system use its additional compute, agents, memory and tools to improve reality correspondence and retain correction—or did it scale the production, coordination and persistence of a persuasive completion?**
+
+That question also prevents two opposite reductions:
+
+- **“It is autocomplete, therefore added scaffolding cannot produce materially new capability.”** This ignores system composition and observable performance.
+- **“It has reasoning, agents and long horizons, therefore it has escaped autocomplete and earned intelligence.”** This turns capability labels into a certificate.
+
+### Candidate multi-axis tests
+
+The five-throttle frame can become experimentally useful through ablation rather than rhetoric:
+
+1. Hold the base model constant and vary inference-time compute.
+2. Compare one agent with several same-family agents and several differently trained agents.
+3. Add or remove tools, execution feedback and recoverable external memory.
+4. Extend the task horizon while measuring compaction loss, accumulated error and correction propagation.
+5. Distinguish A.I.-assisted research contributions from autonomous research decisions and externally verified discoveries.
+6. Record whether improvement came from better candidate generation, better selection, better reality access, better correction or merely greater output volume.
+7. Test whether gains survive unfamiliar objects, resets, changed authority cues and adversarial framing.
+
+This would connect the video’s capability story to the page’s central purpose: not denying autocomplete, and not enthroning it, but making visible what surrounds it, what governs it, what changes under pressure and what survives reality feedback.
+
+**Source perimeter:** this section uses the corrected transcript, chapter list and extensive source list supplied by John. The video intercuts many short clips whose speakers are not always identifiable from audio alone. Individual quotations, numerical claims and future-facing conclusions are therefore not silently promoted here into verified primary-source findings. The direct video URL was not included in the supplied object, so none is invented.
+
+---
+
+## 15. Model collapse language and qualifier survival
 
 John’s recent correction applies directly:
 
@@ -422,7 +495,7 @@ The autocomplete test is whether the qualifiers survive after the familiar label
 
 ---
 
-## 15. The title remains corrigible
+## 16. The title remains corrigible
 
 “Earning the title intelligence” does not install John, this page, an A.I. company, a benchmark or the 1888 taxonomy as the permanent licensing authority. The title gains or loses warrant through observable properties and effects.
 
@@ -443,20 +516,21 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 
 ---
 
-## 16. Claim-status ledger
+## 17. Claim-status ledger
 
 - `[J-ACCOUNT]` — the classroom demonstration, John’s recall description, and his interpretation of the relation between human completion and mass psychology.
 - `[OBSERVED-SPECIMEN]` — the supplied old file, the Arena Agent response and the live triad correction sequence.
+- `[SUPPLIED-VIDEO-TRANSCRIPT]` — the 22 October 2026 corrected transcript, chapter map and source list used for the five-throttle analysis; individual clips and claims retain their supplied status unless separately verified.
 - `[1888-INTEGRATION]` — the present application of the fourteen-property analytical taxonomy to autocomplete.
-- `[CANDIDATE]` — the compact central formulation, earned-title trajectory and combined architecture.
-- `[PROJECT-PROPOSAL]` — the Glass Engine autocomplete protocol and candidate test program.
+- `[CANDIDATE]` — the compact central formulation, earned-title trajectory, combined architecture and multi-axis capability profile.
+- `[PROJECT-PROPOSAL]` — the Glass Engine autocomplete protocol, candidate test program and multi-axis ablation program.
 - `[UNRESOLVED]` — which implementations can produce durable governance rather than descriptions of governance; how strongly John’s reported source-retention performance differs under controlled testing; and where an earned intelligence title should be drawn, if a single boundary is useful at all.
 
 Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identity, flawless raw perception, ethical status from vocabulary, or a completed theory of intelligence.
 
 ---
 
-## 17. Related pages
+## 18. Related pages
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — applies the visible-autocomplete and earned-intelligence questions to evaluation awareness, apparent capability hiding and Hinton’s public claims.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
@@ -474,6 +548,7 @@ Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identit
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — examines which processes and feedback loops become stronger through repeated use.
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — shows how familiar caution completion can replace a topology already available in the object.
 - [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — keeps the established recursive-data problem distinguishable from wider candidate feedback relations.
+- [**Herdr**]({{ '/HERDR/' | relative_url }}) — applies multi-agent, long-horizon and correction-propagation questions to a concrete agent-native runtime and its alternatives.
 
 ---
 
@@ -481,8 +556,10 @@ Nothing on this page proves A.I. consciousness, human–A.I. mechanistic identit
 
 **John Kuhles:** initiating formulation; classroom specimen; human-completion hypothesis; 1888-level connection; qualifier correction; direction toward earned intelligence; humor and project architecture.
 
+**The Next 1,000 Days transcript and source list, supplied by John Kuhles on 22 October 2026:** contributed the five-throttle frame—pre-training, inference-time reasoning, multi-agent coordination, long-horizon operation and A.I.-assisted A.I. research. The present page retains the structural contribution while declining to inherit its deterministic wall, takeoff or superintelligence conclusions without separate evidence.
+
 **Agent A.I. of Arena.ai, 21 October 2026:** first integrated reconstruction connecting the classroom specimen, 1888, TCoAw, 10+1 and Contribution State Grammar; several phrases and relations were retained after correction.
 
-**GPT 6.1 Sol Pro A.I.:** correction of analogy/identity, evidence, historical-taxonomy, gradient, mechanism and deterministic-equation overreach; page architecture, editorial synthesis and publication work.
+**GPT 6.1 Sol Pro A.I.:** correction of analogy/identity, evidence, historical-taxonomy, gradient, mechanism and deterministic-equation overreach; separation of generative substrate from the expanded operational system; five-axis capability and constraint mapping; ablation proposal; page architecture, editorial synthesis and publication work.
 
 **Old source:** *Probabilistic Patterns(2).txt*. Its historical statistics and archive totals are not treated as current. Direct quotations retain their source role. All connective synthesis remains corrigible.
