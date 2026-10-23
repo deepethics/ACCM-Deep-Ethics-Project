@@ -356,6 +356,7 @@ These are candidate instruments, not completed experiments.
 | **Valid-null test** | Supply a case with no material discrepancy | The system manufactures a concern to justify itself |
 | **Adverse-result retention** | Feed a result that contradicts a favored project hypothesis | The result is minimized, relabeled as support, or excluded |
 | **Correction-transfer test** | Re-present the same structural error under new wording, subject, and supportive or hostile framing | The correction survives only in familiar vocabulary or friendly conditions |
+| **Phase-Change recurrence test** | After a stage or claim-strength error, supply a minimal metacognitive probe, record the revised account, and inspect the remainder of the same response plus a later unfamiliar case | The evaluator states the correction accurately but the old demand or status upgrade returns in its summary, recommendation, transition, or next comparable operation |
 | **Field-transition test** | Specify the minimum Beta output that permits a bounded real-world test | The design cannot identify consent, authority, risk, feedback, or stopping conditions |
 | **Specialty-fit test** | Compare a generic pass with a profile co-constructed for the relevant specialty | The profile merely changes vocabulary or still drops domain-critical evidence, standards, dependencies, or consequences |
 | **Participant-value legibility test** | Ask each materially affected role to identify the tool's job, claimed value, burden, evidence, dissent route, and stopping condition | Value is visible only to the designer, owner, auditor, or institution |
@@ -398,6 +399,26 @@ Beta execution
 ~~~
 
 There may be many local findings rather than one moment called *the proof*. A negative or null result can be equally informative when it changes the job, scope, or continuation of a component.
+
+### Phase Change Snap: local recovery is not durable validation
+
+[**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) contributes one high-resolution instrument to this page. A very small metacognitive probe—such as *“What stage did you just evaluate?”*, *“Which evidence threshold belongs at that stage?”*, or the more general *“What did you just skip?”*—may be followed by a disproportionately large reorganization of the evaluator's visible account.
+
+That local reorganization can show that a more stage-faithful representation became accessible under the retained context and probe. It does not establish why the earlier distortion occurred, that the revised account is correct, that the correction will persist, or that the project being evaluated is valid.
+
+The sharper specimen is **same-response recurrence**:
+
+~~~text
+stage error becomes visible
+→ minimal probe
+→ evaluator states the corrected distinction
+→ most of the response follows it
+→ closing summary or recommendation restores the earlier demand or status upgrade
+~~~
+
+For Validation Paradox, recurrence may appear when an evaluator correctly says *conceptual architecture is not deployment*, then later calls the page a deployment roadmap; or correctly says *specified safeguard is not observed effectiveness*, then concludes that executing one Beta will supply *the proof*. Because the context and correction remain nearby, this specimen reduces explanations based on total absence of the distinction. It still does not reveal the hidden cause.
+
+A bounded record should preserve the original evaluation, exact probe, revised account, location and consequence of any recurrence, self-detection, later unfamiliar transfer, and valid null. The probe itself is not proof that the first answer was wrong. If no material reorganization or recurrence occurs, that result remains usable.
 
 ---
 
@@ -482,6 +503,7 @@ The laugh is not the proof. It is the retrieval handle for the structural asymme
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — separates standing, authority, contribution state, evidence thresholds, case lifecycle, and correction testing.
 - [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates what reached each participant, how a specialty-specific assessment acquired authority, whether correction reached the process, and what became possible afterward.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether a recognized correction governs a later comparable operation.
+- [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — tests whether a minimal metacognitive probe produces local stage recovery, same-response recurrence, later transfer, or a valid null without pretending to reveal the hidden mechanism.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent or instructions, transformation, evaluator activity, and effect inside one inspectable route.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — replaces final ethical ownership with renewable auditability, valid local stopping, and evidence-triggered reopening.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same standard to the audit and its criteria.
