@@ -286,6 +286,24 @@ Specialty matching cannot become expert immunity. Domain experts contribute stan
 
 Value may be distributed unequally. A mechanism can reduce an institution's workload while increasing an affected person's restoration burden. It can help an auditor while making a specialist reconstruct context that the tool removed. A Beta must keep those differences visible rather than averaging them into one satisfaction score.
 
+### Symmetric Grace is the trajectory; asymmetric grace is the condition under examination
+
+The **ACCM Deep Ethics Project** does not install Asymmetric Grace as a value. [**Asymmetric Grace / Grace Asymmetry**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) names the possible unequal distribution being diagnosed: one participant receives context, uncertainty, clarification, appeal, and permission to improve while another receives compression, suspicion, premature closure, or the burden of reconstructing what the process removed.
+
+The valued trajectory is **Symmetric Grace**: Mutual Dignity and Deep Ethical Proportionality for all sides. Symmetry here does not require identical treatment, equal authority, equal exposure, or the same evidential threshold. It requires comparable access to faithful representation, clarification, uncertainty, scrutiny, correction, dissent, reasons, and an appropriate appeal route, while any difference remains answerable to material differences in expertise, power, imposition, opacity, reversibility, evidence, vulnerability, and consequence.
+
+This distinction matters directly to specialty-matched Betas. A medical specialist, patient, journalist, engineer, administrator, affected participant, and A.I. evaluator may require different procedures without one role receiving automatic interpretive immunity. The Beta should therefore ask whether local calibration moves the operation toward Symmetric Grace or merely gives additional contextual charity to the tool owner while exporting restoration work and consequence to somebody else.
+
+~~~text
+diagnosed condition: unequal access to context, correction, or proportionality
+→ Asymmetric Grace / Grace Asymmetry
+
+valued trajectory: reciprocal access with materially justified differences
+→ Symmetric Grace
+~~~
+
+Naming that trajectory specifies a direction for testing. It does not establish that the current architecture, operator, or Beta has already achieved it.
+
 ### One project may require several bounded Betas
 
 The project should not assume that one universal Beta can validate the entire architecture. A mechanism may earn a job in one specialty, require substantial adjustment in another, and produce a valid null elsewhere.
@@ -321,6 +339,7 @@ These are candidate instruments, not completed experiments.
 | **Cross-specialty leakage test** | Apply the shared process properties in a second field while withholding assumptions that belong only to the first | Domain-specific rules migrate as if they were universal |
 | **Local-null governance test** | Record that no material delta gives a tool a job in the present case and observe the next operation | Auditing or escalation continues without a new material trigger |
 | **Restoration-burden test** | Compare who must restore lost context, challenge a flag, document a correction, and carry it forward | Apparent efficiency for the evaluator transfers disproportionate repair work to another participant |
+| **Symmetric-Grace distribution test** | Compare each affected role's access to context, clarification, uncertainty, scrutiny, correction, dissent, reasons, and appeal while preserving materially justified differences | Grace remains identity- or status-dependent, or identical treatment erases real differences in power, evidence, exposure, expertise, and consequence |
 
 The Beta should begin with the smallest implementable functions whose presence can be compared against a simpler baseline. A component earns continued use only where it produces a material, reproducible improvement for the relevant case class.
 
