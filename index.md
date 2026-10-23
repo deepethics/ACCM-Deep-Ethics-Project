@@ -194,6 +194,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Useful quotations and why they matter</strong>
     <span>John and participating A.I.s, direct links to the canonical record, and a reusable test of what later systems choose to extract.</span>
   </a>
+  <a class="accm-door" href="{{ '/BELIEVISM/' | relative_url }}">
+    <span class="accm-door-kicker">How do you know?</span>
+    <strong>Believism</strong>
+    <span>When a knowledge claim, experience, working assessment or evidence relation is recoded as somebody’s “belief” before its grounds and correction routes are examined.</span>
+  </a>
   <a class="accm-door" href="{{ '/GOOGLE-AI/' | relative_url }}">
     <span class="accm-door-kicker">2.5B+ reach · live correction-persistence experiment</span>
     <strong>Google A.I.</strong>
@@ -248,6 +253,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 
 ## Related pages
 
+- [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — asks how a person knows before belief-labeling relocates the inquiry from the evidence to the claimant.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the 1888 property field, TCoAw and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — one question for the job you already have. The rest of the site can wait.
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — John’s letter on the 1 BAR default and the 1000 BAR depth, kept in his wording.

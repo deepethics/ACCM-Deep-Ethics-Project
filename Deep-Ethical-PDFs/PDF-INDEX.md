@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 145
+**Public pages exported:** 146
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -27,6 +27,7 @@
 | [Arena A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/) | [ARENA-AIS.pdf](ARENA-AIS.pdf) | `arena-ais.md` |
 | [Autocomplete](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AUTOCOMPLETE/) | [AUTOCOMPLETE.pdf](AUTOCOMPLETE.pdf) | `AUTOCOMPLETE.md` |
 | [Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/) | [BEFORE-SUMMARIZING.pdf](BEFORE-SUMMARIZING.pdf) | `before-summarizing.md` |
+| [Believism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BELIEVISM/) | [BELIEVISM.pdf](BELIEVISM.pdf) | `BELIEVISM.md` |
 | [Potential Science Paper Candidate Draft — V03b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) | [Beta-Paper-V03b.pdf](Beta-Paper-V03b.pdf) | `BETA-PAPER-V3B/index.md` |
 | [Potential Science Paper Candidate Draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) | [BETA-PAPER.pdf](BETA-PAPER.pdf) | `potential-science-paper-candidate-draft.md` |
 | [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) | [BIOGRAPHY.pdf](BIOGRAPHY.pdf) | `BIOGRAPHY.md` |

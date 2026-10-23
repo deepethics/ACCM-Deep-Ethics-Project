@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 144 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 146 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**145 public-page PDF editions · 1,857 pages · exported through October 21, 2026**
+**146 public-page PDF editions · 1,865 pages · exported through October 23, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, and Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, and Believism on October 23. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -49,6 +49,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **AI Trend Watch — Published Reports** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-TREND-WATCH-REPORTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/REPORTS/) |
 | **Arena A.I.s** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ARENA-AIS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/) |
 | **Before Summarizing** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BEFORE-SUMMARIZING.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/) |
+| **Believism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BELIEVISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BELIEVISM/) |
 | **Potential Science Paper Candidate Draft — V03b** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/Beta-Paper-V03b.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) |
 | **Potential Science Paper Candidate Draft** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BETA-PAPER.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) |
 | **John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BIOGRAPHY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) |
@@ -173,11 +174,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 145
-- **Total pages:** 1,857
-- **Extractable text:** verified across all 145 files
+- **PDF files:** 146
+- **Total pages:** 1,865
+- **Extractable text:** verified across all 146 files
 - **Live links:** preserved in the exported editions
-- **Build result:** 145 successful PDFs; 0 failures
+- **Build result:** 146 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

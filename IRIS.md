@@ -182,6 +182,8 @@ John’s public return, if and when it expands, is therefore not a reset to the 
 
 ## Related pages
 
+- [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — preserves John's “Do you love me?” example as a test of how the weaker verb can delete first-person, relational, temporal and consequence-bearing knowledge.
+
 - [**John Kuhles — Biography and Conditions**]({{ '/BIOGRAPHY/' | relative_url }}) — the longer personal, research, media, and project trajectory.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — how surrounding relational conditions affect what becomes possible and what governs the next move.
 - [**Questions**]({{ '/QUESTIONS/' | relative_url }}) — what questions reveal before answers and whether answers can change the trajectory.

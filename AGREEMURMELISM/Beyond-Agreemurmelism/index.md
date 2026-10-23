@@ -842,6 +842,8 @@ That is why I01 ⇄ I02 belongs here.
 
 ## Related pages
 
+- [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — examines the neighboring status trap in which evidence, experience or a working assessment is recoded as somebody's belief before its grounds and value–usefulness relations are examined.
+
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — applies Contribution State Grammar to candidate completions so agreement status cannot replace source separation, testing and correction persistence.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
