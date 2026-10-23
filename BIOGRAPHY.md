@@ -511,9 +511,9 @@ I am trying to preserve signals long enough to test them.
 
 That includes early warnings that may later be vindicated, but it must also include warnings that prove wrong, partly right, ambiguous, or impossible to test. A real archive cannot keep only successes. It should show the original claim, how it was framed, who transformed it, what evidence later arrived, what correction occurred, and whether that correction propagated into future behavior.
 
-I am especially interested in what I believe should become a distinct field of research: **vindicated competing-risk assessments that were falsely flagged by other risk assessments, whose categories then entered policy, moderation, media, and authoritative computer models without equivalent deep-ethical accountability.**
+I am especially interested in developing a distinct field of research around a question whose value and usefulness can be tested: **vindicated competing-risk assessments that were falsely flagged by other risk assessments, whose categories then entered policy, moderation, media, and authoritative computer models without equivalent deep-ethical accountability.**
 
-This concern does not mean every outsider warning is correct or every official assessment is false. It means both produce risks and both must remain inspectable.
+Its value is assessed through what it makes more inspectable, comparable, correctable, and discoverable—an orientation developed in [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/). Both independent and official assessments produce risks, and both must remain inspectable.
 
 ## What I ask from readers
 
