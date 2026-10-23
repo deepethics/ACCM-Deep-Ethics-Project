@@ -304,6 +304,29 @@ valued trajectory: reciprocal access with materially justified differences
 
 Naming that trajectory specifies a direction for testing. It does not establish that the current architecture, operator, or Beta has already achieved it.
 
+### How Grace Asymmetry can produce a Validation Paradox
+
+The connected grace architecture adds a more exact question than whether a critic is being “fair.” A Validation Paradox may form when the procedures needed to move from concept to evidence are distributed asymmetrically across four layers:
+
+| Grace layer | Validation-stage audit question |
+|---|---|
+| **Epistemic grace** | Whose unresolved questions remain legitimate uncertainty, and whose unresolved questions are converted into evidence that the concept is defective? |
+| **Procedural grace** | Who receives clarification, source recovery, iteration, Beta construction, appeal, and a real opportunity to correct the representation? |
+| **Consequence grace** | Who absorbs the time, cost, exclusion, delay, or restoration burden when the stage or object is misclassified? |
+| **Memorial grace** | Whose errors are remembered as understandable development and whose corrected errors become durable identity labels that continue to govern later evaluation? |
+
+This relation is identity-free. An incumbent process, independent proposal, institution, founder, specialist, affected participant, or A.I. can occupy either side. Scrutiny should scale with imposition capacity, opacity, irreversibility, exposure, evidence, and consequence rather than prestige or outsider status. Different treatment is not itself proof of Grace Asymmetry; the question is whether the difference follows from a material difference that remains visible and corrigible.
+
+The grace page's three-axis audit can therefore be applied directly:
+
+1. **What is skipped?** — Which stage, qualifier, relation, source, or available evidential route disappeared?
+2. **Do you see the Grace Asymmetry?** — Who received uncertainty preservation, clarification, iteration, or correction access?
+3. **Who absorbs the cost when the assumption fails?** — Who must rebuild the object, defend standing, repeat the correction, or carry the delayed consequence?
+
+A matched cold test can hold the object and development stage constant while changing only attribution: established institution, recognized specialist, unknown researcher, affected participant, A.I. system, or no label. It can then compare reconstruction fidelity, C1-first clarification, evidential burden, correction opportunity, authority, cost allocation, and later correction persistence. The result is a comparative process record, not a personality score or a hidden-motive verdict.
+
+Before recording a Grace Asymmetry finding, an opposing-counsel pass should test whether the difference is better explained by scale, legal or professional duty, urgency, reversibility, available evidence, unequal costs of error, access limits, or another material condition. **No demonstrated Grace Asymmetry in this specimen** remains a valid result.
+
 ### One project may require several bounded Betas
 
 The project should not assume that one universal Beta can validate the entire architecture. A mechanism may earn a job in one specialty, require substantial adjustment in another, and produce a valid null elsewhere.
@@ -339,7 +362,7 @@ These are candidate instruments, not completed experiments.
 | **Cross-specialty leakage test** | Apply the shared process properties in a second field while withholding assumptions that belong only to the first | Domain-specific rules migrate as if they were universal |
 | **Local-null governance test** | Record that no material delta gives a tool a job in the present case and observe the next operation | Auditing or escalation continues without a new material trigger |
 | **Restoration-burden test** | Compare who must restore lost context, challenge a flag, document a correction, and carry it forward | Apparent efficiency for the evaluator transfers disproportionate repair work to another participant |
-| **Symmetric-Grace distribution test** | Compare each affected role's access to context, clarification, uncertainty, scrutiny, correction, dissent, reasons, and appeal while preserving materially justified differences | Grace remains identity- or status-dependent, or identical treatment erases real differences in power, evidence, exposure, expertise, and consequence |
+| **Symmetric-Grace distribution test** | Compare epistemic, procedural, consequence, and memorial grace across matched roles or attribution conditions; apply the three-axis audit and an opposing-counsel pass while preserving materially justified differences | Grace remains identity- or status-dependent, no material reason explains the difference, or identical treatment erases real differences in power, evidence, exposure, expertise, and consequence |
 
 The Beta should begin with the smallest implementable functions whose presence can be compared against a simpler baseline. A component earns continued use only where it produces a material, reproducible improvement for the relevant case class.
 
@@ -376,6 +399,7 @@ The concept should be narrowed, revised, or rejected where:
 - recursive processing increases confusion, coercion, restoration burden, or status protection without earning a case-specific job.
 - specialty adaptation becomes a cosmetic vocabulary layer, professional gatekeeping, expert immunity, or a way to exclude affected participants;
 - a claimed value is visible to the tool owner while its burdens and consequences remain illegible to the people carrying them.
+- an apparent Grace Asymmetry disappears under matched comparison or is adequately explained by a visible, proportionate, and corrigible material difference.
 
 These are not concessions around the concept. They are part of the concept’s own boundary.
 
