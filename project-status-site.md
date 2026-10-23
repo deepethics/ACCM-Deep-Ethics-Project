@@ -16,6 +16,7 @@ permalink: /PROJECT-STATUS/
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — aligns evidence demands with the project's current stage and preserves the transition from conceptual architecture to bounded Beta, field testing, revision, narrowing, or rejection.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — records consequential changes that explain how the current status was reached.
 - [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — defines the stewardship and correction rules that remain active during development.
 - [**Suggested Recursive Improvement Mechanics**]({{ '/RECURSIVE-IMPROVEMENT/' | relative_url }}) — keeps recurring project-management improvements visible beside dated build status.

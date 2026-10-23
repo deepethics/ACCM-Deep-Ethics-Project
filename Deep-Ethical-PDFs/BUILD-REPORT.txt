@@ -2,8 +2,8 @@ ACCM Deep Ethics Project — Public Page PDF Export
 Export date: 2026-10-24
 Successful PDFs: 148
 Failed PDFs: 0
-Total pages: 1906
-Total PDF bytes: 15946672
+Total pages: 1907
+Total PDF bytes: 15952734
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Full-set refresh cadence: weekly.

@@ -493,6 +493,8 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — applies the four grace layers, identity-free invariant, three-axis audit, matched attribution test, opposing-counsel pass, and valid-null result to development-stage evaluation and specialty-matched Betas.
+
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.

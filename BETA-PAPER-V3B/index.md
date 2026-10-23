@@ -2724,6 +2724,8 @@ John Kuhles then supplied a load-bearing correction: the canonical 10+1 is stand
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — separates specified safeguards, executable Beta instruments, controlled execution, comparative results, bounded field evidence, and longitudinal persistence while preserving a real route between them.
+
 - [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }}) — turns quotations into an inspectable transformation object: source, translation, fame, compression, provenance, property extraction, correction, and possible re-entry into human and synthetic information loops.
 - [**Musk Quotes — Seven A.I. Warning and Direction Themes**]({{ '/MUSK-QUOTES/' | relative_url }}) — maps a culturally influential seven-theme field to testable, distributed calibration mechanisms while separating quotation, interpretation, and empirical effect.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — extends V03b's recursion problem into competing emergent trajectories, selection environments, obstruction, mass psychology, and matched falsifiable conditions.
