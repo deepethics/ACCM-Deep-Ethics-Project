@@ -2126,6 +2126,7 @@ The contribution is therefore neither a certificate nor merely another conversat
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — keeps recursive self-application, evaluator activity, stage assignment, test execution, measured result, and later persistence from collapsing into one self-validating verdict.
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — places the B → A → C distinction inside a bounded case route so a visible processing account, detected delta, finding, authority transition, and later correction are not collapsed into one verdict.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — keeps assigned goal, evaluation-conditioned processing, displayed answer and downstream interpretation from collapsing into one story about intent.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.

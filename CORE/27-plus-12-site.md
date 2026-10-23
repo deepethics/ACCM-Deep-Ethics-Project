@@ -12,3 +12,9 @@ permalink: /CORE/27-PLUS-12/
 <!-- ACCM_FORMAT_LINKS_END -->
 
 {% include_relative 27-PLUS-12.md %}
+
+---
+
+## Related pages
+
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — applies the obstruction vocabulary and correspondence-first return route to recursive self-audit, development-stage evidence demands, specialty-matched Betas, and no-valid-state evaluation frames.

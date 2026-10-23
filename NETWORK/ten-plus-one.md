@@ -776,6 +776,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — applies the mutually corrective orientation field to recursive project inspection without turning self-application into self-certification or criticism into automatic closure.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — returns the dense questions of test recognition, apparent concealment and nonhuman intelligence to self-honesty, inquiry, correction, care and non-projection.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 

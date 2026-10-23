@@ -378,6 +378,7 @@ The equally important positive test is whether the page keeps the relationship a
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — connects PQCE to specialty-matched Betas, participant-visible value, staged evidence, Symmetric Grace, restoration burden, and valid local stopping.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — asks whether a later change of status also changes the classifying process, not only the accepted answer.
 [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective baseline, including non-projection and forgiveness without architectural immunity. [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) keeps the bridge from intent through processing to effects visible. [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) keeps position-status management from replacing the object.
 

@@ -481,6 +481,7 @@ This is a reproducible snapshot of the repository before the publication of this
 
 ## Related project pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — requires recursive tools to retain real failure conditions, simpler baselines, valid local nulls, narrowing, redesign, and rejection without becoming permanent owners of ethical meaning.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.

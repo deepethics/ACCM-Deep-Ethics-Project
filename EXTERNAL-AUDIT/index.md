@@ -119,6 +119,7 @@ If that is all an outsider uses, the page has done its job. The project links ab
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — audits whether criticism leaves a real, stage-appropriate route from conceptual architecture through bounded testing to revision, narrowing, or rejection.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — the evaluator’s agreement or disagreement stays inside the audit. It is not above it.
 
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — is the public transformation whose outside audit produced this portable method.
