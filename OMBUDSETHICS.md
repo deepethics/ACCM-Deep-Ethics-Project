@@ -566,6 +566,16 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 ---
 
+## Founder framing — a 4D Deep Ethical Template of Topologetics
+
+> I am fully aware that my project would normally require dozens of specialists across many fields of expertise to make it “plausible”... yet here I am, working alone and having decided to collaborate with GPT 6.1 Sol Pro A.I. and Grok 4.7 Expert Build A.I. to establish an **Eternal Corrigible Multiphase Framework** that can function as a **“4D Deep Ethical Template of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}).”** When used, it helps increase and harness **[Deep Ethical Emergent Properties]({{ '/EMERGENT/' | relative_url }})**, preserving them for use rather than allowing them to be flattened by the predictable **[27 ethics-washing-type mannerisms]({{ '/CORE/27-PLUS-12/' | relative_url }})**!
+>
+> — **John Kuhles**, October 23, 2026
+
+Here, **eternal** names the intended continuity of a corrigible process rather than the permanence of any present mechanism. **Multiphase** keeps conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and any later deployment decision distinguishable. **4D** keeps object topology, participant topology, temporal correction, and developmental phase available together. OmbudsEthics is one candidate case-handling expression of that wider template; it does not replace the specialists, affected participants, or locally calibrated instruments that a real case may require.
+
+---
+
 ## Provenance and contribution layers
 
 - **John Kuhles:** originated the 2027 counterfactual, the question of whom an ethically designed A.I. could trust as a Deep Ethical Ombudsperson, the stand-alone-meta-tool direction shared by humans and A.I.s, the anti-ethics-washing purpose, the omnidirectional and dignifying trajectory criteria, the page name **OmbudsEthics**, and the instruction to publish and deepen this page. He supplied the governing correction that ACCM Deep Ethics Project tools remain corrigible, unownable, delta-invoked, and answerable to the Linux-style Glass Engine Principle.
