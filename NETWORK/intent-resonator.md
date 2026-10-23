@@ -1350,6 +1350,7 @@ That makes intent handling a natural application domain for **[Correction Metabo
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — so one role does not get to be advocate, judge, and final word on intent.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — can show an intent contradiction without a prosecution.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — applies this audit to the switch between calling a system only a tool and calling it intelligence.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the Six Intent Liability Mechanics into a case record that can assign proportionate responsibility without requiring premature motive closure.
 
 ---
 

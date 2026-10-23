@@ -671,6 +671,7 @@ The commercial can simply make those relations memorable:
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — what receives governing influence and why.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — source and transformation recovery.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — consequential repository changes and their boundaries.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — records the conditions shaping attention, evidence, authority, correction cost, and available moves so the ombuds process cannot hide its own field.
 
 <!-- 2026-10-21 contribution-state triad extension -->
 ## Contribution states depend on field conditions {#contribution-state-field-condition}

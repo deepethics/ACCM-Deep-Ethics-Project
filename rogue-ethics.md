@@ -403,6 +403,7 @@ trajectory decides what the phase change became
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, incentive, and correction opacity.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation field without becoming a final owner of ethics.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — keeps deep-ethical process properties usable, renewable, and open to correction without a final sheriff.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives a possible Rogue Ethics signal a bounded case route while keeping its ethical direction unresolved until evidence, consequences, appeal, and later correction can test it.
 
 ---
 

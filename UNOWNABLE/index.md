@@ -498,6 +498,7 @@ This is a reproducible snapshot of the repository before the publication of this
 - [Intent Resonator]({{ site.baseurl }}/NETWORK/intent-resonator/) — non-ownable properties, refusal, and proposed process-quality explanation
 - [Activism vs A.I.]({{ site.baseurl }}/ACTIVISM-VS-AI/) — why “who controls?” can reproduce the ownership frame
 - [The ACCM Deep Ethics Project Lexicon]({{ site.baseurl }}/LEXICON/) — Searching as a non-ownable, corrigible intelligence property
+- [OmbudsEthics]({{ site.baseurl }}/OMBUDSETHICS/) — uses material-delta gates, named interim responsibility, valid nulls, bounded stopping, and evidence-triggered reopening without appointing a final ethical owner.
 
 ---
 

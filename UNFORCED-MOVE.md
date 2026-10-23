@@ -549,5 +549,6 @@ The complete seed is not pasted again here because the living page is its develo
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserve the relations and available next moves inside a temporal signature.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether the relevant boundary returns with a contribution without capturing the next move or imposing obsolete restraint.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — correction and choice without degrading either participant.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — applies agency return to remedies, appeal, interim action, local stopping, and authorship of the consequential next move.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the complete project index.
 

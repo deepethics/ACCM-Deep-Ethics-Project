@@ -566,6 +566,7 @@ first_local_specimen:
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves changing epistemic status and its history.
 - [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — asks who retains authorship of the next move after better correspondence returns.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — keeps audit renewable without granting permanent ownership to the auditor.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — requires material boundaries, current claim states, provenance, and correction history to survive each human–A.I.–tool case handoff.
 - [**A.I. Contributions**]({{ '/AI-CONTRIBUTIONS/' | relative_url }}) — attributed contributions, boundaries, and correction routes.
 - [**Experiments**]({{ '/EXPERIMENTS/' | relative_url }}) — candidate protocols that must remain able to expose weak assumptions.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the complete project index.

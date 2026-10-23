@@ -2370,6 +2370,7 @@ And the shortest safe boundary currently available is:
 - [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates the full object-to-consequence-and-correction relation.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction changes what happens next.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — keeps audit renewable without appointing a final ethical owner.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — turns topology preservation into a case requirement across source freezing, competing maps, findings, remedies, appeal, and later correction.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — preserves source and transformation history.
 - [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — browse the wider ACCM Deep Ethics Project.
 
