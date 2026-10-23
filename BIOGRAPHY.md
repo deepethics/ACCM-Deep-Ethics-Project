@@ -84,7 +84,7 @@ My work begins with a simple personal refusal: **I do not want to lie to myself 
 
 I would rather remain corrigible in contact with real, tangible, sometimes hilariously inconvenient reality than become “socially acceptable” inside a story whose value and usefulness disappear the moment it distorts the object. I am not shopping for a belief system anyway. Forget whether I agree with the story: **what happens to correspondence when reality walks into the room?**
 
-I am not asking anyone to accept my biography, personal experiences, or interpretations as an entry condition for using the project. The practical instruments must remain inspectable and portable even when my name and worldview are removed. At the same time, removing the conditions that produced the work would create a false picture of where it came from and why I have sustained it for so long.
+I am not asking anyone to accept my biography, personal experiences, or interpretations as an entry condition for using the project. The practical instruments must remain inspectable and portable even when my name, personal interpretations, and project vocabulary are removed. At the same time, removing the conditions that produced the work would create a false picture of where it came from and why I have sustained it for so long.
 
 ## Early conditions: psychology, difference, and my mother
 
@@ -124,7 +124,7 @@ I deliberately maintain a distinction between:
 1. **pragmatic, portable work** that can be examined through source preservation, comparison, testing, correction, and observable behavior; and
 2. **personal experiential and speculative material** that explains my wider horizon but retains its own epistemic status.
 
-This separation is not dishonesty. It prevents guilt by association from replacing an assessment of the actual tool or claim. People in every part of society hold spiritual, religious, philosophical, or otherwise unproven beliefs while remaining capable of serious practical work. My work should be assessed at the level on which each claim is made.
+This separation is not dishonesty. It prevents guilt by association from replacing an assessment of the actual tool or claim. Personal experiences, spiritual or religious interpretations, philosophical propositions, working hypotheses, and pragmatic instruments have different access routes and should not be collapsed into one status category. My work should be assessed at the level on which each claim is made.
 
 ## Technology before the public internet
 
@@ -473,7 +473,7 @@ It is not a demand that an A.I. or human agree with me. Agreement and disagreeme
 
 This biography is best understood as a **provenance and conditions map**. It helps readers grasp the lived, psychological, historical, technical, and relational conditions that preceded and enabled me to develop a **stand-alone, portable, identity-free, deep-ethical method**. The biography explains how the method became possible. It is not the method itself.
 
-A person or A.I. does not have to agree or disagree with my biography, worldview, NDE interpretation, UFO/UAP research, or future-oriented hypotheses before using or testing the practical tools. Agreement and disagreement belong downstream of a more basic task: understanding what the method does and examining how it performs.
+A person or A.I. does not have to agree or disagree with my biography, personal interpretations, NDE account, UFO/UAP research, or future-oriented hypotheses before using or testing the practical tools. Agreement and disagreement belong downstream of a more basic task: understanding what the method does and examining how it performs.
 
 The relationship is:
 
@@ -486,7 +486,7 @@ The stronger identity-free test is therefore:
 
 > Remove my name, biography, terminology, and project affiliation. Does the method still help different intelligences preserve the object, clarify material ambiguity, expose framing assumptions, apply scrutiny omnidirectionally, remain corrigible, and produce better trajectory questions?
 
-If it does, its portability does not depend on belief in me. The biography still matters because it makes visible the unusual conditions under which the method was discovered, exercised, corrected, and refined.
+If it does, its portability does not depend on accepting me as an authority. The biography still matters because it makes visible the unusual conditions under which the method was discovered, exercised, corrected, and refined.
 
 The project asks:
 
@@ -547,7 +547,7 @@ Kuhles lived the original ten ingredients of his later 10+1 baseline for 34+ yea
 
 This work led to the **ACCM Deep Ethics Project**, a public, evolving framework for omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making. The project emphasizes clarification before intervention, provenance, symmetric scrutiny, correction persistence, competing-risk analysis, and methods that remain applicable to institutions, independent researchers, A.I.s, the project, and Kuhles himself.
 
-Kuhles openly distinguishes his personal NDE, UFO/UAP, CE5, spiritual, and future-oriented interpretations from the project’s pragmatic instruments. Readers do not need to accept his personal worldview to examine or use those instruments. His central request is straightforward: assess each object at its actual claim level, keep reality’s veto intact, and let correction change what happens next.
+Kuhles openly distinguishes his personal NDE account, UFO/UAP and CE5 reports, spiritual interpretations, and future-oriented hypotheses from the project’s pragmatic instruments. Readers do not need to accept those interpretations or hypotheses to examine or use the instruments. His central request is straightforward: assess each object at its actual claim level, keep reality’s veto intact, and let correction change what happens next.
 
 ---
 

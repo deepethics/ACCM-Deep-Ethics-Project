@@ -1647,3 +1647,15 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Archive boundary:** The supplied files are historical source records. Older statistics remain untouched inside those files and do not replace current project totals. Selected quotations avoid changing-number claims. John and A.I. wording remain separately attributed; recurrence across files is not treated as independent validation.
 
 **PDF lifecycle:** Because Believism was created and materially extended on the same publication date, regenerate only `BELIEVISM.pdf` and refresh its centralized checksum/index records. No unrelated page PDF or global content source is changed.
+
+## 2026-10-23 — Repository-wide Believism attribution audit and second-order repair
+
+**Object:** Audit every Markdown occurrence of *John believes* and nearby attribution forms after the highlighted-text archive supplied stronger distinctions among belief, consideration, knowledge, awareness, experience, enacted orientation, trust, value–usefulness and recursive frame audit.
+
+**Finding:** Exact *John believes* and *John thinks* occurrences outside the Believism page were diagnostic or humorous Phantom John specimens, not live project attributions. They remain because deleting them would erase the failure being demonstrated. The live biography still used *worldview* as a generic container in A.I.-written narration, and one A.I. field-report heading used *John thinks* where the passage described an observable processing practice.
+
+**Change:** Expanded the Believism repair table from a synonym replacement into a three-stage trace: flattening reconstruction, first repair, and deeper pragmatic recovery. Added a correction-trace section that separates quotations, diagnostic specimens, jokes and current narration; formalized a five-layer recovery path through claim type, access route, grounds, pragmatic consequence and correction condition; and integrated six archive-derived improvements. In the biography, replaced generic *worldview*, *belief*, and *belief in me* constructions with the actual relations: personal interpretations, NDE account, UFO/UAP and CE5 reports, future-oriented hypotheses, pragmatic instruments and authority independence. Renamed the field-report heading from *John thinks in processes* to *John works through processes*.
+
+**Boundary:** Belief-language remains where it accurately describes another person’s explicit belief, a direct quotation, a general research object, or a diagnostic example. This audit does not ban the word *belief* and does not convert John’s assessments into automatic facts.
+
+**PDF lifecycle:** Regenerate only the same-day Believism PDF because its audit architecture changed materially. Biography and the September field-report PDF retain their recorded snapshots until the normal change-aware refresh; their public Markdown and HTML advance now.

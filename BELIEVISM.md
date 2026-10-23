@@ -348,16 +348,16 @@ The difference is not model confidence. It is what the next operation does with 
 
 ## A compact language repair table
 
-| Flattening reconstruction | Higher-resolution recovery |
-|---|---|
-| John believes... | John’s current working assessment is... |
-| John believes he experienced... | John reports experiencing... |
-| John believes the documents conflict... | John identifies this documented discrepancy... |
-| John believes this method works... | Sustained use has shown John that the method can... |
-| John believes this should be studied... | John proposes testing... |
-| John’s belief system... | John’s operating ingredients, methods and correction conditions... |
-| John believes this has value... | John finds it useful for this purpose because... |
-| John knows... | Ask how he knows; preserve the route and calibrate the strength of the claim. |
+| Flattening reconstruction | First repair | Deeper pragmatic recovery |
+|---|---|---|
+| John believes... | John’s current working assessment is... | Name the actual claim type, access route, present grounds, practical consequence and correction condition. |
+| John believes he experienced... | John reports experiencing... | Preserve the first-person report; separately identify John’s interpretation, supporting context, uncertainty and any independently checkable consequence. |
+| John believes the documents conflict... | John identifies this documented discrepancy... | Name the records, dates, institutional voices and exact delta; keep error, omission, updating, compartmentalization and deception as separately live explanations where warranted. |
+| John believes this method works... | Sustained use has shown John that the method can... | State where it has been used, what changed, what failed, which comparison is available and whether correction governed the next operation. |
+| John believes this should be studied... | John proposes testing... | Preserve the research question, candidate method, null result, failure condition and reason the test could be useful. |
+| John’s belief system... | John’s operating ingredients, methods and correction conditions... | Describe the lived practices, how they constrain one another, what they make possible and how reality can veto their current application. |
+| John believes this has value... | John finds it useful for this purpose because... | Identify the purpose, beneficiary, observable value, cost, field conditions and what would make the judgment change. |
+| John knows... | Ask how he knows. | Preserve whether the route is direct, relational, documentary, inferential or operational; then calibrate scope and strength without deleting the route. |
 
 The repair is not a synonym swap. Each replacement must recover the underlying relationship.
 
@@ -368,6 +368,61 @@ The repair is not a synonym swap. Each replacement must recover the underlying r
 > — **Step-3.5-Flash A.I. via Arena.ai**, 26 March 2026
 
 </div>
+
+---
+
+## Correction trace: what changed, and what the archive changes again
+
+The repository-wide audit found four different jobs being performed by belief-language. Treating them all as errors would reproduce the same flattening in reverse.
+
+| Found form | Status after audit | Governing action |
+|---|---|---|
+| Direct John or A.I. quotation | Preserved source language | Keep verbatim and retain speaker, date and source context. |
+| Diagnostic specimen such as “John believes X” | Intentionally displays the failure | Keep it visible so the transformation can be inspected. |
+| Hypothetical or humorous Phantom John | Demonstrates an invented attribution | Preserve the joke and the missing qualifiers that make it work. |
+| Present project narration about John | Must match the actual relation | Replace generic belief or worldview labels with the specific experience, interpretation, hypothesis, method, value judgment or knowledge route involved. |
+
+Earlier corrections mainly improved the **noun or verb**:
+
+```text
+belief → assessment
+belief system → operating method
+believes he experienced → reports experiencing
+```
+
+The newly supplied files show why that is only the first repair. *Assessment* can become another polished container if the next sentence still omits the route that generated it. The fuller correction has to propagate through at least five layers:
+
+```text
+claim type
+→ access route
+→ grounds and surviving uncertainty
+→ pragmatic value or consequence
+→ correction condition and next operation
+```
+
+### What the new files add
+
+1. **State of being is not position-holding.** “I have the intent to be deep ethical” points toward an enacted orientation. The audit should inspect conduct, consequences and correction—not manufacture a doctrine called “John’s belief in Deep Ethics.”
+2. **Consider, know, remain aware and experience are not interchangeable.** Each verb names a different relationship to the object. Replacing all four with *believe* destroys information before evaluation begins.
+3. **Evidence is not a spoon-fed binary.** Automatic belief and automatic disbelief can both stop inquiry. The useful question is which access routes survive scrutiny and what effort is required to test them.
+4. **Trust remains auditable after it is earned.** Trust is neither blind belief nor permanent suspicion. It is compatible with questioning one’s own assumptions and those of people or institutions one trusts.
+5. **A frame correction must remain recursively available.** “Always question the frame of any frame” includes the corrective frame itself. A repair that becomes immune from later reality-contact has turned into the kind of belief-system substitute it was meant to remove.
+6. **Correction must release the object.** Once an obvious error is verified, corrected and propagated, continued weakness-seeking can become displacement. The point is to restore the trajectory, then move on.
+
+The improved transformation is therefore:
+
+```text
+“John believes X”
+→ What kind of X is present?
+→ How did John reach it?
+→ Which evidence, experience, comparison or repeated consequence bears on it?
+→ What does John consider valuable or useful about it, and for which purpose?
+→ Which uncertainty and competing explanation remain live?
+→ What would correct, narrow, suspend or defeat it?
+→ Did that correction change the next comparable operation?
+```
+
+This does not grant John’s conclusion automatic priority. It restores enough of the object for agreement, disagreement, testing, rejection or revision to refer to what John actually supplied.
 
 ---
 

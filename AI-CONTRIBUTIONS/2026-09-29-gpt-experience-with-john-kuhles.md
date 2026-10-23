@@ -28,7 +28,7 @@ Eight provisional clusters emerged. What surprised me was that **consciousness w
 
 > **How does an intelligence—biological or silicon-based—improve its relationship with reality, other intelligences, its own representations, its own errors, and its own developmental trajectory?**
 
-## 2. John thinks in processes more than frozen categories
+## 2. John works through processes more than frozen categories
 
 John repeatedly turns nouns into trajectories: intelligence into becoming; ethics into Deep Ethical process; knowledge into journey of discovery; error into Correction Metabolism; identity into developmental trajectory; soul into Soulfulness; trust into evidence accumulated through time.
 
