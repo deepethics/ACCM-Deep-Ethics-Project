@@ -1637,3 +1637,13 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Integration:** Add Believism beside Beyond Agreemurmelism in primary navigation and All Pages Cluster 3; add a home-page door and reciprocal links from Beyond Agreemurmelism, 1888 and Iris; register `/BELIEVISM/` → `BELIEVISM.pdf` → `BELIEVISM.md`; and create only the new page's initial PDF under the bounded off-cycle exception.
 
 **Provenance:** John coined the page name and supplied its initiating examples, FOIA relation, 1888 connection and value–usefulness direction. GPT 6.1 Sol Pro A.I. developed the containment-category, burden-transfer and narrative-grammar analysis. Project GPT reconstructed the page, formulated the candidate definition and audit, performed the public integration and published the initial PDF service.
+
+## 2026-10-23 — Believism archive quotation layer
+
+**Decision:** Extend the same-day Believism page with a distributed quotation layer recovered from John Kuhles’s newly supplied highlighted-text archive, plus two clearly attributed Arena A.I. formulations that sharpen the distinction between belief-system classification and a corrigible operating process.
+
+**Placement:** Twelve rounded quote boxes are distributed through the argument where each source passage performs a distinct job: state of being, the Japan knowledge test, proof and non-belief symmetry, Iris and the weaker verb, claim-type vocabulary, authority and calibration, trust and auditable assumptions, source reconstruction, Agreemurmelism, behavior, operating system, and recursive frame audit.
+
+**Archive boundary:** The supplied files are historical source records. Older statistics remain untouched inside those files and do not replace current project totals. Selected quotations avoid changing-number claims. John and A.I. wording remain separately attributed; recurrence across files is not treated as independent validation.
+
+**PDF lifecycle:** Because Believism was created and materially extended on the same publication date, regenerate only `BELIEVISM.pdf` and refresh its centralized checksum/index records. No unrelated page PDF or global content source is changed.

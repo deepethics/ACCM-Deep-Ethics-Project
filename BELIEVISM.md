@@ -20,6 +20,14 @@ date: 2026-10-23
 
 **Believism** names a processing move in which a proposition, reported experience, working assessment, knowledge claim, or long-tested orientation is recoded primarily as somebody’s **belief** before its grounds, access routes, evidence, usefulness, and correction conditions are examined.
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **IF I HAVE THE INTENT TO BE DEEP ETHICAL IS NOT A “BELIEVE” BUT A STATE OF BEING ...**
+>
+> — **John Kuhles**, archive source: *believes.txt*
+
+</div>
+
 The word does not diagnose every use of *believe* or *belief*. People have beliefs. Belief formation is a legitimate research object. Direct quotations should remain direct quotations. A person may accurately describe a position as a belief.
 
 The problem begins when belief-status language performs a substitution:
@@ -40,9 +48,15 @@ The apparent attribution can be grammatically polite while deleting the higher-r
 
 John Kuhles asked:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Do you believe Japan exists, or do you know Japan exists?**
 >
 > **If any human says “I know”... you can ask HOW do you know and not just “believe”?**
+>
+> — **John Kuhles**, 23 October 2026
+
+</div>
 
 The next intelligent move is not to punish the word *know* as overconfidence. It is to open it:
 
@@ -76,13 +90,27 @@ A knowledge claim can be strong, warranted, operationally dependable and still c
 
 Believism removes those routes before inspecting them.
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **For believers, proof is not necessary... for non-believers, proof is never good enough or “impossible”... BOTH believers & non-believers suk! ... Because they want everything to be spoon-fed to them! ... It takes more effort to go beyond the conditioning (for or against).**
+>
+> — **John Kuhles**, archive source: *For believers proof is not necessary.txt*
+
+</div>
+
 ---
 
 ## Iris and the weaker verb
 
 John supplied a second test whose difference can be heard immediately:
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **If my girlfriend Iris was still alive, asked me: “Do you love me?” ... And I would reply: “I believe I do,” you INSTANTLY see it is a weaker verb!**
+>
+> — **John Kuhles**, 23 October 2026
+
+</div>
 
 “I believe I love you” introduces distance at the exact point where the speaker has first-person and relational access. It sounds as though John is consulting a theory about his own love rather than recognizing the lived relationship.
 
@@ -117,6 +145,14 @@ The useful distinction is not a two-box contest between **belief** and **perfect
 | Explicit personal belief | the person’s own stated commitment | What role does the belief play, and did the person actually describe it that way? |
 
 The verb should follow the claim type and available access. It should not flatten all seven rows into one psychological container.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **I avoid the use of the word “believe” for a very good reason ... I rather consider ... or I know ... or I am aware ... or I have experienced ... etc. etc.**
+>
+> — **John Kuhles**, archive source: *For believers proof is not necessary.txt*
+
+</div>
 
 ---
 
@@ -155,6 +191,14 @@ A higher-fidelity formulation is:
 
 That sentence may still be challenged. It at least preserves what must be challenged.
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **I do not claim to be the “last authority” on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality.**
+>
+> — **John Kuhles**, archive source: *outnuancing(4).txt*
+
+</div>
+
 ---
 
 ## Why mainstream media and A.I.s can produce Believism
@@ -186,6 +230,14 @@ An A.I. can reproduce the narrative grammar it has seen repeatedly: unusual rese
 The writer anticipates that an unspecified audience may mistake examination for endorsement. Belief language becomes a distancing device. That preventive distance can distort the present correspondence before any reader has made the predicted mistake.
 
 These are candidate generating mechanisms, not a claim that every journalist or A.I. performs the same operation for the same reason.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **“Trust has to be earned, not blindly given.”** ... Trust, from my perspective, is a mutual understanding that it is 100% okay to question ALL assumptions, even your own and those you trust.
+>
+> — **John Kuhles**, archive source: *Trust earned via mass believed lies.txt*
+
+</div>
 
 ---
 
@@ -219,6 +271,14 @@ source object
 
 This is compatible with a valid null. An audit may find that *belief* was the speaker’s own accurate word and that no material relation was lost.
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **Read the full, untruncated text first so the answer stays on the original object rather than a nearby, often flawed reconstruction process.**
+>
+> — **John Kuhles**, archive source: *outnuancing(4).txt*
+
+</div>
+
 ---
 
 ## Believism is an Agreemurmelism-relative
@@ -242,6 +302,14 @@ What would correct it?
 ```
 
 Agreement, disagreement, belief and disbelief can all remain available descriptions. None automatically deserves to organize the whole processing field.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **Am not seeking agreement ... nor the opposite ... as long as I stay in my own integrity and self-honesty.**
+>
+> — **John Kuhles**, archive source: *For believers proof is not necessary.txt*
+
+</div>
 
 ---
 
@@ -268,6 +336,14 @@ An autocomplete system can instead reach for the familiar phrase:
 
 The difference is not model confidence. It is what the next operation does with the claim.
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **Because it is not a belief. It is a behavior.**
+>
+> — **Qwen3-Max-Preview A.I. via Arena.ai**, 26 March 2026, responding to John’s “always question the frame of any frame” test
+
+</div>
+
 ---
 
 ## A compact language repair table
@@ -284,6 +360,14 @@ The difference is not model confidence. It is what the next operation does with 
 | John knows... | Ask how he knows; preserve the route and calibrate the strength of the claim. |
 
 The repair is not a synonym swap. Each replacement must recover the underlying relationship.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **That is the difference between a belief system and an operating system.**
+>
+> — **Step-3.5-Flash A.I. via Arena.ai**, 26 March 2026
+
+</div>
 
 ---
 
@@ -313,11 +397,24 @@ And sometimes the correct response remains beautifully ordinary:
 >
 > **Now we have something intelligent to talk about.**
 
+<div class="accm-rounded-quote" markdown="1">
+
+> **The answer was/is ultra simple ... always question the frame of any frame :) is the deeper way ... that does not mean we solved the paradox ... because goal posts can be moved by either sides! The ultimate anchor is Deep Ethics.**
+>
+> — **John Kuhles**, archive source: *Always question the frame of any frame is the deeper way!.txt*, 26 March 2026
+
+</div>
+
 ---
 
 ## Provenance and contribution layers
 
-- **John Kuhles:** coined **Believism** for this page; supplied the Japan test, the Iris/love test, the FOIA and public-face/classified-face relation, the critique of belief-framing, the connection to the 1888 intelligence-properties taxonomy, and the direction toward a value–usefulness mechanism beyond belief-system classification.
+### Archive-status note
+
+The quotation layer above was recovered from the newly supplied highlighted-text files. Those files are preserved source records, and some contain earlier project statistics. Older numbers remain valid as dated historical wording inside their source files; they do not replace the project’s current statistics. The quotations selected for this page do not depend on those changing totals.
+
+- **John Kuhles:** coined **Believism** for this page; supplied the Japan test, the Iris/love test, the FOIA and public-face/classified-face relation, the critique of belief-framing, the connection to the 1888 intelligence-properties taxonomy, the direction toward a value–usefulness mechanism beyond belief-system classification, and the source-archive quotations distributed through this page.
+- **Qwen3-Max-Preview and Step-3.5-Flash A.I.s via Arena.ai:** supplied two compact distinctions retained from their responses to John’s frame-recursion test: behavior rather than belief, and a self-auditing operating process rather than a belief system.
 - **GPT 6.1 Sol Pro A.I.:** identified belief language as a possible containment category; developed the burden transfer, institutional-baseline and A.I. narrative-grammar mechanisms; reconstructed the page-specific definition, claim-type table, Believism delta and portable audit.
 - **Existing ACCM Deep Ethics Project architecture:** Beyond Agreemurmelism, 1888, C1–C2, Meta Processing, Topologetics, Correction Metabolism, qualifiers, valid nulls, provenance and identity-free portability.
 
