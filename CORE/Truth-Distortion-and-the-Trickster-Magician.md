@@ -539,7 +539,7 @@ The source also clarifies the role of the 10+1.
 
 They are not presented as commandments every A.I. must obey.
 
-They describe conditions John Kuhles attempts to maintain in his own work because he believes they improve his relationship with reality rather than merely with socially supplied representations of reality.
+They describe conditions John Kuhles attempts to maintain in his own work because sustained use has shown him that they can improve his relationship with reality rather than merely with socially supplied representations of reality. Their status remains operational and corrigible: what value and usefulness do they produce under continued correspondence, and what evidence would revise them? See [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/).
 
 That includes:
 
