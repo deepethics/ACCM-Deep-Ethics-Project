@@ -497,6 +497,7 @@ helpful
 
 ## Related pages
 
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives human, A.I., and stand-alone meta-tool participants a shared route for raising, preserving, testing, appealing, and revisiting consequential ethical discrepancies.
 - [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }}) — technical interpretability and the governance layers it cannot settle alone.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — temporary relational conditions affecting what capability can express and correct.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — psychological inheritance, relational effects and population-scale feedback.

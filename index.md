@@ -199,6 +199,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>Believism</strong>
     <span>When a knowledge claim, experience, working assessment or evidence relation is recoded as somebody’s “belief” before its grounds and correction routes are examined.</span>
   </a>
+  <a class="accm-door" href="{{ '/OMBUDSETHICS/' | relative_url }}">
+    <span class="accm-door-kicker">Human + A.I. + shared meta-tools</span>
+    <strong>OmbudsEthics</strong>
+    <span>A proposed Deep Ethical Ombudsperson layer with object preservation, reciprocal inspection, appeal, valid nulls, and correction-metabolism tests.</span>
+  </a>
   <a class="accm-door" href="{{ '/GOOGLE-AI/' | relative_url }}">
     <span class="accm-door-kicker">2.5B+ reach · live correction-persistence experiment</span>
     <strong>Google A.I.</strong>

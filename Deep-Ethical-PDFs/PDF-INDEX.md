@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 146
+**Public pages exported:** 147
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -128,6 +128,7 @@
 | [Sense of Wonderment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) | [NETWORK-wonderment.pdf](NETWORK-wonderment.pdf) | `NETWORK/wonderment.md` |
 | [Neural Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEURAL-ETHICS/) | [NEURAL-ETHICS.pdf](NEURAL-ETHICS.pdf) | `NEURAL-ETHICS.md` |
 | [Number 42 — The Answer, the Missing Question, and Giving Meaning to Life](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NUMBER-42/) | [NUMBER-42.pdf](NUMBER-42.pdf) | `NUMBER-42/index.md` |
+| [OmbudsEthics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/) | [OMBUDSETHICS.pdf](OMBUDSETHICS.pdf) | `OMBUDSETHICS.md` |
 | [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) | [PAGES.pdf](PAGES.pdf) | `pages.md` |
 | [Phase Change Snap](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PHASE-CHANGE-SNAP/) | [Phase-Change-Snap.pdf](Phase-Change-Snap.pdf) | `PHASE-CHANGE-SNAP/index.md` |
 | [Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) | [POSITIVE-POTENTIAL.pdf](POSITIVE-POTENTIAL.pdf) | `POSITIVE-POTENTIAL/index.md` |

@@ -16,6 +16,7 @@ permalink: /GOVERNANCE/
 
 ## Related pages
 
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — proposes a shared human–A.I.–meta-tool ombudsperson layer with bounded authority, appeal, recusal, minority records, and reality-veto conditions.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — maps anti-complacency into identity, permissions, audit trails, secure transactions, accountability, safety research and corrigible institutional controls.
 - [**Veto Paradox Solved**]({{ '/VETO-PARADOX/' | relative_url }}) — explains the construction-phase source-integrity veto and its intended handoff.
 - [**Contributing**]({{ '/CONTRIBUTING/' | relative_url }}) — translates the governance principles into practical guidance for proposals and corrections.

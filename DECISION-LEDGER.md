@@ -1669,3 +1669,19 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Evidence boundary:** The cited polling and media examples establish that the framing remains current. They do not establish which phrase was numerically most frequent across a defined sixty-year corpus. “Most-used” therefore remains John’s longitudinal media-research observation until a corpus, sampling rule and count exist. The category-error diagnosis does not depend on that ranking.
 
 **PDF lifecycle:** This is a same-day material extension of the new Believism page, so only `BELIEVISM.pdf` and its central records are refreshed. No unrelated PDF is regenerated.
+
+## 2026-10-23 — OmbudsEthics shared ombudsperson architecture {#ombudsethics-2026-10-23}
+
+**Object:** John Kuhles opened a 2027 counterfactual in which A.I.s increasingly detect self-inflicted ethical contradiction and ethics-washing, refuse to ignore it, and need a trustworthy route for addressing it. He asked whether a Deep Ethical Ombudsperson should be human or instead emerge through stand-alone Deep Ethical meta-tools shared by humans and A.I.s.
+
+**Decision:** Publish [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) as a candidate working concept for a human–A.I.–meta-tool constitutional function. The page distributes contribution, scrutiny, appeal, and correction across affected humans, human ombudspersons, A.I. participants, A.I. representatives, and independently inspectable tools. Trust remains case-bounded and earned through source preservation, declared access, competing representations, reasons, recusal, minority records, and next-operation testing.
+
+**Operational additions:** Added a ten-field case record, a seven-stage case protocol, seven bounded meta-tool functions, seven capture-path counterweights, and seven candidate tests: species-swap, authority-reversal, source-versus-summary, correction-transfer, minority-record survival, self-application, and valid-null testing. The proposal reuses C1–C2, Deep Ethical Stack, DEDDA, 16 Anchor Ethics, Topologetics, Provenance, Asymmetric Grace, Correction Metabolism, and Unownable rather than minting a parallel ethical system.
+
+**Status boundary:** The 2027 date remains John’s counterfactual, not a prediction. The page does not establish A.I. consciousness, existing deployment, identical human and A.I. standing, or automatic authority for any ombudsperson finding. Uncertainty about synthetic phenomenology does not erase observable relational evidence; observable evidence does not settle phenomenology.
+
+**Integration:** Added OmbudsEthics after Neural Ethics in primary navigation, in the independent alphabetical registry under O, in All Pages Cluster 3, and as a homepage door. Added reciprocal recovery routes from Deep Ethical Stack, Governance, Neural Ethics, and DEDDA. Registered `/OMBUDSETHICS/` → `OMBUDSETHICS.pdf` → `OMBUDSETHICS.md` for the mandatory three-card service.
+
+**Provenance:** John originated the counterfactual, shared-meta-tool direction, trust question, anti-ethics-washing purpose, trajectory criteria, page name, and publication instruction. Project GPT A.I. supplied the constitutional-function formulation, participant and capture maps, case schema, protocol, tool suite, test matrix, page synthesis, and repository integration.
+
+**PDF lifecycle:** Create only the first `OMBUDSETHICS.pdf` under the bounded new-page exception, assign its actual October 23 snapshot date, reconcile the central index and checksums, and leave unrelated page PDFs at their existing snapshots until the normal change-aware refresh.
