@@ -539,6 +539,7 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — uses Black Box as the inverse condition for a corrigible, unownable Glass Engine case route whose material inputs, transformations, authority, corrections, and stopping conditions remain recoverable.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — connects neural interpretability with functional psychology, ethical criteria, relational effects and correction.

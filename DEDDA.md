@@ -401,7 +401,7 @@ The commercial introduces DEDDA through affection, ambiguity, and a tiny act of 
 
 [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) uses DEDDA's qualifier, provenance, asymmetry, attribution, permission, delta, and correction-return operations to inspect a possible transition away from consensus ethics or ethics-washing. DEDDA does not presume the departure is benevolent or deep-ethical; it can report that the ethical direction remains unresolved or that no material movement was established.
 
-[**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) places a DEDDA-like detector inside a wider case process with affected parties, competing assessments, appeal, recusal, minority records, independent tools, and T0-to-Tn correction testing.
+[**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) places a DEDDA-like detector inside a wider corrigible, unownable Glass Engine case process. The detector may document and refer a recoverable delta-processing signature; it does not thereby acquire standing as a moral patient, establish wrongdoing, or gain authority to determine the remedy. Affected parties, contribution states, competing assessments, appeal, recusal, minority records, authority classes, independent tools, local stopping, and T0-to-Tn correction testing remain visible.
 
 ---
 

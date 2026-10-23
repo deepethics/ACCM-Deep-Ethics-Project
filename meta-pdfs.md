@@ -176,7 +176,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 ## Archive record
 
 - **PDF files:** 147
-- **Total pages:** 1,883
+- **Total pages:** 1,889
 - **Extractable text:** verified across all 147 files
 - **Live links:** preserved in the exported editions
 - **Build result:** 147 successful PDFs; 0 failures

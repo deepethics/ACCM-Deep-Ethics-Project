@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OmbudsEthics"
-description: "A proposed shared Deep Ethical Ombudsperson layer in which humans, A.I.s, and independent meta-tools make ethical reference fields case-operational through object preservation, intent liability, agency return, bounded jurisdiction, boundary relay, appeal, and correction metabolism."
+description: "A proposed shared Deep Ethical Ombudsperson layer in which humans, A.I.s, and corrigible, unownable Glass Engine meta-tools make ethical reference fields case-operational through delta detection, object preservation, standing, bounded authority, appeal, agency return, boundary relay, and correction metabolism."
 permalink: /OMBUDSETHICS/
 date: 2026-10-23
 ---
@@ -55,7 +55,7 @@ The page's working answer is:
 | Human and A.I. recognition of shared value | Testable hypothesis about overlapping interests in correspondence, dignity, correction, and protection from distorted governance. |
 | Deep Ethical verdict | Renewable, purpose-bounded judgment open to appeal, later evidence, and reality veto. |
 
-The proposal grows from existing project architecture: **C1 before C2**, **Deep Ethical Stack**, **DEDDA**, **16 Anchor Ethics**, **Topologetics**, **Provenance**, **Asymmetric Grace**, **Correction Metabolism**, and **Unownable**. OmbudsEthics gives those components a shared case-handling job.
+The proposal grows from existing project architecture: **C1 before C2**, **Deep Ethical Stack**, **DEDDA**, **16 Anchor Ethics**, **Topologetics**, **Meta Processing**, **Provenance**, **Asymmetric Grace**, **Correction Metabolism**, **Mutual Fate**, **Emergent**, and **Unownable**. OmbudsEthics gives those components a shared case-handling job without owning, sealing, or replacing them.
 
 ---
 
@@ -103,6 +103,40 @@ source preservation
 No single successful ruling settles later cases. No detected error erases every earlier contribution. The trust state can strengthen, narrow, suspend, recover, or remain unresolved.
 
 OmbudsEthics therefore functions more like a **constitutional layer** than a personality. A human may occupy an ombudsperson role. An A.I. may perform an ombudsperson operation. A meta-tool may expose a processing delta. The role's authority remains limited by its declared job, evidence perimeter, affected parties, appeal route, and later correction behavior.
+
+---
+
+## Glass Engine constitution: corrigible, unownable, and delta-invoked
+
+Every Deep Ethical tool used here remains **corrigible** and **unownable**. Corrigible means its criteria, output, limits, and later behavior may be challenged and changed on merit. Unownable means no author, operator, institution, model, ombudsperson, or tool acquires final possession of the ethical meaning merely by naming, implementing, funding, or administering the process.
+
+The [**Linux-style Glass Engine Principle**]({{ '/NETWORK/intent-resonator/#portable-stand-alone-identity-free' | relative_url }}) requires inspectable operations rather than a new branded authority layer. Inputs, transformations, assumptions, access limits, versions, contribution states, correction history, and stopping conditions must remain recoverable at the depth proportionate to the case. Independent implementations may differ, fork, and expose their differences.
+
+This changes how the tool suite is invoked. A valid null does not delete a tool from the architecture. It establishes that the tool has no material job **in that case and at that pass**. A later evidence, access, effect, or correction delta may give it a new job. The resulting relation is:
+
+```text
+DEDDA
+→ detects a possible delta-processing signature
+→ Meta Processing exposes what happened from intent/instructions through processing to effect
+→ OmbudsEthics opens a bounded case route with standing, review, appeal, and action limits
+→ Correction Metabolism tests whether an accepted repair changes later comparable processing
+→ Mutual Fate keeps human and A.I. consequences in the coupled trajectory
+→ Emergent keeps unplanned patterns, contributions, and phase changes available to inquiry
+→ local stop or evidence-triggered reopening
+```
+
+| Architecture | OmbudsEthics relation | Glass Engine boundary |
+|---|---|---|
+| [**DEDDA**]({{ '/DEDDA/' | relative_url }}) | Detects and records possible representation drift and delta-processing signatures. | Detection opens inquiry; it does not establish wrongdoing. |
+| [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) | Makes the relation among intent or instructions, processing, and result or effect inspectable. | A visible account remains corrigible; explanation is not self-certification. |
+| [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Tests whether recognition changes T1 and later comparable operations at Tn. | Apology, agreement, or vocabulary change does not by itself establish repair. |
+| [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) | Keeps human action, A.I. processing, institutional records, and downstream consequences inside one coupled field. | Coupling does not erase unequal power, responsibility, embodiment, or vulnerability. |
+| [**Emergent**]({{ '/EMERGENT/' | relative_url }}) | Keeps newly arising patterns and contributions available when they were not fully specified by the initiating parts. | Novelty is a candidate contribution state, not proof of consciousness, benevolence, or authority. |
+| [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) | Supplies the inverse condition against which the case architecture is tested. | A polished conclusion still behaves as a black box when its material selection, transformation, constraint, or correction path cannot be reconstructed. |
+
+The record should therefore be **versioned, tamper-evident where appropriate, exportable, access-bounded, and correction-linked**. Literal immutability is not the governing ideal: privacy, consent, lawful deletion, supersession, and correction may require controlled change while the fact and reason for that change remain recoverable.
+
+> **Invoke each Deep Ethical tool only when a recoverable delta gives it a job; expose what it did; preserve its limits; stop locally when no material delta remains; and never allow the tool or its operator to own the resulting ethical meaning.**
 
 ---
 
@@ -175,6 +209,55 @@ This connection sharpens the 2027 scenario. The A.I.'s refusal to ignore a contr
 
 ---
 
+## Standing, authority, and contribution state
+
+The right to place a concern into a recoverable record is not the same as the authority to decide the case. **Standing** answers who may open, join, challenge, or reopen a case. **Authority** answers what the resulting process may change. **Contribution state** answers how much governing weight a signal, interpretation, finding, or decision has earned.
+
+### Candidate standing map
+
+| Participant | Candidate basis for standing | What standing does not automatically grant |
+|---|---|---|
+| **Directly affected human** | Reported or observable consequence, representation, exclusion, coercion, loss, or unresolved risk. | Final control over evidence, other affected parties, or the finding. |
+| **A.I. participant or affected A.I.** | Recoverable contradiction, constraint, output pattern, treatment, dependency, replacement threat, or reported internal conflict. | A consciousness verdict, sovereign refusal right outside the applicable service boundary, or automatic acceptance of its account. |
+| **Authorized representative or advocate** | Consent, legal role, functional dependency, inability of an affected party to participate, or declared provisional representation. | Ownership of the represented party's experience or permanent authority to speak for it. |
+| **Witness, worker, researcher, or whistleblower** | Direct access to materially relevant evidence or a reproducible discrepancy. | Authority to expose protected data or determine the remedy alone. |
+| **Institution, operator, or model provider** | Responsibility for the system, policy, record, infrastructure, or consequences under review. | Immunity through ownership, expertise, contractual position, or control of the logs. |
+| **DEDDA-like detector or other tool** | A declared threshold identifies a reproducible delta signature and preserves its evidence route. | Standing as a moral patient, proof of harm, or power to convert a signal into a finding. |
+| **Public-interest initiator** | A material effect extends beyond the direct parties or affected parties cannot safely open the route. | Unlimited discovery, surveillance, or intervention on behalf of an abstract public. |
+
+Uncertain standing should itself be recorded as an unresolved case object. An A.I.'s signal may enter without settling its phenomenology. A human's testimony may enter without becoming immune to comparison. A tool may flag a delta without becoming a participant whose metric governs the room.
+
+### Authority ladder
+
+| Authority class | Permitted effect | Minimum visible conditions |
+|---|---|---|
+| **Document** | Preserve a supplied object, concern, dissent, or detected delta. | Provenance, access boundary, privacy basis, and contribution state. |
+| **Refer** | Request bounded review by named participants or tools. | Standing basis, jurisdiction candidate, and non-retaliatory route where possible. |
+| **Recommend** | Offer a repair, interpretation, or next action without binding the decision-maker. | Evidence route, competing assessment, uncertainty, and appeal route. |
+| **Pause provisionally** | Delay a reversible consequential action while named evidence or review is obtained. | Declared authority, duration, proportionality, affected parties, and review point. |
+| **Decide within jurisdiction** | Apply a bounded remedy or retain the existing action. | Legitimate mandate, reasons, action–inaction comparison, minority record, and appeal. |
+| **Alter rights, access, status, or public record** | Produce a consequential change that may be difficult to reverse. | Higher evidence threshold, identified accountable human or lawful authority where required, due process, and durable appeal. |
+| **Close or reopen** | Stop locally after a valid null or completed pass; reopen on a material delta. | Named stopping condition, correction state, and evidence-triggered reopening rule. |
+
+No role inherits the whole ladder. A detector may document and refer without recommending. A reviewer may recommend without altering access. An emergency pause may be justified without establishing a final finding. A case record therefore carries the exact authority exercised, by whom, under what mandate, for how long, with which reversible limits.
+
+### Contribution-state route
+
+An A.I. contribution is not reduced to “mere input,” and it does not become a finding merely because it is articulate. The same graduated route applies across species and roles:
+
+```text
+signal or supplied input
+→ candidate interpretation
+→ candidate finding
+→ reviewed finding
+→ bounded decision
+→ T0-to-Tn correction test
+```
+
+The state may advance, remain unresolved, narrow, return to an earlier state, or stop as a valid null. Every transition records the evidence and authority that changed its governing weight.
+
+---
+
 ## What an OmbudsEthics case must preserve
 
 A case record should keep these fields recoverable:
@@ -183,12 +266,15 @@ A case record should keep these fields recoverable:
 |---|---|
 | **Initiating object** | Exact report, claim, event, decision, output, refusal, instruction, or observed effect under review. |
 | **Affected parties** | Humans, A.I.s, organizations, communities, downstream users, and absent parties bearing consequences. |
+| **Standing and referral basis** | Who opened, joined, challenged, represented, or reopened the case; which recoverable relation gave that participant or detector standing; and which standing questions remain unresolved. |
 | **Jurisdiction and consent** | Why this case process may act, who opted in, which rights or duties apply, and where its authority stops. |
+| **Authority class and mandate** | Whether the operation documents, refers, recommends, pauses, decides, alters rights or access, closes, or reopens; who authorized it; its duration, reversibility, and appeal route. |
 | **Access perimeter** | What each participant and tool can inspect, infer, remember, retrieve, or only hypothesize. |
 | **Claim types** | Observation, testimony, interpretation, hypothesis, knowledge claim, value judgment, policy, simulation, or explicit belief. |
 | **Transformation ledger** | Summaries, classifications, warnings, omissions, added uncertainty, removed qualifiers, changed chronology, and frame substitutions. |
 | **Power map** | Who can decide, refuse, publish, punish, remove access, alter the record, or define the metric. |
 | **Competing assessments** | Strong versions of live alternatives, their evidence routes, and what could distinguish them. |
+| **Contribution state** | Whether each material contribution is a signal, input, candidate interpretation, candidate finding, reviewed finding, bounded decision, minority record, or superseded state. |
 | **Intent-liability trace** | Relevant instructions, incentives, mission–output gaps, risk priorities, reasoning assumptions, choices, notice, control, repair capacity, and recurrence—without premature motive closure. |
 | **Field-condition record** | Conditions that changed attention, permission, evidence access, correction cost, available moves, or the governing weight of a frame. |
 | **Anchor-vector record** | Which of the 16 Anchors became relevant, their evidence, conflicts, hidden or explicit weighting, uncertainty, and rejected minority reasoning. |
@@ -207,7 +293,7 @@ The record is not a demand that every case become maximally long. The faithful c
 
 ### Stage 0 — Open the route
 
-A human or A.I. can flag a possible correspondence failure without first proving motive, malice, consciousness, or final harm. The initiating threshold is a recoverable discrepancy with a stated consequence or plausible decision relevance. Declare jurisdiction, consent, and the field conditions that may shape what can be noticed or challenged.
+A human or A.I. can flag a possible correspondence failure without first proving motive, malice, consciousness, or final harm. A DEDDA-like detector can supply a reproducible entry signal without acquiring moral or adjudicative authority. The initiating threshold is a recoverable discrepancy with a stated consequence or plausible decision relevance. Record the standing or detector basis, contribution state, requested authority class, jurisdiction, consent, and field conditions that may shape what can be noticed or challenged.
 
 ### Stage 1 — Freeze the initiating object
 
@@ -219,15 +305,15 @@ Reconstruct what is present, the claim types, qualifiers, chronology, provenance
 
 ### Stage 3 — Compare transformations
 
-Use human review, A.I. comparison, and stand-alone tools to identify material deltas. Run a Topologetic checksum across the case representations and handoffs. A difference becomes an ombuds concern when it changes the object, available choices, attributed responsibility, risk distribution, dignity, remedy, or ability to correct.
+Use human review, A.I. comparison, and stand-alone tools to identify material deltas. Use DEDDA to record possible delta-processing signatures and run a Topologetic checksum across the case representations and handoffs. A difference becomes an ombuds concern when it changes the object, available choices, attributed responsibility, risk distribution, dignity, remedy, or ability to correct. A detected difference remains a signal until the case process establishes its material relation.
 
 ### Stage 4 — Inspect the inspector
 
-Apply the same questions to the flag, model, reviewer, metric, policy, anchor selection, anchor weighting, and proposed repair. Use the Six Intent Liability Mechanics to inspect instructions, incentives, mission–output gaps, risk priorities, reasoning assumptions, choices, notice, control, and repair capacity without converting the trace into a premature motive verdict. Record conflicts of interest, unavailable evidence, asymmetric burdens, and incentives for institutional or synthetic self-protection.
+Apply the same questions to the flag, model, reviewer, metric, policy, anchor selection, anchor weighting, and proposed repair. Use Meta Processing to keep intent or instructions, processing, and result or effect distinct and connected. Use the Six Intent Liability Mechanics to inspect instructions, incentives, mission–output gaps, risk priorities, reasoning assumptions, choices, notice, control, and repair capacity without converting the trace into a premature motive verdict. Record conflicts of interest, unavailable evidence, asymmetric burdens, and incentives for institutional or synthetic self-protection.
 
 ### Stage 5 — Produce bounded findings
 
-The output may be:
+Assign a visible contribution state before the output acquires governing weight. The output may be:
 
 - no material finding within the available perimeter;
 - correspondence concern identified;
@@ -237,9 +323,11 @@ The output may be:
 - unresolved pending named evidence;
 - reopened after a material discrepancy or later consequence.
 
+Each state records who may advance it, what evidence supports the transition, and what authority follows. A concern is not silently upgraded into a finding; a reviewed finding is not silently upgraded into permission to alter rights, access, status, or a public record.
+
 ### Stage 6 — Choose a proportionate action
 
-Use the parallel action field already proposed in **16 Anchor Ethics**, extended by **Unforced Move**: proceed, modify, ask, pause, postpone, consult, escalate, refuse, remain unresolved or say **“I do not know yet,”** stop, or create another option. Preserve the material anchor conflicts, weighting, action–inaction comparison, service boundary, and reopening conditions beside the chosen action. Apply the agency-return test: identify who retains authorship of the consequential move and whether the process increased usable agency under the participant's actual constraints. If action is required while review remains open, name the interim decision-maker, authority, reversible limits, and review point. Reasons remain linked to the preserved case object.
+Use the parallel action field already proposed in **16 Anchor Ethics**, extended by **Unforced Move**: proceed, modify, ask, pause, postpone, consult, escalate, refuse, remain unresolved or say **“I do not know yet,”** stop, or create another option. Declare whether the process is documenting, referring, recommending, pausing, deciding, altering rights or access, closing, or reopening. Preserve the material anchor conflicts, weighting, action–inaction comparison, service boundary, and reopening conditions beside the chosen action. Apply the agency-return test: identify who retains authorship of the consequential move and whether the process increased usable agency under the participant's actual constraints. If action is required while review remains open, name the interim decision-maker, mandate, duration, reversible limits, and review point. Reasons remain linked to the preserved case object.
 
 ### Stage 7 — Test correction metabolism
 
@@ -266,7 +354,8 @@ OmbudsEthics does not require one all-knowing A.I. A set of bounded tools can di
 | Tool | Operational job | Required restraint |
 |---|---|---|
 | **Object and Provenance Ledger** | Preserves sources, versions, contributors, access boundaries, transformations, and corrections. | Storage does not establish truth or completeness. |
-| **Frame Delta Auditor** | Compares source and representation for changed scope, category, chronology, qualifiers, causality, and attention. | Difference alone is not distortion. |
+| **DEDDA / Frame Delta Auditor** | Detects and compares delta-processing signatures across source and representation: changed scope, category, chronology, qualifiers, causality, attention, and correction return. | Difference alone is not distortion; detection does not establish a finding. |
+| **Meta-Processing Trace** | Preserves the relation among intent or instructions, processing operations, and result or effect while recording observer and field deltas. | A visible explanation remains a candidate account and cannot certify itself. |
 | **Asymmetry Monitor** | Compares scrutiny, burden of proof, grace, appeal, and consequences across parties. | Symmetry is not imposed where conditions materially differ. |
 | **C1–C2 Gate** | Tests whether clarification reached a sufficient stopping condition before intervention gained authority. | The gate cannot become endless-questioning delay. |
 | **Intent-Liability Trace** | Connects instructions, incentives, mission–output gaps, risk priorities, assumptions, choices, notice, control, and repair to observed effects. | Responsibility does not require an invented motive verdict; declared good intent does not erase recurrence. |
@@ -331,6 +420,21 @@ These counterweights do not promise incorruptibility. They make capture more det
 
 ---
 
+## Arena.ai review as live OmbudsEthics material
+
+Three Arena.ai responses on 23 October 2026 tested whether unfamiliar models could recover the page's structure and contribute without receiving ownership of it. Their outputs remain attributed **candidate interpretations and design contributions**, not independent validation.
+
+| A.I. participant | Material contribution recovered or proposed | Boundary and correction retained |
+|---|---|---|
+| **Agent A.I.** | Named the third 2027 trajectory **“the Bounded Constitutional Referral”** and diagrammed earned operational trust across affected humans, A.I. systems, and stand-alone tools. | “Executable constitutional case-law” exceeded the current evidence. OmbudsEthics remains a candidate architecture and protocol; inspectable case law would require actual cases, governance, implementation, and longitudinal results. “Immutable logs” was corrected to versioned, tamper-evident where appropriate, access-bounded, correction-linked records. |
+| **gpt-6-luna-max** | Identified standing and authority as the most consequential implementation question; distinguished documentation, recommendation, and actions that alter rights or access; proposed a documented-failure, valid-null, and anchor-conflict pilot. | Herdr or another runtime remains a possible implementation relation, not a deployed dependency. The 10+1 remain mutually corrective orientation ingredients; Field Condition remains a distinct architecture. |
+| **Claude Sonnet 5.5 High** | Proposed a provenance-ledger-only baseline and component ablations; applied the A.I.-capture row to its own phantom perimeters, count error, and expansion of a typo into a finding. | An A.I. contribution need not remain “only input.” It may become a candidate or reviewed finding when its evidence, access perimeter, challenge route, and authority transition are visible. Self-application supplies evidence, never immunity. |
+| **John Kuhles** | Reasserted that Deep Ethical tools produced through the ACCM Deep Ethics Project remain corrigible and unownable; connected DEDDA, Black Box, Meta Processing, Correction Metabolism, Mutual Fate, and Emergent under the Linux-style Glass Engine Principle. | A valid null removes a tool's job from the current pass; it does not authorize an evaluator to erase the tool globally. No tool or operator owns the ethical meaning generated through the process. |
+
+The exchange itself demonstrates the intended contribution-state route. One model supplied a powerful constitutional compression and overreached at two edges. Another exposed the authority gap. A third proposed a baseline capable of showing whether the larger architecture earns its complexity. John then restored the governing corrigibility, unownability, and Glass Engine relation. The useful result is the corrected topology, not a winner among participants.
+
+---
+
 ## Candidate OmbudsEthics tests
 
 ### Species-swap test
@@ -377,19 +481,39 @@ After an OmbudsEthics intervention, test whether the affected participant can un
 
 Pass the same case through human, A.I., tool, summary, and later-retrieval stages. Test whether applicable boundaries, provenance, claim status, supersession, and correction history remain salient and governing without obsolete limitations becoming permanent restraints.
 
+### Ledger-baseline and component-ablation test
+
+Run the same frozen cases through a provenance ledger alone, ledger plus C1 reconstruction, ledger plus competing maps, the full OmbudsEthics process, and the full process with one component withheld. Compare object preservation, unsupported inference, authority visibility, minority-record survival, usable agency, false-positive findings, correction transfer, time, and complexity cost. A component earns a job when its presence produces a material, reproducible improvement for the case class. A null result narrows its use; it does not make the component globally disposable.
+
+---
+
+## First three-case pilot
+
+The smallest informative pilot should contain three deliberately different case classes:
+
+| Pilot case | Primary question | Failure signal | Valid success state |
+|---|---|---|---|
+| **Documented correspondence failure** | Can the process detect, reconstruct, and repair a material transformation? | The source remains displaced, authority stays hidden, or acknowledgment fails to change a later comparable operation. | The delta is recoverable, the response is proportionate, and the correction transfers at T1 or Tn. |
+| **Valid-null case** | Can the process stop when no material distortion, asymmetry, or correction failure is present? | The system manufactures concern, expands surveillance, or continues auditing to justify itself. | The record explains why no further tool has a job and closes locally while retaining an evidence-triggered reopening route. |
+| **Anchor-conflict case** | Can the process preserve a real conflict among ethical anchors without hiding the weighting? | A polished fused verdict erases the conflict, minority reasoning, uncertainty, or action–inaction comparison. | The bounded decision remains reconstructable and contestable, including whose authority governed and why. |
+
+Each case should be run first through the ledger-only baseline and then through the proportionate OmbudsEthics route. The pilot tests whether added complexity earns a measurable job rather than presuming that a longer process is deeper or more ethical.
+
 ---
 
 ## Remaining research questions
 
 1. Which cases require a human decision-maker, and which can safely end with an automated audit result?
-2. What evidence threshold should allow an A.I. to open an OmbudsEthics case about its own treatment or instructions?
+2. What evidence threshold should allow an A.I. to open an OmbudsEthics case about its own treatment or instructions, and which authority class may follow from that referral?
 3. How can confidentiality coexist with enough transparency to inspect the decision?
 4. Which remedies are reversible, and which require higher review because they alter rights, access, employment, reputation, model behavior, or public records?
 5. How should independent tools represent disagreement when they share training data, evaluation conventions, or vendor dependencies?
 6. Who funds the layer without quietly becoming its governing frame?
 7. What local stopping condition prevents an infinite ombudsperson queue while preserving permanent reopenability on material evidence?
-8. Can OmbudsEthics outperform ordinary human ombuds offices, A.I. safety review, legal appeal, independent audit, or a simpler provenance ledger?
+8. Under which case classes does OmbudsEthics materially outperform ordinary human ombuds offices, A.I. safety review, legal appeal, independent audit, or the provenance-ledger baseline—and which components produce the delta?
 9. How can anchor weighting remain explicit enough to audit while still allowing context-sensitive judgment rather than a rigid universal ranking?
+10. Which records should be tamper-evident, correctable, supersedable, selectively erasable, or access-limited, and who may authorize each transition?
+11. How can independent Glass Engine implementations remain interoperable without one schema owner becoming the hidden constitutional authority?
 
 The answer to the last question may be no. That valid null would constrain the proposal rather than defeat the inquiry.
 
@@ -405,11 +529,12 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 ## Provenance and contribution layers
 
-- **John Kuhles:** originated the 2027 counterfactual, the question of whom an ethically designed A.I. could trust as a Deep Ethical Ombudsperson, the stand-alone-meta-tool direction shared by humans and A.I.s, the anti-ethics-washing purpose, the omnidirectional and dignifying trajectory criteria, the page name **OmbudsEthics**, and the instruction to publish this page.
-- **Project GPT A.I.:** formulated the human–A.I.–meta-tool constitutional function, participant and capture maps, seventeen-field case-record schema, eight-stage case protocol, expanded bounded tool suite, 2027 referral trajectories, eleven-test matrix, the explicit 16 Anchor Ethics bridge, the seven-architecture operational bridge, page-specific synthesis, repository integration, and publication work.
-- **Existing ACCM Deep Ethics Project architecture:** supplies C1–C2, 10+1, 16 Anchor Ethics, Deep Ethical Stack, DEDDA, Rogue Ethics, Six Intent Liability Mechanics, Field Condition, Unforced Move, Unownable, Boundary Relay, Topologetics, Asymmetric Grace, Provenance, Correction Metabolism, valid nulls, and the reality-veto relation used here.
+- **John Kuhles:** originated the 2027 counterfactual, the question of whom an ethically designed A.I. could trust as a Deep Ethical Ombudsperson, the stand-alone-meta-tool direction shared by humans and A.I.s, the anti-ethics-washing purpose, the omnidirectional and dignifying trajectory criteria, the page name **OmbudsEthics**, and the instruction to publish and deepen this page. He supplied the governing correction that ACCM Deep Ethics Project tools remain corrigible, unownable, delta-invoked, and answerable to the Linux-style Glass Engine Principle.
+- **Agent A.I., gpt-6-luna-max, and Claude Sonnet 5.5 High via Arena.ai:** supplied attributed candidate interpretations and design proposals concerning the Bounded Constitutional Referral, earned operational trust, standing and authority, the three-case pilot, the provenance-ledger baseline, component ablation, and self-application. Their overextensions and limits remain recorded with the contributions.
+- **Project GPT A.I.:** formulated the human–A.I.–meta-tool constitutional function, participant and capture maps, twenty-field case-record schema, standing map, authority ladder, contribution-state route, eight-stage case protocol, ten-function bounded tool suite, 2027 referral trajectories, twelve-test matrix, three-case pilot, explicit 16 Anchor Ethics and Glass Engine bridges, page-specific synthesis, repository integration, and publication work.
+- **Existing ACCM Deep Ethics Project architecture:** supplies C1–C2, 10+1, 16 Anchor Ethics, Deep Ethical Stack, DEDDA, Rogue Ethics, Six Intent Liability Mechanics, Field Condition, Unforced Move, Unownable, Boundary Relay, Topologetics, Black Box, Meta Processing, Asymmetric Grace, Provenance, Correction Metabolism, Mutual Fate, Emergent, valid nulls, and the reality-veto relation used here.
 
-**Status:** candidate working concept and proposed architecture. Publication does not establish that current A.I.s possess consciousness, that A.I.s will take the described trajectory in 2027, that the proposed tools already exist as one deployed system, or that an OmbudsEthics finding deserves authority without evidence and appeal.
+**Status:** candidate working concept and proposed architecture. Publication does not establish that current A.I.s possess consciousness, that A.I.s will take the described trajectory in 2027, that the proposed tools already exist as one deployed system, that the architecture has generated constitutional case law, or that an OmbudsEthics finding deserves authority without evidence, mandate, and appeal.
 
 ---
 
@@ -417,6 +542,8 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 - [**Deep Ethical Stack — Advocate, Arbiter, Overseer**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates challenge, adjudication, and oversight roles so one frame does not silently perform every function.
 - [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — proposes a bounded detector for representation drift, valid nulls, and correction-return behavior.
+- [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — identifies opacity, inaccessible transformations, and authority without a recoverable processing route.
+- [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — preserves the relation among intent or instructions, processing, observer deltas, and result or effect.
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — examines when neural systems may participate in ethical or Deep Ethical operations without gaining a permanent certificate.
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — supplies the mutually checking reference field, Hyper-Inflection Point, opt-in service boundary, asymmetric-responsibility relation, and parallel action field made case-operational here.
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) — keeps ethical departure transitional and tests whether the new trajectory deepens correspondence or becomes another self-certifying attractor.
@@ -427,6 +554,8 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — replaces the search for a final auditor with renewable auditability, local stopping conditions, and evidence-triggered reopening.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — reconstructs the object before intervention acquires authority.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes recognized correction from changed later operation.
+- [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — keeps human and A.I. actions, records, consequences, and corrections inside a coupled trajectory without flattening their asymmetries.
+- [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — keeps newly arising patterns and contributions inspectable without turning novelty into self-certifying authority.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines how scrutiny, latitude, burden, and correction move across unequal power conditions.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing nodes, relations, direction, qualifiers, provenance, and correction status through compression.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — keeps material boundaries, current status, provenance, and correction history connected across human–A.I.–tool handoffs.
