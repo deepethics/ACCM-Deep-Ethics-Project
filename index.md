@@ -204,6 +204,11 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>OmbudsEthics</strong>
     <span>A proposed Deep Ethical Ombudsperson layer with object preservation, reciprocal inspection, appeal, valid nulls, and correction-metabolism tests.</span>
   </a>
+  <a class="accm-door" href="{{ '/VALIDATION-PARADOX/' | relative_url }}">
+    <span class="accm-door-kicker">Concept → Beta → field evidence</span>
+    <strong>Validation Paradox</strong>
+    <span>When recursive self-audit is demanded, then treated as disqualifying self-validation, while deployment evidence is demanded before the instruments for field testing may be built.</span>
+  </a>
   <a class="accm-door" href="{{ '/GOOGLE-AI/' | relative_url }}">
     <span class="accm-door-kicker">2.5B+ reach · live correction-persistence experiment</span>
     <strong>Google A.I.</strong>

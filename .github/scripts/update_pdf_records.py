@@ -33,6 +33,7 @@ ADDITIONS = [
     ("Neolingo", f"{BASE}/NEOLINGO/", "NEOLINGO.pdf", "neolingo.md"),
     ("Neural Ethics", f"{BASE}/NEURAL-ETHICS/", "NEURAL-ETHICS.pdf", "NEURAL-ETHICS.md"),
     ("OmbudsEthics", f"{BASE}/OMBUDSETHICS/", "OMBUDSETHICS.pdf", "OMBUDSETHICS.md"),
+    ("Validation Paradox", f"{BASE}/VALIDATION-PARADOX/", "VALIDATION-PARADOX.pdf", "VALIDATION-PARADOX.md"),
     ("Rogue Ethics", f"{BASE}/ROGUE-ETHICS/", "ROGUE-ETHICS.pdf", "rogue-ethics.md"),
     ("Questions — What the Question Reveals Before the Answer", f"{BASE}/QUESTIONS/", "QUESTIONS.pdf", "QUESTIONS.md"),
     ("Truth Seekers vs Cautionmurmelism", f"{BASE}/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/", "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf", "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md"),

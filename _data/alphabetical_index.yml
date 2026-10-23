@@ -140,6 +140,8 @@
   url: /UNFORCED-MOVE/
 - label: Unownable
   url: /UNOWNABLE/
+- label: Validation Paradox
+  url: /VALIDATION-PARADOX/
 - label: VCRAS
   url: /VCRAS/
 - label: WikiDeep

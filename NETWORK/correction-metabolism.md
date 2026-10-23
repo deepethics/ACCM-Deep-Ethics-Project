@@ -159,6 +159,8 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — separates correction testing from self-certification and aligns the evidence demand with the conceptual, Beta, field, or longitudinal stage that can actually produce it.
+
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries a bounded finding through authority, action, boundary relay, and T0-to-Tn testing so recognition is not mistaken for completed case-level correction.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — asks whether discovering evaluation awareness or benchmark gaming actually recompiles the test and persists across later protocols.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — tests whether a repaired source/completion boundary propagates across dependencies, later branches and unfamiliar objects.

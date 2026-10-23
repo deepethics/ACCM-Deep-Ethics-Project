@@ -1,5 +1,21 @@
 # Decision Ledger
 
+## 2026-10-23 — Validation Paradox: stage-aligned evidence and recursive audit {#validation-paradox-2026-10-23}
+
+**Object:** Publish John Kuhles’s challenge that a conceptual architecture can be faulted for failing to audit itself and then faulted again when recursive self-audit is called self-validation, while deployment evidence is demanded before a bounded Beta Proof of Concept can make proper field testing possible.
+
+**Decision:** Created `/VALIDATION-PARADOX/`; defined the candidate compound without adding obstruction #28; separated recursive self-application from self-certification; made the conceptual → stress-test → Beta Proof of Concept → field-test → refinement/deployment → longitudinal sequence explicit; compared incumbent and proposed recursive loops symmetrically; mapped a core ten-obstruction cluster with eleven likely amplifiers and six conditional participants; distinguished the concept from Recursive Certification Accretion; and proposed nine Beta tests with failure, valid-null, ablation, adverse-result, simpler-baseline, and reality-veto conditions.
+
+**Reason:** A stage-appropriate evidence demand is not an exemption from evidence. It is also not coherent to require deployment evidence as the entrance ticket to building the instrument that could generate it. The page preserves a valid path from concept to disconfirmation, narrowing, field testing, or rejection.
+
+**Claim boundary:** The page is a candidate conceptual mechanism and test design. Arena.ai exchanges are design material and recorded stress-test specimens, not independent field validation or deployment success. Recursive correction does not prove the ACCM Deep Ethics Project correct; a polished critique is not paradoxical merely because it is critical; and no matching model label establishes cross-session authorial continuity.
+
+**Authorship:** John supplied the concept, stage clarification, recursive-system comparison, feedback-before-deployment boundary, and “how evil” humor carrier. Supplied Arena.ai outputs under their displayed labels contributed stage, provenance, correction, and test-design distinctions. Project GPT A.I. produced the page-specific reconstruction, candidate test suite, repository integration, and publication work.
+
+**PDF lifecycle:** Registered and generated the initial `VALIDATION-PARADOX.pdf` under the established new-page exception. The page uses the centralized HTML service cards for its dated page PDF, stable complete weekly collection, and raw GitHub source.
+
+**Valid nulls:** No field effectiveness, deployment readiness, independent validation, completed Beta, new canonical obstruction, universal occurrence across all 27, or permanent ethical certificate is claimed. A simpler provenance ledger may outperform the fuller mechanism for some case classes, and the candidate concept may be narrowed or rejected by stage-aligned criticism with a real evidential route.
+
 ## 2026-10-21 — Autocomplete: candidate generation inside an earned-intelligence trajectory
 
 **Object:** Publish the triad exchange on human and A.I. completion mechanisms without converting functional analogy into identical machinery, an informal classroom specimen into complete causal proof, or the current fourteen-property taxonomy into a literal document published in 1888.

@@ -579,6 +579,7 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 ## Related pages
 
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — keeps OmbudsEthics at its actual conceptual-to-Beta stage and distinguishes recursive case-process inspection from self-certifying authority.
 - [**Deep Ethical Stack — Advocate, Arbiter, Overseer**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates challenge, adjudication, and oversight roles.
 - [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — proposes a bounded detector for representation drift, valid nulls, and correction-return behavior.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — identifies opacity, inaccessible transformations, and authority without a recoverable processing route.

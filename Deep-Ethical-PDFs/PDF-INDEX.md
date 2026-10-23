@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 147
+**Public pages exported:** 148
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -151,5 +151,6 @@
 | [Truth Seekers vs Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) | [TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf](TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf) | `TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md` |
 | [Unforced Move](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/) | [UNFORCED-MOVE.pdf](UNFORCED-MOVE.pdf) | `UNFORCED-MOVE.md` |
 | [Unownable](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) | [UNOWNABLE.pdf](UNOWNABLE.pdf) | `UNOWNABLE/index.md` |
+| [Validation Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALIDATION-PARADOX/) | [VALIDATION-PARADOX.pdf](VALIDATION-PARADOX.pdf) | `VALIDATION-PARADOX.md` |
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |
