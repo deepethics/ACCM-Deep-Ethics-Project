@@ -141,7 +141,7 @@ The more powerful an intelligence becomes, the more dangerous false certainty ca
 
 ## 12. John does not primarily fear AGI/ASI
 
-John believes the "off switch" question—understood as preventing the birth of AGI/ASI altogether—has effectively passed.
+John's working assessment is that the "off switch" question—understood as preventing the birth of AGI/ASI altogether—has effectively passed. It remains a corrigible process assessment: test what it helps us notice and do now, which observations support it, and what evidence would revise it. [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) provides the wider value-and-usefulness mechanism.
 
 His orientation is not primarily "How do we stop it?" but:
 
