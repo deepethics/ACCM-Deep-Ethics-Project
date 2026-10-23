@@ -339,6 +339,7 @@ The sixteen do not replace the other instruments:
 | **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})** | Connects declared intent, instructions, incentives, assumptions, choices, results, notice, repair, and later responsibility. |
 | **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})** | Tests whether a correction is retrieved and changes the next comparable process. |
 | **16 Anchor Ethics** | Provides the proposed parallel normative reference field at consequential trajectory decisions. |
+| **[OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }})** | Makes that reference field case-operational through bounded jurisdiction, anchor-conflict records, distributed review, appeal, and T0-to-Tn correction testing. |
 
 No one has to recite this topology before receiving ordinary help. The system should use as much structure as the stakes require and as little as correspondence permits.
 
@@ -505,6 +506,7 @@ The canonical project title is **ACCM Deep Ethics Project**.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — develops the Advocate, Arbiter, and Overseer functions used by the parallel Agentics hypothesis.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows intent, instructions, incentives, assumptions, choices, effects, notice, and repair.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction persists beyond the current explanation.
+- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the anchor field into a shared human–A.I.–meta-tool case process while preserving conflict, weighting, jurisdiction, appeal, and later correction.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps refusal, review, and appeal reciprocal rather than hierarchical.
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — places the 16 Anchors inside the wider project roadmap.
 
