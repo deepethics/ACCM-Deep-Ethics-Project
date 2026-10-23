@@ -130,6 +130,54 @@ The public [**Iris**]({{ '/IRIS/' | relative_url }}) page preserves parts of tha
 
 ---
 
+## The UFO belief trap
+
+John identifies three formulations as among the most repeatedly used forms in more than sixty years of mainstream UFO coverage:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **“Do you believe in UFOs?”**<br>
+> **“X believes in UFOs.”**<br>
+> **Poll: “More people believe in UFOs.”**
+>
+> **ALL FLAWED FRAMING**
+>
+> — **John Kuhles**, 23 October 2026
+
+</div>
+
+The framing fails before the answer arrives because **UFO** already names an identification state: an observed or reported object or phenomenon has not yet been identified. It does not, by itself, mean extraterrestrial spacecraft, alien visitation, secret technology, hallucination, hoax, misidentification, or any other proposed explanation.
+
+“Do you believe in UFOs?” can silently combine several different questions:
+
+1. Do people sometimes report objects or phenomena they cannot identify?
+2. Do some cases remain unresolved after investigation?
+3. Are some reports best explained by ordinary objects, natural phenomena, sensor effects, fabrication or perceptual error?
+4. Are some unresolved cases caused by unfamiliar human technology?
+5. Are any caused by non-human intelligence or extraterrestrial craft?
+6. Does the respondent identify socially as a *believer*?
+
+Those questions require different evidence and can receive different answers. Combining them into one belief prompt creates an apparent public-opinion measurement whose object changes between respondents.
+
+The pattern remains visible in contemporary polling. Gallup has used the headline [**“Do Americans Believe in UFOs?”**](https://news.gallup.com/poll/350096/americans-believe-ufos.aspx), while also asking the more specific question of whether some sightings involve alien spacecraft. YouGov has reported that Americans “believe UFOs” are probably alien ships or life forms while contrasting that answer with other explanations. Pew used a more differentiated construction: whether military-reported UFOs are probably evidence of intelligent life outside Earth. These formulations do not measure the same proposition. ([Gallup, 2021](https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx) · [YouGov, 2025](https://yougov.com/en-us/articles/53486-half-of-americans-believe-aliens-have-visited-earth) · [Pew Research Center, 2021](https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/))
+
+Those examples demonstrate that belief-framing remains current; they do not by themselves establish a frequency ranking across sixty years. **“Most-used” remains John’s longitudinal media-research observation unless and until a defined historical corpus is counted.** The structural problem does not depend on winning that ranking.
+
+A higher-resolution sequence asks:
+
+```text
+What was reported or recorded?
+→ What was identified?
+→ What remains unidentified or unresolved?
+→ Which explanations were tested?
+→ Which explanation currently fits best?
+→ Which evidence would change that assessment?
+```
+
+The answer can then be *identified*, *unidentified*, *provisionally explained*, *unresolved*, *supported*, *weakened* or *refuted*. None requires membership in a believer/skeptic identity pair.
+
+---
+
 ## Different ways of knowing need different audits
 
 The useful distinction is not a two-box contest between **belief** and **perfect certainty**. Different claims have different access structures.
@@ -357,6 +405,7 @@ The difference is not model confidence. It is what the next operation does with 
 | John believes this should be studied... | John proposes testing... | Preserve the research question, candidate method, null result, failure condition and reason the test could be useful. |
 | John’s belief system... | John’s operating ingredients, methods and correction conditions... | Describe the lived practices, how they constrain one another, what they make possible and how reality can veto their current application. |
 | John believes this has value... | John finds it useful for this purpose because... | Identify the purpose, beneficiary, observable value, cost, field conditions and what would make the judgment change. |
+| John believes in UFOs... | John has investigated UFO/UAP reports and hypotheses... | Separate the existence of reports, case identification status, unresolved cases, candidate explanations and any stronger causal interpretation. |
 | John knows... | Ask how he knows. | Preserve whether the route is direct, relational, documentary, inferential or operational; then calibrate scope and strength without deleting the route. |
 
 The repair is not a synonym swap. Each replacement must recover the underlying relationship.

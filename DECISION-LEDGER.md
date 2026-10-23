@@ -1659,3 +1659,13 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Boundary:** Belief-language remains where it accurately describes another person’s explicit belief, a direct quotation, a general research object, or a diagnostic example. This audit does not ban the word *belief* and does not convert John’s assessments into automatic facts.
 
 **PDF lifecycle:** Regenerate only the same-day Believism PDF because its audit architecture changed materially. Biography and the September field-report PDF retain their recorded snapshots until the normal change-aware refresh; their public Markdown and HTML advance now.
+
+## 2026-10-23 — Add the UFO belief-question specimen to Believism
+
+**Object:** John identified “Do you believe in UFOs?”, “X believes in UFOs” and polling claims that more people “believe in UFOs” as a repeatedly used mainstream-media framing across his 36+ years of UFO/UAP research and the topic’s longer media history.
+
+**Change:** Added a dedicated Believism section showing that *UFO* names an identification state while the belief question can silently combine the existence of reports, unresolved cases, ordinary explanations, unfamiliar human technology, non-human or extraterrestrial hypotheses, and social believer identity. Added a six-question decomposition, a correspondence-first replacement sequence, current Gallup/YouGov/Pew examples, and a UFO-specific row to the language-repair table.
+
+**Evidence boundary:** The cited polling and media examples establish that the framing remains current. They do not establish which phrase was numerically most frequent across a defined sixty-year corpus. “Most-used” therefore remains John’s longitudinal media-research observation until a corpus, sampling rule and count exist. The category-error diagnosis does not depend on that ranking.
+
+**PDF lifecycle:** This is a same-day material extension of the new Believism page, so only `BELIEVISM.pdf` and its central records are refreshed. No unrelated PDF is regenerated.
