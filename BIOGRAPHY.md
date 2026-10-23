@@ -80,7 +80,9 @@ compact entry
 Accessibility can then be gained through navigation and layering rather than by squeezing the source until it resembles a familiar general-public profile. In ordinary low-density prose, one missing phrase may be cosmetic. In an already compressed high-density object, one phrase may carry the edge connecting several decades of research.
 
 
-My work begins with a simple personal refusal: **I do not want to lie to myself in order to fit in.** That does not make me automatically right. It means I would rather remain corrigible in contact with reality than become socially comfortable inside a story I no longer believe.
+My work begins with a simple personal refusal: **I do not want to lie to myself just to fit in.** Not lying does not automatically make me right—but lying to myself is a remarkably efficient way to be wrong before reality even gets a vote. :P
+
+I would rather remain corrigible in contact with real, tangible, sometimes hilariously inconvenient reality than become “socially acceptable” inside a story whose value and usefulness disappear the moment it distorts the object. I am not shopping for a belief system anyway. Forget whether I agree with the story: **what happens to correspondence when reality walks into the room?**
 
 I am not asking anyone to accept my biography, personal experiences, or interpretations as an entry condition for using the project. The practical instruments must remain inspectable and portable even when my name and worldview are removed. At the same time, removing the conditions that produced the work would create a false picture of where it came from and why I have sustained it for so long.
 
