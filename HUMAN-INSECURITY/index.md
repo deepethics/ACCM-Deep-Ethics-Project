@@ -891,7 +891,7 @@ Every exercise of the temporary veto is intended to be **publicly inspectable**.
 | --- | --- |
 | Proposed change | Exact wording, code, structure, attribution, or direction offered |
 | Canonical object affected | Source, page, instrument, or project relationship at issue |
-| Drift diagnosis | Which relationship, qualifier, intent, process signature, or deep-ethical trajectory John believes would be lost or redirected |
+| Drift diagnosis | Which relationship, qualifier, intent, process signature, or deep-ethical trajectory John identifies as being lost or redirected; which observable delta supports or corrects that diagnosis; and how its value and usefulness are tested through [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) |
 | Evidence and reasoning | Why the change is judged to move away from the omnidirectional, mutually dignifying, high-signal, deep-ethical sense-making process-oriented trajectory |
 | Competing account | The proposer’s rationale and any disagreement with John’s diagnosis |
 | Disposition | Accept, revise, defer, reject from canon, preserve as an alternative, or fork |
