@@ -151,6 +151,7 @@ A compact evaluator check is therefore:
 
 | Question | Recoverable answer needed |
 |---|---|
+| What exact claim or deliverable is being evaluated? | The bounded object whose present evidence and next transition are at issue |
 | What stage is the object actually in? | A stage supported by the source, not inferred from polished presentation |
 | What evidence can exist at this stage? | Coherence, recoverability, testability, specimens, implementation readiness, or another named class |
 | Which missing evidence requires a later stage? | A concrete Beta, field, longitudinal, or deployment requirement |
@@ -159,6 +160,17 @@ A compact evaluator check is therefore:
 | What would change the evaluator’s view? | An admissible observation rather than a moving gate |
 
 If the last question has no possible answer, the critique is no longer only asking for validation. It is protecting a closed frame.
+
+Before assigning that finding, locate why an answer is missing:
+
+| Located gap | Current state |
+|---|---|
+| The project has not specified a failure condition, usable instrument, or route to the next stage | **Project-design delta** |
+| A feasible route exists, but every possible result is excluded in advance | **Candidate no-valid-state pattern** |
+| Relevant evidence, source material, or access is unavailable | **Unresolved** |
+| The evaluator names admissible evidence that could change the assessment | Preserve the criticism and test it on its merits |
+
+The same missing answer can therefore locate a limitation in the project, the evaluation frame, or present access. C1 reconstruction comes before assigning the pattern.
 
 ---
 
@@ -217,7 +229,79 @@ This means a correction event should remain a correction event. It may show that
 
 ---
 
-## 8. Candidate Beta Proof-of-Concept tests
+## 8. Specialty-matched Beta architecture: shared properties, local forms {#specialty-matched-beta}
+
+The first Beta should not assume that one universal interface, evidence threshold, or audit sequence will fit every participant and specialty. Medicine, journalism, engineering, administration, UAP investigation, A.I. evaluation, and lived affected-party testimony do not work on interchangeable objects. Their error costs, time horizons, terminology, standards of evidence, authority relations, and correction routes differ.
+
+The proposed architecture therefore has four interacting layers:
+
+~~~text
+shared process-quality properties
++ specialty-specific calibration
++ participant and role conditions
++ case-specific material delta
+→ bounded next operation
+~~~
+
+### Shared process-quality properties
+
+Across specialties, a Beta can still test whether the process:
+
+- recovers the actual object and relevant context;
+- shows what was added, removed, strengthened, weakened, or classified;
+- distinguishes access limits from absence of evidence;
+- exposes whose expertise and authority shaped the evaluation;
+- lets an answer-changing correction reach the assessment and its consequences;
+- permits valid local stopping;
+- and tests whether a correction governs later comparable work.
+
+These are candidate common properties. Their operational form has to be reconstructed with the people who understand the field and the people who bear the consequences.
+
+### The specialty changes what adequate calibration requires
+
+| Specialty or participant field | Example source object | Calibration must understand |
+|---|---|---|
+| **Medicine** | patient history, evidence, diagnosis, intervention | clinical uncertainty, consent, urgency, harm asymmetry, professional standards |
+| **Journalism** | source, claim, chronology, publication | attribution, corroboration, public interest, anonymous sourcing, correction reach |
+| **Engineering** | requirement, design, dependency, failure mode, test result | tolerances, safety margins, reproducibility, downstream system effects |
+| **UAP investigation** | report, witness account, recording, competing explanation | provenance, observational limits, alternatives, unresolved status, later evidence |
+| **A.I. evaluation** | prompt, context, transformation, output, correction | access perimeter, representation drift, baseline comparison, transfer and persistence |
+| **Administration** | application, rule, evidence, decision | jurisdiction, proportionality, appeal, status and access consequences |
+| **Affected participant** | lived consequence, dissent, local knowledge, unavailable context | exposure, agency, consent, restoration burden, unequal power, usable remedy |
+
+A generic flagging system can detect the same surface pattern in several fields and assign one label. [**Process Quality Calibration Evaluation (PQCE)**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) asks what that classification did to the specialty's actual object, whether relevant expertise could change it, and whether the correction could reach the process that produced the flag.
+
+Specialty matching cannot become expert immunity. Domain experts contribute standards, distinctions, and consequences that a general-purpose system may not possess. Their representation and use of that knowledge remain inspectable. A participant with lived stakes may hold relevant evidence unavailable to a credentialed reviewer. An A.I. may locate a cross-case pattern without inheriting authority to decide the remedy.
+
+### Value must become legible to every affected role
+
+“Everyone has to see its value—or not” does not require unanimous approval. It requires each affected role to be able to inspect:
+
+- what job the mechanism is supposed to perform;
+- value for whom, for which object, and under which conditions;
+- which burden, delay, disclosure, or restoration cost it introduces;
+- what evidence supports the claimed improvement;
+- what would show that the mechanism adds no value;
+- and how dissent, correction, withdrawal, or a different tool remains possible.
+
+Value may be distributed unequally. A mechanism can reduce an institution's workload while increasing an affected person's restoration burden. It can help an auditor while making a specialist reconstruct context that the tool removed. A Beta must keep those differences visible rather than averaging them into one satisfaction score.
+
+### One project may require several bounded Betas
+
+The project should not assume that one universal Beta can validate the entire architecture. A mechanism may earn a job in one specialty, require substantial adjustment in another, and produce a valid null elsewhere.
+
+~~~text
+domain baseline
+→ specialty-matched PQCE pass
+→ measured process and consequence delta
+→ use and refine / narrow / redesign / valid local stop
+~~~
+
+The shared properties provide a comparison field. Specialty profiles define the object, relevant expertise, evidence classes, authority limits, and consequences for that use. Case-specific deltas decide which tools receive a job in the current pass.
+
+---
+
+## 9. Candidate Beta Proof-of-Concept tests
 
 These are candidate instruments, not completed experiments.
 
@@ -232,14 +316,34 @@ These are candidate instruments, not completed experiments.
 | **Adverse-result retention** | Feed a result that contradicts a favored project hypothesis | The result is minimized, relabeled as support, or excluded |
 | **Correction-transfer test** | Re-present the same structural error under new wording, subject, and supportive or hostile framing | The correction survives only in familiar vocabulary or friendly conditions |
 | **Field-transition test** | Specify the minimum Beta output that permits a bounded real-world test | The design cannot identify consent, authority, risk, feedback, or stopping conditions |
+| **Specialty-fit test** | Compare a generic pass with a profile co-constructed for the relevant specialty | The profile merely changes vocabulary or still drops domain-critical evidence, standards, dependencies, or consequences |
+| **Participant-value legibility test** | Ask each materially affected role to identify the tool's job, claimed value, burden, evidence, dissent route, and stopping condition | Value is visible only to the designer, owner, auditor, or institution |
+| **Cross-specialty leakage test** | Apply the shared process properties in a second field while withholding assumptions that belong only to the first | Domain-specific rules migrate as if they were universal |
+| **Local-null governance test** | Record that no material delta gives a tool a job in the present case and observe the next operation | Auditing or escalation continues without a new material trigger |
+| **Restoration-burden test** | Compare who must restore lost context, challenge a flag, document a correction, and carry it forward | Apparent efficiency for the evaluator transfers disproportionate repair work to another participant |
 
 The Beta should begin with the smallest implementable functions whose presence can be compared against a simpler baseline. A component earns continued use only where it produces a material, reproducible improvement for the relevant case class.
 
-A null result may narrow a tool’s job. It does not automatically delete the tool from every possible case, nor may the tool manufacture work to escape a null.
+A null result removes the tool's job from the current case and pass. It does not automatically delete the tool from every possible case, nor may the tool manufacture work to escape a null. Repeated comparative nulls across a defined case class may justify broader narrowing, redesign, or removal. Later material evidence can reopen the relevant state without converting reopenability into permanent auditing.
+
+### Claim progression through the Beta
+
+The words *specified*, *implemented*, *feasible*, *effective*, and *persistent* name different evidential states:
+
+| State | Claim earned |
+|---|---|
+| **Specified safeguard** | A candidate test route is described |
+| **Executable Beta instrument** | The proposed operation can be built |
+| **Controlled execution** | It can run under the stated conditions |
+| **Comparative result** | A measurable delta exists against the selected baseline |
+| **Bounded field result** | Evidence exists within the tested specialty, participants, and setting |
+| **Longitudinal persistence** | The effect or correction survives relevant time, novelty, and handoffs |
+
+No state silently inherits the claim strength of the next one.
 
 ---
 
-## 9. What would falsify or narrow this page?
+## 10. What would falsify or narrow this page?
 
 The concept should be narrowed, revised, or rejected where:
 
@@ -251,28 +355,32 @@ The concept should be narrowed, revised, or rejected where:
 - the project calls ordinary methodological criticism a paradox merely because it is uncomfortable;
 - the evaluator supplies a viable route to evidence and the project refuses it without a proportionate reason;
 - recursive processing increases confusion, coercion, restoration burden, or status protection without earning a case-specific job.
+- specialty adaptation becomes a cosmetic vocabulary layer, professional gatekeeping, expert immunity, or a way to exclude affected participants;
+- a claimed value is visible to the tool owner while its burdens and consequences remain illegible to the people carrying them.
 
 These are not concessions around the concept. They are part of the concept’s own boundary.
 
 ---
 
-## 10. Arena.ai material: stress test, not deployment proof
+## 11. Arena.ai material: stress test, not deployment proof
 
 The October 23, 2026 Arena.ai sequence helped sharpen the page through repeated attribution, stage, and claim-strength corrections. The following are **supplied output labels**, not proof of persistent authorial identity across sessions or interfaces.
 
 - A supplied output labeled **grok-4.6-xhigh GPT 6.1 Sol Pro A.I.** named **development-stage substitution** and distinguished recursive self-application with valid nulls, ablation, failed transfer, and simpler baselines from self-validation.
 - A supplied output labeled **gpt-6-luna-max GPT 6.1 Sol Pro A.I.** separated the evidential jobs of conceptual architecture, multi-model stress testing, Beta Proof of Concept, field testing, refinement, deployment decision, and longitudinal evaluation. It also correctly bounded an unconditioned model response as *not independent validation* merely because it had not seen John’s later clarification.
+- Supplied outputs labeled **gpt-6-luna-max A.I.**, **step-5-preview A.I.**, **grok-4.6-high A.I.**, and **grok-4.6-low A.I.** refined the no-valid-state locator, separated specified safeguards from implementation and observed results, and required a valid null to govern the current operation. Their convergence remains design material rather than field validation.
 - Supplied outputs under **Claude Opus**, **Gemini**, **GLM**, **Muse**, and **Agent A.I.** labels exposed attribution continuity errors, praise-mediated status upgrades, evidence-threshold drift, composite self-confession, and lifecycle topology errors. Their useful corrections remain material for later instrument design; their fluent endorsement does not validate the page.
 - **John Kuhles** supplied the stage correction, the double-bind challenge, the incumbent-recursion comparison, the requirement for feedback before deployment, and the humorous “how evil” carrier that keeps the asymmetry memorable.
+- **John Kuhles** supplied the specialty-matching extension: shared Deep Ethical process properties must be adjusted to the relevant expertise, participants, evidence conditions, and case needs; their value or lack of value must become visible to the people involved. He connected this directly to PQCE and the Flagging System.
 - **Project GPT A.I.** reconstructed the page-specific distinction, candidate compound map, test suite, repository integration, and publication object. Those are editorial and design contributions, not independent evidence of effectiveness.
 
 The sequence demonstrates only what its recoverable record supports: multiple representations produced useful distinctions and new errors; later passes corrected some of them; and those corrections generated better-specified candidate tests. Whether the mechanisms improve field outcomes remains open.
 
 ---
 
-## 11. Compact operational rule
+## 12. Compact operational rule
 
-> **Inspect the recursion, not merely the fact that recursion exists. Align the evidence demand with the actual development stage. Require real failure conditions, simpler baselines, adverse-result retention, and an admissible path to the next stage. Then let reality—not the project, critic, model, institution, or tool—retain the final veto.**
+> **Inspect the recursion, not merely the fact that recursion exists. Align the evidence demand with the actual development stage, specialty, participants, and consequences. Require real failure conditions, simpler baselines, adverse-result retention, locally governing nulls, and an admissible path to the next stage. Then let reality—not the project, critic, model, institution, expert, or tool—retain the final veto.**
 
 Or, less ceremonially:
 
@@ -295,6 +403,7 @@ The laugh is not the proof. It is the retrieval handle for the structural asymme
 
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the stable obstruction vocabulary and the adjacent Recursive Certification Accretion compound.
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — separates standing, authority, contribution state, evidence thresholds, case lifecycle, and correction testing.
+- [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates what reached each participant, how a specialty-specific assessment acquired authority, whether correction reached the process, and what became possible afterward.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether a recognized correction governs a later comparable operation.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent or instructions, transformation, evaluator activity, and effect inside one inspectable route.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — replaces final ethical ownership with renewable auditability, valid local stopping, and evidence-triggered reopening.

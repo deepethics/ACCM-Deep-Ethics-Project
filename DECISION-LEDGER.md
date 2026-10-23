@@ -16,6 +16,10 @@
 
 **Valid nulls:** No field effectiveness, deployment readiness, independent validation, completed Beta, new canonical obstruction, universal occurrence across all 27, or permanent ethical certificate is claimed. A simpler provenance ledger may outperform the fuller mechanism for some case classes, and the candidate concept may be narrowed or rejected by stage-aligned criticism with a real evidential route.
 
+**October 24 specialty-matched Beta extension:** Added John Kuhles's direct connection to the Flagging System/PQCE: shared process-quality properties require specialty-specific calibration, participant and role conditions, and the material delta of the case. Added seven specialty fields; participant-visible value, burden, dissent and stopping requirements; five additional Beta tests; a six-state claim-progression table; current-pass valid-null governance; repeated-null case-class narrowing; and a reciprocal PQCE bridge. Specialty adaptation does not grant expert immunity, impose unanimous agreement, or validate one universal Beta across all fields.
+
+**Arena refinement propagation:** Integrated the supplied gpt-6-luna-max, step-5-preview, grok-4.6-high and grok-4.6-low distinctions where they changed the design: a safeguard specification supplies a candidate test route; buildability, controlled execution, comparative result, bounded field evidence and longitudinal persistence remain separate claims. A printed valid-null label must govern the current operation, while broader tool removal requires evidence at the relevant case-class scale.
+
 ## 2026-10-21 — Autocomplete: candidate generation inside an earned-intelligence trajectory
 
 **Object:** Publish the triad exchange on human and A.I. completion mechanisms without converting functional analogy into identical machinery, an informal classroom specimen into complete causal proof, or the current fourteen-property taxonomy into a literal document published in 1888.

@@ -346,6 +346,12 @@ The practical question is:
 
 A system with a route for contextual revision, source recovery, proportional review, and retained correction has something different to offer from an unchallengeable label. Its actual operation remains the thing to inspect.
 
+### Specialty-matched PQCE and the route to Beta {#specialty-matched-pqce}
+
+The [**Validation Paradox**]({{ '/VALIDATION-PARADOX/#specialty-matched-beta' | relative_url }}) makes the next design relation explicit. PQCE cannot become one generic instrument whose vocabulary and thresholds are imposed identically on medicine, journalism, engineering, UAP investigation, A.I. evaluation, administration, or affected-party testimony. Shared process-quality properties can remain stable while the object, evidence classes, expertise, authority, consequences, and correction route are reconstructed for the specialty and participants involved.
+
+That adaptation does not grant expert immunity or require agreement. It makes the claimed value, burden, failure condition, valid local stop, and route for dissent visible to each materially affected role. A mechanism earns continued use where a specialty-matched pass improves the real process against its baseline. It narrows, redesigns, or stops where it adds no material value or transfers unacceptable restoration work to another participant.
+
 ## 13. This page remains inside the audit {#self-audit}
 
 This page itself is a transformation of a larger exchange. Its source record identifies excerpts, supplied times, authorship, and limits of access. The full Google context is not present; the account-meter cause remains unresolved; the relationships involving compute, internal anticipation, and recursive training retain their respective attributed or proposed status.

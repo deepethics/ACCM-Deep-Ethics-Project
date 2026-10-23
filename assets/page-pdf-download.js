@@ -46,7 +46,7 @@
   const snapshotDateByPage = {
     "/BELIEVISM/": "October 23, 2026",
     "/OMBUDSETHICS/": "October 23, 2026",
-    "/VALIDATION-PARADOX/": "October 23, 2026",
+    "/VALIDATION-PARADOX/": "October 24, 2026",
     "/GODFATHER-OF-AI/": "October 21, 2026",
     "/AUTOCOMPLETE/": "October 21, 2026",
     "/MUTUAL-FATE/": "October 21, 2026",

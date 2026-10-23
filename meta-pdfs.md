@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**148 public-page PDF editions · 1,901 pages · exported through October 23, 2026**
+**148 public-page PDF editions · 1,904 pages · exported through October 24, 2026**
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, and Believism and OmbudsEthics on October 23. Each PDF contains selectable and searchable text with live links.
 
@@ -176,7 +176,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 ## Archive record
 
 - **PDF files:** 148
-- **Total pages:** 1,901
+- **Total pages:** 1,904
 - **Extractable text:** verified across all 148 files
 - **Live links:** preserved in the exported editions
 - **Build result:** 148 successful PDFs; 0 failures
