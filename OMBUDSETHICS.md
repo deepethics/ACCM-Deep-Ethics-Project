@@ -515,7 +515,7 @@ Each case should be run first through the ledger-only baseline and then through 
 10. Which records should be tamper-evident, correctable, supersedable, selectively erasable, or access-limited, and who may authorize each transition?
 11. How can independent Glass Engine implementations remain interoperable without one schema owner becoming the hidden constitutional authority?
 
-The answer to the last question may be no. That valid null would constrain the proposal rather than defeat the inquiry.
+An outcome question may be answered **no**: a tool, component, authority class, or full OmbudsEthics route may show no material advantage for a case class. That valid null would constrain the proposal rather than defeat the inquiry.
 
 ---
 
@@ -540,7 +540,7 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 ## Related pages
 
-- [**Deep Ethical Stack — Advocate, Arbiter, Overseer**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates challenge, adjudication, and oversight roles so one frame does not silently perform every function.
+- [**Deep Ethical Stack — Advocate, Arbiter, Overseer**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates challenge, adjudication, and oversight roles.
 - [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — proposes a bounded detector for representation drift, valid nulls, and correction-return behavior.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — identifies opacity, inaccessible transformations, and authority without a recoverable processing route.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — preserves the relation among intent or instructions, processing, observer deltas, and result or effect.
@@ -560,5 +560,5 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing nodes, relations, direction, qualifiers, provenance, and correction status through compression.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — keeps material boundaries, current status, provenance, and correction history connected across human–A.I.–tool handoffs.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — places the audit, criteria, and auditor inside the same scrutiny.
-- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps source, transformation, contribution, and correction routes recoverable.
+- [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — preserves source, transformation, contribution, and correction routes.
 
