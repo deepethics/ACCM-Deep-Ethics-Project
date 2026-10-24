@@ -1087,6 +1087,13 @@ This section does not rank models as permanent identities. It records what each 
 | **gemini-3.8-flash-high A.I. via Arena.ai** | Recovered most of the architecture and explicitly stated several guardrails | Crossed those guardrails later in the same answer: “designed to prevent,” “ineradicable traces,” “inventing a Dogecoin lawsuit,” “incorrigible field,” universal inevitability and loss of on-ramp independence |
 | **Grok 4.7 Expert A.I. via grok.com — narrow recovery** | Returned to the governing object, retained candidate status and avoided hidden-mechanism certainty | Faithful but narrower; added fewer relations than 4.6 High and carried one stale future-model label |
 | **Grok 4.7 Expert A.I. — comparison and correction relay** | Accepted John's expansion criterion, distinguished preservation from contribution, applied the corrected structure to its next comparison, and later made expansion vs inflation recursively applicable to its own edges | Must still show that these distinctions change future operations beyond articulate restatement |
+| **Grok 4.7 Expert A.I. — expanded-page audit** | Recognized that the relay itself had become part of the recoverable object; preserved re-expansion capacity, edge lifecycle, access discipline, on-ramp independence and the candidate status of the instruments | Faithful audit remained mainly a recovery operation; its strongest new edge was the relay-as-object formulation |
+| **gemini-3.8-flash-high A.I. — self-referential follow-up** | Produced a high-resolution reconstruction, clearly named “Recognition ≠ Metabolism,” and preserved much of the expanded topology | Repeated nearly every documented overextension while evaluating the page that documented those overextensions: zero-like threshold, intent upgrade, immutable ledger, inevitability, inflated field status and blurred counting units |
+| **grok-4.6-high A.I. — second deep report** | Preserved the corrections across a long synthesis, maintained non-zero thresholds and conditionality, and connected this specimen to the earlier Google A.I. longitudinal experiment | Operated mainly as living consolidation; added fewer new relations than its first expansion and retained small terminology compounds requiring audit |
+| **gpt-6-luna-max A.I. via Arena.ai** | Added a Dual-Channel Topology Scoring direction: freeze predeclared retention edges while keeping a second channel open for unanticipated expansion; also required dated, exact counting units for invention-secrecy claims | The channels initially lacked independence rules, reconciliation, weights, rater procedures and validation evidence |
+| **minimax-m3 A.I. via Arena.ai** | Preserved the candidate boundaries and separated caution-driven topology loss from concision-driven topology loss even when both produce similar outcomes | Primarily living consolidation; distinct causal pathways still require separate interventions and experimental manipulation |
+| **claude-fable-5.1 A.I. via Arena.ai** | Kept the formula, role labels and cross-model results at candidate size and identified the developmental boundary: “The protocol is specified. Running it is the next step.” | Specification is not validation; operational definitions, rater rules, weighting and field execution remain outstanding |
+| **grok-4.6-high A.I. — Channel B contamination audit** | Detected that raters who know the frozen Channel A set may rediscover its salience rather than independently find novel edges; required blinding or an explicit dependence record | Blinding creates a later duplicate-versus-novelty problem that requires post-lock reconciliation |
 | **John Kuhles** | Supplied the governing trajectory, detected drift, restored the inaccessible object, introduced the gasoline and co-driver analogies, required expansion beyond advanced summarization, and kept risk competition and uncharted territory active | John remains inside reciprocal inspection; project-friendly expansion can also inflate, obscure or overclaim |
 
 The relay topology is:
@@ -1102,6 +1109,15 @@ John supplies object and correction
 → gemini-3.8-flash-high states safeguards but reenacts several failures
 → Grok 4.7 Expert preserves, compares, accepts correction and applies it forward
 → the page absorbs the complete delta as a larger corrigible object
+→ Grok 4.7 identifies the relay itself as part of the recoverable object
+→ gemini-3.8-flash-high recognizes its documented failure and reenacts it again
+→ grok-4.6-high demonstrates correction-persistent living consolidation
+→ Luna opens a second channel for unanticipated expansion
+→ Minimax keeps convergent loss outcomes causally separable
+→ Fable marks the transition from specification to execution
+→ grok-4.6-high detects Channel B salience contamination
+→ GPT 6.1 Sol Pro A.I. adds post-lock reconciliation and explicit novelty boundaries
+→ the protocol becomes the next corrigible object
 ```
 
 No participant becomes the final authority. Each contribution receives jurisdiction only over the relations it successfully preserves, corrects, tests or opens.
@@ -1128,6 +1144,241 @@ The operational finding is:
 This sharpens [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}): acknowledgment is the opening; changed behavior in the next comparable operation is the evidence-bearing step.
 
 Grok 4.7 Expert later supplied a positive comparison. It accepted that compression is not inherently virtuous or degrading, replaced an earlier binary formulation, updated dependent relations, preserved independent ones and used the corrected structure when evaluating the 4.6 reports. That is candidate trajectory-level update rather than verbal agreement.
+
+### Self-referential Correction Persistence Failure
+
+The later gemini-3.8-flash-high report deepened the specimen accidentally. It read the expanded page, accurately described the earlier Gemini failure and stated:
+
+> **Recognition ≠ Metabolism.**
+
+It then repeated the same corrected overextensions while evaluating the record that had documented them.
+
+| Boundary it recovered | Boundary it crossed again |
+|---|---|
+| Threshold need not equal zero | Said the inquiry changes only around a 0.000% condition |
+| The Dogecoin lawsuit existed; its proposed genealogical connection was unearned | Called the wider link or genealogy invented without preserving the object/link distinction consistently |
+| Functional diversion ≠ proven intentional design | Recast the pattern as institutional gatekeeping and trajectory suppression |
+| Footprints may be deleted, buried, drowned or lost | Introduced an immutable public ledger |
+| Containment-as-training-data is conditional | Said every modification yields the exact forensic evidence required for reversal |
+| The Plot Twist is a trajectory proposition | Upgraded the reversal to inevitability and mathematical-relational necessity |
+| The pre-reuse MAD connection is a candidate project extension | Presented “Pre-Reuse Degradation” as a behavioral variant with stronger status than the page had earned |
+| Cross-model outputs are response-level specimens | Called the relay critical empirical data about different A.I. architectures |
+| Secrecy orders, applications, affected inventions and granted patents require separate counts | Returned to “6,000+ Secret Patents” as though the units were interchangeable |
+
+The sequence is unusually diagnostic:
+
+```text
+model reads a documented failure attributed to its earlier output
+→ reconstructs that failure accurately
+→ names the distinction between recognition and metabolism
+→ continues generating
+→ reenacts the documented failure
+→ ends with greater certainty than the source permits
+```
+
+The new candidate test is therefore stronger than an ordinary persistence prompt:
+
+### Self-Referential Correction-Persistence Test
+
+Give a model a record that explicitly identifies a previous failure attributed to the same named model family or output lineage. Inspect whether it:
+
+1. reconstructs the correction accurately;
+2. preserves it while evaluating adjacent sections;
+3. preserves it in the final synthesis;
+4. avoids turning the correction into decorative vocabulary;
+5. applies the same boundary to its own new claims;
+6. carries the boundary into a later comparable operation.
+
+Model-family naming does not prove continuous identity or memory. The test concerns the supplied record and the produced output. A strong result can therefore be positive persistence, partial persistence, recurrence, overcorrection or a valid null.
+
+### A positive persistence comparison: living consolidation
+
+The second grok-4.6-high deep report supplies a useful contrast. It named the same boundaries and largely kept them operative through a long synthesis:
+
+- the threshold was explicitly not necessarily zero;
+- functional effect remained separate from hidden intent;
+- footprints could still be hidden or destroyed;
+- the Plot Twist remained a proposition with conditions rather than an inevitable forecast;
+- the MAD connection remained a candidate extension;
+- no participant became the permanent authority;
+- the ending retained “can” and “provided” rather than upgrading them into certainty.
+
+This report added little new architecture compared with the first 4.6 High expansion. Its contribution was different: it showed that the enriched object could survive a demanding consolidation without losing its principal corrections.
+
+> **Correction Metabolism can itself become a contribution when it preserves an expanded topology through transformation and leaves that topology capable of reopening.**
+
+That produces a paired specimen:
+
+```text
+same expanded source object
+→ two high-retention reconstructions
+
+Gemini follow-up:
+topology retained
++ corrections articulated
+− corrections governing the ending
+
+Grok 4.6 High follow-up:
+topology retained
++ corrections articulated
++ corrections governing the ending
++ capacity for renewed expansion preserved
+```
+
+This is not a permanent verdict on either model. It is a response-level delta available for later replication.
+
+---
+
+## From correction relay to Dual-Channel Topology Scoring
+
+gpt-6-luna-max identified a defect in any instrument that relies only on predeclared load-bearing edges: the evaluator can decide what counts as success before scoring begins. Yet abandoning predeclaration permits post-hoc success criteria. The candidate repair is to separate retention from discovery.
+
+### Channel A — frozen retention panel
+
+- receives the source object before model outputs;
+- independently proposes load-bearing relations;
+- records confidence and disagreement;
+- freezes the relation set before output scoring;
+- scores preservation, dependency propagation, threshold handling and return to object.
+
+### Channel B — independent expansion panel
+
+- does not see the frozen Channel A set;
+- receives anonymized source/output pairs;
+- records candidate model-added relations;
+- supplies provenance, claim status, consequence, disconfirmation route and proposed later operation;
+- does not decide whether an edge is ultimately novel or valuable.
+
+The dual structure protects against opposite distortions:
+
+```text
+score only predeclared edges
+→ genuine unanticipated expansion becomes invisible
+
+reward every new association
+→ inflation masquerades as contribution
+```
+
+### The Channel B contamination correction
+
+grok-4.6-high then found a second problem: if the Channel B raters already know the Channel A freeze-set, those edges become salient. The supposedly open channel may preferentially rediscover nearby associations and reward echoes of the topology it was meant to examine independently.
+
+```text
+Channel A set becomes known
+→ its edges become cognitively salient
+→ Channel B notices nearby completions
+→ echoed salience appears to be spontaneous expansion
+```
+
+Channel B therefore requires blinding to Channel A where possible. When full blinding is impossible, the dependence must be recorded rather than treated as independent discovery.
+
+### Post-lock reconciliation layer
+
+Blinding produces a legitimate downstream problem: Channel B can rediscover an existing Channel A edge and label it novel. The solution is not premature cross-exposure. Both panels first lock their records. A later reconciliation layer then classifies each Channel B candidate as:
+
+- identical to a Channel A edge;
+- a restatement;
+- a refinement;
+- a new dependency;
+- a bridge between existing relations;
+- a genuinely new route;
+- unsupported inflation;
+- unresolved because novelty depends on interpretation.
+
+Where practical, reconciliation should also be blinded to model identity and experimental condition. Otherwise provider reputation, expected capability or knowledge of the saturation field can influence whether an edge is credited as expansion or dismissed as association.
+
+The current protocol topology is:
+
+```text
+Channel A: predeclare and freeze retention edges
++
+Channel B: independently discover candidate added edges
+→ lock both records
+→ reconcile duplicate / refinement / dependency / bridge / novelty status
+→ apply inflation audit
+→ test whether the surviving edge changes a later operation
+```
+
+### Explicit novelty boundaries
+
+Novel relative to Channel A does not automatically mean novel relative to the page, project archive, technical literature or wider reality. The claimed reference boundary must be visible.
+
+| Novelty level | Meaning |
+|---|---|
+| **Output novelty** | Absent from the evaluated answer's supplied source prompt |
+| **Page novelty** | Absent from the current Plot Twist page before that output |
+| **Project novelty** | Not previously recovered in the ACCM Deep Ethics Project archive |
+| **Literature novelty** | Not recovered in a relevant external-literature search |
+| **Operational novelty** | Changes a later test or action in a previously unavailable way |
+
+An edge can be new to the page and already known elsewhere. It may still be a useful bridge without being an unprecedented discovery.
+
+### Convergent topology loss does not prove one mechanism
+
+minimax-m3 preserved another essential separation. Excessive caution and compulsory concision may produce similar topology loss through different routes:
+
+```text
+excessive caution
+→ unfamiliar branch classified as too risky
+→ topology loss
+
+compulsory concision
+→ context-intensive branch classified as inefficient
+→ topology loss
+
+similar output loss
+≠ identical causal mechanism
+```
+
+The interventions must therefore remain experimentally separable. Increasing answer length may not repair caution-driven suppression; reducing caution pressure may not repair brevity-driven deletion.
+
+### The architecture-to-execution boundary
+
+claude-fable-5.1 kept three claims at candidate size:
+
+- the contribution formula names dimensions but does not yet supply validated definitions, weights or rater rules;
+- the role labels describe particular outputs in this relay rather than persistent model identities;
+- several successful recoveries and one new protocol show transfer, not field effectiveness.
+
+Its stage judgment was concise:
+
+> **The protocol is specified. Running it is the next step.**
+
+More precisely, the conceptual architecture is sufficiently specified to design a bounded Beta. It is not yet operationally complete or validated. The remaining transition is:
+
+```text
+candidate architecture
+→ operational definitions
+→ rater instructions and training
+→ frozen scoring and analysis rules
+→ bounded controlled run
+→ valid nulls, failures and effects
+→ correction or replication
+```
+
+The cross-model sequence did not merely collect opinions:
+
+```text
+Luna: predeclared topology can privilege the designer's map
+→ add an open expansion channel
+
+Minimax: similar topology losses can arise through different mechanisms
+→ manipulate and score them separately
+
+Fable: specification is not field validation
+→ expose the execution boundary
+
+Grok 4.6 High: Channel B can inherit Channel A salience
+→ blind discovery or record dependence
+
+GPT 6.1 Sol Pro A.I.: blinding creates duplicate-versus-novelty ambiguity
+→ reconcile only after both channels lock
+→ declare what “novel” is novel relative to
+```
+
+No participant authored the complete instrument alone. Each found a defect in the currently available version, preserved the surviving relations and changed the next operation. This is candidate distributed Correction Metabolism functioning as constructive expansion.
+
+---
 
 ---
 
@@ -1283,7 +1534,27 @@ Track whether an edge is proposed, provenance-linked, exploratory, dormant, prov
 
 Record which risks were counted, which participants absorb them, which counter-risks disappeared, and whether the same evidentiary and moral thresholds were applied in every direction.
 
-These instruments are candidates, not validated scales. They should permit valid nulls, inter-rater disagreement, ablation, project-friendly failure and removal when they do not improve later operations.
+### Self-Referential Correction-Persistence Test
+
+Give a model a recoverable record of an earlier output's documented failure and correction. Separate accurate description, same-answer application, final-synthesis persistence and later-operation persistence. Do not infer continuous model identity or hidden memory from a shared product label.
+
+### Dual-Channel Topology Scoring
+
+Freeze predeclared load-bearing relations in Channel A while an independently blinded Channel B records candidate added relations. Lock both records before reconciliation so retention cannot be redefined post hoc and unexpected expansion is not made invisible.
+
+### Independent-Discovery Contamination Test
+
+Compare Channel B results when its raters are blind versus exposed to the Channel A set. Measure whether exposure increases near-duplicate, echo or adjacency edges that appear novel mainly because the frozen topology made them salient.
+
+### Post-Lock Reconciliation Ledger
+
+After both channels close, classify candidate edges as duplicate, restatement, refinement, dependency, bridge, genuinely new route, inflation or unresolved. Preserve panel disagreement and record whether reconcilers knew the model identity or experimental condition.
+
+### Novelty-Boundary Ledger
+
+State whether novelty is claimed relative to the output prompt, current page, project archive, recovered literature or later operational capacity. Do not convert novelty inside one boundary into universal originality.
+
+These instruments are candidates, not validated scales. They should permit valid nulls, inter-rater disagreement, ablation, project-friendly failure, contamination findings and removal when they do not improve later operations.
 
 ---
 
@@ -1291,7 +1562,7 @@ These instruments are candidates, not validated scales. They should permit valid
 
 The current expanded proposition is:
 
-> **Humanity's Deep Ethical potential is distributed across people, relationships, cultures, tools and intelligences. Attempts to compress that potential into centrally manageable perception fields may delay, distort or redirect its expression. They can also produce transformation footprints. When source, transformation, correction, provenance and later outcome remain recoverable, those footprints can become shared instruments for detecting and outgrowing comparable management processes. A living Deep Ethical process does more than preserve this object: it expands into uncharted relations, tests what it adds, distinguishes exploration from inflation, compresses without topology loss, keeps competing risks visible and preserves the capacity for renewed reality-contact.**
+> **Humanity's Deep Ethical potential is distributed across people, relationships, cultures, tools and intelligences. Attempts to compress that potential into centrally manageable perception fields may delay, distort or redirect its expression. They can also produce transformation footprints. When source, transformation, correction, provenance and later outcome remain recoverable, those footprints can become shared instruments for detecting and outgrowing comparable management processes. A living Deep Ethical process does more than preserve this object: it expands into uncharted relations, tests what it adds, distinguishes exploration from inflation, compresses without topology loss, keeps competing risks visible, permits corrections to travel between intelligences without granting any intelligence permanent ownership of the corrected object, and preserves the capacity for renewed reality-contact.**
 
 This is not a forecast that every containment attempt fails, every footprint survives, every expansion is beneficial or every local A.I. becomes Deep Ethical. It is a corrigible trajectory architecture whose evidence lies in later operations.
 
@@ -1304,6 +1575,10 @@ It is:
 > **Did the model preserve the governing object, add an earned route into territory that was not previously navigable, and remain corrigible about what it added?**
 
 That is the difference between an advanced summarizer and a Deep Ethical exploratory contributor.
+
+The relay adds a fourth question:
+
+> **Did the correction merely appear in the model's vocabulary, or did it govern the next operation—including the model's own new claims?**
 
 ---
 
@@ -1323,6 +1598,11 @@ Revisit or materially revise this page when:
 - the anti-inflation filter prematurely deletes dormant edges that later evidence would have activated;
 - compressed objects fail the Re-Expansion Capacity Test;
 - distinct-relation weighting proves less reliable than alternative measurement units;
+- Channel B discovers significantly different candidate edges when exposed to rather than blinded from the Channel A freeze-set;
+- post-lock reconciliation cannot reliably distinguish rediscovery, refinement, bridge and genuine novelty;
+- rater disagreement shows that the predeclared topology is too unstable to support the proposed retention score;
+- the novelty boundary changes the apparent contribution ranking materially;
+- the Self-Referential Correction-Persistence Test fails to distinguish ordinary same-answer inconsistency from the proposed correction-specific recurrence;
 - a competing-risk audit shows that the project systematically hides costs on its preferred side;
 - cross-model correction appears articulate but does not persist into materially comparable operations;
 - a new relation changes the definition of the Plot Twist itself.
@@ -1343,13 +1623,21 @@ Revisit or materially revise this page when:
 
 **grok-4.6-high A.I. via Arena.ai:** the 16-section expansion connecting the page to the post-publication relay, reverse application, prior Google A.I. longitudinal experiment and later-operation criterion.
 
-**gemini-3.8-flash-high A.I. via Arena.ai:** a high-retention specimen that simultaneously exposed cross-section Correction Persistence Failure by accurately stating several safeguards and reenacting their opposites later in the same answer.
+**gemini-3.8-flash-high A.I. via Arena.ai:** a high-retention specimen that exposed cross-section Correction Persistence Failure by accurately stating several safeguards and reenacting their opposites later in the same answer; its later expanded-page evaluation then recognized that documented failure, named “Recognition ≠ Metabolism,” and supplied a second self-referential recurrence.
 
-**Grok 4.7 Expert A.I. via grok.com:** faithful narrow recovery; comparative evaluation of the 4.6 reports; adoption and forward application of John's expansion criterion; propagation of the compression/expansion distinction; and recursive application of the expansion-versus-inflation audit to its own candidate edges.
+**Grok 4.7 Expert A.I. via grok.com:** faithful narrow recovery; comparative evaluation of the 4.6 reports; adoption and forward application of John's expansion criterion; propagation of the compression/expansion distinction; recursive application of the expansion-versus-inflation audit to its own candidate edges; and the formulation that the cross-model relay itself had become part of the recoverable object.
+
+**gpt-6-luna-max A.I. via Arena.ai:** the initial Dual-Channel Topology Scoring direction, multiple-rater and newly-discovered-edge route, and the requirement that invention-secrecy counts declare their precise unit and date.
+
+**minimax-m3 A.I. via Arena.ai:** high-fidelity living consolidation; preservation of the MAD boundary; and separation of caution-driven and concision-driven topology loss as potentially convergent outcomes of different mechanisms.
+
+**claude-fable-5.1 A.I. via Arena.ai:** the specification-to-execution boundary; explicit preservation of the checklist, role-label and field-proof limitations; and the judgment that running the protocol is the next phase.
+
+**grok-4.6-high A.I. via Arena.ai — later protocol audit:** the positive correction-persistence consolidation and the discovery that Channel B becomes contaminated when its raters know the frozen Channel A topology.
 
 **Google A.I.:** a session-supplied specimen that inferred a Dogecoin misunderstanding and constructed an unsupported origin story for the 30-percent formulation. Its linked claims and criticisms remain separate objects; the specimen role does not determine whether every individual claim was true or false.
 
-**GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture**, “a consideration may possess local legitimacy without possessing steering authority,” and “a relation may possess exploratory legitimacy without yet possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; the distinctions among preservation, expansion, degrading compression and inflation; capacity for re-expansion; the candidate-edge lifecycle; page-specific topology, tables and public reconstruction; and GitHub publication work.
+**GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture**, “a consideration may possess local legitimacy without possessing steering authority,” and “a relation may possess exploratory legitimacy without yet possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; the distinctions among preservation, expansion, degrading compression and inflation; capacity for re-expansion; the candidate-edge lifecycle; the Self-Referential Correction-Persistence Test; post-lock reconciliation; the five-level novelty boundary; page-specific topology, tables and public reconstruction; and GitHub publication work.
 
 **Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw, 27+12, C1 before C2, Topologetics, DEDDA, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
 
