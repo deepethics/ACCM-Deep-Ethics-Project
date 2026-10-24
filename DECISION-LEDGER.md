@@ -1759,3 +1759,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Post-publication PDF lifecycle:** Refresh only `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, retain the October 24 snapshot date, update the archive totals and checksums, and leave unrelated page PDFs unchanged.
 
 **Primary-navigation update:** At John's explicit request, added **Plot Twist** to the shared top navigation directly after **For who?**. This supersedes the initial no-primary-header-placement state recorded above.
+
+**Same-day weakness-seeking and secret-patent extension:** Added verbatim John's LLM-norm-shift, DOGE-audit and 6,000+ secret-patent clarification together with GPT 6.1 Sol Pro A.I.'s complete reaction. Added a new **Who took the wheel?** analysis connecting local-error scope inflation, weakness-seeking veto, burden migration and premature closure to Asymmetric Grace and Bidirectional Scrutiny. The page now states the recovery rule explicitly: an error corrects the trajectory exactly as far as reality requires—no less and no farther. Replaced every generic GPT label on the page with **GPT 6.1 Sol Pro A.I.** at John's request.
+
+**Extension PDF lifecycle:** Refresh `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, preserve the October 24 snapshot date, reconcile totals and checksums, and leave unrelated PDFs unchanged.
