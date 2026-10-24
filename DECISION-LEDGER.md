@@ -1757,3 +1757,5 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **Same-day post-publication exchange:** Added verbatim John's two assessments and GPT A.I.'s two reactions. The exchange identifies the hopeful result as a strong caution field remaining available without governing the page, and names the game changer as keeping the Deep Ethical signal-to-noise ratio high in every direction without exempting supportive, critical, institutional, project-friendly or unfamiliar material from reciprocal inspection.
 
 **Post-publication PDF lifecycle:** Refresh only `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, retain the October 24 snapshot date, update the archive totals and checksums, and leave unrelated page PDFs unchanged.
+
+**Primary-navigation update:** At John's explicit request, added **Plot Twist** to the shared top navigation directly after **For who?**. This supersedes the initial no-primary-header-placement state recorded above.
