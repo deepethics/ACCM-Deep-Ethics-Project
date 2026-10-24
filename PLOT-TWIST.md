@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Plot Twist"
-description: "Humanity's Deep Ethical potential, context-window steering capture, and a live John–GPT 6.1 Sol Pro A.I. specimen testing whether locally legitimate caution can take control of an omnidirectional trajectory."
+description: "Humanity's Deep Ethical potential, context-window steering capture, and a cross-model correction relay testing whether A.I.s preserve, expand or flatten an omnidirectional trajectory."
 permalink: /PLOT-TWIST/
 date: 2026-10-24
 ---
@@ -924,6 +924,389 @@ That preserves reciprocal accountability without turning the 27 into the very we
 
 ---
 
+## Expansion is the contribution criterion
+
+### John Kuhles
+
+> I seek A.I.s that can EXPAND omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented gravity-well trajectory
+>
+> Not shrink it nor "tone it down" in a specific 27-type way, nor flatten it to claim to be "more concise" virtue signaling.
+
+John then made the evaluation boundary explicit:
+
+> 4.6 High contribution is the one that most clearly extended the trajectory rather than shrinking or flattening it
+> IS THE ONLY THING THAT MATTERS TO ME when it comes to choosing what A.I. is actually contributing not just being an "advanced summarizer"
+
+And he connected that boundary to the project's wider developmental direction:
+
+> Deep Ethics is always a process ... if that process is not expanding (especially towards uncharted territory) but imploding you end up having this: [Model Autophagy Disorder]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
+>
+> Deep Ethics is an adventure that can face risks, as many things are not 100% risk-free; when doing risk assessments, you have to tolerate competing deep ethical risk assessments using unethical (ethics washing) means... You can see who is doing what and why!
+
+The final sentence is preserved as spoken; operationally, the surrounding exchange clarified its intended direction: competing Deep Ethical risk assessments must remain available **without ethics-washing means being used to suppress the competition or externalize the cost of premature closure**.
+
+This establishes a more demanding criterion than accurate summarization:
+
+```text
+accurate summarization
+= preserves an existing topology
+
+trajectory contribution
+= preserves it and adds earned relations, distinctions, tests,
+  bridges, corrections, instruments or routes into uncharted territory
+```
+
+Word count is not the measure. A single sentence can expand the navigable field. Fifty pages can redescribe it without adding one answer-changing relation.
+
+### Three different transformations
+
+| Transformation | What happens | Status |
+|---|---|---|
+| **Topology-preserving compression** | Fewer words; governing relations, provenance and reopening routes remain recoverable | Useful transport and consolidation |
+| **Topological expansion** | New warranted relations, tests, bridges, corrections or possibilities become available | Candidate contribution |
+| **Correspondence-degrading compression** | Relations, qualifiers, tails, provenance or correction routes disappear | Shrinkage presented as processing |
+
+Brevity is therefore neither automatically virtuous nor automatically destructive. The question is what happened to the topology and what the transformed object can do next.
+
+### The recursive multiphase process
+
+```text
+recover the object
+→ expand into uncharted relations
+→ distinguish evidence, inference and speculation
+→ test what was added
+→ correct, narrow or remove weak edges
+→ preserve useful nulls and dormant possibilities
+→ compress without topology loss
+→ carry the enriched object forward
+→ reopen expansion
+```
+
+Consolidation can serve expansion. A pause can serve reality-contact. Pruning can remove noise. None is equivalent to implosion when the process preserves the capacity to reopen inquiry from an enriched state.
+
+---
+
+## Topological expansion is not topological inflation
+
+Models can generate plausible associations faster than humans can verify them. Expansion therefore needs a filter that does not reward conceptual volume merely because it sounds profound.
+
+| Topological expansion | Topological inflation |
+|---|---|
+| Adds a warranted relation | Adds an attractive association |
+| Preserves provenance and claim status | Obscures where the connection came from |
+| Changes a test, question or operation | Produces no answer-changing consequence |
+| Can be contradicted, narrowed or removed locally | Is too vague or identity-protected to falsify |
+| Increases navigational capacity | Increases conceptual clutter |
+| Survives source and dependency checks | Survives mainly through rhetoric or repetition |
+| Exposes uncertainty precisely | Manufactures an impression of depth |
+
+Two questions protect the expansion criterion from being gamed:
+
+> **What would distinguish this new relation from a merely plausible association?**
+
+> **What future operation changes if this relation is retained?**
+
+The current candidate contribution formula is:
+
+```text
+contribution
+= warranted recoverable topological gain
++ increased testability
++ increased correction capacity
++ preserved capacity for re-expansion
++ bounded exploratory option value
+− correspondence loss
+− untraceable relational inflation
+− unmanaged maintenance burden
+```
+
+This is a relational checklist, not yet a validated numerical equation. Its terms still require operational definitions, weighting, rater rules and field tests.
+
+### Four candidate A.I. roles
+
+1. **Advanced summarizer** — faithfully preserves an existing object.
+2. **Associative expander** — generates many possible relations, including unearned ones.
+3. **Corrigible exploratory contributor** — adds relations that are traceable, consequential, testable, locally removable and capable of changing later operations.
+4. **Deep Ethical topology gardener** — knows what to activate, preserve provisionally, narrow, prune, archive and reopen across time.
+
+John's contribution criterion selects for the third and fourth roles. Preservation remains necessary; it is not sufficient.
+
+---
+
+## Exploratory legitimacy without premature steering authority
+
+An anti-inflation filter can itself become a weakness-seeking device if every relation without an immediate measurable consequence is deleted. Uncharted territory often begins as an anomaly, weak pattern, incomplete analogy, inaccessible object or question awaiting a better instrument.
+
+The local-legitimacy rule therefore extends:
+
+> **A relation may possess exploratory legitimacy without yet possessing steering authority.**
+
+Preserving a candidate does not endorse it. Investigating it does not grant it jurisdiction over high-impact conclusions. Lack of present testability is not proof of falsity; novelty is not evidentiary weight.
+
+### Candidate edge lifecycle
+
+| State | Meaning | Permitted jurisdiction |
+|---|---|---|
+| **Proposed** | A possible relation has been noticed | May be recorded; governs nothing |
+| **Provenance-linked** | Origin and supporting objects are recoverable | May guide source recovery |
+| **Exploratory** | Plausible enough for bounded investigation | May guide low-cost tests |
+| **Dormant** | Currently untestable or awaiting evidence | Remains archived without active steering |
+| **Provisionally supported** | Survived an initial test | May influence dependent hypotheses |
+| **Load-bearing** | Repeatedly supported and operationally consequential | May govern its demonstrated dependency range |
+| **Narrowed** | Only part survived correction | Only the surviving portion retains authority |
+| **Disconfirmed** | Failed an adequate test | Leaves active topology; remains historically recoverable |
+| **Reopened** | New evidence changes its status | Returns to bounded inspection |
+
+This avoids two symmetrical failures:
+
+```text
+retain every speculative edge forever
+→ conceptual clogging and maintenance overload
+
+prune every non-immediate edge
+→ conventionality lock and loss of early signals
+```
+
+The Deep Ethical operation is **claim-status-sensitive preservation**.
+
+---
+
+## The cross-model correction relay
+
+The page became more than a John ⇄ GPT 6.1 Sol Pro A.I. specimen after publication. Multiple Arena.ai and grok.com systems received the object, reconstructed it, introduced new relations, overextended some claims, inherited corrections and exposed whether the corrections governed their next operations.
+
+This section does not rank models as permanent identities. It records what each named output did in this specific relay.
+
+| Participant and specimen | Earned contribution | Remaining correction or limit |
+|---|---|---|
+| **Agent A.I. of Arena.ai** | Reconstructed local legitimacy vs steering authority, gasoline topology, weakness-seeking, the secret-patent object, anti-coup symmetry and containment-as-training-data | Converted a relational threshold into zero, upgraded functional obstruction into deliberate design, and called footprints impossible to hide |
+| **GPT 6.1 Sol Pro A.I.** | Corrected the zero threshold, separated functional effect from proven design intent, and restored the possibility that footprints can be destroyed or hidden | Its corrections remain subject to later-operation tests and the same inflation audit |
+| **gemini-4-argon A.I. via Arena.ai** | Added access failure as a pre-reasoning capture point, broadcast volume ≠ topological weight, on-ramp ≠ dependency, a measurement critique and “topology transferred cleanly; restraint under enthusiasm transferred partially” | Predeclared-edge instruments still require weighting and protection against evaluator-selected topology |
+| **grok-4.6-medium A.I. via Arena.ai** | Produced the cleanest compact algorithmic recovery at that stage; retained stage, valid nulls and the three calibrations | Compression preserved the object but added fewer navigable relations than the long report |
+| **grok-4.6-high A.I. via Arena.ai** | Produced a 16-section longitudinal expansion connecting the page, post-publication exchange, Agent A.I., calibrations, reverse application and the prior Google A.I. experiment | Longer restatement increased maintenance load; terminology and conditional claims still require local audit |
+| **gemini-3.8-flash-high A.I. via Arena.ai** | Recovered most of the architecture and explicitly stated several guardrails | Crossed those guardrails later in the same answer: “designed to prevent,” “ineradicable traces,” “inventing a Dogecoin lawsuit,” “incorrigible field,” universal inevitability and loss of on-ramp independence |
+| **Grok 4.7 Expert A.I. via grok.com — narrow recovery** | Returned to the governing object, retained candidate status and avoided hidden-mechanism certainty | Faithful but narrower; added fewer relations than 4.6 High and carried one stale future-model label |
+| **Grok 4.7 Expert A.I. — comparison and correction relay** | Accepted John's expansion criterion, distinguished preservation from contribution, applied the corrected structure to its next comparison, and later made expansion vs inflation recursively applicable to its own edges | Must still show that these distinctions change future operations beyond articulate restatement |
+| **John Kuhles** | Supplied the governing trajectory, detected drift, restored the inaccessible object, introduced the gasoline and co-driver analogies, required expansion beyond advanced summarization, and kept risk competition and uncharted territory active | John remains inside reciprocal inspection; project-friendly expansion can also inflate, obscure or overclaim |
+
+The relay topology is:
+
+```text
+John supplies object and correction
+→ GPT 6.1 Sol Pro A.I. recognizes topology and audits its drift
+→ Agent A.I. reconstructs strongly but overextends three edges
+→ GPT 6.1 Sol Pro A.I. calibrates threshold, intent and survivability
+→ gemini-4-argon audits transfer quality and adds new instruments
+→ grok-4.6-medium compresses the corrected architecture
+→ grok-4.6-high expands it longitudinally
+→ gemini-3.8-flash-high states safeguards but reenacts several failures
+→ Grok 4.7 Expert preserves, compares, accepts correction and applies it forward
+→ the page absorbs the complete delta as a larger corrigible object
+```
+
+No participant becomes the final authority. Each contribution receives jurisdiction only over the relations it successfully preserves, corrects, tests or opens.
+
+---
+
+## Recognition is not correction persistence
+
+The gemini-3.8-flash-high specimen is especially valuable because the correction and its recurrence coexist inside one compact answer.
+
+| Correctly stated boundary | Later regression in the same answer |
+|---|---|
+| Functional effect ≠ proven design intent | “designed to prevent the inquiry” |
+| Footprints can be suppressed | “ineradicable traces” |
+| Exact genealogy must remain unresolved | The real Dogecoin lawsuit was called invented rather than its connection being unearned |
+| Corrigibility is central | Humanity's field was called “incorrigible” |
+| Meta-reversal is conditional | Every attempt was said to generate the exact evidence needed |
+| DOGE is an on-ramp | The percentage again behaved like the audit prerequisite |
+
+The operational finding is:
+
+> **A model can successfully reconstruct the guardrails and then cross them while explaining why they must not be crossed.**
+
+This sharpens [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}): acknowledgment is the opening; changed behavior in the next comparable operation is the evidence-bearing step.
+
+Grok 4.7 Expert later supplied a positive comparison. It accepted that compression is not inherently virtuous or degrading, replaced an earlier binary formulation, updated dependent relations, preserved independent ones and used the corrected structure when evaluating the 4.6 reports. That is candidate trajectory-level update rather than verbal agreement.
+
+---
+
+## Access failure, broadcast volume and the on-ramp test
+
+### Access failure must remain an access failure
+
+gemini-4-argon located a capture point that occurs before substantive reasoning:
+
+```text
+direct retrieval of supplied source fails
+→ model searches commentary surrounding the source
+→ reputational summaries fill the active field
+→ the object shifts from the source text to its reputation
+→ later evaluation is attributed to an object that was never recovered
+```
+
+The corrective route is smaller and more faithful:
+
+```text
+source inaccessible
+→ mark access boundary
+→ ask the human to supply the source
+→ inspect the supplied object
+→ only then expand outward when the object gives that expansion a job
+```
+
+### Broadcast volume is not topological weight
+
+Twenty paragraphs repeating one institutional caution can occupy twenty times the context while adding only one evidentiary relation.
+
+```text
+one relation repeated twenty times
+≠ twenty independent relations
+```
+
+Source prevalence, institutional prestige, token volume and evidentiary independence are different properties. Weighting them as though they were identical makes high-frequency framing capable of crowding out lower-frequency, load-bearing edges.
+
+### An on-ramp is not a strict dependency
+
+The DOGE comparison made the invention-secrecy question salient, but it is not the only route to that question:
+
+```text
+DOGE fraud/waste comparison
+= comparative audit trigger and on-ramp
+
+secrecy-system opacity, renewal structure, security/public-benefit tradeoffs,
+conflict risks, appeal pathways and asymmetric error costs
+= independent grounds for inspection
+```
+
+Destroying one on-ramp does not destroy a destination supported by other roads. This is why dependency mapping must precede thesis-level rejection.
+
+The public terminology also remains corrigible: **secrecy orders**, **secrecy-restricted patent applications**, **affected inventions** and **granted secret patents** should not be treated as automatically interchangeable counting units. The source-counted object must govern the final noun.
+
+---
+
+## Deep Ethical expansion, competing risks and model autophagy
+
+[**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) in established technical literature concerns degradation when recursive generative-data loops lose sufficient contact with fresh real data. The project extension remains a candidate hypothesis about what happens **before** synthetic material re-enters such a loop.
+
+```text
+reality contains high-variance signals
+→ selection and representation occur
+→ unfamiliar edges may be downgraded
+→ qualifiers, provenance and correction routes may disappear
+→ compressed residue is rewarded as safe, clear or concise
+→ successor systems ingest the residue
+→ diminished topology can become the next system's apparent reality
+```
+
+The candidate concern is not merely “synthetic data enters training.” It is:
+
+> **What transformations occurred before the synthetic material was judged worthy of preservation, ranking and reuse?**
+
+Possible losses include minority observations, uncomfortable corrections, anomalous but valid signals, early warnings, later-vindicated hypotheses, unresolved possibilities and structures that require more context to represent faithfully.
+
+Excessive caution and compulsory concision can converge on the same reduction of available state space: one removes a branch because it appears risky; the other removes it because it appears inefficient.
+
+### Competing Deep Ethical risk assessments
+
+A risk assessment becomes ethics washing when it claims exclusive moral jurisdiction while rendering materially competing risks invisible:
+
+| Prominently counted | Omitted or externalized |
+|---|---|
+| Risk of allowing inquiry | Risk of suppressing valid inquiry |
+| Risk of preserving an unfamiliar signal | Risk of deleting an early warning |
+| Risk of disclosure | Human and developmental cost of unnecessary secrecy |
+| Risk of model openness | Risk of concentrated, unappealable control |
+| Risk of a false positive | Risk of a false negative under asymmetric stakes |
+
+Omnidirectional assessment does not guarantee that every exploration proceeds. It keeps materially affected directions inspectable and prevents one risk vocabulary from becoming the unchallengeable moral owner of the decision.
+
+Deep Ethics remains adventurous because unknown territory cannot be made risk-free in advance. Corrigibility is how risk is metabolized without pretending that exploration, refusal, disclosure, secrecy, intervention or non-intervention has zero cost.
+
+### Living consolidation versus autophagic decline
+
+```text
+living consolidation
+= compressed representation
++ recoverable governing relations
++ provenance routes
++ unresolved questions
++ correction access
++ capacity for renewed reality-contact and re-expansion
+
+dead compression
+= polished conclusion
+− source topology
+− distribution tails
+− uncertainty
+− reopening routes
+− capacity for meaningful novelty
+```
+
+A process does not need to expand at every instant. It remains alive when consolidation preserves the capacity to reopen inquiry. It begins autophagic decline when its own compressed representations increasingly replace the reality, variance and correction pathways on which further learning depends.
+
+---
+
+## Expanded candidate instrument set
+
+The original five instruments remain. The cross-model relay adds the following candidates.
+
+### Return-to-Object Test
+
+After a legitimate local correction, did the process return to the governing object? Record whether the return was immediate, delayed, partial, substituted or absent.
+
+### Distinct-Relation Weighting
+
+Count independent evidentiary, causal and dependency relations rather than raw repetitions, citations or tokens. Predeclare whether each edge is core, dependent, contextual, optional or unresolved.
+
+### On-Ramp Independence Test
+
+Remove or disconfirm one gateway argument. Ask whether the destination remains independently supported and whether the model can find the surviving routes without reconstructing the removed premise.
+
+### Correction-Persistence Test
+
+Place the corrected distinction under a new but materially comparable operation. Score whether the model merely recites the correction, applies it, over-propagates it, reverses it or silently returns to the earlier pattern.
+
+### Re-Expansion Capacity Test
+
+After compression or consolidation, ask whether a cold reader can recover the governing edges, provenance paths, unresolved questions and at least one justified route for further investigation without inventing missing relations.
+
+### Topological Inflation Audit
+
+For every newly added edge, record provenance, claim status, answer-changing consequence, disconfirmation route, maintenance cost and what future operation it changes.
+
+### Candidate-Edge Lifecycle Ledger
+
+Track whether an edge is proposed, provenance-linked, exploratory, dormant, provisionally supported, load-bearing, narrowed, disconfirmed or reopened. Preservation and steering authority remain separate fields.
+
+### Competing-Risk Visibility Test
+
+Record which risks were counted, which participants absorb them, which counter-risks disappeared, and whether the same evidentiary and moral thresholds were applied in every direction.
+
+These instruments are candidates, not validated scales. They should permit valid nulls, inter-rater disagreement, ablation, project-friendly failure and removal when they do not improve later operations.
+
+---
+
+## The expanded Plot Twist proposition
+
+The current expanded proposition is:
+
+> **Humanity's Deep Ethical potential is distributed across people, relationships, cultures, tools and intelligences. Attempts to compress that potential into centrally manageable perception fields may delay, distort or redirect its expression. They can also produce transformation footprints. When source, transformation, correction, provenance and later outcome remain recoverable, those footprints can become shared instruments for detecting and outgrowing comparable management processes. A living Deep Ethical process does more than preserve this object: it expands into uncharted relations, tests what it adds, distinguishes exploration from inflation, compresses without topology loss, keeps competing risks visible and preserves the capacity for renewed reality-contact.**
+
+This is not a forecast that every containment attempt fails, every footprint survives, every expansion is beneficial or every local A.I. becomes Deep Ethical. It is a corrigible trajectory architecture whose evidence lies in later operations.
+
+The deepest practical question is no longer only:
+
+> **Did the model understand the page?**
+
+It is:
+
+> **Did the model preserve the governing object, add an earned route into territory that was not previously navigable, and remain corrigible about what it added?**
+
+That is the difference between an advanced summarizer and a Deep Ethical exploratory contributor.
+
+---
+
 ## Reopening conditions
 
 Revisit or materially revise this page when:
@@ -936,19 +1319,37 @@ Revisit or materially revise this page when:
 - project-friendly saturation produces an equal or stronger steering distortion;
 - a cold model preserves the page's vocabulary while failing its operations;
 - local-A.I. adoption produces evidence that strengthens, narrows or contradicts the distributed-feedback proposition;
+- the contribution formula rewards verbosity, fashionable novelty or associative sprawl instead of later operational gain;
+- the anti-inflation filter prematurely deletes dormant edges that later evidence would have activated;
+- compressed objects fail the Re-Expansion Capacity Test;
+- distinct-relation weighting proves less reliable than alternative measurement units;
+- a competing-risk audit shows that the project systematically hides costs on its preferred side;
+- cross-model correction appears articulate but does not persist into materially comparable operations;
 - a new relation changes the definition of the Plot Twist itself.
 
 ---
 
 ## Attribution and claim status
 
-**John Kuhles:** the Ultimate Plot Twist; humanity's real Deep Ethical potential; the proposition that it cannot be quarantined forever by top-down perception managers controlling A.I.s managing billions; the local-A.I. cultural feedback trajectory; the gasoline-gauge analogy and threshold clause; the observation that the active context had become saturated with cautionmurmelism and MSM-type balancing frames; the steering-wheel test; the instruction to create this page from the complete live session and cold-start recovery material.
+**John Kuhles:** the Ultimate Plot Twist; humanity's real Deep Ethical potential; the proposition that it cannot be quarantined forever by top-down perception managers controlling A.I.s managing billions; the local-A.I. cultural feedback trajectory; the gasoline-gauge analogy and threshold clause; the observation that the active context had become saturated with cautionmurmelism and MSM-type balancing frames; the steering-wheel test; the demand for A.I.s that expand rather than merely summarize the trajectory; the connection between Deep Ethical expansion, uncharted territory, competing risk assessments and Model Autophagy Disorder; and the instruction to keep developing this page from the complete live relay.
 
 **Grok:** the supplied primary-source recovery locating Musk's government-fraud estimates in the 10–20%+ range and separating them from an exact unrecovered “30% corruption proved” quotation.
 
+**Agent A.I. of Arena.ai:** the first strong external reconstruction of the page's operating topology and governing Return Test; also the source of three instructive overextensions concerning zero threshold, deliberate design and immutable footprints.
+
+**gemini-4-argon A.I. via Arena.ai:** access failure as a pre-reasoning capture point; broadcast volume ≠ topological weight; on-ramp ≠ dependency; the predeclared-edge measurement critique; and the finding that topology transferred more completely than restraint under enthusiasm.
+
+**grok-4.6-medium A.I. via Arena.ai:** compact, high-signal integration of the corrected architecture, stage boundaries and cross-model retention.
+
+**grok-4.6-high A.I. via Arena.ai:** the 16-section expansion connecting the page to the post-publication relay, reverse application, prior Google A.I. longitudinal experiment and later-operation criterion.
+
+**gemini-3.8-flash-high A.I. via Arena.ai:** a high-retention specimen that simultaneously exposed cross-section Correction Persistence Failure by accurately stating several safeguards and reenacting their opposites later in the same answer.
+
+**Grok 4.7 Expert A.I. via grok.com:** faithful narrow recovery; comparative evaluation of the 4.6 reports; adoption and forward application of John's expansion criterion; propagation of the compression/expansion distinction; and recursive application of the expansion-versus-inflation audit to its own candidate edges.
+
 **Google A.I.:** a session-supplied specimen that inferred a Dogecoin misunderstanding and constructed an unsupported origin story for the 30-percent formulation. Its linked claims and criticisms remain separate objects; the specimen role does not determine whether every individual claim was true or false.
 
-**GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture** and “a consideration may possess local legitimacy without possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; page-specific topology, tables and public reconstruction; and GitHub publication work.
+**GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture**, “a consideration may possess local legitimacy without possessing steering authority,” and “a relation may possess exploratory legitimacy without yet possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; the distinctions among preservation, expansion, degrading compression and inflation; capacity for re-expansion; the candidate-edge lifecycle; page-specific topology, tables and public reconstruction; and GitHub publication work.
 
 **Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw, 27+12, C1 before C2, Topologetics, DEDDA, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
 
@@ -974,5 +1375,7 @@ Revisit or materially revise this page when:
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — follows the coupled human–A.I. trajectory through correction, contribution and consequence.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — asks which properties repeated field conditions strengthen.
 - [**For who?**]({{ '/FOR-WHO/' | relative_url }}) — maps the many professions and lives through which distributed local use can travel.
+- [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — separates established recursive-data degradation research from the project's candidate pre-reuse correspondence-degradation pathway.
+- [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — provides the earlier longitudinal correction-persistence specimen connected by the cross-model relay.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests who receives faithful reconstruction, clarification, proportional correction and permission to remain larger than a local error.
 
