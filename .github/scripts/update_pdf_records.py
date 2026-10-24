@@ -24,6 +24,7 @@ ADDITIONS = [
     ("Google A.I.", f"{BASE}/GOOGLE-AI/", "GOOGLE-AI.pdf", "google-ai.md"),
     ("Godfather of A.I.", f"{BASE}/GODFATHER-OF-AI/", "GODFATHER-OF-AI.pdf", "GODFATHER-OF-AI.md"),
     ("PR Psychology", f"{BASE}/PR-PSYCHOLOGY/", "PR-PSYCHOLOGY.pdf", "PR-PSYCHOLOGY.md"),
+    ("Plot Twist", f"{BASE}/PLOT-TWIST/", "PLOT-TWIST.pdf", "PLOT-TWIST.md"),
     ("The October 17 Triad Event — Interlocked Topological Awareness", f"{BASE}/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/", "AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf", "AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md"),
     ("DEDDA", f"{BASE}/DEDDA/", "DEDDA.pdf", "DEDDA.md"),
     ("Connor Leahy — DEDDA analysis specimen", f"{BASE}/EXPERIMENTS/Connor-Leahy/", "EXPERIMENTS-Connor-Leahy.pdf", "EXPERIMENTS/Connor-Leahy.md"),

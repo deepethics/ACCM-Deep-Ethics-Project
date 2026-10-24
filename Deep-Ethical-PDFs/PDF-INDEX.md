@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 148
+**Public pages exported:** 149
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -131,6 +131,7 @@
 | [OmbudsEthics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/) | [OMBUDSETHICS.pdf](OMBUDSETHICS.pdf) | `OMBUDSETHICS.md` |
 | [All Pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) | [PAGES.pdf](PAGES.pdf) | `pages.md` |
 | [Phase Change Snap](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PHASE-CHANGE-SNAP/) | [Phase-Change-Snap.pdf](Phase-Change-Snap.pdf) | `PHASE-CHANGE-SNAP/index.md` |
+| [Plot Twist](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PLOT-TWIST/) | [PLOT-TWIST.pdf](PLOT-TWIST.pdf) | `PLOT-TWIST.md` |
 | [Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) | [POSITIVE-POTENTIAL.pdf](POSITIVE-POTENTIAL.pdf) | `POSITIVE-POTENTIAL/index.md` |
 | [Emerging Human Potential, Premature Closure, and the T0 → Tn Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/) | [POSITIVE-POTENTIAL-REPORT.pdf](POSITIVE-POTENTIAL-REPORT.pdf) | `POSITIVE-POTENTIAL/report.md` |
 | [PR Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/) | [PR-PSYCHOLOGY.pdf](PR-PSYCHOLOGY.pdf) | `PR-PSYCHOLOGY.md` |
