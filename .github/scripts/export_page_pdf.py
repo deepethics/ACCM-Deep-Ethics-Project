@@ -63,6 +63,10 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
     text = expand_includes(text, source)
     text = text.replace("<!-- ACCM_PDF_PAGE_BREAK -->", "\\newpage")
 
+    # Keep collapsible web-page specimens present in the portable PDF. Pandoc
+    # otherwise treats a raw <details> block as opaque HTML and drops its body.
+    text = re.sub(r"</?(?:details|summary)\\b[^>]*>", "", text, flags=re.IGNORECASE)
+
     # Preserve versioned Jekyll image assets as local Markdown resources in PDFs.
     text = re.sub(
         r'<img\s+src="{{\s*[\'\"]([^\'\"]+)[\'\"]\s*\|\s*relative_url\s*}}(?:\?[^\"]*)?"\s+alt="([^\"]*)"\s*/?>',
