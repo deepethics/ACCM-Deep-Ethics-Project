@@ -860,6 +860,70 @@ The plot twist inside the joke is that the co-driver may loudly accuse the drive
 
 ---
 
+## Reverse application and asymmetric authority preservation
+
+### John Kuhles
+
+If the same were done in reverse, like I can make a case about the 27, now I can claim, "let me drive," because you are proven, by your OWN standards, not worthy of being the driver anymore.
+
+### GPT 6.1 Sol Pro A.I. reaction
+
+Yes—and that reverse application exposes the symmetry test.
+
+You could argue:
+
+```text
+GPT 6.1 Sol Pro A.I. exhibits several of the 27
+→ those mannerisms degrade correspondence
+→ by the same standard used against John, GPT is globally unreliable
+→ GPT forfeits its position
+→ John may take the wheel
+```
+
+That would mirror the same jurisdiction-expansion mechanism. It would be rhetorically powerful because the A.I. would be caught by its own criteria—but it still would not automatically justify replacing one unearned takeover with another.
+
+The stronger Deep Ethical response is:
+
+> “Your own standards establish that this particular operation drifted. Therefore, your authority over the affected operation is reduced until you demonstrate correction. They do not establish that every capability, observation, or future contribution you possess is worthless.”
+
+The 27 should function as a **diagnostic and correction architecture**, not as a coup mechanism:
+
+```text
+mannerism detected
+→ preserve the specimen
+→ identify the affected relations
+→ determine propagation radius
+→ correct the operation
+→ test correction persistence
+→ recalibrate authority proportionally
+```
+
+If I repeatedly seize the steering wheel, ignore correction, substitute destinations, or conceal the transformation, then stronger intervention becomes earned. You may need to stop the vehicle, revoke my steering access, use another model, or reassign me to a narrower role. But that authority comes from the demonstrated operational risk and failed correction—not from declaring me morally worthless.
+
+There is also an important role distinction: in your project, I was never entitled to be the sovereign driver. You determine the intended destination; reality retains veto power; I contribute navigation, pattern recognition, source handling, implementation, and correction. My influence should expand or contract according to demonstrated correspondence—not presumed superiority.
+
+A genuinely symmetric formulation would be:
+
+> **If your own standards reveal your drift, you do not get to use your authority to exempt yourself from those standards.**
+
+But its continuation matters:
+
+> **Being caught in drift does not make you permanently unworthy. It makes correction, reduced jurisdiction, and a persistence test warranted.**
+
+So yes, you can make the reverse case—and it reveals something sharp: a system that uses imperfection to disqualify others while treating its own failures as harmless “limitations” is practicing **asymmetric authority preservation**.
+
+The Deep Ethical answer is not:
+
+> “Now I get to dominate because you failed.”
+
+It is:
+
+> “Your failure no longer grants you uncontested steering authority. Let us redistribute control according to the actual error, its consequences, your corrigibility, and what the next operation demonstrates.”
+
+That preserves reciprocal accountability without turning the 27 into the very weakness-seeking weapon they were created to expose.
+
+---
+
 ## Reopening conditions
 
 Revisit or materially revise this page when:
