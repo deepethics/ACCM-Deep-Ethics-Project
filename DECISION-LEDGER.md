@@ -1732,7 +1732,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Object:** John Kuhles supplied a final founder-level formulation describing the ACCM Deep Ethics Project as an **Eternal Corrigible Multiphase Framework** that can function as a **4D Deep Ethical Template of Topologetics**, intended to increase and harness Deep Ethical Emergent Properties rather than flatten them through the predictable 27 ethics-washing-type mannerisms.
 
-**Placement:** Added the attributed quotation at the literal end of the public front page and as a dedicated founder-framing section in OmbudsEthics and Validation Paradox. The key relations link directly to Topologetics, Emergent, and 27 + 12.
+**Placement:** Added the attributed quotation at the literal end of the public front page and as a dedicated founder-framing section in OmbudsEthics and Validation Paradox. The key relations link directly to Topologetics, Emergent, and 27 + 12. The front page also carries the same explanatory paragraph used by OmbudsEthics to define eternal, multiphase, and 4D while preserving the role of specialists, affected participants, and locally calibrated instruments.
 
 **Boundary:** “Eternal” describes continuity through corrigibility, not permanence or immunity for current mechanisms. “Multiphase” preserves the distinction among conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and later deployment decisions. “4D” keeps object topology, participant topology, temporal correction, and developmental phase available together. The framing does not replace specialty expertise or claim field effectiveness in advance.
 
