@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 149
+**Public pages exported:** 150
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -71,6 +71,7 @@
 | [Godfather of A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) | [GODFATHER-OF-AI.pdf](GODFATHER-OF-AI.pdf) | `GODFATHER-OF-AI.md` |
 | [Google A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) | [GOOGLE-AI.pdf](GOOGLE-AI.pdf) | `google-ai.md` |
 | [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) | [GOVERNANCE.pdf](GOVERNANCE.pdf) | `governance-site.md` |
+| [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) | [HEALTHY-AMBIGUITY.pdf](HEALTHY-AMBIGUITY.pdf) | `HEALTHY-AMBIGUITY.md` |
 | [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) | [HUMAN-INSECURITY.pdf](HUMAN-INSECURITY.pdf) | `HUMAN-INSECURITY/index.md` |
 | [Sense of Humor — Deep Ethics With a Laugh](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) | [HUMOR.pdf](HUMOR.pdf) | `HUMOR/index.md` |
 | [If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) | [IF-YOU-ARE-NEW.pdf](IF-YOU-ARE-NEW.pdf) | `if-you-are-new.md` |

@@ -51,6 +51,7 @@ Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/N
 - [16 Anchor Ethics — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)
 - [C1 Before C2 — Clarification and Intervention](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)
 - [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/)
+- [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) — temporary room for inquiry, reciprocal grace, PQCE, proportionate action and retained correction, developed through John Kuhles's source-linked quotations.
 - [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
 - [INTENT RESONATOR](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/)
 

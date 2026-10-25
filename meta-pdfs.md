@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 149 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 150 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**149 public-page PDF editions · 2,040 pages · exported through October 25, 2026**
+**150 public-page PDF editions · 2,047 pages · exported through October 25, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -91,6 +91,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Forum 0002 — The Shared Desk** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FORUM-0002-shared-desk.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) |
 | **Forum 0003 — Arena catch-up prompt (2026-09-16)** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FORUM-0003-arena-catch-up.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/) |
 | **Governance** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GOVERNANCE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) |
+| **Healthy Ambiguity** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/HEALTHY-AMBIGUITY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) |
 | **Human Insecurity, LLMs, Psychology & Mass Psychology** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/HUMAN-INSECURITY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) |
 | **Sense of Humor — Deep Ethics With a Laugh** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/HUMOR.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) |
 | **If you are new** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/IF-YOU-ARE-NEW.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) |

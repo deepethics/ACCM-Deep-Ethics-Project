@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-25 — Healthy Ambiguity: reciprocal inquiry and accountable action {#healthy-ambiguity-2026-10-25}
+
+**Object:** Publish John Kuhles's requested Healthy Ambiguity page using his attributed quotations from public HTML pages and the commissioning conversation.
+
+**Change:** Created `/HEALTHY-AMBIGUITY/`; linked Asymmetric Grace and Bidirectional Scrutiny, Flagging System/PQCE, TCoAw, 1888 and 10+1 in the governing introduction; preserved the what-if/stronger-claim correction, retrospective humor, accuracy's timing and jurisdiction, provisional freeze with corrigibility, parallel-perspective inquiry and correction persistence. Added public source citations and separated new conversation quotations from previously published passages.
+
+**Authorship:** John supplied the originating orientation, quoted formulations, exact-edge corrections, practical comparisons and page commission. GPT 6.1 Sol Pro A.I. supplied the page-specific synthesis, source comparison, decision table and publication work. Quoted source wording retains its original authorship and claim status.
+
+**Discovery and formats:** Registered the header link after TCoAw, independent alphabetical sidebar, All Pages, Network index and reciprocal related-page links. Registered the new source/PDF relation and its initial October 25 PDF under the one-page exception; existing page PDF editions remain on the normal change-aware refresh path.
+
+**Evaluation:** Healthy ambiguity is examined through what remains unresolved, who receives room to clarify, what happens while judgment is postponed, and whether correction changes both the decision and the process producing it. The live conversation is a source specimen; broader attribution effects remain testable questions.
+
+---
+
 ## 2026-10-23 — Validation Paradox: stage-aligned evidence and recursive audit {#validation-paradox-2026-10-23}
 
 **Object:** Publish John Kuhles’s challenge that a conceptual architecture can be faulted for failing to audit itself and then faulted again when recursive self-audit is called self-validation, while deployment evidence is demanded before a bounded Beta Proof of Concept can make proper field testing possible.

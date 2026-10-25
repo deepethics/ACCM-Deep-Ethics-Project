@@ -36,6 +36,8 @@ Sources: [E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — develops the practical relationship among postponed judgment, Asymmetric Grace, Bidirectional Scrutiny, PQCE and accountable action through John's attributed quotations.
+
 - [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — preserves recognition and possibility before they have been compressed into a finished account.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks for clarification when a materially different answer could change the next move.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — tracks how uncertainty, scope, and evidentiary status change across a developing exchange.

@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("Healthy Ambiguity", f"{BASE}/HEALTHY-AMBIGUITY/", "HEALTHY-AMBIGUITY.pdf", "HEALTHY-AMBIGUITY.md"),
     ("Believism", f"{BASE}/BELIEVISM/", "BELIEVISM.pdf", "BELIEVISM.md"),
     ("Autocomplete", f"{BASE}/AUTOCOMPLETE/", "AUTOCOMPLETE.pdf", "AUTOCOMPLETE.md"),
     ("Academia", f"{BASE}/ACADEMIA/", "ACADEMIA.pdf", "academia.md"),

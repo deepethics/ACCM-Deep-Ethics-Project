@@ -434,6 +434,8 @@ The model remains open to all five.
 
 ## Related pages
 
+- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — follows John's quotations from possibility and temporary focus to reciprocal grace, PQCE, practical action and correction persistence.
+
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — examines what changes when the tested system represents the examiner, scoring field and consequences as part of the active object.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — uses TCoAw to keep a likely completion inside a wider field of supplied signal, alternatives, ambiguity and later correction.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — whether the frame that flagged an assessment remembered what it excluded when later evidence arrived.
