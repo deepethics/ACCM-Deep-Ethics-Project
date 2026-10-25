@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## 2026-10-25 — Responsive interview embeds and Mutual Fate deep-analysis report {#bilyeu-mostaque-video-analysis-2026-10-25}
+
+**Object:** John's request to embed the Tom Bilyeu–Emad Mostaque conversation on the front page and Extraction Starter Kit, show what the kit contributes and expand Mutual Fate with the full analysis.
+
+**Change:** Used the existing responsive 16:9 privacy-enhanced video include on all three pages. Placed a direct Mutual Fate report link immediately beneath the front-page and Starter Kit players. Added a property-first analysis showcase to the kit and a full, source-bounded report as Mutual Fate section 22, with a near-top recovery link. The front-page reaction remains verbatim.
+
+**Authorship and scope:** John supplied the originating direction, 1888 correction, historical trolley frame and publication request. GPT 6.1 Sol Pro A.I. developed the report and showcase from the complete supplied cleaned transcript. Attributions follow that edition; mixed and uncertain labels remain explicit. The report separates quotation, interview claims, project interpretation and candidate additions.
+
+**Placement and formats:** John's explicit request governs the front-page and Starter Kit showcase positions. The Mutual Fate player sits within the full appended case. Web-only player markup is bounded by PDF-omit markers; source links remain available to future exports. These are existing-page edits, so current PDF bytes and dates remain unchanged until the normal refresh.
+
+---
+
 ## 2026-10-25 — Extraction Starter Kit: property-first quotation research {#extraction-starter-kit-2026-10-25}
 
 **Object:** Publish John's requested standalone method for extracting useful, relevant and valuable passages from long videos about the path toward general and superhuman artificial intelligence and humanity's possible futures.

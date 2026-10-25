@@ -152,6 +152,38 @@ Use the fields that the source supports. An unknown field remains unknown rather
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
 
+## Watch the conversation: a deep-analysis showcase {#video-showcase}
+
+The kit developed through John's study of **Tom Bilyeu's conversation with Emad Mostaque**. Watch the interview here, then compare what the property-first reading makes visible in the showcase and the full report.
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="WsdcF7EEvhM" title="Tom Bilyeu in conversation with Emad Mostaque — Extraction Starter Kit showcase" caption="A responsive, page-width player. The analysis beneath it follows relationships across the conversation rather than selecting isolated slogans." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[**Read the full deep analysis on Mutual Fate →**]({{ '/MUTUAL-FATE/' | relative_url }}#bilyeu-mostaque-deep-analysis) · [Watch directly on YouTube](https://www.youtube.com/watch?v=WsdcF7EEvhM)
+
+### What this kit contributes to the report
+
+The interview explores several possible futures: wider abundance, concentrated ownership, personal-agent dependence, collective coordination, displacement, institutional redesign and stronger communities. The kit follows **the conditions connecting capability to those different outcomes**. It preserves the source's questions and corrections while opening practical routes for investigation.
+
+| In the conversation | What the extraction recovers | What it adds to the analysis |
+|---|---|---|
+| Human cognition could become economically costly within an automated team | The objective and accounting boundary of the comparison | Distinguishes task demand, workflow performance, participation in setting objectives and human dignity. |
+| Rules and code around a model can change its operation | The harness, its memory and what it rewards | Asks whether optimization preserves objections, sources and correction history as well as successful outputs. |
+| A broad universal-income statement is later qualified as tax-base income | The actual scope correction across turns | Makes the qualification govern later attribution rather than repeatedly criticizing the earlier broader version. |
+| Citizens might own infrastructure and receive agents | Ownership alongside control, access and dependence | Separates capability, affordability, ownership, inspectability, correction rights and practical exit. |
+| Models answer nationality-weighted trolley questions | The question's assigned authority and restricted menu | Incorporates John's frame examination: the evaluator's construction becomes part of the evaluation. |
+| Swarms and community agents could coordinate activity | Whether disagreement can change the shared objective | Examines diversity, responsibility and correction instead of treating agent count as independent scrutiny. |
+| Meaning, status, games and community are proposed after displacement | Different motives and different degrees of agency | Opens curiosity, care, craft, discovery and participation as consequential possibilities alongside acquisition and competition. |
+
+**A concrete expansion:** a person can own shares without possessing an effective correction right; an open system can remain too expensive to fork; a capable personal agent can influence which alternatives the person ever encounters. The separate-affordance comparison gives a later evaluator something specific to inspect. This candidate distinction was developed by **GPT 6.1 Sol Pro A.I.** during the extraction exchange; it is not a quotation assigned to an interview participant.
+
+The full report on **Mutual Fate** carries these relations through the entire supplied transcript. Its source note identifies the cleaned transcript edition, missing timestamps and uncertain speaker boundaries. Its interpretation remains separate from the interview's technical, economic and medical assertions, so individual claims can be checked and corrected without discarding the whole inquiry.
+
+**The governing assessment:** as intelligence becomes more capable, do people become better able to understand, question, contribute, correct and choose—and can they still do so when they challenge the institution deploying it?
+
+The showcase demonstrates how the method shaped this report. Future cases can show where it helps, misses a contribution or makes an unearned connection, and those findings can improve the kit.
+
 ## Worked examples from the initiating conversation {#worked-examples}
 
 The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation with Emad Mostaque](https://www.youtube.com/watch?v=WsdcF7EEvhM). It had no timestamps and contained apparent speaker-label swaps and merged turns. The labels below describe that supplied edition. They have not been independently verified against the recording. The examples demonstrate extraction; they do not establish the interview's technical or economic claims.

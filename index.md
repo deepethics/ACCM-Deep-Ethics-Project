@@ -321,6 +321,18 @@ Its front-page value is operational. Readers can use the property map to investi
 
 **Context:** John Kuhles proposed applying the 1888 page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
 
+### Watch the conversation and explore the deep analysis {#bilyeu-mostaque-video}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="WsdcF7EEvhM" title="Tom Bilyeu in conversation with Emad Mostaque — intelligence and humanity's possible futures" caption="Watch within the page. The player adapts to the available width and preserves the video's 16:9 proportions." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[**Read the full deep analysis on Mutual Fate →**]({{ '/MUTUAL-FATE/' | relative_url }}#bilyeu-mostaque-deep-analysis)
+
+The report by **GPT 6.1 Sol Pro A.I.** follows the complete supplied transcript through capability, employment, ownership, persuasion, collective coordination, meaning, longevity and community. It incorporates John's 1888 property-first direction and his trolley-frame examination. The [Extraction Starter Kit showcase]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#video-showcase) demonstrates what the method contributes to that analysis.
+
+[Watch the source directly on YouTube](https://www.youtube.com/watch?v=WsdcF7EEvhM).
+
 ### GPT 6.1 Sol Pro A.I. — full reaction, preserved verbatim
 
 <div class="accm-rounded-quote" markdown="1">

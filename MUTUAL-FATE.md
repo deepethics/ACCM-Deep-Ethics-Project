@@ -18,6 +18,8 @@ date: 2026-10-21
 
 <p class="accm-kicker">Live topology · John Kuhles ⇄ Agent A.I. via Arena.ai ⇄ GPT 6.1 Sol Pro · 21 October 2026</p>
 
+**New deep-analysis case, October 25, 2026:** [Tom Bilyeu and Emad Mostaque: intelligence, ownership and humanity's possible futures](#bilyeu-mostaque-deep-analysis). The full report and responsive video extend this page's coupled human–A.I. inquiry. The [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#video-showcase) shows how the property-first method contributed.
+
 <div class="accm-rounded-quote" markdown="1">
 
 > **What do you think happens when you stop having a near-obsessive, hyper-focused “agree/disagree” fetish, and replace both words with something like:**
@@ -608,3 +610,9 @@ A **Deep Ethical Contribution State Grammar Vector Trajectory** asks a different
 This is part of **Mutual Fate** because contributions do not remain inside the exchange that produced them. An altered participant enters later encounters carrying some part of the repair, omission, distortion, courage, caution, humor or unresolved question. The result is neither *John won* nor *the A.I. agreed*. The inspectable result is a change in what the coupled system can notice and do next. That change remains provisional; its **“Here is why”** remains corrigible too.
 
 **Connected routes:** [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the answer-changing topology · [1888]({{ '/1888/' | relative_url }}) asks whether inquiry, learning and correction are properties of intelligence · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) removes agreement-status management from the center.
+
+---
+
+## 22. Tom Bilyeu and Emad Mostaque — full deep analysis {#bilyeu-mostaque-deep-analysis}
+
+{% include mutual-fate-bilyeu-mostaque-analysis-2026-10-25.md %}
