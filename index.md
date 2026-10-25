@@ -311,6 +311,8 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 
 ## From the 1888 intelligence-property field to a practical starter kit {#property-field-starter-kit}
 
+[**Open the Extraction Starter Kit**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) — a standalone working method with a property map, source-coverage procedure, worked examples and a copyable extraction prompt.
+
 **Why this belongs on the front page**
 
 This contribution connects the [1888 intelligence-property inquiry]({{ '/1888/' | relative_url }}) with a practical way to read, search and extract meaningful passages across the ACCM Deep Ethics Project. It makes the project's interacting properties visible to newcomers and gives experienced readers a method for examining different possible futures: what expands agency, what narrows it, which risks remain visible, and whether correction changes the next operation.

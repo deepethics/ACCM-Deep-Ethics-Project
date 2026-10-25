@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 150
+**Public pages exported:** 151
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -58,6 +58,7 @@
 | [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) | [EXPERIMENTS-fifty-two-prompts.pdf](EXPERIMENTS-fifty-two-prompts.pdf) | `EXPERIMENTS/fifty-two-prompts.md` |
 | [Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, and a Reverse-Asch Thought Experiment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) | [EXPERIMENTS-inspect-the-inspector.pdf](EXPERIMENTS-inspect-the-inspector.pdf) | `EXPERIMENTS/inspect-the-inspector.md` |
 | [External Omnidirectional Auditing Mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) | [EXTERNAL-AUDIT.pdf](EXTERNAL-AUDIT.pdf) | `EXTERNAL-AUDIT/index.md` |
+| [Extraction Starter Kit](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTRACTION-STARTER-KIT/) | [EXTRACTION-STARTER-KIT.pdf](EXTRACTION-STARTER-KIT.pdf) | `EXTRACTION-STARTER-KIT.md` |
 | [Field Condition](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/) | [FIELD-CONDITION.pdf](FIELD-CONDITION.pdf) | `FIELD-CONDITION.md` |
 | [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) | [FLAGGING-SYSTEM.pdf](FLAGGING-SYSTEM.pdf) | `flagging-system.md` |
 | [Flagging System — Highlighted Exchanges](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/) | [FLAGGING-SYSTEM-HIGHLIGHTS.pdf](FLAGGING-SYSTEM-HIGHLIGHTS.pdf) | `flagging-system-highlights.md` |

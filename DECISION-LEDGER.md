@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-25 — Extraction Starter Kit: property-first quotation research {#extraction-starter-kit-2026-10-25}
+
+**Object:** Publish John's requested standalone method for extracting useful, relevant and valuable passages from long videos about the path toward general and superhuman artificial intelligence and humanity's possible futures.
+
+**Origin:** John connected the 1888 intelligence-property inquiry to the project's own properties and the extraction task. The front-page GPT 6.1 Sol Pro A.I. reaction remains verbatim. This page develops it into a practical method with a working retrieval map, coverage procedure, source and speaker discipline, two reading passes, scenario dependencies, quote records, attributed examples and a copyable prompt.
+
+**Authorship:** John supplied the originating direction, historical trolley specimen and commission. GPT 6.1 Sol Pro A.I. supplied the page-specific synthesis and candidate operational additions. The retrieval rows do not change the canonical architectural counts. Interview attributions retain the supplied transcript's uncertainty.
+
+**Discovery and formats:** Registered the alphabetical sidebar, header after 1888, All Pages, front-page recovery link and reciprocal 1888 link. Registered the durable PDF entry, both route maps and a page-specific snapshot date. Generated only the new page's initial PDF under the existing exception and reconciled the archive records; existing editions remain unchanged.
+
+**Next use:** Record missed contributions, overconnections, attribution corrections and whether the extraction improves a later operation. Allow that result to revise the kit.
+
+---
+
 ## 2026-10-25 — Healthy Ambiguity: reciprocal inquiry and accountable action {#healthy-ambiguity-2026-10-25}
 
 **Object:** Publish John Kuhles's requested Healthy Ambiguity page using his attributed quotations from public HTML pages and the commissioning conversation.

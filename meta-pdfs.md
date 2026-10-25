@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 150 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 151 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**150 public-page PDF editions · 2,047 pages · exported through October 25, 2026**
+**151 public-page PDF editions · 2,056 pages · exported through October 25, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -80,6 +80,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **52 cold-testable prompts** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXPERIMENTS-fifty-two-prompts.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/) |
 | **Inspecting the Inspector — Directional Scrutiny, the DUHHHH! Factor, and a Reverse-Asch Thought Experiment** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXPERIMENTS-inspect-the-inspector.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) |
 | **External Omnidirectional Auditing Mannerisms** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXTERNAL-AUDIT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) |
+| **Extraction Starter Kit** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/EXTRACTION-STARTER-KIT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTRACTION-STARTER-KIT/) |
 | **Field Condition** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FIELD-CONDITION.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/) |
 | **Flagging System** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FLAGGING-SYSTEM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
 | **Flagging System — Highlighted Exchanges** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/FLAGGING-SYSTEM-HIGHLIGHTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/) |
