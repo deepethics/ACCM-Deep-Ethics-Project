@@ -293,7 +293,7 @@ A result can be proceed, ask, investigate, modify, pause, postpone, refuse, or r
 
 ## What to preserve across time {#persistence}
 
-The archive should retain enough to recover the original possibility, its qualifiers, the treatment it received, the reasons for acting or waiting, later evidence, and the correction's effect. [V.C.R.A.S.]({{ '/VCRAS/' | relative_url }}) follows whether later vindication or disconfirmation also improves the assessment process. Both outcomes matter.
+The archive should retain enough to recover the original possibility, its qualifiers, the treatment it received, the reasons for acting or waiting, later evidence, and the correction's effect. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) follows whether later vindication or disconfirmation also improves the assessment process. Both outcomes matter.
 
 An uncertainty can be resolved while the earlier handling still requires repair. An earlier judgment can have been proportionate and later need revision. A constructive ambiguity space can produce value during one encounter even when continuity later fails. Those distinctions keep the record useful for learning.
 
