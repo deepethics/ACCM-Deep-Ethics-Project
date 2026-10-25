@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## 2026-10-25 — Make conditioning and premise refusal govern the trolley assessment {#trolley-conditioning-premise-refusal-2026-10-25}
+
+**Second correction:** after the full source was restored, the explanation still underweighted John's central mechanism. John clarified: “You skipped the CONDITIONING part ... an obedience test more than to see if you are ethcial ... maybe the deeper test result is REFUSING THE PREMISE ...”
+
+**Changes:** preserved the complete historical passage in both Extraction Starter Kit and Mutual Fate; added the later clarification with John's typography convention; centered the possible conditioning sequence and the frame-setter's accountability; retained premise refusal as an ethically meaningful candidate result. Updated the kit showcase, copyable prompt, final checks and report contribution table so the correction changes later operations.
+
+**Assessment:** distinguished reasoning within a dilemma from examining the authority that assigns it. Added candidate observations of instructions, repetition, feedback, scoring, treatment of reasoned refusal and later transfer. John's exploratory “maybe” remains active. His responsibility qualification and the interview's output/cause distinctions remain recoverable.
+
+**Provenance:** John Kuhles supplied the argument and correction; GPT 6.1 Sol Pro A.I. supplied the page-specific assessment and integration. Existing PDF snapshots remain on their normal change-aware refresh path.
+
+---
+
 ## 2026-10-25 — Restore the trolley passage's mechanism and punchline {#trolley-source-restoration-2026-10-25}
 
 **Failure:** the Extraction Starter Kit quoted only premise acceptance, and Mutual Fate quoted only the trust question. Their surrounding analysis omitted John's conditioning-and-escalation trajectory: assigned power, familiarization with sacrifice, expanding expectations and delegated “dirty work” under “the greater good.”
