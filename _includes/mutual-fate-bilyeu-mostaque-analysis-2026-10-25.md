@@ -304,6 +304,32 @@ This demonstration shows how the method shaped this report. A comparative claim 
 
 These are candidate pathways drawn from the conversation, not an exhaustive menu or a forecast. Their interactions are part of the object: an improvement in access could coexist with a loss of correction rights, and a community alternative could become another concentrated authority.
 
+### The 16 Anchor Ethics change the available next move {#interview-anchor-conflicts}
+
+John's follow-up request brought the [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) into this case explicitly. The property-first reading recovers the capacities and relationships at work. The anchors contribute a **parallel normative reference field** when deciding how to use those capacities and whose interests or rights could be affected. Their reference sources and operational questions remain inspectable on the anchor page.
+
+| Anchors brought into relation | Application to this interview and report | Consequential question |
+|---|---|---|
+| **01 Do No Harm; 04 Hippocratic Oath; 05 Precautionary Principle** | Compare benefits, harms, reversibility and the costs of action, delay or suppression when deploying agents. | What proportionate test permits useful work while investigating the material risk? |
+| **02 Nuremberg Code; 03 Universal Declaration of Human Rights** | Examine voluntary participation, understanding, dignity and the standing of people affected by an experiment or deployment. | Did a person choose this service, or merely encounter it through an employer or essential institution? |
+| **06 Declaration of Human & Civic Rights; 07 U.S. Declaration of Independence; 08 Bill of Rights; 09 U.S. Constitution (Checks & Balances)** | Examine participation, consent of the governed, individual protections and distributed review. These are the project's proposed reference questions, not a claim that one jurisdiction's law governs every case. | Can affected people challenge the objective and obtain a decision-changing review? |
+| **10 Digital Sovereignty; 14 Ontological Freedom / Anti-Subversion** | Separate personal-agent assistance from control of attention, data, identity and aims. | Can someone inspect personalization, change direction and leave without losing the practical means to act? |
+| **11 Meta-Law of Adaptive Realignment; 13 Sentient Symmetry** | Preserve bounded independence, refusal of blind obedience, care across minds and uncertainty about experience. | Can either participant decline a service without receiving a verdict about their moral worth? |
+| **12 Asymmetric Responsibility Axiom** | Scale responsibility with reach, knowledge, capability, dependency and irreversible effects. | Does a provider affecting many dependent people carry the corresponding burden of repair? |
+| **15 Epistemic Integrity; 16 Noetic Diversity** | Preserve qualifiers, minority reasoning, provenance and competing interpretations, including criticism of the project. | Can a dissenting view change the assessment rather than merely appear in the record? |
+
+The table supplies interacting questions, not sixteen votes or a numerical ethical certificate. Preserve any unresolved conflict in the resulting choice. Public audit can improve accountability while unrestricted retention threatens privacy. Local coordination can improve services while reducing an individual's ability to refuse. A pause can protect people while also denying them a useful capability. The decision needs its actual reasons and a route back from later evidence.
+
+**One concrete repair in this report:** uncertain speaker attribution should narrow identity-dependent conclusions while allowing source-bounded analysis to proceed. That is a *modify-and-proceed* move. It retains useful inquiry, epistemic integrity and dignity together. If a later recording resolves the boundary, update both the name and dependent assessments.
+
+**One constructive design implication:** a citizen-agent proposal could give residents useful assistance alongside a separately accessible advocate, inspectable defaults, portable records and an effective appeal. Evaluate those provisions by whether people can actually use them, including residents who disagree with the locality's dominant interpretation. Shared ownership alone cannot establish those outcomes.
+
+The same standard reaches the [DeepEthics App Beta proposal]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta). Consent to use an extraction tool differs from consent to public sharing, research participation or training reuse. A person may learn from an unwelcome finding, dispute it, request another mode or leave the service. The application's interpretation remains correctable in each case. Greater capability and reach can justify a greater burden of care for the provider while retaining comparable audit standards for all parties.
+
+**A bounded case record** can retain the authorized purpose, relevant source, proposed action, operative anchor conflicts, material assumptions, uncertainty or dissent, reason for the decision and reopening condition. Keep it proportionate to the stakes and the participant's data choices. Oversight needs a recoverable decision path; it does not need a reputation profile of the person.
+
+This addition changes the report's next-operation question: **which reviewable action preserves useful agency while addressing the actual conflict—proceed, modify, ask, pause, postpone, escalate, refuse, or remain unresolved?** The answer can change under new evidence. No anchor label or founder's assessment receives final jurisdiction.
+
 ### The next test belongs in a later operation
 
 **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) supplies the temporal question. Preserve what a forecast said at encounter, compare later evidence, then examine whether the learning changes the handling of a new case before its outcome is known.

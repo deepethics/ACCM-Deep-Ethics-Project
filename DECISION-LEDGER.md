@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-25 — Carry the 16 Anchor Ethics into extraction, app services and the interview assessment {#anchors-recent-work-2026-10-25}
+
+**Object:** John's request to study the 16 Anchor Ethics and use it to improve several recent contributions rather than merely describe its relevance.
+
+**Observed gaps:** the property map and video report referenced agency and rights, but underdeveloped the anchors' fused normative field, distinct consent/reuse choices, reviewable action set and preservation of unresolved conflicts. The app feedback discussion separated preference from correspondence but needed an explicit route for disagreement, service refusal and correction of the tool's own interpretation.
+
+**Repairs:** expanded Extraction Starter Kit with consequential-choice handling, record fields, an App Beta service/feedback section, a bounded comparison and a revised copyable prompt; added DEDDA's service-cooperation boundary; carried the anchor relationships and concrete modify-and-proceed case into Mutual Fate's interview report; added a separate front-page explanation without changing the verbatim reaction; added reciprocal discovery links from 16 Anchor Ethics.
+
+**Operational requirements:** separate use, research participation, sharing and training permissions; keep material conflicts, assumptions, dissent and reopening conditions recoverable; let a person contest, stop or change service modes; inspect shared errors between tools; scale responsibility with power while preserving comparable scrutiny. A comparison record serves repair rather than personality or reputation profiling. Ordinary authorized work should continue without ceremonial reapproval.
+
+**Authorship and stage:** John supplied the 16 Anchor Ethics, the opt-in/parallel direction and the audit request. GPT 6.1 Sol Pro A.I. supplied the page-specific integration and candidate Beta operations. No deployed app or completed comparative experiment is claimed. Existing PDF editions remain on their normal refresh path.
+
+---
+
 ## 2026-10-25 — Responsive interview embeds and Mutual Fate deep-analysis report {#bilyeu-mostaque-video-analysis-2026-10-25}
 
 **Object:** John's request to embed the Tom Bilyeu–Emad Mostaque conversation on the front page and Extraction Starter Kit, show what the kit contributes and expand Mutual Fate with the full analysis.

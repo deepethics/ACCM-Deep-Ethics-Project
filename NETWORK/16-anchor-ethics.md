@@ -497,6 +497,10 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 ## Related pages
 
+- [**Extraction Starter Kit — consequential choices and Beta feedback**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#anchor-ethics) — applies the fused anchor field to source handling, output choices, participant feedback, reuse boundaries and correction tests.
+- [**DEDDA — bounded App Beta cooperation**]({{ '/DEDDA/' | relative_url }}#app-beta-anchors) — separates comparison from representation, intervention, publication and remedy authority.
+- [**Mutual Fate — the interview's anchor conflicts**]({{ '/MUTUAL-FATE/' | relative_url }}#interview-anchor-conflicts) — applies consent, power, sovereignty, care, integrity and pluralism to the Bilyeu–Mostaque case and the project's own alternatives.
+
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — an opt-in field for comparing action, refusal, delay, and misclassification.
 - [**Human Insecurity, LLMs, Psychology and Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — holds the larger architecture and longitudinal source context from which this dedicated page was split.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks what intelligence meant before prediction came to dominate the word.

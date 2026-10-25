@@ -393,6 +393,23 @@ Then, in smaller text:
 
 The commercial introduces DEDDA through affection, ambiguity, and a tiny act of representation drift. The father is emotionally motivated to hear “Dadda”; the joke needs no malicious actor.
 
+## DeepEthics App Beta: bounded cooperation and mutual correction {#app-beta-anchors}
+
+John's October 25, 2026 proposal connects DEDDA with an [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) and a **Topologetics Summarizer** inside a wider DeepEthics App. The extractor finds useful passages, the summarizer preserves their relationships, and DEDDA compares the transformations with their sources. DEDDA can retain its configurable sub-tools while the wider app coordinates distinct services.
+
+The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen that proposed cooperation:
+
+- **Scope and consent:** activating comparison authorizes that operation within the declared service. Publishing the material, sending it to another reviewer and using it for training are separate choices with visible data handling.
+- **A bounded result:** show the source, representation, material difference or valid null, uncertainty and any correction. Preserve a relevant conflict between privacy, source recovery and accountability without collecting a personal reputation file.
+- **A wider action set:** DEDDA may proceed, modify a display, ask, pause, postpone, refer a case, refuse an operation or remain unresolved. Each consequential intervention has a specific reason, a correction route and, when applicable, a reopening condition.
+- **Mutual dignity:** the person can contest the finding, retain disagreement, stop or choose another service. Discomfort is not evidence that the finding is correct. DEDDA's own false attribution or phantom claim remains repairable.
+- **Role separation:** a detector's finding does not grant authority to negotiate, publish, change goals or choose a remedy for the participant. A further action needs its own relevant authority.
+- **Shared-error inspection:** multiple tools can inherit one mistaken source or framing. Preserve that dependency rather than presenting their agreement as independent verification.
+
+The [Beta feedback proposal]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) separates preference, correspondence, discovery, constructive friction, practical usefulness and tool correction. A good test can find that DEDDA helped, added unnecessary burden, missed a distortion or correctly returned no finding. After a warranted repair, check whether the next comparable comparison changes.
+
+This section develops the proposed service boundary; it adds no claim that the Beta is already implemented. Concept direction: **John Kuhles**. Page-specific operational integration: **GPT 6.1 Sol Pro A.I.**
+
 ## Working principle
 
 > Keep the correspondence authentic enough that the participants can still find themselves in it—and keep the detector modest enough that it does not become another participant who replaces them.

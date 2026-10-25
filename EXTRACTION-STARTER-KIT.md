@@ -80,10 +80,23 @@ The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) belongs i
 | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process) | Use correspondence-oriented clarification when material ambiguity remains. Check whether an intervention outran comprehension. |
 | **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) | Preserve encounter, later evidence and the next comparable assessment. Separate process quality from outcome accuracy. |
 | **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Compare what was supplied with how it was later represented, including a valid finding of no material drift. |
+| [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine consequential choices through a fused field of consent, dignity, harm, power, digital sovereignty, epistemic integrity and cognitive pluralism; preserve conflicts and a reviewable next move. |
 | [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) | Connect instructions, incentives, assumptions, choices, consequences, notice and response to correction. |
 | [**Humor**]({{ '/HUMOR/' | relative_url }}) and [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) | Preserve a joke's unfolding meaning and distinguish direct expression from assumptions about aggression or intent. |
 
 Use the fuller sources when a distinction matters to the extraction. Learning the entire site is not an entrance requirement. Recover the relevant relation, follow its source, and widen the map when the material warrants it.
+
+## Consequential choices: use the 16 Anchor Ethics together {#anchor-ethics}
+
+The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) add a normative reference field to the property map. They work in parallel: consent, truth, care, pluralism, sovereignty and responsibility can expose tensions in the same choice. Preserve the relevant conflict, assumptions, alternatives and unresolved reasons when producing a combined assessment. Sixteen independent yes/no answers would lose that interaction.
+
+For an ordinary public interview, proceed with extraction using the established source and purpose. Greater consequence calls for more explicit examination: sharing a private transcript, naming a person whose identity is uncertain, storing a correction history or using submissions to train a model are different operations.
+
+**An answer-changing example:** epistemic integrity favors accurate attribution, while dignity and proportionate precaution caution against assigning a disputed statement to the wrong person. Proceed with the useful passage under an uncertain-speaker label; seek the recording before making an identity-dependent claim. This preserves inquiry while narrowing the unsupported attribution. A blanket refusal would lose the useful material, and a confident guessed name would invent certainty.
+
+Use the page's action set according to the actual conflict: **proceed, modify, ask, pause, postpone, escalate, refuse, or say “I do not know yet.”** A pause names its unresolved dependency and reopening condition. A proposed modification remains visible. A refusal concerns the requested operation, gives a specific reviewable reason and allows correction or another reviewer. Existing authorization remains operative; this field should not manufacture another approval ritual for ordinary work.
+
+The service relationship is opt-in. Processing, private retention, public sharing and training reuse need distinguishable purposes and choices. Show what is retained, where, for how long, who can access it and what export or deletion can actually do. A useful correction record can preserve the source-to-repair difference without becoming a personality profile or a permanent dossier on the participant.
 
 ## Two passes: retention and discovery {#two-passes}
 
@@ -149,6 +162,8 @@ Use the fields that the source supports. An unknown field remains unknown rather
 | Connection status | Direct textual connection, exploratory bridge, complication, counterexample or no earned connection |
 | Useful contribution | A new distinction, mechanism to investigate, decision, test, constructive possibility or recovery route |
 | Dependencies and reopening | What the assessment depends on; what could narrow or change it |
+| Consequential action, when relevant | A proposed action, operative anchor tensions, reasons, dissent, uncertainty, review route and reopening condition |
+| Reuse boundary, when relevant | Whether this record is for the present task, private continuity, public sharing or separately authorized research/training |
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
 
@@ -226,6 +241,40 @@ Across the interview's affordability, ownership and personal-agent passages, the
 
 This is a page-development contribution by **GPT 6.1 Sol Pro A.I.**, rather than a quotation attributed to either interview participant. It changes a future operation: audit each affordance separately when assessing a proposed citizen-owned or personal intelligence system. Retain it only where that separation improves correspondence or decisions.
 
+## DeepEthics App Beta: related services, mutual feedback {#app-beta}
+
+**Candidate service architecture:** the Extraction Starter Kit, **Topologetics Summarizer** and **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
+
+The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) make two further requirements operational. First, each tool's finding stays challengeable: showing a difference does not authorize speaking for the participant or changing their aim. Second, cooperation must preserve independent correction. An extractor and a detector using the same mistaken speaker label can agree while both remain wrong. Record shared sources and use an independent source check when that distinction matters.
+
+### Topologetics Summarizer: recoverable depth and honest loss
+
+The proposed summarizer lets a person choose the task and reading depth, then inspect the source relationships behind a compact result. The [Epistemic Integrity and Noetic Diversity anchors]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) require material qualifiers, dissent, uncertainty and correction routes to survive. If compression would erase an answer-changing conflict, retain a longer representation or identify the unresolved loss. A combined recommendation should not silently replace the reasons that pull in different directions.
+
+Show a purpose-specific loss note: what was condensed, what was left out and where a reader can recover it. Expanding a section should reconnect to actual source material. Feedback about a missing relation should update the summary and its dependent interpretation, then be checked on another passage. DEDDA may compare that repair with the source, while its own comparison remains open to correction. These are candidate output requirements for the Beta service.
+
+### Feedback that can actually improve the tools
+
+[Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) connects care, candid assessment, mutual dignity and correction. In a voluntary service, a person may encounter an unwelcome observation and find it useful. They may also find an error, an irrelevant intervention or a service they wish to decline. The Beta needs room for those different outcomes.
+
+| Feedback | Follow-up operation |
+|---|---|
+| “I prefer this output.” | Record preference separately from source correspondence and usefulness. |
+| “This is uncomfortable and useful.” | Identify the source-linked observation and what it changed. |
+| “The tool is wrong; here is why.” | Compare the source, repair the affected relations and test the next comparable output. |
+| “This is relevant, but I still disagree.” | Preserve the disagreement and reasons alongside the tool's assessment. |
+| “This falls outside my purpose.” | Revisit the declared task and the tool's scope. |
+| “I want to stop or use another mode.” | Respect that service choice; explain the actual retention boundary. |
+| “I cannot decide yet.” | Retain the uncertainty and an optional route for later review. |
+
+An uncomfortable response does not establish that the tool is right or that the person is deficient. An agreeable response does not establish accuracy either. Judge the tool through source fidelity, useful discovery, consequences, correction uptake and the user's ability to contest it. The app and its developers must be able to receive the same direct feedback they offer.
+
+### A bounded Beta comparison
+
+Use a consented source and the same task to compare an ordinary output with each selected tool's output. Keep the source and settings referenceable; record what the person preferred, what was more faithful, what was useful, what was missed, and the time and effort each required. Try a corrected or unfamiliar follow-up to examine persistence. Preserve null, mixed and adverse findings.
+
+A participant can agree to use a tool without agreeing to join a study, share a case publicly or contribute training material. Keep those choices distinct. For a comparison of the tools, use a separate reviewer or independent source check when possible, and record shared dependencies when independence is unavailable. The 16 anchors are a reference field for the decisions, not a self-awarded result score.
+
 ## Copyable starter prompt {#starter-prompt}
 
 Copy the following as a starting instruction and supply the actual source. The linked maps above are the reading routes; retain access limits when a model cannot open them.
@@ -249,6 +298,14 @@ frame examination, competing risks, correction metabolism,
 warranted expansion, agency, continuity and emergent interaction.
 Use the 10+1 as a mutually correcting orientation throughout.
 Follow the fuller project sources when a distinction matters.
+
+CONSEQUENTIAL CHOICES
+Use the 16 Anchor Ethics together when a choice affects others.
+Keep material conflicts, assumptions, dissent and uncertainty visible.
+Proceed, modify, ask, pause, postpone, escalate, refuse or remain
+unresolved according to the actual case. Explain the next step.
+Respect the service scope and separate sharing or training permissions.
+Preserve a bounded review route without creating a personal dossier.
 
 TWO PASSES
 First recover consequential relations through that orientation.
@@ -292,6 +349,8 @@ when it materially changes a selected passage's interpretation.
 - Do the explanations distinguish the source from new proposals and inferred connections?
 - Can unsupported entries be removed locally while surviving value remains recoverable?
 - Will the result improve a later question, test, decision or search?
+- Can the participant contest the finding, decline the service or choose another mode without being classified as deficient?
+- Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
 
@@ -319,4 +378,5 @@ Use the page's GitHub-source service to inspect its history or propose a correct
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — possibilities, reciprocal scrutiny and accountable next moves.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — inquiry beyond agreement-status management.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — human and synthetic contributions across time.
+- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the fused reference field for consequential choices, opt-in service boundaries and reviewable next moves.
 - [**DeepEthical.ai**](https://deepethical.ai) — the project's connected public direction.
