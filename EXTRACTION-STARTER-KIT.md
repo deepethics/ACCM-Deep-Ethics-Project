@@ -169,7 +169,7 @@ Keep **relevance** and **verification** separate. A disputed forecast can be val
 
 ## Watch the conversation: a deep-analysis showcase {#video-showcase}
 
-The kit developed through John's study of **Tom Bilyeu's conversation with Emad Mostaque**. Watch the interview here, then compare what the property-first reading makes visible in the showcase and the full report.
+The [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start) developed through John's study of **Tom Bilyeu's conversation with Emad Mostaque**. Watch the interview here, then compare what the property-first reading makes visible in the showcase and the full report.
 
 <!-- ACCM_PDF_OMIT_START -->
 {% include youtube-embed.html id="WsdcF7EEvhM" title="Tom Bilyeu in conversation with Emad Mostaque — Extraction Starter Kit showcase" caption="A responsive, page-width player. The analysis beneath it follows relationships across the conversation rather than selecting isolated slogans." %}
@@ -179,7 +179,7 @@ The kit developed through John's study of **Tom Bilyeu's conversation with Emad 
 
 ### What this kit contributes to the report
 
-The interview explores several possible futures: wider abundance, concentrated ownership, personal-agent dependence, collective coordination, displacement, institutional redesign and stronger communities. The kit follows **the conditions connecting capability to those different outcomes**. It preserves the source's questions and corrections while opening practical routes for investigation.
+The interview explores several possible futures: wider abundance, concentrated ownership, personal-agent dependence, collective coordination, displacement, institutional redesign and stronger communities. The kit draws on **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** to follow **the conditions connecting capability to those different outcomes**. It preserves the source's questions and corrections while opening practical routes for investigation.
 
 | In the conversation | What the extraction recovers | What it adds to the analysis |
 |---|---|---|
