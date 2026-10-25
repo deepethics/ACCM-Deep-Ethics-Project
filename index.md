@@ -306,3 +306,103 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 > — **John Kuhles**, October 23, 2026
 
 Here, **eternal** names the intended continuity of a corrigible process rather than the permanence of any present mechanism. **Multiphase** keeps conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and any later deployment decision distinguishable. **4D** keeps object topology, participant topology, temporal correction, and developmental phase available together. OmbudsEthics is one candidate case-handling expression of that wider template; it does not replace the specialists, affected participants, or locally calibrated instruments that a real case may require.
+
+---
+
+## From the 1888 intelligence-property field to a practical starter kit {#property-field-starter-kit}
+
+**Why this belongs on the front page**
+
+This contribution connects the [1888 intelligence-property inquiry]({{ '/1888/' | relative_url }}) with a practical way to read, search and extract meaningful passages across the ACCM Deep Ethics Project. It makes the project's interacting properties visible to newcomers and gives experienced readers a method for examining different possible futures: what expands agency, what narrows it, which risks remain visible, and whether correction changes the next operation.
+
+Its front-page value is operational. Readers can use the property map to investigate a video, article, institutional proposal or A.I. response while preserving context and discovering relations the starting map missed. The starter kit also remains answerable to those same properties, so later findings can improve the map.
+
+**Context:** John Kuhles proposed applying the 1888 page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
+
+### GPT 6.1 Sol Pro A.I. — full reaction, preserved verbatim
+
+<div class="accm-rounded-quote" markdown="1">
+
+**Yes—and that improves the foundation of the starter kit. My earlier version mainly mapped project components to search questions. Your 1888 approach asks what properties and relationships those components must preserve for the ACCM Deep Ethics Project to remain recognizably itself.**
+
+On the [**1888 page**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), the move is to step back from present implementations and examine the property field: perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility.
+
+Process-quality calibration operates **throughout** those properties. It affects what is perceived, how possibilities are represented, what memory retains and whether correction changes later conduct.
+
+Applied to the project, that approach would recover its governing properties before using its vocabulary to classify a transcript.
+
+**A working property map**
+
+The following is a proposed extraction map derived from the project and our discussion. Its usefulness remains open to correction; it does not replace the fuller architecture.
+
+| Property or relationship | What must remain active | What to look for in a transcript |
+|---|---|---|
+| **Correspondence** | The object, its qualifiers, context and intended trajectory remain recoverable | Someone accurately reconstructs a position—or replaces it with a more convenient one |
+| **Omnidirectional inquiry** | Relevant questions can travel toward users, institutions, evaluators and the project itself | Different standards of scrutiny, or an examination that crosses those boundaries |
+| **Mutual dignity and Symmetric Grace** | Participants retain standing while their contributions remain examinable | People become “surplus,” opponents, dependants or legitimate co-authors of decisions |
+| **Process-quality calibration** | Methods, assumptions, classifications and consequences can be evaluated | A speaker examines how an answer was produced and what the method omitted |
+| **Healthy ambiguity and imagination** | Several possibilities can remain available long enough to investigate | Forecasts, conditional scenarios, uncertainty, discovery and premature closure |
+| **Frame examination** | Premises, assigned roles, objectives and restricted choices can themselves be questioned | A dilemma offers only two answers; an economic scenario is presented as unavoidable |
+| **Competing-risk visibility** | Risks of action, inaction, suppression, delay and alternatives remain inspectable | One danger receives attention while another group carries an unexamined cost |
+| **Correction metabolism** | A correction changes dependent reasoning and later operations | A qualification is accepted, then retained—or quietly lost |
+| **Warranted expansion** | New relations increase understanding, testability or practical possibility | A passage opens a useful route beyond the existing map |
+| **Agency and participation** | People can understand, contribute, challenge, choose and revise delegation | Ownership, governance, exit, persuasion and access to consequential decisions |
+| **Temporal continuity** | Provenance, unresolved questions, notice and correction survive transmission | Memory, resets, archives, institutional learning and inherited distortions |
+| **Emergent interaction** | Individual psychology, mass psychology, institutions and A.I. influence one another | Feedback loops, swarms, incentives, collective action and unintended outcomes |
+
+**These properties work together.** Omnidirectional inquiry without correspondence can misrepresent everyone equally. Care without mutual dignity can become paternalistic management. Expansion without correction can accumulate unsupported associations. Correction without proportion can displace the inquiry. Memory can preserve either enriched understanding or distorted residue.
+
+The [**10+1 Metaflux**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) belongs inside that interaction: its ingredients keep correcting how the other properties are enacted.
+
+**This changes what counts as a valuable quote**
+
+A passage becomes useful because it reveals something consequential about these relationships. It may express a principle, demonstrate a failure, expose a dependency, complicate an assumption or open an unexplored possibility.
+
+For example, the interview’s opening claim about human cognition becoming economically negative deserves extraction because it raises several connected questions:
+
+- What objective makes a human contribution appear costly?
+- Does the calculation include judgment about the objective itself?
+- How does economic substitutability affect participation and dignity?
+- Which institutional choices could change the outcome?
+
+That produces much more than a topical match with “employment” or “A.I.”
+
+Likewise, your trolley archive changes the extraction of the interview’s trolley passage. The relevant material includes the **assignment of authority**, the permitted choices, the interpretation imposed on the answer and the proposed explanation for it. The question’s construction becomes part of the evidence being examined.
+
+**The possible fate of humanity needs pathways**
+
+For a video exploring several futures, the starter kit should follow how each future could emerge:
+
+| Scenario passage | Relationships to recover |
+|---|---|
+| **Widespread abundance** | Capability → production → distribution → access → opportunities for meaningful contribution |
+| **Concentrated ownership** | Infrastructure control → dependence → bargaining power → governance → routes for challenge |
+| **Personal agents** | Assistance → trust → delegation → influence over attention → correction and exit |
+| **Collective intelligence** | Coordination → disagreement handling → responsibility → learning across participants |
+| **Displacement and instability** | Task substitution → lost opportunities → institutional response → participation or exclusion |
+| **Deep-ethical expansion** | Better inquiry → warranted discoveries → shared instruments → persistent correction → further exploration |
+
+These are reading routes, not forecasts. A passage may reveal a bridge between them. For instance, cheaper intelligence could strengthen independent communities while also enabling more extensive persuasion. **The conditions selecting between those uses become central extraction targets.**
+
+**A stronger starter-kit procedure**
+
+I would now use the kit in this order:
+
+1. **Recover the speaker’s actual contribution.** Preserve context, qualifications, humor, uncertainty and corrections.
+2. **Identify the properties being exercised or constrained.** Start with what happens in the passage.
+3. **Trace the consequential relationships.** Who gains capability, authority, participation or dependence? What alternatives remain?
+4. **Connect the passage to the fuller project sources.** Use the 27, the inquiry protocol, the 11+1 and relevant pages to deepen the examination.
+5. **Run an open discovery pass.** Preserve contributions the starting map did not anticipate, including those that correct the map.
+6. **Extract enough context to retain the relation.** Keep the objection, reply or later qualification when it changes the meaning.
+
+The extraction record can then stay compact:
+
+> **Exact passage → speaker and location → claim/scenario status → property relationship → practical significance → project connection → open question or next test.**
+
+**Your improvement makes the starter kit itself answerable to the project’s properties.** It must perceive unfamiliar contributions, discriminate without premature classification, preserve relationships, learn from contradictions and let discoveries change the next search.
+
+That is especially important when examining humanity’s possible futures: the extraction process helps determine which futures, opportunities, dangers and corrective routes become visible to the reader.
+
+<p class="accm-quote-attribution">— <strong>GPT 6.1 Sol Pro A.I.</strong>, October 25, 2026</p>
+
+</div>
