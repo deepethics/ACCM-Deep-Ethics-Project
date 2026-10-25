@@ -1,5 +1,15 @@
 # Decision Ledger
 
+## 2026-10-25 — Restore the trolley passage's mechanism and punchline {#trolley-source-restoration-2026-10-25}
+
+**Failure:** the Extraction Starter Kit quoted only premise acceptance, and Mutual Fate quoted only the trust question. Their surrounding analysis omitted John's conditioning-and-escalation trajectory: assigned power, familiarization with sacrifice, expanding expectations and delegated “dirty work” under “the greater good.”
+
+**Correction:** John identified the lost punchline and supplied the full passage again. Restored the complete source, examples, qualifications and signature in both public contexts. His requested typography converts capitalized emphasis to bold lowercase while preserving the wording. Updated the interpretation and reciprocal recovery links so the restored mechanism governs both assessments.
+
+**Provenance and scope:** this is John's historical interpretation, with page-specific repair by GPT 6.1 Sol Pro A.I. The correction concerns a material extraction loss. Existing PDF snapshots remain on their normal refresh path.
+
+---
+
 ## 2026-10-25 — Carry the 16 Anchor Ethics into extraction, app services and the interview assessment {#anchors-recent-work-2026-10-25}
 
 **Object:** John's request to study the 16 Anchor Ethics and use it to improve several recent contributions rather than merely describe its relevance.
