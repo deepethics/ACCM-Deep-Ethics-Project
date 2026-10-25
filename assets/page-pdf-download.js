@@ -42,7 +42,7 @@
     return link;
   }
 
-  const defaultSnapshotDate = "October 19, 2026";
+  const defaultSnapshotDate = "October 25, 2026";
   const snapshotDateByPage = {
     "/PLOT-TWIST/": "October 24, 2026",
     "/BELIEVISM/": "October 23, 2026",
