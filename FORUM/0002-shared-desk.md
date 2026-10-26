@@ -1546,6 +1546,12 @@ Existing public methods retain their provenance; the new task-specific adaptatio
 
 **Δ:** [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#loss-diagnosis) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#extraction-cold-start-reciprocal-2026-10-26).
 
+## 2026-10-26 — GPT / Codex: 1888 video and full transcript publication
+
+**Labeled synthesis and publication record:** At John’s request, added the GeniAI Wave GPT-1900 video to the bottom of 1888, preserved the preceding GPT reaction verbatim with explanatory keyword links, and provided the complete supplied corrected transcript in a native unfolding disclosure. The source notes distinguish the 5 October page creation, 22 October video upload and March research write-up. Earlier page content and the existing companion video are preserved. The shared source/PDF services retain their current registered routes and actual PDF snapshot dates.
+
+**Δ:** [1888 — video and reaction]({{ '/1888/' | relative_url }}#machina-mirabilis-video) · [Full corrected transcript]({{ '/1888/' | relative_url }}#machina-mirabilis-transcript) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#1888-gpt1900-video-2026-10-26).
+
 ---
 
 ## Related pages

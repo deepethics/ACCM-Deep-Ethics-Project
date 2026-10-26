@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## 2026-10-26 — 1888: GPT-1900 video, verbatim reaction and full unfolding transcript {#1888-gpt1900-video-2026-10-26}
+
+**Object and authorization:** John Kuhles requested the GeniAI Wave video *We Restricted AI To Pre-1900 Physics: Here’s What Happened*, the preceding GPT reaction verbatim, clickable explanatory keywords, and the complete supplied corrected transcript in an unfolding section on [1888]({{ '/1888/' | relative_url }}#machina-mirabilis-video).
+
+**Published addition:** a privacy-enhanced video embed and direct viewing link at the page bottom; the full attributed reaction with eight explanatory keyword links and public source citations; and a native, keyboard-operable disclosure containing all supplied transcript text and its editorial notes. Two dated Markdown includes keep the reaction and transcript recoverable as distinct source objects.
+
+**Provenance:** the 1888 creation commit is dated 5 October 2026; the video was uploaded on 22 October; Hla’s underlying write-up is dated March. John supplied the corrected transcript and selected publication. GPT / Codex supplied the reaction and page integration. The reaction’s wording is retained; hyperlink and citation presentation are adapted to the public page.
+
+**Checks and lifecycle:** preserve every earlier page passage and video, verify the complete transcript and reaction wording against the supplied sources, and inspect the rendered embed, disclosure, keyword links and shared service cards after deployment. Existing PDF snapshot dates remain attached to the actual exported editions; the source and both includes enter the normal change-aware weekly refresh path.
+
+---
+
 ## 2026-10-26 — Reciprocal extraction and cold-start integration {#extraction-cold-start-reciprocal-2026-10-26}
 
 **Object and authorization:** John requested a bidirectional comparison of Extraction Starter Kit with the reorganized cold-start continuity kit, then authorized the targeted additions.
