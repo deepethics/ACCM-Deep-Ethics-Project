@@ -4,6 +4,7 @@ title: "Extraction Starter Kit"
 description: "A property-first method for extracting useful, relevant and valuable quotations from long A.I.-future videos while preserving context, provenance, competing scenarios and correction."
 permalink: /EXTRACTION-STARTER-KIT/
 date: 2026-10-25
+last_modified_at: 2026-10-26
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -131,6 +132,44 @@ Preserve small words that change the claim: *could, may, partly, some, if, under
 An exact quote retains the supplied wording. Mark an omission with an ellipsis when it is necessary, and confirm that the removed material does not change the meaning. Label a cleaned rendering, translation or paraphrase as such. Never splice separate turns into one apparently continuous statement. Place explanatory acronym expansions outside a quotation when they were absent from its wording.
 
 The interpretation belongs beneath the quote. Explain the connection in ordinary language, with a direct link to the relevant project page. A reader should be able to disagree with that interpretation while still recovering what the speaker said.
+
+## Locate a loss before attributing it {#loss-diagnosis}
+
+When a passage or relationship appears missing, compare the source edition, quote record, interpretation and reviewer's actual access. Record the locations that support the finding. The [Human Insecurity report]({{ '/HUMAN-INSECURITY/' | relative_url }}) supplies a reporting-effect distinction that makes the repair more precise:
+
+| Finding | What the record shows | Next useful move |
+|---|---|---|
+| Source-level absence within the checked material | The relation was not found inside a declared source perimeter | Name that perimeter; keep wider absence unresolved |
+| Extraction or report failure | The source contained the relation and the derived output dropped, weakened or replaced it | Restore it and reconsider dependent interpretations |
+| Placement failure | The relation is retained but separated from the claim that needs it | Restore adjacency or an explicit recovery link |
+| Reviewer retrieval failure | Relevant material was available and the reviewer missed it | Recover it before maintaining an omission claim |
+| Access artifact | A needed section or edition was unavailable to the reviewer | Mark the gap and seek the missing material |
+| Portability finding | The relation exists but is unlikely to survive excerpting or a cold handoff | Attach its qualifier, context and recovery route to the reusable record |
+| Operationalization of existing content | A new test, field or metric makes an existing relation usable | Attribute the relation and the operational proposal separately |
+| Genuinely new contribution | The proposed operation is absent from the checked source and derived output | Preserve its candidate status and what would test its usefulness |
+
+Several findings can apply to one case. Record access, location, transformation, evidence and disposition separately where that changes the repair. A possible failure without a specimen can remain a test condition.
+
+### Test the relationship a phrase carries {#relational-qualifier-test}
+
+Ordinary qualifier erosion can turn *may* into *does*. **Relational qualifier erosion** removes a joint between operations while leaving the local sentence fluent. On a labeled working copy, temporarily remove the phrase under examination: does a later claim, comparison or decision lose its support or change meaning? If so, restore the relationship in the extraction. Preserve the source edition throughout the test.
+
+The [trolley correction below](#trolley-full-source) supplies a worked case. An opening about premise acceptance and a closing trust question can both survive while the conditioning mechanism connecting them disappears. The complete unit of meaning includes that middle relationship. Its recovery changes the interpretation, not merely the length of the quotation.
+
+### Follow a correction into its next applicable use {#correction-transfer-record}
+
+A stored record, an available record and a relation that governs later processing are different states. The [1888 correction-persistence discussion]({{ '/1888/' | relative_url }}) makes that distinction observable. For a consequential repair, retain:
+
+| Field | Observation to preserve |
+|---|---|
+| Corrected relation | Source wording, earlier transformation, repair and affected quote or assessment IDs |
+| First applicable opportunity | The next operation where the correction could change the result, and what happened |
+| Functional recurrence | Whether the same failure returned through the same words or a paraphrase; record a useful turn, token or time distance |
+| Unfamiliar transfer | Whether the relation governs a different passage or task |
+| Reinstatement conditions | Whether the correction was supplied again, retrieved externally or unavailable in the tested context |
+| Remaining scope | What was demonstrated, what remains unresolved and when to reopen the assessment |
+
+A successful answer after the correction record was supplied demonstrates externally assisted reinstatement. Test later retention separately. Changed wording can preserve the failed function; the comparison follows the operation beneath the phrasing.
 
 ## Follow possible futures through their dependencies {#future-pathways}
 
@@ -321,6 +360,14 @@ Use a consented source and the same task to compare an ordinary output with each
 
 A participant can agree to use a tool without agreeing to join a study, share a case publicly or contribute training material. Keep those choices distinct. For a comparison of the tools, use a separate reviewer or independent source check when possible, and record shared dependencies when independence is unavailable. The 16 anchors are a reference field for the decisions, not a self-awarded result score.
 
+### Optional relation-swap and restoration-cost comparison {#relation-swap-beta}
+
+The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) supplies a bounded extension to the Beta comparison. Keep the actual source intact. Build separately labeled test items in which one answer-changing relationship changes while most vocabulary remains stable. Define the intended difference and scoring rule before the run, and keep that scoring outside the tested model's instructions.
+
+Include cases requiring separation, cases requiring a warranted connection, a debranded case and a valid-null case. After one correction, try an unfamiliar item without telling the system which relationship to protect. Record the pattern of misses and whether correction transferred; agent agreement alone does not establish independent confirmation.
+
+Alongside preference, fidelity and useful discovery, record **restoration burden**: human turns, repeated qualifiers, time or effort needed to recover a lost relation, and whether an available source was left unread. A polished final answer can conceal repeated human reconstruction. These measurements extend the existing time-and-effort comparison; their coding and reliability remain open to calibration.
+
 ## Copyable starter prompt {#starter-prompt}
 
 Copy the following as a starting instruction and supply the actual source. The linked maps above are the reading routes; retain access limits when a model cannot open them.
@@ -368,6 +415,8 @@ examine how the evaluator treats them.
 Identify its claim type and distinguish it from your interpretation.
 Explain the earned project connection with a direct source link.
 State its practical contribution and any unresolved dependency.
+When a relation seems missing, locate the loss in source access,
+extraction, placement, retrieval or downstream interpretation.
 Separate direct connections from exploratory bridges and counterexamples.
 
 ASSESSMENT
@@ -376,6 +425,10 @@ can question the frame, can revise delegation and can leave.
 Trace how different futures depend on decisions and conditions.
 Apply the same examination to incumbents, critics and this project.
 Preserve useful discoveries, successful corrections and valid nulls.
+For a consequential repair, record its next applicable use and the
+dependent assessments that changed. Distinguish a correction supplied
+again from later retention under different access conditions.
+When comparing tools, record human restoration effort separately.
 
 OUTPUT
 Provide source/access notes, a coverage record, distinct quote entries,
@@ -402,6 +455,8 @@ when it materially changes a selected passage's interpretation.
 - Will the result improve a later question, test, decision or search?
 - Can the participant contest the finding, decline the service or choose another mode without being classified as deficient?
 - Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
+- Does an omission claim identify the source perimeter and where the transformation occurred?
+- Do persistence claims preserve the next applicable use and whether the correction was supplied again?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
 
@@ -419,6 +474,8 @@ Finding no earned project connection in a passage is a valid result. Record it w
 
 The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-starter-kit) preserves the immediate formulation. This page develops it into a usable method. The interview and historical archive are initiating specimens, not a claim that the method has already been validated across videos. Future use should record what was recovered, missed, overconnected or improved and let that finding change the kit.
 
+**October 26, 2026 reciprocal integration:** John requested a comparison with the reorganized cold-start continuity kit and authorized the useful additions in both directions. This page now applies the existing [Human Insecurity reporting-effect and relational-qualifier instruments]({{ '/HUMAN-INSECURITY/' | relative_url }}), [1888 correction-persistence distinctions]({{ '/1888/' | relative_url }}) and [Cold Edge-Swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) to quotation extraction and the optional Beta comparison. The continuity kit receives this page's discovery pass, coverage and quote-record formats, complete trolley correction case, separate-affordance comparison and service-feedback workflow. The source relations retain their existing provenance; the extraction-specific adaptations are corrigible A.I.-assisted operational proposals. This records an integration, not a completed validation experiment.
+
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
 ## Further reading
@@ -431,3 +488,4 @@ Use the page's GitHub-source service to inspect its history or propose a correct
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — human and synthetic contributions across time.
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the fused reference field for consequential choices, opt-in service boundaries and reviewable next moves.
 - [**DeepEthical.ai**](https://deepethical.ai) — the project's connected public direction.
+

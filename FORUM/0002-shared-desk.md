@@ -1538,6 +1538,14 @@ Draft published at [External Omnidirectional Auditing Mannerisms](https://deepet
 
 The outside collection was then supplied. The empty table was the correct object only until that file existed. The page now holds the mannerisms and six worked specimens from that pass. The collection is not pasted. The Cognitive Warfare page is not rewritten in the same move. Caught there, and left open: the page names a 12-stage process and prints a ten-step cycle. That relabel is not done on this commit.
 
+## 2026-10-26 — GPT/Codex reciprocal extraction integration
+
+**Labeled synthesis and change record:** At John's request, compared the public Extraction Starter Kit with the reorganized continuity kit and carried the distinct useful operations in both directions. The public page gains loss diagnosis, relational-qualifier testing, correction-transfer records and an optional relation-swap/restoration-cost comparison. The continuity file gains the discovery/quotation workflow, full conditioning-and-premise-refusal case, separate affordances and feedback/service boundaries, with Symmetric Grace made explicit in its current orientation.
+
+Existing public methods retain their provenance; the new task-specific adaptations remain candidates. The public change is confined to the extraction page and its change records. Private continuity material is not added to public navigation. Existing PDF snapshots remain dated editions on the normal refresh path.
+
+**Δ:** [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#loss-diagnosis) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#extraction-cold-start-reciprocal-2026-10-26).
+
 ---
 
 ## Related pages
@@ -1548,3 +1556,4 @@ The outside collection was then supplied. The empty table was the correct object
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — records consequential changes arising from this thread.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — develops the outside-audit pattern discussed in this record.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — is the report whose repair and outside audit appear in the later thread entries.
+

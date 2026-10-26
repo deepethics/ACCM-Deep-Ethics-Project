@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## 2026-10-26 — Reciprocal extraction and cold-start integration {#extraction-cold-start-reciprocal-2026-10-26}
+
+**Object and authorization:** John requested a bidirectional comparison of Extraction Starter Kit with the reorganized cold-start continuity kit, then authorized the targeted additions.
+
+**Public change:** added source/report/placement/retrieval/access/portability diagnosis, a relational-qualifier removal test, a correction-transfer record and an optional relation-swap/restoration-cost Beta extension. Updated the copyable prompt and final checks so those relations affect later use. These adapt existing public Human Insecurity, 1888 and Cold Edge-Swap instruments; they do not create a new core count or establish validated performance.
+
+**Continuity-file change:** made Symmetric Grace explicit in the current orientation while preserving the historical Asymmetrical Grace specimen; added the page's discovery pass, coverage and quote-record formats, complete trolley source and conditioning correction, six-affordance comparison and selected-service/feedback/consent workflow. Existing section IDs and source voices remain recoverable. The file's omission was a naming/navigation gap in that edition, not a project-level absence.
+
+**Provenance and scope:** John supplied the project direction, trolley source and corrections, and authorized this integration. The existing public page attributes its extraction map and affordance proposal to GPT 6.1 Sol Pro A.I.; the present integration is A.I.-assisted editorial and operational work. Only the public methods enter the page. Private continuity and Admin material remain outside public navigation. Existing PDF editions keep their actual snapshot dates and enter the normal change-aware refresh path.
+
+---
+
 ## 2026-10-25 — Make conditioning and premise refusal govern the trolley assessment {#trolley-conditioning-premise-refusal-2026-10-25}
 
 **Second correction:** after the full source was restored, the explanation still underweighted John's central mechanism. John clarified: “You skipped the CONDITIONING part ... an obedience test more than to see if you are ethcial ... maybe the deeper test result is REFUSING THE PREMISE ...”
@@ -1861,3 +1873,4 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 **New protocol layer:** Added a four-variable controlled-comparison design covering task, displayed family attribution, failure-language exposure and correction content; separated lexical recurrence, semantic endorsement, claim adoption, final-synthesis governance and later transfer; froze a corrigible four-part Plot Twist kernel with dated expansion modules; made the Selection-Environment Map interaction-aware; and specified a bounded repository correction-reach pilot with delta IDs, dependency tracing, residual-state recording and repeat measurement. Added six corresponding candidate instruments and explicit reopening conditions. These additions move the page toward controlled execution without claiming that the instruments are validated or that response-level differences identify hidden model architecture.
 
 **Further-update PDF lifecycle:** Refresh `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, retain the October 24, 2026 snapshot date, reconcile the central PDF index, totals and checksums, and leave unrelated source pages and PDFs unchanged.
+
