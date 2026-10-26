@@ -378,6 +378,8 @@ The equally important positive test is whether the page keeps the relationship a
 
 ## Related pages
 
+- [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#signal-noise' | relative_url }}) — applies process-quality calibration evaluation to the stronger case, restoration burden, and correction of the evaluator.
+
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — applies PQCE to the allocation of uncertainty, permission to explore, temporary postponement and the correction route into an evaluation.
 
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — connects PQCE to specialty-matched Betas, participant-visible value, staged evidence, Symmetric Grace, restoration burden, and valid local stopping.

@@ -434,6 +434,8 @@ The model remains open to all five.
 
 ## Related pages
 
+- [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#connected-field' | relative_url }}) — keeps the Arbiter's present focus open to wider relations, alternative readings, and material correction.
+
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — follows John's quotations from possibility and temporary focus to reciprocal grace, PQCE, practical action and correction persistence.
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — examines what changes when the tested system represents the examiner, scoring field and consequences as part of the active object.

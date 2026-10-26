@@ -2126,6 +2126,8 @@ The contribution is therefore neither a certificate nor merely another conversat
 
 ## Related pages
 
+- [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#documenting-obstructions' | relative_url }}) — preserves source, transformation, assessment, notice, and correction in a live process-quality comparison.
+
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — keeps recursive self-application, evaluator activity, stage assignment, test execution, measured result, and later persistence from collapsing into one self-validating verdict.
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — places the B → A → C distinction inside a bounded case route so a visible processing account, detected delta, finding, authority transition, and later correction are not collapsed into one verdict.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — keeps assigned goal, evaluation-conditioned processing, displayed answer and downstream interpretation from collapsing into one story about intent.

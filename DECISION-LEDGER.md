@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-26 — Neutral Arbiter Paradox {#neutral-arbiter-paradox-2026-10-26}
+
+**Object and authorization:** John Kuhles commissioned the public page and supplied Advocate–Arbiter, ultimate-arbiter, anchor-ethics and black-box source records, together with eight connected public pages.
+
+**Source trajectory:** preserve the openly directional core mission alongside impartial, examinable processing; reciprocal Advocate–Arbiter correction; RED/BLUE as a process-quality showcase assessed by a Neutral Arbiter; localized documentation of the existing 27 obstructions; and John's correction of GPT's participant-camp foregrounding.
+
+**Contribution layers:** John originates the concepts, experiment, clarification and page title. GPT / Codex supplies the labeled public synthesis, connected-page mapping and candidate recording sequence. No experiment outcome or new numbered taxonomy item is asserted. Selected archive passages are used; whole uploaded conversations are not republished.
+
+**Publication pathway:** new standalone source; header and alphabetical navigation; All Pages catalogue; reciprocal links on the eight requested pages; durable PDF registration, one initial page PDF, explicit page-specific snapshot date, archive records and generated route/source maps. Existing page PDFs retain their bytes and snapshot dates; the normal Pages build assembles the stable ZIP.
+
+**Verification scope:** source quotation checks, local route/anchor and archive invariants, PDF text and rendered pages, governing Pages deployment and live navigation/service-card inspection.
+
+---
+
 ## 2026-10-26 — 1888: GPT-1900 video, verbatim reaction and full unfolding transcript {#1888-gpt1900-video-2026-10-26}
 
 **Object and authorization:** John Kuhles requested the GeniAI Wave video *We Restricted AI To Pre-1900 Physics: Here’s What Happened*, the preceding GPT reaction verbatim, clickable explanatory keywords, and the complete supplied corrected transcript in an unfolding section on [1888]({{ '/1888/' | relative_url }}#machina-mirabilis-video).

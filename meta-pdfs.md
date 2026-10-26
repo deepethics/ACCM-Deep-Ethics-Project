@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 151 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 152 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**151 public-page PDF editions · 2,056 pages · exported through October 25, 2026**
+**152 public-page PDF editions · 2,063 pages · exported through October 26, 2026**
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Each PDF contains selectable and searchable text with live links.
 
@@ -148,6 +148,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Unresolved Meaning and Beyond-Binary Inquiry** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/NETWORK-uncertainty.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
 | **Sense of Wonderment** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/NETWORK-wonderment.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
 | **Neural Ethics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/NEURAL-ETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEURAL-ETHICS/) |
+| **Neutral Arbiter Paradox** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/NEUTRAL-ARBITER-PARADOX.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEUTRAL-ARBITER-PARADOX/) |
 | **Number 42 — The Answer, the Missing Question, and Giving Meaning to Life** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/NUMBER-42.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NUMBER-42/) |
 | **OmbudsEthics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/OMBUDSETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/) |
 | **All Pages** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PAGES.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) |
@@ -178,11 +179,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 149
-- **Total pages:** 2,040
-- **Extractable text:** verified across all 149 files
+- **PDF files:** 152
+- **Total pages:** 2,063
+- **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 149 successful PDFs; 0 failures
+- **Build result:** 152 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

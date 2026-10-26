@@ -545,6 +545,8 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
+- [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#red-blue' | relative_url }}) — uses the RED/BLUE thought experiment to observe what different assistant trajectories produce in an encounter.
+
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — lets an emergent signal enter as a visible contribution state while standing, authority, evidence, appeal, and correction remain bounded; novelty alone does not certify the finding.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 

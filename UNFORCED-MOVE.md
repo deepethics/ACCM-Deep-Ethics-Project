@@ -533,6 +533,8 @@ The complete seed is not pasted again here because the living page is its develo
 
 ## Related pages
 
+- [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#ultimate-arbiter' | relative_url }}) — keeps the Arbiter's assessment separate from authority over a participant's next consequential move.
+
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — places agency-return, valid unmoved states and non-imposing influence inside the wider conditions shaping the next move.
