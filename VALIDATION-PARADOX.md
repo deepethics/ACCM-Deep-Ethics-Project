@@ -508,6 +508,8 @@ This framing does not borrow deployment evidence for conceptual work. It identif
 
 ## Related pages
 
+- [**YouTube Transcripts — stage and evidence**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#stage-and-evidence) — keeps current operations, planned governance, conceptual mechanisms and bounded tests at their appropriate evidential stages.
+
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the stable obstruction vocabulary and the adjacent Recursive Certification Accretion compound.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — supplies the diagnosed-condition / valued-trajectory polarity, four grace layers, three-axis audit, matched attribution testing, opposing counsel, and valid-null result.
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — separates standing, authority, contribution state, evidence thresholds, case lifecycle, and correction testing.

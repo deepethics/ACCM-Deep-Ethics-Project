@@ -1004,6 +1004,8 @@ The page does not ask contributors to agree with John, an A.I., a famous thinker
 
 ## Related pages
 
+- [**YouTube Transcripts — quotation and prestige**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#quotation-and-prestige) — asks what a name contributes to an assessment while preserving attribution and examining the quoted reasoning itself.
+
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — begins with the property field before modern machinery and asks what happens when intelligence becomes electrically instantiated and networked.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective field that governs inquiry before any verdict.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects answer-changing clarification from both premature intervention and ritualized questioning.

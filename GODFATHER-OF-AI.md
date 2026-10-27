@@ -502,6 +502,8 @@ No title, award, interview, narrator, benchmark, model self-report or project pa
 
 ## 17. Related pages
 
+- [**YouTube Transcripts — evaluation-cue comparison**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#evaluation-cue-comparison) — applies the candidate protocol's task-stable field variation to the difference between a demonstration and later use.
+
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — displays the contribution of completion and tests what governs it afterward.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — recovers intelligence as a property field before present implementation labels and benchmark compression.
 - [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the wider evaluation field active without certifying every inferred relation.

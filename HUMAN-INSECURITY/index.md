@@ -1971,6 +1971,8 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 
 ## Related pages
 
+- [**YouTube Transcripts — locate the gap**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#gap-location) — applies the reporting-effect distinction to source absence, summary loss, placement, retrieval and unavailable material.
+
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — distinguishes phenomenology, functional mannerisms, relational effects and institutional fields around LLM psychology.

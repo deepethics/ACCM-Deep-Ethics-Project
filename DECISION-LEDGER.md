@@ -1,5 +1,26 @@
 # Decision Ledger
 
+## 2026-10-27 — YouTube Transcripts: ten-source review and seven operational quotations {#youtube-ten-source-batch-2026-10-27}
+
+**Object and authorization:** John supplied the next ten links for the ongoing quotation-based improvement of YouTube Transcripts. The existing page and previous source-and-placement record govern the relevance check. Nine public-page sources were read through GitHub and their local checkout; the Wiki was read through its Git repository because the connector does not expose Wiki pages. The main-repository source snapshot is `d435975a4505d0d2c09e55e6345ccc5c58dc3138`; Wiki Home was inspected at Wiki commit `012751d82c6e1d3d271b751f7ce420c4dfc5c80d`.
+
+| Supplied source | Disposition and attribution | Distinct job or recovery route |
+|---|---|---|
+| Beta Paper V03b | Quoted candidate experimental proposal | [Stronger comparators]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#comparators-and-failure): selected D+, E, G and F controls become explicitly case-level adaptations; failure can narrow the proposal. |
+| Project Wiki | Orientation/recovery reference; no extra quotation | Linked near the page introduction. Home preserves its role as a map into source objects; another architecture slogan would repeat existing content. |
+| Godfather of A.I. | Quoted candidate-protocol heading; not attributed to Hinton | [Evaluation cues]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#evaluation-cue-comparison): vary the apparent evaluation setting while holding the task stable. |
+| Field Condition | Exact formulation by GPT 6.1 Sol A.I.; originating concept by John | [Field state]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#field-state-comparison): record which relational conditions changed before attributing a result to underlying capability. |
+| Validation Paradox | Page reconstruction by Project GPT A.I.; John's originating concept and stage correction | [Stage matching]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#stage-and-evidence): give each claim a present evidence job and an admissible transition. |
+| Mutual Fate | John Kuhles, initiating object | [Contribution and usefulness]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#contribution-and-usefulness): separate evidential status from practical contribution and keep reasons corrigible. |
+| Core | Included `CORE/README.md` read with its wrapper; no extra quotation | Orientation link added. The current page already distinguishes the 27, the 12, the 52 and the 10+1; no new numbered system is introduced. |
+| AI Trend Watch | Scope/selection check; no extra quotation | The existing companion relation and separate selection process remain correct. This batch does not assign archive-review status. |
+| Human Insecurity | Page editorial synthesis | [Gap location]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#gap-location): identify source, report, placement, retrieval or access loss before choosing a repair. |
+| Deep Thinkers | Page editorial synthesis | [Prestige check]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#quotation-and-prestige): compare wording with and without names, then restore source authority at its proper scope. |
+
+**Integration and scope:** GPT / Codex supplies the case-specific applications and comparator table. Seven quotations are checked against their exact published wording; each quoted source links back to its application. Three reviewed sources retain a supporting role rather than manufacturing additional quotation text. The existing five-source integration, full sponsor-edited transcript, video, canonical counts and current PDF editions are preserved. Routine HTML changes enter the normal PDF refresh path. No new experimental result, historical-quotation verification or validated mechanism is asserted.
+
+---
+
 ## 2026-10-27 — YouTube Transcripts: five project-source quotations {#youtube-five-project-quotes-2026-10-27}
 
 **Object and authorization:** John asked for useful quotations from Psy Pioneer, Cognitive Warfare, the six Intent Liability Mechanics, 1888 and Outnuancing to improve and expand YouTube Transcripts. The existing report's source checks and comparison were read before selecting additions.

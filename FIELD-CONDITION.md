@@ -652,6 +652,8 @@ The commercial can simply make those relations memorable:
 
 ## Related pages
 
+- [**YouTube Transcripts — preserve the field state**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#field-state-comparison) — uses the attributed definition to record which access, instructions, cues and correction opportunities changed between compared results.
+
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — treats announced testing, deployment-like interaction, hidden evaluation cues and examiner authority as materially different performance fields.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 

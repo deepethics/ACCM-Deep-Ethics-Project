@@ -550,6 +550,8 @@ This page does not establish that agreement and disagreement are inherently harm
 
 ## 20. Related pages
 
+- [**YouTube Transcripts — contribution and usefulness**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#contribution-and-usefulness) — carries John's initiating statement into separate records of evidential status, practical usefulness and a corrigible reason.
+
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — provides a corrigible, unownable case route when a human, A.I., institution, or detector identifies a consequential delta inside the coupled trajectory.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — follows how human evaluation design shapes A.I. behavior and how that behavior returns through governance, public narratives and future training archives.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — follows how generated candidates become reports, corrections and future archive conditions across the coupled human–A.I. trajectory.

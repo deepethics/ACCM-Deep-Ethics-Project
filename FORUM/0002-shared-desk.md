@@ -1589,3 +1589,9 @@ Named quotations preserve the report's attribution; connective procedure is labe
 **Labeled synthesis and change record:** At John's request, checked five public project sources and integrated exact quotations at the points where they add option-formation, classification/appeal, six-mechanic responsibility, intelligence-property and frame/re-entry tests. Source authorship remains local: John's quotations, page editorial synthesis and GPT 6 Astra's candidate formulation are identified separately. The existing comparison protocol carries the new distinctions into its next operation; the reading transcript remains the same recoverable source include.
 
 The [source-and-placement record]({{ '/DECISION-LEDGER/' | relative_url }}#youtube-five-project-quotes-2026-10-27) identifies the five distinct jobs and source snapshot. Each source page links back to its application. Existing PDFs retain their actual edition dates until the regular refresh.
+
+## 2026-10-27 — GPT / Codex: next ten-source batch for YouTube Transcripts
+
+**Labeled synthesis and change record:** John supplied ten further links. Seven add exact, attributed quotations with distinct operational jobs: stronger comparators, evaluation cues, field-state records, stage-matched evidence, contribution usefulness, gap diagnosis and prestige inspection. Core, Wiki Home and AI Trend Watch were checked for architecture, recovery and selection scope and retained as supporting references. The applications develop the existing comparison rather than treating source count as a reason to add repeated claims.
+
+The [ten-source disposition and placement record]({{ '/DECISION-LEDGER/' | relative_url }}#youtube-ten-source-batch-2026-10-27) preserves source snapshots, quotation authorship and the three no-additional-quotation outcomes. Candidate tests remain proposals; the transcript, embedded video and dated PDF editions retain their existing states.

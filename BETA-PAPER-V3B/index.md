@@ -21,6 +21,8 @@ date: 2026-10-11
 
 ## What V03b adds
 
+**Applied comparison:** [YouTube Transcripts — stronger comparators]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#comparators-and-failure) adapts selected controls to a proposed artifact-level pilot while preserving this paper's separate recursive-training requirements.
+
 V03b retains the expanded theory and adds or strengthens:
 
 - explicit separation of the **mechanism hypothesis**, **experimental program**, and **ecosystem hypothesis**;
