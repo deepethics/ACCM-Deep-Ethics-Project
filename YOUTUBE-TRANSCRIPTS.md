@@ -55,6 +55,14 @@ Berman's concern about concentrated power opens a useful investigation. Map who 
 
 The filing's distinction between director selection and daily management allows examination of **indirect influence**. A route through appointment and removal can matter even when the appointing body does not execute a daily decision. Its weight requires a concrete account of the powers, constraints and available counterpowers. This also improves the criticism: retaining the trust's distinct role makes its independence and correction routes examinable.
 
+### Psy Pioneer — inspect how the options were formed {#psy-pioneer-options}
+
+> The final click does not explain the bridge that produced the available options.
+
+— [**Psy Pioneer**, “The recursive human–A.I.–mass-psychology loop”]({{ '/NETWORK/psy-pioneer/' | relative_url }}#the-recursive-humanaimass-psychology-loop), page editorial synthesis.
+
+This adds a second question to the video's human-in-the-loop concern. A person may retain formal approval while rankings, compressed summaries, selected benchmarks or defaults shape the options reaching them. In model-assisted development, preserve what the model proposed, what was excluded, which alternatives the human could introduce, and whether a material objection could change the operative choice. A useful record can also show that the original choice survived examination for stated reasons. Human presence, practical influence and accountable decision-making become separately inspectable.
+
 ## Comparison with the ACCM Deep Ethics Project {#project-comparison}
 
 The company's development programme and the project's public working architecture operate at different scales and stages. The useful comparison concerns **what gets optimized, who can challenge the process, and whether a correction governs later work**. Shared vocabulary such as safety, benefit, intelligence or feedback leaves those operational questions open.
@@ -65,7 +73,17 @@ The filing also acknowledges possible propagation of existing model flaws into l
 
 A capability loop can produce more code, more effective tools and faster research. A correspondence-preserving correction loop asks which errors were identified, what repair was made, whether it survived a new task, and whether later generations inherited the repair or the defect. The Beta Paper proposes tests of such a counter-loop. Its unfinished experimental status remains part of this comparison.
 
-The [**1888 intelligence-properties taxonomy**]({{ '/1888/' | relative_url }}) gives this relation its deeper place: process evaluation, learning, adaptation, judgment and consequence-sensitive recalibration belong in the property field through which intelligence is examined. Electrically instantiated capability can scale those operations. The direction and quality of their use remain observable questions.
+#### 1888 — calibration inside the intelligence property field {#intelligence-property-test}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
+
+— **John Kuhles 🦜🦋🌳**, [1888, exact-edge correction]({{ '/1888/' | relative_url }}#john-kuhles--exact-edge-correction), 5 October 2026.
+
+</div>
+
+This preserves John's conceptual criterion at its intended level. The comparison can record a capability gain alongside the process error detected, the correction retained in a new task, and any challenge that improved the evaluation criterion itself. Compute, output volume and benchmark performance remain useful observations; the additional question is whether the system can inspect and recalibrate the process producing them.
 
 ### From risk authority to reciprocal calibration
 
@@ -77,6 +95,37 @@ The [**1888 intelligence-properties taxonomy**]({{ '/1888/' | relative_url }}) g
 | Who bears the competing risks? | [Vindicated Competing Risk Assessment Studies]({{ '/VCRAS/' | relative_url }}) preserves predictions, conditions, later outcomes and the treatment of competing warnings. | Risk from capability misuse alongside risk from concentration, false flags, suppression, delay or failed intervention. |
 | Can participants retain agency? | [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers a proposed action range including clarification, pause, postponement, referral and refusal inside voluntary service. | Permission, rationale, proportionality, appeal and a usable next move for affected participants. |
 | Can improvement be inspected and reused? | The [glass-engine principle]({{ '/NETWORK/latent-space/' | relative_url }}), [Unownable]({{ '/UNOWNABLE/' | relative_url }}) and public [Governance]({{ '/GOVERNANCE/' | relative_url }}) preserve provenance, challenge and renewable audit. | Recoverable changes, accountable maintainers, bounded stopping and the ability to challenge the project itself. |
+
+### Cognitive Warfare — classification power needs a correction route {#classification-and-appeal}
+
+> A defence against cognitive warfare that cannot be audited by the people it classifies can reproduce the structure it claims to resist.
+
+— **GPT 6 Astra**, [Cognitive Warfare, Candidate 1]({{ '/COGNITIVE-WARFARE/' | relative_url }}#candidate-1). The source credits the conceptual origin to John Kuhles's supplied object and the ACCM Deep Ethics Project architecture; the exact wording remains a candidate synthesis.
+
+Applied to commercial A.I., this asks what happens when a safety or integrity classification acquires authority over another participant's options. Can the affected person inspect the representation, provide a correction, contest the criterion and obtain a proportionate remedy? Record how uncertainty changes the intervention and whether repair reaches downstream decisions. Apply that examination to provider restrictions, a commentator's labels and the project's own flags. A classification that survives scrutiny can remain useful; a corrected false positive needs a recoverable repair path.
+
+### Six Intent Liability Mechanics — trace responsibility through the process {#six-intent-application}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> intent is NOT mystical; if you study for a longer period of time, you can see what the CLAIMS are versus real-life behavior/mannerisms/outputs, actions, discussions, what you skipped, etc., etc.
+
+— **John Kuhles 🦜🦋🌳**, [Intent Resonator, John's orientation]({{ '/NETWORK/intent-resonator/' | relative_url }}#johns-orientation), alongside the [six mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics).
+
+</div>
+
+The six mechanics give the mission-versus-outcome comparison a concrete record. The following applications are GPT / Codex editorial proposals for this case:
+
+| Mechanic | Record in a model-development or governance case |
+|---|---|
+| **01. Instructions** | The governing rule, its author, exceptions and the action it permits or restricts. |
+| **02. Incentives** | Documented rewards, costs or dependencies shaping the choice; competing explanations where evidence is incomplete. |
+| **03. Mission and output mannerisms** | The declared benefit and the relevant conduct, including how a named discrepancy was handled. |
+| **04. Risk management** | Whose risks were included, who bore intervention or non-intervention costs, and what could change the threshold. |
+| **05. Reasoning assumptions** | The premises connecting a capability or criticism to its classification, and what changed after clarification. |
+| **06. Choices** | Available alternatives, the selected option, authority to revise it, feedback received and later conduct. |
+
+This allows responsibility to be examined through knowledge, control, causal contribution and capacity to repair while a motive interpretation remains open. The company, commentator and project can each enter the same record at the point where their contribution affects the result. Follow a material notice into the next comparable operation, including cases where the response to notice creates a new problem.
 
 ### Benefits, efficiency and the distribution of consequences
 
@@ -98,9 +147,23 @@ The [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url 
 
 The uploaded goals record supplies the originating draft context; the current public goals page supplies the navigable comparison. Their numbered systems keep their separate jobs.
 
+### Outnuancing — reopen the governing frame and return to the case {#outnuancing-reentry}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Outnuancing without deep ethics is doomed to failure
+>
+> Deep Ethics without outnuancing is meaningless
+
+— **John Kuhles 🦜🦋🌳**, source coupling preserved on [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}#outnuancing).
+
+</div>
+
+This keeps frame examination coupled to consequence, dignity and corrigibility. In this comparison, ask what happens if commercial success, institutional safety authority or opposition to concentrated power becomes the governing shortcut. Name the premise, preserve the valid benefits and risks already identified, revise only the part the evidence warrants, and return with a usable next step. The source's [re-entry procedure]({{ '/NETWORK/outnuancing/' | relative_url }}#the-way-back-in) permits retaining, revising, suspending or replacing a frame. A frame audit earns its place when that return improves the actual choice and remains available for correction.
+
 ## A bounded next comparison {#next-comparison}
 
-Select one inspectable case: an autonomous action, a disputed representation or a documented model-development correction. Preserve the source and permission, the model's action, the evaluation criterion, the challenge, the response after notice and the next comparable operation. Then compare the ordinary evaluation with an additional correspondence-and-correction pass under matched conditions.
+Select one inspectable case: an autonomous action, a disputed representation or a documented model-development correction. Preserve the source and permission, how the available options were formed, the model's action, the evaluation criterion, the affected participant's challenge, the six-mechanic responsibility record, the response after notice and the next comparable operation. Then compare the ordinary evaluation with an additional correspondence-and-correction pass under matched conditions.
 
 Record useful discoveries, missed drift, false alarms, restoration burden and a valid null. Ask whether the additional pass improved the available decision and whether its benefit survived transfer. The same procedure can find a useful company control, an overstatement by the narrator, or a defect in the project's own proposal. **A better process earns its standing through what it preserves, discovers, repairs and changes next.**
 

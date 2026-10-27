@@ -732,6 +732,8 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 
 ## Related pages
 
+- [**YouTube Transcripts — how the options were formed**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#psy-pioneer-options) — applies the human–A.I.–mass-psychology loop to the difference between formal approval and influence over the choices reaching a person.
+
 - [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — the attention model used while studying this loop.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration the psychology is tested with, not a second theory of personality.
 - [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the individual side of the same loop.

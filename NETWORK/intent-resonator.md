@@ -1336,6 +1336,8 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 ## Related pages
 
+- [**YouTube Transcripts — six-mechanic responsibility record**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#six-intent-application) — applies the six existing mechanics to model-development and governance decisions, including conduct after notice.
+
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — declared purpose is not replaced by whether the parties agree.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — keeps inquiry mode, declared purpose, processing, effect, notice, and repair separately inspectable.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.

@@ -138,6 +138,8 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**YouTube Transcripts — frame audit and re-entry**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#outnuancing-reentry) — preserves the deep-ethics coupling and returns the audit of commercial, safety and critical frames to a usable next choice.
+
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — extends the specific Outnuancing specimen into a corrigible practice for creating, testing, transferring and tracing selected relational neologisms.

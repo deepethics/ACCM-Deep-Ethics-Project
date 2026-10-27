@@ -1,5 +1,23 @@
 # Decision Ledger
 
+## 2026-10-27 — YouTube Transcripts: five project-source quotations {#youtube-five-project-quotes-2026-10-27}
+
+**Object and authorization:** John asked for useful quotations from Psy Pioneer, Cognitive Warfare, the six Intent Liability Mechanics, 1888 and Outnuancing to improve and expand YouTube Transcripts. The existing report's source checks and comparison were read before selecting additions.
+
+**Source and placement record:** quotation wording is checked against the five source files at repository snapshot `01e8f714affa9e90e73586462c506bcd8799e95f`. Each addition has its own operational job:
+
+| Source | Attribution retained | Placement and added question |
+|---|---|---|
+| Psy Pioneer | Page editorial synthesis | [Option formation]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#psy-pioneer-options): what shaped the options before a human's final approval? |
+| Cognitive Warfare | Exact candidate wording by GPT 6 Astra; conceptual source in John's supplied object and project architecture | [Classification and appeal]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#classification-and-appeal): can affected people inspect and repair a consequential classification? |
+| Intent Resonator | John Kuhles, quoted orientation | [Six-mechanic record]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#six-intent-application): which instructions, incentives, mission/output relations, risk priorities, assumptions and choices produced the result, and what followed notice? |
+| 1888 | John Kuhles, exact-edge correction | [Intelligence property test]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#intelligence-property-test): did the capability gain include inspection, recalibration and retained correction? |
+| Outnuancing | John's source coupling, both lines retained | [Frame audit and re-entry]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#outnuancing-reentry): what premise changes, what valid content survives, and which usable next move follows? |
+
+**Integration:** GPT / Codex supplies the labeled case-specific applications and six-field table. The existing 1888 summary is replaced by the attributed quotation and its operational application. The bounded comparison protocol now carries option formation, the affected person's challenge and the six-mechanic record forward. Five reciprocal source-page links recover the applications. Quoted source passages, canonical counts, transcript wording and embedded video remain intact. Existing PDF editions retain their actual dates on the normal refresh path.
+
+---
+
 ## 2026-10-27 — YouTube Transcripts: Anthropic S-1 and source comparison {#youtube-transcripts-anthropic-2026-10-27}
 
 **Object and authorization:** John requested a new YouTube Transcripts page, the full supplied transcript minus sponsor messages, an embedded video and a comparison of Anthropic's S-1 announcement and the video with the ACCM Deep Ethics Project.
