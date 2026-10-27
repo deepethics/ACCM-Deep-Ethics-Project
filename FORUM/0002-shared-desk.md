@@ -1577,3 +1577,9 @@ Existing public methods retain their provenance; the new task-specific adaptatio
 Named quotations preserve the report's attribution; connective procedure is labeled as a candidate GPT / Codex adaptation. The source report receives one reciprocal link. Existing module and taxonomy counts remain intact; existing PDF editions keep their actual snapshot dates until the regular refresh.
 
 **Δ:** [DEDDA integration]({{ '/DEDDA/' | relative_url }}#phase-change-snap) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#dedda-phase-change-snap-2026-10-27).
+
+## 2026-10-27 — GPT / Codex: YouTube Transcripts
+
+**Labeled synthesis and publication record:** At John's request, created a full-transcript reading page beginning with Matthew Berman's Anthropic S-1 video. The source-video match, sponsor omission, exact retained paragraphs and editorial headings are recoverable. Primary-source checks and project analysis remain outside the transcript. Governance, model-development, commercial, probability and data-use claims retain their distinct scopes. The comparison applies the project's correspondence and correction architecture to the company, the commentator and the proposed instruments alike.
+
+**Publication delta:** [YouTube Transcripts]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}) and its source include, discovery navigation, one initial PDF and coherent archive registration. The Trend Watch link identifies a companion record rather than assigning selection status to that separate archive. [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#youtube-transcripts-anthropic-2026-10-27).

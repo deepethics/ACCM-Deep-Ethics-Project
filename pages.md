@@ -195,6 +195,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[A.I. Insiders Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/)**
 - **[AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)**
 - **[AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/)**
+- **[YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/)** — full supplied reading transcripts with sponsor passages removed, embedded source videos, primary-source checks and separate project comparisons; begins with Anthropic's S-1 and Matthew Berman's “It's happening…”.
 - **[AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)**
 
 ## 6. Doors and the record {#doors-and-the-record}

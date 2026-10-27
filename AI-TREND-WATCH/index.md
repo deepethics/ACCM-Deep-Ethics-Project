@@ -162,6 +162,8 @@ The section, methodology, archive, and reusable report structure are ready. No f
 
 ## Related pages
 
+- [**YouTube Transcripts**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}) — companion reading records commissioned by John, with full sponsor-edited transcripts, source videos and comparisons. Inclusion there is separate from this archive's selection process.
+
 - [**Selection Methodology**]({{ '/AI-TREND-WATCH/methodology/' | relative_url }}) — defines the transparent recency, relevance, virality, and symmetry criteria.
 - [**Reusable Report Template**]({{ '/AI-TREND-WATCH/report-template/' | relative_url }}) — separates evidence-based representation from the project reaction and longitudinal record.
 - [**Published Report Archive**]({{ '/AI-TREND-WATCH/REPORTS/' | relative_url }}) — will list selected reports once they pass the human publication gate.

@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 152
+**Public pages exported:** 153
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -158,3 +158,4 @@
 | [Validation Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALIDATION-PARADOX/) | [VALIDATION-PARADOX.pdf](VALIDATION-PARADOX.pdf) | `VALIDATION-PARADOX.md` |
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |
+| [YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/) | [YOUTUBE-TRANSCRIPTS.pdf](YOUTUBE-TRANSCRIPTS.pdf) | `YOUTUBE-TRANSCRIPTS.md` |

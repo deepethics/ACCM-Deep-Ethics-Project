@@ -1,5 +1,17 @@
 # Decision Ledger
 
+## 2026-10-27 — YouTube Transcripts: Anthropic S-1 and source comparison {#youtube-transcripts-anthropic-2026-10-27}
+
+**Object and authorization:** John requested a new YouTube Transcripts page, the full supplied transcript minus sponsor messages, an embedded video and a comparison of Anthropic's S-1 announcement and the video with the ACCM Deep Ethics Project.
+
+**Sources and editorial delta:** Matthew Berman's “It's happening…” (27 October, 34:21) is matched through retrieved captions to the supplied opening and closing. The reading include preserves all 40 non-sponsor spoken paragraphs verbatim and in order. One Kylon sponsor paragraph becomes an omission marker; the separate channel-membership invitation is retained. Editorial headings and the omission are labeled. The source's introductory metadata is not presented as spoken text. The include records the uploaded source's SHA-256 and transformation positions.
+
+**Comparison:** separates the proposed IPO announcement, the public SEC filing, the narrator's interpretations and the project's candidate operations. Checks preserve Class T board-selection rights beside Class F general voting power, distinguish model assistance from a human-free development claim, inspect percentage-growth paraphrases and leave unsupported probability/data-use interpretations open. The linked 27+12, 10+1, goals, correction metabolism, DEDDA, VCRAS, 16 Anchor Ethics and reciprocal governance methods retain their distinct jobs and development status.
+
+**Publication:** standalone page and transcript include; header, alphabetical and All Pages navigation; a reciprocal Trend Watch companion link without assigning archive-selection status; durable PDF registration, one initial PDF, page-specific snapshot date, central archive records and source/PDF maps. Existing PDFs keep their bytes and dates. John commissions and supplies the transcript/project material; GPT / Codex supplies the labeled analysis, source comparison and page construction.
+
+---
+
 ## 2026-10-27 — DEDDA: Phase Change Snap quotation and correction-return integration {#dedda-phase-change-snap-2026-10-27}
 
 **Object and authorization:** John requested quotation extraction from Phase Change Snap and a proportional improvement and expansion of DEDDA, after consulting the private Admin guidance.
