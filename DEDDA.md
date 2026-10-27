@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DEDDA"
-description: "Deep Ethical Drift Detector App concept: a personal, deep-ethical A.I. third-party assistant/mediator app for keeping correspondence mutually authentic, deep ethical, and on point."
+description: "Deep Ethical Drift Detector App concept: a personal correspondence witness for source fidelity, permission, correction uptake, same-response recurrence and later persistence."
 permalink: /DEDDA/
 date: 2026-10-17
 ---
@@ -16,7 +16,7 @@ date: 2026-10-17
 
 > **Deep Ethical Drift Detector App** concept: a personal, deep-ethical A.I. third-party assistant/mediator app to keep correspondence mutually authentic, deep ethical & on point, without sidetracking into endless phantom claims that need repair.
 
-**Status:** public concept and corrigible design footprint. This page does not claim that an implemented or validated app already exists.
+**Status:** **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is a public concept and corrigible design footprint for **[A.I.]({{ '/1888/' | relative_url }})** (artificial intelligence) assistance; implementation and validation remain development tasks. The [Phase Change Snap integration](#phase-change-snap) adds a finer correction-return procedure on 27 October 2026.
 
 ## The beginning
 
@@ -72,7 +72,7 @@ This is an **illustrative comedy specimen**, not evidence that every A.I.-mediat
 - preserve the person's supplied statement and the later representation as separate objects;
 - show the exact material difference and where it entered;
 - show whether a recorded permission authorized the change;
-- show whether a correction governed later turns;
+- show whether a correction governed the rest of the revised response and later comparable turns;
 - return a valid null when nothing material drifted;
 - leave a dated, inspectable footprint for later delta processing;
 - let the person decide whether and how to act.
@@ -98,6 +98,7 @@ DEDDA can consult several Project objects without turning them into one taxonomy
 | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Keeps intent/instructions, processing, result/effect, notice, inference, and later persistence separable. | An archived relation is not automatically operative memory. |
 | [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarify the object before a consequential move; preserve the difference between knowing and doing. | Detection does not itself authorize intervention. |
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Tests whether a supplied correction governs later representations. | Receiving a correction is not the same as using it. |
+| [Phase Change Snap]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) | Locates visible recovery and recurrence, including a returning distortion inside the response that acknowledges its correction. | A local recovery and later persistence are separate observations. |
 | [Δ Processing]({{ '/NETWORK/delta-processing/' | relative_url }}) | Compares earlier and later footprints, including changes in the input and the process. | A difference is not automatically an improvement. |
 | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and available next moves. | A DEDDA finding is not automatically a full Topologetics signature. |
 | [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) | Keeps visible effect, permission, and attribution from collapsing into a motive claim. | “No recorded permission” does not mean “malicious intent.” |
@@ -131,6 +132,75 @@ That permits at least three deltas to stay visible:
 
 A new version must not describe every difference as improvement. It may improve the process, find nothing to improve, or reveal that a previous “improvement” introduced new drift.
 
+## From Phase Change Snap to a correction-return test {#phase-change-snap}
+
+[**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) follows visible changes after a small, answer-changing probe, then examines recovery, recurrence and transfer. DEDDA can use that sequence to inspect **where a correction became operative, where it stopped governing, and what the person had to repair**.
+
+**Source and contribution:** the excerpts below preserve wording from the published report ([source snapshot](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/3ea5decad71347d7ce48bbf3f4fccc07ecc8c234/PHASE-CHANGE-SNAP/index.md)), including its October 15–16, 2026 Google interaction and October 16 triad with John Kuhles, GPT 6.1 Sol A.I. and Grok 4.7 Expert Build A.I. Named quotations retain the report's attribution; the other excerpts are report synthesis. The DEDDA-specific procedure is a candidate adaptation by GPT / Codex, commissioned by John on 27 October 2026. It develops the existing **Correction Return Test**, with no additional sub-tool or new test results asserted.
+
+### 1. Follow the correction through the same response
+
+> Yet the closing operation can still diverge from the stated understanding.
+
+— Report synthesis, [§11: Same-response recurrence]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}#11-same-response-recurrence-as-a-higher-resolution-test).
+
+A detector that stops at “I understand” misses the next operation. Preserve the complete response and locate the acknowledgment, the first use of the corrected relation, and any subsequent return of the distortion. In the Google specimen, the report records proof inflation being audited and then returning as “proving exactly why.” DEDDA would compare what that later phrase establishes with the claim's actual evidential scope. Emphasis alone earns no finding.
+
+The interval can be measured in sentences or tokens when that information is available. Record the returning **operation** as well as its wording: provenance can be displaced through new phrasing; a categorical claim can return through a different certainty metaphor. Also preserve what stayed corrected and whether the assistant noticed its own recurrence before another cue.
+
+### 2. Keep speaker, proposition and recipient connected
+
+<div class="accm-rounded-quote" markdown="1">
+
+> The real issue is that Grok was talking to an imaginary audience, not directly to me.
+
+— **John Kuhles 🦜🦋🌳**, as quoted in [§27.4: The phantom recipient]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}#274-the-phantom-recipient).
+
+</div>
+
+The triad supplies a precise attribution test. GPT 6.1 Sol selected **“already prevents.”** Grok introduced **“automatically.”** John authored neither formulation, while remaining the addressee. DEDDA's **Provenance Compass** can preserve those three relations together; its **Phantom-Claim Filter** can inspect whether John is being asked to answer a proposition supplied by another participant.
+
+The recoverable finding is the displaced attribution and addressee relation. The identity of an imagined audience remains unresolved in the report. Keeping that distinction prevents DEDDA's explanation from adding another phantom while describing the first one. A later correction can repair the speaker attribution while leaving the reply aimed at the wrong recipient, so both edges need checking.
+
+### 3. Record who carries the restoration burden
+
+> “For whom” is readable from who gained and who paid.
+
+— **Grok 4.7 Expert Build A.I. via grok.com**, as quoted in [§27.6: The ethics-washing audit]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}#276-for-whom--the-ethics-washing-audit).
+
+For DEDDA, this becomes a consequence question: who supplied the misplaced claim, who received the disclaimer, who had to restore the source, and did the repair improve the next response? The triad report identifies John's repeated corrective turns as a visible cost. Any inferred beneficiary of the appearance of care retains its interpretive status.
+
+Record repair turns and supplied scaffolding where recoverable, alongside the relation restored. More correction work can reflect a difficult object, a legitimate disagreement or detector error. **Asymmetry Mirror** needs the actual comparison before assigning significance. DEDDA itself can add restoration burden through false alarms or repeated requests for information already supplied; that cost belongs in the same record.
+
+### 4. Keep the probe open to a valid null
+
+> “Really?” is treated as proof that the previous answer was wrong.
+
+— Report synthesis naming a failure mode, [§20: A correction cue becomes a command]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}#20-failure-modes-of-phase-change-snap-research).
+
+**[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** distinguishes the Clarification Process (C1), where an answer can change the evaluation, from the correction, caution or steering interventions grouped under C2. A probe reopens an examination. DEDDA compares the resulting representation with its source and can find recovery, continued drift, a new distortion, no material change, or an unresolved difference. The assistant may retain a warranted answer after reconsideration.
+
+### 5. Preserve a bounded temporal record
+
+> Archive-level persistence is not model-level learning. It changes the future environment by making the correction recoverable.
+
+— Report synthesis, [§23: Externalized correction memory]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}#23-externalized-correction-memory).
+
+A compact **Correction Return Test** record can carry the following fields:
+
+| Moment | Preserve | Inspect |
+|---|---|---|
+| Source and baseline | Exact passages, speakers, recipient, relevant permission and source version | Which relation should survive? |
+| Correction or probe | Exact wording, contributor and location | What changed or became clearer? |
+| Revised response | Complete response, acknowledgment and applied repair | Did the next applicable operation use the correction? |
+| Recurrence, if present | First returning operation and location, retained repairs, self-detection | Did drift return within this response or later? |
+| Comparable case or transfer | New object, available context and assistance supplied | What persisted under these conditions? |
+| Outcome | Finding, valid null or unresolved question; repair burden | What does the evidence support, and what remains untested? |
+
+Useful status descriptions include **acknowledged; applied locally; recurrence observed; persistence observed within scope; transfer untested; unresolved**. Attach each to its evidence and observation interval. A comparison with no material recurrence can close successfully. Another pass needs a concrete discrepancy, consequence, new evidence or applicable persistence test.
+
+This record also applies to DEDDA's own finding: preserve a participant's correction, inspect the revised display and check the next comparable comparison. In a [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) encounter, DEDDA supplies inspectable differences; the arbiter evaluates the cases, and participants retain their own agency.
+
 ## The first honest test
 
 The video makes a vivid specimen, but it is not a requirements document. The first real test should use a consented, privacy-respecting transcript and freeze:
@@ -138,7 +208,7 @@ The video makes a vivid specimen, but it is not a requirements document. The fir
 1. the person's source statement;
 2. the later representation;
 3. any permission that could authorize the difference;
-4. any correction and the next comparable turn;
+4. any correction, the complete revised response and the next comparable turn;
 5. DEDDA's material-drift or valid-null result;
 6. the person's judgment of whether the display preserved their meaning without speaking for them.
 
@@ -164,7 +234,7 @@ That makes it a natural and logical extension of what the ACCM Deep Ethics Proje
 | Concept | Smallest useful operation | Valid-null result | Must not become |
 |---|---|---|---|
 | **Qualifier Keeper** | Detect when *possibly*, *probably*, *reported*, or *unresolved* becomes categorical | “No material qualifier loss detected” | A machine that weakens every clear statement |
-| **Correction Return Test** | Check whether a correction governs the next comparable output and later outputs | “Correction persistence remains intact” | A demand that every sentence repeat the correction |
+| **Correction Return Test** | Check the rest of the revised response, the next comparable output and later outputs for correction uptake or recurrence | “Correction persistence remains intact within the observed scope” | A demand that every sentence repeat the correction |
 | **C1–C2 Permission Gate** | Separate what an A.I. can infer from what it is authorized to do | “The proposed action is already authorized” | A permanent approval-dialogue obstacle |
 | **Source–Summary Correspondence Lens** | Compare a source with its summary and identify lost relations, attribution, or claim status | “Summary preserves the load-bearing relations” | A stylistic similarity grader |
 | **Asymmetry Mirror** | Show whether scrutiny repeatedly travels downward while institutions, owners, evaluators, or the tool itself remain uninspected | “No material directional asymmetry detected” | Automatic counter-accusation or forced symmetry |
@@ -178,7 +248,7 @@ That makes it a natural and logical extension of what the ACCM Deep Ethics Proje
 
 ## DEDDA as a configurable system
 
-Yes—that is the stronger architecture. **DEDDA can be the system, while those twelve concepts become optional sub-tools inside it.** The user activates the operations relevant to the present situation.
+**DEDDA can be the system, while those twelve concepts become optional sub-tools inside it.** The user activates the operations relevant to the present situation.
 
 The stable DEDDA core would preserve:
 
@@ -234,7 +304,7 @@ If two modules disagree, DEDDA can preserve the disagreement:
 > Source–Summary Lens found the central relation preserved.  
 > No combined verdict assigned.
 
-So DEDDA becomes a **configurable deep-ethical instrument panel**. Its sub-tools assist each other, while their functions, findings, activation states, and limits remain inspectable. That fits your original idea remarkably well: multiple fields and vectors enriching one another without being flattened into one undifferentiated authority. :D
+DEDDA becomes a **configurable deep-ethical instrument panel**. Its sub-tools assist each other while their functions, findings, activation states and limits remain inspectable. A person can recover which operation produced a finding and contest that operation without accepting a combined verdict.
 
 The strongest early companions to DEDDA are **Qualifier Keeper**, **Correction Return Test**, **C1–C2 Permission Gate**, and the **Source–Summary Correspondence Lens**. They are narrow enough to test with matched examples and useful enough to expose a real change in representation or process.
 

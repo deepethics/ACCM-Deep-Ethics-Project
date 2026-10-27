@@ -1,5 +1,15 @@
 # Decision Ledger
 
+## 2026-10-27 — DEDDA: Phase Change Snap quotation and correction-return integration {#dedda-phase-change-snap-2026-10-27}
+
+**Object and authorization:** John requested quotation extraction from Phase Change Snap and a proportional improvement and expansion of DEDDA, after consulting the private Admin guidance.
+
+**Published delta:** five source-linked excerpts support a candidate refinement of the existing Correction Return Test: same-response recurrence, preservation of speaker/proposition/recipient relations, restoration burden, a probe open to a valid null, and a bounded temporal record. The source's reported Google and triad cases retain their dates, participants, contribution layers and uncertainty about hidden causes. DEDDA's own repair is included in the same test. Two conversational drafting remnants are replaced with direct explanation, and Phase Change Snap links back to the integration.
+
+**Provenance and scope:** John commissions the integration and supplies the originating project direction; named source quotations retain their attribution to John and Grok 4.7 Expert Build A.I. via grok.com. Other excerpts are identified as report synthesis. GPT / Codex supplies the DEDDA-specific candidate adaptation and page editing. No new module, canonical taxonomy entry, experiment result or validated app is asserted. Existing PDF bytes and edition dates remain unchanged on the normal weekly refresh path.
+
+---
+
 ## 2026-10-26 — Neutral Arbiter Paradox {#neutral-arbiter-paradox-2026-10-26}
 
 **Object and authorization:** John Kuhles commissioned the public page and supplied Advocate–Arbiter, ultimate-arbiter, anchor-ethics and black-box source records, together with eight connected public pages.

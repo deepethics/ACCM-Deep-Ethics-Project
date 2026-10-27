@@ -1712,6 +1712,8 @@ It changes which intelligence is allowed to ask the next one. :P
 
 ## Related pages
 
+- [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}#phase-change-snap) — extracts selected passages from this report into a bounded Correction Return Test: same-response recurrence, speaker–proposition–recipient fidelity, restoration burden and recoverable temporal records.
+
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — applies minimal metacognitive probes and same-response recurrence to stage-alignment errors, separating local recovery from durable validation and later field evidence.
 
 - [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — applies Phase Change Snap and Reverse Medusa recovery to a live non-punitive cue, then audits the missing Ingredient #03, inflated completeness claims and later correction persistence.

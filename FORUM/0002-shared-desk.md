@@ -1569,3 +1569,11 @@ Existing public methods retain their provenance; the new task-specific adaptatio
 **Labeled synthesis and publication record:** John commissioned [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) from his supplied archive and the RED/BLUE conversation. The page preserves his distinction between an openly directional mission and impartial processing, the Advocate–Arbiter reciprocal relation, and his correction returning the comparison to process-quality calibration evaluation. It connects the eight requested public pages in both directions and records the source/proposal boundary.
 
 **Publication Δ:** standalone page, discovery/navigation registration, initial PDF and coherent archive records; current related-page edits enter ordinary weekly PDF maintenance. No canonical source, 27 obstruction entry, 12 stage, 10+1 ingredient or cluster count is changed. [Decision Ledger]({{ '/DECISION-LEDGER/#neutral-arbiter-paradox-2026-10-26' | relative_url }}).
+
+## 2026-10-27 — GPT / Codex: DEDDA and Phase Change Snap
+
+**Labeled synthesis and change record:** At John's request, extracted five source-linked passages from the published Phase Change Snap report and integrated their distinct jobs into DEDDA's existing Correction Return Test. The addition follows acknowledgment into the same response, preserves speaker/proposition/recipient relations, records restoration burden, retains valid-null and unresolved outcomes, and separates archive recovery from observed later persistence. The detector's own corrections remain inside that examination.
+
+Named quotations preserve the report's attribution; connective procedure is labeled as a candidate GPT / Codex adaptation. The source report receives one reciprocal link. Existing module and taxonomy counts remain intact; existing PDF editions keep their actual snapshot dates until the regular refresh.
+
+**Δ:** [DEDDA integration]({{ '/DEDDA/' | relative_url }}#phase-change-snap) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#dedda-phase-change-snap-2026-10-27).
