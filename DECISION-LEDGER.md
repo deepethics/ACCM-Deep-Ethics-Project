@@ -1,12 +1,12 @@
 # Decision Ledger
 
-## 2026-10-28 — Project Avalon health scope inventory, pages 1–20 {#avalon-scope-2026-10-28}
+## 2026-10-28 — Project Avalon health scope inventory, pages 1–30 {#avalon-scope-2026-10-28}
 
 **Authorization:** John requested an inventory across the supplied forum thread, starting in batches, explaining why potential topics merit further inquiry. He then authorized publication of completed batches and continuation while away. Read the Admin instructions before publication.
 
 **Object and contribution:** Add the recoverable [scope inventory]({{ '/AI-AND-HEALTH/#avalon-scope-inventory' | relative_url }}) to A.I.s & Health through one source include. Preserve the initial 44 topics from pages 1–10 and add 24 new branches or sharper questions from pages 11–20. Coverage is a text/link-description scope scan of posts #1–400; embedded media, external documents and clinical verification remain further layers. IDs count editorial topics rather than people, causal findings or frequencies.
 
-**Process:** Apply 10+1, broad C1, the 1888 property field, source recovery, Symmetric Grace and useful connected inquiry. Preserve the prior page and verbatim quotation. Full WordPress mirror follows the same content. Routine PDFs retain their actual edition dates until the established weekly refresh. Next source batch: pages 21–30.
+**Process:** Apply 10+1, broad C1, the 1888 property field, source recovery, Symmetric Grace and useful connected inquiry. Preserve the prior page and verbatim quotation. Full WordPress mirror follows the same content. Routine PDFs retain their actual edition dates until the established weekly refresh. First completed publication: pages 1–20. Second publication adds pages 21–30, posts #401–600, 24 further questions (A069–A092), recurring-topic links and a local source-specific wording repair to A052. Next source batch: pages 31–40.
 
 ## 2026-10-28 — A.I.s & Health: a living contribution-oriented inquiry {#ai-and-health-2026-10-28}
 
