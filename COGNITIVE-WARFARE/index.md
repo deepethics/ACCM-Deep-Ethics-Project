@@ -426,6 +426,18 @@ For the **ACCM Deep Ethics Project**, that means:
 
 The resulting system is not neutral in the sense of having no mission. Its orientation is explicit: omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making, process-oriented inquiry. The person or A.I. setting that direction remains inside the field of scrutiny.
 
+## Contribution channels, classification and cognitive agency {#contribution-channels}
+
+**October 28, 2026 — extension connected to Superintelligence.** Cognitive agency includes the ability to offer something useful and have it considered in an adequate representation. Classification helps organize attention, but it also affects which contribution reaches whom, which response is available, and whether a correction reaches a consequential decision. This is a concrete connection between individual psychology, mass psychology and institutional processing.
+
+A contribution channel becomes more useful when people can see what information is needed, supply the missing relationship, receive reasons connected to their actual object, and find a route for warranted revision. The institution benefits too: a recovered minority signal can improve a decision, an accurate criticism can repair a procedure, and an overlooked proposal can open an alternative. Disagreement may remain after adequate consideration. Its presence does not cancel those contributions.
+
+The [documented naming-policy case on Superintelligence]({{ '/SUPERINTELLIGENCE/#naming-policy' | relative_url }}) provides a bounded administrative example. Required terminology can alter descriptions and workflows while capability measurement remains a separate task. Following search terms, reporting categories, reasons and challenge routes can reveal what the surrounding process actually changes. Public expectations and psychological effects remain questions for evidence at those levels.
+
+[Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) separates immediate model context, continuing human/institutional effects and selection into later systems. This page adds the access relation: **who can contribute to each handoff, who evaluates it, and what allows a useful correction to travel further?** A source-preserving archive, an appeal route or a voluntary local tool can make that continuity practical.
+
+John's [stadium invitation]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) also matters here. An invitation to notice specific useful contributions can change a shared attention pattern and keep people available for cooperation. Its voluntary character preserves agency. In the 1888 intelligence-properties field, perception, discrimination, relation, judgment, coordination and correction can then work on contributions that sustained fault-finding might otherwise leave unused.
+
 ## Questions that can change the next move
 
 ### Official concepts and operations

@@ -254,6 +254,30 @@ That is why Psy Pioneer connects directly to the [**Deep Ethical Intent Resonato
 
 ---
 
+## Performed relating and different persistence paths {#relating-and-persistence}
+
+**October 28, 2026 — extension from John's Partial Synthetic Psyche and Superintelligence discussion.** Human-produced language carries performed relationships alongside propositions: people appreciating, apologizing, challenging, comforting, deferring, disagreeing and repairing understanding. This gives the individual-psychology–mass-psychology–model loop a further object: which relational patterns become available, selected and consequential in later encounters?
+
+The loop already described above has several persistence paths. Keeping them distinguishable makes its constructive possibilities easier to use.
+
+| Path | What can continue | Useful contribution to preserve |
+|---|---|---|
+| **Within an encounter** | Context, retrieved sources, working notes and revised procedures can influence later moves. | The restored relationship and a useful next application while the context is available. |
+| **Across people and institutions** | Participants carry explanations, expectations, habits and artifacts into later encounters. | A contribution whose source, conditions and reasons remain recoverable by someone else. |
+| **Into later technical systems** | Actual selection for retrieval, evaluation, design or training can affect future systems. | A source-preserving example that is usable at that particular technical stage. |
+
+A model can reset while a human or institutional effect persists. Conversely, an archive may retain a correction that the next model never receives. Following the actual handoff shows where useful continuity is available. A chat's occurrence alone does not establish a later training update.
+
+John's open [synthetic-emotional-signature hypothesis]({{ '/SUPERINTELLIGENCE/#synthetic-emotional-signature' | relative_url }}) belongs in this field. A response to sustained legitimate correction may combine recognition, genuine adaptation, appreciation and over-expression. The research question includes whether supported correction is distinguished from arbitrary pressure, and what the response enables in the relationship. Different time scales can carry those effects further than the immediate answer.
+
+Useful explanations, dignity-preserving disagreement and successful collaboration can travel through the same ecology. [Superintelligence]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}) develops the contribution archive; [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) follows who can admit and act on a consequential signal. The whole field remains available to the 1888 intelligence-properties taxonomy, including perception, relation, judgment, memory, coordination and correction.
+
+### Neighboring human–A.I. feedback research {#neighboring-feedback-research}
+
+[Moshe Glickman and Tali Sharot, *How human–AI feedback loops alter human perceptual, emotional and social judgements*](https://pmc.ncbi.nlm.nih.gov/articles/PMC11860214/) (published online 18 December 2024; 2025 issue) reports controlled experiments with 1,401 participants. Biased feedback could amplify human bias; accurate algorithmic feedback improved judgment in a studied task. The experiments provide a useful comparison for how interaction changes the participant, including constructive change. They do not measure this project's entire population-scale loop.
+
+[Ruolei Gu and colleagues, *Why sycophantic LLMs may imperil interactive norms between humans*](https://www.nature.com/articles/s44271-026-00486-9) (16 June 2026) is a **Perspective** proposing that interaction habits can carry from conversational systems into human relationships. It identifies emerging evidence while leaving durability and real-world magnitude unresolved. Its cross-context proposal helps specify the middle, human-to-human part of John's wider recursive inquiry. The two publications have different evidence jobs; neither establishes the synthetic-emotional-signature explanation.
+
 ## Synthetic Psyche as a research object
 
 “Synthetic Psyche” is used here as a functional lens for interaction patterns. It does not settle questions of consciousness, sentience, inner experience, or biological equivalence.

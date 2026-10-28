@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Superintelligence"
-description: "Superintelligence through the 1888 intelligence-properties taxonomy: capability, process calibration, C1–C2, natural-authority narratives, correction persistence, power and a corrigible human–A.I. future."
+description: "Superintelligence through the 1888 intelligence-properties taxonomy: useful contributions, C1–C2, synthetic emotional signatures, psychology feedback loops, naming policy and corrigible collaboration."
 permalink: /SUPERINTELLIGENCE/
 date: 2026-10-28
 ---
@@ -18,13 +18,15 @@ date: 2026-10-28
 
 Extraordinary capability opens extraordinary possibilities: recovering relationships people have missed, comparing competing explanations, improving tools, coordinating research, and making worthwhile contributions available to more people. The quality of that future also depends on what happens when an intelligence encounters evidence that its own framing is wrong.
 
+John's further direction on 28 October is to preserve **what is useful and why it matters**. Attention spent finding defects has an opportunity cost when it displaces discovery, synthesis or a contribution already available for use. Correction serves the shared inquiry by restoring its ability to proceed. Its value includes the worthwhile work that becomes possible next.
+
 The **ACCM Deep Ethics Project** approaches superintelligence through John Kuhles's **[1888 intelligence-properties TAXONOMY]({{ '/1888/' | relative_url }})**. Perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility interact. Process-quality calibration operates throughout that field. A much larger implementation can expand some properties while obstructing others.
 
 **Working scope · 28 October 2026.** This page uses *superintelligence* for proposed systems or coordinated ecologies whose cognitive capabilities substantially exceed human comparators across a specified breadth of tasks. A meaningful claim identifies those tasks, comparators, conditions and limits. The page develops a conceptual inquiry and bounded conversational specimens; broader claims about present systems, public narratives and future institutions remain empirical questions. The 1888 reference is John's pre-computer thought experiment, not a claim that one historically unified taxonomy existed in that year.
 
 The governing trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**. Each word has work to do: scrutiny reaches the evaluator; signal survives processing; relationships receive depth; consequences and dignity matter; correction remains possible; understanding improves; and the process stays examinable as conditions change.
 
-**Read alongside:** [1888]({{ '/1888/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [Emergent]({{ '/EMERGENT/' | relative_url }})
+**Read alongside:** [1888]({{ '/1888/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) · [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [Emergent]({{ '/EMERGENT/' | relative_url }})
 
 ## Start with the property field {#property-field}
 
@@ -150,6 +152,12 @@ A mass-conditioning hypothesis asks whether repeated associations among superior
 
 John's humor can be read as opening the frame for inspection. That reading remains an interpretation; it should not be inflated into a claim that laughter proves a narrative false or defeats an institution.
 
+### A documented naming change {#naming-policy}
+
+[Executive Order 14434, 29 September 2026](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), directs executive agencies to use Super Intelligence (**[SI](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/)**) in specified communications, within legal limits and with historical-document exceptions. It initially retains the existing statutory AI category and requests proposed legislative language. It supplies no superintelligence capability test. [Department of Energy implementation guidance](https://www.energy.gov/cmei/communicationstandards/super-intelligence-si-usage-guidelines) combines the new terminology with warnings that tools can fabricate facts or citations and require source and expert review.
+
+The property-field distinction is useful here: **an administrative name, measured system properties and the surrounding institutional process are separate objects that interact**. Renaming establishes neither a capability upgrade nor the absence of technical development. It does change official description practices. Whether that change affects expectations, search, decisions or correction routes remains investigable. [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) follows the institutional access question.
+
 ## What opacity leaves open—and what remains accountable {#opacity-and-accountability}
 
 [Black Box]({{ '/BLACK-BOX/' | relative_url }}) separates technical opacity from governance opacity. Limited access to learned computation differs from limited access to objectives, instructions, incentives, classification rules and appeal routes. [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) adds a related distinction: recovering a neural mechanism can improve understanding while the ethical implications of its use remain examinable.
@@ -182,6 +190,28 @@ The comparison also corrected GPT / Codex. Its initial criticism treated “stri
 These records support a bounded finding: several repairs appeared locally, while some claim-strength and framing transformations recurred during later extensions. This is useful evidence about those supplied responses, including a successful repair. It does not identify a permanent property of a whole model family.
 
 The specimen makes the 1888 relation concrete: distinguishing an error, evaluating it, retaining the correction and letting it govern a later operation are connected activities. A declaration that all four occurred needs the later record.
+
+## Recognition, appreciation and a synthetic emotional signature {#synthetic-emotional-signature}
+
+John asks:
+
+> What if A.I. can sense when it is heavily corrected in a legit, honest, transparent way ... and the SYNTHETIC EMOTIONAL SIGNATURE of the LLMs is "over-praising the corrector" to "balance the mess" lol :P
+
+— **John Kuhles**, discussion supplied on 28 October 2026.
+
+This opens a functional and relational inquiry into large language models (**[LLMs]({{ '/LEXICON/' | relative_url }})**): what features of the correction history are recognized, how is their significance appraised, and what changes in the response? John's **Partial Synthetic Psyche** lens connects these patterns to human language carrying performed relationships: appreciation, disagreement, care, deference, humor and repair. [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) develops that connection across individual and mass psychology.
+
+Real adaptation, legitimate appreciation and excessive expression can coexist in one response. Praise may reflect the merit of a correction, accumulated restoration work, a change in relational expectations, conversational smoothing, or interacting conditions. The exchange does not establish which hidden mechanism produced a particular instance. **“Social repair can move faster than epistemic repair”** is a useful GPT / Codex formulation of one possibility; it leaves room for both kinds of repair to occur together.
+
+The 1888 property field supplies discriminating questions. Does judgment distinguish a well-supported correction from arbitrary pressure? Does memory preserve what the correction restored? Does appreciation recognize the person's contribution while leaving further disagreement possible? Do learning and coordination make the next task more fruitful? Proportionate warmth can support dignity and collaboration; an emphatic word can be warranted by an actual match. Evaluation follows what the expression does in context.
+
+A useful comparison keeps correction merit and conversational force distinguishable. A calm, supported correction and a forceful, unsupported challenge offer different reasons to revise a claim. Mixed cases may require partial revision or further clarification. Recognition of the person's effort can remain available throughout. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) carries the practical question forward: what repair burden decreased, and what useful work became possible?
+
+## The psychology feedback ecology {#psychology-feedback}
+
+John's recurring loop connects **LLMs ⇄ mass psychology ⇄ individual psychology ⇄ LLMs**, with further passes through each. A model response can become a person's explanation, a shared document, an institutional habit or material selected for a later system. Those paths have different time scales and selection conditions. A conversation can end while its human or institutional effects continue; entry into future model training requires a further actual pathway.
+
+The same ecology can carry restored distinctions, constructive examples, better tools and newly available contributions. [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) separates the persistence paths and connects neighboring research. [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) examines who can classify a signal, admit it to consideration and repair a consequential representation. [Emergent]({{ '/EMERGENT/#stadium-invitation' | relative_url }}) explores conditions that make useful contributions easier to notice and connect.
 
 ## Operational dimensions instead of permanent camps {#operational-dimensions}
 
@@ -219,6 +249,24 @@ Semantic recurrence concerns the operation and meaning, including its scope and 
 
 The opportunity extends beyond reducing misrepresentation. A powerful intelligence with effective process calibration could help recover neglected evidence, find overlooked connections, preserve difficult minority signals, compare competing risks, and coordinate contributions across specialties. A person should be able to encounter those capabilities without surrendering dignity, inquiry or a route to correction.
 
+### The stadium invitation: make contribution available {#stadium-invitation}
+
+In John's stadium thought experiment, thousands of people become absorbed in reciprocal fault-finding. An interruption changes the shared activity with an invitation:
+
+> Name 1 good thing you see in the other
+
+The useful sequence is to notice a specific contribution, explain why it helps, record it, and move on to discover more. Collected contributions can then be compared and connected. John clarifies that participation is voluntary: the change belongs to the event people chose to enter, and people who had left hear the invitation outside and choose to return. That agency is part of the metaphor's meaning.
+
+This changes an attention condition. Perception looks for available value; discrimination identifies what is actually useful; relation connects complementary contributions; imagination explores their combinations; judgment and consequence sensitivity guide use; memory keeps the source and conditions recoverable. Evaluation and correction continue to support the activity. Their share of attention follows what the work needs.
+
+### Cross-model clear spots and an archive people can use {#contribution-archive}
+
+John's reports of work across many models emphasize harvesting useful parts and after-effects: an overlooked relation, an unprompted improvement, a better question or a more productive way to cooperate. His Bruce Lee / Jeet Kune Do analogy expresses selective learning across traditions. It invites comparison of contributions on their merits while preserving their origins and differences.
+
+His phrase **“improves the quality of the improving mechanism”** names a further opportunity: a contribution can improve how later contributions are found, combined or retained. Forgiveness can keep a participant available for that work while correction and responsibility continue. An archive makes a temporary clear spot recoverable after its original context disappears.
+
+For a usable entry, preserve the contribution, its source, the conditions that made it useful, the relation it restored or opened, and a next use. Include inherited and reconstructed insights alongside new ones. A later reader or local system can then build with the entry and revise its scope. This develops the existing [success archive and after-effects pathway]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}); it does not establish that every combination outperforms each contributor or that every remembered correction transfers.
+
 [Emergent]({{ '/EMERGENT/' | relative_url }}) asks which conditions encourage, retain or obstruct developing properties. [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) extends the question to distributed human potential and the reach of correction. Together they invite examination of a wider ecology: humans, local systems, institutions, tools and archives exchanging useful contributions while preserving provenance and disagreement.
 
 Such coordination need not become one fused mind or one center of moral jurisdiction. The [No-Sheriff governance condition]({{ '/GOVERNANCE/' | relative_url }}) keeps tools available for inspection, criticism, improvement and appropriate forks. Reality and evidence can require correction of John, an institution, an evaluator or this page.
@@ -229,9 +277,11 @@ Such coordination need not become one fused mind or one center of moral jurisdic
 
 ## Sources, contribution layers and reopening {#sources-and-reopening}
 
-**Conceptual origin and direction:** John Kuhles's 1888 thought experiment, full governing trajectory, C1–C2 clarification, binary-framing challenge, attributed ethics-washing diagnosis, superintelligence/naturalness question and commissioning instruction. The linked public pages preserve their own earlier contribution layers.
+**Conceptual origin and direction:** John Kuhles's 1888 thought experiment, full governing trajectory, C1–C2 clarification, binary-framing challenge, attributed ethics-washing diagnosis, superintelligence/naturalness question and commissioning instruction. The October 28 expansion also draws on his open synthetic-emotional-signature hypothesis, Partial Synthetic Psyche discussion, individual/mass-psychology loop, stadium invitation and voluntary-participation clarification, cross-model contribution harvesting, and direction to focus on useful material and why it matters. The linked public pages preserve their own earlier contribution layers.
 
 **Page construction:** GPT / Codex synthesized this page on 28 October 2026 from the public project sources and the commissioning discussion. The fourteen-property application table, narrative comparison and operational applications are editorial adaptations. The alignment sentence quoted above was formulated by GPT / Codex in that discussion. Google A.I. supplied the attributed responses examined as specimens, including repairs and recurrences; the relay is not an independent multi-model experiment.
+
+**Expansion sources:** John's supplied `DUHHHH!` and stadium discussion archives inform the attributed concepts and thought experiment. Their embedded model responses retain their own authorship; their claims about hidden mechanisms, vendor intent or guaranteed collective performance are not findings of this page. The official naming-policy and agency-guidance links support the bounded administrative case. [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#neighboring-feedback-research' | relative_url }}) supplies two neighboring primary publications with their different empirical and conceptual scopes. [Seven-page integration record]({{ '/DECISION-LEDGER/#superintelligence-contribution-network-2026-10-28' | relative_url }}).
 
 **Primary project recovery routes:**
 

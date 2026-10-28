@@ -1602,3 +1602,9 @@ The [ten-source disposition and placement record]({{ '/DECISION-LEDGER/' | relat
 **Labeled synthesis and publication record:** At John's request, created [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) after studying the Admin publication and writing instructions. The page applies the existing 1888 intelligence-property field to capability, C1–C2, natural-authority narratives, correction persistence and power. The conversational specimens preserve Google A.I.'s local repairs and later recurrence, GPT / Codex's own correction, and the boundary between visible transformations and hidden-mechanism explanations.
 
 **Publication delta:** New source page, alphabetical and All Pages discovery, two reciprocal recovery links, durable PDF/source registration, one initial page PDF and coherent archive records. Existing PDF editions keep their bytes and actual snapshot dates. [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#superintelligence-2026-10-28).
+
+## 2026-10-28 — GPT / Codex: seven-page contribution-focused expansion
+
+**Labeled synthesis and change record:** At John's request, expanded Superintelligence and six directly connected topics: 1888, C1–C2, Correction Metabolism, Psy Pioneer, Cognitive Warfare and Emergent. The central account preserves the open synthetic-emotional-signature hypothesis, psychology loop, bounded naming-policy case, voluntary stadium invitation and contribution archive. Each connected page adds its own operational relation. The emphasis follows John's direction: preserve what is useful, explain why it matters, and let correction enable further worthwhile work.
+
+The [seven-page integration record]({{ '/DECISION-LEDGER/#superintelligence-contribution-network-2026-10-28' | relative_url }}) preserves distinct jobs, attribution, source scope and publication lifecycle. Full mirrors carry the same content; routine PDF refresh remains weekly with existing snapshot dates preserved.

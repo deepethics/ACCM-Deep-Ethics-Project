@@ -30,6 +30,16 @@ An editorial working record can track the source object, initial response, corre
 
 John explicitly says he archives successful correspondence as well as recurring failure patterns, without requiring agreement or disagreement. This gives the inquiry material for examining changes in conditions and response quality.
 
+## What useful work becomes possible after correction? {#useful-work-after-correction}
+
+**October 28, 2026 — contribution-focused extension.** The existing success archive and after-effects account below already preserve more than repaired sentences. John's further direction is to spend attention on what is useful and why it matters. A correction can recover a contribution, release time previously spent restoring the same distinction, or make a better question and unfamiliar extension possible.
+
+A useful record can therefore retain the contribution's source and context, what relationship changed, why that change helps, and what someone can do with it next. Later use may reveal a wider application, a narrower scope or another repair. An insight can be inherited, reconstructed or new; these origins do not settle its usefulness. Preserve the particular contribution rather than awarding a permanent upgrade to its entire answer or producer.
+
+John's [synthetic-emotional-signature hypothesis]({{ '/SUPERINTELLIGENCE/#synthetic-emotional-signature' | relative_url }}) adds a relational dimension. Legitimate appreciation, excessive expression and effective adaptation can coexist. Appreciation can recognize corrective labor and keep collaboration available. Its practical relation to correction is visible in the next shared work: does the restored distinction survive, does repeated restoration become less necessary, and does the participant contribute something useful beyond repeating the repair?
+
+This gives the [stadium invitation and contribution archive]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}) a temporal job. A temporary clear spot becomes recoverable after the session ends, with enough context for another person or system to build on it. The archive can preserve successful combinations and newly available paths as well as errors. Correction metabolism then follows both **what was repaired** and **what the repair enabled**.
+
 ## Scope of a finding
 
 A conversational record can establish what a system output in that setting. A proposal about changes to weights or hidden mechanisms requires a different observation method. The source’s temporary field-condition language and future trajectory can remain visible without merging those levels.

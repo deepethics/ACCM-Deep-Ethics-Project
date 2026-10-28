@@ -1,5 +1,23 @@
 # Decision Ledger
 
+## 2026-10-28 — Seven-page Superintelligence contribution network {#superintelligence-contribution-network-2026-10-28}
+
+**Object and authorization:** John requested improvement and expansion of at most seven directly connected pages after checking the private Admin repository. His direction to focus on useful contributions and why they matter governs this integration. Starting public snapshot: `50044afb99ba0782e3c0df0189ff341cd34b49cb`.
+
+| Topic page | Distinct contribution |
+|---|---|
+| [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) | Central account of the open synthetic-emotional-signature hypothesis, psychology feedback ecology, bounded naming-policy case, stadium invitation and usable contribution archive. |
+| [1888]({{ '/1888/#contribution-oriented-calibration' | relative_url }}) | Interacting intelligence properties make contribution possible; calibration can improve how further improvements are found and used. |
+| [C1–C2]({{ '/NETWORK/c1-c2/#clarification-and-contribution' | relative_url }}) | Current operative prose incorporates John's broader clarification/calibration account while preserving the earlier question-focused quotation. |
+| [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) | Builds on the success archive and after-effects: reduced restoration burden and useful next work. |
+| [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) | Performed relating, different persistence paths and two neighboring research publications with distinct evidence scopes. |
+| [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) | Contribution access, consequential classification and pathways for useful feedback through institutional handoffs. |
+| [Emergent]({{ '/EMERGENT/#stadium-invitation' | relative_url }}) | Voluntary attention conditions that let specific contributions become visible, interact and remain available. |
+
+**Contribution layers and continuity:** John supplied the initiating concepts, stadium metaphor and agency clarification, cross-model harvesting account, archives and correction of the prior excessive flaw focus. GPT / Codex supplied the editorial synthesis, page-specific integrations and source checks. Existing precursors, historical exchanges and canonical inventories remain. Appreciation, over-expression and real adaptation can coexist; warranted C2 remains available; the 1888 thought experiment and full governing trajectory continue to organize the inquiry.
+
+**Sources and publication:** The official naming-policy and agency-guidance texts support a bounded administrative example. Controlled human–A.I. feedback experiments and a later Perspective provide neighboring research; neither establishes the whole recursive field or the synthetic-emotional-signature mechanism. Source archives inform attributed contributions without publishing the raw maternal file. Seven topic pages receive substantive edits; this ledger and the Shared Desk receive brief supporting records. Full public-page mirrors follow the same content. Existing PDF bytes and actual snapshot dates stay unchanged pending the ordinary weekly refresh.
+
 ## 2026-10-28 — Superintelligence through the 1888 intelligence-properties taxonomy {#superintelligence-2026-10-28}
 
 **Object and authorization:** John Kuhles requested a new public Superintelligence page, directed the full omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory, and required study of the private Admin repository before construction. Public source snapshot: `73101ebdd0c52e706b571bd86403187c530800f0`.

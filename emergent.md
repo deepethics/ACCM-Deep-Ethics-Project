@@ -395,6 +395,18 @@ Millions of locally trained or user-controlled A.I.s could function as **million
 
 The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
 
+### A voluntary stadium invitation changes the interaction conditions {#stadium-invitation}
+
+**October 28, 2026 — extension from John's stadium thought experiment.** The [full account on Superintelligence]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) asks participants absorbed in reciprocal fault-finding to notice a specific good thing in another. John explicitly preserves voluntary participation, including people choosing to return after hearing the invitation outside. On this page, the metaphor's distinct job is to identify a change in the conditions from which further contributions can emerge.
+
+The shared activity directs attention toward available strengths. A participant notices a useful distinction; another connects it to a different domain; someone records the combination; a later reader sees a further use. Each step can change what the next participant has available. The 1888 intelligence-properties taxonomy makes that cooperation examinable through perception, discrimination, relation, imagination, judgment, memory and coordination, with clarification and correction active throughout.
+
+This develops the existing empowering loop and contribution-state propagation. The question includes **what becomes possible when people have less repeated restoration work and more room to discover, connect and contribute**. Useful outcomes can include a better research question, a recovered option, a more usable artifact or a new collaboration. They may arise from familiar material in a newly useful relation. Novelty, usefulness and correction persistence retain their separate jobs.
+
+John's cross-model clear spots add diversity of contribution: preserve the particular insight a participant supplied and the conditions under which it helped. An archive can make that moment available beyond a model reset. Forgiveness can keep participants available for learning while responsibility and repair continue. A combination's value is then followed through use; the invitation itself supplies no guarantee that every combination will improve the result.
+
+The practical opportunity is an ecology in which recognition helps contributions become visible, coordination connects them, and memory preserves future usefulness. The [contribution archive]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) and [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) each carry a different part of that continuing process.
+
 ## 10. Why mainstream treatment may remain thin
 
 John asks why mainstream media rarely presents this as one connected object. A systematic multilingual media study remains to be run. The current archive supplies mechanisms worth testing:
