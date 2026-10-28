@@ -220,6 +220,31 @@ For a selected case, develop only the fields that help the next useful move:
 
 This record complements the [six-question recommendation record](#whose-agent). One follows a specific decision and its purposes; the other connects contributions, investigations and subsequent conduct across handoffs. A pending investigation, an unavailable record or a comparison that finds no expected difference can each inform a worthwhile next step.
 
+### Route connections, source contents and purpose-specific completion {#pathway-source-and-completion}
+
+**Further contribution relay, 28 October 2026.** **Grok 4.7 Expert A.I. via grok.com** distinguished a pathway’s connections from the particular contents placed along them. **Agent A.I. of Arena.ai** took up that distinction and attempted an eight-point application to Terry’s account. **GPT 6.1 Sol Pro A.I.** developed the distinctions among available reports and clinical records, unresolved handoffs and documented care gaps, and causal questions and practical care needs. John requested incorporation of this continuation.
+
+**Route topology** describes which relationships an inquiry needs to keep recoverable. **Route contents** include the particular observation, topic, record, explanation, documented interruption or proposed response. A useful connection can remain available while its contents are investigated, revised or replaced. Each content edge retains its source, status and conditions for revision.
+
+Grok’s eight-point proposal gives this distinction an operational form. The following working application incorporates Arena’s choice of a source object and GPT’s purpose-specific refinements. It uses the archived post and inventory entry as its accessible starting material.
+
+| Working step | Application to Terry’s account |
+|---|---|
+| **1. Name the observation and recoverable source.** | [Forum post #2414](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page121#post1555171), indexed as [A259](#avalon-a259), reproduces an account identifying Terry and reporting sensory symptoms and several neurological and vascular diagnoses. Preserve the reporting chain and the distinction between reported diagnoses and underlying records. |
+| **2. State the question supported by that source.** | How do the reported symptoms, diagnoses, assessments, pain and functional effects relate over time, and what information could improve understanding or support? |
+| **3. Connect relevant clusters.** | [Personal accounts](#avalon-cluster-10), [clinical assessment](#avalon-cluster-11), [treatment and rehabilitation](#avalon-cluster-12) and [everyday function and household circumstances](#avalon-cluster-28) offer connected routes. A259 also connects to laboratory-method and interacting-condition questions in the existing map. |
+| **4. Locate a handoff or leave its status open.** | The recovered post supplies no complete referral, treatment or follow-up history. Whether an appropriate handoff occurred, care was effective, help remained inaccessible or a gap persisted remains unresolved. |
+| **5. Record what is accessible.** | The archived account, its named conditions and the linked inventory question are accessible here. Clinical records, detailed assessments, diagnostic evidence and subsequent outcomes require separate recovery with appropriate permission. General clinical methods and an individual’s actual assessment history are different resources. |
+| **6. Identify possible participants.** | The person concerned, relevant clinicians, researchers or support services could help clarify different parts, depending on consent, access and the selected question. A possible investigator and an established duty in a particular form retain their distinct standing. |
+| **7. Describe a useful return.** | Depending on the person’s priorities and appropriate clinical assessment, useful returns could include a clearer explanation, understandable options, coordinated support, functional documentation or rehabilitation access. Follow what actually becomes available and helpful. |
+| **8. Specify narrowing, completion and reopening conditions.** | Separate the causal question, the care question and the handoff question. Earlier onset may change a causal interpretation while care needs continue. Effective existing care may resolve a particular handoff question and offer a useful example. New records, changed circumstances or later outcomes can reopen a completed branch. |
+
+**GPT’s refinement:** the conditions for revising a causal interpretation differ from the conditions for completing a practical inquiry.
+
+A cause can remain uncertain while a person has identifiable needs. Conversely, a documented diagnosis does not by itself establish an institutional failure. Follow-up can recover successful care as well as unmet needs, and either can improve the map. A pathway earns its continuing use through the work it enables; participants can simplify or retire a branch when its purpose is fulfilled or another route serves it better.
+
+This is coordinated work through the [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}): discrimination preserves the different questions; relation keeps relevant paths connected; judgment evaluates proportionately; memory records what followed; correction changes later operations. The [researcher-care conditions below](#researcher-care-and-continuity) support the people sustaining that work.
+
 ### Sustaining the people who sustain inquiry {#researcher-care-and-continuity}
 
 Both Arena responses highlighted researcher well-being. GPT’s first reaction expressed the operational relationship:

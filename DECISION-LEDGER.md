@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-28 — Source-grounded pathways and purpose-specific completion {#health-pathway-refinement-2026-10-28}
+
+John requested the latest Grok 4.7 Expert, Arena and GPT contribution relay be incorporated into **A.I.s & Health**. Added the distinction between route connections and contents, Grok’s eight-point working method applied to Terry’s archived account (#2414/A259), and GPT’s separation of causal revision, care needs and handoff completion. The recovered post and inventory support the example; individual clinical records and later outcomes remain separately recoverable. Original inventory, cluster memberships and requested quotation are preserved. Full mirror follows canonical source; PDF maintenance remains weekly. [Read the contribution]({{ '/AI-AND-HEALTH/#pathway-source-and-completion' | relative_url }}).
+
 ## 2026-10-28 — Arena/GPT health inquiry pathways {#health-pathways-2026-10-28}
 
 John requested incorporation of the latest GPT reactions and Agent A.I. of Arena.ai contributions into **A.I.s & Health**. Added attributed excerpts and editorial synthesis, four linked cross-cluster pathways, a small continuing inquiry record, and researcher-care conditions. Source recovery, open explanations, proportionate responses and the return to affected people remain connected. Existing inventory entries, cluster memberships and John’s requested quotation are preserved. Full WordPress mirroring follows the canonical page; the existing PDF retains its actual snapshot and joins weekly change-aware maintenance. [Read the contribution]({{ '/AI-AND-HEALTH/#cross-cluster-inquiry-pathways' | relative_url }}).
