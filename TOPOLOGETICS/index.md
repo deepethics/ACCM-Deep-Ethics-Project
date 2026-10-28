@@ -38,6 +38,8 @@ The practical boundary is:
 
 > **Further compression would produce a different object.**
 
+**Worked application:** the [32 overlapping health-inquiry clusters]({{ '/AI-AND-HEALTH/#avalon-clusters' | relative_url }}) connect 336 topics with their source routes and cross-topic relationships. [How the cluster map applies Topologetics](#health-scope-clusters).
+
 The method behind Topologetics is the **Topological Summary of the Object**. Its stopping condition is the **faithful compression floor**. Topologetics is the wider Deep Ethical discipline that asks how the method, its evaluator, its purpose, and its consequences remain inspectable and corrigible.
 
 ---
@@ -2998,3 +3000,25 @@ The candidate fails when every contribution receives an elaborate state despite 
 It remains useful only while increasing recoverable correspondence at an acceptable complexity cost and permitting the conclusion that no additional formalism is presently warranted.
 
 Related: [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+
+
+## Health-scope clusters: preserving relationships while improving navigation {#health-scope-clusters}
+
+On 28 October 2026, John asked for overlapping clusters across the Project Avalon health inventory: medical testimony, courts, hearings, scientific publications, death-care workers, military matters, public debates, mandates and weaponized mass psychology, with further clusters where useful. The [A.I.s & Health cluster map]({{ '/AI-AND-HEALTH/#avalon-clusters' | relative_url }}) develops those nine starting lenses into 32 clusters covering all 336 inventory topics from the supplied 164-page range.
+
+The organizing operation is **many-to-many membership**. A topic keeps its stable ID, investigation reason and originating sources while acquiring additional routes through the field. A clinician may also be a patient, a publication may inform a hearing, and an institutional decision may change a household’s access to care. Source form, research theme and practical consequence remain distinguishable and connected.
+
+| Preserved object | Relation carried into the cluster map | What becomes usable |
+|---|---|---|
+| Medical testimony | Professional role, first-hand experience, attributed observation and interpretation | A route from testimony to clinical questions and follow-up |
+| Scientific publication | Source type, version, methods, population and conclusions | Journal papers, case reports, preprints and critiques retain their particular research jobs |
+| Court or hearing record | Claim, speaker, authority, question, answer, procedural stage and outcome | A filing, a testimony and a ruling remain separately recoverable |
+| Mandate or emergency measure | Purpose, warrant, alternatives, consequences and review | An inspectable path through the actual measure and affected people |
+| Mass-psychology hypothesis | Message, distribution, audience conditions, choice and later conduct | A way to study a proposed influence mechanism through particular operations |
+| Care need | Person, clinical pathway, agency, household conditions and continuing support | Practical opportunities remain visible alongside institutional inquiry |
+
+For example, the [care-cascade topic A329]({{ '/AI-AND-HEALTH/#avalon-a329' | relative_url }}) links a proposed sequence of symptoms, diagnosis, prescribing, microbiome changes and later outcomes. It belongs in clinical, treatment, surveillance, mechanistic, study-design and correction clusters because each lens asks a different question about that sequence. Following only one label could omit the relation that changes what should be investigated next.
+
+The [reverse topic index]({{ '/AI-AND-HEALTH/#avalon-cluster-topic-index' | relative_url }}) makes every membership inspectable. The [explicit mapping data](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_data/health_avalon_clusters.json) and [generator](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/scripts/build_health_avalon_clusters.py) support revision while checking that every topic remains reachable. A useful correction can identify a misplaced membership, restore a missing relationship and improve the next operation.
+
+This is a navigational application of the 1888 intelligence-properties trajectory: perception retains the contribution, discrimination preserves its type, relation opens further paths, judgment selects useful next work, and memory and correction keep the map responsive. The same scrutiny applies to the map’s editor, its categories and its omissions. Cluster and membership counts describe the representation; the usefulness lies in the relationships people can recover and pursue.

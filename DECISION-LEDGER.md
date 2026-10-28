@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-10-28 — Overlapping clusters for the Project Avalon health scope inventory {#avalon-clusters-2026-10-28}
+
+**Authorization and object:** John requested clusters beginning with nine specified lenses and many further clusters. Build an overlapping map on A.I.s & Health and connect its method to Topologetics.
+
+**Result:** 32 clusters cover all 336 existing topic IDs with 2,079 explicit memberships and 134 selected archive source routes. The first nine preserve John’s starting subjects. Later clusters connect care, clinical questions, research methods, information systems, consequences and process quality. Topic entries retain their text and sources, gaining direct anchors. Expandable cluster sections, selected publication leads and a reverse topic index support navigation in both directions. Cluster membership remains an editorial investigation route; source form, publication version and procedural status stay recoverable.
+
+**Implementation and continuity:** One explicit mapping file and a deterministic generator produce the cluster include and validate coverage, identifiers and links. The original 164-page scope and requested quotation remain intact. Full mirrors of A.I.s & Health and Topologetics follow their canonical rendered sources. Existing PDF editions retain their actual dates and enter the normal change-aware weekly refresh.
+
 ## 2026-10-28 — Project Avalon health scope inventory, pages 1–164 {#avalon-scope-2026-10-28}
 
 **Authorization:** John requested an inventory across the supplied forum thread, starting in batches, explaining why potential topics merit further inquiry. He then authorized publication of completed batches and continuation while away. Read the Admin instructions before publication.

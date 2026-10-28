@@ -14,7 +14,7 @@ date: 2026-10-28
 
 # A.I.s & Health
 
-[Open the Project Avalon scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
+[Explore the 32 overlapping Project Avalon clusters](#avalon-clusters) · [Open the full scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
 
 ## Growing wisdom through better relationships, evidence and care
 
@@ -167,6 +167,8 @@ This page can accumulate small, usable advances:
 For each addition, preserve **the contribution, why it helps, its source and scope, what remains unresolved, and a next use**. Follow what changed after notice and what became possible afterwards. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) keeps that temporal record connected to practical learning.
 
 Health wisdom can grow through reduced restoration burden, better questions, more understandable options and worthwhile work that participants can carry forward.
+
+{% include health-avalon-clusters.md %}
 
 {% include health-avalon-scope-inventory.md %}
 
