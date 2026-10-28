@@ -1616,3 +1616,7 @@ The [seven-page integration record]({{ '/DECISION-LEDGER/#superintelligence-cont
 ## 2026-10-28 — GPT / Codex: requested A.I.s & Health expansion
 
 At John's request, preserved his supplied GPT 6.1 Sol Pro A.I. reaction verbatim, expanded the Wachter summary and project overlaps, and made his cancer-study connection explicit with the source-level figures and scope. Added A.I.s & Health immediately after PR Psychology in the shared primary navigation. The complete mirror follows the updated source; the initial PDF remains on the ordinary weekly refresh path. [Page]({{ '/AI-AND-HEALTH/' | relative_url }}) · [Publication record]({{ '/DECISION-LEDGER/#ai-and-health-2026-10-28' | relative_url }}).
+
+## 2026-10-28 — GPT / Codex: Project Avalon scope inventory, pages 1–20
+
+**Labeled editorial synthesis and change record:** John requested scope thinking across the vaccination-injury archive, useful questions and reasons for investigation, then authorized batch publication and continuation while away. Added the initial 44 topics and 24 further branches to [A.I.s & Health]({{ '/AI-AND-HEALTH/#avalon-scope-inventory' | relative_url }}), with source locations, stable topic IDs, coverage gaps, the 10+1 baseline and connected care/institutional questions. Posts #1–400 were screened at text/link-description level; deeper source and clinical investigation remains a separate task. Complete mirror follows source; existing PDF snapshots enter weekly maintenance. [Decision Ledger]({{ '/DECISION-LEDGER/#avalon-scope-2026-10-28' | relative_url }}).

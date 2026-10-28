@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-10-28 — Project Avalon health scope inventory, pages 1–20 {#avalon-scope-2026-10-28}
+
+**Authorization:** John requested an inventory across the supplied forum thread, starting in batches, explaining why potential topics merit further inquiry. He then authorized publication of completed batches and continuation while away. Read the Admin instructions before publication.
+
+**Object and contribution:** Add the recoverable [scope inventory]({{ '/AI-AND-HEALTH/#avalon-scope-inventory' | relative_url }}) to A.I.s & Health through one source include. Preserve the initial 44 topics from pages 1–10 and add 24 new branches or sharper questions from pages 11–20. Coverage is a text/link-description scope scan of posts #1–400; embedded media, external documents and clinical verification remain further layers. IDs count editorial topics rather than people, causal findings or frequencies.
+
+**Process:** Apply 10+1, broad C1, the 1888 property field, source recovery, Symmetric Grace and useful connected inquiry. Preserve the prior page and verbatim quotation. Full WordPress mirror follows the same content. Routine PDFs retain their actual edition dates until the established weekly refresh. Next source batch: pages 21–30.
+
 ## 2026-10-28 — A.I.s & Health: a living contribution-oriented inquiry {#ai-and-health-2026-10-28}
 
 **Authorization and direction:** John proposed a page that grows slowly through wisdom and deeper insights, following the healthcare-alignment and Symmetric Grace discussion. Read Admin before construction. Publish [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) with useful contributions, institutional accountability, patient agency and the full 1888 intelligence-properties trajectory as its organizing relations.
