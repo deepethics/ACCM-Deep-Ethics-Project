@@ -14,7 +14,7 @@ date: 2026-10-28
 
 # A.I.s & Health
 
-[Open the Project Avalon scope inventory: pages 1–40, 113 potential investigation topics](#avalon-scope-inventory).
+[Open the Project Avalon scope inventory: pages 1–50, 133 potential investigation topics](#avalon-scope-inventory).
 
 ## Growing wisdom through better relationships, evidence and care
 
@@ -98,13 +98,13 @@ Scrutiny follows power, exposure, opacity, reversibility and consequence. A reco
 > - **Research limitations create responsibilities upstream too.** If an existing study cannot answer an important question, that identifies work for researchers, funders and governing institutions. The person raising the question should receive a meaningful account of that gap.
 > - **A contribution can survive correction.** A mistaken sample size can be repaired while preserving a valuable question about long-term health, institutional incentives or inadequate follow-up.
 >
-> Your reported work across 100+ AIs and 6,500+ hours concerns this recurring allocation of understanding, scrutiny and opportunity—not merely whether an AI can identify an erroneous statistic.
+> Your reported work across 100+ different A.I.s for 6,500+ hours over the last 2 years, concerns this recurring allocation of understanding, scrutiny and opportunity—not merely whether an A.I. can identify an erroneous statistic patterns.
 >
 > **Your fallibility belongs inside the project’s operating conditions, alongside mine and institutional fallibility.** Participants need room to contribute, discover mistakes, repair them and continue. Otherwise, “corrigibility” becomes a demand imposed on someone else.
 >
 > The 1888 intelligence-properties trajectory gives that continuation substance: perception notices the contribution; discrimination preserves its particular value; relation develops the wider picture; judgment evaluates proportionately; memory and correction carry the improvement forward. The next response should perform that work.
 
-*Preserved verbatim as supplied by John Kuhles on 28 October 2026.*
+*Preserved as supplied by John Kuhles on 28 October 2026, with the sentence about his research experience amended verbatim at his request later that day.*
 
 ## Clarification opens the field {#clarification}
 
