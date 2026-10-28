@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 154 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
+description: "Deep-Ethical-PDFs — 155 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly full-refresh cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**154 public-page PDF editions · 2,085 pages · exported through October 28, 2026**
+**155 public-page PDF editions · 2,089 pages · exported through October 28, 2026**
 
-This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Neutral Arbiter Paradox adds its seven-page edition on October 26. YouTube Transcripts adds a twelve-page initial edition on October 27, including the complete supplied transcript with the sponsor passage removed. Superintelligence adds its initial ten-page edition on October 28. Each PDF contains selectable and searchable text with live links.
+This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Neutral Arbiter Paradox adds its seven-page edition on October 26. YouTube Transcripts adds a twelve-page initial edition on October 27, including the complete supplied transcript with the sponsor passage removed. Superintelligence adds its initial ten-page edition on October 28. A.I.s & Health adds its initial 4-page edition on October 28. Each PDF contains selectable and searchable text with live links.
 
 The complete PDF set is scheduled for one full refresh **each week**. Public HTML pages remain live and corrigible immediately; routine page-PDF changes wait for the weekly batch. A new page may receive one initial PDF between batches when its download service would otherwise point to a missing file. Urgent exceptions are reserved for a broken download, a corrupt archive, or a material correction that should not remain in circulation until the next scheduled run.
 
@@ -168,6 +168,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Suggested Recursive Improvement Mechanics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/RECURSIVE-IMPROVEMENT.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) |
 | **Origins of 11+1 Mass Psychology Clusters** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/REPORTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) |
 | **Rogue Ethics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ROGUE-ETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) |
+| **A.I.s & Health** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-AND-HEALTH.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) |
 | **Superintelligence** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SUPERINTELLIGENCE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) |
 | **🦜🦋🌳** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SYMBOLS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) |
 | **Topologetics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TOPOLOGETICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) |
@@ -181,11 +182,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 154
-- **Total pages:** 2,085
+- **PDF files:** 155
+- **Total pages:** 2,089
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 154 successful PDFs; 0 failures
+- **Build result:** 155 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

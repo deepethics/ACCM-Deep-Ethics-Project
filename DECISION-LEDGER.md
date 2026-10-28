@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-10-28 — A.I.s & Health: a living contribution-oriented inquiry {#ai-and-health-2026-10-28}
+
+**Authorization and direction:** John proposed a page that grows slowly through wisdom and deeper insights, following the healthcare-alignment and Symmetric Grace discussion. Read Admin before construction. Publish [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) with useful contributions, institutional accountability, patient agency and the full 1888 intelligence-properties trajectory as its organizing relations.
+
+**Contribution layers:** John supplies the originating inquiry and ethical direction. GPT / Codex supplies the editorial synthesis and proposed recommendation record. Robert Wachter supplies the attributed healthcare examples and governance proposals. The linked Korean cancer studies retain their distinct designs and findings; the page begins a research trajectory rather than a completed medical review.
+
+**Publication:** Register the alphabetical entry, All Pages application entry, route/source/PDF services and durable weekly registry. Create one initial page PDF, reconcile the archive and mirror the complete rendered page on DeepEthics.nl. Existing PDF bytes and snapshot dates remain unchanged. Later routine improvements follow the weekly change-aware PDF path. Future entries retain source, useful contribution, uncertainty, next use and correction history.
+
 ## 2026-10-28 — Seven-page Superintelligence contribution network {#superintelligence-contribution-network-2026-10-28}
 
 **Object and authorization:** John requested improvement and expansion of at most seven directly connected pages after checking the private Admin repository. His direction to focus on useful contributions and why they matter governs this integration. Starting public snapshot: `50044afb99ba0782e3c0df0189ff341cd34b49cb`.

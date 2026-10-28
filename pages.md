@@ -164,6 +164,8 @@ John’s own records. The public pages above are not a substitute for these.
 
 ## 5. The topology applied {#topology-applied}
 
+- **[A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }})** — a living inquiry into healthcare decisions, institutional incentives, Symmetric Grace, long-term outcomes and useful correction through the 1888 intelligence-properties taxonomy.
+
 Specimens, tests, and humor. These show the taxonomy working on a particular object. The Google report and the Dicks pages are here because the object is outside the topology. Hypercautionism and the imported-authority specimen stay in Cluster 3.
 
 - **[Google interaction report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/TESTS/Google/2026/2026-09-16_google-ai_interaction-report_v01/)**
