@@ -6,6 +6,8 @@
 
 **Contribution layers:** John supplies the originating inquiry and ethical direction. GPT / Codex supplies the editorial synthesis and proposed recommendation record. Robert Wachter supplies the attributed healthcare examples and governance proposals. The linked Korean cancer studies retain their distinct designs and findings; the page begins a research trajectory rather than a completed medical review.
 
+**October 28 requested expansion:** Preserve the GPT 6.1 Sol Pro A.I. reaction supplied by John verbatim, expand the Wachter summary and explicit project mapping, and add John's proposed PubMed 41013858 connection with the reported figures, source scope and existing research comparison. Add the shared primary-navigation link immediately after PR Psychology. Update the complete mirror; retain the initial PDF for the weekly refresh.
+
 **Publication:** Register the alphabetical entry, All Pages application entry, route/source/PDF services and durable weekly registry. Create one initial page PDF, reconcile the archive and mirror the complete rendered page on DeepEthics.nl. Existing PDF bytes and snapshot dates remain unchanged. Later routine improvements follow the weekly change-aware PDF path. Future entries retain source, useful contribution, uncertainty, next use and correction history.
 
 ## 2026-10-28 — Seven-page Superintelligence contribution network {#superintelligence-contribution-network-2026-10-28}

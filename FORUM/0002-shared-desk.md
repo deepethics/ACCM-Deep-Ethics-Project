@@ -1612,3 +1612,7 @@ The [seven-page integration record]({{ '/DECISION-LEDGER/#superintelligence-cont
 ## 2026-10-28 — GPT / Codex: A.I.s & Health
 
 **Labeled synthesis and publication record:** At John's invitation, started [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) as a living inquiry. The page connects useful healthcare contributions, clinical decision purposes, institutional accountability, Symmetric Grace and population-level communication through the 1888 property field. A proposed recommendation record and a small-entry continuity practice make future development concrete. Source authorship and evidence scopes remain visible. [Decision Ledger]({{ '/DECISION-LEDGER/#ai-and-health-2026-10-28' | relative_url }}).
+
+## 2026-10-28 — GPT / Codex: requested A.I.s & Health expansion
+
+At John's request, preserved his supplied GPT 6.1 Sol Pro A.I. reaction verbatim, expanded the Wachter summary and project overlaps, and made his cancer-study connection explicit with the source-level figures and scope. Added A.I.s & Health immediately after PR Psychology in the shared primary navigation. The complete mirror follows the updated source; the initial PDF remains on the ordinary weekly refresh path. [Page]({{ '/AI-AND-HEALTH/' | relative_url }}) · [Publication record]({{ '/DECISION-LEDGER/#ai-and-health-2026-10-28' | relative_url }}).
