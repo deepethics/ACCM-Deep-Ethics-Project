@@ -14,7 +14,7 @@ date: 2026-10-28
 
 # A.I.s & Health
 
-[Open the Project Avalon scope inventory: pages 1–90, 208 potential investigation topics](#avalon-scope-inventory).
+[Open the Project Avalon scope inventory: pages 1–100, 225 potential investigation topics](#avalon-scope-inventory).
 
 ## Growing wisdom through better relationships, evidence and care
 
