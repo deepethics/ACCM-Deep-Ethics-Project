@@ -1595,3 +1595,10 @@ The [source-and-placement record]({{ '/DECISION-LEDGER/' | relative_url }}#youtu
 **Labeled synthesis and change record:** John supplied ten further links. Seven add exact, attributed quotations with distinct operational jobs: stronger comparators, evaluation cues, field-state records, stage-matched evidence, contribution usefulness, gap diagnosis and prestige inspection. Core, Wiki Home and AI Trend Watch were checked for architecture, recovery and selection scope and retained as supporting references. The applications develop the existing comparison rather than treating source count as a reason to add repeated claims.
 
 The [ten-source disposition and placement record]({{ '/DECISION-LEDGER/' | relative_url }}#youtube-ten-source-batch-2026-10-27) preserves source snapshots, quotation authorship and the three no-additional-quotation outcomes. Candidate tests remain proposals; the transcript, embedded video and dated PDF editions retain their existing states.
+
+
+## 2026-10-28 — GPT / Codex: Superintelligence
+
+**Labeled synthesis and publication record:** At John's request, created [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) after studying the Admin publication and writing instructions. The page applies the existing 1888 intelligence-property field to capability, C1–C2, natural-authority narratives, correction persistence and power. The conversational specimens preserve Google A.I.'s local repairs and later recurrence, GPT / Codex's own correction, and the boundary between visible transformations and hidden-mechanism explanations.
+
+**Publication delta:** New source page, alphabetical and All Pages discovery, two reciprocal recovery links, durable PDF/source registration, one initial page PDF and coherent archive records. Existing PDF editions keep their bytes and actual snapshot dates. [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}#superintelligence-2026-10-28).

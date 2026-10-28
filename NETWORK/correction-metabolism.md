@@ -22,6 +22,8 @@ John specifies the comparison as **correction metabolism delta Δ processing com
 
 ## Observable record
 
+[Superintelligence]({{ '/SUPERINTELLIGENCE/#correction-specimen' | relative_url }}) supplies an October 28 conversational specimen: a conditional alignment thesis becomes an attributed causal claim, the repair is acknowledged, and a related strengthening returns during a later extension. Successful repairs and GPT / Codex's own correction remain in the same record.
+
 An editorial working record can track the source object, initial response, correction, immediate revision, later relevant response, and context available at each step. The later response is essential: an acknowledgment is one event; a persistent change is another.
 
 ## Keep the success archive

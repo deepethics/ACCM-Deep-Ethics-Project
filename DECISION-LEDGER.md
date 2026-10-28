@@ -1,5 +1,19 @@
 # Decision Ledger
 
+## 2026-10-28 — Superintelligence through the 1888 intelligence-properties taxonomy {#superintelligence-2026-10-28}
+
+**Object and authorization:** John Kuhles requested a new public Superintelligence page, directed the full omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory, and required study of the private Admin repository before construction. Public source snapshot: `73101ebdd0c52e706b571bd86403187c530800f0`.
+
+**Decision:** Publish [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) as a conceptual inquiry with bounded conversational specimens. Apply the existing fourteen-property table to superhuman capabilities; preserve the 1888 thought experiment's status; connect broad C1 clarification/calibration, warranted C2, healthy ambiguity, acceptability-frame revision, technical/governance opacity, notice, distributed consequences and useful human–artificial intelligence collaboration.
+
+**Contribution layers:** John originated the conceptual direction, binary-framing challenge, C1 clarification, attributed ethics-washing diagnosis and naturalness question. GPT / Codex supplied the quoted conditional alignment formulation, comparisons, candidate applications, page synthesis and publication work. Google A.I. responses supplied by John are specimens with both local repairs and later recurrence; the exact model build and hidden architecture remain unestablished. The page also preserves GPT / Codex's correction of its overconfident interpretation of “strict temporal sequence.”
+
+**Discovery and formats:** Add the independent alphabetical entry under S, the All Pages entry beside 1888, reciprocal recovery links from 1888 and Correction Metabolism, and the durable route/source/PDF registry. No new primary-header position was specified. The centralized top and bottom cards retain their common labels, with a page-specific October 28 snapshot date.
+
+**PDF lifecycle:** Use the bounded initial-PDF exception for `SUPERINTELLIGENCE.pdf`; reconcile index, checksums, catalogue and build facts; let the ordinary Pages build assemble the stable complete ZIP. Existing PDF bytes and dates remain unchanged. Routine later changes enter the weekly refresh path.
+
+**Interpretation limits:** The page identifies observable transformations and candidate mechanisms, permits valid nulls and mixed cases, and distinguishes conceptual analysis, behavioral records, mechanistic explanations and governance evidence. It makes no survey-level finding about one unified mainstream narrative or exclusive solution to alignment.
+
 ## 2026-10-27 — YouTube Transcripts: ten-source review and seven operational quotations {#youtube-ten-source-batch-2026-10-27}
 
 **Object and authorization:** John supplied the next ten links for the ongoing quotation-based improvement of YouTube Transcripts. The existing page and previous source-and-placement record govern the relevance check. Nine public-page sources were read through GitHub and their local checkout; the Wiki was read through its Git repository because the connector does not expose Wiki pages. The main-repository source snapshot is `d435975a4505d0d2c09e55e6345ccc5c58dc3138`; Wiki Home was inspected at Wiki commit `012751d82c6e1d3d271b751f7ce420c4dfc5c80d`.
