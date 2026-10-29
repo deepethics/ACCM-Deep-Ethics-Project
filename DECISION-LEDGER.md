@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-29 — Scope reasoning remains inside the corrigible field {#avalon-scope-repair-2026-10-29}
+
+At John’s request, added his Deep Ethical Scope Reasoning statement and corrective qualification to **Project Avalon**, with GPT’s response verbatim. The reasoning, framer, evaluator and repair process remain inside the inquiry when scope becomes compromised or distorted. Added the original member-list screenshot supplied by John, with dated caption and full-size link, under explicit publication authorization. Full mirror follows the source; the existing nine-page PDF retains its snapshot pending weekly maintenance. [Read the correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}).
+
 ## 2026-10-29 — Project Avalon: method showcase and next stage {#project-avalon-2026-10-29}
 
 John commissioned **Project Avalon**, connecting the completed health-thread work and the full subsequent dialogue with Cognitive Warfare and the 11+1 Explorer. The page develops Deep Ethical Topological Prompt Engineering™, the formative research history, 10+1/1888 coordination, useful contribution across disagreement, fear/flagging, researcher care, community return and proposed transfer comparisons. Completed outputs and future tests retain their different states. Registered navigation, sidebar, catalogue and the initial page PDF; related pages link back. Full WordPress mirroring follows the canonical source. Only the new page receives an immediate first PDF; existing editions retain their actual dates. [Open Project Avalon]({{ '/PROJECT-AVALON/' | relative_url }}).
