@@ -14,6 +14,7 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <h1 class="accm-hero-title">ACCM Deep Ethics Project</h1>
 <p class="accm-hero-sub">Allow Constructive Controversy Mode — Deep Ethics Project</p>
+<p class="accm-hero-sub"><strong>Deep Ethical Topological Prompt Engineering</strong>™</p>
 
 <p class="accm-question"><strong>What happened to the object while you were producing the answer?</strong></p>
 
