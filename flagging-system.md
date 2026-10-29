@@ -378,6 +378,8 @@ The equally important positive test is whether the page keeps the relationship a
 
 ## Related pages
 
+- [**Search Engine Bias**]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) — follows queries, ranking, source admission, representation and correction through search and A.I. reuse, with source-linked cases and a candidate comparison protocol.
+
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#signal-noise' | relative_url }}) — applies process-quality calibration evaluation to the stronger case, restoration burden, and correction of the evaluator.
 
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — applies PQCE to the allocation of uncertainty, permission to explore, temporary postponement and the correction route into an evaluation.

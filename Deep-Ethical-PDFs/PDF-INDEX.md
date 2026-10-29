@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 157
+**Public pages exported:** 158
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -153,6 +153,7 @@
 | [Suggested Recursive Improvement Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/RECURSIVE-IMPROVEMENT/) | [RECURSIVE-IMPROVEMENT.pdf](RECURSIVE-IMPROVEMENT.pdf) | `recursive-improvement-site.md` |
 | [Origins of 11+1 Mass Psychology Clusters](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) | [REPORTS.pdf](REPORTS.pdf) | `REPORTS/index.md` |
 | [Rogue Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) | [ROGUE-ETHICS.pdf](ROGUE-ETHICS.pdf) | `rogue-ethics.md` |
+| [Search Engine Bias](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) | [SEARCH-ENGINE-BIAS.pdf](SEARCH-ENGINE-BIAS.pdf) | `SEARCH-ENGINE-BIAS.md` |
 | [Superintelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) | [SUPERINTELLIGENCE.pdf](SUPERINTELLIGENCE.pdf) | `SUPERINTELLIGENCE.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
 | [Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |

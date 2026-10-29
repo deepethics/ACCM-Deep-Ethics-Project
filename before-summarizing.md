@@ -262,6 +262,8 @@ That is why the sequence can be funny and serious at the same time. The joke doe
 
 ## Related pages
 
+- [**Search Engine Bias**]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) — follows queries, ranking, source admission, representation and correction through search and A.I. reuse, with source-linked cases and a candidate comparison protocol.
+
 - [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — continues the provider-specific record with legitimate-praise calibration, live coaching, Phase Change Snap, missing-ingredient audit and correction-persistence testing.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — the shortest public entrance through the visitor’s existing work.
 - [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — distinguishes the early-beta public repository from a finished framework or complete archive.
