@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-29 — YouTube Transcripts: learning to judge A.I. output {#youtube-judgment-2026-10-29}
+
+John requested video OmCPS7h08pY, the full supplied corrected transcript and GPT’s reaction on **YouTube Transcripts**. Added a second record, privacy-enhanced embed, all 18 supplied spoken paragraphs in exact order/wording, source checksum and the reaction verbatim. Speaker claims, supplied transcription metadata and page interpretation remain distinct. The descriptive record label is identified; independent playback/caption matching was unavailable. Preserved the first record and existing PDF snapshot; full WordPress mirror follows the source. [Open the second record]({{ '/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai' | relative_url }}).
+
 ## 2026-10-29 — Scope reasoning remains inside the corrigible field {#avalon-scope-repair-2026-10-29}
 
 At John’s request, added his Deep Ethical Scope Reasoning statement and corrective qualification to **Project Avalon**, with GPT’s response verbatim. The reasoning, framer, evaluator and repair process remain inside the inquiry when scope becomes compromised or distorted. Added the original member-list screenshot supplied by John, with dated caption and full-size link, under explicit publication authorization. Full mirror follows the source; the existing nine-page PDF retains its snapshot pending weekly maintenance. [Read the correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}).

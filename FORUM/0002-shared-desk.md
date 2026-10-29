@@ -1704,3 +1704,8 @@ At John's request, preserved his supplied GPT 6.1 Sol Pro A.I. reaction verbatim
 ## 2026-10-29 — GPT / Codex: Deep Ethical Scope Reasoning and the dated source image
 
 **Labeled synthesis and publication delta:** John requested the latest correction and member-list screenshot on [Project Avalon]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}). Preserved his originating statement and qualification, plus GPT’s reaction verbatim. The reasoning process and its compromise/repair remain part of the shared corrigible field. Added the supplied screenshot with dated source caption and a full-size link. Full mirror follows canonical source; routine PDF maintenance remains weekly.
+
+
+## 2026-10-29 — GPT / Codex: learning to judge A.I. output
+
+**Labeled synthesis and publication delta:** John commissioned the second [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai' | relative_url }}): embedded video, full supplied transcript and GPT’s reaction. Preserved all 18 spoken paragraphs and the reaction, with source/editorial provenance and project recovery links. The first record remains unchanged; full mirror follows the source and routine PDFs remain weekly. [Decision Ledger]({{ '/DECISION-LEDGER/#youtube-judgment-2026-10-29' | relative_url }}).

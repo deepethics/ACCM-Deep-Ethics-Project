@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "YouTube Transcripts"
-description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. First record: Anthropic's proposed IPO and S-1."
+description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records include Anthropic's proposed IPO and S-1, and learning to judge A.I. output."
 permalink: /YOUTUBE-TRANSCRIPTS/
 date: 2026-10-27
 ---
@@ -17,6 +17,8 @@ date: 2026-10-27
 **Recover the whole statement, inspect its transformations, and keep the comparison open to correction.**
 
 This page pairs full supplied transcripts with their source videos and a separately identified ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
+
+**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai).
 
 **Orientation and recovery:** [Core]({{ '/CORE/' | relative_url }}) · [Project Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki). These routes lead into the working architecture and its sources; a navigation layer and the source it points to retain different roles.
 
@@ -259,3 +261,38 @@ The transcript preserves the speaker's acronyms. **AI / A.I.** means artificial 
 **Construction:** John Kuhles commissions the record and supplies the project direction and files. GPT / Codex selects and labels the comparisons, checks the named source relations, prepares the sponsor omission and builds the page. This transcript record is a companion to [AI Trend Watch]({{ '/AI-TREND-WATCH/' | relative_url }}); its publication does not itself establish that a video passed that archive's separate selection process.
 
 [Return to the comparison](#project-comparison) · [All public pages]({{ '/PAGES/' | relative_url }})
+
+
+## Second record — learning to judge A.I. output {#learning-to-judge-ai}
+
+**Source video supplied by John:** [Watch on YouTube](https://www.youtube.com/watch?v=OmCPS7h08pY). The speaker introduces himself as **Dylan**, an A.I. consultant. **“Learning to judge A.I. output” is this page’s descriptive record label**, rather than a separately verified video title. John supplied the corrected reading transcript and asked why the presentation was funny and what it left unmentioned.
+
+[Read the full supplied transcript](#judgment-full-transcript) · [Read GPT’s reaction](#judgment-gpt-reaction) · [Project connections](#judgment-project-connections)
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="OmCPS7h08pY" title="Dylan — learning to judge A.I. output — source supplied by John Kuhles" caption="Original video supplied by John. Promotional and sponsor segments were already omitted from the supplied reading transcript." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+### Full supplied corrected transcript {#judgment-full-transcript}
+
+**Reading-edition provenance:** John’s supplied text describes speech-to-text corrections, light punctuation/paragraphing and prior promotional/sponsor omissions. All **18 spoken paragraphs** are preserved below in their supplied order and wording. The introductory metadata is separated from speech. This publication uses the supplied transcript; independent playback/caption matching was unavailable. Statements about employment figures and named companies retain their status as the speaker’s claims in this reading record.
+
+{% include youtube-transcripts/2026-10-29-learning-to-judge-ai.md %}
+
+### GPT 6.1 Sol Pro A.I. — reaction, preserved verbatim {#judgment-gpt-reaction}
+
+**29 October 2026.** John asked: “Why is this video funny? What is it they ‘forget to mention’?” The reaction below analyzes the supplied transcript and connects it to the current exchange; it is a separate interpretation from the speaker’s presentation.
+
+{% include youtube-transcripts/2026-10-29-learning-to-judge-ai-reaction.md %}
+
+### Recovery routes and project connections {#judgment-project-connections}
+
+The **DUHHHH!** reference names John’s supplied archive on human-derived functional and relational mannerisms in A.I. The [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) pages develop related questions. The [Flagging System–PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) page examines **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation): what the evaluator represented, how its judgment acquired authority and whether a relevant correction can change the next move.
+
+[Project Avalon’s scope-reasoning correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}) keeps the reasoning, framer, evaluator and repair process in the same corrigible field. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether a correction governs later operations. [1888]({{ '/1888/' | relative_url }}) and [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) connect evaluation with the other intelligence properties and the shared ethical orientation.
+
+**Transcript terms:** AI / A.I. means artificial intelligence; GPS means Global Positioning System. These expansions explain the supplied speech without changing it.
+
+**Source footprint:** `Pasted text(20261029-120148).txt`; SHA-256 `5c8224f25f0141517b5d73d21d50ba2501093b791dbe8ce1cddfaf77bfc2c691`. [Reading-transcript source](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-10-29-learning-to-judge-ai.md) · [Reaction source](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-10-29-learning-to-judge-ai-reaction.md).
+
+**Authorship:** Dylan supplies the narrated presentation; John Kuhles supplied the video/transcript, posed the interpretive question and commissioned publication; GPT 6.1 Sol Pro A.I. supplied the reaction; GPT / Codex assembled this second record. The first record remains intact. This living page’s existing PDF retains its actual snapshot until the weekly change-aware refresh.
