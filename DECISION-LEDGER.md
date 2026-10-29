@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-29 — Bill Ryan’s health-page response and source continuity {#bill-health-response-2026-10-29}
+
+John requested his supplied screenshot of Bill Ryan’s forum response, the permanent post source and GPT’s reactions on **A.I.s & Health**. Added the original image, attribution, both GPT responses verbatim and John’s All About Cancer context. Bill’s claims, GPT’s reflections, John’s source recovery and the next archive task retain their distinct status. The full mirror follows the source; the existing PDF retains its snapshot until weekly maintenance. [Read the community response]({{ '/AI-AND-HEALTH/#bill-ryan-community-response' | relative_url }}).
+
 ## 2026-10-29 — UFO–UAP disclosure: first scope batch {#ufo-scope-2026-10-29}
 
 John commissioned transfer of the health inventory method to his disclosure thread, with the supplied text files studied too. Published **A.I.s & UFO–UAP Disclosure**: pages 1–10, posts #1–200, U001–U067, 18 overlapping clusters and 248 memberships. File-derived directions, source-status distinctions, 1888/10+1 coordination and candidate return pathways preserve useful contributions across disagreement. Text and description scope is explicit; media interpretation and underlying-document investigation remain a separate pass. Next page: 11. Registered navigation, sidebar, catalogue and the first page PDF; existing PDFs retain their dates. The full WordPress mirror follows the canonical page. [Open the inventory]({{ '/AI-AND-UFO-UAP/' | relative_url }}).
