@@ -29,6 +29,8 @@ The source packet deserves a separate page in the **ACCM Deep Ethics Project** b
 
 The project’s instruments do not prove every interpretation in the source packet. They make the transformations around those interpretations inspectable.
 
+[**Project Avalon — a worked field application**]({{ '/PROJECT-AVALON/' | relative_url }}) connects the health archive, source-preserving clusters, community return and proposed transfer of Deep Ethical Topological Prompt Engineering™ across further subjects.
+
 ## One packet, several source layers
 
 The uploaded file is not one continuous evidentiary object. It contains different speakers, purposes, access conditions, and claim types.

@@ -14,6 +14,8 @@ date: 2026-10-15
 
 # Topologetics
 
+[**Project Avalon — a worked field application**]({{ '/PROJECT-AVALON/' | relative_url }}) connects the health archive, source-preserving clusters, community return and proposed transfer of Deep Ethical Topological Prompt Engineering™ across further subjects.
+
 ## Deep Ethical Topological Summaries that cannot be compressed further without losing the original meaning and trajectory
 
 <div class="accm-rounded-quote">

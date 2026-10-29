@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-29 — Project Avalon: method showcase and next stage {#project-avalon-2026-10-29}
+
+John commissioned **Project Avalon**, connecting the completed health-thread work and the full subsequent dialogue with Cognitive Warfare and the 11+1 Explorer. The page develops Deep Ethical Topological Prompt Engineering™, the formative research history, 10+1/1888 coordination, useful contribution across disagreement, fear/flagging, researcher care, community return and proposed transfer comparisons. Completed outputs and future tests retain their different states. Registered navigation, sidebar, catalogue and the initial page PDF; related pages link back. Full WordPress mirroring follows the canonical source. Only the new page receives an immediate first PDF; existing editions retain their actual dates. [Open Project Avalon]({{ '/PROJECT-AVALON/' | relative_url }}).
+
 ## 2026-10-28 — Source-grounded pathways and purpose-specific completion {#health-pathway-refinement-2026-10-28}
 
 John requested the latest Grok 4.7 Expert, Arena and GPT contribution relay be incorporated into **A.I.s & Health**. Added the distinction between route connections and contents, Grok’s eight-point working method applied to Terry’s archived account (#2414/A259), and GPT’s separation of causal revision, care needs and handoff completion. The recovered post and inventory support the example; individual clinical records and later outcomes remain separately recoverable. Original inventory, cluster memberships and requested quotation are preserved. Full mirror follows canonical source; PDF maintenance remains weekly. [Read the contribution]({{ '/AI-AND-HEALTH/#pathway-source-and-completion' | relative_url }}).

@@ -257,6 +257,8 @@ Pacing, voluntary participation, reciprocal support and the ability to pause hel
 
 The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) connects this work: perception notices a contribution; discrimination preserves its particulars; relation connects relevant fields; imagination keeps alternatives available; judgment evaluates the next move; coordination supports handoffs; memory, follow-up and correction allow consequences to improve subsequent understanding. [Topologetics]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) preserves the answer-changing relationships as the inquiry grows.
 
+[**Project Avalon — a worked field application**]({{ '/PROJECT-AVALON/' | relative_url }}) connects the health archive, source-preserving clusters, community return and proposed transfer of Deep Ethical Topological Prompt Engineering™ across further subjects.
+
 {% include health-avalon-clusters.md %}
 
 {% include health-avalon-scope-inventory.md %}

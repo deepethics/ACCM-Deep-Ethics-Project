@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 155
+**Public pages exported:** 156
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -139,6 +139,7 @@
 | [Before the Next Tesla Has a Name](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) | [POSITIVE-POTENTIAL.pdf](POSITIVE-POTENTIAL.pdf) | `POSITIVE-POTENTIAL/index.md` |
 | [Emerging Human Potential, Premature Closure, and the T0 → Tn Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/REPORT/) | [POSITIVE-POTENTIAL-REPORT.pdf](POSITIVE-POTENTIAL-REPORT.pdf) | `POSITIVE-POTENTIAL/report.md` |
 | [PR Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/) | [PR-PSYCHOLOGY.pdf](PR-PSYCHOLOGY.pdf) | `PR-PSYCHOLOGY.md` |
+| [Project Avalon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-AVALON/) | [PROJECT-AVALON.pdf](PROJECT-AVALON.pdf) | `PROJECT-AVALON.md` |
 | [Project Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROJECT-STATUS/) | [PROJECT-STATUS.pdf](PROJECT-STATUS.pdf) | `project-status-site.md` |
 | [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/) | [PROVENANCE.pdf](PROVENANCE.pdf) | `PROVENANCE/index.md` |
 | [27 + 12 + 52 — unsplit source object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/) | [PROVENANCE-27-12-52-source.pdf](PROVENANCE-27-12-52-source.pdf) | `PROVENANCE/27-12-52-source.md` |
