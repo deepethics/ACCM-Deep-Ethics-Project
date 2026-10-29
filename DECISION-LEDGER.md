@@ -2,6 +2,8 @@
 
 ## 2026-10-29 — Search Engine Bias: discoverability, attribution and correction {#search-engine-bias-2026-10-29}
 
+**Publication correction:** live self-inspection exposed that the purported Firecrawl `site:` failure used a malformed query missing the colon. Withdrew the tool-defect attribution, retained the exact query and correction sequence, and regenerated the materially corrected initial PDF.
+
 John commissioned a new page from the supplied search records, Google trial-video transcript, Wikipedia and fact-checking material, the reorganized continuity kit and the existing Deep, Flagging System-PQCE, Before Summarizing and Cognitive Warfare pages. Published **Search Engine Bias** with source-linked Google disclosures, Sanger’s authored critique, a partly unresolved bird-deaths attribution chain, bounded Firecrawl observations and an unexecuted matched-comparison protocol. John’s account, A.I. strengthening errors, inaccessible original posts and source verification retain separate status. Added navigation, alphabetical discovery, catalogue and reciprocal recovery links. The initial page PDF is a bounded new-page exception; existing PDF editions retain their dates. [Read the page]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}).
 
 ## 2026-10-29 — Bill Ryan’s health-page response and source continuity {#bill-health-response-2026-10-29}

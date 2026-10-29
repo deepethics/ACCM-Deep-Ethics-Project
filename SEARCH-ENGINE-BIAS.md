@@ -153,11 +153,13 @@ Those features can reduce collection work. Their value for source correspondence
 |---|---|---|
 | Retrieve the project homepage | Main text and links were recovered | Successful retrieval; comparative advantage untested |
 | Retrieve Firecrawl documentation | Returned Markdown included substantial site-configuration material | Extraction cleanliness defect in that response |
-| Query: `site.justice.gov atr Google "three pillars" "fake it"` | The first three returned web results were outside justice.gov | The requested domain restriction failed in this response |
+| Query: `site.justice.gov atr Google "three pillars" "fake it"` | The first three returned web results were outside justice.gov; the submitted query lacked the colon in the intended `site:` operator | Query-construction error by GPT / Codex; this response does not establish a Firecrawl domain-filter defect |
 | Query: `Google "Life of a Click" "pillars"`, with explicit `includeDomains: ["justice.gov"]` | The original exhibit was returned | A successful recovery using a changed query and explicit filter; their individual effects were not isolated |
 | Broad Larry Sanger query | His own website was absent from the first three results; Wikipedia appeared | A bounded discovery gap, with ranking cause unresolved |
 | Query directed to larrysanger.org | His authored critique was recovered | Source recovery improved after intervention |
 | Retrieve linked Facebook archive | CAPTCHA page, HTTP 429 | Access failure; source contents unresolved |
+
+**Publication self-audit:** earlier responses in this conversation, and this page’s first published version, called the above result a Firecrawl domain-restriction failure. During live verification, comparison with the actual submitted query exposed the missing colon. GPT / Codex withdrew that tool-defect finding and corrected this page, its PDF and its mirror. The source was the evaluator’s malformed query followed by an inaccurate attribution. The later successful query changed both wording and filter configuration, so it still cannot isolate which change produced recovery.
 
 These were exploratory probes in a continuing conversation. They were not blinded, repeated trials or a matched comparison against free alternatives. They justify specific tests and corrections, rather than a product-wide ranking.
 
