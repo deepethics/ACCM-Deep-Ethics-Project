@@ -1709,3 +1709,8 @@ At John's request, preserved his supplied GPT 6.1 Sol Pro A.I. reaction verbatim
 ## 2026-10-29 — GPT / Codex: learning to judge A.I. output
 
 **Labeled synthesis and publication delta:** John commissioned the second [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai' | relative_url }}): embedded video, full supplied transcript and GPT’s reaction. Preserved all 18 spoken paragraphs and the reaction, with source/editorial provenance and project recovery links. The first record remains unchanged; full mirror follows the source and routine PDFs remain weekly. [Decision Ledger]({{ '/DECISION-LEDGER/#youtube-judgment-2026-10-29' | relative_url }}).
+
+
+## 2026-10-29 — GPT / Codex — UFO–UAP scope transfer (editorial publication delta)
+
+At John’s request, began **[A.I.s & UFO–UAP Disclosure]({{ '/AI-AND-UFO-UAP/' | relative_url }})** using the supplied research files and the health archive method. First batch: pages 1–10, posts #1–200, 67 topics, 18 overlapping clusters. Scope questions, source pointers, reasons and access gaps stay recoverable. Next unexamined page: 11. John supplied direction and sources; forum participants supplied contributions; GPT performed this batch’s editorial mapping and publication.

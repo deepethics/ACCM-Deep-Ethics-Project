@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-29 — UFO–UAP disclosure: first scope batch {#ufo-scope-2026-10-29}
+
+John commissioned transfer of the health inventory method to his disclosure thread, with the supplied text files studied too. Published **A.I.s & UFO–UAP Disclosure**: pages 1–10, posts #1–200, U001–U067, 18 overlapping clusters and 248 memberships. File-derived directions, source-status distinctions, 1888/10+1 coordination and candidate return pathways preserve useful contributions across disagreement. Text and description scope is explicit; media interpretation and underlying-document investigation remain a separate pass. Next page: 11. Registered navigation, sidebar, catalogue and the first page PDF; existing PDFs retain their dates. The full WordPress mirror follows the canonical page. [Open the inventory]({{ '/AI-AND-UFO-UAP/' | relative_url }}).
+
 ## 2026-10-29 — YouTube Transcripts: learning to judge A.I. output {#youtube-judgment-2026-10-29}
 
 John requested video OmCPS7h08pY, the full supplied corrected transcript and GPT’s reaction on **YouTube Transcripts**. Added a second record, privacy-enhanced embed, all 18 supplied spoken paragraphs in exact order/wording, source checksum and the reaction verbatim. Speaker claims, supplied transcription metadata and page interpretation remain distinct. The descriptive record label is identified; independent playback/caption matching was unavailable. Preserved the first record and existing PDF snapshot; full WordPress mirror follows the source. [Open the second record]({{ '/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai' | relative_url }}).

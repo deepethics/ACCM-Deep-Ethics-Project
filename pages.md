@@ -165,6 +165,7 @@ John’s own records. The public pages above are not a substitute for these.
 ## 5. The topology applied {#topology-applied}
 
 - **[A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }})** — a living inquiry into healthcare decisions, institutional incentives, Symmetric Grace, long-term outcomes and useful correction through the 1888 intelligence-properties taxonomy.
+- **[A.I.s & UFO–UAP Disclosure]({{ '/AI-AND-UFO-UAP/' | relative_url }})** — a growing source-linked inquiry into observation, testimony, archives, science, governance and mass psychology; first batch: 67 topics across pages 1–10, with 18 overlapping clusters.
 - **[Project Avalon]({{ '/PROJECT-AVALON/' | relative_url }})** — Deep Ethical Topological Prompt Engineering™ in a completed archive application, community return and proposed cross-domain transfer programme.
 
 Specimens, tests, and humor. These show the taxonomy working on a particular object. The Google report and the Dicks pages are here because the object is outside the topology. Hypercautionism and the imported-authority specimen stay in Cluster 3.

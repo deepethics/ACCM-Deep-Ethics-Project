@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 156
+**Public pages exported:** 157
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -15,6 +15,7 @@
 | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) | [ACTIVISM-VS-AI.pdf](ACTIVISM-VS-AI.pdf) | `activism-vs-ai.md` |
 | [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) | [AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf](AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf) | `AGREEMURMELISM/Beyond-Agreemurmelism/index.md` |
 | [A.I.s & Health](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) | [AI-AND-HEALTH.pdf](AI-AND-HEALTH.pdf) | `AI-AND-HEALTH.md` |
+| [A.I.s & UFO–UAP Disclosure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-UFO-UAP/) | [AI-AND-UFO-UAP.pdf](AI-AND-UFO-UAP.pdf) | `AI-AND-UFO-UAP.md` |
 | [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) | [AI-CONTRIBUTIONS.pdf](AI-CONTRIBUTIONS.pdf) | `AI-CONTRIBUTIONS/index.md` |
 | [The October 17 Triad Event — Interlocked Topological Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/) | [AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf](AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf) | `AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md` |
 | [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) | [AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf](AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf) | `AI-CONTRIBUTIONS/local-ai-glass-engine-preparation.md` |
