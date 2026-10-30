@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-30 — Separate 5G embedded-content recovery worklist {#fiveg-embed-recovery-worklist}
+
+At John's request, moved the four embedded-content recovery tables out of the public 5G Controversy inventory into one session-delivered clickable HTML worklist: 51 forum-post entries, with all original forum links, tweet routes and access notes preserved. The final batch's equivalent table had a different heading and is included. The 144-topic map and 1,114 source records remain intact; recovered screenshots or text can support later source-attributed additions. The existing PDF edition retains its date pending weekly maintenance. [Open the inventory]({{ '/5G-CONTROVERSY/#fiveg-avalon-scope' | relative_url }}).
+
 ## 2026-10-30 — VCRAS: testing, mixed contributions and fair treatment {#vcras-testing-symmetric-grace-2026-10-30}
 
 At John's request, preserved his two latest comments and GPT's two replies in full, in conversation order, on [VCRAS]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}). The 15%/85% contrast retains its stated conceptual status. A separate moderate integration distinguishes trigger, reconstruction, warrant, decision, reciprocity and later correction. Two related pages receive distinct additions: Asymmetric Grace examines component-to-whole judgments; Correction Metabolism follows correction into the governing warrant and next comparable case. Earlier source and correction records remain intact. Routine PDFs retain their existing editions for the change-aware weekly refresh.
