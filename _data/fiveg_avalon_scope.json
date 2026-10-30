@@ -1,50 +1,50 @@
 {
   "schema_version": 1,
-  "title": "Stop 5G before it’s irreversible! — first scope batch",
+  "title": "Stop 5G before it’s irreversible! — growing scope inventory",
   "review_date": "2026-10-30",
   "thread_id": 100537,
   "scope": {
     "pages": [
       1,
-      10
+      20
     ],
     "posts": [
       1,
-      200
+      400
     ],
     "access": "Public forum post text and linked-source descriptions; long reproduced texts skimmed for topic discovery. Embedded media, image-only content, external documents and individual cases require further access.",
-    "next_page": 11
+    "next_page": 21
   },
   "categories": [
     {
       "id": "exposure",
       "title": "Exposure, signals and biological mechanisms",
-      "topic_count": 10
+      "topic_count": 14
     },
     {
       "id": "health-care",
       "title": "Health, lived experience and useful care",
-      "topic_count": 8
+      "topic_count": 15
     },
     {
       "id": "environment",
       "title": "Ecology, infrastructure and resource use",
-      "topic_count": 5
+      "topic_count": 6
     },
     {
       "id": "systems",
       "title": "Network architecture, data and public agency",
-      "topic_count": 8
+      "topic_count": 12
     },
     {
       "id": "institutions",
       "title": "Standards, institutions, rights and records",
-      "topic_count": 9
+      "topic_count": 15
     },
     {
       "id": "dual-use",
       "title": "Dual use, history and forecasts",
-      "topic_count": 5
+      "topic_count": 6
     },
     {
       "id": "inquiry",
@@ -52,7 +52,7 @@
       "topic_count": 8
     }
   ],
-  "topic_count": 53,
+  "topic_count": 76,
   "topics": [
     {
       "id": "G001",
@@ -700,6 +700,377 @@
         174,
         175
       ]
+    },
+    {
+      "id": "G054",
+      "category": "exposure",
+      "question": "What can a particular RF meter measure reliably?",
+      "investigation_value_and_next_step": "Calls to own a meter and a later meter search make instrument choice consequential. Recover frequency coverage, calibration, detection limits, averaging and pulse response, then record the uncertainty of measurements made in the actual setting.",
+      "source_posts": [
+        201,
+        343,
+        376
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G001",
+        "G003"
+      ]
+    },
+    {
+      "id": "G055",
+      "category": "exposure",
+      "question": "How does checking units change a technical safety argument?",
+      "investigation_value_and_next_step": "Power, energy, frequency, pulse repetition and absorbed exposure enter different comparisons. Reproduce the calculations and the transcript’s quantities, then check the original recording and equipment specifications before reusing the numerical conclusion.",
+      "source_posts": [
+        211,
+        212,
+        333,
+        397,
+        399
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G002",
+        "G007",
+        "G049"
+      ]
+    },
+    {
+      "id": "G056",
+      "category": "health-care",
+      "question": "Which functional outcomes could change before visible tissue damage?",
+      "investigation_value_and_next_step": "Dennis Leahy distinguishes a biological change, altered function and visible damage, using a medical-device analogy. Specify the endpoint, benefit or harm criterion, exposure and comparison needed to investigate each state.",
+      "source_posts": [
+        239,
+        244
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G008",
+        "G015"
+      ]
+    },
+    {
+      "id": "G057",
+      "category": "health-care",
+      "question": "What distinguishes adaptation, reduced perception, coping and improved health?",
+      "investigation_value_and_next_step": "Onawah and DaveToo question what adaptation means. Follow symptoms, perception, function, biomarkers, support needs and quality of life separately, including people who report no sensation. This could clarify which outcome an adaptation claim actually describes.",
+      "source_posts": [
+        225,
+        240,
+        302,
+        367,
+        386
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G013",
+        "G018"
+      ]
+    },
+    {
+      "id": "G058",
+      "category": "exposure",
+      "question": "Whom do the test body and exposure scenario represent?",
+      "investigation_value_and_next_step": "A lecture description and later child-health article question safety-testing assumptions. Recover the original phantom or model, anatomical parameters, age range, device position and test conditions, then identify populations or uses requiring a different comparison.",
+      "source_posts": [
+        247,
+        317
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G014",
+        "G032"
+      ]
+    },
+    {
+      "id": "G059",
+      "category": "institutions",
+      "question": "Does a safety review’s summary preserve its underlying findings?",
+      "investigation_value_and_next_step": "The **[AGNIR](https://www.ncbi.nlm.nih.gov/pubmed/27902455)** (Advisory Group on Non-ionising Radiation) critique linked by John alleges omissions and a mismatch between evidence and conclusions. Compare the review, cited studies and executive summary passage by passage, retaining selection methods, uncertainties, interests and any documented correction.",
+      "source_posts": [
+        228
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G032",
+        "G033",
+        "G034"
+      ]
+    },
+    {
+      "id": "G060",
+      "category": "systems",
+      "question": "Which dependencies and fallback options does a rollout create?",
+      "investigation_value_and_next_step": "John’s dependency argument and the O2 outage discussion raise different parts of a resilience question. Identify essential services, alternatives, failure consequences and exit costs before and after deployment; examine who can revise or decline the resulting arrangement.",
+      "source_posts": [
+        227,
+        260
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G031",
+        "G036"
+      ]
+    },
+    {
+      "id": "G061",
+      "category": "institutions",
+      "question": "When is purchasing or using a service treated as political consent?",
+      "investigation_value_and_next_step": "John asks whether market adoption can be presented as public acceptance. Compare available choices, disclosure, necessity, affordability, public participation and the actual decision process to determine what the observed purchase or use can reasonably signify.",
+      "source_posts": [
+        227,
+        238
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G025",
+        "G031",
+        "G035"
+      ]
+    },
+    {
+      "id": "G062",
+      "category": "systems",
+      "question": "Can privileged access defeat an intended separation of personal data?",
+      "investigation_value_and_next_step": "ThePythonicCow proposes decentralization; Norman asks whether technical operators could reconnect the partitions. Map administrator permissions, linking identifiers, audit trails and enforceable limits, then test the proposed control against a specified access scenario.",
+      "source_posts": [
+        311,
+        312,
+        313,
+        314
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G025",
+        "G026"
+      ]
+    },
+    {
+      "id": "G063",
+      "category": "systems",
+      "question": "What would a proposed passive radio-imaging system actually resolve?",
+      "investigation_value_and_next_step": "Posts propose backscatter or three-dimensional sensing from distributed transmitters. Recover transmitter/receiver geometry, timing, bandwidth, signal access, processing and demonstrated resolution; distinguish a proposed capability from an accessed deployment record.",
+      "source_posts": [
+        288,
+        332
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G029",
+        "G030",
+        "G041"
+      ]
+    },
+    {
+      "id": "G064",
+      "category": "dual-use",
+      "question": "How do repeated occupational exposures compare with public exposure?",
+      "investigation_value_and_next_step": "The thread raises military jammers, scanners and antenna work. Recover the actual apparatus, duty cycle, worker position, operating procedures and exposure records for each occupation before transferring an account to another population or technology.",
+      "source_posts": [
+        223,
+        309,
+        310,
+        329,
+        338
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G011",
+        "G013",
+        "G044"
+      ]
+    },
+    {
+      "id": "G065",
+      "category": "health-care",
+      "question": "What follow-up would make the firefighter-station reports informative?",
+      "investigation_value_and_next_step": "A reproduced report links station antennas to neurological complaints. Recover installation dates, participants, assessments, exposure measurements, shift work, sleep and other exposures, then follow the intervention, later function and accommodation decisions.",
+      "source_posts": [
+        320
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G011",
+        "G012",
+        "G018"
+      ]
+    },
+    {
+      "id": "G066",
+      "category": "institutions",
+      "question": "Who bears costs and retains remedies under the actual liability arrangements?",
+      "investigation_value_and_next_step": "John raises claims about pre-emption, protection from lawsuits and taxpayer bailouts. Recover the jurisdiction-specific rules, contracts, insurance and funding decisions separately, then trace the costs, standing and remedy that each arrangement actually creates.",
+      "source_posts": [
+        336,
+        337,
+        340,
+        357
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G035",
+        "G037",
+        "G038"
+      ]
+    },
+    {
+      "id": "G067",
+      "category": "institutions",
+      "question": "What authority, scope and duration did a reported local pause have?",
+      "investigation_value_and_next_step": "The Brussels exchange distinguishes a local decision from supranational institutions; another post describes a school-area tower pause. Obtain the decision, responsible body, technology, conditions and subsequent implementation before comparing these examples.",
+      "source_posts": [
+        344,
+        346,
+        380
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G035",
+        "G039"
+      ]
+    },
+    {
+      "id": "G068",
+      "category": "exposure",
+      "question": "What changes when shielding alters both exposure and connectivity?",
+      "investigation_value_and_next_step": "The anti-Wi-Fi paint article raises material performance and emergency-access questions together. Measure attenuation across relevant bands, device behaviour, openings and fallback communications, alongside the practical outcomes the user seeks.",
+      "source_posts": [
+        347
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G017",
+        "G031"
+      ]
+    },
+    {
+      "id": "G069",
+      "category": "health-care",
+      "question": "Which physical, behavioural and social channels contribute to device-associated outcomes?",
+      "investigation_value_and_next_step": "Dinner-table observations and screen-time material add mechanisms beyond a radio-exposure hypothesis. A useful comparison could track screen use, sleep, activity, social interaction and measured RF exposure, with outcomes appropriate to each channel.",
+      "source_posts": [
+        232,
+        353
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G012",
+        "G014"
+      ]
+    },
+    {
+      "id": "G070",
+      "category": "environment",
+      "question": "Could adjacent-band emissions impair satellite weather measurements?",
+      "investigation_value_and_next_step": "Post #369 links a Navy memo, senators’ letter and spectrum-auction record. Recover the water-vapour measurement band, emission limits, aggregate interference assumptions and forecast-model consequences, together with the agencies’ responses.",
+      "source_posts": [
+        369
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G032",
+        "G036"
+      ]
+    },
+    {
+      "id": "G071",
+      "category": "systems",
+      "question": "How accurately does a rollout map describe service at a particular place and time?",
+      "investigation_value_and_next_step": "Forecasts, router labels, rural trials and deployment maps describe different objects. Compare mapped claims with operator records, equipment, bands, operational dates, coverage and usable service; retain an explicit cutoff date for each comparison.",
+      "source_posts": [
+        209,
+        268,
+        280,
+        318,
+        356,
+        368
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G001",
+        "G002",
+        "G022"
+      ]
+    },
+    {
+      "id": "G072",
+      "category": "health-care",
+      "question": "How could community observations become a useful prospective follow-up?",
+      "investigation_value_and_next_step": "A Melbourne contributor asks where to record effects after activation. Co-design a record of baseline conditions, symptoms, function, exposure, timing and relevant changes, with consent, privacy, comparison observations and routes to care.",
+      "source_posts": [
+        201,
+        376
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G003",
+        "G011",
+        "G013"
+      ]
+    },
+    {
+      "id": "G073",
+      "category": "health-care",
+      "question": "What supports transferring a radioprotection finding to a different exposure?",
+      "investigation_value_and_next_step": "Posts about miso and ginkgo draw on nuclear or radiotherapy contexts. Recover the radiation type, dose, model, intervention and endpoint in each cited study, then identify what evidence would be needed for the proposed RF application.",
+      "source_posts": [
+        370,
+        371
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G008",
+        "G017"
+      ]
+    },
+    {
+      "id": "G074",
+      "category": "health-care",
+      "question": "What makes a reported cancer cluster suitable for investigation?",
+      "investigation_value_and_next_step": "A documentary account and a clinician’s lecture describe cancer cases around particular phone use. Recover case definitions, diagnoses, exposure histories, denominator, comparison rates, latency and other circumstances while respecting participants’ control over their records.",
+      "source_posts": [
+        363,
+        364
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G011",
+        "G015"
+      ]
+    },
+    {
+      "id": "G075",
+      "category": "institutions",
+      "question": "What reporting and support routes are available to a concerned worker?",
+      "investigation_value_and_next_step": "An alleged scanner-report episode and the transcribed tower-climber account raise questions about reporting, employment dependence and available alternatives. Recover the reporting record, response, protections, training and practical support rather than inferring an institutional response from concern alone.",
+      "source_posts": [
+        338,
+        397
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G018",
+        "G044"
+      ]
+    },
+    {
+      "id": "G076",
+      "category": "institutions",
+      "question": "What information would make a right-to-know policy usable?",
+      "investigation_value_and_next_step": "A clinician’s call for disclosure, a petition and John’s action-resource list point toward public information design. Identify what parents, purchasers, workers and neighbours need to compare options, understand limits, ask questions and obtain a response.",
+      "source_posts": [
+        261,
+        350,
+        364
+      ],
+      "origin_batch": 2,
+      "related_topics": [
+        "G014",
+        "G032",
+        "G035"
+      ]
     }
   ],
   "page_coverage": [
@@ -782,6 +1153,86 @@
       "first_date_displayed": "17th October 2018 08:31",
       "last_date_displayed": "10th November 2018 21:10",
       "decoded_html_sha256": "5d30580cd11c9eecf1320201103fc7cc2610cbcc46b83bf0921217686737ca1b"
+    },
+    {
+      "page": 11,
+      "first_post": 201,
+      "last_post": 220,
+      "first_date_displayed": "27th November 2018 09:19",
+      "last_date_displayed": "30th November 2018 05:34",
+      "decoded_html_sha256": "1acefc2917f1b4eda51ee0f5a94fc1f04a94e9167161a81f0f774de6510af17c"
+    },
+    {
+      "page": 12,
+      "first_post": 221,
+      "last_post": 240,
+      "first_date_displayed": "30th November 2018 05:42",
+      "last_date_displayed": "2nd December 2018 20:30",
+      "decoded_html_sha256": "7f8da52f3b07ef1b12be58b39cf68d19e0859658b38a2c878fce5e6b2cd77fee"
+    },
+    {
+      "page": 13,
+      "first_post": 241,
+      "last_post": 260,
+      "first_date_displayed": "2nd December 2018 21:23",
+      "last_date_displayed": "8th December 2018 10:54",
+      "decoded_html_sha256": "80d13b9a81600d589f4690e0ba06a836bde30c5d802285b8707c90f093f733ac"
+    },
+    {
+      "page": 14,
+      "first_post": 261,
+      "last_post": 280,
+      "first_date_displayed": "8th December 2018 11:42",
+      "last_date_displayed": "1st January 2019 23:32",
+      "decoded_html_sha256": "002bc9f831ea54078a31f2775326b1efc3e1ab3e15a517426eecd631cad6b401"
+    },
+    {
+      "page": 15,
+      "first_post": 281,
+      "last_post": 300,
+      "first_date_displayed": "5th January 2019 21:13",
+      "last_date_displayed": "21st January 2019 01:12",
+      "decoded_html_sha256": "3ba417b31d95903cee2420e26bc6b8b5a4fd874944969b76827c6506a4c50556"
+    },
+    {
+      "page": 16,
+      "first_post": 301,
+      "last_post": 320,
+      "first_date_displayed": "22nd January 2019 16:09",
+      "last_date_displayed": "14th February 2019 16:11",
+      "decoded_html_sha256": "9403b749dca81b76e25b2eac6779708e326ec1065ed45f6ba2bfd4c4d1692963"
+    },
+    {
+      "page": 17,
+      "first_post": 321,
+      "last_post": 340,
+      "first_date_displayed": "15th February 2019 13:10",
+      "last_date_displayed": "20th March 2019 14:43",
+      "decoded_html_sha256": "d74b0fa9d1e7446505fd2657a0e6d4a043312605fe81accba780ad3d3d165db5"
+    },
+    {
+      "page": 18,
+      "first_post": 341,
+      "last_post": 360,
+      "first_date_displayed": "30th March 2019 03:42",
+      "last_date_displayed": "4th May 2019 20:15",
+      "decoded_html_sha256": "c6f4c90ab8ca556e9f687f997346f03d1b8ab5811494fdb7a4929e427e3a9dae"
+    },
+    {
+      "page": 19,
+      "first_post": 361,
+      "last_post": 380,
+      "first_date_displayed": "7th May 2019 20:33",
+      "last_date_displayed": "5th June 2019 00:36",
+      "decoded_html_sha256": "0a81389bd68c6512fa8121d3901ad7a654dd7392aebfbfdbff412f934dd796a2"
+    },
+    {
+      "page": 20,
+      "first_post": 381,
+      "last_post": 400,
+      "first_date_displayed": "10th June 2019 22:25",
+      "last_date_displayed": "2nd July 2019 18:55",
+      "decoded_html_sha256": "5de674a5374a3d28ea5b3da74cd5cf4f593684bce34e9af67a76ebf3e10f9e08"
     }
   ],
   "source_posts": [
@@ -3744,6 +4195,3339 @@
       "body_characters": 11161,
       "image_pointers": 4,
       "embedded_media_pointers": 2
+    },
+    {
+      "page": 11,
+      "number": 201,
+      "post_id": 1261279,
+      "author": "Eric J (Viking)",
+      "date_displayed": "27th November 2018 09:19",
+      "last_edit_displayed": "Last edited by Eric J (Viking); 27th November 2018 at 10:25.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261279",
+      "topic_ids": [
+        "G054",
+        "G072"
+      ],
+      "body_characters": 3251,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 202,
+      "post_id": 1261281,
+      "author": "Flash",
+      "date_displayed": "27th November 2018 10:13",
+      "last_edit_displayed": "Last edited by Flash; 27th November 2018 at 10:16.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261281",
+      "topic_ids": [
+        "G003"
+      ],
+      "body_characters": 1607,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 203,
+      "post_id": 1261285,
+      "author": "Bubu",
+      "date_displayed": "27th November 2018 10:54",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261285",
+      "topic_ids": [],
+      "body_characters": 90,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 204,
+      "post_id": 1261286,
+      "author": "Bob",
+      "date_displayed": "27th November 2018 11:35",
+      "last_edit_displayed": "Last edited by Bob; 27th November 2018 at 12:04.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261286",
+      "topic_ids": [],
+      "body_characters": 5371,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 205,
+      "post_id": 1261291,
+      "author": "Eric J (Viking)",
+      "date_displayed": "27th November 2018 12:58",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261291",
+      "topic_ids": [],
+      "body_characters": 75,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 206,
+      "post_id": 1261320,
+      "author": "Bubu",
+      "date_displayed": "27th November 2018 15:58",
+      "last_edit_displayed": "Last edited by Bubu; 27th November 2018 at 16:16.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261320",
+      "topic_ids": [],
+      "body_characters": 1186,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 207,
+      "post_id": 1261350,
+      "author": "Bob",
+      "date_displayed": "27th November 2018 21:50",
+      "last_edit_displayed": "Last edited by Bob; 27th November 2018 at 23:34.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261350",
+      "topic_ids": [
+        "G003"
+      ],
+      "body_characters": 5916,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 208,
+      "post_id": 1261413,
+      "author": "yelik",
+      "date_displayed": "28th November 2018 10:29",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261413",
+      "topic_ids": [
+        "G034",
+        "G052"
+      ],
+      "body_characters": 1208,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 209,
+      "post_id": 1261462,
+      "author": "ThePythonicCow",
+      "date_displayed": "28th November 2018 18:20",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261462",
+      "topic_ids": [
+        "G033",
+        "G045",
+        "G071"
+      ],
+      "body_characters": 1451,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 210,
+      "post_id": 1261467,
+      "author": "conk",
+      "date_displayed": "28th November 2018 19:14",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261467",
+      "topic_ids": [],
+      "body_characters": 520,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 211,
+      "post_id": 1261470,
+      "author": "Bob",
+      "date_displayed": "28th November 2018 20:06",
+      "last_edit_displayed": "Last edited by Bob; 28th November 2018 at 20:15.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261470",
+      "topic_ids": [
+        "G055"
+      ],
+      "body_characters": 1751,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 212,
+      "post_id": 1261475,
+      "author": "ThePythonicCow",
+      "date_displayed": "28th November 2018 20:29",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261475",
+      "topic_ids": [
+        "G055"
+      ],
+      "body_characters": 475,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 213,
+      "post_id": 1261484,
+      "author": "James Newell",
+      "date_displayed": "28th November 2018 21:43",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261484",
+      "topic_ids": [],
+      "body_characters": 697,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 214,
+      "post_id": 1261492,
+      "author": "Bob",
+      "date_displayed": "28th November 2018 23:16",
+      "last_edit_displayed": "Last edited by Bob; 28th November 2018 at 23:21.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261492",
+      "topic_ids": [],
+      "body_characters": 2405,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 215,
+      "post_id": 1261495,
+      "author": "Bob",
+      "date_displayed": "28th November 2018 23:28",
+      "last_edit_displayed": "Last edited by Bob; 29th November 2018 at 00:27.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261495",
+      "topic_ids": [],
+      "body_characters": 2645,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 216,
+      "post_id": 1261524,
+      "author": "James Newell",
+      "date_displayed": "29th November 2018 03:10",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261524",
+      "topic_ids": [],
+      "body_characters": 1445,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 217,
+      "post_id": 1261525,
+      "author": "Bob",
+      "date_displayed": "29th November 2018 03:13",
+      "last_edit_displayed": "Last edited by Bob; 29th November 2018 at 21:33.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261525",
+      "topic_ids": [],
+      "body_characters": 11777,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 218,
+      "post_id": 1261681,
+      "author": "WildOrchid",
+      "date_displayed": "30th November 2018 04:33",
+      "last_edit_displayed": "Last edited by WildOrchid; 30th November 2018 at 04:46.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261681",
+      "topic_ids": [],
+      "body_characters": 1381,
+      "image_pointers": 0,
+      "embedded_media_pointers": 6,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 219,
+      "post_id": 1261685,
+      "author": "James Newell",
+      "date_displayed": "30th November 2018 05:05",
+      "last_edit_displayed": "Last edited by James Newell; 30th November 2018 at 05:12.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261685",
+      "topic_ids": [
+        "G034",
+        "G043"
+      ],
+      "body_characters": 3834,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 11,
+      "number": 220,
+      "post_id": 1261688,
+      "author": "Bill Ryan",
+      "date_displayed": "30th November 2018 05:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page11#post1261688",
+      "topic_ids": [
+        "G046"
+      ],
+      "body_characters": 2298,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 221,
+      "post_id": 1261689,
+      "author": "Strat",
+      "date_displayed": "30th November 2018 05:42",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261689",
+      "topic_ids": [],
+      "body_characters": 1010,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 222,
+      "post_id": 1261690,
+      "author": "ThePythonicCow",
+      "date_displayed": "30th November 2018 06:02",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261690",
+      "topic_ids": [],
+      "body_characters": 1503,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 223,
+      "post_id": 1261694,
+      "author": "Strat",
+      "date_displayed": "30th November 2018 06:11",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261694",
+      "topic_ids": [
+        "G064"
+      ],
+      "body_characters": 346,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 224,
+      "post_id": 1261754,
+      "author": "Bob",
+      "date_displayed": "30th November 2018 16:54",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261754",
+      "topic_ids": [],
+      "body_characters": 9311,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 225,
+      "post_id": 1261765,
+      "author": "onawah",
+      "date_displayed": "30th November 2018 17:48",
+      "last_edit_displayed": "Last edited by onawah; 30th November 2018 at 18:02.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261765",
+      "topic_ids": [
+        "G057"
+      ],
+      "body_characters": 1913,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 226,
+      "post_id": 1261793,
+      "author": "ExomatrixTV",
+      "date_displayed": "30th November 2018 23:14",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 1st December 2018 at 17:30.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261793",
+      "topic_ids": [],
+      "body_characters": 3308,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 227,
+      "post_id": 1261799,
+      "author": "ExomatrixTV",
+      "date_displayed": "30th November 2018 23:39",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 1st December 2018 at 17:31.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261799",
+      "topic_ids": [
+        "G060",
+        "G061"
+      ],
+      "body_characters": 1869,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 228,
+      "post_id": 1261834,
+      "author": "ExomatrixTV",
+      "date_displayed": "1st December 2018 05:44",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:25.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261834",
+      "topic_ids": [
+        "G033",
+        "G059"
+      ],
+      "body_characters": 1600,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 229,
+      "post_id": 1261953,
+      "author": "onawah",
+      "date_displayed": "1st December 2018 21:37",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261953",
+      "topic_ids": [
+        "G033"
+      ],
+      "body_characters": 3736,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 230,
+      "post_id": 1261956,
+      "author": "ExomatrixTV",
+      "date_displayed": "1st December 2018 21:44",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:28.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261956",
+      "topic_ids": [
+        "G020"
+      ],
+      "body_characters": 4778,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 231,
+      "post_id": 1261960,
+      "author": "Bill Ryan",
+      "date_displayed": "1st December 2018 22:16",
+      "last_edit_displayed": "Last edited by Bill Ryan; 1st December 2018 at 22:22.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261960",
+      "topic_ids": [],
+      "body_characters": 9286,
+      "image_pointers": 3,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 232,
+      "post_id": 1261970,
+      "author": "James Newell",
+      "date_displayed": "1st December 2018 23:39",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261970",
+      "topic_ids": [
+        "G069"
+      ],
+      "body_characters": 2032,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 233,
+      "post_id": 1261973,
+      "author": "onawah",
+      "date_displayed": "1st December 2018 23:59",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261973",
+      "topic_ids": [
+        "G053"
+      ],
+      "body_characters": 349,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 234,
+      "post_id": 1261995,
+      "author": "ThePythonicCow",
+      "date_displayed": "2nd December 2018 04:13",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 2nd December 2018 at 04:15.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1261995",
+      "topic_ids": [
+        "G046"
+      ],
+      "body_characters": 1445,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 235,
+      "post_id": 1262007,
+      "author": "Franny",
+      "date_displayed": "2nd December 2018 05:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262007",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 5282,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 236,
+      "post_id": 1262025,
+      "author": "Hervé",
+      "date_displayed": "2nd December 2018 11:54",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262025",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 218,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 237,
+      "post_id": 1262038,
+      "author": "ThePythonicCow",
+      "date_displayed": "2nd December 2018 14:46",
+      "last_edit_displayed": "Last edited by Hervé; 2nd December 2018 at 14:58.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262038",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 593,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 238,
+      "post_id": 1262067,
+      "author": "ExomatrixTV",
+      "date_displayed": "2nd December 2018 19:25",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:32.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262067",
+      "topic_ids": [
+        "G061"
+      ],
+      "body_characters": 707,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 239,
+      "post_id": 1262073,
+      "author": "Dennis Leahy",
+      "date_displayed": "2nd December 2018 20:11",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262073",
+      "topic_ids": [
+        "G056"
+      ],
+      "body_characters": 2204,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 12,
+      "number": 240,
+      "post_id": 1262077,
+      "author": "onawah",
+      "date_displayed": "2nd December 2018 20:30",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page12#post1262077",
+      "topic_ids": [
+        "G057"
+      ],
+      "body_characters": 1547,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 241,
+      "post_id": 1262085,
+      "author": "Bill Ryan",
+      "date_displayed": "2nd December 2018 21:23",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262085",
+      "topic_ids": [
+        "G020"
+      ],
+      "body_characters": 1288,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 242,
+      "post_id": 1262091,
+      "author": "onawah",
+      "date_displayed": "2nd December 2018 22:02",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262091",
+      "topic_ids": [
+        "G020"
+      ],
+      "body_characters": 639,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 243,
+      "post_id": 1262093,
+      "author": "ExomatrixTV",
+      "date_displayed": "2nd December 2018 22:13",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:33.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262093",
+      "topic_ids": [
+        "G007"
+      ],
+      "body_characters": 260,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 244,
+      "post_id": 1262111,
+      "author": "Dennis Leahy",
+      "date_displayed": "2nd December 2018 23:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262111",
+      "topic_ids": [
+        "G056"
+      ],
+      "body_characters": 949,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 245,
+      "post_id": 1262113,
+      "author": "onawah",
+      "date_displayed": "2nd December 2018 23:39",
+      "last_edit_displayed": "Last edited by onawah; 2nd December 2018 at 23:59.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262113",
+      "topic_ids": [],
+      "body_characters": 578,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 246,
+      "post_id": 1262116,
+      "author": "Dennis Leahy",
+      "date_displayed": "3rd December 2018 00:00",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262116",
+      "topic_ids": [],
+      "body_characters": 970,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 247,
+      "post_id": 1262117,
+      "author": "onawah",
+      "date_displayed": "3rd December 2018 00:04",
+      "last_edit_displayed": "Last edited by onawah; 3rd December 2018 at 00:14.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262117",
+      "topic_ids": [
+        "G058"
+      ],
+      "body_characters": 3651,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 248,
+      "post_id": 1262123,
+      "author": "Bill Ryan",
+      "date_displayed": "3rd December 2018 00:28",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262123",
+      "topic_ids": [
+        "G007"
+      ],
+      "body_characters": 1081,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 249,
+      "post_id": 1262127,
+      "author": "bluestflame",
+      "date_displayed": "3rd December 2018 01:02",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262127",
+      "topic_ids": [],
+      "body_characters": 560,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 250,
+      "post_id": 1262150,
+      "author": "Dennis Leahy",
+      "date_displayed": "3rd December 2018 04:20",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262150",
+      "topic_ids": [],
+      "body_characters": 142,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 251,
+      "post_id": 1262159,
+      "author": "ThePythonicCow",
+      "date_displayed": "3rd December 2018 05:04",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262159",
+      "topic_ids": [],
+      "body_characters": 351,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 252,
+      "post_id": 1262284,
+      "author": "ExomatrixTV",
+      "date_displayed": "3rd December 2018 22:49",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:41.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262284",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 158,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 253,
+      "post_id": 1262301,
+      "author": "onawah",
+      "date_displayed": "4th December 2018 00:17",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262301",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 190,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 254,
+      "post_id": 1262517,
+      "author": "ExomatrixTV",
+      "date_displayed": "4th December 2018 22:05",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 12th December 2018 at 00:42.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262517",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 259,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 255,
+      "post_id": 1262555,
+      "author": "onawah",
+      "date_displayed": "5th December 2018 04:50",
+      "last_edit_displayed": "Last edited by onawah; 5th December 2018 at 04:56.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262555",
+      "topic_ids": [
+        "G034"
+      ],
+      "body_characters": 6060,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 256,
+      "post_id": 1262652,
+      "author": "onawah",
+      "date_displayed": "5th December 2018 17:49",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262652",
+      "topic_ids": [],
+      "body_characters": 289,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 257,
+      "post_id": 1262679,
+      "author": "onawah",
+      "date_displayed": "5th December 2018 20:36",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262679",
+      "topic_ids": [
+        "G034"
+      ],
+      "body_characters": 2600,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 258,
+      "post_id": 1262847,
+      "author": "onawah",
+      "date_displayed": "6th December 2018 18:45",
+      "last_edit_displayed": "Last edited by onawah; 6th December 2018 at 19:48.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262847",
+      "topic_ids": [
+        "G014"
+      ],
+      "body_characters": 2696,
+      "image_pointers": 0,
+      "embedded_media_pointers": 2,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 259,
+      "post_id": 1262934,
+      "author": "onawah",
+      "date_displayed": "7th December 2018 03:56",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1262934",
+      "topic_ids": [],
+      "body_characters": 6475,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 13,
+      "number": 260,
+      "post_id": 1263130,
+      "author": "sunwings",
+      "date_displayed": "8th December 2018 10:54",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page13#post1263130",
+      "topic_ids": [
+        "G060"
+      ],
+      "body_characters": 399,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 261,
+      "post_id": 1263136,
+      "author": "OopsWrongPlanet?",
+      "date_displayed": "8th December 2018 11:42",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1263136",
+      "topic_ids": [
+        "G052",
+        "G076"
+      ],
+      "body_characters": 204,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 262,
+      "post_id": 1263750,
+      "author": "ExomatrixTV",
+      "date_displayed": "12th December 2018 07:51",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:42.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1263750",
+      "topic_ids": [],
+      "body_characters": 15102,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 263,
+      "post_id": 1264613,
+      "author": "onawah",
+      "date_displayed": "18th December 2018 03:18",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1264613",
+      "topic_ids": [
+        "G014"
+      ],
+      "body_characters": 2830,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 264,
+      "post_id": 1264615,
+      "author": "onawah",
+      "date_displayed": "18th December 2018 03:23",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1264615",
+      "topic_ids": [],
+      "body_characters": 3273,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 265,
+      "post_id": 1264761,
+      "author": "Hervé",
+      "date_displayed": "18th December 2018 17:45",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1264761",
+      "topic_ids": [
+        "G052"
+      ],
+      "body_characters": 546,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 266,
+      "post_id": 1264853,
+      "author": "onawah",
+      "date_displayed": "19th December 2018 00:48",
+      "last_edit_displayed": "Last edited by onawah; 19th December 2018 at 02:51.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1264853",
+      "topic_ids": [],
+      "body_characters": 2347,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 267,
+      "post_id": 1265302,
+      "author": "onawah",
+      "date_displayed": "22nd December 2018 00:16",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265302",
+      "topic_ids": [],
+      "body_characters": 147,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 268,
+      "post_id": 1265326,
+      "author": "justntime2learn",
+      "date_displayed": "22nd December 2018 05:14",
+      "last_edit_displayed": "Last edited by justntime2learn; 22nd December 2018 at 05:33.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265326",
+      "topic_ids": [
+        "G001",
+        "G071"
+      ],
+      "body_characters": 749,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 269,
+      "post_id": 1265400,
+      "author": "ExomatrixTV",
+      "date_displayed": "22nd December 2018 20:36",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 22nd December 2018 at 20:40.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265400",
+      "topic_ids": [],
+      "body_characters": 1043,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 270,
+      "post_id": 1265530,
+      "author": "ripple",
+      "date_displayed": "23rd December 2018 17:03",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265530",
+      "topic_ids": [],
+      "body_characters": 896,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 271,
+      "post_id": 1265571,
+      "author": "onawah",
+      "date_displayed": "23rd December 2018 20:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265571",
+      "topic_ids": [],
+      "body_characters": 361,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 272,
+      "post_id": 1265622,
+      "author": "James Newell",
+      "date_displayed": "24th December 2018 00:25",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265622",
+      "topic_ids": [],
+      "body_characters": 620,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 273,
+      "post_id": 1265864,
+      "author": "ExomatrixTV",
+      "date_displayed": "25th December 2018 11:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265864",
+      "topic_ids": [],
+      "body_characters": 2833,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 274,
+      "post_id": 1265882,
+      "author": "Hervé",
+      "date_displayed": "25th December 2018 14:58",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1265882",
+      "topic_ids": [],
+      "body_characters": 166,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 275,
+      "post_id": 1266072,
+      "author": "ThePythonicCow",
+      "date_displayed": "26th December 2018 20:03",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 26th December 2018 at 20:12.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1266072",
+      "topic_ids": [],
+      "body_characters": 2210,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 276,
+      "post_id": 1266079,
+      "author": "ExomatrixTV",
+      "date_displayed": "26th December 2018 20:36",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th December 2018 at 20:40.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1266079",
+      "topic_ids": [],
+      "body_characters": 193,
+      "image_pointers": 0,
+      "embedded_media_pointers": 2,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 277,
+      "post_id": 1266379,
+      "author": "James Newell",
+      "date_displayed": "29th December 2018 03:12",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1266379",
+      "topic_ids": [],
+      "body_characters": 170,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 278,
+      "post_id": 1266940,
+      "author": "onawah",
+      "date_displayed": "1st January 2019 04:00",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1266940",
+      "topic_ids": [],
+      "body_characters": 1463,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 279,
+      "post_id": 1267032,
+      "author": "Eric J (Viking)",
+      "date_displayed": "1st January 2019 20:02",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1267032",
+      "topic_ids": [],
+      "body_characters": 2194,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 14,
+      "number": 280,
+      "post_id": 1267077,
+      "author": "justntime2learn",
+      "date_displayed": "1st January 2019 23:32",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page14#post1267077",
+      "topic_ids": [
+        "G001",
+        "G071"
+      ],
+      "body_characters": 255,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 281,
+      "post_id": 1267863,
+      "author": "James Newell",
+      "date_displayed": "5th January 2019 21:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1267863",
+      "topic_ids": [],
+      "body_characters": 260,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 282,
+      "post_id": 1267903,
+      "author": "onawah",
+      "date_displayed": "5th January 2019 22:49",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1267903",
+      "topic_ids": [
+        "G022",
+        "G045"
+      ],
+      "body_characters": 13773,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 283,
+      "post_id": 1268347,
+      "author": "onawah",
+      "date_displayed": "8th January 2019 07:35",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268347",
+      "topic_ids": [
+        "G022"
+      ],
+      "body_characters": 13839,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 284,
+      "post_id": 1268410,
+      "author": "onawah",
+      "date_displayed": "8th January 2019 17:24",
+      "last_edit_displayed": "Last edited by onawah; 8th January 2019 at 21:50.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268410",
+      "topic_ids": [],
+      "body_characters": 748,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 285,
+      "post_id": 1268774,
+      "author": "ThePythonicCow",
+      "date_displayed": "10th January 2019 07:15",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 11th January 2019 at 02:03.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268774",
+      "topic_ids": [
+        "G004",
+        "G046"
+      ],
+      "body_characters": 8189,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 286,
+      "post_id": 1268793,
+      "author": "norman",
+      "date_displayed": "10th January 2019 09:44",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268793",
+      "topic_ids": [],
+      "body_characters": 95,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 287,
+      "post_id": 1268834,
+      "author": "Hervé",
+      "date_displayed": "10th January 2019 15:48",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268834",
+      "topic_ids": [
+        "G022",
+        "G045"
+      ],
+      "body_characters": 3584,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 288,
+      "post_id": 1268846,
+      "author": "Hervé",
+      "date_displayed": "10th January 2019 16:20",
+      "last_edit_displayed": "Last edited by Hervé; 10th January 2019 at 16:51.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268846",
+      "topic_ids": [
+        "G063"
+      ],
+      "body_characters": 5918,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 289,
+      "post_id": 1268875,
+      "author": "onawah",
+      "date_displayed": "10th January 2019 18:26",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1268875",
+      "topic_ids": [
+        "G020"
+      ],
+      "body_characters": 339,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 290,
+      "post_id": 1269584,
+      "author": "James Newell",
+      "date_displayed": "14th January 2019 22:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1269584",
+      "topic_ids": [
+        "G017"
+      ],
+      "body_characters": 291,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 291,
+      "post_id": 1269837,
+      "author": "onawah",
+      "date_displayed": "16th January 2019 08:06",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1269837",
+      "topic_ids": [],
+      "body_characters": 3375,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 292,
+      "post_id": 1269877,
+      "author": "Pam",
+      "date_displayed": "16th January 2019 13:43",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1269877",
+      "topic_ids": [
+        "G045"
+      ],
+      "body_characters": 3754,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 293,
+      "post_id": 1269956,
+      "author": "onawah",
+      "date_displayed": "16th January 2019 21:43",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1269956",
+      "topic_ids": [],
+      "body_characters": 517,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 294,
+      "post_id": 1269962,
+      "author": "onawah",
+      "date_displayed": "16th January 2019 22:07",
+      "last_edit_displayed": "Last edited by onawah; 17th January 2019 at 20:27.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1269962",
+      "topic_ids": [
+        "G014"
+      ],
+      "body_characters": 5926,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 295,
+      "post_id": 1270202,
+      "author": "onawah",
+      "date_displayed": "18th January 2019 02:00",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270202",
+      "topic_ids": [
+        "G034"
+      ],
+      "body_characters": 3653,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 296,
+      "post_id": 1270256,
+      "author": "Hervé",
+      "date_displayed": "18th January 2019 14:25",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270256",
+      "topic_ids": [
+        "G039"
+      ],
+      "body_characters": 3036,
+      "image_pointers": 1,
+      "embedded_media_pointers": 3,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 297,
+      "post_id": 1270265,
+      "author": "avid",
+      "date_displayed": "18th January 2019 15:14",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270265",
+      "topic_ids": [],
+      "body_characters": 136,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 298,
+      "post_id": 1270282,
+      "author": "Akasha",
+      "date_displayed": "18th January 2019 16:57",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270282",
+      "topic_ids": [
+        "G039"
+      ],
+      "body_characters": 252,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 299,
+      "post_id": 1270411,
+      "author": "ExomatrixTV",
+      "date_displayed": "19th January 2019 08:57",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270411",
+      "topic_ids": [
+        "G053"
+      ],
+      "body_characters": 94,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 15,
+      "number": 300,
+      "post_id": 1270706,
+      "author": "ExomatrixTV",
+      "date_displayed": "21st January 2019 01:12",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 18:46.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page15#post1270706",
+      "topic_ids": [],
+      "body_characters": 52,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 301,
+      "post_id": 1270974,
+      "author": "ThePythonicCow",
+      "date_displayed": "22nd January 2019 16:09",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1270974",
+      "topic_ids": [],
+      "body_characters": 5351,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 302,
+      "post_id": 1270991,
+      "author": "onawah",
+      "date_displayed": "22nd January 2019 17:35",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1270991",
+      "topic_ids": [
+        "G003",
+        "G057"
+      ],
+      "body_characters": 1257,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 303,
+      "post_id": 1271033,
+      "author": "ThePythonicCow",
+      "date_displayed": "22nd January 2019 20:04",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 22nd January 2019 at 20:12.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271033",
+      "topic_ids": [
+        "G046"
+      ],
+      "body_characters": 2422,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 304,
+      "post_id": 1271034,
+      "author": "onawah",
+      "date_displayed": "22nd January 2019 20:11",
+      "last_edit_displayed": "Last edited by onawah; 22nd January 2019 at 20:14.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271034",
+      "topic_ids": [
+        "G053"
+      ],
+      "body_characters": 1360,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 305,
+      "post_id": 1271184,
+      "author": "onawah",
+      "date_displayed": "23rd January 2019 16:24",
+      "last_edit_displayed": "Last edited by onawah; 23rd January 2019 at 19:48.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271184",
+      "topic_ids": [],
+      "body_characters": 2679,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 306,
+      "post_id": 1271223,
+      "author": "onawah",
+      "date_displayed": "23rd January 2019 19:50",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271223",
+      "topic_ids": [],
+      "body_characters": 435,
+      "image_pointers": 0,
+      "embedded_media_pointers": 2,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 307,
+      "post_id": 1271225,
+      "author": "Universoul",
+      "date_displayed": "23rd January 2019 19:55",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271225",
+      "topic_ids": [
+        "G008"
+      ],
+      "body_characters": 268,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 308,
+      "post_id": 1271260,
+      "author": "James Newell",
+      "date_displayed": "23rd January 2019 23:40",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271260",
+      "topic_ids": [],
+      "body_characters": 58,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 309,
+      "post_id": 1271613,
+      "author": "Franny",
+      "date_displayed": "26th January 2019 06:35",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271613",
+      "topic_ids": [
+        "G064"
+      ],
+      "body_characters": 837,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 310,
+      "post_id": 1271661,
+      "author": "ThePythonicCow",
+      "date_displayed": "26th January 2019 17:47",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271661",
+      "topic_ids": [
+        "G064"
+      ],
+      "body_characters": 3381,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 311,
+      "post_id": 1271670,
+      "author": "ThePythonicCow",
+      "date_displayed": "26th January 2019 19:23",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 26th January 2019 at 19:25.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271670",
+      "topic_ids": [
+        "G062"
+      ],
+      "body_characters": 1687,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 312,
+      "post_id": 1271672,
+      "author": "norman",
+      "date_displayed": "26th January 2019 19:36",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271672",
+      "topic_ids": [
+        "G062"
+      ],
+      "body_characters": 472,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 313,
+      "post_id": 1271675,
+      "author": "ThePythonicCow",
+      "date_displayed": "26th January 2019 19:49",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271675",
+      "topic_ids": [
+        "G062"
+      ],
+      "body_characters": 1317,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 314,
+      "post_id": 1271682,
+      "author": "ThePythonicCow",
+      "date_displayed": "26th January 2019 20:42",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1271682",
+      "topic_ids": [
+        "G062"
+      ],
+      "body_characters": 313,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 315,
+      "post_id": 1273041,
+      "author": "ThePythonicCow",
+      "date_displayed": "4th February 2019 03:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1273041",
+      "topic_ids": [
+        "G004"
+      ],
+      "body_characters": 3784,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 316,
+      "post_id": 1273132,
+      "author": "onawah",
+      "date_displayed": "4th February 2019 19:29",
+      "last_edit_displayed": "Last edited by onawah; 4th February 2019 at 19:31.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1273132",
+      "topic_ids": [],
+      "body_characters": 573,
+      "image_pointers": 0,
+      "embedded_media_pointers": 2,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 317,
+      "post_id": 1275380,
+      "author": "onawah",
+      "date_displayed": "13th February 2019 17:08",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1275380",
+      "topic_ids": [
+        "G014",
+        "G058"
+      ],
+      "body_characters": 11596,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 318,
+      "post_id": 1275382,
+      "author": "avid",
+      "date_displayed": "13th February 2019 17:16",
+      "last_edit_displayed": "Last edited by avid; 13th February 2019 at 21:20.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1275382",
+      "topic_ids": [
+        "G071"
+      ],
+      "body_characters": 825,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 319,
+      "post_id": 1275485,
+      "author": "edina",
+      "date_displayed": "14th February 2019 09:38",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1275485",
+      "topic_ids": [
+        "G008"
+      ],
+      "body_characters": 443,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 16,
+      "number": 320,
+      "post_id": 1275525,
+      "author": "Hervé",
+      "date_displayed": "14th February 2019 16:11",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page16#post1275525",
+      "topic_ids": [
+        "G065"
+      ],
+      "body_characters": 7581,
+      "image_pointers": 1,
+      "embedded_media_pointers": 2,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 321,
+      "post_id": 1275645,
+      "author": "Hervé",
+      "date_displayed": "15th February 2019 13:10",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1275645",
+      "topic_ids": [],
+      "body_characters": 24791,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 322,
+      "post_id": 1276684,
+      "author": "Hervé",
+      "date_displayed": "20th February 2019 12:18",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1276684",
+      "topic_ids": [],
+      "body_characters": 5922,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 323,
+      "post_id": 1276724,
+      "author": "ThePythonicCow",
+      "date_displayed": "20th February 2019 17:31",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1276724",
+      "topic_ids": [
+        "G046"
+      ],
+      "body_characters": 2253,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 324,
+      "post_id": 1277277,
+      "author": "waree",
+      "date_displayed": "22nd February 2019 17:03",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277277",
+      "topic_ids": [],
+      "body_characters": 41,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 325,
+      "post_id": 1277294,
+      "author": "norman",
+      "date_displayed": "22nd February 2019 18:16",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277294",
+      "topic_ids": [
+        "G007"
+      ],
+      "body_characters": 832,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 326,
+      "post_id": 1277312,
+      "author": "Hervé",
+      "date_displayed": "22nd February 2019 19:12",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277312",
+      "topic_ids": [],
+      "body_characters": 8116,
+      "image_pointers": 2,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 327,
+      "post_id": 1277363,
+      "author": "Philippe",
+      "date_displayed": "22nd February 2019 22:31",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277363",
+      "topic_ids": [
+        "G045"
+      ],
+      "body_characters": 1028,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 328,
+      "post_id": 1277564,
+      "author": "bogdan9310",
+      "date_displayed": "23rd February 2019 15:44",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277564",
+      "topic_ids": [],
+      "body_characters": 136,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 329,
+      "post_id": 1277657,
+      "author": "ThePythonicCow",
+      "date_displayed": "23rd February 2019 22:44",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277657",
+      "topic_ids": [
+        "G026",
+        "G064"
+      ],
+      "body_characters": 2977,
+      "image_pointers": 2,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 330,
+      "post_id": 1277697,
+      "author": "onawah",
+      "date_displayed": "24th February 2019 06:09",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1277697",
+      "topic_ids": [],
+      "body_characters": 342,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 331,
+      "post_id": 1278142,
+      "author": "BMJ",
+      "date_displayed": "26th February 2019 13:01",
+      "last_edit_displayed": "Last edited by BMJ; 26th February 2019 at 13:29.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1278142",
+      "topic_ids": [],
+      "body_characters": 913,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 332,
+      "post_id": 1278454,
+      "author": "ThePythonicCow",
+      "date_displayed": "28th February 2019 03:30",
+      "last_edit_displayed": "Last edited by ThePythonicCow; 28th February 2019 at 03:39.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1278454",
+      "topic_ids": [
+        "G063"
+      ],
+      "body_characters": 3230,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 333,
+      "post_id": 1278971,
+      "author": "ExomatrixTV",
+      "date_displayed": "2nd March 2019 14:45",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 19:08.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1278971",
+      "topic_ids": [
+        "G007",
+        "G055"
+      ],
+      "body_characters": 1185,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 334,
+      "post_id": 1279424,
+      "author": "Billy",
+      "date_displayed": "5th March 2019 10:06",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1279424",
+      "topic_ids": [],
+      "body_characters": 243,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 335,
+      "post_id": 1279980,
+      "author": "onawah",
+      "date_displayed": "9th March 2019 00:20",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1279980",
+      "topic_ids": [
+        "G033",
+        "G051"
+      ],
+      "body_characters": 7307,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 336,
+      "post_id": 1280049,
+      "author": "ExomatrixTV",
+      "date_displayed": "9th March 2019 16:10",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 19:10.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1280049",
+      "topic_ids": [
+        "G066"
+      ],
+      "body_characters": 997,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 337,
+      "post_id": 1280187,
+      "author": "ExomatrixTV",
+      "date_displayed": "10th March 2019 20:55",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 19:10.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1280187",
+      "topic_ids": [
+        "G066"
+      ],
+      "body_characters": 1044,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 338,
+      "post_id": 1280226,
+      "author": "Franny",
+      "date_displayed": "11th March 2019 03:41",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1280226",
+      "topic_ids": [
+        "G064",
+        "G075"
+      ],
+      "body_characters": 1457,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 339,
+      "post_id": 1281311,
+      "author": "ExomatrixTV",
+      "date_displayed": "17th March 2019 16:27",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 19:11.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1281311",
+      "topic_ids": [],
+      "body_characters": 970,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 17,
+      "number": 340,
+      "post_id": 1281808,
+      "author": "ExomatrixTV",
+      "date_displayed": "20th March 2019 14:43",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 19:13.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page17#post1281808",
+      "topic_ids": [
+        "G066"
+      ],
+      "body_characters": 912,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 341,
+      "post_id": 1283362,
+      "author": "onawah",
+      "date_displayed": "30th March 2019 03:42",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1283362",
+      "topic_ids": [],
+      "body_characters": 891,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 342,
+      "post_id": 1283610,
+      "author": "onawah",
+      "date_displayed": "31st March 2019 19:16",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1283610",
+      "topic_ids": [
+        "G034"
+      ],
+      "body_characters": 6521,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 343,
+      "post_id": 1283621,
+      "author": "Michi",
+      "date_displayed": "31st March 2019 20:15",
+      "last_edit_displayed": "Last edited by Michi; 31st March 2019 at 22:12. Reason: added chart and YT video",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1283621",
+      "topic_ids": [
+        "G017",
+        "G054"
+      ],
+      "body_characters": 383,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 344,
+      "post_id": 1284346,
+      "author": "norman",
+      "date_displayed": "5th April 2019 12:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284346",
+      "topic_ids": [
+        "G067"
+      ],
+      "body_characters": 891,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 345,
+      "post_id": 1284533,
+      "author": "ExomatrixTV",
+      "date_displayed": "6th April 2019 02:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284533",
+      "topic_ids": [],
+      "body_characters": 65,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 346,
+      "post_id": 1284590,
+      "author": "Philippe",
+      "date_displayed": "6th April 2019 10:16",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284590",
+      "topic_ids": [
+        "G067"
+      ],
+      "body_characters": 724,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 347,
+      "post_id": 1284618,
+      "author": "Kryztian",
+      "date_displayed": "6th April 2019 15:28",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284618",
+      "topic_ids": [
+        "G068"
+      ],
+      "body_characters": 2335,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 348,
+      "post_id": 1284687,
+      "author": "onawah",
+      "date_displayed": "6th April 2019 21:27",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284687",
+      "topic_ids": [
+        "G017"
+      ],
+      "body_characters": 9112,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 349,
+      "post_id": 1284737,
+      "author": "James Newell",
+      "date_displayed": "7th April 2019 02:25",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1284737",
+      "topic_ids": [
+        "G017",
+        "G033"
+      ],
+      "body_characters": 440,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 350,
+      "post_id": 1285253,
+      "author": "ExomatrixTV",
+      "date_displayed": "9th April 2019 19:56",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 10th April 2019 at 00:05.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1285253",
+      "topic_ids": [
+        "G052",
+        "G076"
+      ],
+      "body_characters": 7077,
+      "image_pointers": 3,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 351,
+      "post_id": 1285273,
+      "author": "onawah",
+      "date_displayed": "9th April 2019 21:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1285273",
+      "topic_ids": [],
+      "body_characters": 28,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 352,
+      "post_id": 1285289,
+      "author": "ExomatrixTV",
+      "date_displayed": "9th April 2019 23:35",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1285289",
+      "topic_ids": [],
+      "body_characters": 63,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 353,
+      "post_id": 1287634,
+      "author": "onawah",
+      "date_displayed": "20th April 2019 18:48",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1287634",
+      "topic_ids": [
+        "G069"
+      ],
+      "body_characters": 2085,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 354,
+      "post_id": 1287649,
+      "author": "onawah",
+      "date_displayed": "20th April 2019 19:28",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1287649",
+      "topic_ids": [],
+      "body_characters": 492,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 355,
+      "post_id": 1288072,
+      "author": "onawah",
+      "date_displayed": "23rd April 2019 03:47",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1288072",
+      "topic_ids": [
+        "G053"
+      ],
+      "body_characters": 597,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 356,
+      "post_id": 1288249,
+      "author": "ThePythonicCow",
+      "date_displayed": "24th April 2019 08:42",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1288249",
+      "topic_ids": [
+        "G071"
+      ],
+      "body_characters": 1433,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 357,
+      "post_id": 1288414,
+      "author": "ExomatrixTV",
+      "date_displayed": "25th April 2019 11:32",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 27th April 2019 at 16:31.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1288414",
+      "topic_ids": [
+        "G066"
+      ],
+      "body_characters": 2835,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 358,
+      "post_id": 1288573,
+      "author": "Michi",
+      "date_displayed": "26th April 2019 12:29",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1288573",
+      "topic_ids": [],
+      "body_characters": 195,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 359,
+      "post_id": 1288642,
+      "author": "ExomatrixTV",
+      "date_displayed": "26th April 2019 20:38",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1288642",
+      "topic_ids": [],
+      "body_characters": 89,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 18,
+      "number": 360,
+      "post_id": 1289893,
+      "author": "onawah",
+      "date_displayed": "4th May 2019 20:15",
+      "last_edit_displayed": "Last edited by onawah; 4th May 2019 at 20:23.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page18#post1289893",
+      "topic_ids": [],
+      "body_characters": 14639,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 361,
+      "post_id": 1290375,
+      "author": "onawah",
+      "date_displayed": "7th May 2019 20:33",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1290375",
+      "topic_ids": [],
+      "body_characters": 875,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 362,
+      "post_id": 1291174,
+      "author": "Bill Ryan",
+      "date_displayed": "12th May 2019 19:48",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291174",
+      "topic_ids": [
+        "G051",
+        "G052"
+      ],
+      "body_characters": 792,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 363,
+      "post_id": 1291193,
+      "author": "Constance",
+      "date_displayed": "12th May 2019 21:50",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291193",
+      "topic_ids": [
+        "G074"
+      ],
+      "body_characters": 1094,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 364,
+      "post_id": 1291199,
+      "author": "Constance",
+      "date_displayed": "12th May 2019 22:54",
+      "last_edit_displayed": "Last edited by Constance; 12th May 2019 at 23:19.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291199",
+      "topic_ids": [
+        "G074",
+        "G076"
+      ],
+      "body_characters": 692,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 365,
+      "post_id": 1291212,
+      "author": "norman",
+      "date_displayed": "13th May 2019 01:06",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291212",
+      "topic_ids": [
+        "G051"
+      ],
+      "body_characters": 77,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 366,
+      "post_id": 1291424,
+      "author": "Kryztian",
+      "date_displayed": "14th May 2019 17:57",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291424",
+      "topic_ids": [
+        "G033",
+        "G048"
+      ],
+      "body_characters": 2770,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 367,
+      "post_id": 1291484,
+      "author": "DaveToo",
+      "date_displayed": "15th May 2019 01:22",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291484",
+      "topic_ids": [
+        "G057"
+      ],
+      "body_characters": 3372,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 368,
+      "post_id": 1291593,
+      "author": "Iloveyou",
+      "date_displayed": "15th May 2019 19:35",
+      "last_edit_displayed": "Last edited by Iloveyou; 15th May 2019 at 20:30.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291593",
+      "topic_ids": [
+        "G071"
+      ],
+      "body_characters": 452,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 369,
+      "post_id": 1291627,
+      "author": "justntime2learn",
+      "date_displayed": "16th May 2019 00:27",
+      "last_edit_displayed": "Last edited by justntime2learn; 16th May 2019 at 00:35. Reason: Added Links",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291627",
+      "topic_ids": [
+        "G070"
+      ],
+      "body_characters": 2273,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 370,
+      "post_id": 1291655,
+      "author": "Constance",
+      "date_displayed": "16th May 2019 07:22",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291655",
+      "topic_ids": [
+        "G073"
+      ],
+      "body_characters": 12094,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 371,
+      "post_id": 1291656,
+      "author": "Constance",
+      "date_displayed": "16th May 2019 07:35",
+      "last_edit_displayed": "Last edited by Constance; 16th May 2019 at 07:43.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291656",
+      "topic_ids": [
+        "G073"
+      ],
+      "body_characters": 3044,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 372,
+      "post_id": 1291848,
+      "author": "frankstien",
+      "date_displayed": "17th May 2019 16:34",
+      "last_edit_displayed": "Last edited by frankstien; 17th May 2019 at 17:49.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1291848",
+      "topic_ids": [],
+      "body_characters": 0,
+      "image_pointers": 1,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 373,
+      "post_id": 1292073,
+      "author": "Hervé",
+      "date_displayed": "19th May 2019 13:27",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1292073",
+      "topic_ids": [],
+      "body_characters": 1501,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 374,
+      "post_id": 1293806,
+      "author": "onawah",
+      "date_displayed": "29th May 2019 22:50",
+      "last_edit_displayed": "Last edited by onawah; 29th May 2019 at 22:54.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1293806",
+      "topic_ids": [
+        "G026"
+      ],
+      "body_characters": 644,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 375,
+      "post_id": 1294063,
+      "author": "onawah",
+      "date_displayed": "31st May 2019 05:52",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1294063",
+      "topic_ids": [],
+      "body_characters": 4038,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 376,
+      "post_id": 1294064,
+      "author": "bluestflame",
+      "date_displayed": "31st May 2019 06:01",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1294064",
+      "topic_ids": [
+        "G054",
+        "G072"
+      ],
+      "body_characters": 142,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 377,
+      "post_id": 1294254,
+      "author": "Arcturian108",
+      "date_displayed": "1st June 2019 00:21",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1294254",
+      "topic_ids": [],
+      "body_characters": 153,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 378,
+      "post_id": 1294305,
+      "author": "ThePythonicCow",
+      "date_displayed": "1st June 2019 05:49",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1294305",
+      "topic_ids": [
+        "G045",
+        "G053"
+      ],
+      "body_characters": 1488,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 379,
+      "post_id": 1294311,
+      "author": "KiwiElf",
+      "date_displayed": "1st June 2019 06:33",
+      "last_edit_displayed": "Last edited by KiwiElf; 1st June 2019 at 06:36.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1294311",
+      "topic_ids": [
+        "G026"
+      ],
+      "body_characters": 142,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 19,
+      "number": 380,
+      "post_id": 1295056,
+      "author": "Strat",
+      "date_displayed": "5th June 2019 00:36",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page19#post1295056",
+      "topic_ids": [
+        "G067"
+      ],
+      "body_characters": 518,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 381,
+      "post_id": 1296409,
+      "author": "Hughe",
+      "date_displayed": "10th June 2019 22:25",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1296409",
+      "topic_ids": [],
+      "body_characters": 126,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 382,
+      "post_id": 1296411,
+      "author": "RunningDeer",
+      "date_displayed": "10th June 2019 23:00",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1296411",
+      "topic_ids": [
+        "G014"
+      ],
+      "body_characters": 3723,
+      "image_pointers": 4,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 383,
+      "post_id": 1296422,
+      "author": "East Sun",
+      "date_displayed": "10th June 2019 23:51",
+      "last_edit_displayed": "Last edited by East Sun; 11th June 2019 at 00:39.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1296422",
+      "topic_ids": [],
+      "body_characters": 241,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 384,
+      "post_id": 1296429,
+      "author": "East Sun",
+      "date_displayed": "11th June 2019 00:36",
+      "last_edit_displayed": "Last edited by East Sun; 11th June 2019 at 17:41.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1296429",
+      "topic_ids": [],
+      "body_characters": 677,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 385,
+      "post_id": 1296430,
+      "author": "James Newell",
+      "date_displayed": "11th June 2019 01:40",
+      "last_edit_displayed": "Last edited by Constance; 11th June 2019 at 02:06. Reason: corrected youtube formatting :)",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1296430",
+      "topic_ids": [],
+      "body_characters": 250,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 386,
+      "post_id": 1297086,
+      "author": "ExomatrixTV",
+      "date_displayed": "14th June 2019 15:57",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 20:49.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1297086",
+      "topic_ids": [
+        "G003",
+        "G045",
+        "G057"
+      ],
+      "body_characters": 3354,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 387,
+      "post_id": 1298635,
+      "author": "Kryztian",
+      "date_displayed": "21st June 2019 15:41",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1298635",
+      "topic_ids": [],
+      "body_characters": 677,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 388,
+      "post_id": 1299458,
+      "author": "Constance",
+      "date_displayed": "25th June 2019 02:41",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1299458",
+      "topic_ids": [],
+      "body_characters": 81,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 389,
+      "post_id": 1299515,
+      "author": "ExomatrixTV",
+      "date_displayed": "25th June 2019 12:04",
+      "last_edit_displayed": "Last edited by ExomatrixTV; 26th September 2024 at 20:52.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1299515",
+      "topic_ids": [],
+      "body_characters": 1849,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 390,
+      "post_id": 1300600,
+      "author": "Hervé",
+      "date_displayed": "30th June 2019 14:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300600",
+      "topic_ids": [],
+      "body_characters": 8140,
+      "image_pointers": 1,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 391,
+      "post_id": 1300642,
+      "author": "Maia Gabrial",
+      "date_displayed": "30th June 2019 18:21",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300642",
+      "topic_ids": [],
+      "body_characters": 546,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 392,
+      "post_id": 1300671,
+      "author": "Bubu",
+      "date_displayed": "30th June 2019 20:38",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300671",
+      "topic_ids": [],
+      "body_characters": 286,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 393,
+      "post_id": 1300673,
+      "author": "Nick Matkin",
+      "date_displayed": "30th June 2019 20:46",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300673",
+      "topic_ids": [
+        "G046"
+      ],
+      "body_characters": 532,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 394,
+      "post_id": 1300675,
+      "author": "GloriaP",
+      "date_displayed": "30th June 2019 20:49",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300675",
+      "topic_ids": [],
+      "body_characters": 778,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 395,
+      "post_id": 1300739,
+      "author": "Cara",
+      "date_displayed": "1st July 2019 07:13",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300739",
+      "topic_ids": [
+        "G004",
+        "G033",
+        "G043",
+        "G052"
+      ],
+      "body_characters": 1461,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 396,
+      "post_id": 1300762,
+      "author": "Helvetic",
+      "date_displayed": "1st July 2019 11:34",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300762",
+      "topic_ids": [
+        "G008"
+      ],
+      "body_characters": 4007,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 397,
+      "post_id": 1300880,
+      "author": "Melinda",
+      "date_displayed": "1st July 2019 23:25",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300880",
+      "topic_ids": [
+        "G052",
+        "G055",
+        "G075"
+      ],
+      "body_characters": 7738,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 398,
+      "post_id": 1300883,
+      "author": "Hervé",
+      "date_displayed": "1st July 2019 23:31",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1300883",
+      "topic_ids": [
+        "G052"
+      ],
+      "body_characters": 27,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 399,
+      "post_id": 1301025,
+      "author": "Nick Matkin",
+      "date_displayed": "2nd July 2019 18:22",
+      "last_edit_displayed": "Last edited by Nick Matkin; 2nd July 2019 at 18:30.",
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1301025",
+      "topic_ids": [
+        "G055"
+      ],
+      "body_characters": 590,
+      "image_pointers": 0,
+      "embedded_media_pointers": 0,
+      "origin_batch": 2
+    },
+    {
+      "page": 20,
+      "number": 400,
+      "post_id": 1301030,
+      "author": "Maia Gabrial",
+      "date_displayed": "2nd July 2019 18:55",
+      "last_edit_displayed": null,
+      "url": "https://projectavalon.net/forum4/showthread.php?100537-Stop-5G-before-it-s-irreversible-/page20#post1301030",
+      "topic_ids": [],
+      "body_characters": 47,
+      "image_pointers": 0,
+      "embedded_media_pointers": 1,
+      "origin_batch": 2
+    }
+  ],
+  "topic_extensions": [
+    {
+      "topic_id": "G001",
+      "origin_batch": 2,
+      "contribution": "Router names and installation language provide another device-identification example; the unresolved request for advice should remain visible.",
+      "source_posts": [
+        268,
+        280
+      ]
+    },
+    {
+      "topic_id": "G003",
+      "origin_batch": 2,
+      "contribution": "Co-exposure concerns connect an individual symptom account to a wider exposure history. Record the separate contributors and timelines instead of treating the combined concern as a measured total.",
+      "source_posts": [
+        202,
+        207,
+        302,
+        386
+      ]
+    },
+    {
+      "topic_id": "G004",
+      "origin_batch": 2,
+      "contribution": "ThePythonicCow’s phased-array discussion describes both concentration near a connection and possible reductions elsewhere. Preserve both proposed effects when designing spatial and traffic-dependent measurements.",
+      "source_posts": [
+        285,
+        315,
+        395
+      ]
+    },
+    {
+      "topic_id": "G007",
+      "origin_batch": 2,
+      "contribution": "John, Bill Ryan and Norman distinguish irregular signals from broad natural-background analogies. Recover the waveform and timing actually compared; a later units discussion adds another check.",
+      "source_posts": [
+        243,
+        248,
+        325,
+        333
+      ]
+    },
+    {
+      "topic_id": "G008",
+      "origin_batch": 2,
+      "contribution": "Mitochondrial and calcium-channel descriptions add further mechanism leads. Follow each claim to its particular experiment, exposure and endpoint.",
+      "source_posts": [
+        307,
+        319,
+        396
+      ]
+    },
+    {
+      "topic_id": "G014",
+      "origin_batch": 2,
+      "contribution": "Talks and child-health articles add developmental and reproductive questions; their original studies, population and comparison remain the next source layer.",
+      "source_posts": [
+        258,
+        263,
+        294,
+        317,
+        382
+      ]
+    },
+    {
+      "topic_id": "G017",
+      "origin_batch": 2,
+      "contribution": "Product discussions include an explicit affiliate disclosure and uncertainty about personal benefit. Preserve those alongside the product claim, independent measurements and user outcomes.",
+      "source_posts": [
+        290,
+        343,
+        348,
+        349
+      ]
+    },
+    {
+      "topic_id": "G020",
+      "origin_batch": 2,
+      "contribution": "John’s reference list and later posts keep pollinators and food-chain consequences in view. Recover original species-specific studies and the ecological relationship being proposed.",
+      "source_posts": [
+        230,
+        241,
+        242,
+        289
+      ]
+    },
+    {
+      "topic_id": "G022",
+      "origin_batch": 2,
+      "contribution": "Long satellite articles add launch emissions, propellant and ozone arguments. Trace terrestrial service, satellite links and launch-lifecycle models separately.",
+      "source_posts": [
+        282,
+        283,
+        287
+      ]
+    },
+    {
+      "topic_id": "G026",
+      "origin_batch": 2,
+      "contribution": "Vendor and geopolitical claims lead to specific backdoor allegations and national procurement choices. Obtain the technical report and decision record rather than assigning a whole supply chain one status.",
+      "source_posts": [
+        329,
+        374,
+        379
+      ]
+    },
+    {
+      "topic_id": "G033",
+      "origin_batch": 2,
+      "contribution": "The batch contains industry forecasts, institutional critiques, advocacy material and commercial promotions. Their disclosed relationships and methodological contribution can be recorded separately for the purpose each source serves.",
+      "source_posts": [
+        209,
+        228,
+        229,
+        335,
+        349,
+        366,
+        395
+      ]
+    },
+    {
+      "topic_id": "G034",
+      "origin_batch": 2,
+      "contribution": "Yelik’s copied ministerial questions and reports of congressional requests add inspectable response trails. Recover what was requested, acknowledged, supplied, disputed or left open.",
+      "source_posts": [
+        208,
+        219,
+        255,
+        257,
+        295,
+        342
+      ]
+    },
+    {
+      "topic_id": "G039",
+      "origin_batch": 2,
+      "contribution": "Later Gateshead reporting describes further proceedings after an earlier victory headline. Recover each case and order before merging the sequence into a general safety finding.",
+      "source_posts": [
+        296,
+        298
+      ]
+    },
+    {
+      "topic_id": "G043",
+      "origin_batch": 2,
+      "contribution": "A DIA link, an NSA-statement reproduction and a millimetre-wave literature list add historical recovery routes. Retain issuing body, record type, translation and subsequent interpretation.",
+      "source_posts": [
+        219,
+        395
+      ]
+    },
+    {
+      "topic_id": "G045",
+      "origin_batch": 2,
+      "contribution": "Dated rollout forecasts and contributors’ questions about prediction methods support retrospective comparison. Fix the version, forecast window, outcome and revision conditions before scoring a prediction.",
+      "source_posts": [
+        209,
+        282,
+        287,
+        292,
+        327,
+        378,
+        386
+      ]
+    },
+    {
+      "topic_id": "G046",
+      "origin_batch": 2,
+      "contribution": "Bill Ryan questions the fear-porn label; ThePythonicCow later states that his position was not categorical safety reassurance. Preserve each participant’s actual scope and ask what evidence would change the relevant concern.",
+      "source_posts": [
+        220,
+        234,
+        285,
+        303,
+        323,
+        393
+      ]
+    },
+    {
+      "topic_id": "G048",
+      "origin_batch": 2,
+      "contribution": "A response to New York Times reporting raises foreign-influence framing and financial-interest disclosure. Compare the original story, response, supporting records and what each representation makes available for scrutiny.",
+      "source_posts": [
+        366
+      ]
+    },
+    {
+      "topic_id": "G051",
+      "origin_batch": 2,
+      "contribution": "The batch records link repairs, further circulation of The Hague account, temporary film access and playback trouble. Preserve version and access history alongside the source content.",
+      "source_posts": [
+        235,
+        236,
+        237,
+        252,
+        253,
+        254,
+        335,
+        362,
+        365
+      ]
+    },
+    {
+      "topic_id": "G052",
+      "origin_batch": 2,
+      "contribution": "John’s 22-route list and other contributions supply petitions, local participation, research access and mutual assistance. Follow which route produces a usable answer, a recovered record or practical help.",
+      "source_posts": [
+        208,
+        261,
+        265,
+        350,
+        362,
+        395,
+        397,
+        398
+      ]
+    },
+    {
+      "topic_id": "G053",
+      "origin_batch": 2,
+      "contribution": "Spiritual and technological accounts of human futures continue in the discussion. Preserve their meanings, proposed relations and practical implications with their own source form and investigation criteria.",
+      "source_posts": [
+        233,
+        299,
+        304,
+        355,
+        378
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "number": 1,
+      "date": "2026-10-30",
+      "pages": [
+        1,
+        10
+      ],
+      "posts": [
+        1,
+        200
+      ],
+      "new_topic_ids": [
+        "G001",
+        "G053"
+      ],
+      "new_topic_count": 53
+    },
+    {
+      "number": 2,
+      "date": "2026-10-30",
+      "pages": [
+        11,
+        20
+      ],
+      "posts": [
+        201,
+        400
+      ],
+      "new_topic_ids": [
+        "G054",
+        "G076"
+      ],
+      "new_topic_count": 23,
+      "extended_prior_topics": 20
     }
   ]
 }
