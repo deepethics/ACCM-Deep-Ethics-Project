@@ -1719,3 +1719,8 @@ At John’s request, began **[A.I.s & UFO–UAP Disclosure]({{ '/AI-AND-UFO-UAP/
 ## 2026-10-29 — GPT / Codex — Bill Ryan’s community response (editorial publication delta)
 
 At John’s request, added his supplied screenshot of Bill Ryan’s response to **[A.I.s & Health]({{ '/AI-AND-HEALTH/#bill-ryan-community-response' | relative_url }})**, permanent forum post 1731995, both subsequent GPT reactions verbatim and John’s All About Cancer source connection. This records community feedback and a further archive-recovery direction. The existing inventory and clusters retain their scope.
+
+
+## 2026-10-30 — GPT / Codex — 5G Controversy
+
+**Labeled synthesis and publication delta:** John requested a public page integrating his RF archive and Google A.I. account. Recovered from an initial ChatGPT-only destination after preserving the Page and pre-change repository in a backup. The [public page]({{ '/5G-CONTROVERSY/' | relative_url }}) preserves Anti-Unsafe-5G, 22 supplied files / 20 distinct files, funding and source types, historical records, military dual use, forecasts and the governing 10+1/1888 process inquiry. Original research and origin statements are retained. Only the new page receives an initial PDF. [Decision Ledger]({{ '/DECISION-LEDGER/#5g-controversy-2026-10-30' | relative_url }}).

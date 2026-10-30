@@ -166,6 +166,7 @@ John’s own records. The public pages above are not a substitute for these.
 ## 5. The topology applied {#topology-applied}
 
 - **[A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }})** — a living inquiry into healthcare decisions, institutional incentives, Symmetric Grace, long-term outcomes and useful correction through the 1888 intelligence-properties taxonomy.
+- **[5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }})** — John Kuhles’s Anti-Unsafe-5G research, RF health and historical records, military dual use, public agency, and process-quality evaluation across agreement and disagreement.
 - **[A.I.s & UFO–UAP Disclosure]({{ '/AI-AND-UFO-UAP/' | relative_url }})** — a growing source-linked inquiry into observation, testimony, archives, science, governance and mass psychology; first batch: 67 topics across pages 1–10, with 18 overlapping clusters.
 - **[Project Avalon]({{ '/PROJECT-AVALON/' | relative_url }})** — Deep Ethical Topological Prompt Engineering™ in a completed archive application, community return and proposed cross-domain transfer programme.
 

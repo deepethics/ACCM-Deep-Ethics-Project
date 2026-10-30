@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-30 — 5G Controversy and publication destination recovery {#5g-controversy-2026-10-30}
+
+John commissioned **5G Controversy** from 22 supplied files and the Google A.I. exchange. The first implementation created a ChatGPT Page instead of the public project page. After John directed attention to the Admin workflow and requested repair, preserved the original Page and pre-change public repository in a recovery backup, then prepared the canonical public page with an index of 20 distinct files, historical RF records, funding disclosures, technical and legal distinctions, military dual-use material, the 10+1/1888 process inquiry and John’s original research and origin statements. Registered navigation, alphabetical discovery, catalogue, reciprocal routes and one initial page PDF. Existing PDF editions retain their dates and bytes. Full mirroring and live verification follow the source. [Open the page]({{ '/5G-CONTROVERSY/' | relative_url }}).
+
 ## 2026-10-29 — Search Engine Bias: discoverability, attribution and correction {#search-engine-bias-2026-10-29}
 
 **Publication correction:** live self-inspection exposed that the purported Firecrawl `site:` failure used a malformed query missing the colon. Withdrew the tool-defect attribution, retained the exact query and correction sequence, and regenerated the materially corrected initial PDF.

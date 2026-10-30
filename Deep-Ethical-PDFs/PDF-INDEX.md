@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 158
+**Public pages exported:** 159
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -10,6 +10,7 @@
 | [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) | [1888.pdf](1888.pdf) | `NETWORK/1888.md` |
 | [27 Correspondence Obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/) | [27-MANNERISMS.pdf](27-MANNERISMS.pdf) | `27-MANNERISMS/index.md` |
 | [27 obstructions of deep ethical sense-making processes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/27-MANNERISMS/source/) | [27-MANNERISMS-source.pdf](27-MANNERISMS-source.pdf) | `27-MANNERISMS/source.md` |
+| [5G Controversy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/5G-CONTROVERSY/) | [5G-CONTROVERSY.pdf](5G-CONTROVERSY.pdf) | `5G-CONTROVERSY.md` |
 | [About the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/) | [ABOUT.pdf](ABOUT.pdf) | `about-site.md` |
 | [Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/) | [ACADEMIA.pdf](ACADEMIA.pdf) | `academia.md` |
 | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) | [ACTIVISM-VS-AI.pdf](ACTIVISM-VS-AI.pdf) | `activism-vs-ai.md` |

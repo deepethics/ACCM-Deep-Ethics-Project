@@ -214,6 +214,7 @@ For search, an adequate answer includes what became easy to see, what became har
 
 ## Related pages
 
+- [5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }}) — conditional safety objections, cumulative exposure, historical records, dual use and process quality.
 - [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — source identity, qualifiers, claim status and correction sequences.
 - [Deep]({{ '/DEEP/' | relative_url }}) — layered search fingerprints, relationships and operational depth.
 - [Flagging System-PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluation, projected incapacity and correction access.

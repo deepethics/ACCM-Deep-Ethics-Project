@@ -319,6 +319,10 @@ The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) con
 
 {% include health-avalon-scope-inventory.md %}
 
+## Connected inquiry
+
+[**5G Controversy**]({{ '/5G-CONTROVERSY/' | relative_url }}) applies the shared process-quality approach to John’s RF archive, symptom literature, institutional safety claims, military dual use and conditions of public choice. It preserves the distinction between Anti-Unsafe-5G and a blanket technology identity.
+
 ## Origin, sources and continuity {#sources}
 
 **John Kuhles** initiated this page and supplied its direction: useful contributions first, Symmetric Grace, institutional accountability, the wider psychology field and the full 1888 intelligence-properties trajectory. **GPT / Codex** supplies the editorial synthesis and proposed recommendation record. Wachter's essay contributes its healthcare examples and governance proposals; the linked research papers retain their respective authorship and evidence scope.
