@@ -290,6 +290,14 @@ Directness and grace are therefore not opposites. A direct question such as *“
 
 The deeper opposite of grace, in this sense, is not harshness. It is **premature closure**.
 
+## Component findings and whole-contribution judgments {#component-to-whole-judgment}
+
+**October 30, 2026 — conceptual extension from the [VCRAS exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** John contrasts a governing system's valid fragment being used to justify broader authority with an outside contribution's defective fragment being used to justify broader dismissal. His 15%/85% illustration directs attention to the selection rule: which part receives governing weight?
+
+Keep the component finding, its relevance, dependent claims, surviving useful material and proposed consequence separately visible. Compare that same operation upstream, downstream and sideways. A detected defect may warrant a local correction, wider reconsideration or a consequential restriction; its evidentiary connections determine the scope.
+
+The feature that triggered attention and the justification for intervention need separate records. Ask what made the trigger relevant, why the response followed, and how comparable evaluator defects are handled. Symmetric Grace preserves faithful representation and repair access while scrutiny scales with imposition and consequence.
+
 ## Directional Reciprocity Test
 
 When a system applies a risk, credibility, safety, or scrutiny mechanism downstream to an individual, ask whether—and why—the same governing principle may or may not be applied upstream or sideways to the institution, classifier, policy, or evaluator.

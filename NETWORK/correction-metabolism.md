@@ -169,6 +169,14 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ---
 
+## Correction must reach the warrant {#correction-of-the-warrant}
+
+**October 30, 2026 — application of the [VCRAS testing and Symmetric Grace exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** An error in a contribution can activate a classifier. If clarification later removes that error or narrows its relevance, inspect the decisions that depended on it: the interpretation, label, restriction, downstream account and practical burden.
+
+Record separately whether each dependent decision was withdrawn, narrowed, retained with another stated warrant, or left unresolved. Follow the surviving useful contribution too: did it regain consideration and usable next moves? A repaired sentence can coexist with an obsolete classification still governing.
+
+Test the next comparable mixed contribution before its eventual outcome is known. Observe whether the evaluator preserves its useful parts, localizes defects, examines dependencies and gives reasons for the resulting action. Retain the original footprint beside the repair so later delta comparison can distinguish acknowledgment, restored options and actual procedural transfer.
+
 ## Related pages
 
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — separates correction testing from self-certification and aligns the evidence demand with the conceptual, Beta, field, or longitudinal stage that can actually produce it.
