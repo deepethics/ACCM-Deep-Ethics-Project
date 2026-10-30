@@ -1724,3 +1724,8 @@ At John’s request, added his supplied screenshot of Bill Ryan’s response to 
 ## 2026-10-30 — GPT / Codex — 5G Controversy
 
 **Labeled synthesis and publication delta:** John requested a public page integrating his RF archive and Google A.I. account. Recovered from an initial ChatGPT-only destination after preserving the Page and pre-change repository in a backup. The [public page]({{ '/5G-CONTROVERSY/' | relative_url }}) preserves Anti-Unsafe-5G, 22 supplied files / 20 distinct files, funding and source types, historical records, military dual use, forecasts and the governing 10+1/1888 process inquiry. Original research and origin statements are retained. Only the new page receives an initial PDF. [Decision Ledger]({{ '/DECISION-LEDGER/#5g-controversy-2026-10-30' | relative_url }}).
+
+
+## 2026-10-30 — GPT / Codex: Stop 5G first scope batch
+
+**Editorial synthesis at John’s request.** Transferred the A.I.s & Health inquiry method to pages 1–10 of the supplied Stop 5G thread: posts #1–200, 53 potential questions G001–G053, seven inquiry areas, contribution specimens, source-recovery leads and connected next-work routes. Preserved the original 5G Controversy page and its supplied-file index; the new inventory is one included section with a 200-post metadata and topic index. Posting dates, subsequent edits, quotations, reposts and source forms remain distinguishable. The next unexamined page is 11. The existing PDF edition retains its actual bytes and date until the established weekly refresh. Full mirroring and deployed-source correspondence are part of this publication. [Open the first batch]({{ '/5G-CONTROVERSY/#fiveg-avalon-scope' | relative_url }}).

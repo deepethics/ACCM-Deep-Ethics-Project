@@ -16,6 +16,8 @@ date: 2026-10-30
 
 **BETA living inquiry · opened 30 October 2026**
 
+[Explore the Project Avalon first batch: pages 1–10, 53 investigation topics](#fiveg-avalon-scope).
+
 **Health, deployment, dual use, public agency and the quality of disagreement and agreement.**
 
 The **[5G](https://www.who.int/news-room/questions-and-answers/item/radiation-5G-mobile-networks-and-health)** (fifth-generation mobile communications) controversy concerns health, cumulative exposure, environmental effects, infrastructure decisions, military applications, surveillance, commercial incentives and public agency. It also concerns how those questions are represented. John Kuhles uses **Anti-Unsafe-5G** to preserve a conditional objection: deployment and safety claims should withstand scrutiny, and safer technical choices should remain open.
@@ -240,6 +242,8 @@ The archive includes earlier forecasts by other authors. Pall’s 127-page repor
 For a later comparison, retain the original claim, its intended time horizon, the population and exposure, the predicted outcome, the evidence used at the time and the observations that would warrant revision. An outcome may support part of a mechanism while changing a forecast’s magnitude, timing or attribution.
 
 John’s original research statement and origin account are preserved in the source record below, dated 30 October 2026.
+
+{% include fiveg-avalon-scope-inventory.md %}
 
 ## Supplied source index
 
