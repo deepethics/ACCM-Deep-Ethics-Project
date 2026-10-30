@@ -16,7 +16,7 @@ date: 2026-10-30
 
 **BETA living inquiry · opened 30 October 2026**
 
-[Explore the Project Avalon inventory: pages 1–40, 116 investigation topics](#fiveg-avalon-scope) · [Open the fourth batch](#fiveg-avalon-batch-04).
+[Explore the Project Avalon inventory: pages 1–50, 136 investigation topics](#fiveg-avalon-scope) · [Open the fifth batch](#fiveg-avalon-batch-05).
 
 **Health, deployment, dual use, public agency and the quality of disagreement and agreement.**
 
