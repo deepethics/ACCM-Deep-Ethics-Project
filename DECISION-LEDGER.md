@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-30 — WikiDeep orientation refresh {#wikideep-refresh-2026-10-30}
+
+At John's request, expanded the [GitHub Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki) from 20 to 24 reader-facing pages, retaining its separate orientation and recovery role. Four new guides connect intelligence properties and 1888; Process Quality Calibration Evaluation, reciprocal scrutiny and DEDDA; longitudinal correction and VCRAS; and controversy inquiry with source recovery. Twelve existing objects received purpose-specific updates, including Home, the sidebar, C1, Topologetics, methods, reading routes and the glossary. C1 now reflects the broader clarification process; Asymmetric Grace retains its diagnostic polarity beside valued Symmetric Grace. All sixteen published texts were compared with the prepared source. The canonical-source hierarchy, attributed records and Grokipedia proposal packet remain available. Wiki restore point before the update: `012751d82c6e1d3d271b751f7ce420c4dfc5c80d`; verified updated Wiki commit: `a7133fe9ace8c32abb7136fad66e899216c2c08b`.
+
 ## 2026-10-30 — Separate 5G embedded-content recovery worklist {#fiveg-embed-recovery-worklist}
 
 At John's request, moved the four embedded-content recovery tables out of the public 5G Controversy inventory into one session-delivered clickable HTML worklist: 51 forum-post entries, with all original forum links, tweet routes and access notes preserved. The final batch's equivalent table had a different heading and is included. The 144-topic map and 1,114 source records remain intact; recovered screenshots or text can support later source-attributed additions. The existing PDF edition retains its date pending weekly maintenance. [Open the inventory]({{ '/5G-CONTROVERSY/#fiveg-avalon-scope' | relative_url }}).
