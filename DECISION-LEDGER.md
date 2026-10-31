@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-10-31 — DeepEthicalOS: Omarchy-hosted prototype path {#deepethicalos-omarchy-2026-10-31}
+
+At John's request, added the [Omarchy-hosted research proposal]({{ '/DEEPETHICALOS/#omarchy-research-prototype' | relative_url }}) as a distinct implementation path. Preserved all ten dialogue contributions, the broader architecture and existing candidate tests. Connected verified Omarchy v4.5.0-rc2 components to the DEANO workspace, case viewer, declared execution profile and software-enforced permissions proposed for development. Retained the ordinary-workspace comparison, material correction, dependent repairs, restart/transfer test and valid no-change case, with version/resource records and portable case packets. John supplies the hybrid question; GPT 6.1 Sol Pro A.I. supplies the engineering assessment and test design. Implementation and trial results remain future work. Existing PDF snapshots and dates remain for the regular refresh; live verification covers source preservation, new routes and complete page mirrors.
+
 ## 2026-10-31 — DeepEthicalOS: correction in use, open loop and navigation {#deepethicalos-open-loop-2026-10-31}
 
 At John's request, added the [further dialogue]({{ '/DEEPETHICALOS/#correction-and-open-loop-2026-10-31' | relative_url }}) verbatim: his supplied longer GPT-attributed quotation from partly different context processing, the response here, his Möbius-loop distinction with “in my view” intact, and the final response. Preserved the four contributions in order, separate speaker/provenance labels and a source transcript; retained all six earlier contribution bodies. Moved the existing DeepEthicalOS top-navigation entry immediately after Superintelligence, with no duplicate. Existing PDF snapshots and dates remain for the regular change-aware refresh. Live checks compare the contribution bodies, navigation order, service cards and complete page mirrors.

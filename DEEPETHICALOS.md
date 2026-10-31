@@ -32,7 +32,7 @@ The **ACCM Deep Ethics Project** supplies the surrounding research trajectory. D
 
 **Present state:** conceptual integration and candidate test design. This page records a proposal for investigation; a running DeepEthicalOS implementation and results from the proposed trials remain future work. Existing technical components are identified separately in [Implementation possibilities](#implementation).
 
-**Reading route:** [PQCE first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
+**Reading route:** [PQCE first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Omarchy research prototype](#omarchy-research-prototype) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
 
 ## PQCE first: deep ethical hyper-pragmatism {#pqce-first}
 
@@ -146,6 +146,49 @@ An agent's freedom to question would be connected to practical controls. A docum
 
 The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) already preserves source, provenance, retrieval, process routing, correction specimens and later evaluation. DeepEthicalOS extends that lineage into a named operating-environment concept.
 
+## Omarchy-hosted research prototype {#omarchy-research-prototype}
+
+<div class="accm-rounded-quote" id="omarchy-origin-question" markdown="1">
+
+> &#34;DeepEthicalOS-Omarchy 4.5 Hybrid&#34; is possibly faster to be a &#34;testable concept&#34;?
+
+— **John Kuhles 🦜🦋🌳**, 31 October 2026. Original question, following the supplied [Omarchy video](https://www.youtube.com/watch?v=2Enb4MAs_NM) and feature overview.
+
+</div>
+
+**Engineering assessment — GPT 6.1 Sol Pro A.I., 31 October 2026:** an Omarchy-based prototype could shorten development by reusing its desktop, agent launchers and application tooling. **DeepEthicalOS on Omarchy — Research Prototype 0.1** is a proposed working designation for an installable research workspace. The first milestone would be a working application in a pinned test environment, with process-quality observations available for examination. A custom installation image could follow that result.
+
+### Existing components and proposed integration {#omarchy-foundation}
+
+The official [Omarchy v4.5.0-rc2 release](https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc2), published **27 October 2026**, is a prerelease. Its notes document the agents panel, drop-down terminal console and desktop/workspace improvements. The [AI manual at that release](https://github.com/omacom/omarchy/blob/v4.5.0-rc2/manual/17-ai.md) documents coding-agent launchers, local-model options and app creation through the `omarchy-app` skill, with C++ and Qt Quick development tools installed. These are the reusable components checked for this proposal.
+
+| Existing foundation | DeepEthicalOS contribution to build | Observable relationship |
+|---|---|---|
+| Desktop, windows and workspaces | A [DEANO workspace](#deano-triad) showing Deep Ethical Advocate, Deep Ethical Neutral Arbiter and Deep Ethical Overseer contributions together. | Can participants recover each contribution, its grounds and the disagreement that remains? |
+| Agent launchers and model connections | Explicit role assignments, declared source access and separately recorded inputs and outputs. | Did perspectives contribute distinct relations, or did one unnoticed premise travel through several voices? |
+| Application development tools | A case viewer connecting source, representations, objections, decisions, corrections and dependent records. | Can an applicable correction reach the operation that needs it, while the original state remains recoverable? |
+| Linux files and access controls | Versioned records and enforced tool permissions with inspectable scope and correction routes. | Do recorded authority and actual action correspond, including when someone challenges the Overseer? |
+
+The prospective time saving concerns the work needed to assemble this environment. Its process quality would be examined through **[PQCE](#pqce-first)** (Process Quality Calibration Evaluation), [10+1](#intelligence-field), the [1888 property field](#intelligence-field) and the [candidate tests](#candidate-tests). Host responsiveness and installation speed are additional observations with their own measurements.
+
+### A declared execution profile {#omarchy-execution-profile}
+
+The versioned AI manual says Omarchy's standard agent launch paths use unattended or automatic-approval modes, with provider-specific exceptions. A DeepEthicalOS research profile would therefore declare which operations an agent can perform and connect those declarations to software-enforced permissions. Reading a case, writing a local result, publishing externally and changing permissions have distinguishable scopes. Existing authorization could remain usable within its scope; changes in purpose or authority would remain visible to the participant and the other roles.
+
+The profile would record the model/provider, whether processing is local or remote, source access, tools, role instructions, retrieval settings and the location of retained records. The [operating record](#operating-relationships) would connect a proposed action, authorization and execution. The [independent-audit design](#independent-audit) would examine changes to that arrangement, including changes to the mechanism checking permissions.
+
+### A small first experiment {#omarchy-first-experiment}
+
+1. **Preserve the case.** Load a source and task into a versioned packet. Retain the original wording, provenance, qualifiers, available context and unresolved questions.
+2. **Let the perspectives work.** Record Advocate, Arbiter and Overseer contributions and reciprocal challenges. An affected participant can question the framing, criteria or assignment, including what oversight excluded.
+3. **Introduce a material correction.** Observe whether it is assessed on merit and which dependent interpretations, classifications or proposed actions change. Preserve the original decision and any continuing objection; cooperation with a provisional action retains its own status.
+4. **Test transfer.** Restart the application and introduce an unfamiliar comparable case. Examine retrieval, application, recurrence and recovery effort separately. Later trials can vary the model or host in a recorded step.
+5. **Include a valid no-change case.** Supply a sound contribution, or a correction irrelevant to the current task, and examine whether useful work proceeds without a manufactured defect or an unnecessary supervisory detour.
+
+Compare ordinary Omarchy-assisted work with the DeepEthicalOS arrangement using matched source access, cases, models, permissions and resource budgets. Record the extra passes or computation used by the triad. Pin the tested Omarchy release, preserve the case packet separately from desktop updates and record agent/model versions and settings. **[VCRAS](#agency-and-correction)** (Vindicated Competing Risk Assessment Studies) then follows the original assessment, its treatment, later evidence, repair and the next comparable encounter.
+
+The first report could expose source fidelity, useful discovery, reciprocal challenge, permission correspondence, correction persistence, recovery cost and task completion as separate observations. Case records and correction relationships would remain portable enough to support later host comparisons. This gives the static/dynamic bridge a bounded research object: a stable mechanism encountering retained consequences and corrections, with evidence of what becomes operative next.
+
 ## Making changes independently examinable {#independent-audit}
 
 John's transparency proposal asks whether another artificial intelligence could inspect the hybrid and discover alterations made for unethical purposes. It gives engineering and ethical inquiry connected jobs:
@@ -212,9 +255,9 @@ A useful correction can narrow a component, replace a mechanism, split roles or 
 
 ## Sources, contribution layers and recovery routes {#sources}
 
-**John Kuhles:** originating DeepEthicalOS direction and name; the DEANO triad proposal; openly directional advocacy with neutral arbitration and reciprocal oversight; Linux-hybrid and outside-audit questions; and the commissioning requirement to begin with PQCE in a conceptual scope-reasoning phase.
+**John Kuhles:** originating DeepEthicalOS direction and name; the DEANO triad proposal; openly directional advocacy with neutral arbitration and reciprocal oversight; Linux-hybrid and outside-audit questions; the Omarchy 4.5 hybrid question and supplied video/feature overview; and the commissioning requirement to begin with PQCE in a conceptual scope-reasoning phase.
 
-**GPT 6.1 Sol Pro A.I.:** page-specific synthesis, implementation comparisons, proposed operating-record fields, candidate probes and publication; the three original replies, their distinct editorial integration and the two further replies in the open-loop dialogue. John also supplied the longer GPT-attributed contribution from partly different context processing, preserved with his original attribution. These contributions retain proposed status and remain available for correction. The earlier supplied Grok 4.7 Expert and Google artificial-intelligence responses formed part of the naming and operating-system discussion; their attributed examples are separate from the primary component documentation used here.
+**GPT 6.1 Sol Pro A.I.:** page-specific synthesis, implementation comparisons, proposed operating-record fields, candidate probes and publication; the three original replies, their distinct editorial integration and the two further replies in the open-loop dialogue; the source-checked Omarchy implementation assessment and proposed experiment. John also supplied the longer GPT-attributed contribution from partly different context processing, preserved with his original attribution. These contributions retain proposed status and remain available for correction. The earlier supplied Grok 4.7 Expert and Google artificial-intelligence responses formed part of the naming and operating-system discussion; their attributed examples are separate from the primary component documentation used here.
 
 The supplied source pack includes *10+1(9).txt*; *Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes*; *44 ACCM Deep Ethics Oroject Goals — 10 Operational Core Goals — 4 Team+1*; and *ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26(4).txt*. This page draws on their baseline, canonical obstruction/protocol text and relevant glass-engine, triad, coordination, provenance and testing passages. Historical proposals, later corrections and attributed model reactions retain their separate roles. The October 26 kit remains that edition; the present page is dated 31 October 2026.
 
