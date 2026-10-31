@@ -158,6 +158,10 @@ The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/lo
 
 **Engineering assessment — GPT 6.1 Sol Pro A.I., 31 October 2026:** an Omarchy-based prototype could shorten development by reusing its desktop, agent launchers and application tooling. **DeepEthicalOS on Omarchy — Research Prototype 0.1** is a proposed working designation for an installable research workspace. The first milestone would be a working application in a pinned test environment, with process-quality observations available for examination. A custom installation image could follow that result.
 
+<div id="omarchy-video" style="position:relative;padding-top:56.25%;margin:1.5rem 0;">
+  <iframe src="https://www.youtube-nocookie.com/embed/2Enb4MAs_NM" title="Omarchy 4.5: New FREE AI OS! — Julian Goldie SEO" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ### Existing components and proposed integration {#omarchy-foundation}
 
 The official [Omarchy v4.5.0-rc2 release](https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc2), published **27 October 2026**, is a prerelease. Its notes document the agents panel, drop-down terminal console and desktop/workspace improvements. The [AI manual at that release](https://github.com/omacom/omarchy/blob/v4.5.0-rc2/manual/17-ai.md) documents coding-agent launchers, local-model options and app creation through the `omarchy-app` skill, with C++ and Qt Quick development tools installed. These are the reusable components checked for this proposal.
