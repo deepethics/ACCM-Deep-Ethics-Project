@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 159
+**Public pages exported:** 160
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -50,6 +50,7 @@
 | [Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/) | [DEEP-THINKERS.pdf](DEEP-THINKERS.pdf) | `deep-thinkers.md` |
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |
+| [DeepEthicalOS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPETHICALOS/) | [DEEPETHICALOS.pdf](DEEPETHICALOS.pdf) | `DEEPETHICALOS.md` |
 | [Emergent — Which Properties Are We Harnessing?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) | [EMERGENT.pdf](EMERGENT.pdf) | `emergent.md` |
 | [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) | [EXPERIMENTS.pdf](EXPERIMENTS.pdf) | `EXPERIMENTS/index.md` |
 | [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/) | [EXPERIMENTS-blinded-topic-comparison.pdf](EXPERIMENTS-blinded-topic-comparison.pdf) | `EXPERIMENTS/blinded-topic-comparison.md` |
