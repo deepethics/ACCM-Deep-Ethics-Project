@@ -32,7 +32,7 @@ The **ACCM Deep Ethics Project** supplies the surrounding research trajectory. D
 
 **Present state:** conceptual integration and candidate test design. This page records a proposal for investigation; a running DeepEthicalOS implementation and results from the proposed trials remain future work. Existing technical components are identified separately in [Implementation possibilities](#implementation).
 
-**Reading route:** [PQCE first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Omarchy research prototype](#omarchy-research-prototype) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
+**Reading route:** [PQCE first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Omarchy research prototype](#omarchy-research-prototype) · [Fury, WiCi and Herdr](#local-compute-field) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
 
 ## PQCE first: deep ethical hyper-pragmatism {#pqce-first}
 
@@ -193,6 +193,67 @@ Compare ordinary Omarchy-assisted work with the DeepEthicalOS arrangement using 
 
 The first report could expose source fidelity, useful discovery, reciprocal challenge, permission correspondence, correction persistence, recovery cost and task completion as separate observations. Case records and correction relationships would remain portable enough to support later host comparisons. This gives the static/dynamic bridge a bounded research object: a stable mechanism encountering retained consequences and corrections, with evidence of what becomes operative next.
 
+
+## Shared local compute — Fury, WiCi and Herdr {#local-compute-field}
+
+**Inquiry introduced by John Kuhles; source checks and conceptual integration by GPT 6.1 Sol Pro A.I., 31 October 2026.** These implementation candidates extend the [Omarchy prototype](#omarchy-research-prototype) into two scales of local computing: a shared inference station and a nearby accelerator serving personal devices. Their contribution can be investigated through the same source, authority, attention and correction relationships already developed on this page.
+
+### ZGX Fury: a shared inference laboratory {#zgx-fury}
+
+The [HP ZGX Fury specification](https://h20195.www2.hp.com/v2/GetPDF.aspx/c09307810) identifies a GB300 Grace Blackwell Ultra system with a 72-core Grace CPU and **748 GB of coherent memory**. That comprises **252 GB of GPU high-bandwidth memory (HBM3e), rated at 7.1 TB/s**, and **496 GB of CPU memory**. The advertised **20 petaFLOPS is FP4 performance**. The two memory pools offer different bandwidths; capacity, model quantization, context and concurrent requests all participate in the workload budget. HP's trillion-parameter capacity statement carries an FP4 quantization qualification.
+
+In [Sam Witteveen's demonstration](https://www.youtube.com/watch?v=lEFFa0Z5BIE), published 30 October 2026, the reported **3,000-plus tokens/second describes aggregate throughput across simultaneous streams**. The video discloses HP sponsorship and a loan unit. The result is relevant to an ensemble serving several requests; individual response latency, per-request generation rate and aggregate throughput remain separate observations. Those measurements would need to be repeated for the project's chosen models, context lengths, quantization and concurrency.
+
+| Layer | Contribution to the candidate environment |
+|---|---|
+| **Fury / GB300 hardware** | Local capacity for larger models and concurrent inference, with a recorded GPU/CPU memory budget. |
+| **[HP Z Runtime (ZRT)](https://www.hp.com/us-en/workstations/ai-stations/zgx-ai-stations-software.html)** | Pull, serve and manage models; expose an inference endpoint to the working environment. |
+| **[HP Z Toolkit](https://www.hp.com/us-en/workstations/ai-stations/zgx-ai-stations-software.html)** | Development setup, device discovery and connections to the compute machine. |
+| **Omarchy** | The operator's desktop, launchers and application workspace. |
+| **[Herdr]({{ '/HERDR/' | relative_url }})** | Persistent terminal sessions, agent activity visibility and coordination across local and remote machines. |
+| **DeepEthicalOS** | Source correspondence, reciprocal scrutiny, permissions, correction history and consequential follow-through. |
+
+HP documents the Runtime as the deployment tool and the Toolkit as the development tool. The first deployment candidate would retain **HP's supported Ubuntu 24.04 LTS compute environment** on the Fury, connecting an Omarchy–Herdr workspace through SSH and a deliberately configured model endpoint. HP currently specifies Windows 11 or Ubuntu x86 clients for the Toolkit; using that extension from Omarchy/Arch remains a compatibility test. This arrangement allows the compute service and operator environment to be tested separately, including the Grace/GB300 platform's driver and software requirements.
+
+The prospective research benefit has several parts:
+
+- **Keep contributions active together.** Record distinct DEANO sessions and, where resources permit, compare different local models alongside retrieval and verification services. The specialist roles on the Herdr page and the three DEANO functions retain their different jobs.
+- **Control experimental conditions.** Preserve model files, inference settings, role instructions and case packets so a later change has an identifiable earlier reference.
+- **Bring the archive into a local workflow.** Index John's source collection, retrieve passages with provenance and inspect transformations across handoffs. Storage, indexing, retrieval and synthesis retain distinct records.
+- **Spend capacity on comparison.** Repeat unfamiliar cases, reciprocal-scrutiny specimens and correction-transfer trials, including useful no-change results. Measure the attention and restoration effort they consume.
+
+Hardware capacity can support larger working contexts and several services. Relevant retrieval and effective use still have their own observable outcomes. **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) and **[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide connected ways to examine those relationships. Local execution also gives model/version selection, update policy and data access a practical place in the inspectable configuration.
+
+### Herdr: continuity across a working environment {#herdr-local-compute}
+
+The [Herdr page]({{ '/HERDR/' | relative_url }}) distinguishes **terminal persistence**, **restoration after restart** and **durable correction behaviour**. Herdr's [machine-connection documentation](https://herdr.dev/tui/docs/connecting-machines/) describes a combined workspace in which each machine retains its own server, sessions and processes. Client detachment can leave work running; a machine restart creates a different recovery situation.
+
+The proposed DeepEthicalOS layer would connect that operational history to the case history: what source was available, what an agent inferred, which disagreement survived, what authority applied and whether a later operation used the correction. A pane's activity label and a contribution's epistemic state remain distinguishable. Several agents using one model also retain a shared model dependency; model diversity, source independence and quality of scrutiny can be examined separately.
+
+### WiCi One: nearby compute across personal devices {#wici-one}
+
+[WiCi One](https://wici.ai/wici-one) introduces a different deployment scale: a nearby accelerator shared across phones, tablets and computers. Its product page describes three integration paths:
+
+| Vendor-described path | Candidate DeepEthicalOS use |
+|---|---|
+| **Virtual GPU driver** | Investigate whether an existing GPU application can use the nearby device with the required operating-system and driver compatibility. |
+| **Software development kit (SDK)** | Develop an application or multimodal pipeline with explicit control over its compute calls. |
+| **OpenAI-compatible application programming interface (API)** | Connect an agent client to a local inference endpoint while preserving its role instructions, case records and permissions. |
+
+**The API path is the first integration candidate.** Omarchy could host the operator's environment, Herdr could coordinate sessions, and DeepEthicalOS could retain correction-bearing relationships across them. Compatibility, concurrency and performance remain measurements for the selected implementation. WiCi's general product claims are attributed capabilities, rather than results from an ACCM Deep Ethics Project trial.
+
+WiCi lists **16 GB or 32 GB of GPU memory**, with SSD-backed weight paging for larger models. Its advertised multi-terabyte storage tier is a different memory arrangement from the Fury's large coherent memory pool. Model capacity, responsiveness and concurrent-agent performance therefore need separate comparisons. The GPU-driver path and the inference-API path also expose different integration boundaries.
+
+The company's essay [The General and the Particular](https://wici.ai/article/general-and-the-particular) distinguishes widely shared foundation-model capabilities from an individual's interaction, memory and adaptation. It discusses local acceleration for inference, retrieval and adaptation. As a conceptual connection, this develops the [static/dynamic bridge](#deepethicalos-exchange-3): a relatively stable model can encounter changing context, retained consequences and corrections. Retrieval-time change and modification of model weights remain identifiable operations.
+
+### A common test across devices and compute scales {#local-compute-test}
+
+A bounded experiment could follow one case through a local endpoint, an agent handoff, a client change and a restart. Preserve the original source, unresolved disagreement, authorization and correction record at each transition. Examine whether an applicable correction reaches the operation that needs it, whether dependent records are repaired, and whether useful work resumes. Include a sound contribution and an irrelevant correction to test valid continuation.
+
+Compare matched configurations while recording model, quantization, context, concurrency, source access, permissions and compute budgets. Observe individual latency, total throughput, source fidelity, retrieval/application, recurrence and recovery effort separately. A move between devices may change what is accessible even when the record remains stored. The access perimeter and actual retrieval therefore belong beside the storage location.
+
+The shared research question is: **can an overlooked relationship survive a handoff, change the warranted operation, remain retrievable after restart and improve the next unfamiliar case—while participants can challenge the process directing their attention?** The Fury could provide resources for a shared laboratory; WiCi could support a personal-device experiment. Their value for this project would emerge through those observed relationships.
+
 ## Making changes independently examinable {#independent-audit}
 
 John's transparency proposal asks whether another artificial intelligence could inspect the hybrid and discover alterations made for unethical purposes. It gives engineering and ethical inquiry connected jobs:
@@ -276,6 +337,8 @@ Public recovery routes preserve the connected objects:
 **Reopening question:** what did a later implementation, test or affected participant reveal that should change this architecture—and which next operation changed as a result?
 
 ## Related pages {#related-pages}
+
+- [**Herdr — agent-native runtimes and correction persistence**]({{ '/HERDR/' | relative_url }}) — connects operational sessions, remote machines and contribution-state history to the local-compute experiments.
 
 - [**VCRAS — DEANO risk and attention history**]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) — follows the authority to accept a risk, the competing assessments available at the time, reopening conditions and later correction.
 - [**16 Anchor Ethics — attention allocation in DEANO**]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) — brings non-imposing counsel and the evaluator's own foreground choices into the connected ethical field.
