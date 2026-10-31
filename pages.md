@@ -27,7 +27,20 @@ This is the one page that does not get a Related pages section. It already names
 
 Some pages in the reading order have no route number. [1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }}) and [Activism vs A.I.]({{ '/ACTIVISM-VS-AI/' | relative_url }}) are two. A route is added only when a goal needs it. No number does not mean the page is absent.
 
-Jump: [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
+Jump: [Current development routes](#current-development-routes) · [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
+
+## Current development routes {#current-development-routes}
+
+**Updated 31 October 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+
+| What would you like to investigate? | Follow this route |
+|---|---|
+| A testable local Deep Ethical environment | [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) → [Omarchy prototype]({{ '/DEEPETHICALOS/#omarchy-research-prototype' | relative_url }}) → [Fury, WiCi and Herdr]({{ '/DEEPETHICALOS/#local-compute-field' | relative_url }}). Concept architecture, source-checked components and proposed comparisons retain separate status. |
+| Whether a correction changes later treatment | [VCRAS]({{ '/VCRAS/' | relative_url }}) → [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) → [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). Preserve the initial source, later evidence, dependent repairs and the next unfamiliar case. |
+| A controversial source that warrants investigation | [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) → [5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }}) → [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}). Follow source passages, access boundaries, qualifiers and open questions through the inquiry. |
+| A bounded comparison before a broad claim | [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) → [Inspecting the Inspector]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }}) → [Experiments]({{ '/EXPERIMENTS/' | relative_url }}). Seek observations that distinguish a useful contribution, a defect, an unresolved result and a valid no-change finding. |
+
+For compact orientation, use the [Wiki reading routes](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Reading-Routes) and [Local AI and DeepEthicalOS](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Local-AI-and-DeepEthicalOS). [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) provides dated snapshots; the living HTML pages may contain later additions.
 
 ## 1. Fused core {#fused-core}
 
@@ -155,6 +168,7 @@ John’s own records. The public pages above are not a substitute for these.
 - **[A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/)**
 - **[Biography and the conditions behind the project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/)**
 - **[Iris](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IRIS/)** — Iris van Rooijen, her surviving work, her relationship with John Kuhles, and the loss that changed the public trajectory behind the project.
+- **[The October 17 Triad Event — Interlocked Topological Awareness]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }})** — dated source account of temporal footprints, interlocked page identity and later comparison.
 - **[Meta Quotes — candidate collection](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/)** — John’s Deep Ethical metacognitive candidate quotes, kept for later comparison rather than installed as a canon.
 - **[Meta Quotes — source record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/)** — the recoverable excerpts behind that collection.
 - **[🦜🦋🌳 — The origin story behind the three-symbol signature](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/)** — John’s personal account of freedom and compassion, transformation and wonderment, grounding and living continuity, followed by clearly attributed and bounded A.I. interpretations.
@@ -179,6 +193,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[PDF catalog](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/CATALOG/)**
 - **[52 Cold-Test Prompt Battery — Object and Status](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-cold-test-battery/)**
 - **[52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)**
+- **[Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }})** — a bounded comparison of source-relation preservation and later correction use.
 - **[Inspecting the Inspector](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/)**
 - **[DEDDA — Deep Ethical Drift Detector App](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** — concept for a personal, non-replacing third-party assistant that shows material correspondence drift or a valid null, then returns control to the person.
 - **[Questions — What the Question Reveals Before the Answer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/QUESTIONS/)** — a living hub for A.I.-created questions, hidden premises, question correction, answer-changing uncertainty, valid nulls, and the ten-question GPT-5.5 specimen answered live by John Kuhles.
@@ -195,7 +210,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/)**
 - **[GPT-5.6 Sol — Experience With John Kuhles](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
 - **[From Archive to Local A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/)**
-- **[DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }})** — concept project in a conceptual scope-reasoning phase: PQCE first, the DEANO Advocate–Arbiter–Overseer triad, Linux foundations, independently examinable changes and proposed correction-transfer tests.
+- **[DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }})** — a PQCE-first concept architecture with the DEANO Advocate–Arbiter–Overseer triad, risk authority, attention power and a static/dynamic bridge. Includes the full dialogue, Omarchy-hosted prototype path, Fury/WiCi/Herdr local-compute comparison, execution permissions and proposed correction-transfer tests.
 - **[Herdr — Agent-Native Runtimes and Multi-Agent Field Conditions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HERDR/)** — maps Herdr and its competitors, separates runtime state from epistemic state, and proposes an ACCM Glass Engine workflow for correction propagation, provenance and Deep Ethical Contribution State Grammar across coding agents.
 - **[Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/)**
 - **[Arena A.I.s](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ARENA-AIS/)** — two years, 6,500+ hours and 100+ A.I.s treated as both an inspectable failure field that shaped the 27+12 and an attributed worldwide contribution field whose strongest additions remain recoverable and corrigible.
