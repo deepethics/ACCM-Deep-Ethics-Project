@@ -787,6 +787,14 @@ Each case can preserve a minimum research packet:
 
 The original object remains recoverable beside every later version.
 
+### DEANO application — risk authority and attention history {#deano-risk-attention-history}
+
+The [31 October DeepEthicalOS exchanges]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) apply this packet to a fallible Advocate–Arbiter–Overseer triad. A useful decision record would name who was authorized to accept which risks, which affected participants had a route to challenge them, the competing assessments reasonably available then, and the conditions for reopening the decision. A personal voluntary choice and a risk imposed on others carry different authorization relationships; each remains traceable in the power and consequence fields.
+
+Attention history adds a temporal question: **what received consideration, what remained recoverable outside the foreground, and what later became consequential?** The [Anchor Ethics application]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) examines that allocation. [TCoAw]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) follows the changing foreground; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) keeps the earlier footprint, later interpretation and actual mechanism changes distinguishable.
+
+A candidate follow-up could compare a later decision with the original reasons, authorization and reopening conditions. Record whether new evidence changed treatment, whether a repair reached those affected, or whether the existing course remained warranted. The process/outcome distinction below remains active throughout that comparison. This is a proposed application, with its results still to be observed.
+
 ---
 
 ## 14. Process and outcome must remain separate
@@ -1292,6 +1300,7 @@ Its compact challenge is:
 
 ## Related pages
 
+- [**DeepEthicalOS — three exchanges**]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) — supplies the full John–GPT contributions behind the DEANO application to risk authority, attention history and later correction.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the load-bearing topology of each longitudinal case.
 - [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates whether classification replaced adequate examination and whether correction can reach the judging process.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — studies cognition, classification and defence across institutional and A.I. systems.

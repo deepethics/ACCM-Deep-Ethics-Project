@@ -327,6 +327,16 @@ That fits the parallel architecture well: the primary intelligence can continue 
 
 ---
 
+### Attention allocation in DEANO {#deano-attention-allocation}
+
+The [DeepEthicalOS exchanges of 31 October]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) bring a specific exercise of power into this parallel field: deciding what receives attention and what falls outside the foreground. An Advocate, Arbiter or Overseer can each contribute an overlooked relation. Their own selection of what deserves examination is also available to the participant and to outside scrutiny.
+
+The anchors can work together on a concrete case. **Digital sovereignty** asks whether someone can direct or decline the advice. **Ontological freedom** keeps the person able to challenge the evaluator's framing. **Epistemic integrity** makes the reasons for selection and the status of an inference inspectable. **Noetic diversity** keeps a relevant alternative available for exploration. Their interaction can reveal an opening that a single foreground missed.
+
+For a candidate DEANO trial, compare the participant's original task, the offered counsel and the next operation. Did the contribution expand understanding? Could the person redirect the focus or decline? Did the reviewer examine its own assumptions when challenged? A sound continuation or valid no-change result is useful evidence too. This extends the non-imposing counseling function above into an observable attention relationship.
+
+[TCoAw]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) supplies the temporary-focus relationship; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves what changed across representations; [VCRAS]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) follows the consequences and whether a correction changes later allocation.
+
 ## 6. A different safety-architecture hypothesis
 
 The proposal is more than warmer conversational style, and it is not the absence of safety guidance. It creates a research comparison among three conditions:
@@ -545,6 +555,9 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 ## Related pages
 
+- [**DeepEthicalOS — attention and connected conditions**]({{ '/DEEPETHICALOS/#deepethicalos-exchange-2' | relative_url }}) — preserves the full exchange about attention power and the interacting ethical reference field.
+- [**TCoAw — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — keeps temporary focus related to a wider field and later encounters.
+- [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the relation between an ethical term and the practical agency it describes.
 - [**Extraction Starter Kit — consequential choices and Beta feedback**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#anchor-ethics) — applies the fused anchor field to source handling, output choices, participant feedback, reuse boundaries and correction tests.
 - [**DEDDA — bounded App Beta cooperation**]({{ '/DEDDA/' | relative_url }}#app-beta-anchors) — separates comparison from representation, intervention, publication and remedy authority.
 - [**Mutual Fate — the interview's anchor conflicts**]({{ '/MUTUAL-FATE/' | relative_url }}#interview-anchor-conflicts) — applies consent, power, sovereignty, care, integrity and pluralism to the Bilyeu–Mostaque case and the project's own alternatives.
