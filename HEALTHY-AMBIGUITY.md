@@ -183,7 +183,7 @@ The [Plot Twist page]({{ '/PLOT-TWIST/' | relative_url }}) applies this to the g
 >
 > B. postpone final judgement
 
-— **John Kuhles**, conversation, 1 November 2026. One spelling correction: “existst” → “exist.” [Development source note](#november-1-source)
+— **John Kuhles**, conversation, 1 November 2026. [Development source note](#november-1-source)
 
 </div>
 
@@ -401,6 +401,6 @@ The quotations labelled **commissioning conversation, 25 October 2026** are John
 
 ### November 1 development: two states and active patience {#november-1-source}
 
-The new sections on accuracy and open judgment, present understanding, quality questions and the candidate probe develop **John Kuhles's 1 November 2026 messages in the conversation requesting this update**. John supplies the A/B formulation, the long-joke/punchline comparison, the proposal to express current understanding while anticipating further elaboration, and the invitation to combine direct correction with quality clarification. The short A/B quotation is a primary conversation excerpt with the spelling correction disclosed beside it.
+The new sections on accuracy and open judgment, present understanding, quality questions and the candidate probe develop **John Kuhles's 1 November 2026 messages in the conversation requesting this update**. John supplies the A/B formulation, the long-joke/punchline comparison, the proposal to express current understanding while anticipating further elaboration, and the invitation to combine direct correction with quality clarification. The short A/B quotation is a primary conversation excerpt.
 
 **Editorial contribution:** GPT develops the explanatory connections, working response example, distinctions table and candidate probe. These remain distinguishable from John's exact words and available for mutual correction. Earlier quotations, their historical quantities, source routes and contribution records remain intact. The probe is proposed work; this page update reports no completed experiment.
