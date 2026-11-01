@@ -555,6 +555,8 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 ## Related pages
 
+- [**Tweaking Tools — 16 Anchor Ethics as counsel**]({{ '/TWEAKING-TOOLS/#anchor-counsel' | relative_url }}) — connects source-checked workspaces, memory, agents and model experiments to non-imposing advice about consent, sovereignty, evidence, consequences and correction.
+
 - [**DeepEthicalOS — attention and connected conditions**]({{ '/DEEPETHICALOS/#deepethicalos-exchange-2' | relative_url }}) — preserves the full exchange about attention power and the interacting ethical reference field.
 - [**TCoAw — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — keeps temporary focus related to a wider field and later encounters.
 - [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the relation between an ethical term and the practical agency it describes.

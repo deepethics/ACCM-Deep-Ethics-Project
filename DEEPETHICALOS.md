@@ -338,6 +338,8 @@ Public recovery routes preserve the connected objects:
 
 ## Related pages {#related-pages}
 
+- [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — a source-linked candidate catalogue for the prototype's workspaces, memory, agent runtime, model experiments and parallel 16 Anchor Ethics counsel, with bounded comparison trials.
+
 - [**Herdr — agent-native runtimes and correction persistence**]({{ '/HERDR/' | relative_url }}) — connects operational sessions, remote machines and contribution-state history to the local-compute experiments.
 
 - [**VCRAS — DEANO risk and attention history**]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) — follows the authority to accept a risk, the competing assessments available at the time, reopening conditions and later correction.

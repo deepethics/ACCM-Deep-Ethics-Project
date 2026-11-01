@@ -568,6 +568,8 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 ## 16. Related pages
 
+- [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — places Herdr beside the memory, model, editor and host candidates in John's supplied collection, keeping terminal continuity and correction persistence separately testable.
+
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
 - [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
 - [**Flagging System-PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — provides proportional quality-calibration signals without converting a flag into a verdict.
