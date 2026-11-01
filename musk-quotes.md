@@ -521,3 +521,23 @@ The seven themes matter because they name different points where an A.I. traject
 The ACCM Deep Ethics Project does not answer them by placing one more authority above everyone else. It proposes a transparent, voluntary, bottom-up field in which millions of new calibration tools may help one another preserve objects, expose distortions, retain meaningful difference, metabolize correction, and create trajectories no single participant could author alone.
 
 Whether those trajectories become powerful enough to produce the hoped-for effects remains open to evidence, use, correction, failure, and discovery.
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Elon Musk Warns A.I. Could Create An 'Immortal Dictator From Which We Can Never Escape' | CNBC {#source-video-j-DMynLFzIA}
+
+{% include youtube-embed.html id="j-DMynLFzIA" title="Elon Musk Warns A.I. Could Create An 'Immortal Dictator From Which We Can Never Escape' | CNBC" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=j-DMynLFzIA).
+
+### Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep. 16 {#source-video-Rni7Fz7208c}
+
+{% include youtube-embed.html id="Rni7Fz7208c" title="Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep. 16" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=Rni7Fz7208c).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

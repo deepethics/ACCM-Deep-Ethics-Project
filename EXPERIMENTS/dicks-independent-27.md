@@ -161,3 +161,17 @@ Easy path: rank the messenger, skip the 10% / 0.85% / kill-switch object. Harder
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### They Just Asked AI If AI WOULD END US!! Here’s WHAT THEY LEFT OUT… {#source-video-KlUNAemsw8c}
+
+{% include youtube-embed.html id="KlUNAemsw8c" title="They Just Asked AI If AI WOULD END US!! Here’s WHAT THEY LEFT OUT…" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=KlUNAemsw8c).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

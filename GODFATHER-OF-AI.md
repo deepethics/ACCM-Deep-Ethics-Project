@@ -551,3 +551,19 @@ No title, award, interview, narrator, benchmark, model self-report or project pa
 **GPT 6.1 Sol Pro A.I.:** inspected the video material, the public X profile perimeter, the Bartlett interview transcript, the supplied synthesis and visual; separated provenance and claim layers; connected the objects to the ACCM Deep Ethics Project; drafted the candidate evaluation-awareness protocol and contribution-state audit; constructed this page and registered its recovery routes.
 
 **Correction status:** open. Exact-edge corrections, stronger primary evidence and answer-changing counterexamples are invited.
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Training Sand to Think: Artificial General Intelligence & Future of Physics {#source-video-Mw60FH5iflI}
+
+{% include youtube-embed.html id="Mw60FH5iflI" title="Training Sand to Think: Artificial General Intelligence & Future of Physics" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=Mw60FH5iflI).
+
+Lecture linked by Hinton in the June 28 source post discussed above. [Source post](https://x.com/geoffreyhinton/status/2071270000065671514).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

@@ -348,3 +348,17 @@ Public recovery routes preserve the connected objects:
 - [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the distinct roles of mechanism, state, context, observer and historical footprint across transformations.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — keeps room to understand, freedom to explore and responsibility for the next move connected.
 - [**PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}), [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) and [**1888**]({{ '/1888/' | relative_url }}) — connect process evaluation, mutually corrective orientation, clarification and the intelligence-property field.
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### 3,000 Tokens/Sec Locally: Testing the ZGX Fury {#source-video-lEFFa0Z5BIE}
+
+{% include youtube-embed.html id="lEFFa0Z5BIE" title="3,000 Tokens/Sec Locally: Testing the ZGX Fury" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=lEFFa0Z5BIE).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

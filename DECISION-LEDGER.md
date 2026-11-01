@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-01 — Public-page video embed audit {#video-embed-audit-2026-11-01}
+
+At John's request, scanned all 219 public HTML pages in the project sitemap, including generated source archives, and reconciled the physical page routes against that inventory. The sitemap's other 164 routes are existing PDF snapshots. Compared cited YouTube sources with players already present on each page; checked X posts and their quoted-source chains to distinguish video from text and photographs. Recovered one YouTube lecture through Hinton's shortened source link and the specific source video identified in an earlier ledger entry.
+
+Added fourteen YouTube players and two X video embeds across twelve canonical pages, below their existing content and related-page sections. Preserved the original discussions, quotations, links and existing players; retained the cited-post chains beside the X videos. The ledger's alternate public route shares the same additions. Existing PDF bytes and snapshot dates remain for the regular refresh. Deployment and complete WordPress mirror checks are recorded separately from the source audit. John supplies the instruction and embedding preference; GPT 6.1 Sol Pro A.I. supplies the scan, source tracing and publication work.
+
 ## 2026-11-01 — Tweaking Tools: LFM3 companion proposal and primary navigation {#tweaking-tools-lfm3-companion-2026-11-01}
 
 At John's request, placed Tweaking Tools immediately after DeepEthicalOS in the shared top navigation and expanded [Tweaking Tools]({{ '/TWEAKING-TOOLS/#lfm3-companion' | relative_url }}) around his proposed local educational companion. Read the complete supplied two-video text packet; checked official model/package descriptions, the current phone workflow, native-runtime migration guidance and selected GitHub sources. Preserved the reported twenty-test score and kept its RTX 4060 laptop throughput distinct from the separate iPhone demonstration. Developed source-linked project explanations, FAQ/navigation, participant-controlled handoff, correction handling and a focused proposed trial. The app remains a prototype proposal.
@@ -2123,3 +2129,18 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Further-update PDF lifecycle:** Refresh `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, retain the October 24, 2026 snapshot date, reconcile the central PDF index, totals and checksums, and leave unrelated source pages and PDFs unchanged.
 
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Dylan — learning to judge A.I. output — source supplied by John Kuhles {#source-video-OmCPS7h08pY}
+
+{% include youtube-embed.html id="OmCPS7h08pY" title="Dylan — learning to judge A.I. output — source supplied by John Kuhles" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=OmCPS7h08pY).
+
+The source video identified in the October 29 decision entry. [Source post](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

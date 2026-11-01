@@ -1754,3 +1754,17 @@ At John’s request, added his supplied screenshot of Bill Ryan’s response to 
 ## 2026-10-30 — GPT / Codex: Stop 5G final text-inventory batch
 
 **Editorial synthesis at John’s request.** Reached the retrieved thread’s end at page 56, post #1114. Added G137–G144 and 49 extensions; cumulative coverage is 144 topics across 1,114 indexed post containers. The supplied Google A.I. passage becomes institutional-history, evidence-network and alternative-capacity work packets through original sources. Correspondence checks preserve the later answer in #1081, video-description attribution in #1023, John’s explicitly anecdotal #1113 account and working full article destinations in #1110–1111. Removed one accidentally duplicated research-scope paragraph at John’s request, preserving one complete copy and the earlier git state. All earlier inventory records remain intact. A later commissioned pass can recheck page 56 for posts after #1114; multimedia and original-document layers remain separately identified. Existing PDF retained for weekly refresh; full mirror verification follows deployment. [Open final batch]({{ '/5G-CONTROVERSY/#fiveg-avalon-batch-06' | relative_url }}).
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### They Just Asked AI If AI WOULD END US!! Here’s WHAT THEY LEFT OUT… {#source-video-KlUNAemsw8c}
+
+{% include youtube-embed.html id="KlUNAemsw8c" title="They Just Asked AI If AI WOULD END US!! Here’s WHAT THEY LEFT OUT…" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=KlUNAemsw8c).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

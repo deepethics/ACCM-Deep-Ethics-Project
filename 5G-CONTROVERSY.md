@@ -429,3 +429,29 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 - **[DEDDA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** (Deep Ethical Drift Detector App) — source-to-representation comparison.
 - **[V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** (Vindicated Competing Risk Assessment Studies) — long-horizon comparison with earlier assessments.
 - [All public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) — the wider project map.
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Colbeck cites health as reason to slow 5G rush {#source-video-hkDDQqDVsbk}
+
+{% include youtube-embed.html id="hkDDQqDVsbk" title="Colbeck cites health as reason to slow 5G rush" %}
+
+[Watch the original video on YouTube](https://youtube.com/watch?v=hkDDQqDVsbk).
+
+### Ian Furgeson video {#source-video-uoYTFaiP8DY}
+
+{% include youtube-embed.html id="uoYTFaiP8DY" title="Ian Furgeson video" %}
+
+[Watch the original video on YouTube](https://youtube.com/watch?v=uoYTFaiP8DY).
+
+### Mona Keijzer | 5G voor Crowd Control {#source-video-b53XOZo49-A}
+
+{% include youtube-embed.html id="b53XOZo49-A" title="Mona Keijzer | 5G voor Crowd Control" %}
+
+[Watch the original video on YouTube](https://youtube.com/watch?v=b53XOZo49-A).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

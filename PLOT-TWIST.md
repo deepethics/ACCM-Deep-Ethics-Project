@@ -2159,3 +2159,30 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 - [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — provides the earlier longitudinal correction-persistence specimen connected by the cross-model relay.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests who receives faithful reconstruction, clarification, proportional correction and permission to remain larger than a local error.
 
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### X video linked from the cited source post {#source-video-x-2008348383937810687}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include x-video-embed.html url="https://x.com/TheChiefNerd/status/2008348383937810687" %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Cited source post](https://x.com/elonmusk/status/2008397670092566618) → [Video post on X](https://x.com/TheChiefNerd/status/2008348383937810687).
+
+### X video linked from the cited source post {#source-video-x-2005527445659611526}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include x-video-embed.html url="https://x.com/WallStreetApes/status/2005527445659611526" %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Cited source post](https://x.com/elonmusk/status/2005653465352298671) → [Quoted post](https://x.com/ScottAdamsSays/status/2005639533904486671) → [Video post on X](https://x.com/WallStreetApes/status/2005527445659611526).
+
+<!-- ACCM_PDF_OMIT_START -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- ACCM_PDF_OMIT_END -->
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

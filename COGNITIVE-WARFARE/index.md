@@ -811,3 +811,17 @@ While watching, ask:
 The video's reach makes its framing important to mass psychology. Reach does not settle the truth of that framing.
 
 [Watch directly on YouTube if the embedded player is unavailable.](https://www.youtube.com/watch?v=FNZhxTtOL-I)
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Es wird schlimmer als bei George Orwell - und fast niemand weiß Bescheid! Dr. Tögel & Marc Friedrich {#source-video-BLaLleEcAuM}
+
+{% include youtube-embed.html id="BLaLleEcAuM" title="Es wird schlimmer als bei George Orwell - und fast niemand weiß Bescheid! Dr. Tögel & Marc Friedrich" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=BLaLleEcAuM).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

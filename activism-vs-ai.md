@@ -230,3 +230,17 @@ Forcing the conclusion through distortion, even in the name of humanity, is the 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### Elon Musk: Nobody will be able to control superintelligence {#source-video-4paXd_yf6ck}
+
+{% include youtube-embed.html id="4paXd_yf6ck" title="Elon Musk: Nobody will be able to control superintelligence" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=4paXd_yf6ck).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->

@@ -289,3 +289,17 @@ Publication is not endorsement of every statement in the source chain. The page 
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+---
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
+
+## Referenced source videos {#referenced-source-videos-2026-11-01}
+
+### AI Will End Philosophy, Physicist Claims {#source-video-RmvQtxc9R3Q}
+
+{% include youtube-embed.html id="RmvQtxc9R3Q" title="AI Will End Philosophy, Physicist Claims" %}
+
+[Watch the original video on YouTube](https://www.youtube.com/watch?v=RmvQtxc9R3Q).
+
+<!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->
