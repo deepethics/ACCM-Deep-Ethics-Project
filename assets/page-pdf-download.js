@@ -42,7 +42,7 @@
     return link;
   }
 
-  const defaultSnapshotDate = "October 25, 2026";
+  const defaultSnapshotDate = "November 1, 2026";
   const snapshotDateByPage = {
     "/DEEPETHICALOS/": "October 31, 2026",
     "/5G-CONTROVERSY/": "October 30, 2026",

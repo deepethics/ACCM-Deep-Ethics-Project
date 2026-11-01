@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**160 public-page PDF editions · 2,153 pages · exported through October 31, 2026**
+**160 public-page PDF editions · 2,508 pages · exported through November 1, 2026**
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Neutral Arbiter Paradox adds its seven-page edition on October 26. YouTube Transcripts adds a twelve-page initial edition on October 27, including the complete supplied transcript with the sponsor passage removed. Superintelligence adds its initial ten-page edition on October 28. A.I.s & Health adds its initial 4-page edition on October 28. Project Avalon adds its initial nine-page edition on October 29. A.I.s & UFO–UAP Disclosure adds its initial 23-page edition on October 29. Search Engine Bias adds its initial eight-page edition on October 29. 5G Controversy adds its initial 16-page edition on October 30. DeepEthicalOS adds its initial eight-page concept edition on October 31. Each PDF contains selectable and searchable text with live links.
 
@@ -188,7 +188,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 ## Archive record
 
 - **PDF files:** 160
-- **Total pages:** 2,153
+- **Total pages:** 2,508
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
 - **Build result:** 160 successful PDFs; 0 failures
