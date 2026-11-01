@@ -2129,6 +2129,8 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Further-update PDF lifecycle:** Refresh `PLOT-TWIST.pdf` and `DECISION-LEDGER.pdf`, retain the October 24, 2026 snapshot date, reconcile the central PDF index, totals and checksums, and leave unrelated source pages and PDFs unchanged.
 
+{% unless page.permalink == '/DECISION-LEDGER/' %}
+
 ---
 
 <!-- ACCM_REFERENCED_VIDEO_EMBEDS_START: 2026-11-01 -->
@@ -2144,3 +2146,5 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 The source video identified in the October 29 decision entry. [Source post](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/#learning-to-judge-ai).
 
 <!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->
+
+{% endunless %}
