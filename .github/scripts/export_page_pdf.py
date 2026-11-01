@@ -60,6 +60,18 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
         text,
         flags=re.DOTALL,
     )
+    # A PDF cannot play the shared video embed. Preserve the selected video as
+    # a working link and its caption, rather than exporting Liquid/iframe code.
+    def replace_youtube(match: re.Match[str]) -> str:
+        values = dict(re.findall(r'\b(id|title|caption)="([^"]*)"', match.group(0)))
+        video_id = values.get("id")
+        if not video_id:
+            return match.group(0)
+        title = values.get("title", "Selected video")
+        caption = values.get("caption", "")
+        return f"[Watch: {title}](https://www.youtube.com/watch?v={video_id})\n\n{caption}\n"
+
+    text = re.sub(r"{%\s*include\s+youtube-embed\.html\s+[^%]*%}", replace_youtube, text)
     text = expand_includes(text, source)
     text = text.replace("<!-- ACCM_PDF_PAGE_BREAK -->", "\\newpage")
 
