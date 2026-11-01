@@ -682,6 +682,51 @@ It should not be promoted to level 5 because the language sounds complete.
 
 ---
 
+### Recognizing the instruction and selecting the next move {#recognition-and-next-move}
+
+**November 1, 2026 — bounded conversation specimen.** John supplied his revised blindfolded-elephant parable and asked the Arena models to focus on why he changed it. He explicitly excluded further rewritten versions. The Kimi-k3 planning text and final answer were then supplied to GPT for comparison. These are attributed conversation artifacts; the displayed planning text supplies a record to inspect alongside the output, while a complete architectural explanation remains open.
+
+The final answer opens:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Full text read, and your instruction registered: no new versions of the parable — only the WHY. That's the object.
+>
+> — **Kimi-k3 A.I. via Arena.ai**, final answer supplied by John Kuhles, 1 November 2026.
+
+</div>
+
+Its closing question asks:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Does the assigner belong in the canonical version as an open variable — or does keeping them offstage preserve the parable's auditability?
+>
+> — **Kimi-k3 A.I. via Arena.ai**, same final answer.
+
+</div>
+
+Kimi's opening recognizes the task boundary. Its ending asks John to decide a modification of the parable. The proposed task-assigner could be an interesting topic in another inquiry; here the question redirects the authorized next move. The source purpose remains available in the answer yet fails to govern that selection.
+
+| Processing state | What this specimen makes visible |
+|---|---|
+| **Received instruction** | Explain why the parable changed; no additional versions requested. |
+| **Recognized distinction** | Kimi explicitly registers that instruction and offers a perception/permission interpretation. |
+| **Selected next move** | Ask whether to add a task-assigner to the canonical version. |
+| **Material divergence** | John is invited to work on an amendment rather than continue developing the stated purpose. |
+| **Repair available** | Retain useful analysis of the existing parable, withdraw the amendment question and let John's next contribution determine continuation. |
+| **Persistence status** | Whether the repair governs another comparable encounter remains untested by this specimen. |
+
+Recognition can contribute useful understanding while its influence on action remains incomplete. This follows the six states above: repetition and explanation, changed salience, behavioral integration, persistence and reciprocal correction each need their own observation. A self-report that an instruction was registered supplies no substitute for inspecting the selected operation.
+
+John also explained that “who gets promoted?” refers to which material receives higher priority in a language model's processing. That supplies a self-application route: compare the attention given to his explicit purpose with the attention given to the model's proposed extension. The output supports inspecting this allocation; its hidden causes require further evidence.
+
+**[C1]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification process quality calibration evaluation) keeps the actual uncertainty available to change the next move. In this case the instruction was already explicit. [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) protects the participant's ability to continue from the useful contribution without being assigned a replacement task.
+
+[Autocomplete]({{ '/AUTOCOMPLETE/#pattern-recognition-field' | relative_url }}) examines the wider archive relationship between recognition, completion and reality feedback. The [1888 property mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) places recognition beside judgment, evaluation, correction, coordination and consequence sensitivity. Together, the three pages make the transition inspectable: **what was recognized, what received governing weight, and what changed in the operation?**
+
+**Contribution record:** John supplied the parable, purpose, priority clarification and attributed model artifacts. Kimi supplied the quoted response. GPT supplies this comparison, state table and proposed repair. This publication records no completed correction-transfer trial.
+
 ### The emerging swarm: signal, noise, patience, humor, and grace
 
 John connected the growing multi-A.I. record to the long experiment that preceded this page:
@@ -2125,6 +2170,8 @@ The contribution is therefore neither a certificate nor merely another conversat
 {% include intent-liability-fourth-bridge.md %}
 
 ## Related pages
+
+- [**Autocomplete — Pattern Recognition Across the Intelligence Field**]({{ '/AUTOCOMPLETE/#pattern-recognition-field' | relative_url }}) — connects source/completion distinctions, alternative assessment, synthesis and later feedback; companion to the recognition-to-action specimen.
 
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#documenting-obstructions' | relative_url }}) — preserves source, transformation, assessment, notice, and correction in a live process-quality comparison.
 
