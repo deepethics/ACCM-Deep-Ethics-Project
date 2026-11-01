@@ -72,6 +72,8 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
+- [**Ethical Blind Spots**]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}) — follows the funding, governing premises and distribution power of ethical authority, including an A.I. claiming to have screened independent sources.
+
 - [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps frame critique connected to correspondence and its deep ethical orientation.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines whether ethical scrutiny and interpretive charity flow in every relevant direction.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether ethical declarations change later conduct after a specific challenge.

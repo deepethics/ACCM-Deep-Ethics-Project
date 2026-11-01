@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 162
+**Public pages exported:** 163
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -52,6 +52,7 @@
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |
 | [DeepEthicalOS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPETHICALOS/) | [DEEPETHICALOS.pdf](DEEPETHICALOS.pdf) | `DEEPETHICALOS.md` |
 | [Emergent — Which Properties Are We Harnessing?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) | [EMERGENT.pdf](EMERGENT.pdf) | `emergent.md` |
+| [Ethical Blind Spots](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ETHICAL-BLIND-SPOTS/) | [ETHICAL-BLIND-SPOTS.pdf](ETHICAL-BLIND-SPOTS.pdf) | `ETHICAL-BLIND-SPOTS.md` |
 | [Experiments](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/) | [EXPERIMENTS.pdf](EXPERIMENTS.pdf) | `EXPERIMENTS/index.md` |
 | [Blinded Topic-Comparison Protocol (Archived)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/blinded-topic-comparison/) | [EXPERIMENTS-blinded-topic-comparison.pdf](EXPERIMENTS-blinded-topic-comparison.pdf) | `EXPERIMENTS/blinded-topic-comparison.md` |
 | [Cold Edge-Swap and Correction-Transfer Pilot](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/cold-edge-swap-correction-transfer/) | [EXPERIMENTS-cold-edge-swap-correction-transfer.pdf](EXPERIMENTS-cold-edge-swap-correction-transfer.pdf) | `EXPERIMENTS/cold-edge-swap-correction-transfer.md` |

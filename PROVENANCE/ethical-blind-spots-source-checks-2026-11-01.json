@@ -1,0 +1,196 @@
+{
+  "title": "Ethical Blind Spots — initial source checks",
+  "version": "0.1",
+  "checked_on": "2026-11-01",
+  "project": "ACCM Deep Ethics Project",
+  "direction_and_source_policy": "John Kuhles",
+  "source_checks_and_schema": "GPT 6.1 Sol Pro A.I.",
+  "policy": "Funding, public-policy dependencies, WEF speaking and institutional relationships are screened under John’s declared boundary. A source may be quoted for critical examination. Evidence for a relationship, conduct finding and editorial selection remain distinct fields.",
+  "counts": {
+    "initial_supplied_urls": 9,
+    "initial_distinct_works_or_resources": 7
+  },
+  "sources": [
+    {
+      "id": "hagendorff-2021",
+      "urls": [
+        "https://d-nb.info/1251609163/34",
+        "https://www.researchgate.net/publication/356908374_Blind_spots_in_AI_ethics",
+        "https://link.springer.com/article/10.1007/s43681-021-00122-8"
+      ],
+      "identity": "Thilo Hagendorff, Blind spots in AI ethics; DOI 10.1007/s43681-021-00122-8",
+      "observed": "2021 online publication, 2022 issue; D-NB PDF confirms identity. ResearchGate copy identified.",
+      "dependency": "DFG Excellence Strategy EXC 2064/1, project 390727645; open-access support through Projekt DEAL.",
+      "wef_connection_result": "Not established by the checked paper disclosures and targeted author search; further screening unresolved.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition",
+      "retrieved_pdf_sha256": "11d493f3a96b2017eb6f364fec150e6b362e69849321447ad72d131098524ee0"
+    },
+    {
+      "id": "cards",
+      "urls": [
+        "https://data-en-maatschappij.ai/en/tools/ai-blindspots-2.0",
+        "https://data-en-maatschappij.ai/en/about"
+      ],
+      "identity": "Knowledge Centre Data & Society AI Blindspots",
+      "observed": "Development-stage card set; own site records Flemish Government support and regulatory implementation mission.",
+      "dependency": "Flanders AI; European, Belgian and Flemish regulation explicitly part of mission.",
+      "wef_connection_result": "Particular WEF pathway not established in this check.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "robot-rights",
+      "urls": [
+        "https://arxiv.org/abs/2604.03251",
+        "https://arxiv.org/pdf/2604.03251"
+      ],
+      "identity": "Rahulrajan Karthikeyan and Moses Boudourides, The Algorithmic Blind Spot: Bias, Moral Status, and the Future of Robot Rights",
+      "observed": "Preprint PDF and abstract recovered; not treated as a reviewed-journal publication.",
+      "dependency": "Arizona State University and Northwestern University affiliations in PDF.",
+      "wef_connection_result": "Funding and affiliation screening incomplete.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition",
+      "retrieved_pdf_sha256": "ec4003ca42743674a19a2ac34bdbb917754dbd5553b55ebcac3940b8572df983"
+    },
+    {
+      "id": "igs",
+      "urls": [
+        "https://www.linkedin.com/pulse/closing-gaps-ethical-blind-spots-eu-ihtee"
+      ],
+      "identity": "Alex McKeown / Information Governance Services; September 4, 2025",
+      "observed": "Commentary on gaps and governance in the EU AI Act.",
+      "dependency": "Governance-services publication; operative EU Act framing.",
+      "wef_connection_result": "Funding and WEF screening incomplete.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "rutgers",
+      "urls": [
+        "https://aiethicslab.rutgers.edu/glossary/ethics-washing/",
+        "https://aiethicslab.rutgers.edu/north-south-policy-dialogue-global-majority/"
+      ],
+      "identity": "AI Ethics Lab at Rutgers; Nathan C. Walker identified as principal investigator",
+      "observed": "Glossary labels itself in recruitment/research. Separate panel record names a participant with WEF representation.",
+      "dependency": "Documented event-participation path via Lavina Ramkissoon; glossary funding unestablished.",
+      "wef_connection_result": "Event relationship identified; do not substitute Cansu Canca’s separate lab identity.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "oxford",
+      "urls": [
+        "https://www.ox.ac.uk/news/2026-03-20-expert-comment-ethics-washing-and-us-washing",
+        "https://www.flickr.com/photos/worldeconomicforum/54282760269"
+      ],
+      "identity": "Edward Harcourt essay; separate institutional appearance record for Irene Tracey",
+      "observed": "March 2026 essay read; WEF January 2025 event caption identifies Oxford vice-chancellor speaking.",
+      "dependency": "Institutional participation edge documented, essay funding and causal influence unresolved.",
+      "wef_connection_result": "Institutional participation established; keep person, essay and funding relations separate.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "education",
+      "urls": [
+        "https://drpress.org/ojs/index.php/EHSS/article/download/18113/17634/20392"
+      ],
+      "identity": "Zhenzhen Li; The shadow of the algorithm; 2024 volume 26, pp.1146–1152",
+      "observed": "Seven-page PDF identified; abstract and affiliation read.",
+      "dependency": "Dalian University of Technology affiliation shown.",
+      "wef_connection_result": "Funding and WEF screening incomplete.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "wef-accenture",
+      "urls": [
+        "https://www.weforum.org/publications/advancing-responsible-ai-innovation-a-playbook"
+      ],
+      "identity": "WEF / Accenture, Advancing Responsible AI Innovation: A Playbook, September 22, 2025",
+      "observed": "Named collaboration on publisher page. Direct PDF endpoint timed out during local download.",
+      "dependency": "Joint publication relationship; financial contract not supplied by page.",
+      "wef_connection_result": "Direct WEF collaboration; used as an object of critical examination.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "canca",
+      "urls": [
+        "https://cansucanca.com/"
+      ],
+      "identity": "Cansu Canca; AI Ethics Lab at aiethicslab.com; Northeastern University",
+      "observed": "Own biography identifies WEF AI Governance Alliance work.",
+      "dependency": "Direct declared WEF collaboration.",
+      "wef_connection_result": "Direct relationship; separate identity from Rutgers lab.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "techpolicy",
+      "urls": [
+        "https://www.techpolicy.press/the-blind-spot-in-ai-safety/"
+      ],
+      "identity": "Jennifer Kinne, May 26, 2026",
+      "observed": "Article scrutinizes the inference from hot-mess measurements to governance and describes epistemic drift; supplied Google characterization changed that critical direction.",
+      "dependency": "Publisher/author funding screening incomplete.",
+      "wef_connection_result": "Unresolved; no independence certification.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "diginomica",
+      "urls": [
+        "https://diginomica.com/wef-2020-ai-responsibility-and-some-notable-ambiguities",
+        "https://diginomica.com/about"
+      ],
+      "identity": "Chris Middleton, January 24, 2020",
+      "observed": "Direct critique of WEF Responsible AI framing; publisher discloses vendor-partnership model.",
+      "dependency": "Commercial partner model documented; specific contract/WEF chain unresolved.",
+      "wef_connection_result": "Critical article established; baseline eligibility not certified.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "lifecycles",
+      "urls": [
+        "https://link.springer.com/article/10.1007/s43681-026-01008-3"
+      ],
+      "identity": "Rohde, Nasruddin, Kotova and Ammon; February 16, 2026",
+      "observed": "Publisher abstract describes infrastructural/environmental justice perspectives and displays a March 18 correction notice.",
+      "dependency": "Funding and network screening incomplete.",
+      "wef_connection_result": "Unresolved; no baseline adoption.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    },
+    {
+      "id": "ground-news",
+      "urls": [
+        "https://ground.news/blindspot"
+      ],
+      "identity": "Ground News Blindspot",
+      "observed": "Displayed coverage comparison by political-spectrum categories.",
+      "dependency": "Sampling, ownership and funding investigation incomplete.",
+      "wef_connection_result": "Unresolved; inspected as a tool, not certified as independent.",
+      "checked_on": "2026-11-01",
+      "baseline_eligibility": "Not certified; inspection use only in this edition"
+    }
+  ],
+  "additional_unreviewed_leads": [
+    {
+      "url": "https://techandpublicgood.com/category/uncategorized/",
+      "status": "Category URL; exact article and authorship require identification."
+    },
+    {
+      "url": "https://www.dawgen.global/the-six-governance-blind-spots-boards-must-monitor-between-audits/",
+      "status": "Supplied Google lead; substantive article and dependency review pending."
+    },
+    {
+      "url": "https://medium.com/ai-simplified-in-plain-english/7-ai-ethics-blind-spots-exposed-why-most-organizations-will-fail-by-2026-8520c828b4c4",
+      "status": "Supplied Google lead; substantive article and dependency review pending."
+    }
+  ],
+  "scope_note": "This record preserves checks actually performed. Unresolved entries are not WEF-free findings. It contains no network-wide audit, worldwide journalist count or installed automated enforcement script.",
+  "correction_route": "Correct the source identity or relationship with a dated document; revise dependent page prose and later intake. Preserve the earlier record as history."
+}

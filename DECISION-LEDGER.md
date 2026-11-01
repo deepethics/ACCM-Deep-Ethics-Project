@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-01 — Ethical Blind Spots: authority, dependencies and correction {#ethical-blind-spots-2026-11-01}
+
+At John's request, published [Ethical Blind Spots]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}) after discussing his source-selection boundary and its attention-allocation purpose. Preserved his distinction between sincere people and the arrangements they can carry, with selected attributed source paragraphs. Checked the supplied initial works, documented named institutional relationships, retained unresolved funding and influence edges, and corrected the direction of Google's TechPolicy.Press summary against the original article. The fourteen-property operational table applies the existing 1888 field; the case comparison remains candidate work.
+
+John supplies the inquiry, policy, originating reasoning and direction; GPT 6.1 Sol Pro A.I. supplies source checks, page-specific synthesis and publication. Added the primary-navigation and alphabetical entries, All Pages route, reciprocal Ethics Washing link and public machine-readable source record. The new page receives one initial PDF; existing PDF bytes and dates remain for the regular refresh. Full-mirror and public-service verification follow deployment.
+
 ## 2026-11-01 — Public-page video embed audit {#video-embed-audit-2026-11-01}
 
 At John's request, scanned all 219 public HTML pages in the project sitemap, including generated source archives, and reconciled the physical page routes against that inventory. The sitemap's other 164 routes are existing PDF snapshots. Compared cited YouTube sources with players already present on each page; checked X posts and their quoted-source chains to distinguish video from text and photographs. Recovered one YouTube lecture through Hinton's shortened source link and the specific source video identified in an earlier ledger entry.
