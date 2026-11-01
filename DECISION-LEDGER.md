@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-01 — Tweaking Tools: LFM3 companion proposal and primary navigation {#tweaking-tools-lfm3-companion-2026-11-01}
+
+At John's request, placed Tweaking Tools immediately after DeepEthicalOS in the shared top navigation and expanded [Tweaking Tools]({{ '/TWEAKING-TOOLS/#lfm3-companion' | relative_url }}) around his proposed local educational companion. Read the complete supplied two-video text packet; checked official model/package descriptions, the current phone workflow, native-runtime migration guidance and selected GitHub sources. Preserved the reported twenty-test score and kept its RTX 4060 laptop throughput distinct from the separate iPhone demonstration. Developed source-linked project explanations, FAQ/navigation, participant-controlled handoff, correction handling and a focused proposed trial. The app remains a prototype proposal.
+
+Embedded both supplied LFM3 videos and the catalogue's earlier mini-AGI video lead at the page bottom. Retained all seventeen original candidates, their provenance and earlier anchors. Existing PDF bytes and snapshot dates remain for normal refresh; the live page identifies the initial PDF's relationship to this expansion. Complete page-mirror and ordinary public navigation checks follow deployment. John supplies the proposal and direction; GPT 6.1 Sol Pro A.I. supplies the source comparison and candidate implementation design.
+
 ## 2026-11-01 — Tweaking Tools: source-linked catalogue and bounded trials {#tweaking-tools-2026-11-01}
 
 At John's request, created [Tweaking Tools]({{ '/TWEAKING-TOOLS/' | relative_url }}) using option A from his three permitted titles. Read the three supplied files and relevant private publication guidance. Retained all seventeen identifiable candidates and the three future leads from his Recommended collection. Checked upstream repository descriptions, model cards and relevant release records; recovered Void's archived/deprecated status, Folio's release-specific platforms and the complete Dutch guide route. Connected the refusal-direction study to separate observations of service choice, correspondence and correction. Applied the existing 16 Anchor Ethics non-imposing advisory relationship to concrete tool changes, with four proposed small comparisons. Tool installation and experimental results remain future work.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tweaking Tools"
-description: "A source-linked working catalogue of GitHub tools, local models and practical experiments for an inspectable, corrigible Deep Ethical environment."
+description: "GitHub tools, local models and practical Deep Ethical experiments, including an LFM3-powered phone-companion proposal for project explanations, FAQs, source navigation and correction."
 permalink: /TWEAKING-TOOLS/
 date: 2026-11-01
 ---
@@ -26,7 +26,7 @@ The governing question is:
 
 **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) follows that question through a tool's input, selection, transformation, output, consequences and later correction. The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** contribute a parallel, non-imposing advisory perspective: they can reveal a missed relationship, invite inquiry, or support an appropriate pause while participants retain the ability to examine and decline the advice.
 
-**Jump to:** [What can be tweaked?](#layers) · [Candidate catalogue](#catalogue) · [Refusal-direction research](#refusal-direction) · [16 Anchor Ethics in use](#anchor-counsel) · [Small comparative trials](#trials) · [Source and correction record](#provenance) · [Related pages](#related-pages)
+**Jump to:** [What can be tweaked?](#layers) · [Candidate catalogue](#catalogue) · [LFM3 and the phone companion](#lfm3-companion) · [Refusal-direction research](#refusal-direction) · [16 Anchor Ethics in use](#anchor-counsel) · [Small comparative trials](#trials) · [Source and correction record](#provenance) · [Related pages](#related-pages) · [Selected videos](#selected-videos)
 
 ## What can be tweaked? {#layers}
 
@@ -45,7 +45,7 @@ A saved conversation can supply evidence to memory; retrieval must still bring t
 
 ## Candidate catalogue {#catalogue}
 
-The collection below retains all seventeen identifiable candidates from John's supplied list, grouped by their possible job. **Upstream-described** means the named source was read; it does not mean this project has installed or benchmarked the tool. Links lead to the original projects so readers can inspect current versions, licenses, releases and requirements.
+The collection below retains all seventeen identifiable candidates from John's original supplied list, grouped by their possible job. The dated [LFM3 companion proposal](#lfm3-companion) extends that collection. **Upstream-described** means the named source was read; it does not mean this project has installed or benchmarked the tool. Links lead to the original projects so readers can inspect current versions, licenses, releases and requirements.
 
 ### Workspaces, memory, and agent coordination
 
@@ -87,6 +87,79 @@ The candidate relationship is practical: an Omarchy host can carry the workspace
 ### Leads awaiting an exact source
 
 John also names **GrokBot, Muse and Dot** as tools he wants to test. Their names remain research leads until a particular product or repository is identified. No project identity, capability description or compatibility claim is inferred from those names alone.
+
+## LFM3: a local Deep Ethical companion {#lfm3-companion}
+
+**November 1, 2026 · proposed Experimental ACCM Deep Ethics Project Beta Prototype.** John proposes a lightweight companion that explains the project, answers frequently asked questions, helps visitors find useful material and connects small local tasks to wider possibilities. **[LFM3](https://www.liquid.ai/blog/lfm3)** (third-generation Liquid Foundation Models) makes this a concrete development candidate: **a modest model can make a substantial contribution when its task, sources and next useful action fit together.**
+
+The app could make a first encounter easier: someone asks a question in ordinary language, receives an understandable explanation linked to the relevant source, explores a practical example and chooses where to go next. Several such encounters can help a person build understanding over time. This is the positive contribution to test.
+
+### What the model and the demonstrations establish {#lfm3-evidence}
+
+[Liquid AI's release article](https://www.liquid.ai/blog/lfm3) introduces LFM3 as a family for specialized local applications. The [official LFM3-1.7B model card](https://huggingface.co/LiquidAI/LFM3-1.7B) identifies a **1.73-billion-parameter text checkpoint**, a supported **256K-token input-plus-output context**, tool calling and structured output. It describes an approximately **1 GB footprint at 4-bit precision** and recommends retrieval for knowledge-heavy work. The weights use the **LFM Open License v1.0**. The publisher also identifies complex multi-step reasoning and agentic coding as unsuitable targets for this small checkpoint.
+
+The [Ollama listing](https://ollama.com/library/lfm3) provides a desktop experiment route. Its [tag list](https://ollama.com/library/lfm3/tags) includes approximately 1.0–1.1 GB four-bit packages and larger variants. A model-file size, available working memory and sustained app memory are different measurements. A phone trial should record the context actually used, the runtime, loading time, response delay, peak memory, battery use and thermal slowdown.
+
+John's supplied material contains **two separate demonstrations**, embedded at the [bottom of this page](#selected-videos):
+
+| Supplied demonstration | Reported result | How it informs this proposal |
+|---|---|---|
+| *LFM3 on Ollama: 20 INSANE Real Tests* | **16 PASS, 3 PARTIAL, 1 FAIL**; approximately **141 tokens/second** on a laptop with an **RTX 4060 and 8 GB video memory**. The reported failure involves a nonexistent paper. | A promising task-selection lead. The supplied text summarizes part of the twenty-test sequence rather than supplying every prompt and output; retain the score as the creator's report. The companion needs its own project-specific cases. |
+| Phone tutorial using AtomicChat's modified LFM3 build | The supplied transcript reports approximately **26 tokens/second on an iPhone 16 Pro Max** using OnDevice. | A different checkpoint/package, device and runtime. Use it as a phone deployment lead; measure the companion on its actual target devices. |
+
+The tutorial's current [written workflow](https://www.yourunai.com/workflows/uncensored-ai-iphone-android) marks the iPhone route as partially field-tested and **exact-checkpoint Android compatibility as unverified** for its listed clients. The [AtomicChat model card](https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF) describes a refusal-direction weight modification and its own measurements. Keep the official checkpoint and that community modification as separate comparison conditions. The [refusal research below](#refusal-direction) supplies the distinction between answering more often and improving correspondence.
+
+For the first companion, text is a useful starting point. Voice, image or camera interaction can be added through a suitable family checkpoint or declared speech/vision components. The text model's small footprint does not specify the resource needs of those additions.
+
+### Small tasks that can build a larger understanding {#companion-tasks}
+
+The following are **candidate app functions** derived from John's proposal. Each has a concrete contribution and a source the visitor can inspect.
+
+| Visitor's task | A useful companion response | Connected project material |
+|---|---|---|
+| “Where should I begin?” | Explain the project in accessible language, offer one relevant starting page and let the visitor choose a different route. | [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) |
+| “What does C1 before C2 mean?” | Explain recovery of the actual object and answer-changing clarification before avoidable intervention; show a short everyday example. | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process before Contextual Intervention) |
+| “How can I question an A.I. answer constructively?” | Keep the actual answer and source together; help locate the changed qualifier, missing relation or unresolved meaning. | [27 obstructions + 12-stage inquiry]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) |
+| “What could this project contribute to the world?” | Walk through a concrete correction, show who could benefit and distinguish the proposed contribution from an observed outcome. | [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) |
+| “Which local tool could help with my task?” | Relate the participant's objective and available device to a small selection from this catalogue, with current source links. | [Candidate catalogue](#catalogue) · [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) |
+| “I want to explore this more deeply.” | Prepare a participant-selected question and source packet for another local model, preserving the original object, uncertainty and corrections. | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Herdr]({{ '/HERDR/' | relative_url }}) |
+| “This explanation missed my point.” | Accept the correction, revise the relevant representation and test whether it changes a later comparable answer. | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) |
+
+An explanation can be accurate while the visitor's unfolding question remains open. **[Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})** helps the companion state its present understanding, retain a relevant alternative and ask a useful question when the answer would change the next move. Questions earn their place through that contribution; the interface need not reserve a compulsory question at the end of every reply.
+
+### A practical first build {#companion-first-build}
+
+Start with a small, versioned public reference pack: a project introduction, reviewed FAQ entries, exact excerpts, definitions, source dates and a page-route catalogue. Keep quotations distinguishable from the companion's explanation. Local search can retrieve the relevant passages, and the model can explain them in context. This makes source recovery and explanation independently inspectable before any training experiment.
+
+| Component | First useful job |
+|---|---|
+| Local reference pack | Make a selected set of project material available offline, with stable source identities and update history. |
+| Retrieval and page lookup | Recover the relevant passage and select links from the real catalogue. A missing passage remains visible as missing. |
+| LFM3 explanation layer | Explain, compare, summarize or ask about the retrieved material while preserving its qualifiers and status. |
+| Participant controls | Open the source, correct the interpretation, stop a reply, manage local history and choose whether to export a case. |
+| Optional larger-model handoff | Share only the participant-selected packet with a chosen local or connected system; identify where processing will occur. |
+
+For a desktop baseline, [Ollama's official model page](https://ollama.com/library/lfm3) supplies the starting route. For a phone build, Liquid's [native iOS/Android migration guidance](https://docs.liquid.ai/deployment/on-device/llama-cpp/migrating-from-leap-sdk) points toward llama.cpp integration. The **LEAP software development kit is deprecated**; its old example apps are architectural references. Select an exact runtime release with LFM3 support and verify the selected model's chat format and context handling.
+
+John's [GitHub discovery link](https://github.com/search?q=LFM3+model&type=repositories&p=1) also leads to community experiments. [AIR-pixel/lfm3-android](https://github.com/AIR-pixel/lfm3-android) describes an Android terminal/browser route with LFM3-specific runtime work. [skorotkiewicz/lfm3-chat](https://github.com/skorotkiewicz/lfm3-chat) explores a separate Omni-model camera/voice interface. These are source-inspected implementation leads, with distinct models and execution arrangements.
+
+Later specialization has a concrete upstream starting point: [Liquid's cookbook](https://github.com/Liquid4All/cookbook) includes LFM3 recipes for structured extraction, grounding answers in retrieved documents and tool selection. A project adaptation could use reviewed question–source–answer–correction examples. Compare it with the retrieval-only baseline and keep the source pack independently editable when project wording changes.
+
+### A focused companion trial {#companion-trial}
+
+Compare **the same reference pack used directly**, **LFM3 without retrieval**, and **LFM3 with that pack retrieved**. Use ordinary project questions, ambiguous follow-ups, missing-source questions, a request for a nonexistent project quotation, a corrected definition and a later comparable case. Preserve prompts, outputs, sources and the participant's corrections.
+
+Inspect whether a newcomer can find the right page, understand the explanation and choose a useful next step. Separately record fabricated quotations or links, qualifier loss, useful clarification, valid unresolved answers, correction transfer and the effort needed to repair an answer. Measure these alongside device performance. A fast reply and a faithful reply are independently observable; their combination is the practical target.
+
+The **[16 Anchor Ethics](#anchor-counsel)** can contribute modest parallel counsel within this work: consent around exports, digital sovereignty over local history, epistemic integrity around sources, and noetic diversity around unfamiliar interpretations. Their useful effect may be a better question or a newly visible relationship while the visitor continues exploring.
+
+### From one phone to many participants {#companion-distribution}
+
+John's **thousands to hundreds of thousands of participants** is a possible distribution horizon. Local execution would distribute the inference work across those devices. A reusable reference pack could let a small team improve explanations and source routes without operating a central model server for every conversation.
+
+The compounding contribution would be understanding people can use: a visitor finds a concept, applies it to a real exchange, notices a correspondence loss, corrects it and carries that improved question into another setting. **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) supplies the relationship between temporary focus and wider awareness. Small interactions can open a path through a much larger project.
+
+At that scale, source versions and correction distribution matter. Keep dated updates, inspectable changes and a route for participants to retain, compare or decline a revised pack. Sharing a correction case remains voluntary. A small opt-in pilot can reveal which tasks help, which devices sustain the work and what should change before wider distribution. This publication develops that prototype proposal; the app and its comparative results remain future work.
 
 ## Refusal-direction research: what the arrow represents {#refusal-direction}
 
@@ -164,6 +237,8 @@ Records can stay local and proportionate to the task. Participants decide what t
 - **Upstream perimeter:** repository metadata and relevant README material for the fourteen GitHub repositories; the ArtCraft catalogue; the two publisher model cards; Omarchy release notes; Folio v1.10.0 notes; the refusal paper, walkthrough methodology and reported results. Source descriptions were inspected; programs, installers and model weights were not run for this publication.
 - **Status recovered during checking:** Void is deprecated/archived; Folio release notes extend the older README's platform description; Omarchy 4.5 remains a release candidate; the two supplied model cards have access conditions; the Dutch guide's complete path was recovered from its repository.
 - **Page synthesis and candidate trials:** GPT 6.1 Sol Pro A.I., November 1, 2026, under John's commissioning and choice among the three permitted titles. Proposed comparisons are applications of existing project instruments; no new core count is installed.
+- **LFM3 companion extension:** John supplies the educational-companion proposal, distribution horizon and two video accounts in his November 1 follow-up. GPT 6.1 Sol Pro A.I. supplies the source comparison, candidate app functions and proposed trial. Official Liquid/Ollama material, the AtomicChat card, the current written phone workflow and the named GitHub READMEs were inspected. The supplied twenty-test account contains summarized intervals; no full test replication or phone benchmark is claimed here.
+- **Edition relationship:** the downloadable November 1 PDF preserves the initial catalogue, before this LFM3 extension. The live page and complete mirror carry the expansion; the page PDF follows the normal refresh schedule.
 - **Correction route:** supply the relevant version, source passage, observed discrepancy or experiment result. Update the affected entry while preserving the earlier dated state and the reason for the change. A repository can move, become archived or change its license; the date above identifies this inspection.
 
 ## Related pages {#related-pages}
@@ -179,4 +254,18 @@ Records can stay local and proportionate to the task. Participants decide what t
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) · [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — preserve the relationship and test its later influence.
 - [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluate a contribution by what it makes possible.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — reciprocal inspection, proportionality and bounded stopping.
+
+## Selected videos {#selected-videos}
+
+### LFM3 on Ollama — twenty-test account
+
+{% include youtube-embed.html id="FcxT97Dj6QQ" title="LFM3 on Ollama: 20 INSANE Real Tests" caption="Selected by John Kuhles. The supplied account reports 16 PASS, 3 PARTIAL and 1 FAIL, with about 141 tokens/second on an RTX 4060 laptop. Its score remains a creator-reported result; see the evidence comparison above." %}
+
+### LFM3 phone tutorial — a separate modified checkpoint
+
+{% include youtube-embed.html id="vbIw44T3yzU" title="LFM3 local phone tutorial — iPhone and Android workflow" caption="Selected by John Kuhles. The supplied transcript demonstrates the AtomicChat modification through OnDevice; the current written workflow distinguishes the iPhone route from still-unverified exact-model Android client compatibility." %}
+
+### mini-AGI — the catalogue's earlier video lead
+
+{% include youtube-embed.html id="L-6O7R71CCg" title="mini-AGI — supplied candidate video lead" caption="The video lead from John's originating Recommended collection, now embedded beside its catalogue reference. Its contents were not independently reviewed for this publication; the candidate description above follows the project README." %}
 
