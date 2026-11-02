@@ -81,6 +81,8 @@ The several 27 links below are layers of one object. They are not five cores.
 
 ## 2. How the topology moves {#how-it-moves}
 
+- **[Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }})** — the 2 November live-session shift from polished rearrangement and redundant uncertainty announcements to a contribution developing access, dependence and agency.
+
 Field, phase, flux, and jurisdiction. These pages describe what the core does when attention, context, or power shifts.
 
 - **[12-Part Deep Ethical Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)**
