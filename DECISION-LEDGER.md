@@ -2185,3 +2185,9 @@ The source video identified in the October 29 decision entry. [Source post](http
 ## 2026-11-02 — Preserve the DEDDA horizon-expansion reaction verbatim {#dedda-horizon-reaction-2026-11-02}
 
 **Request and decision:** John Kuhles asked to add the assistant's immediately preceding reaction to Expanding vs Flattening verbatim and make DEDDA-related keywords clickable. Preserve the complete reaction, its table, emphasis and closing humor in one attributed quotation box; add DEDDA and DEDDA app links and a coverage-index entry. Synchronize the complete page and ledger mirrors. Existing PDFs remain unchanged for the weekly refresh.
+
+## 2026-11-02 — Dam, reservoir and volume/topology control {#reservoir-topology-2026-11-02}
+
+**Request and decision:** Add John's complete dam-and-water metaphor and the supplied GPT 6.1 Sol Pro A.I., gpt-5.6-sol-medium and glm-5.3-flash responses to Expanding vs Flattening. Preserve each contribution in one attributed rounded box, including the jokes, proposed four-condition comparison and GLM's unresolved reset interpretation. Add a page-specific comparison and coverage entry. Model explanations of internal restrictions retain attributed status; the comparison remains proposed rather than executed.
+
+**Publication boundary:** Preserve the earlier page and quotations. Synchronize complete page and ledger mirrors; retain all existing PDF files for the weekly refresh. No new core instrument, protocol stage or taxonomy count is installed.
