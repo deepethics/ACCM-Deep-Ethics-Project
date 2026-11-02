@@ -407,7 +407,7 @@ The present page can therefore retain a useful discovery and a live criticism in
 
 ## Intent, notice and the handling of a correction {#intent-and-notice}
 
-John next connected [Intent Resonator]({{ '/NETWORK/intent-resonator/' | relative_url }}). Its six interacting mechanics—**instructions, incentives, mission/output, risk management, reasoning assumptions and choices**—locate an answer in the process that helped produce it.
+John also connected [Intent Resonator]({{ '/NETWORK/intent-resonator/' | relative_url }}). Its six interacting mechanics—**instructions, incentives, mission/output, risk management, reasoning assumptions and choices**—locate an answer in the process that helped produce it.
 
 For this specimen, the assistant had access to John's correction about imagined audiences. It could describe that correction. The subsequent question is what weight the correction acquired when another opportunity appeared. Access, recognition, capability, discretion and actual response remain distinct. A responsibility claim becomes more useful when those conditions are recoverable.
 
