@@ -31,7 +31,7 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 
 ## Current development routes {#current-development-routes}
 
-**Updated 31 October 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+**Updated 2 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |
 |---|---|
@@ -81,7 +81,7 @@ The several 27 links below are layers of one object. They are not five cores.
 
 ## 2. How the topology moves {#how-it-moves}
 
-- **[Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }})** — the 2 November live-session shift from polished rearrangement and redundant uncertainty announcements to a contribution developing access, dependence and agency.
+- **[Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }})** — the 2 November live-session shift from polished rearrangement to useful contribution, followed through lived calibration, shared humor, templates, the seer, the corrected A–T audit field and challengeable authority. Neutral Arbiter Paradox and Validation Paradox connect a declared ethical direction with impartial case assessment and stage-appropriate evidence; a coverage index preserves the continuation's exchanges.
 
 Field, phase, flux, and jurisdiction. These pages describe what the core does when attention, context, or power shifts.
 
