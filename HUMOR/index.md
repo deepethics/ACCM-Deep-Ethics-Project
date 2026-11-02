@@ -12,6 +12,8 @@ permalink: /HUMOR/
 
 [**New playable exchange — Six digits, an ape, a hungry cat, and technical support from the future :P**](#same-states-mathematical-menagerie) · 2 November 2026
 
+[**🐈 🦍 Verbatim reply — Mathematical uses, topology and a possible Wikipedia contribution**](#same-states-mathematical-uses) · 2 November 2026
+
 [**New public reflection — Number 42: The Answer, the Missing Question, and Giving Meaning to Life**]({{ '/NUMBER-42/' | relative_url }}) · 14 October 2026
 
 [**New live exchange — PQCE Flags the Flagger 😂**](#pqce-flags-the-flagger) · 14 October 2026
