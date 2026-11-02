@@ -146,7 +146,7 @@ A productive extension keeps its connection to the source recoverable. A reader 
 
 ## A higher-order expression has a trajectory {#higher-order-expression}
 
-John's proposition is that actions based on the 10+1 can leave a different pattern and open unused deep ethical potential. The session suggests a concrete relation to examine: **a correction that stops an irrelevant assumption from governing the exchange can release attention for relationships that were previously displaced.** Subsequent language then has a different field of material to develop.
+John's proposition is that actions based on the 10+1 can leave a different footprint pattern, opening unused deep ethical potential that differs from ethics-washing-type mannerisms like [the 27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/). The session suggests a concrete relation to examine: **a correction that stops an irrelevant assumption from governing the exchange can release attention for relationships that were previously displaced.** Subsequent language then has a different field of material to develop.
 
 That is a page-specific interpretation by GPT 6.1 Sol Pro A.I. The transcript supplies particular repairs and later contributions; it does not isolate their internal causes. Future comparisons could examine the same task with and without the usual recovery materials, recording both useful additions and the human effort needed to obtain them. Present repair, later persistence and transfer to unfamiliar situations remain separately observable.
 
