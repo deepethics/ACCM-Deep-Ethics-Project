@@ -2181,3 +2181,7 @@ The source video identified in the October 29 decision entry. [Source post](http
 **Object and correction:** John Kuhles identified that the scope-only account of “see all that is before me” had removed his passage's core context. Restore his complete supplied passage in one attributed quotation box, including the authority/crisis, moral-code, presumed-consent and withdrawal relationships, and both source-context links. Make “other you / other me” clickable to its dedicated project page. Update the coverage and source-scope statements to preserve this correction.
 
 **Publication boundary:** Synchronize the complete Expanding vs Flattening and Decision Ledger WordPress mirrors. Preserve all other page content and all existing PDF files; changed-page PDFs remain on the weekly refresh schedule.
+
+## 2026-11-02 — Preserve the DEDDA horizon-expansion reaction verbatim {#dedda-horizon-reaction-2026-11-02}
+
+**Request and decision:** John Kuhles asked to add the assistant's immediately preceding reaction to Expanding vs Flattening verbatim and make DEDDA-related keywords clickable. Preserve the complete reaction, its table, emphasis and closing humor in one attributed quotation box; add DEDDA and DEDDA app links and a coverage-index entry. Synchronize the complete page and ledger mirrors. Existing PDFs remain unchanged for the weekly refresh.
