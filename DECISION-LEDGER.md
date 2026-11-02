@@ -2191,3 +2191,11 @@ The source video identified in the October 29 decision entry. [Source post](http
 **Request and decision:** Add John's complete dam-and-water metaphor and the supplied GPT 6.1 Sol Pro A.I., gpt-5.6-sol-medium and glm-5.3-flash responses to Expanding vs Flattening. Preserve each contribution in one attributed rounded box, including the jokes, proposed four-condition comparison and GLM's unresolved reset interpretation. Add a page-specific comparison and coverage entry. Model explanations of internal restrictions retain attributed status; the comparison remains proposed rather than executed.
 
 **Publication boundary:** Preserve the earlier page and quotations. Synchronize complete page and ledger mirrors; retain all existing PDF files for the weekly refresh. No new core instrument, protocol stage or taxonomy count is installed.
+
+## 2026-11-02 — Humor: Same states and the mathematical menagerie {#same-states-humor-2026-11-02}
+
+**Request and decision:** John Kuhles asked to add the mathematical exchange and embed its app on the Humor page. Add a dedicated included section preserving the Sesame Street, ape, hungry-cat and future-self sequence, selected exact dialogue, the correction trail, a ground-floor explanation and the reciprocal gift. Embed a self-contained static edition of the supplied final Same states playground, offer the unchanged `same-states5.zip` source archive, and provide standalone access.
+
+**Contribution provenance:** John identified Grok 4.7 Expert Build as the main assisting A.I., with help from Google A.I. John directed and relayed the collaboration; GPT 6.1 Sol Pro A.I. introduced the initial 142857 topic, supplied mathematical development and source checks, and packaged the final components for publication. Individual source-file authorship was not supplied. Keep John's reported final browser/build checks distinct from the publication's independently run static-edition checks.
+
+**Publication boundary:** Extend the existing Humor page and its full WordPress mirror, update the complete ledger mirror, and retain all existing PDF binaries and their snapshot dates for the weekly changed-source refresh. The app is a page asset; existing navigation and PDF registries remain in place.

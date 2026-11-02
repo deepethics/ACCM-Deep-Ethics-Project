@@ -1,0 +1,52 @@
+{
+  "title": "Same states",
+  "publication_date": "2026-11-02",
+  "source_upload": "same-states5.zip",
+  "source_zip_sha256": "2b12e249b23899652a8cd823a675087d6834411c5ce3a50d2bda62f2fe75a5f3",
+  "source_archive_preserved_byte_for_byte": true,
+  "retained_source_sha256": {
+    "src/lib/city.ts": "ca9897006a51125e8b584da4144d2b5239ffb422319c2f8e5ce72abecd30f274",
+    "src/lib/seven.ts": "36060794460c292454d35064f1d377c073d75c3d58488ad39f39060ac585f1e0",
+    "src/components/city-map.tsx": "e7b1ff5af2efc998cab2fd6fa7ef1f007438938bd5f5b917d886772397f46003",
+    "src/components/seven-map.tsx": "a8b64ded0057231a65d5586f5888e86f6655a2e588d9fcd05c7b1ff0ca677b96",
+    "src/styles.css": "f27d4f17790b54d1546a9d5826e3890dd4e1671de4f937a2510bc347cf55f2c6"
+  },
+  "assistance_attribution": "John Kuhles identified Grok 4.7 Expert Build as the main assisting A.I., with help from Google A.I.; individual source-file authorship was not supplied.",
+  "publication_work": "GPT 6.1 Sol Pro A.I. packaged the supplied final components as a self-contained static React app and added the Humor-page account and embed.",
+  "standalone_changes": [
+    "Replace TanStack route mounting with React createRoot.",
+    "Make the source-ZIP download URL relative to this app.",
+    "Bundle React, the two used icons and the supplied styles locally."
+  ],
+  "runtime_dependencies_external": [],
+  "build_dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "esbuild": "0.28.2",
+    "tailwindcss": "4.3.0",
+    "@tailwindcss/cli": "4.3.0",
+    "lucide-react": "0.510.0"
+  },
+  "app_html_sha256": "213fecabb3770ef6db9961bbb255b989a139c3097b756c11f87ccefac0428b95",
+  "publication_checks": {
+    "browser_checks": [
+      "decimal cycle and inverse setting preserve residue",
+      "self-inverse half-turns",
+      "base20 composition identity and complement chord",
+      "animation takes composed-binary inverse step",
+      "modulo7 reversal and composed reversal",
+      "unchanged source ZIP download",
+      "desktop layout",
+      "390px mobile both landscapes",
+      "sandboxed embedded app runs"
+    ],
+    "browser_console_errors": [],
+    "round_trips_checked": 182,
+    "viewports": [
+      "1280px desktop",
+      "390px mobile"
+    ],
+    "sandboxed_iframe_tested": true,
+    "source_zip_download_sha256_matches_upload": true
+  }
+}

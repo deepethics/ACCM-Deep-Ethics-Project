@@ -1,0 +1,19 @@
+Same states — static publication build, 2 November 2026
+
+The downloadable same-states-source.zip is the supplied same-states5.zip unchanged.
+The published index.html bundles only its two playground components, their arithmetic
+helpers, their CSS, React and the two used lucide-react icons. The original archive
+also contains host-specific infrastructure that is not used by the static app.
+
+To reproduce the static bundle, extract the source ZIP in an empty directory,
+place standalone-entry.tsx at src/main.tsx, and install the versions recorded in
+provenance.json. Configure the @/* alias to src/* in tsconfig.json with jsx react-jsx.
+Run:
+  esbuild src/main.tsx --bundle --minify --format=iife --target=es2020 --legal-comments=inline --outfile=app.js
+  tailwindcss -i src/styles.css -o app.css --minify
+
+The publication wraps app.css and app.js inside one HTML document with a viewport
+meta tag and a root div. It adds visible keyboard-focus outlines. No external
+scripts, fonts, services, sign-in or database are required to run the static app.
+The original arithmetic and playground components are unchanged; source-file
+checksums and exact build dependency versions are in provenance.json.
