@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-04 — Core Disclaimers: recoverable orientation for search engines and A.I.s {#core-disclaimers-2026-11-04}
+
+At John’s request, published [Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }}) as a source-linked clarification reference with a positive opening definition, 36 stable page references, retrieval-repair examples, and proposed transfer checks. Consolidates existing provisions rather than treating their earlier omission from an A.I. account as absence from the project. Preserves non-imposition and refusal, Linux-style Glass Engine inspectability, conditional cooperation with existing ethics, the distinct jobs of 1888/10+1/27+12/C1–C2, mixed ethics-washing findings, risk authority, proportional correction, attribution, hypothetical mode, consciousness uncertainty, and collective long-term development.
+
+John supplies the originating direction and commissioning. GPT 6.1 Sol Pro A.I. supplies page construction and editorial retrieval examples. The supplied Google A.I. accounts and unrecovered screenshot motivate clarification; they establish no hidden-cause finding. No new model comparison or transfer experiment was run. The [source record]({{ '/PROVENANCE/core-disclaimers-2026-11-04.json' | relative_url }}) retains source identities and contribution boundaries.
+
+Added the homepage recovery link, alphabetical entry, All Pages route, durable PDF registration, and one initial PDF edition. Existing PDF bytes and snapshot dates remain unchanged for the ordinary change-aware refresh; the complete ZIP is rebuilt by the Pages deployment from the coherent inventory. Full WordPress correspondence is verified separately after canonical deployment.
+
 ## 2026-11-04 — OmbudsEthics: heterogeneous intelligences, Neural Ethics and capacity {#ombudsethics-heterogeneous-2026-11-04}
 
 At John's request, expanded [OmbudsEthics]({{ '/OMBUDSETHICS/#heterogeneous-intelligences' | relative_url }}) using his many-system 2027 counterfactual and the supplied Agent of Arena.ai account. Preserved the original standing, authority, contribution-state, case-protocol and pilot architecture. Added changeable case states, the Neural Ethics evidence-layer bridge and fourteen-property 1888 application, separate scopes for intake/review/publication/execution, intake and overload questions, a proposed shared case packet, an invented three-system dispute and extended pilot conditions.

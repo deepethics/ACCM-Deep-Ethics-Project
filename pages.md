@@ -29,6 +29,8 @@ Some pages in the reading order have no route number. [1888 — Intelligence Bef
 
 Jump: [Current development routes](#current-development-routes) · [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
 
+**[Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }})** consolidates source-linked clarification of the project’s identity, non-imposition, auditability, intelligence properties, instruments, claim status, and collective trajectory. It provides stable recovery references for people, search engines, and A.I. systems.
+
 ## Current development routes {#current-development-routes}
 
 **Updated 2 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.

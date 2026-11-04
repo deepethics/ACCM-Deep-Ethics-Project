@@ -1,11 +1,9 @@
 ACCM Deep Ethics Project — Public Page PDF Export
 Export date: 2026-11-04
-Successful PDFs: 165
+Successful PDFs: 166
 Failed PDFs: 0
-Total pages: 2572
-Total PDF bytes: 20676940
+Total pages: 2591
+Total PDF bytes: 20798582
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Full-set refresh cadence: weekly.
-Initial edition added: METACOGNITIVE-SYNTHESIS.pdf (23 pages; 2026-11-04).
-Existing 164 PDF bytes and individual edition dates retained.

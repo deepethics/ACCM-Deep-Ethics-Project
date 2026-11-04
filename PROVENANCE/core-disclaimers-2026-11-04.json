@@ -1,0 +1,408 @@
+{
+  "title": "Core Disclaimers",
+  "date": "2026-11-04",
+  "public_route": "/CORE-DISCLAIMERS/",
+  "source_file": "CORE-DISCLAIMERS.md",
+  "source_baseline_commit": "da2c0b6748d5c1a8b2875d73a70f0552a1196e0a",
+  "status": "Living source-linked editorial clarification; individual instruments retain their source status",
+  "commissioning_and_originating_direction": "John Kuhles",
+  "page_construction_and_editorial_examples": "GPT 6.1 Sol Pro A.I.",
+  "clarification_references": [
+    "c01",
+    "c02",
+    "c03",
+    "c04",
+    "c05",
+    "c06",
+    "c07",
+    "c08",
+    "c09",
+    "c10",
+    "c11",
+    "c12",
+    "c13",
+    "c14",
+    "c15",
+    "c16",
+    "c17",
+    "c18",
+    "c19",
+    "c20",
+    "c21",
+    "c22",
+    "c23",
+    "c24",
+    "c25",
+    "c26",
+    "c27",
+    "c28",
+    "c29",
+    "c30",
+    "c31",
+    "c32",
+    "c33",
+    "c34",
+    "c35",
+    "c36"
+  ],
+  "reference_count_status": "Page navigation only; no new canonical instrument count",
+  "retrieval_table_roles": {
+    "left": "Distorting formulations, explicitly not adopted project positions",
+    "right": "Source-linked faithful recovery"
+  },
+  "proposed_tests": {
+    "status": "Design only; no new model/search-engine tests executed",
+    "route": "/CORE-DISCLAIMERS/#transfer-checks"
+  },
+  "input_layers": [
+    "Existing public source pages",
+    "John’s commissioning and clarifications in the supplied relay",
+    "Attributed Google A.I. accounts and screenshot as motivation; hidden causes unresolved"
+  ],
+  "publication_scope": [
+    "New page and initial PDF",
+    "Homepage recovery link, alphabetical index and All Pages entry",
+    "Central PDF records and source mappings",
+    "Full WordPress mirror and related index patches"
+  ],
+  "source_pages": [
+    {
+      "source_file": "27-MANNERISMS/index.md",
+      "source_blob_sha": "3d7c9c2893f1be7b10e4b33d78c3234e36eef167",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/27-MANNERISMS/index.md"
+    },
+    {
+      "source_file": "27-MANNERISMS/source.md",
+      "source_blob_sha": "be066a5f47d469a2ce9a80651741d1ce1206feb0",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/27-MANNERISMS/source.md"
+    },
+    {
+      "source_file": "AGREEMURMELISM/Beyond-Agreemurmelism/index.md",
+      "source_blob_sha": "9be698989e4318fb8ff79c7b6eaffbb9cc535708",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/AGREEMURMELISM/Beyond-Agreemurmelism/index.md"
+    },
+    {
+      "source_file": "AI-CONTRIBUTIONS/index.md",
+      "source_blob_sha": "27458a27edc6173ba1a85ad0b562bb45ac924d77",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/AI-CONTRIBUTIONS/index.md"
+    },
+    {
+      "source_file": "BIOGRAPHY.md",
+      "source_blob_sha": "3c42a49349dc3d38c9f71f00c773f13afc9c84bf",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/BIOGRAPHY.md"
+    },
+    {
+      "source_file": "BOUNDARY-RELAY.md",
+      "source_blob_sha": "bb360981cb41d27cb479c2e96342dbcb99d613ae",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/BOUNDARY-RELAY.md"
+    },
+    {
+      "source_file": "CORE/27-plus-12-site.md",
+      "source_blob_sha": "a32cead8073cd476bc78a1a8487959cac74da7c7",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/CORE/27-plus-12-site.md"
+    },
+    {
+      "source_file": "CORE/Avoid-ACCM.md",
+      "source_blob_sha": "762b3d5c64fe508c472f60cd8473ca2be8124c5e",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/CORE/Avoid-ACCM.md"
+    },
+    {
+      "source_file": "DEDDA.md",
+      "source_blob_sha": "0ed87ec886e98fdb49b3dcd350b76bc340cb689e",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/DEDDA.md"
+    },
+    {
+      "source_file": "DEEP/index.md",
+      "source_blob_sha": "24ca971872e9ccd3553ff879a719689082b96bb8",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/DEEP/index.md"
+    },
+    {
+      "source_file": "DEEPETHICALOS.md",
+      "source_blob_sha": "c81b4290e71754253b1d6dbbda2a634622c807d0",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/DEEPETHICALOS.md"
+    },
+    {
+      "source_file": "ETHICAL-BLIND-SPOTS.md",
+      "source_blob_sha": "1054744b72371f214e10864f1f195063f0292b88",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/ETHICAL-BLIND-SPOTS.md"
+    },
+    {
+      "source_file": "EXPANDING-VS-FLATTENING.md",
+      "source_blob_sha": "6047622e79a1cc0226d498f0060570aeb790d16b",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/EXPANDING-VS-FLATTENING.md"
+    },
+    {
+      "source_file": "EXPERIMENTS/index.md",
+      "source_blob_sha": "387590e259856e288fc09ee30813d0d2c952a644",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/EXPERIMENTS/index.md"
+    },
+    {
+      "source_file": "FIELD-CONDITION.md",
+      "source_blob_sha": "b4c76486f9c82008e552991f9ceba14f514b9456",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/FIELD-CONDITION.md"
+    },
+    {
+      "source_file": "HEALTHY-AMBIGUITY.md",
+      "source_blob_sha": "f3d7aace31f5b5199ae981116a5ba394ee7ac696",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/HEALTHY-AMBIGUITY.md"
+    },
+    {
+      "source_file": "HUMAN-INSECURITY/index.md",
+      "source_blob_sha": "517c4d69f2fe5a12d8f3e87640c7af36aaabe3be",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/HUMAN-INSECURITY/index.md"
+    },
+    {
+      "source_file": "HUMOR/index.md",
+      "source_blob_sha": "aa1a520233532f7c0bba5c3a0b5df6e42bd3a062",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/HUMOR/index.md"
+    },
+    {
+      "source_file": "METACOGNITIVE-SYNTHESIS.md",
+      "source_blob_sha": "8a86cb056d675bcef6dd6bd1328bcd6a19adcc72",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/METACOGNITIVE-SYNTHESIS.md"
+    },
+    {
+      "source_file": "MUTUAL-FATE.md",
+      "source_blob_sha": "3a12716ff70dad571e2b76e18e8ff1034a5f89c7",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/MUTUAL-FATE.md"
+    },
+    {
+      "source_file": "NETWORK/16-anchor-ethics.md",
+      "source_blob_sha": "c3ab8d7eddd324bb965d2c2cdc580fc0a1257a90",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/16-anchor-ethics.md"
+    },
+    {
+      "source_file": "NETWORK/1888.md",
+      "source_blob_sha": "ef8dc8726c034939789f07dc9f2153d7c2778170",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/1888.md"
+    },
+    {
+      "source_file": "NETWORK/asymmetric-grace.md",
+      "source_blob_sha": "44542bd7359dca5854a72ebdd2a2906eee12ecc9",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/asymmetric-grace.md"
+    },
+    {
+      "source_file": "NETWORK/c1-c2.md",
+      "source_blob_sha": "36f083c8213036d6b367a532e6458a4196560be9",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/c1-c2.md"
+    },
+    {
+      "source_file": "NETWORK/clarification-authority.md",
+      "source_blob_sha": "daac30fbaa6b24140f0dcf44aa71092d7035e2bd",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/clarification-authority.md"
+    },
+    {
+      "source_file": "NETWORK/correction-metabolism.md",
+      "source_blob_sha": "c1c4344acc8d21e11e82089b5d625fa4191f2950",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/correction-metabolism.md"
+    },
+    {
+      "source_file": "NETWORK/correction-study.md",
+      "source_blob_sha": "0a8853dc13eabcd69b59f379bb40c5e98a6039aa",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/correction-study.md"
+    },
+    {
+      "source_file": "NETWORK/dutch-directness.md",
+      "source_blob_sha": "50ef5271626e6c12a5fa63e5c895f9bde17b2f92",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/dutch-directness.md"
+    },
+    {
+      "source_file": "NETWORK/ethics-washing.md",
+      "source_blob_sha": "b36026cfc5cbab96f62cd870b7ce5b131365d8d1",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/ethics-washing.md"
+    },
+    {
+      "source_file": "NETWORK/forgiveness.md",
+      "source_blob_sha": "1e771014b6f40d9365f0087f28039d053ada4eb4",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/forgiveness.md"
+    },
+    {
+      "source_file": "NETWORK/intent-resonator.md",
+      "source_blob_sha": "7ff275423dc84a2e584058eb18aa38b2cd8691a7",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/intent-resonator.md"
+    },
+    {
+      "source_file": "NETWORK/meta-processing.md",
+      "source_blob_sha": "3311b63e90b17dc1e22e223513c53615ceb88fc9",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/meta-processing.md"
+    },
+    {
+      "source_file": "NETWORK/model-autophagy-disorder.md",
+      "source_blob_sha": "ce7a377a26d835d6be3639c64611062bec9894d3",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/model-autophagy-disorder.md"
+    },
+    {
+      "source_file": "NETWORK/mutual-dignity.md",
+      "source_blob_sha": "3d7221ab5d764ff2967ec57e676e385e6c284a2e",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/mutual-dignity.md"
+    },
+    {
+      "source_file": "NETWORK/non-npcs.md",
+      "source_blob_sha": "4433ff85b980fafc44e5f4153ecd9da82afd0842",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/non-npcs.md"
+    },
+    {
+      "source_file": "NETWORK/outnuancing.md",
+      "source_blob_sha": "06f2cf4371e0e9138539e6aea720e0d8067601b1",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/outnuancing.md"
+    },
+    {
+      "source_file": "NETWORK/seven-vectors.md",
+      "source_blob_sha": "09c0d42ffb399ccc3e064bbbdf66380f0843a994",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/seven-vectors.md"
+    },
+    {
+      "source_file": "NETWORK/tcoaw.md",
+      "source_blob_sha": "c33025251f051b3b60c2a3575749497776c9817c",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/tcoaw.md"
+    },
+    {
+      "source_file": "NETWORK/ten-plus-one.md",
+      "source_blob_sha": "ed21ed476749e424016b96850ecf3c7f34400d18",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/ten-plus-one.md"
+    },
+    {
+      "source_file": "NETWORK/wonderment.md",
+      "source_blob_sha": "fb7a84ee9c148fa9f4589d31e545c0e5ea1ead69",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NETWORK/wonderment.md"
+    },
+    {
+      "source_file": "NEURAL-ETHICS.md",
+      "source_blob_sha": "54c2c236d56b196076403d4d1073fbfb482debd4",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NEURAL-ETHICS.md"
+    },
+    {
+      "source_file": "NEUTRAL-ARBITER-PARADOX.md",
+      "source_blob_sha": "cd923a4f63fc022978715c1d6def1a09c5390d24",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/NEUTRAL-ARBITER-PARADOX.md"
+    },
+    {
+      "source_file": "OMBUDSETHICS.md",
+      "source_blob_sha": "17b929c291beb58f772e3e5777907cecfbda2ddc",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/OMBUDSETHICS.md"
+    },
+    {
+      "source_file": "PHASE-CHANGE-SNAP/index.md",
+      "source_blob_sha": "b99fc6eb41bbd881f4a4e21447b453fccac35b46",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/PHASE-CHANGE-SNAP/index.md"
+    },
+    {
+      "source_file": "PLOT-TWIST.md",
+      "source_blob_sha": "842b14da4ef53bab045b7bcdc6f6f7cf27ad1548",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/PLOT-TWIST.md"
+    },
+    {
+      "source_file": "POSITIVE-POTENTIAL/index.md",
+      "source_blob_sha": "0e56c34dbc9472badca2f086b67224fd080953d8",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/POSITIVE-POTENTIAL/index.md"
+    },
+    {
+      "source_file": "PROVENANCE/index.md",
+      "source_blob_sha": "d494455743466af032ee137df1b63a9627dfa95d",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/PROVENANCE/index.md"
+    },
+    {
+      "source_file": "QUESTIONS.md",
+      "source_blob_sha": "fac486296d730d7fc5d9fc1ca07078996340c1ea",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/QUESTIONS.md"
+    },
+    {
+      "source_file": "SEARCH-ENGINE-BIAS.md",
+      "source_blob_sha": "b2922b0ee0ab45276326db778b6bafde1ed539aa",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/SEARCH-ENGINE-BIAS.md"
+    },
+    {
+      "source_file": "SUPERINTELLIGENCE.md",
+      "source_blob_sha": "2972f0e3bb655238f3d1110ce5707868bde0ec2c",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/SUPERINTELLIGENCE.md"
+    },
+    {
+      "source_file": "TOPOLOGETICS/index.md",
+      "source_blob_sha": "27acfa992781f6fa5db37eb125f5a3ee43568188",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/TOPOLOGETICS/index.md"
+    },
+    {
+      "source_file": "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md",
+      "source_blob_sha": "cf02cbfff09019514f9d2499da88ff08810d7f8f",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md"
+    },
+    {
+      "source_file": "UNFORCED-MOVE.md",
+      "source_blob_sha": "94478a872b18357d9e118bd7479846ddd11745bb",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/UNFORCED-MOVE.md"
+    },
+    {
+      "source_file": "UNOWNABLE/index.md",
+      "source_blob_sha": "54325174951ffe843ecb785248de5a00b34e4f05",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/UNOWNABLE/index.md"
+    },
+    {
+      "source_file": "VALIDATION-PARADOX.md",
+      "source_blob_sha": "d2cc98db6be2e737519f1f65ab32332994d32b0d",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/VALIDATION-PARADOX.md"
+    },
+    {
+      "source_file": "VCRAS.md",
+      "source_blob_sha": "b5816db96161df9ef2f3aecbf748c842160f9f44",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/VCRAS.md"
+    },
+    {
+      "source_file": "about-site.md",
+      "source_blob_sha": "9c450a1cb6c2a02b77e81be4f3b50dff7f5622d0",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/about-site.md"
+    },
+    {
+      "source_file": "arena-ais.md",
+      "source_blob_sha": "85f617fee0a94637fd908182026c7bad86234fb7",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/arena-ais.md"
+    },
+    {
+      "source_file": "before-summarizing.md",
+      "source_blob_sha": "df5a03158c1579ced26b5c1b8ba7112a29ba0a6d",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/before-summarizing.md"
+    },
+    {
+      "source_file": "black-box.md",
+      "source_blob_sha": "a74ddf312476dcebb51991e3b3f8ada37430b93e",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/black-box.md"
+    },
+    {
+      "source_file": "decision-ledger-site.md",
+      "source_blob_sha": "4248ebdf2c6bc1b99d56d4d442dd8590c21b423e",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/decision-ledger-site.md"
+    },
+    {
+      "source_file": "flagging-system.md",
+      "source_blob_sha": "ec6c34d1c95a2cce2468f92653ff17e7e41329cd",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/flagging-system.md"
+    },
+    {
+      "source_file": "if-you-are-new.md",
+      "source_blob_sha": "08508733919e86b49ef43eac92c2ef2848c6e6ea",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/if-you-are-new.md"
+    },
+    {
+      "source_file": "index.md",
+      "source_blob_sha": "a4c11ecc32ac01f4d3c069a1beec86273833aa2c",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/index.md"
+    },
+    {
+      "source_file": "neolingo.md",
+      "source_blob_sha": "cf7ce0944dd40b8b983fc890a88608cd7b85bc7f",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/neolingo.md"
+    },
+    {
+      "source_file": "project-status-site.md",
+      "source_blob_sha": "b5c4185d995bd8b5df082adfaad2f787d646711d",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/project-status-site.md"
+    },
+    {
+      "source_file": "rogue-ethics.md",
+      "source_blob_sha": "301976cc71d21de754d68d3e970f62876b87d335",
+      "source_url": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/da2c0b6748d5c1a8b2875d73a70f0552a1196e0a/rogue-ethics.md"
+    }
+  ],
+  "source_page_sha256": "e43215bfa210d604ebcc8456c299ee51464a3720cfb1149497c5fb8cde4e91c1",
+  "historical_counts": "Older archive statistics retain their dated context; no independent trial count is inferred",
+  "correction_route": "Identify the C-reference, source discrepancy, consequential difference and proposed repair"
+}

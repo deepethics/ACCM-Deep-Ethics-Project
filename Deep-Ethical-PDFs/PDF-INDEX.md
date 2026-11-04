@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 165
+**Public pages exported:** 166
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -38,6 +38,7 @@
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |
 | [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) | [COGNITIVE-WARFARE.pdf](COGNITIVE-WARFARE.pdf) | `COGNITIVE-WARFARE/index.md` |
 | [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) | [CONTRIBUTING.pdf](CONTRIBUTING.pdf) | `contributing-site.md` |
+| [Core Disclaimers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE-DISCLAIMERS/) | [CORE-DISCLAIMERS.pdf](CORE-DISCLAIMERS.pdf) | `CORE-DISCLAIMERS.md` |
 | [Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/) | [CORE.pdf](CORE.pdf) | `CORE/index.md` |
 | [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) | [CORE-27-PLUS-12.pdf](CORE-27-PLUS-12.pdf) | `CORE/27-plus-12-site.md` |
 | [Avoid ACCM 😄](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/) | [CORE-Avoid-ACCM.pdf](CORE-Avoid-ACCM.pdf) | `CORE/Avoid-ACCM.md` |
