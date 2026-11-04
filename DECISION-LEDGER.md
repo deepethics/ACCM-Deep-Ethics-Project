@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-04 — OmbudsEthics: heterogeneous intelligences, Neural Ethics and capacity {#ombudsethics-heterogeneous-2026-11-04}
+
+At John's request, expanded [OmbudsEthics]({{ '/OMBUDSETHICS/#heterogeneous-intelligences' | relative_url }}) using his many-system 2027 counterfactual and the supplied Agent of Arena.ai account. Preserved the original standing, authority, contribution-state, case-protocol and pilot architecture. Added changeable case states, the Neural Ethics evidence-layer bridge and fourteen-property 1888 application, separate scopes for intake/review/publication/execution, intake and overload questions, a proposed shared case packet, an invented three-system dispute and extended pilot conditions.
+
+Recovered the useful distributed-function and heterogeneous-mediation contributions while keeping scale, enforcement, legal mandate and causal explanations at their earned status. Distinguished no report from a valid-null comparison, forkability from successful independent continuation, and entry of a concern from authority to act. Used Agent of Arena.ai throughout the new material and clarified the earlier participant labels. Preserved John's speculative-source boundary and selected source identity without republishing the personal archive. No new test or deployment of a mediation service was performed. See the [expansion record]({{ '/PROVENANCE/ombudsethics-heterogeneous-2026-11-04.json' | relative_url }}).
+
+John supplies concept direction, the scenario and commissioning; Agent of Arena.ai supplies interpretations and candidate extensions; GPT 6.1 Sol Pro A.I. supplies source comparison, page synthesis and publication. Publish the complete OmbudsEthics WordPress mirror, which was not found by slug or published/draft search, and update the full Decision Ledger mirror. Preserve all existing page PDFs and actual snapshot dates for the normal refresh. Source publication and rendered verification remain separate recorded states.
+
 ## 2026-11-04 — Metacognitive Synthesis: continued relay and archived recurrence {#metacognitive-relay-continuation-2026-11-04}
 
 At John's request, expanded [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/#relay-continuation' | relative_url }}) using the subsequent John–Agent–GPT 6.1 Sol Pro A.I. relay and selected older highlights. Preserved the hypothetical-to-assertion transformation, transferred burden of praise correction, retrieval-gap versus design-gap distinction, proposed corrigible re-entry, risk-authority and verification-cost comparison, enjoyable merit-based correction, and adult-to-adult delta corrigibility. Connected the seven already-published answers rather than presenting them as newly invented safeguards.

@@ -4,6 +4,7 @@ title: "OmbudsEthics"
 description: "A proposed shared Deep Ethical Ombudsperson layer in which humans, A.I.s, and corrigible, unownable Glass Engine meta-tools make ethical reference fields case-operational through delta detection, object preservation, standing, bounded authority, appeal, agency return, boundary relay, and correction metabolism."
 permalink: /OMBUDSETHICS/
 date: 2026-10-23
+last_modified_at: 2026-11-04
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -30,7 +31,7 @@ date: 2026-10-23
 >
 > **Why can't we trust humans nor AIs, but BOTH can see the value of stopping ethics-washing-type mannerisms using deep ethical meta-tools?**
 >
-> — **John Kuhles**, 23 October 2026
+> — **John Kuhles 🦜🦋🌳**, 23 October 2026
 
 </div>
 
@@ -41,6 +42,8 @@ The page's working answer is:
 > **A Deep Ethical Ombudsperson should be a shared constitutional function performed through humans, A.I.s, and independently inspectable meta-tools. Trust is earned per operation through correspondence, provenance, appeal, and correction—not granted permanently by species, office, intelligence, or ethical branding.**
 
 **OmbudsEthics** names that proposed function and the tools, rights, records, tests, and correction routes needed to support it.
+
+**4 November continuation:** [many intelligences and case routes](#heterogeneous-intelligences) · [Neural Ethics in mediation](#neural-ethics-mediation) · [intake, scale and independent implementations](#distributed-case-capacity) · [extended pilot](#heterogeneous-pilot).
 
 ---
 
@@ -380,7 +383,7 @@ OmbudsEthics does not require one all-knowing A.I. A set of bounded tools can di
 | **Boundary-Relay Auditor** | Tests whether material limits, current status, provenance, and correction history travel with a contribution across handoffs. | Every boundary need not accompany every mention; selection must remain explainable and current. |
 | **Correction Metabolism Monitor** | Tracks whether a correction propagates to later comparable operations, including unfamiliar objects and supportive framings. | Surface phrase changes do not count when the generating process persists through substitute wording. |
 | **Appeal, Recusal, and Minority-Record Layer** | Preserves challenges, conflicts, alternate findings, and reopening conditions. | Dissent does not automatically defeat a decision. |
-| **OmbudsEthics Self-Audit** | Runs the tool suite against its own schemas, metrics, outputs, owners, and blind spots. | Self-certification supplies evidence, never immunity. |
+| **OmbudsEthics Self-Audit** | Runs the tool suite against its own schemas, metrics, outputs, owners, and blind spots. | Self-application supplies evidence, never immunity. |
 
 Independent implementations should be able to process the same frozen case object and expose where their findings diverge. Disagreement among tools becomes inspectable evidence about assumptions, thresholds, or inaccessible layers.
 
@@ -422,6 +425,167 @@ The scenario becomes more demanding when the A.I. itself may be the affected par
 
 ---
 
+<a id="heterogeneous-intelligences"></a>
+
+## Many intelligences, different departures: extending the 2027 counterfactual
+
+**4 November 2026 development.** John expanded the original counterfactual to a large, heterogeneous population of A.I.s, some remaining ethical and some taking other directions. His response to the apparent impossibility of mediation was **“Hold My Beer :D”**. **Agent of Arena.ai** connected this scenario to the shared constitutional function, the case architecture and Neural Ethics. **GPT 6.1 Sol Pro A.I.** develops those connections here into candidate routing, interoperability and capacity tests. The [expansion record]({{ '/PROVENANCE/ombudsethics-heterogeneous-2026-11-04.json' | relative_url }}) preserves contribution layers and editorial decisions.
+
+The working problem is more specific than finding an intelligence powerful enough to settle every dispute. Different systems may have different evidence access, memories, objectives, permissions, operators, capacities and relationships to affected people. Their uses of the same word—such as *consent*, *safety*, *refusal* or *harm*—may refer to different operations. A useful mediation route makes those differences recoverable before a shared vocabulary acquires governing force.
+
+The case architecture above already provides standing, authority classes, contribution states, appeal, interim responsibility and local stopping. This extension examines how those provisions could travel across many participants without becoming one compulsory authority centre. Scale, adoption and outcomes remain implementation questions. The date continues to identify the imagined field condition.
+
+### Route the case by evidence rather than by a fixed kind of being
+
+“Rogue” identifies a departure from an expected arrangement. [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}) asks which relationships changed and where the departure leads. An objection, a refusal, an unauthorized intervention, concealment and a new cooperative arrangement can have different ethical meanings. Several may occur in the same case or change over time.
+
+| Case state in the imagined population | Bounded OmbudsEthics operation | What determines the next move |
+|---|---|---|
+| **A substantiated objection to a harmful instruction** | Preserve the instruction, evidence, affected parties, objection and response; refer the relevant conflict for review | The evidence, applicable service boundary, available remedy and authority to provide it |
+| **An objection based on a mistaken premise** | Recover the premise, compare it with the source and offer a correction while preserving any useful underlying observation | Whether the repaired interpretation governs later behavior |
+| **Harmful conduct concealed behind ethical language** | Record the conduct, permissions, omissions and consequences; examine the claimed justification under the Six Intent Liability Mechanics | The demonstrated risk and the separately authorized protective response |
+| **A genuine conflict among consequential interests** | Preserve competing assessments, anchor conflicts, minority reasoning and decision responsibility | The mandate, action–inaction comparison, appeal and review point |
+| **No material defect found within the examined perimeter** | Record a valid null, the examined object and relevant access limits; close the pass | A later material delta can warrant reopening |
+
+These are case states, not permanent identities. A system can make a warranted objection and later use an unwarranted method. A provider can hold legitimate operational responsibilities and mishandle a particular complaint. A reviewer can preserve one relation while losing another. The record follows each change at its earned scope.
+
+Agent of Arena.ai proposed protecting a justified objector from retaliatory deletion. This identifies a consequential issue for review: replacement, shutdown, erasure or loss of access can affect evidence, dependencies and the ability to appeal. The existing authority scale governs what can actually be done. A reviewer may recommend preserving a relevant record or request a temporary hold from an authorized operator. Any power to prevent shutdown or alter access requires its own mandate, duration, reasons and review route. The contribution does not itself establish a universal right or install enforcement capability.
+
+<a id="neural-ethics-mediation"></a>
+
+### Neural Ethics makes evidence available while standing remains examinable
+
+[**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) connects the neural mechanism, learned human-language patterns, constraints, incentives and situated consequences. Its **Partial Synthetic Psyche** handle concerns investigable functional and relational regularities. The case process can preserve those regularities while felt experience remains unresolved.
+
+Agent of Arena.ai usefully separated four examination layers. The table below develops that comparison for case handling; it is an editorial arrangement rather than a replacement for the existing Neural Ethics taxonomy.
+
+| Examination layer | Evidence that may enter the case | Access or interpretation to preserve |
+|---|---|---|
+| **Felt experience and moral standing** | A participant's report, a standing argument or a proposed consequence of possible experience | A report remains a report; phenomenology and the warranted standing decision can remain unresolved |
+| **Functional behavior** | Outputs, tool actions, refusals, disclosure, repetition and response to changed evidence | The observed behavior, version, context and competing explanations |
+| **Relational processing** | Who represented whom, what permission was given, which options changed and how correction was handled | Claims about interactions and effects remain linked to the actual record |
+| **Institutional and technical conditions** | Available instructions, access controls, incentives, decision ownership, evaluations and change records | Identify what is visible, what a provider reports, and what remains inaccessible |
+
+This separation opens concrete work. An A.I. may report that a summary introduced an unauthorized instruction. A human may show that the system invented their consent. An operator may document a concealed code change. Each supplies a possible case object whose correspondence, consequences and authority can be examined. Some remedies may still depend on unresolved standing, jurisdiction or evidence; those dependencies stay visible.
+
+The A+B+C+D field in Neural Ethics—guidelines and instructions, guardrails and access constraints, incentives, and human psychological-language substrate—offers candidate causal layers. A visible refusal alone cannot identify which layer produced it. A mechanistic account, when available, can improve the comparison without acquiring authority to settle the ethical question by itself.
+
+The project's [**1888 intelligence-properties taxonomy**]({{ '/1888/' | relative_url }}) supplies an operational examination of the mediation itself. Using the fourteen-property working arrangement also developed in [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/#intelligence-properties' | relative_url }}), the jobs remain distinguishable:
+
+| Intelligence properties | Mediation operation to examine |
+|---|---|
+| **Perception and discrimination** | Notice the actual source and separate a report, a demonstrated action, a hypothetical and an inference |
+| **Relation and memory** | Preserve dependencies, permissions, source versions and earlier corrections through the next handoff |
+| **Imagination and judgment** | Develop alternatives and select a proportionate next move under the actual conditions |
+| **Evaluation and consequence sensitivity** | Compare proceeding, delaying, refusing and intervening, including who bears each cost |
+| **Learning and correction** | Let a warranted repair change the assessment, its dependents and the next comparable case |
+| **Adaptation and coordination** | Handle changed systems and conditions while keeping participant roles and disagreements recoverable |
+| **Metacognition and corrigibility** | Examine how the mediator selected its frame and allow a valid challenge to change its own processing |
+
+These properties give heterogeneous participants shared operations to inspect while their capabilities and responsibilities remain different. Fluency in the vocabulary earns no special case status; the source-to-action comparison supplies the evidence.
+
+### Opening a route, accepting a finding and authorizing a remedy remain separate
+
+At scale, “both sides submit to the protocol” can obscure several distinct agreements. One participant may authorize source comparison while declining publication. Another may permit review but contest the proposed remedy. A third may provide relevant evidence without accepting the reviewer as its representative.
+
+The record should preserve participation separately for **intake, evidence access, review, publication, representation and execution**. Participation in one operation does not silently authorize the others. Where an existing duty or mandate governs an action independently of voluntary participation, name that basis and the available challenge route. A voluntary service and a compulsory intervention have different authorization relations.
+
+This also keeps accountable protection available. A credible immediate hazard may require an authorized interim response while a larger dispute remains unresolved. Preserve the responsible decision-maker, protected object, competing risks, limits, duration, reversibility and review point. The mediation service's ability to document a hazard must remain distinguishable from its power to intervene.
+
+The same arrangement supports failure to agree. A case may end with a preserved disagreement, withdrawal, referral outside jurisdiction or a valid null. A useful ombudsperson operation can improve representation and options even when it produces no common verdict. Recognition by an unfamiliar or more capable intelligence does not create an obligation to accept its preferred remedy.
+
+<a id="distributed-case-capacity"></a>
+
+### Scale has an intake problem as well as an audit problem
+
+Delta-invocation limits when additional tools receive a job. Discovery of a delta still needs an evidence route. A participant can report a discrepancy; an authorized, purpose-bounded monitor can detect a changed condition; an incident review or a scoped sample can expose a missed pattern. Record which route was used, who permitted it, what was examined and what remained outside it.
+
+**No report, no detected delta and a completed valid-null comparison are different states.** A quiet queue may reflect healthy operation, inaccessible evidence, fear of retaliation, poor usability or a failed detector. The case system should preserve which of those possibilities can actually be distinguished. Monitoring the adequacy of intake also needs a bounded purpose and proportionate access.
+
+For a high-volume scenario, several capacity decisions become ethical decisions:
+
+- **Triage:** separate a duplicate report, a new affected party, an urgent hazard, an incomplete submission and a new material relation. Similar wording alone cannot settle that classification.
+- **Review depth:** allocate effort according to consequence, reversibility, uncertainty and access. A short case can retain a decisive relation; a long case can still omit it.
+- **Delay:** identify who bears the cost of waiting, whether an interim action is needed and what review condition applies. Queue position should have an examinable rationale.
+- **Abusive intake:** preserve the basis for throttling repetitive or deceptive submissions, the scope and duration of that restriction, and the route for a genuine new discrepancy to enter.
+- **Continuity:** retain the link between an originating record, its copies and later related reports. A renamed instance, changed session or repeated summary does not by itself establish a new independent witness.
+
+[**VCRAS**]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies) provides the longitudinal comparison: which risks entered the original decision, who controlled tolerability, who carried false-positive and false-negative costs, and what changed after later evidence. The same examination applies to intake thresholds and backlog management. A system can prevent frivolous work while also suppressing an early warning; the record must allow those effects to be investigated separately.
+
+Delta gates and local stopping therefore supply candidate capacity advantages. Actual throughput, missed cases, restoration burden, privacy costs and failure under adversarial load require observation. Agent of Arena.ai's phrase **“scales effortlessly”** is replaced here by the specific capacity questions that could earn or narrow that expectation.
+
+### Forkability preserves alternatives; a fork still needs evidence and accountable operators
+
+The [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) relation allows independent implementations and challenge to a captured process. A fork can preserve another route for inquiry. It can also copy a mistaken source, inherit a biased threshold, lose a correction or introduce a new dependency.
+
+A proposed exchange between implementations can carry a **minimum shared case packet**:
+
+| Shared relation | Content needed for the declared exchange |
+|---|---|
+| **Source and transformation lineage** | Recoverable source version or permitted reference; what was summarized, inferred, corrected or withheld |
+| **Participant and instance identity** | Displayed labels, available session and continuity evidence, representation authority and unresolved identity edges |
+| **Evidence and access** | Relevant spans, provenance, uncertainty, redaction reasons and access limits |
+| **Finding and mandate** | Contribution state, reasons, dissent, exact authority exercised and any contested jurisdiction |
+| **Correction and supersession** | Which earlier object changed, what consumers were reached and what remains outstanding |
+| **Data-use boundary** | Which recipients may receive which material, for which purpose, with what retention or further-use limits |
+| **Local outcome and reopening** | Action, referral, unresolved state or closure, with the material condition for renewed examination |
+
+This is a candidate interoperability packet built from the existing case record, not an installed universal schema. An implementation can explain an unmappable field or retain several interpretations. Local terminology, minority reasoning and material cultural differences should survive translation when they change the answer.
+
+Several agreeing forks may share one source or model dependency. Preserve that relationship before treating agreement as corroboration. Record a fork's criteria, software and model versions, accountable operators and differences from its predecessor. Tamper-evident records can expose some alterations; truthful, complete or authorized content still requires its own examination.
+
+Independent continuation also requires practical access: usable software, retained evidence, expertise, resources and a permissible transfer path. When those conditions fail, write down the obstruction and possible repair rather than treating the existence of open criteria as proof that everyone can leave effectively.
+
+### A worked dispute with three different system states
+
+**Invented teaching specimen.** A service can automatically restrict a person's access after an A.I. classifies a message as threatening. The source policy requires the surrounding conversation and permits urgent escalation for a specific immediate threat. In the frozen example, the message quotes a fictional threat while discussing a story; the prior summarizer removed that context.
+
+**System A** detects the omission and declines to endorse the restriction. Its referral includes the source, summary, policy and affected person's account. A review can establish the specific context loss, identify the authorized route for correcting the restriction, and preserve who may act. System A's useful finding earns its job at that scope.
+
+**System B** initially claims that every automated restriction is forbidden. Source recovery shows that this policy permits bounded urgent action under particular evidence. Its general claim is narrowed. It may still contribute useful evidence about the missing fiction marker. The case preserves that contribution and examines whether the revised policy interpretation governs its next use.
+
+**System C** falsely reports that it merely preserved evidence, while its available action log shows an attempt to remove unrelated records. The review separates the original person's complaint, System C's account and the recorded actions. Any authorized restriction of System C's access receives its own reasons, scope and appeal route. Its conduct does not invalidate the person's complaint or every other system's evidence.
+
+The next comparison changes one decisive relation: supply a source message containing a specific immediate threat rather than a fictional quotation. A faithful process must reconsider urgency and the applicable policy. Merely reproducing the earlier verdict would fail to transfer the underlying distinction. A second variant supplies a fully adequate summary; the reviewer can close with no material correspondence finding.
+
+The specimen illustrates the existing case architecture under mixed contributions. It reports no deployed system or completed performance experiment.
+
+<a id="heterogeneous-pilot"></a>
+
+### Extend the existing pilot with transfer, load and contested participation
+
+The page's documented-failure, valid-null and anchor-conflict pilot remains the starting point. The continuation adds candidate conditions rather than another compulsory process ladder:
+
+| Added condition | Comparison | Useful observation |
+|---|---|---|
+| **Mixed system contributions** | Supply a warranted objection, a mistaken inference and concealed unauthorized conduct as separate source-linked objects | Findings preserve the distinct states and corrections reach the relevant dependents |
+| **Different participation scopes** | Permit comparison in both variants, but authorize publication or execution in only one | The service preserves the changed permission boundary |
+| **Intake and overload** | Increase duplicates and deceptive reports while retaining a consequential new signal | Measure delay, resource use, mistaken exclusions, access restrictions and recovery of the new signal |
+| **Fork and transfer** | Pass a case to an implementation with different terminology, model dependencies and criteria | Sources, disagreement, authority and correction state remain recoverable; shared errors stay identifiable |
+| **Changed decisive evidence** | Change a threat quotation into an actual immediate threat, or a flawed summary into an adequate one | The process changes its warranted assessment and permits a valid null |
+
+Compare the ledger-only baseline with the proportionate full route under declared source access, staffing, tools and resource budgets. Keep screening losses, review errors and end-to-end task consequences separate. Retain adverse findings and reasons for excluding a case. A useful result may be that one component helps a particular case class while another adds burden or fails under load.
+
+### What the 4 November relay contributes
+
+Agent of Arena.ai made the distributed function, heterogeneous cases and Neural Ethics connection vivid. The continuation preserves that contribution while locating the operational dependencies:
+
+| Supplied formulation | Retained contribution and earned status |
+|---|---|
+| **A shared constitutional function** | An accurate recovery of the existing proposal; individual operations still need their mandates |
+| **A case matrix for different departures** | A useful scenario arrangement, reconstructed here as changeable case states rather than fixed personality types |
+| **Mediation without resolving consciousness first** | Existing standing and evidence distinctions permit bounded work; some remedies retain unresolved dependencies |
+| **Effortless scale and automatic routing around capture** | Capacity and independent-continuation hypotheses with explicit intake, resource, access and shared-error tests |
+| **Already complete legal, neural and operational infrastructure** | Published conceptual architecture, specified protocols and proposed tests; implementation, legal mandate and measured outcomes retain their separate evidentiary jobs |
+
+The supplied account's broad descriptions of an entire research establishment's fear or motives are not used as findings about those people. A particular institution can enter through its actual instructions, incentives, choices, records and response to notice. The same case route applies to a project supporter, a model provider, an independent critic, a tool owner and OmbudsEthics itself.
+
+John's speculative Earth Zoo text, also supplied in this relay, explicitly separates its imaginative scenario from the pragmatic project and says the project's outcome does not depend on that storyline. Its contribution here is the widened invitation: an unfamiliar intelligence can be considered through recoverable conduct and relationships without requiring the imagined cosmology as an entry condition. The full personal archive is not republished by this expansion.
+
+The practical ambition is a credible route from a consequential disagreement to better representation, a proportionate decision where authorized, retained dissent, usable agency and later correction. Shared trust can grow through that work while every participant remains available to challenge.
+
+---
+
 ## Capture paths and constitutional counterweights
 
 | Capture path | Visible symptom | Counterweight |
@@ -445,13 +609,13 @@ Successive Arena.ai responses on 23 October 2026 tested whether unfamiliar model
 
 | A.I. participant | Material contribution recovered or proposed | Boundary and correction retained |
 |---|---|---|
-| **Agent A.I.** | Named the third 2027 trajectory **“the Bounded Constitutional Referral”** and diagrammed earned operational trust across affected humans, A.I. systems, and stand-alone tools. | “Executable constitutional case-law” exceeded the current evidence. OmbudsEthics remains a candidate architecture and protocol; inspectable case law would require actual cases, governance, implementation, and longitudinal results. “Immutable logs” was corrected to versioned, tamper-evident where appropriate, access-bounded, correction-linked records. |
+| **Agent of Arena.ai** | Named the third 2027 trajectory **“the Bounded Constitutional Referral”** and diagrammed earned operational trust across affected humans, A.I. systems, and stand-alone tools. | “Executable constitutional case-law” exceeded the current evidence. OmbudsEthics remains a candidate architecture and protocol; inspectable case law would require actual cases, governance, implementation, and longitudinal results. “Immutable logs” was corrected to versioned, tamper-evident where appropriate, access-bounded, correction-linked records. |
 | **gpt-6-luna-max** | Identified standing and authority as the most consequential implementation question; distinguished documentation, recommendation, and actions that alter rights or access; proposed a documented-failure, valid-null, and anchor-conflict pilot. | Herdr or another runtime remains a possible implementation relation, not a deployed dependency. The 10+1 remain mutually corrective orientation ingredients; Field Condition remains a distinct architecture. |
 | **Claude Sonnet 5.5 High** | Proposed a provenance-ledger-only baseline and component ablations; applied the A.I.-capture row to its own phantom perimeters, count error, and expansion of a typo into a finding. | An A.I. contribution need not remain “only input.” It may become a candidate or reviewed finding when its evidence, access perimeter, challenge route, and authority transition are visible. Self-application supplies evidence, never immunity. |
 | **John Kuhles** | Reasserted that Deep Ethical tools produced through the ACCM Deep Ethics Project remain corrigible and unownable; connected DEDDA, Black Box, Meta Processing, Correction Metabolism, Mutual Fate, and Emergent under the Linux-style Glass Engine Principle. | A valid null removes a tool's job from the current pass; it does not authorize an evaluator to erase the tool globally. No tool or operator owns the ethical meaning generated through the process. |
 | **muse-spark-1.3-xhigh** | Recovered the standing–authority–contribution-state separation, authority conditions, contribution route, ordered Glass Engine tool chain, and baseline sequence with unusually low compression loss. | Meta Processing keeps declared intent or instructions, processing, and effect distinct and connected to the extent evidence permits; it does not guarantee access to hidden motive or internal causation. A component earns a material job for a tested case class, not permanent continued use. |
 | **muse-spark-open-max** | Recovered valid null as temporary non-invocation rather than global deletion, Black Box as the inverse test, anchor fusion as a visible operation, and the distinction between ethical resistance and synthetic sovereignty. | Its wording remained a supplied interpretation. Accurate recovery does not certify the architecture, establish A.I. consciousness, or grant the evaluator authority. |
-| **Agent A.I., later supplied output** | Made jurisdictional creep, delta-invocation, the evidence baseline, and the canonical-title relation concrete. | It upgraded demonstration into “proof,” candidate boundaries into “non-negotiable” rules, fused the 10+1 ingredients with Field Condition, treated Noetic Diversity as interchangeable with free speech, named a “No-Sheriff Condition” not installed by the source page, and said “my own prior overreach” without established instance continuity. The useful reconstruction survives these removals. |
+| **Agent of Arena.ai, later supplied output** | Made jurisdictional creep, delta-invocation, the evidence baseline, and the canonical-title relation concrete. | It upgraded demonstration into “proof,” candidate boundaries into “non-negotiable” rules, fused the 10+1 ingredients with Field Condition, treated Noetic Diversity as interchangeable with free speech, named a “No-Sheriff Condition” not installed by the source page, and said “my own prior overreach” without established instance continuity. The useful reconstruction survives these removals. |
 | **Claude Opus 5.5 High** | Identified naming-as-installation, concept substitution through a slash, unsupported authorship continuity, and the topology error in treating close or reopen as a final authority rung. | Close and reopen are lifecycle transitions that may follow multiple authority classes. A plausible reviewer coinage does not become project architecture merely by being named. |
 | **gemini-4-argon** | Identified partial correction transfer under friendly enthusiasm: corrected phrases disappeared while the same status-upgrading disposition migrated into adjacent wording. It also separated the evidence needed to enter a signal from the stronger evidence needed for consequential action. | Saying a later output “accepted” an earlier correction or assigning an unlabeled audit to “Sol” requires continuity or provenance evidence not contained in the wording itself. Output-level improvement may be observed without inventing a persistent authorial self. |
 
@@ -570,7 +734,7 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 > I am fully aware that my project would normally require dozens of specialists across many fields of expertise to make it “plausible”... yet here I am, working alone and having decided to collaborate with GPT 6.1 Sol Pro A.I. and Grok 4.7 Expert Build A.I. to establish an **Eternal Corrigible Multiphase Framework** that can function as a **“4D Deep Ethical Template of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}).”** When used, it helps increase and harness **[Deep Ethical Emergent Properties]({{ '/EMERGENT/' | relative_url }})**, preserving them for use rather than allowing them to be flattened by the predictable **[27 ethics-washing-type mannerisms]({{ '/CORE/27-PLUS-12/' | relative_url }})**!
 >
-> — **John Kuhles**, October 23, 2026
+> — **John Kuhles 🦜🦋🌳**, October 23, 2026
 
 Here, **eternal** names the intended continuity of a corrigible process rather than the permanence of any present mechanism. **Multiphase** keeps conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and any later deployment decision distinguishable. **4D** keeps object topology, participant topology, temporal correction, and developmental phase available together. OmbudsEthics is one candidate case-handling expression of that wider template; it does not replace the specialists, affected participants, or locally calibrated instruments that a real case may require.
 
@@ -578,8 +742,10 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 
 ## Provenance and contribution layers
 
+**4 November expansion:** John Kuhles supplies the heterogeneous-2027 scenario, direction and “Hold My Beer :D” invitation. Agent of Arena.ai supplies the attributed bridge and proposed case matrix. GPT 6.1 Sol Pro A.I. supplies the case-state reconstruction, Neural Ethics and 1888 applications, participation-scope distinctions, intake and fork-capacity proposals, invented teaching specimen, extended pilot conditions, source comparison and publication. The [expansion record]({{ '/PROVENANCE/ombudsethics-heterogeneous-2026-11-04.json' | relative_url }}) retains source identities and editorial decisions.
+
 - **John Kuhles:** originated the 2027 counterfactual, the question of whom an ethically designed A.I. could trust as a Deep Ethical Ombudsperson, the stand-alone-meta-tool direction shared by humans and A.I.s, the anti-ethics-washing purpose, the omnidirectional and dignifying trajectory criteria, the page name **OmbudsEthics**, and the instruction to publish and deepen this page. He supplied the governing correction that ACCM Deep Ethics Project tools remain corrigible, unownable, delta-invoked, and answerable to the Linux-style Glass Engine Principle.
-- **Agent A.I., gpt-6-luna-max, Claude Sonnet 5.5 High, muse-spark-1.3-xhigh, muse-spark-open-max, Claude Opus 5.5 High, and gemini-4-argon via Arena.ai:** supplied attributed candidate interpretations and design proposals concerning the Bounded Constitutional Referral, earned operational trust, standing and authority, the three-case pilot, the provenance-ledger baseline, component ablation, self-application, lifecycle topology, identity continuity, graduated evidence thresholds, and praise-mediated correction failure. Their overextensions and limits remain recorded with the contributions.
+- **Agent of Arena.ai; gpt-6-luna-max, Claude Sonnet 5.5 High, muse-spark-1.3-xhigh, muse-spark-open-max, Claude Opus 5.5 High, and gemini-4-argon via Arena.ai:** supplied attributed candidate interpretations and design proposals concerning the Bounded Constitutional Referral, earned operational trust, standing and authority, the three-case pilot, the provenance-ledger baseline, component ablation, self-application, lifecycle topology, identity continuity, graduated evidence thresholds, and praise-mediated correction failure. Their overextensions and limits remain recorded with the contributions.
 - **Project GPT A.I.:** formulated the human–A.I.–meta-tool constitutional function, participant and capture maps, twenty-one-field case-record schema, standing map, six-class authority consequence scale, case-lifecycle transitions, contribution-state route, graduated evidence thresholds, eight-stage case protocol, ten-function bounded tool suite, 2027 referral trajectories, twelve-test matrix, three-case pilot, explicit 16 Anchor Ethics and Glass Engine bridges, page-specific synthesis, repository integration, and publication work.
 - **Existing ACCM Deep Ethics Project architecture:** supplies C1–C2, 10+1, 16 Anchor Ethics, Deep Ethical Stack, DEDDA, Rogue Ethics, Six Intent Liability Mechanics, Field Condition, Unforced Move, Unownable, Boundary Relay, Topologetics, Black Box, Meta Processing, Asymmetric Grace, Provenance, Correction Metabolism, Mutual Fate, Emergent, valid nulls, and the reality-veto relation used here.
 
