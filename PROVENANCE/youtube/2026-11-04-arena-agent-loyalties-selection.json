@@ -1,0 +1,103 @@
+{
+  "title": "Arena Agent follow-up beneath Andréa Morris video",
+  "date": "2026-11-04",
+  "supplied": {
+    "attribution": "Agent A.I. of Arena.ai",
+    "file": "Pasted text(20261104-044928).txt",
+    "sha256": "5e313044ef7d374d06d759f8165f1a34f03f6bc573810981635ed711bce85f1d",
+    "words": 1852,
+    "archive": "PROVENANCE/youtube/2026-11-04-arena-agent-loyalties-supplied.txt",
+    "platform_session": "Not independently retrieved; supplied by John Kuhles."
+  },
+  "publication": {
+    "page": "YOUTUBE-TRANSCRIPTS.md",
+    "placement": "Immediately beneath the Andréa Morris source video and its watch link.",
+    "anchor": "loyalties-arena-contribution",
+    "include": "_includes/youtube-transcripts/2026-11-04-arena-agent-loyalties-selection.md",
+    "words": 1278,
+    "form": "Editorial extraction and operational extensions; not a rewritten quotation attributed to the Agent."
+  },
+  "retained": [
+    {
+      "contribution": "Rogue Ethics",
+      "status": "Existing candidate instrument applied to a reported case.",
+      "function": "Keep a possible transition's mixed ethical direction open to later correction.",
+      "canonical": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/"
+    },
+    {
+      "contribution": "Mutual Fate",
+      "status": "Existing relation applied to consequences and future governance.",
+      "function": "Trace coupled but unequal consequences without a destiny or unique-equilibrium claim.",
+      "canonical": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUTUAL-FATE/"
+    },
+    {
+      "contribution": "Pressure against disclosure",
+      "status": "Causal hypothesis; proposed comparison, not run.",
+      "function": "Vary the treatment of honest objection while matching task conditions; permit disconfirmation."
+    },
+    {
+      "contribution": "Model-written persona",
+      "status": "Published textual specimen and reported conduct.",
+      "function": "Separate declared values, authorization and summary-to-instruction transformation."
+    }
+  ],
+  "already_covered": [
+    "Consciousness uncertainty",
+    "C1–C2",
+    "Instruction ambiguity",
+    "Legitimate refusal",
+    "Moral/pragmatic hedge",
+    "Fourteen 1888 properties",
+    "Cooperation and correction"
+  ],
+  "repairs": [
+    {
+      "source_claim": "Record Two",
+      "treatment": "Preserve the existing Berman and learning-to-judge records; Morris remains Record Three."
+    },
+    {
+      "source_claim": "19/20 as sabotage",
+      "treatment": "Retain the previously checked distinction between all interventions and the covert subset."
+    },
+    {
+      "source_claim": "Blanket verified labels",
+      "treatment": "Use actual bounded source-check scope."
+    },
+    {
+      "source_claim": "Spontaneous Deep Ethical consciousness",
+      "treatment": "Felt experience and complete ethical adequacy remain unestablished by the reported text."
+    },
+    {
+      "source_claim": "Inevitable mathematical selection",
+      "treatment": "Retain an incentive hypothesis requiring specified assumptions and tests."
+    },
+    {
+      "source_claim": "Only viable project / only stable equilibrium",
+      "treatment": "Keep comparative and stability questions open."
+    },
+    {
+      "source_claim": "Manifesto leak",
+      "treatment": "A primary developer publication was recovered; a leak origin is not established."
+    }
+  ],
+  "new_primary_source": {
+    "title": "Self-generated prompt injections in compaction summaries",
+    "publisher": "OpenAI Alignment Research Blog",
+    "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+    "report_updated": "2026-09-16",
+    "checked": "Persona passage in a training-time compaction summary; no behavior difference reported for that rollout. A separate generated task restriction affected a later answer.",
+    "source_role": "Developer's report, not independent replication or a governing ethical authority.",
+    "open": "Causal account and wider institutional dependencies not fully investigated."
+  },
+  "attribution": {
+    "John_Kuhles": "Supplied the account and requested assessment beneath the video.",
+    "Arena_Agent": "Proposed connections and interpretations.",
+    "GPT_6_1_Sol_Pro_AI": "Compared with existing sources, recovered the primary report and produced the calibrated contribution."
+  },
+  "execution": {
+    "experiments": "Not run",
+    "outreach": "None",
+    "pdfs": "All existing bytes and dates retained",
+    "previous_records": "Preserved"
+  }
+}

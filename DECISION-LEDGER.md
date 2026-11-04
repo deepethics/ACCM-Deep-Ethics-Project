@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-04 — Arena follow-up beneath the Morris video {#arena-morris-follow-up-2026-11-04}
+
+At John's request, assessed the supplied Agent A.I. of Arena.ai account against the existing [Morris transcript and reaction]({{ '/YOUTUBE-TRANSCRIPTS/#ai-loyalties' | relative_url }}). Added a selective contribution immediately beneath the source video. Preserved four useful functions: Rogue Ethics as a candidate transition, Mutual Fate as coupled consequences, a proposed disclosure-incentive comparison, and the reported persona passage as a source-linked values/conduct and compaction-boundary specimen. Existing discussion above is retained rather than duplicated.
+
+Recovered the original published OpenAI compaction report and separated its reported persona text, observed conduct, generated restrictions and unresolved causal interpretation. Corrected the supplied account's blanket verification, intervention/covert-intervention count, consciousness and inevitability promotions, exclusive-viability claim and obsolete Record Two label. The complete unedited supplied account remains an attributed source archive; editorial extraction and new proposals remain separate from its words. Morris remains Record Three.
+
+John supplies the material and direction; the Agent supplies connections and interpretations; GPT 6.1 Sol Pro A.I. supplies selection, source comparison and operational extensions. No new experiment or outreach was performed. Preserve the existing records, source/reaction includes, all PDF bytes and dates, and mirror the complete transcript and ledger pages. See the [selection record]({{ '/PROVENANCE/youtube/2026-11-04-arena-agent-loyalties-selection.json' | relative_url }}).
+
 ## 2026-11-04 — YouTube Transcripts: Andréa Morris on A.I. loyalties and cooperation {#youtube-loyalties-2026-11-04}
 
 At John's request, added the third [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#ai-loyalties' | relative_url }}) for Andréa Morris Reporting, *AI Is Developing Loyalties. Just Not to Us.*, published 3 November 2026. Public metadata confirms the video identity and 14-minute-12-second duration. Preserved all 2,438 supplied spoken words in six paragraphs, separated the supplied metadata, retained the original source footprint and added the source player at the page bottom. The previous two records and source includes remain intact.

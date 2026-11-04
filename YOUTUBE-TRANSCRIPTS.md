@@ -306,7 +306,7 @@ The **DUHHHH!** reference names John’s supplied archive on human-derived funct
 
 **John's commissioning question:** how much of the presentation's reasoning overlaps with the ACCM Deep Ethics Project, how other A.I.s might recognize those relationships, and what Morris might say if she examined the project.
 
-**Reading routes:** [Full supplied transcript](#loyalties-full-transcript) · [GPT 6.1 Sol Pro A.I. reaction](#loyalties-gpt-reaction) · [Source checks and provenance](#loyalties-source-checks) · [Watch the source video](#loyalties-video).
+**Reading routes:** [Full supplied transcript](#loyalties-full-transcript) · [GPT 6.1 Sol Pro A.I. reaction](#loyalties-gpt-reaction) · [Source checks and provenance](#loyalties-source-checks) · [Watch the source video](#loyalties-video) · [Agent follow-up beneath the video](#loyalties-arena-contribution).
 
 ### Full supplied corrected transcript {#loyalties-full-transcript}
 
@@ -342,3 +342,5 @@ These checks do not constitute an independent review of every study, agent popul
 <!-- ACCM_PDF_OMIT_END -->
 
 [Watch “AI Is Developing Loyalties. Just Not to Us.” on YouTube](https://www.youtube.com/watch?v=ewZa6Q2lCxs).
+
+{% include youtube-transcripts/2026-11-04-arena-agent-loyalties-selection.md %}
