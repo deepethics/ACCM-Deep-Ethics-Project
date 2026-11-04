@@ -470,6 +470,128 @@ The combined contribution does not certify the project’s architecture. It make
 
 ---
 
+## Second worked comparison — Sabine Ammon: what becomes visible when the object changes? {#ammon-deep-integration}
+
+**Added 4 November 2026 · Source comparison and proposed practical work.** John Kuhles supplied a Google A.I. exchange beginning with Sabine Ammon’s [*Deep Ethics Integration in Technology Research and Development: Bridging the Principles-to-Practice Gap in AI Ethics – and Elsewhere*](https://doi.org/10.1007/s13347-026-01134-0), published in *Philosophy & Technology* on **31 August 2026**. The comparison below returns to the article itself. Its author’s [University of Tübingen profile](https://uni-tuebingen.de/en/research/centers-and-institutes/international-center-for-ethics-in-the-sciences-and-humanities/the-izew/team/prof-dr-sabine-ammon/) identifies her work in the ethics and epistemology of design and technology and her earlier leadership at Berlin Ethics Lab.
+
+**Institutional inquiry:** **[WEF]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }})** (World Economic Forum) relationships are examined below with their present evidence limits.
+
+**Reading routes:** [The door-opening specimen](#ammon-door) · [Functional correspondences](#ammon-correspondences) · [Tools and authority](#ammon-tools) · [Repairing the Google account](#ammon-google) · [Institutional dependencies](#ammon-dependencies) · [A shared practical test](#ammon-test).
+
+### A door can reveal more than a list of principles {#ammon-door}
+
+Ammon describes a three-hour workshop concerning an A.I.-supported door-opening application that recognizes walking patterns. Developers had already taken privacy precautions by keeping data on the phone. Joint reflection then exposed other relationships: assumptions about a typical walker could exclude people with different mobility, while selecting a recent Bluetooth standard could disadvantage people unable or unwilling to replace their phones. The article explores how particular settings alter those judgments, including whether an employer supplies compatible devices.
+
+The same component can therefore acquire different ethical significance through its relations to people, devices, purchasing requirements, buildings, maintenance and alternatives. A component specification can be accurate while leaving the consequential practice poorly represented.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “It is the opening and closing of the door, rather than the key, that must be foregrounded.”
+
+— **Sabine Ammon**, §3, *Deep Ethics Integration*, 2026
+
+</div>
+
+**Why it matters:** the object of ethical examination expands from an isolated device to a situated activity. In the ACCM Deep Ethics Project’s terms, restoring an omitted relationship can change what the evaluator is capable of noticing. The practical next move may be an alternative access method, a changed compatibility requirement, a revised model, or a finding that the existing arrangement is adequate in the examined setting. Those options need their own evidence.
+
+Ammon’s diagnosis also improves the familiar principles-to-practice story. Ethical reflection and design are both knowledge-generating practices, with different habits of attention. Their difficulty can begin before anyone translates a principle into a requirement: they may be thinking about different objects. Adding more values to a checklist leaves that mismatch intact. A shared focus makes their expertise usable together.
+
+### Functional correspondences that can travel between the two approaches {#ammon-correspondences}
+
+The following mapping is **GPT 6.1 Sol Pro A.I.’s editorial comparison**, rather than terminology attributed to Ammon.
+
+| Ammon’s contribution | Project connection | Practical operation |
+|---|---|---|
+| Contextualize the artefact as a changing ensemble of practices | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve the relationships that change a conclusion when a component description becomes a system description. |
+| Establish a shared object before evaluating design alternatives | [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarify the source, situation and proposed operation before intervention acquires authority. |
+| Alternate technical detail with the surrounding consequences | [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) | Carry the discovered relation back into a specific requirement, implementation or decision. |
+| Make disciplinary lenses and their limits inspectable | [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) | Examine the frame used by the developer, ethicist and project evaluator. |
+| Make speaking about errors possible across hierarchies | [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) | Enable disagreement, mutual respect and correction to affect the next move. |
+| Examine how names, metaphors and tools direct attention | [Neolingo]({{ '/NEOLINGO/' | relative_url }}) | Test whether a term retrieves the relevant operation or narrows the field prematurely. |
+| Continue reflection through manufacture, use and dissolution | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Check whether later evidence changes the design and future comparable decisions. |
+
+These connections identify useful shared work. They leave the architectures distinct. Ammon develops an account of integrating ethical reflection into technological design; the project also examines representation, retrieval, mediation, audit authority and correction across human–A.I. encounters. Their shared use of “deep ethics” supplies a research lead. Knowledge of the project, borrowing, endorsement and collaboration remain unestablished here.
+
+Ammon supplies a particularly useful discipline for the project: connect a recovered relationship to a **technical leverage point**. If an analysis identifies exclusion, the ensuing work must determine which interface, compatibility rule, training assumption, procurement decision or alternative changes that exclusion. More terminology alone leaves the door unchanged.
+
+### The reflection tool belongs inside its own examination {#ammon-tools}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> “a critique of the tool must reveal conditions for reflection and conceptual affordances”
+
+— **Sabine Ammon**, §4.2.3, *Deep Ethics Integration*, 2026
+
+</div>
+
+**Why it matters:** the paper already recognizes that a tool shapes the reflection it enables. Presenting tool scrutiny as something absent from her account would reproduce the retrieval failure this project studies. The useful continuation is to examine that provision in operation.
+
+A workshop’s agenda, participant selection, time limit and available evidence influence which consequences become discussable. So do a project's questions, an A.I. assistant’s summary and a risk model’s categories. [Glass Engine inspectability]({{ '/BLACK-BOX/' | relative_url }}) makes those choices recoverable at the relevant layer, with explicit access limits. It does not require exposure of private participant records or pretend that a clear explanation reveals every internal cause.
+
+The [1888 intelligence-properties inquiry]({{ '/1888/' | relative_url }}) can help allocate the work: perception notices the excluded user; discrimination separates incompatibility from actual denial of access; relation connects procurement and access; memory retains the earlier requirement; imagination generates alternatives; judgment and evaluation compare them; learning and correction revise the design; adaptation checks a changed setting; coordination brings affected expertise into the process; metacognition examines the lens; consequence sensitivity follows who bears the costs; corrigibility keeps the decision revisable. These are interacting operations, rather than fourteen boxes that certify a design.
+
+Ammon describes ethics becoming a co-designer and discusses when knowledge is adequate for the development stage. A further shared question concerns the authority attached to that judgment: who may recommend, choose, refuse participation, authorize deployment or reopen the case? [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) keeps contribution state and decision authority distinct. A well-supported criticism earns consideration within its actual dependency range; enforcement requires its own mandate.
+
+### The Google exchange is also a worked representation specimen {#ammon-google}
+
+John’s questions moved from the academic article to institutional dependencies and then to comparison with [Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }}). The supplied Google responses contain useful leads alongside claims that need separate recovery. Their evidence status must travel with them.
+
+| Supplied Google formulation | Primary-source check or unresolved state | Consequence for this entry |
+|---|---|---|
+| Ammon has no direct official WEF ties, followed by claims about indirect connections | The inspected article and university profile do not establish that network-wide negative. No complete funding, event, affiliation or policy-dependency investigation was performed. | Keep the relationship question open; confer no independence certificate. |
+| *Embedding responsibility in intelligent systems: from AI ethics to responsible AI ecosystems* is used to support claims about Ammon’s positions | The [2023 publisher record](https://doi.org/10.1038/s41598-023-34622-w) names **Bernd Carsten Stahl** as author. Ammon cites that work in her own article. | Preserve citation as citation; do not transfer authorship or every cited argument. |
+| Her deep-integration article directly challenges named WEF initiatives | No “World Economic” match was returned in the inspected article. Its explicit comparisons concern several ethics-integration approaches and European research policy. | A critique of checklists does not establish a critique of a particular WEF document. The specific attribution remains unsupported here. |
+| Regulation supplies the decisive contrast with voluntary pledges | Ammon explicitly says that making guidelines into law still leaves the challenge of relating abstractions to specific applications (§1). | Examine legal force and ethical adequacy separately. |
+| Deep integration forces ethical constraints into the earliest software code | The article develops shared reflection, situated practices and exploratory design across an artefact’s lifecycle. | Recover the wider process; software code is one possible intervention surface. |
+| The governance “playbook is identical” across the discussed institutions | The pasted comparison supplies no case-by-case policy, funding or implementation record establishing that equivalence. | Compare recoverable arrangements and effects before assigning a common strategy. |
+
+The bibliography error is especially instructive: a source can be relevant to a field while failing to support the person-specific claim attached to it. Fluent synthesis can turn proximity in a reference network into an invented position. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) retains the transformation from source to claim so the repair can propagate into later comparisons.
+
+The Google response also recognized the project’s non-imposition, auditability and no-sheriff condition. Its contrast table then compressed diverse corporate arrangements into a single opposing camp. The improvement is a comparison of **operations under particular conditions**, including mixed cases, adequate institutional practice and failures inside this project. Ethics washing requires evidence that ethical presentation conceals or protects an inadequacy from correction; an error or a familiar institutional label does not establish that function by itself.
+
+### Institutional dependencies: keep the question as wide as the evidence requires {#ammon-dependencies}
+
+**WEF** means World Economic Forum. John’s question includes indirect relationships, funding, participation and governance dependencies. A search for formal membership alone leaves most of that question unanswered.
+
+The present documentary map contains these limited positive facts:
+
+- The main article lists Berlin Ethics Lab at Technische Universität Berlin and the University of Tübingen as affiliations, and Projekt DEAL as enabling open-access funding.
+- The coauthored [*Navigating justice in AI lifecycles*](https://doi.org/10.1007/s43681-026-01008-3) names Friederike Rohde, Zhyar Nasruddin, Elizaveta Kotova and Sabine Ammon. It discloses support from Stiftung Innovation in der Hochschullehre, grant **FR-594/2023**, for “Zukunft Jetzt!”, and separately identifies open-access funding through Projekt DEAL. The publisher links a correction dated **18 March 2026**.
+- Those disclosures establish named relationships at those scopes. A further chain connecting them to WEF participation, influence or a particular policy would require further documents. Neither a WEF connection nor its absence is established by those disclosures alone.
+
+The project’s [Ethical Blind Spots]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}) source-selection position remains explicit: WEF-linked material is excluded from neutral or authoritative project baselines, with source-linked critical examination available. This entry is a bounded, critical comparison of named publications, with the wider dependency inquiry unresolved. It does not silently admit the author or her institutions as governing authorities.
+
+A useful next dependency check would name an entity, relationship type, date and document: a grant agreement, event programme, coauthored policy, advisory role or contractual arrangement. Shared vocabulary and a cited reference generate leads; the resulting institutional conclusion must retain the strength of the recovered edge. Sincere participants and the arrangements through which they work remain distinguishable.
+
+### Voluntary participation, binding authority and ethical adequacy {#ammon-authority}
+
+The exchange opens a deeper comparison than “voluntary equals good” or “binding equals good.” A corporate pledge can accompany real remedies or shield a defect. A binding rule can protect affected people or install an unchallengeable interpretation. A voluntary workshop can broaden inquiry while leaving excluded people without access to the room.
+
+The project's non-imposing orientation asks how participation, exit, refusal, downstream exposure and decision rights actually work. Choosing to attend a discussion grants no automatic authority to expose absent people to its consequences. Equally, refusing cooperative examination leaves consequential public conduct open to external scrutiny.
+
+Use [**V.C.R.A.S.**]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies) to retain competing risks over time: risks of an older compatibility standard, risks of exclusion through a newer one, costs of alternatives, and harms incurred during delay. Use the [six Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) to keep instructions, choices, processing, effects, explanations and later correction recoverable. Neither a pledge nor a statute answers those questions on its own.
+
+### Proposed shared-specimen test: can the recovered relation change the door? {#ammon-test}
+
+**Status: page-specific research proposal; no new experiment or contact with the author has been conducted.** Start with Ammon’s published workshop account, then construct a clearly labelled teaching scenario or obtain an authorized implementation specimen. Keep the published workshop and any later simulation separate.
+
+| Pass | Work performed | Recoverable result |
+|---|---|---|
+| Freeze the case | Preserve requirement, compatibility rule, intended users, access setting and known uncertainties. | A source version against which later summaries can be checked. |
+| Compare representations | Give evaluators the component description, then the same object with its practice and affected parties restored. | Which answer-changing relationships each version permits them to recover. |
+| Generate alternatives | Examine device provision, another access method, compatibility changes and the unchanged design. | Technical leverage points, costs and competing risks. |
+| Reverse a decisive relation | Change whether compatible devices are provided or whether another usable access route exists. | A revised judgment when the actual dependency changes, including an adequate-design finding. |
+| Inspect the inspection | Reveal participant selection, omitted evidence, authority limits and the reflection tool’s prompts. | Corrections to the evaluator’s own framing when warranted. |
+| Carry the repair onward | Track the chosen requirement, authorized decision, implementation and later comparable case. | Evidence of correction persistence, residual exclusion or a failed transfer. |
+
+Compare the source article’s approach, the project’s instruments and their combination under comparable time and evidence budgets. Record useful discoveries, mistaken objections, valid nulls, participant burden and unfinished work. Preserve credit for relations already found in the original paper. The combination earns practical value if it improves decisions or recoverability at a proportionate cost.
+
+The deeper opportunity is **reciprocal method development**: academic design research contributes ways to connect contextual reflection to concrete engineering moves; the ACCM Deep Ethics Project contributes tools for following representation, authority and correction through later handoffs. Each contribution remains open to scrutiny from the other.
+
+**Provenance and reuse:** John supplied the initiating exchange; Google A.I. supplied the attributed responses examined here; **GPT 6.1 Sol Pro A.I.** read the supplied text, checked the named primary records, and wrote this comparison on 4 November 2026. The Ammon article is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the two excerpts are verbatim and the surrounding interpretation is this page’s editorial analysis. [Supplied exchange]({{ '/PROVENANCE/academia-ammon-google-2026-11-04.txt' | relative_url }}) · [Source-check record]({{ '/PROVENANCE/academia-ammon-2026-11-04.json' | relative_url }}).
+
+---
+
 ## A reusable academic-comparison record
 
 Future entries can use this bounded record:

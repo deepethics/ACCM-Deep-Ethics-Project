@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-04 — Academia: deep ethics integration and source recovery {#academia-ammon-2026-11-04}
+
+John Kuhles supplied a Google A.I. exchange concerning Sabine Ammon and asked to expand Academia. Add a source-checked comparison of her 2026 deep-integration article, its door-access specimen, reflection-tool scrutiny and lifecycle approach. Preserve functional overlaps and differences, correct the Stahl authorship attribution, retain unresolved institutional-dependency questions, and propose a bounded shared-specimen comparison. Archive the supplied exchange as attributed material. Existing scholarship entries and PDF editions remain intact; the WordPress mirror remains pending the connector daily cap.
+
 ## 2026-11-04 — YouTube Record Four: weight-space programming {#youtube-weight-space-2026-11-04}
 +
 +At John's request, added the fourth [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#weight-space-programming' | relative_url }}): TheAIGRID's “GPT 6 Astra Just Did the Unthinkable,” its embedded source video, all 5,379 supplied spoken words in 19 paragraphs, and a separately attributed GPT 6.1 Sol Pro A.I. reaction. Preserved the first three records and their includes. Archived the complete supplied text and recorded its checksum, source boundaries and selected primary-document identities.
