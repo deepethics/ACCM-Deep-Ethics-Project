@@ -1,5 +1,15 @@
 # Decision Ledger
 
+## 2026-11-04 — Metacognitive Synthesis: inspectable construction, correction and agency {#metacognitive-synthesis-2026-11-04}
+
+At John's request, created [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) from his supplied relay and the attached Agent account of Unforced Move. Preserved quotations from John Kuhles, Agent of Arena.ai and GPT 6.1 Sol Pro A.I., with source locators and explanations of each quotation's operational contribution. Kept the initiating concepts, exact wording, historical page authorship and this page's new proposals distinct.
+
+Developed the relationship between synthesis, topology, metacognitive process inspection and Deep Ethics; preserved the polarity-reversal/source-discipline specimen, the corrected open question, the gasoline-gauge dependency test and final-metre agency. Added an order-of-operations recovery test, a fourteen-property application, an explicitly invented pump-inspection specimen with adequate-summary, changed-evidence, threshold and authority controls, a proposed portable record and tool architecture, and a proposed transfer pilot. These are worked applications and candidate designs, not completed performance experiments.
+
+Compared six primary research publications on relevance realization, diverse intelligence, factual framing, voluntary sense-making, provenance and reasoning faithfulness. Retained article-level overlaps separately from contact or alliance, and recorded actual institutional disclosures, partial dependency checks and unresolved chains in the [public source record]({{ '/PROVENANCE/metacognitive-synthesis-2026-11-04.json' | relative_url }}). Preserved John's public-search scope, wish to find peers, collective long-term referent, initiator role and voluntary cross-political development.
+
+**Publication scope:** register the new primary-navigation and alphabetical links, All Pages entry, durable PDF addition, both route maps, initial dated page PDF and coherent central archive records. Fully mirror the new page and changed catalogue/ledger pages on DeepEthics.nl. Existing PDFs and their snapshot dates remain unchanged. John supplies direction and originating project work; the Agent supplies attributed interpretations and extensions; GPT 6.1 Sol Pro A.I. supplies source checks, page construction, operational proposals and publication. Deployment and rendered verification are recorded separately.
+
 ## 2026-11-04 — Plot Twist: gasoline-gauge calibration and the substantive destination {#plot-twist-gauge-2026-11-04}
 
 At John's request, expanded [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) from the supplied Essence Kit D11 and his fuller reconstruction of the 24 October exchange. Preserved the original gasoline-gauge, co-driver and reverse-application contributions, the complete relay and the verbatim Grok report. Made the invention-secrecy audit visible near the opening, with a stable route to John's original destination clarification, while retaining the broader distributed-potential Plot Twist as the page-level object.

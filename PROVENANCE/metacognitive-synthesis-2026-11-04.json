@@ -1,0 +1,132 @@
+{
+  "schema": "accm-deep-ethics-source-comparison-1",
+  "page_title": "Metacognitive Synthesis",
+  "page_route": "/METACOGNITIVE-SYNTHESIS/",
+  "reviewed_on": "2026-11-04",
+  "purpose": "Preserve the supplied relay, critically compare specific published research operations, and propose testable applications.",
+  "contribution_status": {
+    "John_Kuhles": "Initiating direction, originating project concepts, supplied sources and lived corrections.",
+    "Agent_of_Arena_ai": "User-requested attribution for supplied Agent interpretations; underlying model identity and platform transcript not independently verified.",
+    "GPT_6_1_Sol_Pro_AI": "Page-specific synthesis, source comparisons, implementation sketch, invented specimen, evaluation proposals and publication."
+  },
+  "relay": {
+    "access": "User-supplied conversation and one attached file; account claims are not independent verification of an unseen platform session.",
+    "attachment": {
+      "filename": "Pasted text(20261104-032012).txt",
+      "sha256": "080698ebacb2831c6403c4fc35f412c0d0174635ad1daecf713f0c169871d98e"
+    },
+    "quote_locators": "J1–J5, G1–G5 and A1–A4 are defined on the page.",
+    "contact_and_alliance_status": "Published conceptual overlap inspected; prior contact, awareness, reading and collaboration not established by this material."
+  },
+  "editorial_use": "Bounded critical comparisons and technical design possibilities. These sources are not installed as the project's governing ethical baseline or certified independent.",
+  "dependency_check_scope": {
+    "primary_documents": "Article identities, publication dates, relevant arguments, stated affiliations and available funding disclosures.",
+    "searches": [
+      "\"Consilience Project\" \"World Economic Forum\"",
+      "\"John Vervaeke\" \"World Economic Forum\"",
+      "\"Michael Levin\" \"World Economic Forum\" TAME",
+      "\"Lucian Tarnowski\" site:consilienceproject.org",
+      "\"Lucian Tarnowski\" site:weforum.org"
+    ],
+    "limits": "A targeted search and a disclosure review do not complete an indirect funding, speaking, government, NATO, EU or governance dependency investigation. No independence certificate follows.",
+    "open_lead": {
+      "subject": "Lucian Tarnowski",
+      "verified_primary_edge": "The World Economic Forum profile identifies a 2010 Young Global Leader honor.",
+      "evidence_url": "https://www.weforum.org/people/lucian-tarnowski/",
+      "unresolved_edge": "A secondary historical page associates this name with a Consilience advisory list; the current Consilience About page inspected did not contain the name. Historical role and relevance to these articles remain unresolved; no current Consilience-WEF institutional relationship is concluded.",
+      "secondary_lead_url": "https://adam.curry.com/html/NoAgendaEpisode1625C-WCQZrk77wgmJ2XdFnrhwwBsdqN77X5.html"
+    }
+  },
+  "sources": [
+    {
+      "id": "R1",
+      "title": "Relevance Realization and the Emerging Framework in Cognitive Science",
+      "authors": [
+        "John Vervaeke",
+        "Timothy P. Lillicrap",
+        "Blake A. Richards"
+      ],
+      "publication": "Online 2009-10-26; Journal of Logic and Computation 22(1)",
+      "url": "https://doi.org/10.1093/logcom/exp067",
+      "inspected_full_text": "https://contrastiveconvergence.net/~timothylillicrap/files/articles/relevance%20realization%20as%20an%20emerging%20framework%20in%20cogsci.pdf",
+      "passage": "Printed pp.94–95: efficiency and resiliency as opponent constraints; retained capacity for repair.",
+      "claim_status": "Theory proposal; further empirical work acknowledged.",
+      "institutional_edges": "Paper affiliations: University of Toronto, Queen's University and University of Oxford.",
+      "funding_and_other_dependencies": "No complete funding-chain or later-role investigation performed.",
+      "use": "Compare repair capacity under compression; test whether proposed redundancy removal damages resilience."
+    },
+    {
+      "id": "R2",
+      "title": "Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds",
+      "author": "Michael Levin",
+      "publication": "2022-03-24",
+      "url": "https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2022.768201/full",
+      "passages": "Abstract, multiscale agency discussion, Funding and Author Disclaimer.",
+      "claim_status": "Hypothesis and theory / framework, with biological examples.",
+      "institutional_edges": "Allen Discovery Center at Tufts; Wyss Institute at Harvard, as stated in article.",
+      "funding": "Paul G. Allen Frontiers Group; Templeton World Charity Foundation; John Templeton Foundation. Article says funders had no role in determining manuscript content.",
+      "unresolved": "Indirect institutional and publisher dependencies beyond these disclosures remain open.",
+      "use": "Inspect feedback across scales; criticize any inference that multiscale description alone confers corrigibility or decision authority."
+    },
+    {
+      "id": "R3",
+      "title": "How to Mislead with Facts",
+      "author": "The Consilience Project",
+      "publication": "2022-01-30",
+      "url": "https://consilienceproject.org/how-to-mislead-the-facts/",
+      "passages": "Three ways of misleading with facts; closing discussion rejecting centralized Truth Committees and distributing responsibility through civil society.",
+      "institutional_edges": "Consilience About page identifies the publication as an initiative/publication of Civilization Research Institute.",
+      "institutional_evidence": "https://consilienceproject.org/about-the-project/",
+      "funding_and_other_dependencies": "Article/About inspection does not establish complete funding or influence chains.",
+      "use": "Compare framing and context; correct the relay's source-level caricature without asserting a personal alliance."
+    },
+    {
+      "id": "R4",
+      "title": "Challenges to Making Sense of the 21st Century",
+      "author": "The Consilience Project",
+      "publication": "2021-03-30",
+      "url": "https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/",
+      "passage": "Opening discussion: ethos cannot be dictated by group/authority and is a non-compulsory civic commitment.",
+      "institutional_edges": "Same publication relationship as R3; individual team positions are not inferred from article-level overlap.",
+      "unresolved": "Contact with John, reading of the repository, agreement and collaborative intent unknown in inspected material.",
+      "use": "Compare voluntary sense-making with the project's non-imposition conditions."
+    },
+    {
+      "id": "R5",
+      "title": "PROV-DM: The PROV Data Model",
+      "editors": [
+        "Luc Moreau",
+        "Paolo Missier"
+      ],
+      "publication": "2013-04-30",
+      "url": "https://www.w3.org/TR/2013/REC-prov-dm-20130430/",
+      "passages": "Abstract, entities/activities, derivation, agent responsibility, bundles and extension points.",
+      "institutional_edges": "World Wide Web Consortium Recommendation; contributor list includes Curt Tilmes of NASA and Stephen Cresswell of legislation.gov.uk.",
+      "funding_and_other_dependencies": "Contributor roles are recorded as roles, not proof of particular funding or governance dependency. Broader relationships not fully investigated.",
+      "use": "Technical comparison for transformation records; criticize promotion of provenance or recorded responsibility into truth or ethical jurisdiction."
+    },
+    {
+      "id": "R6",
+      "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
+      "authors": "Tamera Lanham and colleagues",
+      "publication": "arXiv v1 2023-07-17; Anthropic page 2023-07-18",
+      "url": "https://arxiv.org/abs/2307.13702v1",
+      "full_text": "https://arxiv.org/html/2307.13702v1",
+      "institutional_evidence": "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning",
+      "institutional_edges": "Paper identifies all authors at Anthropic except Jan Brauner at University of Oxford.",
+      "passages": "Interventions on generated reasoning and task/model variation; stated limitations.",
+      "funding_and_other_dependencies": "Corporate research origin recorded; indirect funding/governance chains not fully investigated.",
+      "use": "Critically test explanatory faithfulness and the project's own claims of internal access; no adoption of corporate ethical authority."
+    }
+  ],
+  "proposed_work": {
+    "not_executed": [
+      "Comparative performance pilot",
+      "Later correction-persistence experiment",
+      "Multi-agent handoff experiment",
+      "Peer outreach"
+    ],
+    "invented_specimen": "Alert-selected pumps, sample-to-fleet generalization, action and authority controls.",
+    "existing_instruments": "1888, 10+1, 16 Anchor Ethics, 27+12, C1–C2, Topologetics, correction metabolism, Dual Archive, Unforced Move and DEDDA retain existing provenance."
+  }
+}

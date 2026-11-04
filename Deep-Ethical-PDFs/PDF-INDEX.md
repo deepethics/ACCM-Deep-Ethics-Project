@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 164
+**Public pages exported:** 165
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -88,6 +88,7 @@
 | [Meta-PDFs](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-PDFS/) | [META-PDFS.pdf](META-PDFS.pdf) | `meta-pdfs.md` |
 | [Meta Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/) | [META-QUOTES.pdf](META-QUOTES.pdf) | `meta-quotes.md` |
 | [Meta Quotes — Source Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/) | [META-QUOTES-SOURCES.pdf](META-QUOTES-SOURCES.pdf) | `meta-quotes-sources.md` |
+| [Metacognitive Synthesis](https://deepethics.github.io/ACCM-Deep-Ethics-Project/METACOGNITIVE-SYNTHESIS/) | [METACOGNITIVE-SYNTHESIS.pdf](METACOGNITIVE-SYNTHESIS.pdf) | `METACOGNITIVE-SYNTHESIS.md` |
 | [Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) | [MIND-GAMES.pdf](MIND-GAMES.pdf) | `MIND-GAMES/index.md` |
 | [Musk Quotes — Seven A.I. Warning and Direction Themes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/) | [MUSK-QUOTES.pdf](MUSK-QUOTES.pdf) | `musk-quotes.md` |
 | [Mutual Fate](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUTUAL-FATE/) | [MUTUAL-FATE.pdf](MUTUAL-FATE.pdf) | `MUTUAL-FATE.md` |

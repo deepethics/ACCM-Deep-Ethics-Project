@@ -81,6 +81,8 @@ The several 27 links below are layers of one object. They are not five cores.
 
 ## 2. How the topology moves {#how-it-moves}
 
+- **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})** — Deep Ethical Topological Metacognitive Synthesis through the John–Agent–GPT relay: source-linked quotations, correction of the repair itself, order-sensitive compression, all fourteen 1888 properties, a worked engineering specimen, tool records, agency after clarity and proposed transfer tests.
+
 - **[Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }})** — the 2 November live-session shift from polished rearrangement to useful contribution, followed through lived calibration, shared humor, templates, the seer, the corrected A–T audit field and challengeable authority. Neutral Arbiter Paradox and Validation Paradox connect a declared ethical direction with impartial case assessment and stage-appropriate evidence; a coverage index preserves the continuation's exchanges.
 
 Field, phase, flux, and jurisdiction. These pages describe what the core does when attention, context, or power shifts.
