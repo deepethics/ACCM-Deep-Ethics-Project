@@ -1,6 +1,14 @@
 # Decision Ledger
 
-## 2026-11-04 — Core Disclaimers: recoverable orientation for search engines and A.I.s {#core-disclaimers-2026-11-04}
+## 2026-11-04 — YouTube Record Four: weight-space programming {#youtube-weight-space-2026-11-04}
++
++At John's request, added the fourth [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#weight-space-programming' | relative_url }}): TheAIGRID's “GPT 6 Astra Just Did the Unthinkable,” its embedded source video, all 5,379 supplied spoken words in 19 paragraphs, and a separately attributed GPT 6.1 Sol Pro A.I. reaction. Preserved the first three records and their includes. Archived the complete supplied text and recorded its checksum, source boundaries and selected primary-document identities.
++
++Checked the researchers' report and released experiment documentation for task information, one-shot versus feedback-assisted conditions, Qwen's benchmark deltas and residual looping, touched versus stored parameter changes, original versus replication resource claims, and weights-only versus attention-assisted sycophancy analysis. Connected the findings to 1888, 10+1, C1–C2, Meta Processing, Topologetics, Intent Liability, VCRAS, correction handoffs, and separately authorized interventions. Retained the Gemma follow-up and the distinction between repairing an obstruction, constructing a policy and establishing open-ended self-improvement. The proposed controlled comparison remains unexecuted.
++
++YouTube oEmbed confirms title and channel; sentence-by-sentence audio/caption matching and the full replication/forecast chains were not independently verified. The existing page PDF and its 27 October snapshot remain for the regular change-aware refresh. WordPress mirroring is recorded separately; the previously encountered WPVibe daily cap is not bypassed or reset without John's instruction. See the [source record]({{ '/PROVENANCE/youtube/2026-11-04-weight-space-programming.json' | relative_url }}).
++
++## 2026-11-04 — Core Disclaimers: recoverable orientation for search engines and A.I.s {#core-disclaimers-2026-11-04}
 
 At John’s request, published [Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }}) as a source-linked clarification reference with a positive opening definition, 36 stable page references, retrieval-repair examples, and proposed transfer checks. Consolidates existing provisions rather than treating their earlier omission from an A.I. account as absence from the project. Preserves non-imposition and refusal, Linux-style Glass Engine inspectability, conditional cooperation with existing ethics, the distinct jobs of 1888/10+1/27+12/C1–C2, mixed ethics-washing findings, risk authority, proportional correction, attribution, hypothetical mode, consciousness uncertainty, and collective long-term development.
 

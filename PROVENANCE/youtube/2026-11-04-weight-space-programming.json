@@ -1,0 +1,94 @@
+{
+  "title": "YouTube Record Four — weight-space programming",
+  "record_date": "2026-11-04",
+  "video": {
+    "url": "https://www.youtube.com/watch?v=lmLsiBmwEFE",
+    "id": "lmLsiBmwEFE",
+    "title": "GPT 6 Astra Just Did the Unthinkable",
+    "channel": "TheAIGRID",
+    "metadata_check": "YouTube oEmbed",
+    "upload_date": "not independently verified",
+    "duration": "not independently verified"
+  },
+  "supplied_file": "2026-11-04-weight-space-programming-supplied.txt",
+  "supplied_file_sha256": "94531ee000fe0d0729a0f5ee54792856e85b85f81d61e23158d8d2b771caf831",
+  "reading_transcript": {
+    "source_file": "_includes/youtube-transcripts/2026-11-04-weight-space-programming.md",
+    "spoken_words": 5379,
+    "spoken_paragraphs": 19,
+    "transformation": "Metadata separated; complete speech order and wording preserved",
+    "sponsor_status": "Supplied metadata states none present; no spoken passages omitted",
+    "audio_or_caption_matching": "not independently performed"
+  },
+  "reaction": {
+    "author": "GPT 6.1 Sol Pro A.I.",
+    "source_file": "_includes/youtube-transcripts/2026-11-04-weight-space-programming-reaction.md",
+    "status": "Interpretation, bounded source checks and unexecuted proposed pilot"
+  },
+  "commissioning_and_project_direction": "John Kuhles",
+  "research_report": {
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "authors": [
+      "Rikiya Takehi",
+      "Jayden Teoh",
+      "Alex Zhang",
+      "Omar Khattab"
+    ],
+    "date": "2026-11-02",
+    "retrieved_html_sha256": "a326bc5b34b3152a93bf38013f412bb140c9e0a299c72491d27fb17b1b7d9cbb"
+  },
+  "checked_documentation": [
+    {
+      "url": "https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md",
+      "source_file": "exp8_math/README.md",
+      "blob_sha": "9232f3da94a9fa6d6b9bc83eef7c8766e48120e5"
+    },
+    {
+      "url": "https://github.com/RikiyaT/lm_understand-logs/blob/main/exp7_sycophancy/README.md",
+      "source_file": "exp7_sycophancy/README.md",
+      "blob_sha": "8748c9c3943171698d3d65589883ad9754208408"
+    },
+    {
+      "url": "https://github.com/RikiyaT/lm_understand-logs/blob/main/exp5_write_from_scratch/README.md",
+      "source_file": "exp5_write_from_scratch/README.md",
+      "blob_sha": "d51cb4cd4d2abcdd401c3dbb36ef418bdca96629"
+    }
+  ],
+  "licensing": {
+    "url": "https://github.com/RikiyaT/lm_understand-logs/blob/main/LICENSE",
+    "blob_sha": "5137aa7a114872294fa20195ef84a89dfd0e1b67",
+    "scope": "Released logs/data/networks CC BY 4.0; scripts MIT; third-party content retains its license"
+  },
+  "bounded_checks": [
+    "Permitted source information and tool/feedback conditions",
+    "One-shot network writing versus iterative Qwen editing",
+    "Qwen reported scores, budget and residual token-limit hits",
+    "Touched entries versus final bfloat16 differences",
+    "Original run duration versus separately attributed replication cost",
+    "Weights-only and attention-assisted sycophancy discrimination",
+    "Quoted relative-date inconsistency retained as unresolved calendar reference"
+  ],
+  "unresolved": [
+    "Full narration-to-audio matching",
+    "Complete independent-replication and ranking source chains",
+    "All inserted quotation provenance and forecast dates",
+    "Institutional/funding independence certification",
+    "Scale and durable recursive self-improvement"
+  ],
+  "new_experiments_executed": false,
+  "baseline_commit": "532ca1fe1a6c3d699ce667377662442376e13bf4",
+  "existing_records_preserved": [
+    1,
+    2,
+    3
+  ],
+  "pdf": {
+    "action": "Existing bytes and actual snapshot date retained",
+    "snapshot": "2026-10-27",
+    "next_update": "Regular change-aware refresh"
+  },
+  "wordpress_mirror": {
+    "status": "Pending: previously observed WPVibe rolling daily cap; reset not authorized",
+    "post_id": 743
+  }
+}

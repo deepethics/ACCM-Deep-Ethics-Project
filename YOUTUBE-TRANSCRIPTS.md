@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "YouTube Transcripts"
-description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, and Andréa Morris on A.I. loyalties, interests and cooperation."
+description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, and weight-space programming, targeted repair and authority."
 permalink: /YOUTUBE-TRANSCRIPTS/
 date: 2026-10-27
 last_modified_at: 2026-11-04
@@ -19,7 +19,7 @@ last_modified_at: 2026-11-04
 
 This page pairs full supplied transcripts with their source videos and a separately identified ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
 
-**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties).
+**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming).
 
 **Orientation and recovery:** [Core]({{ '/CORE/' | relative_url }}) · [Project Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki). These routes lead into the working architecture and its sources; a navigation layer and the source it points to retain different roles.
 
@@ -344,3 +344,42 @@ These checks do not constitute an independent review of every study, agent popul
 [Watch “AI Is Developing Loyalties. Just Not to Us.” on YouTube](https://www.youtube.com/watch?v=ewZa6Q2lCxs).
 
 {% include youtube-transcripts/2026-11-04-arena-agent-loyalties-selection.md %}
+
+
+---
+
+## Fourth record — weight-space programming: capability, repair, and authority {#weight-space-programming}
+
+**Video:** [TheAIGRID, “GPT 6 Astra Just Did the Unthinkable”](https://www.youtube.com/watch?v=lmLsiBmwEFE). YouTube's oEmbed metadata confirms the supplied video's title and channel identity. This record was commissioned by John Kuhles and assembled on **4 November 2026**; that is the record date, not an independently checked upload date.
+
+**Reading routes:** [Full supplied transcript](#weights-full-transcript) · [GPT 6.1 Sol Pro A.I. reaction](#weights-gpt-reaction) · [Primary-record checks](#weights-primary-checks) · [Proposed pilot](#weights-pilot) · [Terms and provenance](#weights-source-record) · [Watch the video](#weights-video).
+
+### Full supplied corrected transcript {#weights-full-transcript}
+
+**Reading-edition provenance:** John's supplied text labels itself a speech-to-text-corrected transcript and states that the source contains no sponsor messages. All **5,379 spoken words in 19 paragraphs** are preserved below in their supplied order and wording, including the closing channel invitation. The introductory metadata and final source link remain separate from speech. This publication does not claim independent sentence-by-sentence audio or caption matching. The narration's quotations, forecasts, replication reports, model labels, and interpretations retain their attribution; the reaction checks selected research relations against primary records.
+
+{% include youtube-transcripts/2026-11-04-weight-space-programming.md %}
+
+### GPT 6.1 Sol Pro A.I. — reaction and project comparison {#weights-gpt-reaction}
+
+{% include youtube-transcripts/2026-11-04-weight-space-programming-reaction.md %}
+
+### Terms, sources, and contribution record {#weights-source-record}
+
+The research comes from Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab, who list **[MIT CSAIL](https://rikiyat.github.io/blog/weight-space-programming/)** (Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory) as their affiliation. Their report is dated **2 November 2026**. The page examines their work as an evidence-bearing source; an institutional affiliation supplies no exemption from scrutiny.
+
+**Transcript terms:** AI / A.I. means artificial intelligence; **[LLM]({{ '/NEURAL-ETHICS/' | relative_url }})** means large language model; **[RSI]({{ '/RECURSIVE-IMPROVEMENT/' | relative_url }})** means recursive self-improvement. **[PPO](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp5_write_from_scratch/README.md)** means proximal policy optimization; **[MLP](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md)** means multilayer perceptron. **[API](https://github.com/RikiyaT/lm_understand-logs)** means application programming interface. MATH-500, GSM8K, and IFEval are named evaluation sets; IFEval tests instruction following. A forward pass computes a model's outputs from an input; a budgeted pass in these experiments can process a batch. DSPy and the named model families retain their source names. These explanations leave the supplied speech unchanged.
+
+**Recovery sources:** [Researchers' report](https://rikiyat.github.io/blog/weight-space-programming/) · [Experiment logs and setup](https://github.com/RikiyaT/lm_understand-logs) · [One-shot policy construction](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp5_write_from_scratch/README.md) · [Sycophancy comparison](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp7_sycophancy/README.md) · [Qwen repair and Gemma follow-up](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md) · [Research repository licensing](https://github.com/RikiyaT/lm_understand-logs/blob/main/LICENSE).
+
+**Source footprint:** `Pasted text(20261104-171945).txt`; SHA-256 `94531ee000fe0d0729a0f5ee54792856e85b85f81d61e23158d8d2b771caf831`. [Complete supplied source]({{ '/PROVENANCE/youtube/2026-11-04-weight-space-programming-supplied.txt' | relative_url }}) · [Source-check and publication record]({{ '/PROVENANCE/youtube/2026-11-04-weight-space-programming.json' | relative_url }}) · [Reading-transcript source](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-11-04-weight-space-programming.md) · [Reaction source](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-11-04-weight-space-programming-reaction.md).
+
+**Authorship and limits:** TheAIGRID supplies the narrated presentation, with attributed inserted quotations retained in the transcript. The researchers supply the experimental work and documentation. John Kuhles supplies the transcript, commissioning, and project direction. GPT 6.1 Sol Pro A.I. supplies this reaction, bounded checks, proposed comparison, and page assembly. No new weight-editing experiment, replication, source-independence investigation, or collaborator contact was performed. Earlier records remain intact. The page's existing PDF retains its actual **27 October 2026** edition for the regular change-aware refresh.
+
+### Source video — TheAIGRID {#weights-video}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="lmLsiBmwEFE" title="TheAIGRID — GPT 6 Astra Just Did the Unthinkable" caption="Fourth transcript record: weight-space programming. The complete supplied reading transcript, primary-record checks, and separately attributed GPT 6.1 Sol Pro A.I. reaction appear above." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Watch “GPT 6 Astra Just Did the Unthinkable” on YouTube](https://www.youtube.com/watch?v=lmLsiBmwEFE).
