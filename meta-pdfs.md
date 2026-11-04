@@ -37,6 +37,13 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | 5G Controversy | [PDF]({{ '/Deep-Ethical-PDFs/5G-CONTROVERSY.pdf' | relative_url }}) | [Live page]({{ '/5G-CONTROVERSY/' | relative_url }}) |
 | A.I.s & UFO–UAP Disclosure | [PDF]({{ '/Deep-Ethical-PDFs/AI-AND-UFO-UAP.pdf' | relative_url }}) | [Live page]({{ '/AI-AND-UFO-UAP/' | relative_url }}) |
 | Project Avalon | [PDF]({{ '/Deep-Ethical-PDFs/PROJECT-AVALON.pdf' | relative_url }}) | [Live page]({{ '/PROJECT-AVALON/' | relative_url }}) |
+| **Autocomplete** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AUTOCOMPLETE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AUTOCOMPLETE/) |
+| **Godfather of A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GODFATHER-OF-AI.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) |
+| **Google A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GOOGLE-AI.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) |
+| **Mutual Fate** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/MUTUAL-FATE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUTUAL-FATE/) |
+| **PR Psychology** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PR-PSYCHOLOGY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/) |
+| **Truth Seekers vs Cautionmurmelism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) |
+| **Validation Paradox** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VALIDATION-PARADOX.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALIDATION-PARADOX/) |
 | Metacognitive Synthesis | [PDF]({{ '/Deep-Ethical-PDFs/METACOGNITIVE-SYNTHESIS.pdf' | relative_url }}) | [Live page]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) |
 | **ACCM Deep Ethics Project** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-Home.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/) |
 | **1888 — Intelligence Before A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/1888.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) |
