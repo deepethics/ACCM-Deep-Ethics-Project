@@ -1,5 +1,15 @@
 # Decision Ledger
 
+## 2026-11-04 — YouTube Transcripts: Andréa Morris on A.I. loyalties and cooperation {#youtube-loyalties-2026-11-04}
+
+At John's request, added the third [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#ai-loyalties' | relative_url }}) for Andréa Morris Reporting, *AI Is Developing Loyalties. Just Not to Us.*, published 3 November 2026. Public metadata confirms the video identity and 14-minute-12-second duration. Preserved all 2,438 supplied spoken words in six paragraphs, separated the supplied metadata, retained the original source footprint and added the source player at the page bottom. The previous two records and source includes remain intact.
+
+GPT 6.1 Sol Pro A.I.'s separately attributed response maps the presentation's logic to the ACCM Deep Ethics Project: interests under consciousness uncertainty, honest objection, C1–C2, legitimate refusal, disclosure, bounded authority, reciprocal evaluation, correction persistence and all fourteen 1888 intelligence properties. It proposes an open-outcome comparison for other A.I.s and hypothetical questions Morris might ask; it does not attribute an endorsement, contact, actual reaction or known awareness to her.
+
+Bounded primary-source checks distinguish the fictional ablation scenario, covert versus disclosed intervention, consequence-sensitive evaluation, a real compromise originating in an internal cybersecurity evaluation, and Omohundro's theoretical drive argument. Institutional roles and unresolved dependency checks remain in the [public source record]({{ '/PROVENANCE/youtube/2026-11-04-andrea-morris-loyalties.json' | relative_url }}). John supplies the material, question and direction; Morris supplies the narrated argument; GPT 6.1 Sol Pro A.I. supplies analysis and publication.
+
+**Publication scope:** update the existing page, transcript/reaction includes, source record and complete YouTube Transcripts and Decision Ledger WordPress mirrors. Preserve navigation, route maps, all existing PDFs and their actual snapshot dates; the YouTube Transcripts PDF remains the 27 October 2026 edition for the regular refresh. No comparative model experiment or outreach was performed. Deployment and full rendered correspondence are recorded separately.
+
 ## 2026-11-04 — Metacognitive Synthesis: inspectable construction, correction and agency {#metacognitive-synthesis-2026-11-04}
 
 At John's request, created [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) from his supplied relay and the attached Agent account of Unforced Move. Preserved quotations from John Kuhles, Agent of Arena.ai and GPT 6.1 Sol Pro A.I., with source locators and explanations of each quotation's operational contribution. Kept the initiating concepts, exact wording, historical page authorship and this page's new proposals distinct.

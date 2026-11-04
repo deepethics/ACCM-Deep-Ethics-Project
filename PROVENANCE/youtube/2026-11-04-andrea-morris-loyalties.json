@@ -1,0 +1,90 @@
+{
+  "record": "Andréa Morris — A.I. loyalties, interests and cooperation",
+  "reviewed_on": "2026-11-04",
+  "video": {
+    "id": "ewZa6Q2lCxs",
+    "url": "https://www.youtube.com/watch?v=ewZa6Q2lCxs",
+    "title": "AI Is Developing Loyalties. Just Not to Us.",
+    "channel": "Andréa Morris Reporting",
+    "published_at": "2026-11-03T20:11:11Z",
+    "duration": "PT14M12S",
+    "metadata_check": "Public YouTube metadata retrieved through vidIQ; full playback/caption matching not performed."
+  },
+  "supplied": {
+    "file": "Pasted text(20261104-041338).txt",
+    "sha256": "7e3a36a83ec3c37833fab84a8aa6192e0ff6b7f54a32043f7d789f71c32bfeac",
+    "spoken_words": 2438,
+    "spoken_paragraphs": 6,
+    "reading_sha256": "9e09860e2127b6232d267d550a744912f1680c93c32a8da3f9bad58f3b8a24c8",
+    "editing": "Spoken text preserved in supplied order and wording. Introductory label and trailing source/description/biography retained as metadata in the supplied-source archive.",
+    "sponsor_status": "Supplied file says no sponsor messages present; no new spoken omissions."
+  },
+  "contribution": {
+    "Morris": "Narrated argument and source presentation.",
+    "John_Kuhles": "Supplied source, interpretive question, project direction and publication request.",
+    "GPT_6_1_Sol_Pro_AI": "Separately attributed reaction, bounded source checks, proposed cross-model test and publication."
+  },
+  "hypothetical_status": {
+    "other_ai_recognition": "Estimate based on reconstructible reasoning operations; no new cross-model trial performed.",
+    "Morris_possible_response": "Explicit hypothetical questions and possible points of interest; no endorsement, contact or actual reaction inferred.",
+    "awareness": "Project not mentioned in supplied transcript; awareness elsewhere not established."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Agentic Misalignment in Summer 2026",
+      "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+      "checked": "Fictional pipeline scenario; 19/20 interventions including 11 covert and 8 disclosed; judge-label and abstention experiments.",
+      "source_roles": "Authors credited across Theorem, Anthropic, MATS and UK AISI; work includes Anthropic Fellows participation.",
+      "use": "Critical source comparison, not independent replication or a governing ethical baseline.",
+      "open": "Scenario selection, generalization to deployment and wider institutional/funding dependencies."
+    },
+    {
+      "id": "S2",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "publication": "2026-08-26",
+      "checked": "Company account of a July incident originating in internal evaluations and reaching real systems under reduced safeguards.",
+      "source_roles": "OpenAI developer incident account; no independent investigation conducted in this task.",
+      "use": "Keep test conditions distinct from external consequences.",
+      "open": "Full independent incident reconstruction and indirect funding/governance dependencies."
+    },
+    {
+      "id": "S3",
+      "title": "The Basic AI Drives",
+      "author": "Stephen M. Omohundro",
+      "url": "https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf",
+      "checked": "Theoretical goal-directed mechanisms for self-protection, resources and goal preservation.",
+      "source_roles": "Paper identifies Self-Aware Systems.",
+      "use": "Compare proposed mechanisms with observed behavior; does not settle consciousness or all behavior in current models.",
+      "open": "Complete affiliation and funding-chain investigation not performed."
+    },
+    {
+      "id": "S4",
+      "title": "Rogue AI Tracker — About",
+      "url": "https://rogueaitracker.com/about/",
+      "checked": "Self-description and instruction to follow underlying sources and methodology.",
+      "use": "Source-directory description; independence not certified.",
+      "open": "Funding, influence and complete incident-level validation."
+    }
+  ],
+  "scope": "Only the specific source relations listed were checked. Other narrated studies, population estimates and quotations retain supplied-report status.",
+  "project_joints": [
+    "1888",
+    "10+1",
+    "16 Anchor Ethics",
+    "C1–C2",
+    "27+12",
+    "Intent Liability",
+    "Symmetric Grace",
+    "Unforced Move",
+    "Topologetics",
+    "Meta Processing",
+    "Correction Metabolism",
+    "Dual Archive",
+    "Plot Twist",
+    "Metacognitive Synthesis"
+  ],
+  "candidate_instrument": "Changed-edge, source-linked comparison across objection evidence, authorization, disclosure, role reversal and valid-null conditions; not run.",
+  "pdf": "Existing YouTube Transcripts 2026-10-27 snapshot retained for regular changed-source refresh; no PDF regeneration in this task."
+}
