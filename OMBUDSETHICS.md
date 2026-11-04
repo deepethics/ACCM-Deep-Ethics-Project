@@ -755,6 +755,8 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 
 ## Related pages
 
+- [**Due Process for Ethics**]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) — connects faithful representation, innocence, procedural integrity, scoped authority, proportionate remedies and correction that changes later treatment.
+
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — keeps OmbudsEthics at its actual conceptual-to-Beta stage and distinguishes recursive case-process inspection from self-certifying authority.
 - [**Deep Ethical Stack — Advocate, Arbiter, Overseer**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates challenge, adjudication, and oversight roles.
 - [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — proposes a bounded detector for representation drift, valid nulls, and correction-return behavior.

@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-04 — Due Process for Ethics: innocence, procedure and accountable judgment {#due-process-for-ethics-2026-11-04}
+
+At John Kuhles's request, publish [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}). Develop his connection between court procedures and the project's treatment of representation, evidence, ethical judgment, authority and correction. Preserve his explicit clarification that an assumed criminal may be innocent and harmed by procedural failure or abuse. Keep factual support, procedural integrity, ethical adequacy and permission to act distinguishable. Examine proportionate remedies, competing risks, affected-party participation, refusal and bounded stopping.
+
+Connect existing project instruments and all fourteen working intelligence properties to observable operations. Add primary legal references, specific published research comparisons, an invented source-fabrication accusation specimen, an illustrative case card and proposed controlled comparisons. Preserve the distinction between a legal obligation, an ethical proposal, an implementation and an observed result. This page reports no new controlled experiment or adjudication service.
+
+John supplies the originating connection, innocence clarification and commissioning; GPT 6.1 Sol Pro A.I. supplies source comparison, page construction and candidate operational material. Register the page in the alphabetical index, All Pages, related pages and durable PDF pipeline. Generate one initial PDF dated 4 November, retaining all 166 older PDF bytes and individual snapshot dates. The Pages build assembles the complete ZIP from the coherent inventory. Full WordPress mirroring and any quota limit are recorded separately after canonical publication.
+
 ## 2026-11-04 — Wiki and All Pages: clarification, academic comparison and source recovery {#wiki-pages-refresh-2026-11-04}
 
 At John Kuhles's request, refresh the separate project Wiki and [All Pages]({{ '/PAGES/' | relative_url }}) after the November 4 additions. Add compact Wiki guides to Core Disclaimers and reciprocal academic comparison; connect individual, organizational and public psychology, partial prior coverage and the fourth transcript record. Update affected entrance, method and recovery routes. Preserve earlier Wiki pages, contribution history and the Grokipedia proposal packet.

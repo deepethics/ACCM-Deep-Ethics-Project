@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 166
+**Public pages exported:** 167
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -52,6 +52,7 @@
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |
 | [DeepEthicalOS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPETHICALOS/) | [DEEPETHICALOS.pdf](DEEPETHICALOS.pdf) | `DEEPETHICALOS.md` |
+| [Due Process for Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DUE-PROCESS-FOR-ETHICS/) | [DUE-PROCESS-FOR-ETHICS.pdf](DUE-PROCESS-FOR-ETHICS.pdf) | `DUE-PROCESS-FOR-ETHICS.md` |
 | [Emergent — Which Properties Are We Harnessing?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) | [EMERGENT.pdf](EMERGENT.pdf) | `emergent.md` |
 | [Ethical Blind Spots](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ETHICAL-BLIND-SPOTS/) | [ETHICAL-BLIND-SPOTS.pdf](ETHICAL-BLIND-SPOTS.pdf) | `ETHICAL-BLIND-SPOTS.md` |
 | [Expanding vs Flattening](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPANDING-VS-FLATTENING/) | [EXPANDING-VS-FLATTENING.pdf](EXPANDING-VS-FLATTENING.pdf) | `EXPANDING-VS-FLATTENING.md` |

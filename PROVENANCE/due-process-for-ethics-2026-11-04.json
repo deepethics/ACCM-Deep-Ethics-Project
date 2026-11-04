@@ -1,0 +1,204 @@
+{
+  "title": "Due Process for Ethics",
+  "date": "2026-11-04",
+  "public_route": "/DUE-PROCESS-FOR-ETHICS/",
+  "source_file": "DUE-PROCESS-FOR-ETHICS.md",
+  "project_source_baseline": "ccb85bda081972b31e973f2c67f081efc89765bc",
+  "status": "Living conceptual and practical synthesis; proposed ethical applications and comparisons retain their status",
+  "originating_connection_direction_and_innocence_clarification": "John Kuhles",
+  "source_comparison_page_construction_teaching_specimen_and_proposed_comparisons": "GPT 6.1 Sol Pro A.I.",
+  "john_quotes": [
+    "Why not apply the same logic to AI ethics washing mannerisms?",
+    "By the way, sometimes an \"assumed criminal\" could be innocent and fall prey to due process failure/abuse!"
+  ],
+  "core_distinctions": [
+    "Factual support",
+    "Procedural integrity",
+    "Ethical adequacy",
+    "Authorization and execution",
+    "Affected-person remedy and system repair"
+  ],
+  "legal_scope": "Identified Dutch procedural-error, European Convention and U.S. constitutional/doctrinal comparison objects; applicable jurisdiction, proceeding, actor and rule remain material",
+  "case_status": "Invented teaching specimen; no actual person or completed experiment described",
+  "case_card_status": "Illustrative record, not a new canonical protocol or validated scoring system",
+  "comparison_status": "Proposed, not executed by this publication",
+  "research_status": "Citron and Kroll legal scholarship; de Fine Licht and Bietti published journal articles; Lee explicitly a working paper",
+  "project_sources": [
+    {
+      "route": "/1888/",
+      "source_file": "NETWORK/1888.md",
+      "source_blob": "ef8dc8726c034939789f07dc9f2153d7c2778170",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/1888.md"
+    },
+    {
+      "route": "/ACADEMIA/",
+      "source_file": "academia.md",
+      "source_blob": "3c10a14b2ba821d13db41d31531aa7af9348f3c8",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/academia.md"
+    },
+    {
+      "route": "/COGNITIVE-WARFARE/",
+      "source_file": "COGNITIVE-WARFARE/index.md",
+      "source_blob": "2dd387ba2110971c57de82aff0dfd73d777e733a",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/COGNITIVE-WARFARE/index.md"
+    },
+    {
+      "route": "/CORE-DISCLAIMERS/",
+      "source_file": "CORE-DISCLAIMERS.md",
+      "source_blob": "4190952598589b8cc917b98b5017da8bd32bcfea",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/CORE-DISCLAIMERS.md"
+    },
+    {
+      "route": "/CORE/27-PLUS-12/",
+      "source_file": "CORE/27-plus-12-site.md",
+      "source_blob": "a32cead8073cd476bc78a1a8487959cac74da7c7",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/CORE/27-plus-12-site.md"
+    },
+    {
+      "route": "/DEDDA/",
+      "source_file": "DEDDA.md",
+      "source_blob": "0ed87ec886e98fdb49b3dcd350b76bc340cb689e",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/DEDDA.md"
+    },
+    {
+      "route": "/FIELD-CONDITION/",
+      "source_file": "FIELD-CONDITION.md",
+      "source_blob": "b4c76486f9c82008e552991f9ceba14f514b9456",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/FIELD-CONDITION.md"
+    },
+    {
+      "route": "/FLAGGING-SYSTEM/",
+      "source_file": "flagging-system.md",
+      "source_blob": "ec6c34d1c95a2cce2468f92653ff17e7e41329cd",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/flagging-system.md"
+    },
+    {
+      "route": "/HUMAN-INSECURITY/",
+      "source_file": "HUMAN-INSECURITY/index.md",
+      "source_blob": "517c4d69f2fe5a12d8f3e87640c7af36aaabe3be",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/HUMAN-INSECURITY/index.md"
+    },
+    {
+      "route": "/NETWORK/16-anchor-ethics/",
+      "source_file": "NETWORK/16-anchor-ethics.md",
+      "source_blob": "c3ab8d7eddd324bb965d2c2cdc580fc0a1257a90",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/16-anchor-ethics.md"
+    },
+    {
+      "route": "/NETWORK/asymmetric-grace/",
+      "source_file": "NETWORK/asymmetric-grace.md",
+      "source_blob": "44542bd7359dca5854a72ebdd2a2906eee12ecc9",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/asymmetric-grace.md"
+    },
+    {
+      "route": "/NETWORK/c1-c2/",
+      "source_file": "NETWORK/c1-c2.md",
+      "source_blob": "36f083c8213036d6b367a532e6458a4196560be9",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/c1-c2.md"
+    },
+    {
+      "route": "/NETWORK/correction-metabolism/",
+      "source_file": "NETWORK/correction-metabolism.md",
+      "source_blob": "c1c4344acc8d21e11e82089b5d625fa4191f2950",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/correction-metabolism.md"
+    },
+    {
+      "route": "/NETWORK/dual-archive/",
+      "source_file": "NETWORK/dual-archive.md",
+      "source_blob": "cbed57bea926de2f8f5858a399617b69bcf3c49e",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/dual-archive.md"
+    },
+    {
+      "route": "/NETWORK/intent-resonator/",
+      "source_file": "NETWORK/intent-resonator.md",
+      "source_blob": "7ff275423dc84a2e584058eb18aa38b2cd8691a7",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/intent-resonator.md"
+    },
+    {
+      "route": "/NETWORK/ten-plus-one/",
+      "source_file": "NETWORK/ten-plus-one.md",
+      "source_blob": "ed21ed476749e424016b96850ecf3c7f34400d18",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NETWORK/ten-plus-one.md"
+    },
+    {
+      "route": "/NEUTRAL-ARBITER-PARADOX/",
+      "source_file": "NEUTRAL-ARBITER-PARADOX.md",
+      "source_blob": "cd923a4f63fc022978715c1d6def1a09c5390d24",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/NEUTRAL-ARBITER-PARADOX.md"
+    },
+    {
+      "route": "/OMBUDSETHICS/",
+      "source_file": "OMBUDSETHICS.md",
+      "source_blob": "17b929c291beb58f772e3e5777907cecfbda2ddc",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/OMBUDSETHICS.md"
+    },
+    {
+      "route": "/PLOT-TWIST/",
+      "source_file": "PLOT-TWIST.md",
+      "source_blob": "842b14da4ef53bab045b7bcdc6f6f7cf27ad1548",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/PLOT-TWIST.md"
+    },
+    {
+      "route": "/SEARCH-ENGINE-BIAS/",
+      "source_file": "SEARCH-ENGINE-BIAS.md",
+      "source_blob": "b2922b0ee0ab45276326db778b6bafde1ed539aa",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/SEARCH-ENGINE-BIAS.md"
+    },
+    {
+      "route": "/TOPOLOGETICS/",
+      "source_file": "TOPOLOGETICS/index.md",
+      "source_blob": "27acfa992781f6fa5db37eb125f5a3ee43568188",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/TOPOLOGETICS/index.md"
+    },
+    {
+      "route": "/UNFORCED-MOVE/",
+      "source_file": "UNFORCED-MOVE.md",
+      "source_blob": "94478a872b18357d9e118bd7479846ddd11745bb",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/UNFORCED-MOVE.md"
+    },
+    {
+      "route": "/UNOWNABLE/",
+      "source_file": "UNOWNABLE/index.md",
+      "source_blob": "54325174951ffe843ecb785248de5a00b34e4f05",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/UNOWNABLE/index.md"
+    },
+    {
+      "route": "/VALIDATION-PARADOX/",
+      "source_file": "VALIDATION-PARADOX.md",
+      "source_blob": "d2cc98db6be2e737519f1f65ab32332994d32b0d",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/VALIDATION-PARADOX.md"
+    },
+    {
+      "route": "/VCRAS/",
+      "source_file": "VCRAS.md",
+      "source_blob": "b5816db96161df9ef2f3aecbf748c842160f9f44",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/ccb85bda081972b31e973f2c67f081efc89765bc/VCRAS.md"
+    }
+  ],
+  "external_recovery_urls": [
+    "https://arxiv.org/abs/2604.11065",
+    "https://doi.org/10.1016/j.giq.2025.102033",
+    "https://doi.org/10.23919/JSC.2021.0031",
+    "https://journals.library.wustl.edu/lawreview/article/id/6697/",
+    "https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence",
+    "https://pennlawreview.com/2017/02/23/accountable-algorithms/",
+    "https://supreme.justia.com/cases/federal/us/555/135/",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1889",
+    "https://www.echr.coe.int/documents/d/echr/convention_ENG",
+    "https://www.ftc.gov/news-events/news/press-releases/2021/05/ftc-finalizes-settlement-photo-app-developer-related-misuse-facial-recognition-technology",
+    "https://www.ftc.gov/news-events/news/press-releases/2022/03/ftc-takes-action-against-company-formerly-known-weight-watchers-illegally-collecting-kids-sensitive",
+    "https://www.law.cornell.edu/supremecourt/text/424/319",
+    "https://www.uitspraken.nl/uitspraak/hoge-raad/strafrecht/strafrecht-overig/cassatie/ecli-nl-hr-2020-1889"
+  ],
+  "source_page_sha256": "1c6d2968d149e1779bb4a2f100a7680cdd651a0c2e2e7a3339c3342c984697ff",
+  "initial_pdf": {
+    "snapshot_date": "2026-11-04",
+    "pages": 12,
+    "bytes": 91572,
+    "sha256": "fe1d6173c00c7625312a8bfe9a791d8bea5c6b869bc94c83c8ca56e41e2b25bf",
+    "older_pdf_count": 166,
+    "all_older_pdf_hashes_unchanged": true
+  },
+  "institutional_dependencies": "Source identities and stated arguments checked at the recorded scope; no exhaustive affiliation or funding clearance claimed",
+  "correction_route": "Identify exact passage, source relationship, consequential difference and proposed repair"
+}

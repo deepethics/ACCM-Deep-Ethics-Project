@@ -767,6 +767,8 @@ represent the academic object
 
 ## Related pages
 
+- [**Due Process for Ethics**]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) — connects faithful representation, innocence, procedural integrity, scoped authority, proportionate remedies and correction that changes later treatment.
+
 - [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — establishes the object and claim status before compression or comparison.
 - [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — a BETA conceptual proposal whose academic neighbors do not validate its operation.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, result and effect, notice, explanation, and persistence.
