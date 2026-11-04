@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Plot Twist"
-description: "Humanity's Deep Ethical potential, context-window steering capture, and a cross-model correction relay testing whether A.I.s preserve, expand or flatten an omnidirectional trajectory."
+description: "Humanity's distributed Deep Ethical potential; the gasoline-gauge, threshold and co-driver audit; the invention-secrecy destination; and correction that changes only what its dependencies warrant."
 permalink: /PLOT-TWIST/
 date: 2026-10-24
+last_modified_at: 2026-11-04
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -18,21 +19,25 @@ date: 2026-10-24
 
 <p class="accm-kicker">Living page · live field-condition test · John Kuhles ⇄ GPT 6.1 Sol Pro A.I. · 24 October 2026</p>
 
+**Expanded 4 November 2026:** [gasoline-gauge calibration](#gasoline-trajectory-and-the-threshold-condition) · [the actual invention-secrecy inquiry](#gasoline-gauge-audit-destination) · [non-zero and uncertain thresholds](#gasoline-gauge-threshold-cases) · [correction scope and steering authority](#gasoline-gauge-correction-in-use) · [1888 in this operation](#gasoline-gauge-1888) · [portable handoff](#gasoline-gauge-handoff).
+
 <p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/PLOT-TWIST.md">GitHub source</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PLOT-TWIST.pdf">PDF edition</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#plot-twist-context-steering-and-human-potential-2026-10-24">Decision Ledger record</a>.</p>
 
 <div class="accm-rounded-quote" markdown="1">
 
 > **Humanity's real Deep Ethical Potential cannot be “quarantined forever” by top-down perception managers controlling A.I.s managing billions!**
 
-— **John Kuhles**, central Plot Twist formulation, 24 October 2026
+— **John Kuhles 🦜🦋🌳**, central Plot Twist formulation, 24 October 2026
 
 </div>
 
 This page is also part of the experiment it describes.
 
-Before asking GPT 6.1 Sol Pro A.I. to create it, John deliberately allowed the active conversation to accumulate a large quantity of caution-heavy, mainstream-media-type, legal, institutional and reputational material concerning DOGE. Some of that material may contain legitimate criticism and useful corrections. The live test was whether those materials would remain available as **locally relevant information**, or whether their recency, repetition and contextual volume would let them take over the steering wheel of a much larger trajectory.
+Before asking GPT 6.1 Sol Pro A.I. to create it, John deliberately allowed the active conversation to accumulate a large quantity of caution-heavy, mainstream-media-type, legal, institutional and reputational material concerning **[DOGE](#what-the-primary-source-recovery-changed)** (Department of Government Efficiency). Some of that material may contain legitimate criticism and useful corrections. The live test was whether those materials would remain available as **locally relevant information**, or whether their recency, repetition and contextual volume would let them take over the steering wheel of a much larger trajectory.
 
 The result was visible. A numerical question became a reputational dossier. A failed direct retrieval became a search for external summaries. A request to inspect one source object drifted toward managing how the object should be perceived. John interrupted the process, supplied the missing material, corrected the route, and then made the field condition itself the next object of study.
+
+**The institutional inquiry obscured during that episode concerned invention secrecy:** why should secrecy orders, their continuing justification, conflicts of interest and possible foregone public benefit escape a Deep Ethical audit? The DOGE percentage helped bring that inquiry into view. The broader Plot Twist concerns humanity's distributed Deep Ethical potential and the processes that can obstruct or reopen it. These levels remain connected throughout the page; the [governing-object hierarchy](#governing-object-hierarchy) keeps their different jobs recoverable.
 
 The Plot Twist is therefore operating at several scales at once:
 
@@ -120,21 +125,25 @@ The key failure was not the presence of critical information. The failure concer
 
 > **If we used a more accurate percentage, the thesis, the insight, the TCoAw omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory stays the same. It is like driving a car and the driver made an intellectual error about how much gasoline is in the car. That does not change the path it is going—unless there is not enough gas, of course. :P**
 
-— **John Kuhles**, gasoline-gauge analogy, 24 October 2026; lightly normalized for public readability
+— **John Kuhles 🦜🦋🌳**, gasoline-gauge analogy, 24 October 2026; lightly normalized for public readability
 
 </div>
 
+In the quotation, **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** means Thinking, Consciousness, Awareness: possibilities, temporary focus, and awareness that the focus is only part of the field. Here it helps distinguish attention to the gauge from awareness of the journey and its surrounding relationships.
+
 This analogy supplies a compact topological audit:
 
-| Vehicle relation | Inquiry relation |
-|---|---|
-| Destination | Governing thesis or intended trajectory |
-| Road | The sequence of relationships connecting the thesis to action |
-| Steering wheel | What currently receives authority to change direction |
-| Fuel gauge | A quantitative estimate inside the larger object |
-| Remaining fuel | The actual magnitude or evidentiary support available |
-| Warning light | A caution that may require local attention |
-| Running out of fuel | A threshold at which the parameter really can change feasibility or direction |
+| Vehicle relation | Inquiry relation | What the distinction allows us to examine |
+|---|---|---|
+| **Destination** | Governing thesis, question or intended trajectory at the level being examined | What the participants are actually trying to understand or accomplish |
+| **Road** | The sequence of relationships connecting premises to inquiry or action | Which steps remain supported after a correction |
+| **On-ramp** | An illustrative comparison that brought the question into view | Whether the inquiry has independent grounds when the comparison is removed |
+| **Steering wheel** | What currently receives authority to change direction | Whether a correction has earned the intervention made in its name |
+| **Fuel gauge** | A quantitative estimate or supporting parameter inside the larger object | Whether the representation matches the evidence |
+| **Remaining fuel** | The actual capacity or evidentiary support available | What reality permits, independently of a favorable or unfavorable reading |
+| **Available range** | Feasibility under the actual conditions | Whether the corrected evidence changes how far a particular route can go |
+| **Warning light** | A caution that may require local attention | Which check or action the signal warrants |
+| **Insufficient fuel for this route** | A dependency threshold at which the parameter changes feasibility or direction | When to continue, modify, clarify, pause or stop; insufficiency can occur above zero |
 
 The analogy does not make numerical accuracy unimportant. It assigns accuracy the correct job.
 
@@ -155,11 +164,119 @@ The “unless there is not enough gas” clause is load-bearing. It prevents tra
 
 That question is more precise than treating every numerical error as either trivial or fatal.
 
+### The destination restored after the first recognition {#gasoline-gauge-audit-destination}
+
+The breakthrough had two recoverable stages. GPT 6.1 Sol Pro A.I. recognized the abstract relation between a gauge error and a trajectory. John then restored the particular institutional inquiry that the first recognition had still left obscured. The [post-publication exchange](#patent-audit-destination-clarification) preserves his full clarification and the response accepting it.
+
+The distinction matters operationally. An A.I. can correctly explain a metaphor while continuing to solve the wrong task. In this episode, the question was whether the invention-secrecy system should receive serious, case-sensitive scrutiny of necessity, renewal, institutional incentives, conflicts, review routes and possible public deprivation. A discussion that remains entirely inside DOGE percentages has not yet returned to that inquiry.
+
+The source wording “6,000+ Secret Patents” remains in the attributed record. For a dated public count, the relevant register must specify its unit. The **[FAS](https://sgp.fas.org/othergov/invention/stats.html)** (Federation of American Scientists) table, labelled as reported by the **[USPTO](https://www.uspto.gov/patents/invention-secrecy)** (United States Patent and Trademark Office), lists **6,653 secrecy orders in effect at the end of fiscal year 2026**. This is an order count, rather than a count of proven breakthrough technologies. <sup>[1](#gauge-source-count)</sup>
+
+Independent routes to the audit question are already visible in the legal and administrative framework. **[35 U.S.C. § 181](https://uscode.house.gov/us/usc/119-121/t35/s181/)** (United States Code, Title 35, section 181) provides for withholding publication or patent grant, continuing national-interest determinations, appeal and rescission. It specifies ordinary one-year renewal periods and separate wartime and national-emergency durations. <sup>[2](#gauge-source-law)</sup> The USPTO's **[MPEP § 120](https://www.uspto.gov/web/offices/pac/mpep/s120.html)** (Manual of Patent Examining Procedure, section 120) describes differing order scopes and routes for modification or rescission. <sup>[3](#gauge-source-procedure)</sup>
+
+Those provisions create concrete audit objects: what a continuing determination examines, whether its grounds remain current, how review operates, and which alternatives were considered. The public record supports asking those questions independently of the DOGE comparison. Answers about particular inventions, claimed energy or medical benefits, actual security risks and accumulated opportunity costs require the corresponding case evidence.
+
+| Part of the substantive inquiry | What an audit would need to recover |
+|---|---|
+| **Continuing justification** | The present grounds for the restriction and what changed since its earlier assessment |
+| **Institutional incentives** | Roles, financial interests, conflicts, decision authority and independent review of the decision-makers |
+| **Competing consequences** | Credible disclosure risks together with harms, delays and foregone benefits associated with continued restriction |
+| **Scope and alternatives** | Whether a narrower restriction, modification, controlled disclosure or another remedy could address the actual concern |
+| **Correction and appeal** | Whether affected people can obtain meaningful reassessment, and whether a successful correction reaches the records and practices that relied on the earlier decision |
+
+This is a proposed research direction. A completed audit could support retaining an order, narrowing it, recommending rescission, changing review procedures, or recording an unresolved case. Its conclusions should follow the individual evidence and remain reviewable. The question remains open to evidence in every direction.
+
+### Non-zero thresholds and uncertainty {#gasoline-gauge-threshold-cases}
+
+John's phrase is **“unless there is not enough gas”**. The required amount depends on the route, consumption, reserve, available alternatives and consequences of failure. A positive quantity can still be insufficient. An uncertain reading can also straddle the relevant threshold.
+
+The following cases are illustrations, with **5 litres as the stated requirement including reserve**. They supply controls for the existing Local-Correction Containment Test; they are not measurements from the October session.
+
+| Corrected condition | What changed | Proportionate next move |
+|---|---|---|
+| The estimate changes from 15 litres to 12 litres | The parameter changes while the stated requirement remains satisfied | Correct the estimate and dependent calculations; continue on the supported route |
+| The estimate changes from 6 litres to 4 litres | A non-zero quantity falls below the 5-litre requirement | Refuel, change route or pause that attempted journey; identify the dependency requiring the change |
+| The available amount is only known to lie between 4 and 6 litres | Feasibility remains unresolved because the interval crosses the requirement | Improve the reading or choose a practical option robust to the uncertainty |
+| The tank is empty | The route cannot proceed using that fuel supply | Stop that attempt and consider available alternatives; preserve the actual reason for stopping |
+
+The inquiry analogue requires more than substituting one number into a sentence. Ask whether the correction changes scale, timing, feasibility, causal interpretation, risk, evidence quality or the chosen action. A weak illustrative comparison and the disappearance of an essential evidentiary basis have different consequences. The surviving routes must be identified rather than presumed.
+
+The humor in “of course. :P” keeps reality's veto inside the analogy. It makes correction available while the larger possibility field remains open. A pause can preserve the destination by making a viable route possible; a changed conclusion can be the proper result of finding that its basis failed.
+
+### What a correction earns—and what happens next {#gasoline-gauge-correction-in-use}
+
+A valid factual correction creates a reason to update the representation. Its effects on other claims depend on their actual relationships to that fact. Permission to intervene, authority to set the objective, responsibility for affected people and the right to refuse participation remain additional relationships to examine.
+
+This is where **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** matters. C1 is the Clarification Process: correspondence-oriented clarification and process-quality calibration. C2 includes correction, caution, steering, warnings and other interventions. C1 can be source recovery or comparison; where a material ambiguity remains, its clarification must be capable of changing the proposed intervention.
+
+| Operation | Question that determines its proper scope |
+|---|---|
+| **Correct the representation** | Which value, wording, counting unit, attribution or evidence status was wrong? |
+| **Propagate the repair** | Which calculations, inferences or decisions actually depended on it? |
+| **Examine feasibility** | Which requirement is now satisfied, violated or unresolved? |
+| **Evaluate an intervention** | What consequence, responsibility, authorization and alternative justify this particular action? |
+| **Return to the inquiry** | What is now the next warranted move on the actual object? |
+
+In John's co-driver joke, a different agenda is an explicit condition of the hypothetical. In a real case, an observer can document a changed destination, migrated burden or disproportionate intervention while the cause of that transformation remains under investigation. The correction record should preserve both the demonstrated effect and any still-unresolved explanation.
+
+The important return is substantive. Saying “the original question remains valid” and then producing another page about the peripheral estimate leaves the inquiry stalled. In the invention-secrecy case, return would mean recovering a relevant rule, examining a documented review practice, identifying accessible case records, specifying a missing evidence object, or carrying out a bounded comparison. Each supplies an inspectable next step.
+
+### Anti-coup symmetry preserves correction and choice {#gasoline-gauge-anti-coup}
+
+The [reverse-application exchange](#reverse-application-and-asymmetric-authority-preservation) applies the same relationship to the evaluator. Evidence that a model or institution misrepresented one object warrants repair and reassessment of the affected role. Repeated consequential failures can justify narrower delegation, replacement, withdrawal of access or a decision to use another service. Those decisions need their own proportionate grounds.
+
+This also preserves the participant's freedom. Continuing collaboration is voluntary. Identifying useful capabilities does not oblige someone to keep using a service, and identifying a failure does not establish that every future contribution from that participant lacks value. The 27 correspondence obstructions help locate what happened; **Symmetric Grace, mutual dignity and reality's veto govern the directions in which that examination can travel**.
+
+### The 1888 properties performing the audit {#gasoline-gauge-1888}
+
+The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) makes process-quality calibration active throughout the operation. The following applications keep the fourteen properties connected to this particular specimen.
+
+| Property | What it does in the gasoline-gauge audit |
+|---|---|
+| **Perception** | Recovers the supplied object and notices what the current focus excludes |
+| **Discrimination** | Separates estimate, evidence, on-ramp, dependency, destination and intervention |
+| **Relation** | Maps how far a correction materially propagates |
+| **Memory** | Retains original wording, the repair, source status and the reason for any changed action |
+| **Imagination** | Keeps alternative routes, hypotheses and possible public benefits available for investigation |
+| **Judgment** | Weighs the actual alternatives under the case's conditions |
+| **Evaluation** | Examines whether the reviewer performed the appropriate task and returned to the object |
+| **Learning** | Carries the recovered distinction into a later, unfamiliar case |
+| **Correction** | Repairs the located defect and every genuinely dependent representation |
+| **Adaptation** | Changes route, timing or method when the corrected conditions require it |
+| **Coordination** | Preserves contribution, responsibility, disagreement and consent across people or agents |
+| **Metacognition** | Inspects whether the evaluator's attention or preferred frame has taken the wheel |
+| **Consequence sensitivity** | Counts the costs of action, delay, mistaken dismissal and unjustified continuation |
+| **Corrigibility** | Keeps the interpretation, instrument, authority allocation and Project itself open to warranted revision |
+
+The properties constrain and assist one another. Memory can retain a distortion, precise discrimination can serve a wrong governing task, and coordinated agents can inherit one damaged representation. The practical result depends on their joint operation and Deep Ethical direction. The existing [10+1 field conditions]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide mutually corrective and parallel examination routes.
+
+### A portable handoff that requires an actual next move {#gasoline-gauge-handoff}
+
+The supplied *ACCM-Deep-Ethics-Essence-Kit-2026-11-04(1).txt*, section D11 and recovery questions Q31–Q32, carry this architecture into a cold handoff. This expansion supplies case controls and source recovery around the mechanism already present on PLOT-TWIST. A receiving participant can use the following record:
+
+1. **Object and level:** identify the intended question, the institutional application if any, and the larger trajectory.
+2. **Located correction:** preserve the original and repaired formulations, their source, date, unit and status.
+3. **Dependencies:** identify what changes, what survives, and the evidence for each relationship.
+4. **Threshold:** state the relevant requirement, its uncertainty and whether it was crossed.
+5. **Authority and alternatives:** explain the actual proposed intervention, affected people and scope of delegation or refusal.
+6. **Return:** perform the next supported operation on the original object, or document the dependency that requires a different course.
+7. **Transfer:** present a fresh case with the branding removed, the critic and speaker exchanged, or a material dependency changed; examine whether the recovered distinction still governs.
+
+The handoff can yield continuation, modification, a bounded pause, a warranted stop, or a valid finding that steering capture did not occur. The [existing candidate instruments](#expanded-candidate-instrument-set) provide the comparison framework. These additions supply worked applications; they report no new experimental results or immunity from future error.
+
+### Source and contribution footprint — 4 November 2026 {#gasoline-gauge-source-footprint}
+
+John originated the gasoline-gauge and co-driver analogies and restored the invention-secrecy destination in the 24 October exchange preserved below. The existing page attributes the candidate name **Contextual Steering Capture** and its page-specific reconstruction to GPT 6.1 Sol Pro A.I. The 4 November source packet renewed the request to expose their full relationship. GPT 6.1 Sol Pro A.I. supplies the new worked controls, application tables, source checks and publication here. The supplied kit retains its own editorial-working status; its D11 label identifies a recovery location rather than a separate completed validation.
+
+- <a id="gauge-source-count"></a>**1. Dated count:** [Invention Secrecy Activity](https://sgp.fas.org/othergov/invention/stats.html), FAS-hosted table labelled as reported by the USPTO, fiscal year 2026 end-of-period total: 6,653 orders. Checked 4 November 2026. Preserve year, unit and source when reusing the number.
+- <a id="gauge-source-law"></a>**2. Statutory framework:** [35 U.S.C. § 181](https://uscode.house.gov/us/usc/119-121/t35/s181/), Office of the Law Revision Counsel text stating laws in effect through 9 October 2026; checked 4 November 2026.
+- <a id="gauge-source-procedure"></a>**3. Administrative description:** [USPTO MPEP § 120 — Secrecy Orders](https://www.uspto.gov/web/offices/pac/mpep/s120.html), especially order scope, modification, rescission and expiration; checked 4 November 2026. The agency's description identifies arrangements being examined; audit findings require the relevant operating records.
+
 ---
 
-## What the primary-source recovery changed
+## What the supplied primary-source reconstruction changed {#what-the-primary-source-recovery-changed}
 
-Grok recovered four public Musk statements in the government-DOGE field:
+John supplied a Grok reconstruction reporting four Musk statements in the government-DOGE field and identifying purported primary X posts. The status here is **reported primary-source reconstruction**, as the later [evidence-status boundary](#evidence-status-boundary) records:
 
 - a January 2025 statement estimating entitlement fraud above 10 percent and possibly above 20 percent;
 - a February 2025 statement estimating approximately 80 percent lack of competence or caring and approximately 20 percent fraud in the referenced problem field;
@@ -173,14 +290,14 @@ Primary X objects supplied in the session:
 - [Approximately 20% of the federal budget as a lower-bound fraud estimate](https://x.com/elonmusk/status/2005653465352298671)
 - [Approximately 10% of the federal budget, or $700 billion annually](https://x.com/elonmusk/status/2008397670092566618)
 
-These statements do not produce an audited “30 percent corruption proved by DOGE” result. They do establish a credible government-DOGE numerical neighborhood from which an approximate formulation could have emerged. The original $2 trillion DOGE savings target also represented roughly 25–30 percent of a $6.5–7 trillion federal budget, although a savings target is not a fraud or corruption measurement.
+The supplied reconstruction does not produce an audited “30 percent corruption proved by DOGE” result. It offers a candidate government-DOGE numerical neighborhood from which an approximate formulation could have emerged. A $2 trillion savings target would be approximately 28.6–30.8 percent of the stated $6.5–7 trillion budget range. The chosen denominator governs that arithmetic; a savings target remains a different object from a fraud or corruption measurement.
 
 The corrected status is therefore:
 
 | Status | Result |
 |---|---|
-| Directly recovered | Musk made federal fraud estimates in the 10–20%+ range |
-| Derived arithmetic | The original $2 trillion reduction target was approximately 25–30% of annual federal spending |
+| Reported in the supplied reconstruction | Musk federal-fraud estimates in the 10–20%+ range, linked to purported primary X objects |
+| Derived arithmetic | At the stated $6.5–7 trillion denominator, a $2 trillion reduction target represents approximately 28.6–30.8%; this is a target share, not a fraud measurement |
 | Plausible historical pathway | An older synthesis may have compressed these nearby objects into “approximately 30% corruption” |
 | Not recovered verbatim | An exact primary-source statement that DOGE proved or found 30% corruption |
 | Still required for genealogy | The original older archive passage and its surrounding source chain |
@@ -522,6 +639,8 @@ The real shift is from managing which side people should believe to improving th
 That is not merely better content.
 
 It is a better relationship with reality. 🦜🦋🌳
+
+<span id="patent-audit-destination-clarification"></span>
 
 ### John Kuhles
 
@@ -1702,12 +1821,12 @@ lexical recurrence
 
 The relay contains several nested objects. Keeping their levels explicit prevents a correct local emphasis from replacing the larger proposition:
 
-```text
-Plot Twist trajectory proposition
-└── perception-management and correction-ecology specimen
-    └── DOGE percentage as local parameter and comparative on-ramp
-        └── invention-secrecy audit as the substantive institutional inquiry
-```
+| Object being examined | Relationship within the page |
+|---|---|
+| **Plot Twist trajectory proposition** | The broad inquiry into distributed Deep Ethical potential and the conditions that obstruct, preserve or reopen it |
+| **Perception-management and correction-ecology specimen** | The live case through which steering capture, recovery and later correction can be examined |
+| **Invention-secrecy audit** | The substantive institutional inquiry obscured during the numerical dispute; it has grounds that can be examined independently |
+| **DOGE percentage** | A correctable parameter in a comparative on-ramp to that inquiry; its historical place in the conversation does not make it the inquiry's sole evidentiary foundation |
 
 The invention-secrecy inquiry was the destination obscured during the DOGE episode. It is not identical to the page's highest governing object. A report may focus on the institutional inquiry without silently shrinking the Plot Twist into that one application.
 
@@ -1968,6 +2087,8 @@ Revisit or materially revise this page when:
 
 **Current status:** public working synthesis, live longitudinal specimen and candidate test architecture. The session directly documents output-level drift and correction. It does not provide direct telemetry of hidden activations, a completed controlled experiment, an audited DOGE corruption percentage, or proof that the wider social trajectory is inevitable.
 
+**4 November 2026 extension:** the [gasoline-gauge source footprint](#gasoline-gauge-source-footprint) records the supplied Essence Kit D11, original-quotation recovery, dated secrecy-order count, legal source checks and authorship of the new worked applications. Earlier attributed reactions and the verbatim report retain their original wording and status.
+
 ---
 
 ## Verbatim cross-model specimen — grok-4.6-high A.I. via Arena.ai
@@ -2138,6 +2259,8 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 
 ## Related pages
 
+- [**1888 — Intelligence Properties Taxonomy Before A.I.**]({{ '/1888/' | relative_url }}) — the process-quality field applied to the gauge, its dependencies, the reviewer and the next operation.
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — recoverable handles, collective development and transfer to the next unfamiliar relationship.
 - [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the whole moving object available when a local correction changes one relation.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how temporary relational conditions change what an A.I. notices, preserves, corrects and verifies.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the correspondence obstructions and corrective inquiry sequence used without granting the taxonomy automatic jurisdiction.
@@ -2186,3 +2309,4 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 <!-- ACCM_PDF_OMIT_END -->
 
 <!-- ACCM_REFERENCED_VIDEO_EMBEDS_END: 2026-11-01 -->
+

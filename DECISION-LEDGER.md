@@ -1,5 +1,15 @@
 # Decision Ledger
 
+## 2026-11-04 — Plot Twist: gasoline-gauge calibration and the substantive destination {#plot-twist-gauge-2026-11-04}
+
+At John's request, expanded [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) from the supplied Essence Kit D11 and his fuller reconstruction of the 24 October exchange. Preserved the original gasoline-gauge, co-driver and reverse-application contributions, the complete relay and the verbatim Grok report. Made the invention-secrecy audit visible near the opening, with a stable route to John's original destination clarification, while retaining the broader distributed-potential Plot Twist as the page-level object.
+
+Added worked sufficient-fuel, non-zero shortfall, uncertain-threshold and empty-tank cases; separated representation repair, dependency propagation, feasibility and intervention authority; connected voluntary participation and proportionate role changes to anti-coup symmetry; applied all fourteen 1888 intelligence properties; and supplied a portable handoff that requires a substantive next move. These are worked applications of existing candidate instruments, not new trial results. Changed the existing hierarchy diagram into a table that preserves the on-ramp's independent relationship to the institutional inquiry.
+
+Source checks retain the precise counting unit and period: the FAS-hosted table labelled as reported by the USPTO lists 6,653 secrecy orders in effect at fiscal year 2026 end. Linked the operative section 181 and USPTO MPEP section 120 as arrangements to inspect. Carried the page's existing reported-source qualification into its early DOGE reconstruction and recalculated the $2 trillion target against its stated $6.5–7 trillion denominator. John supplies the originating analogies, inquiry and direction; GPT 6.1 Sol Pro A.I. supplies the new applications, source checks and publication.
+
+**Publication boundary:** Update the existing page and complete Plot Twist and Decision Ledger WordPress mirrors. Preserve current PDF bytes and actual snapshot dates for the established refresh, both sets of download cards, existing navigation, source/PDF mappings and video embeds. Full-body and deployment verification are recorded separately.
+
 ## 2026-11-04 — Neolingo: collective long-term effects and voluntary cooperation {#neolingo-collective-2026-11-04}
 
 At John's request, expanded [Neolingo]({{ '/NEOLINGO/' | relative_url }}) around the long-term effects of everyone who may develop and use the ACCM Deep Ethics Project. Preserved his explicit initiator/Linux comparison and the invitation to highly gifted, talented, deeply ethical independent thinkers across left, right, center and independent positions. Connected the seven fused vectors to shared contributions, all fourteen 1888 intelligence properties to collective practice, and voluntary unity against tyranny to inspectable conduct, reciprocal scrutiny, local agency and correction.
@@ -2213,4 +2223,5 @@ The source video identified in the October 29 decision entry. [Source post](http
 **Request and decision:** John asked to add GPT 6.1 Sol Pro A.I.’s preceding reply about mathematical novelty, educational and experimental uses, finite-graph/topological scope and possible Wikipedia contributions verbatim. Preserve the complete prose, emphasis, five-row table and closing emoji in one attributed rounded box. Convert the chat citation widgets into numbered source links with a seven-source bibliography. Add cat and ape emojis in the heading and surrounding prose while retaining the quoted wording.
 
 **Publication boundary:** Preserve the existing story, credit clarification, embedded app and source ZIP. Update the complete Humor and Decision Ledger mirrors. Retain all existing PDF binaries and snapshot dates for the weekly refresh. The Wikipedia discussion is a possibility described in the quotation; this publication performs no Wikipedia edit.
+
 
