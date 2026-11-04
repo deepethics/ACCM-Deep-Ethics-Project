@@ -472,6 +472,10 @@ The combined contribution does not certify the project’s architecture. It make
 
 ## Second worked comparison — Sabine Ammon: what becomes visible when the object changes? {#ammon-deep-integration}
 
+<figure style="margin: 2rem auto; max-width: 379px;">
+  <img src="{{ '/assets/sabine-ammon.png' | relative_url }}" alt="Portrait of Prof. Dr. Sabine Ammon" width="379" height="444" style="display: block; width: 100%; height: auto; border-radius: 14px;">
+</figure>
+
 **Added 4 November 2026 · Source comparison and proposed practical work.** John Kuhles supplied a Google A.I. exchange beginning with Sabine Ammon’s [*Deep Ethics Integration in Technology Research and Development: Bridging the Principles-to-Practice Gap in AI Ethics – and Elsewhere*](https://doi.org/10.1007/s13347-026-01134-0), published in *Philosophy & Technology* on **31 August 2026**. The comparison below returns to the article itself. Its author’s [University of Tübingen profile](https://uni-tuebingen.de/en/research/centers-and-institutes/international-center-for-ethics-in-the-sciences-and-humanities/the-izew/team/prof-dr-sabine-ammon/) identifies her work in the ethics and epistemology of design and technology and her earlier leadership at Berlin Ethics Lab.
 
 **Institutional inquiry:** **[WEF]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }})** (World Economic Forum) relationships are examined below with their present evidence limits.
