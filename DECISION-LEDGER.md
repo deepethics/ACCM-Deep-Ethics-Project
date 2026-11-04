@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-04 — Neolingo: collective long-term effects and voluntary cooperation {#neolingo-collective-2026-11-04}
+
+At John's request, expanded [Neolingo]({{ '/NEOLINGO/' | relative_url }}) around the long-term effects of everyone who may develop and use the ACCM Deep Ethics Project. Preserved his explicit initiator/Linux comparison and the invitation to highly gifted, talented, deeply ethical independent thinkers across left, right, center and independent positions. Connected the seven fused vectors to shared contributions, all fourteen 1888 intelligence properties to collective practice, and voluntary unity against tyranny to inspectable conduct, reciprocal scrutiny, local agency and correction.
+
+Read the three supplied source files in full. Preserved John's stadium clarification: a chosen entertainment setting, a voluntary change of script, and people deciding to return. Developed the invitation, recognition, report-back and re-entry mechanism, the “Day of the Dove” reversal, independent continuation, next-unfamiliar-relation transfer and a bounded first collaboration. Kept the earlier substantive page material and section anchors. The longer horizons remain conditional estimates; new tables and checks are editorial applications rather than trial results. John supplies the originating reasoning, metaphors and direction; GPT 6.1 Sol Pro A.I. supplies the page-specific synthesis and publication work.
+
+**Publication boundary:** Update the existing canonical page and complete Neolingo and Decision Ledger WordPress mirrors. Retain current PDF bytes and their actual snapshot dates for the established refresh. Existing navigation and source/PDF registries remain in place; deployment and full-body correspondence checks are recorded separately.
+
 ## 2026-11-01 — Ethical Blind Spots: authority, dependencies and correction {#ethical-blind-spots-2026-11-01}
 
 At John's request, published [Ethical Blind Spots]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}) after discussing his source-selection boundary and its attention-allocation purpose. Preserved his distinction between sincere people and the arrangements they can carry, with selected attributed source paragraphs. Checked the supplied initial works, documented named institutional relationships, retained unresolved funding and influence edges, and corrected the direction of Google's TechPolicy.Press summary against the original article. The fourteen-property operational table applies the existing 1888 field; the case comparison remains candidate work.
@@ -2205,3 +2213,4 @@ The source video identified in the October 29 decision entry. [Source post](http
 **Request and decision:** John asked to add GPT 6.1 Sol Pro A.I.’s preceding reply about mathematical novelty, educational and experimental uses, finite-graph/topological scope and possible Wikipedia contributions verbatim. Preserve the complete prose, emphasis, five-row table and closing emoji in one attributed rounded box. Convert the chat citation widgets into numbered source links with a seven-source bibliography. Add cat and ape emojis in the heading and surrounding prose while retaining the quoted wording.
 
 **Publication boundary:** Preserve the existing story, credit clarification, embedded app and source ZIP. Update the complete Humor and Decision Ledger mirrors. Retain all existing PDF binaries and snapshot dates for the weekly refresh. The Wikipedia discussion is a possibility described in the quotation; this publication performs no Wikipedia edit.
+
