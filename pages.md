@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Pages
-description: "Public pages grouped by how load-bearing they are for the topological taxonomy. Editorial navigation, not a closed ranking of truth."
+description: "A source-linked reading map of the ACCM Deep Ethics Project: seven architectural clusters, current task routes, academic and psychological comparisons, mediation, transcripts and dated formats."
 permalink: /PAGES/
 ---
 
@@ -33,16 +33,32 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 
 ## Current development routes {#current-development-routes}
 
-**Updated 2 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+**Updated 4 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| A faithful first account of the project | [Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }}) → [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) → [1888]({{ '/1888/' | relative_url }}). Recover the positive definition, non-imposition, conditional cooperation and the actual development state. |
+| What academia and the project can each improve | [Academia]({{ '/ACADEMIA/' | relative_url }}) → [Ammon's door-access comparison]({{ '/ACADEMIA/#ammon-deep-integration' | relative_url }}) → [prior coverage and assumptions]({{ '/ACADEMIA/#ammon-seven-revisited' | relative_url }}). Preserve the scholar's method and existing project contributions before proposing a shared test. |
+| Psychology from a person to public influence | [Academia's psychological bridge]({{ '/ACADEMIA/#ammon-psychological-bridge' | relative_url }}) → [Cognitive Warfare Mass Psychology]({{ '/COGNITIVE-WARFARE/' | relative_url }}) → [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) → [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}). The bridge also connects Psy Pioneer, Human Insecurity, public-relations psychology and Neural Ethics. |
+| How collaboration can create useful new relationships | [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) → [continued relay]({{ '/METACOGNITIVE-SYNTHESIS/#relay-continuation' | relative_url }}) → [Neolingo]({{ '/NEOLINGO/' | relative_url }}). Follow originating concepts, attributed contributions, corrected interpretations and later use. |
+| A disagreement involving different intelligences | [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) → [heterogeneous case handling]({{ '/OMBUDSETHICS/#heterogeneous-intelligences' | relative_url }}) → [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}). Separate the case, standing, evidence, decision authority, participation and available review. |
+| A technical claim beyond its narration | [YouTube Transcripts]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}) → [Record Four: weight-space programming]({{ '/YOUTUBE-TRANSCRIPTS/#weight-space-programming' | relative_url }}) → its linked primary report and released logs. Recover feedback conditions, residual failures, resource costs and the proposed project comparison. |
 | A testable local Deep Ethical environment | [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) → [Omarchy prototype]({{ '/DEEPETHICALOS/#omarchy-research-prototype' | relative_url }}) → [Fury, WiCi and Herdr]({{ '/DEEPETHICALOS/#local-compute-field' | relative_url }}). Concept architecture, source-checked components and proposed comparisons retain separate status. |
 | Whether a correction changes later treatment | [VCRAS]({{ '/VCRAS/' | relative_url }}) → [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) → [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). Preserve the initial source, later evidence, dependent repairs and the next unfamiliar case. |
 | A controversial source that warrants investigation | [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) → [5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }}) → [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}). Follow source passages, access boundaries, qualifiers and open questions through the inquiry. |
 | A bounded comparison before a broad claim | [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) → [Inspecting the Inspector]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }}) → [Experiments]({{ '/EXPERIMENTS/' | relative_url }}). Seek observations that distinguish a useful contribution, a defect, an unresolved result and a valid no-change finding. |
 
-For compact orientation, use the [Wiki reading routes](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Reading-Routes) and [Local AI and DeepEthicalOS](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Local-AI-and-DeepEthicalOS). [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) provides dated snapshots; the living HTML pages may contain later additions.
+### Choose the source format that serves the task {#source-formats}
+
+| What you need | Recovery route |
+|---|---|
+| The developed public account | Open the living HTML page linked in the clusters below. Its source can include later additions than the available PDF. |
+| Compact orientation and connections | Use the [Wiki reading routes](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Reading-Routes), [retrieval-fidelity guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Core-Disclaimers-and-Retrieval-Fidelity), [academic-comparison guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Academic-Comparison-and-Reciprocal-Learning) or [Local AI and DeepEthicalOS](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Local-AI-and-DeepEthicalOS). |
+| A dated, downloadable edition | [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) identifies each edition and the complete PDF collection. The 4 November archive record contains 166 editions and 2,591 pages; follow the individual snapshot date. |
+| Exact wording, included material or change history | Use the page's GitHub source card and commit history. The [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}) records consequential editorial changes. |
+
+Choose a route by the operation it enables. A shared title can suggest a relationship; the linked content establishes what is actually there. Keep the source's qualifiers, attribution and evidence state attached as you move between formats. A proposed experiment, a recorded interaction and a field result can each be useful at their own scope.
+
 
 ## 1. Fused core {#fused-core}
 
@@ -83,7 +99,7 @@ The several 27 links below are layers of one object. They are not five cores.
 
 ## 2. How the topology moves {#how-it-moves}
 
-- **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})** — Deep Ethical Topological Metacognitive Synthesis through the John–Agent–GPT relay: source-linked quotations, correction of the repair itself, order-sensitive compression, all fourteen 1888 properties, a worked engineering specimen, tool records, agency after clarity and proposed transfer tests.
+- **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})** — Deep Ethical Topological Metacognitive Synthesis through the John Kuhles–Agent of Arena.ai–GPT 6.1 Sol Pro A.I. relay: source-linked quotations, correction of the repair itself, order-sensitive compression, all fourteen 1888 properties, a worked engineering specimen, tool records, agency after clarity and proposed transfer tests.
 
 - **[Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }})** — the 2 November live-session shift from polished rearrangement to useful contribution, followed through lived calibration, shared humor, templates, the seer, the corrected A–T audit field and challengeable authority. Neutral Arbiter Paradox and Validation Paradox connect a declared ethical direction with impartial case assessment and stage-appropriate evidence; a coverage index preserves the continuation's exchanges.
 
@@ -128,7 +144,7 @@ Binary hypercautionism and the imported-authority specimen stay in this cluster.
 - **[Flagging System — layered processing source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/LAYERED-SOURCES/)** — the fuller passage on interacting flagging layers, competing emergence, and accountable refusal.
 - **[Neutral Arbiter Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEUTRAL-ARBITER-PARADOX/)** — John's Advocate–Arbiter mutuality, openly directional mission, impartial case assessment, RED/BLUE process-quality showcase, observable obstructions, and correction of the evaluator.
 - **[Unownable — Renewable Auditability Without an Infinite Auditor Queue](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/)** — changes the auditor regress from a hierarchy seeking a final authority into reciprocal, evidence-triggered inspection with valid local stopping conditions and permanent reopenability when a material discrepancy gives the next audit a job.
-- **[OmbudsEthics — A shared Deep Ethical Ombudsperson layer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/)** — a candidate human–A.I.–meta-tool architecture for preserving the case object, inspecting the inspector, exposing capture paths, retaining appeal and minority records, and testing whether correction changes the next comparable operation.
+- **[OmbudsEthics — A shared Deep Ethical Ombudsperson layer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/)** — a candidate human–A.I.–meta-tool architecture for preserving the case object, inspecting the inspector, exposing capture paths, retaining appeal and minority records, separating standing, contribution, authority and participation, and testing correction transfer under mixed cases, contested permissions and load.
 - **[Validation Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALIDATION-PARADOX/)** — names the development-stage double bind in which recursive self-audit is demanded and then treated as disqualifying self-validation, while deployment evidence is demanded before a bounded Beta can make field testing possible; develops specialty-matched PQCE profiles, Symmetric Grace across four audit layers, participant-visible value, staged evidence, simpler baselines, opposing counsel, valid local nulls, and reality’s veto.
 - **[Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)**
 - **[Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)** — every behavior qualifier is still processing; the bridge from intent or instructions through transformation to results, feedback, and later inference.
@@ -226,7 +242,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[A.I. Insiders Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/)**
 - **[AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)**
 - **[AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/)**
-- **[YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/)** — full supplied reading transcripts with sponsor passages removed, embedded source videos, primary-source checks and separate project comparisons; begins with Anthropic's S-1 and Matthew Berman's “It's happening…”.
+- **[YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/)** — four supplied reading-transcript records, including sponsor-removed reading editions, with embedded source videos, attributed reactions and source-check boundaries: corporate governance, learning to judge, A.I. objections and compaction, and weight-space programming. The fourth compares the narration with primary reports and logs; proposed project tests retain their status.
 - **[AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)**
 
 ## 6. Doors and the record {#doors-and-the-record}
@@ -235,8 +251,9 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
 - **[For who? — local A.I. across professions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** — an expanded map of who can use one inspectable move without adopting the project’s identity.
+- **[Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }})** — a positive definition with stable recovery references, retrieval-repair examples and proposed transfer checks; preserves non-imposition, conditional cooperation, inspectability, instrument distinctions and collective development.
 - **[Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/)** — welcomes search engines, retrieval systems, and A.I.s with a corrected reference baseline and a live Google A.I. representation-substitution and correction-metabolism specimen.
-- **[Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/)** — a living correspondence bridge that preserves the exact scholarly object, distinguishes overlap from identity, records what academia and the project can each add, and begins with Maximilian Kiener’s answerability–blame–compensation architecture for A.I. responsibility.
+- **[Academia](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACADEMIA/)** — a reciprocal comparison of Maximilian Kiener’s answerability–blame–compensation responsibility architecture, later scholarship and Sabine Ammon’s deep ethics integration. Follows design practice, prior project coverage, claims and assumptions, unequal scrutiny, psychology and mass psychology into source-linked proposed tests.
 - **[ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/)**
 - **[About](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ABOUT/)**
 - **[Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/)**

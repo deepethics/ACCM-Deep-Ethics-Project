@@ -1,5 +1,14 @@
 # Decision Ledger
 
+## 2026-11-04 — Wiki and All Pages: clarification, academic comparison and source recovery {#wiki-pages-refresh-2026-11-04}
+
+At John Kuhles's request, refresh the separate project Wiki and [All Pages]({{ '/PAGES/' | relative_url }}) after the November 4 additions. Add compact Wiki guides to Core Disclaimers and reciprocal academic comparison; connect individual, organizational and public psychology, partial prior coverage and the fourth transcript record. Update affected entrance, method and recovery routes. Preserve earlier Wiki pages, contribution history and the Grokipedia proposal packet.
+
+All Pages retains its seven clusters and separate goal-route sequence. Expand current task routes for clarification, academia, psychology, synthesis, mediation and technical source checking; distinguish living HTML, Wiki orientation, dated PDFs and exact source history. Correct the archive reference to the checked 166 editions and 2,591 pages. Existing PDF bytes and page-specific snapshot dates remain for the ordinary change-aware refresh.
+
+The commissioned backup includes all tracked public-project and Wiki files, both reachable Git histories and the pre-update Wiki restore point, with checksums and restoration verification. Backup production and live publication are verified separately. Private administrative material remains separate. The full WordPress All Pages and Decision Ledger mirrors remain pending the previously confirmed daily publication cap.
+
+
 ## 2026-11-04 — Academia continuation: prior coverage, assumptions and psychology {#academia-ammon-continuation-2026-11-04}
 
 John Kuhles requested another Academia expansion after asking which of seven assistant-selected Ammon developments already had indirect project coverage. Preserve the 7/7 coverage finding at its stated criterion, distinguish it from completed solutions, and identify the assistant as the list author. Add John’s remarks about shared assumptions and unequal scrutiny with their qualifiers and attribution. Examine psychology-related content in Ammon’s 2026 article and her public remarks on polarization and technological change; retain the psychologist Gibson reference and separate Haynes’s contributions in the joint interview. Keep a broader mass-psychology framework unresolved within the inspected scope. Extend the proposed comparison with status-cue and restoration-burden observations. Existing PDFs remain unchanged; WordPress publication remains pending the confirmed daily cap.
