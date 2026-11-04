@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-04 — Academia continuation: prior coverage, assumptions and psychology {#academia-ammon-continuation-2026-11-04}
+
+John Kuhles requested another Academia expansion after asking which of seven assistant-selected Ammon developments already had indirect project coverage. Preserve the 7/7 coverage finding at its stated criterion, distinguish it from completed solutions, and identify the assistant as the list author. Add John’s remarks about shared assumptions and unequal scrutiny with their qualifiers and attribution. Examine psychology-related content in Ammon’s 2026 article and her public remarks on polarization and technological change; retain the psychologist Gibson reference and separate Haynes’s contributions in the joint interview. Keep a broader mass-psychology framework unresolved within the inspected scope. Extend the proposed comparison with status-cue and restoration-burden observations. Existing PDFs remain unchanged; WordPress publication remains pending the confirmed daily cap.
+
 ## 2026-11-04 — Academia: deep ethics integration and source recovery {#academia-ammon-2026-11-04}
 
 John Kuhles supplied a Google A.I. exchange concerning Sabine Ammon and asked to expand Academia. Add a source-checked comparison of her 2026 deep-integration article, its door-access specimen, reflection-tool scrutiny and lifecycle approach. Preserve functional overlaps and differences, correct the Stahl authorship attribution, retain unresolved institutional-dependency questions, and propose a bounded shared-specimen comparison. Archive the supplied exchange as attributed material. Existing scholarship entries and PDF editions remain intact; the WordPress mirror remains pending the connector daily cap.

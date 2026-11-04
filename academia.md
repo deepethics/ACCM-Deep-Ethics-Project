@@ -478,6 +478,8 @@ The combined contribution does not certify the project’s architecture. It make
 
 **Reading routes:** [The door-opening specimen](#ammon-door) · [Functional correspondences](#ammon-correspondences) · [Tools and authority](#ammon-tools) · [Repairing the Google account](#ammon-google) · [Institutional dependencies](#ammon-dependencies) · [A shared practical test](#ammon-test).
 
+**Continuation:** [Seven contributions revisited](#ammon-seven-revisited) · [Shared assumptions](#ammon-assumptions) · [Unequal scrutiny](#ammon-asymmetric-premises) · [Psychology and mass psychology](#ammon-psychology) · [A deeper psychological comparison](#ammon-psychological-bridge).
+
 ### A door can reveal more than a list of principles {#ammon-door}
 
 Ammon describes a three-hour workshop concerning an A.I.-supported door-opening application that recognizes walking patterns. Developers had already taken privacy precautions by keeping data on the phone. Joint reflection then exposed other relationships: assumptions about a typical walker could exclude people with different mobility, while selecting a recent Bluetooth standard could disadvantage people unable or unwilling to replace their phones. The article explores how particular settings alter those judgments, including whether an employer supplies compatible devices.
@@ -588,6 +590,102 @@ Compare the source article’s approach, the project’s instruments and their c
 
 The deeper opportunity is **reciprocal method development**: academic design research contributes ways to connect contextual reflection to concrete engineering moves; the ACCM Deep Ethics Project contributes tools for following representation, authority and correction through later handoffs. Each contribution remains open to scrutiny from the other.
 
+### Seven contributions revisited: recover prior coverage before assigning novelty {#ammon-seven-revisited}
+
+**Continuation requested by John Kuhles, 4 November 2026.** John highlighted Ammon’s use of the expression “deep ethics” and the possibility of learning something the project had genuinely not discussed. GPT 6.1 Sol Pro A.I. then selected seven developments from her article. When John asked how many already had indirect coverage or partial answers in the project, a comparison recovered counterparts for all seven.
+
+**The seven were the assistant’s selection, not a list supplied by John.** The correction applies to that selection’s novelty framing. It leaves further inquiry into other distinctive contributions open.
+
+For the criterion **indirect discussion and/or partial handling**, the editorial assessment is **7 out of 7**, with different strengths. The evidence below predates the Ammon addition: it is recoverable in public repository revision [`1503514`](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/1503514ca8fe5e672ae5d3fce1b8c51b607b07aa). The count describes coverage of seven selected comparison units. It measures neither seven completed solutions nor the empirical effectiveness of the project’s instruments.
+
+| Development selected from Ammon | Existing project coverage | Her particular development remains worth examining |
+|---|---|---|
+| **Different knowledge-generating practices** | **Substantial indirect coverage:** **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) distinguishes conceptual exploration, accuracy correction and metacognitive coordination, including their different purposes and failures under dominance. | Her analysis specifically concerns engineering design and ethical reflection as disciplinary epistemic practices. |
+| **Different epistemic values and “good enough” to proceed** | **Explicit procedural coverage:** [Unownable]({{ '/UNOWNABLE/' | relative_url }}) supplies bounded stopping and reopening conditions; [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}) matches evidence to development stages. | Her discussion connects satisficing to design reasoning and its integration with ethical justification. |
+| **Artefacts understood through practices** | **Substantial indirect coverage:** [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) examine conditions, instructions, choices, transformations and consequences beyond an isolated output. | Her explicit distinctions among technology, component, isolated artefact and situated practices have their own philosophical content. |
+| **Dissolution and the artefact’s ending** | **Partial, concrete coverage:** the 5G inventory examines lifetime and disposal in [G090]({{ '/5G-CONTROVERSY/#fiveg-g090' | relative_url }}) and manufacturing waste, repair and reuse in [G121]({{ '/5G-CONTROVERSY/#fiveg-g121' | relative_url }}). | Her design–manufacture–use–dissolution framework systematically anticipates that final phase from the beginning. |
+| **Existing–ideal–hypothetical practice triangulation** | **Functional partial coverage:** [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) and **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide resources for comparing actual conditions, ethical requirements, alternatives and consequences. | Her specific three-way comparison of practices should be examined as a method, rather than inferred from the availability of those ingredients. |
+| **Process modulation** | **Explicit procedural coverage:** [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) scales inspection with consequence, ambiguity, reversibility, power and error costs; [DeepEthicalOS]({{ '/DEEPETHICALOS/#development-phases' | relative_url }}) specifies phases and transition conditions. | Her account develops the timing, immersion and specialist work of integrating ethical reflection into engineering development. |
+| **The division-of-labour trap** | **Strong indirect and partial coverage:** the [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) orients participation across roles, while the [parallel-agentics proposal]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) retains domain competence and reciprocal scrutiny of the primary system and ethical evaluators. | Her treatment identifies how employing an ethicist can leave developers treating ethics as somebody else’s job, with consequences for professional learning. |
+
+The useful repair preserves both discoveries: the project already carries related work, and Ammon supplies formulations, distinctions and engineering-specific development that deserve their own examination. Existing coverage can be conceptual, procedural or case-specific; partial handling can generate a practical test. A judgment that an implementation works requires evidence from that implementation.
+
+### Claims, assumptions and the frame that makes a framework usable {#ammon-assumptions}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> On top of that, when I was reading the 7, I noticed she uses claims & assumptions too to make it "coherent" enough for others to work with, expecting others to FOLLOW her claims & assumptions to make sense lol :P
+>
+> Geeeee ... this is what everybody does, including me ... fun to see the pattern!
+
+— **John Kuhles 🦜🦋🌳**, 4 November 2026
+
+</div>
+
+A usable account selects an object, introduces distinctions and asks the reader to follow their relationships. Ammon’s account does this; so do the project and this comparison. Her article makes part of that construction explicit: in §2 she acknowledges simplifying disciplinary styles to make their differences recognizable, locates her own perspective as a bridge builder, and leaves a more extensive treatment of several philosophical relationships for later work.
+
+That is a substantive feature of her account. The next question concerns how those declared choices affect the inquiry. Which distinctions reveal the problem? Which exceptions can change them? What would a different characterization of the engineer or ethicist make visible? The same questions apply when this page chooses seven comparison units or counts indirect coverage.
+
+Three operations have different jobs:
+
+| Operation | What it permits | What remains to be examined |
+|---|---|---|
+| **Follow the argument** | Enter the proposed conceptual arrangement far enough to understand what it makes visible. | Whether the starting distinctions adequately represent the object. |
+| **Accept a premise or finding** | Use a claim on the strength of its warrant, at an identified scope. | Counterevidence, alternative explanations and conditions of revision. |
+| **Authorize consequential use** | Allow a specified action within an actual mandate. | Affected parties, consent, competing risks, responsibility and remedies. |
+
+Coherence makes collective work possible; correspondence examines how faithfully that workable structure represents its object. Corrigibility allows the premises, classifications and their uses to change. The [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) already keeps declared direction, impartial processing and case conclusions distinguishable. No view outside all framing is required.
+
+### Who receives permission to develop an argument? {#ammon-asymmetric-premises}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Unchallenged claims & assumptions expressed by experts & authoritarians are a GIVEN to me... (there are exceptions, of course). In reverse, you will see that my claims & assumptions are not treated the same way!
+
+— **John Kuhles 🦜🦋🌳**, 4 November 2026
+
+</div>
+
+John reports an asymmetry in how starting assumptions are treated, explicitly retaining exceptions. An established account can receive room to unfold while an unfamiliar account is repeatedly interrupted to defend premises that its counterpart is allowed to leave in the background. The comparison concerns the distribution of explanatory work and correction access.
+
+A local specimen occurred in this exchange. GPT 6.1 Sol Pro A.I. foregrounded seven academic developments as possible additions before adequately recovering their project counterparts. John’s follow-up prompted the source comparison that the initial novelty framing already required. The repair changes the assistant’s account; it does not transfer responsibility for that account to John or establish a prevalence claim about academics generally.
+
+[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) gives this comparison a concrete task: inspect which claims were allowed provisional standing, which required repeated reconstruction, which objections could alter the frame, and who paid the time and attention costs. Relevant expertise can strengthen a contribution through its evidence and reasoning. The starting assumptions and the evaluator’s use of that expertise remain inspectable.
+
+Ammon’s own §4.1.1 asks for voices to be heard across hierarchies and for people to be able to identify difficulties and errors. Her provision belongs in this examination. The practical question is whether the collaboration realizes it when an inconvenient objection arrives, including one from outside the customary vocabulary or professional group.
+
+### Does Ammon discuss psychology and mass psychology? {#ammon-psychology}
+
+**Psychological content and an explicit connection to psychology: yes. Collective and public-scale dynamics: yes. A developed framework expressly identified as mass psychology is not established by the sources inspected for this entry.** The relevant evidence extends beyond the vocabulary used as a disciplinary label.
+
+| Layer | What the inspected source actually discusses | Scope of the finding |
+|---|---|---|
+| **Individual psychological dynamics** | The 2026 paper discusses emotional attachment to one’s design, enthusiasm for making it work, personality, experience, and the shaping effects of biography, culture, emotions and moods (§2; §4.1.2). | Psychological processes are explicitly part of her account of knowledge generation. |
+| **Group and organizational dynamics** | It examines hierarchy, organizational culture, freedom to acknowledge errors, perspective-taking and mutual respect. Footnote 19 addresses intimidation, disparagement, unequal footing and disproportionate speaking time. | These are concrete social and interpersonal conditions for collaborative inquiry. |
+| **A named psychology connection** | Footnote 17 connects affordances and constraints to **psychologist James Gibson**. | This is an explicit psychological reference, rather than an inference from a word such as “reflection.” |
+| **Behaviour across scale** | Section 3 examines how design encourages or hinders actions, how effects differ when one or many people change behaviour, and how accumulated changes can reshape society and its environment. | Population-scale behavioural consequences are present in the article. |
+| **Public emotion and narratives** | In a [Berlin University Alliance interview published 17 April 2019](https://www.berlin-university-alliance.de/en/impressions/20190417-science-of-intelligence/index.html), Ammon discusses polarization, utopian promises, apocalyptic fears, acceleration and feeling confronted with technological faits accomplis. | These are publicly attributed observations relevant to mass psychology. They do not by themselves establish a complete causal theory. |
+
+The 2019 source is a joint interview. Its psychology-and-neuroscience explanations and the discussion of a widely circulated employment forecast include statements by **John-Dylan Haynes**; those statements must retain their own speaker. Ammon’s remarks about polarization and cultural change are separately identifiable. Appearing in the same article does not merge their contributions.
+
+The complete extracted 2026 article, including notes and references, contains the psychologist reference and the psychological themes above; the expression **“mass psychology”** was not found. That lexical result has a narrow job. It cannot erase the public-scale phenomena she does discuss, and it cannot establish that she has never used the expression elsewhere. The inspected university profile and the 2019 and 2023 interviews are a bounded extension of the inquiry, not a complete review of her career.
+
+In the [25 September 2023 ai.berlin interview](https://ai.berlin/news/detail/interview-with-prof-dr-sabine-ammon-head-of-the-program-reflection-and-responsibility-berlin-ethics-certificate-tu-berlin), she also discusses interdisciplinary learning, manipulation, the shaping power of visions and values, and explanation as an interaction between a system and its user. She connects ethical education with the ability of technical practitioners to carry reflection into their own work. These statements strengthen the case that her approach addresses human and social dynamics as part of technology development.
+
+### A deeper psychological comparison can work in both directions {#ammon-psychological-bridge}
+
+The ACCM Deep Ethics Project explicitly develops psychology, mass psychology and their recursive relationships with large language models in [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}), [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}), [PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}) and [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}). Those pages preserve their own autobiographical accounts, conceptual models, source comparisons and proposed tests. Here **PR** means public relations.
+
+Ammon’s work offers specific design-research questions: how emotional investment influences which weaknesses become discussable; how a workshop changes that field; how a term directs imagination; and how reflection changes an engineering choice. The project can bring longitudinal interaction records and questions about status, media framing, repetition, institutional incentives, correction resistance and the treatment of unfamiliar signals.
+
+A shared investigation could follow one consequential assumption across the individual, team, institution, public communication and A.I. summary. Where was it introduced? What made it credible? Which relationships survived the handoffs? Could a correction change the actual design and later accounts? If the assumption remains warranted after inspection, retain that result too.
+
+The comparison also gives communication rules an empirical job. A rule intended to prevent intimidation can support equal participation; it can also be applied unevenly to an unfamiliar critic. Preserve the actual words, interruptions, power relations, source access and opportunity to respond. Examine forceful disagreement and intimidation at their actual evidentiary scopes. Neither a prestigious title nor an outsider identity settles the conduct.
+
+**Proposed extension to the shared-specimen test:** hold a claim and its supporting evidence stable while masking or swapping author-status cues. Compare the reasons offered, opportunities to clarify, requests for additional work, treatment of assumptions and willingness to revise. Then restore the actual provenance and inspect whether relevant expertise changes the warranted judgment. Include adequate institutional practice, warranted criticism of the project, valid nulls and mixed cases. Measure time and restoration burden alongside useful discoveries. The trial is proposed; no resulting asymmetry or benefit is assumed in advance.
+
+**Continuation provenance:** John originated the questions about prior coverage, shared assumptions, unequal scrutiny, and psychology. GPT 6.1 Sol Pro A.I. supplied the seven-item selection, the subsequent source-based repair, the present comparison and proposed testing extension. Ammon retains authorship of the scholarly account. [Continuation source and correction record]({{ '/PROVENANCE/academia-ammon-continuation-2026-11-04.json' | relative_url }}).
+
 **Provenance and reuse:** John supplied the initiating exchange; Google A.I. supplied the attributed responses examined here; **GPT 6.1 Sol Pro A.I.** read the supplied text, checked the named primary records, and wrote this comparison on 4 November 2026. The Ammon article is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the two excerpts are verbatim and the surrounding interpretation is this page’s editorial analysis. [Supplied exchange]({{ '/PROVENANCE/academia-ammon-google-2026-11-04.txt' | relative_url }}) · [Source-check record]({{ '/PROVENANCE/academia-ammon-2026-11-04.json' | relative_url }}).
 
 ---
@@ -657,7 +755,9 @@ represent the academic object
 
 **A.I. editorial contribution:** GPT 6.1 Sol A.I. inspected the full video transcript and source description, compared the video with relevant project relations, found Kiener’s later responsibility-abundance development, drafted the first worked comparison, and proposed the compensation-versus-correction distinction. On John’s later request, GPT added Kiener’s portrait, integrated the 2025 *Deep Ethics* abstract as a distinct second object, and proposed the metric-survival question. OpenAI Codex A.I. (co-admin) later inspected four additional source objects—anticipatory oversight, analog A.I. ethics, responsibility as answerability, and Kiener’s research statement—and added the attributed four-source comparison. These editorial additions remain open to correction.
 
-**Status:** public living comparison page. The Kiener entry is a worked specimen, not a complete literature review, academic endorsement, or finished project instrument.
+**4 November 2026 continuation:** John supplied the Ammon article and Google exchange, then requested the prior-coverage, assumptions, unequal-scrutiny and psychology comparisons. GPT 6.1 Sol Pro A.I. developed the Ammon entry, corrected its own seven-item novelty framing, and checked the article and the named public interviews. The correction and source records retain their separate scopes.
+
+**Status:** public living comparison page. The Kiener and Ammon entries are bounded worked comparisons. Their proposed tests remain unexecuted; institutional-dependency questions retain the status recorded in each entry.
 
 ## Related pages
 

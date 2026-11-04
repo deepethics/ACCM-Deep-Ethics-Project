@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-04",
+  "commissioner": "John Kuhles",
+  "editor": "GPT 6.1 Sol Pro A.I.",
+  "page_baseline_commit": "03d58cfdf0da3aa90955181f3ae10d3be7733d0d",
+  "coverage_baseline_commit": "1503514ca8fe5e672ae5d3fce1b8c51b607b07aa",
+  "seven_item_origin": "Selected by GPT 6.1 Sol Pro A.I.; not supplied by John as his own list",
+  "coverage_assessment": {
+    "criterion": "Indirect discussion and/or partial handling",
+    "count": 7,
+    "denominator": 7,
+    "meaning": "Coverage of seven editorial comparison units; not seven resolved problems or deployment validation"
+  },
+  "psychology": {
+    "paper": "https://doi.org/10.1007/s13347-026-01134-0",
+    "inspected_scope": "Main article including notes and references",
+    "full_html_sha256": "9492789f861a218649c87c9ed3045105781b458eeb3ae8c4651b8b3030d2ebbe",
+    "extracted_text_sha256": "0b5d411bba31ea3ecb65b3c7aaa8fcad0c6dd97e11d799678c6637725b73af58",
+    "literal_search_counts": {
+      "psych": 1,
+      "emotion": 4,
+      "hierarch": 1,
+      "mass psychology": 0
+    },
+    "positive_findings": [
+      "Emotional attachment, personality and biographical influences",
+      "Hierarchy and collaboration conditions",
+      "Gibson psychology reference in note 17",
+      "Individual-to-many behavioural effects in section 3"
+    ],
+    "mass_psychology_framework": "Not established in the inspected sources; no career-wide absence claim",
+    "other_inspected_primary_sources": [
+      "https://www.berlin-university-alliance.de/en/impressions/20190417-science-of-intelligence/index.html",
+      "https://ai.berlin/news/detail/interview-with-prof-dr-sabine-ammon-head-of-the-program-reflection-and-responsibility-berlin-ethics-certificate-tu-berlin"
+    ],
+    "speaker_boundary": "Haynes statements remain distinct from Ammon statements in joint 2019 interview"
+  },
+  "quotes": {
+    "john_assumptions": "On top of that, when I was reading the 7, I noticed she uses claims & assumptions too to make it \"coherent\" enough for others to work with, expecting others to FOLLOW her claims & assumptions to make sense lol :P\n\nGeeeee ... this is what everybody does, including me ... fun to see the pattern!",
+    "john_asymmetry": "Unchallenged claims & assumptions expressed by experts & authoritarians are a GIVEN to me... (there are exceptions, of course). In reverse, you will see that my claims & assumptions are not treated the same way!"
+  },
+  "experiments_executed": false,
+  "contact_with_author": false,
+  "pdf": "Existing October 19, 2026 snapshot retained for weekly changed-input refresh",
+  "wordpress": "Daily cap reconfirmed; full Academia and new ledger-entry mirrors pending; no reset authorized or spent",
+  "earlier_content": "Exact recovery check passed after reversing insertion, reading-route extension and dated provenance/status update"
+}
