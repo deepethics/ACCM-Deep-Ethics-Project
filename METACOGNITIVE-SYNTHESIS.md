@@ -599,7 +599,7 @@ One contributor supplies a difficult specimen. Another detects a missing depende
 
 If those deltas remain accessible, later participants begin with more than vocabulary: they inherit tested distinctions, negative results, implementation experience and routes of repair. They can add further deltas without repeating the entire discovery cost. If only polished consensus survives, the community can instead amplify a shared error. The archive and correction paths determine which process is supported.
 
-The intended invitation includes highly gifted, talented, deeply ethical independent thinkers from left, right, center and independent positions, combined through shared work. [Non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }}) concerns the capacity to examine scripts and learn; people can enter or leave that mode. The term gives no license to strip dignity from people who disagree or to assign a permanent lesser category to them.
+The intended invitation includes highly gifted, talented, deeply ethical independent thinkers from left, right, center and independent positions, combined through shared work. **[Non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }})** borrows NPC (non-player character) from gaming to discuss the capacity to examine scripts and learn; people can enter or leave that mode. The term gives no license to strip dignity from people who disagree or to assign a permanent lesser category to them.
 
 ### Unity around inspectable conduct
 
