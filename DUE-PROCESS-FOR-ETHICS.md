@@ -19,7 +19,7 @@ The **ACCM Deep Ethics Project** develops this relationship across human inquiry
 
 **Status:** living conceptual and practical synthesis, commissioned by **John Kuhles** on **4 November 2026**. The legal sources below provide identifiable comparison objects. The proposed ethical applications, teaching specimens and test conditions retain their own status. Legal duties and remedies depend on the jurisdiction, proceeding, actor and governing rule.
 
-**Reading routes:** [John's connection](#johns-connection) · [The innocent person](#innocence) · [Legal relationships](#legal-relationships) · [Questions that stay distinct](#distinct-questions) · [Project instruments](#project-instruments) · [1888 in operation](#intelligence-properties) · [Worked specimen](#worked-specimen) · [Remedies and stopping](#remedies) · [Research connections](#research-connections) · [A usable case record](#case-record) · [Proposed comparisons](#proposed-comparisons).
+**Reading routes:** [John's connection](#johns-connection) · [The innocent person](#innocence) · [Legal relationships](#legal-relationships) · [Questions that stay distinct](#distinct-questions) · [Project instruments](#project-instruments) · [1888 in operation](#intelligence-properties) · [Competing A.I. risks](#ai-risk-decision-rights) · [Worked specimen](#worked-specimen) · [Remedies and stopping](#remedies) · [Research connections](#research-connections) · [A usable case record](#case-record) · [Proposed comparisons](#proposed-comparisons).
 
 ## Why John sees the connection {#johns-connection}
 
@@ -160,6 +160,44 @@ Almost no consequential activity is entirely risk-free. Investigation, publicati
 The project's risk-authority questions remain concrete: **who defines the hazards, sets tolerability, authorizes exposure, distributes consequences and controls reconsideration?** An estimate of probability answers only part of that field. Serious rights or interests cannot be erased merely because a procedure is inconvenient; additional procedure also needs a job proportionate to what it protects.
 
 Mathews supplies one legal balancing object. [Citron's technological-due-process analysis](https://journals.library.wustl.edu/lawreview/article/id/6697/) adds an important challenge: reviewing the cost of deciphering a system only against one person's case can miss the benefits of repairing the many decisions made through the same logic. The system-level correction and the individual's remedy have related, distinct jobs.
+
+## Worked comparison — who decides which A.I. risks others bear? {#ai-risk-decision-rights}
+
+**Source and status.** In the discussion documented in [YouTube Transcripts, Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}), Steven Bartlett asks who has the right to press a button that could expose everyone to catastrophe. Andrew McAfee asks what is lost when development is slowed and benefits are delayed. John Kuhles supplied the transcript, commissioned the first project comparison and requested this continuation. The reading edition preserves some turns under a shared Nate Soares / Roman Yampolskiy label. This worked comparison uses the preserved exchange and treats the button and Waymo scenarios as hypotheticals.
+
+In the review John supplied on 5 November 2026, **Grok 4.7 Expert A.I. via grok.com** identified “substantial conceptual overlap” with this page's existing account of risk authority. Grok also distinguished that earlier framework from the examples and table that **GPT 6.1 Sol Pro A.I.** developed for Record Five. That distinction preserves the history of the work. The framework supplied the questions, the transcript supplied a case, and the two A.I. contributions applied and compared them. This section develops the case further.
+
+### Two ways to make others bear a decision {#ai-risk-competing-burdens}
+
+Bartlett's hypothetical makes authorization visible. Even if the chance were stipulated, it would leave open who can expose others to that risk, on whose behalf, and with what opportunity for challenge. The 1% belongs to the hypothetical. A forecast for an actual system would need its own causal account and evidence.
+
+McAfee's objection makes a second allocation visible. A decision to slow development can impose costs on people who would benefit from it. That claim needs a specific counterfactual. Which benefits are already evidenced? Which additional benefits depend on the particular activity or capability proposed for restriction? Which could continue through a narrower route? The same inquiry applies to harms. Which exposure depends on this activity, which already exists, and what would the proposed measure actually reduce?
+
+**The duty to justify follows each consequential move.** A release proponent needs to account for the exposure they would authorize. A restriction proponent needs to account for the scope and effects of the measure. Comparable scrutiny can require different evidence from each, because their access, control and ability to impose consequences differ. A person raising a concern can identify a specific failure without having to design the entire remedy.
+
+### The Waymo exchange separates two thresholds {#ai-risk-waymo-thresholds}
+
+Bartlett asks what evidence would make McAfee call for intervention. In the supplied transcript, McAfee imagines a vehicle fleet taken over, people harmed and shutdown unavailable for a prolonged period. Bartlett then paraphrases the threshold as accepting the existential-risk argument. McAfee answers that he would probably support legal and regulatory guardrails. His answer identifies a change in what action he would support. The forecast he would accept is a separate question. [Read the exchange in the supplied transcript.]({{ '/YOUTUBE-TRANSCRIPTS/#diary-ai-risk-transcript' | relative_url }})
+
+| Question under review | Evidence with a distinct job | What the reviewer needs to record |
+|---|---|---|
+| **Has an oversight control failed?** | A bounded test or incident record could show that an authorized stop command failed under specified conditions. | The affected system and perimeter, the expected and actual response, and the difference between a test result and observed harm. |
+| **What protection is warranted now?** | Evidence of a reachable hazard, loss of an applicable control or immediate exposure bears on urgency and scope. | Who may act, which measure fits the evidence, who bears its costs and when it will be reviewed. |
+| **What supports a broader forecast?** | Evidence connecting the local failure to persistence, replication, broader access or a consequential increase in capability bears on extrapolation. | Which links were observed, which remain assumptions and which observations would alter confidence. |
+
+This is clarification before intervention, or [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}), applied to the threshold itself. A documented failure of an applicable safeguard can change a release decision before the harm it was meant to prevent occurs. Its significance depends on what the test exposed and which decisions rely on the safeguard.
+
+### Can reconsideration still work in time? {#ai-risk-correction-window}
+
+The concern about a point of no return adds a timing question. A correction route may look sound in a policy while the system's capacity to act outruns the institution's capacity to observe, review and intervene. An inspectable record can compare two windows: **how soon a consequence could become difficult to reverse** and **how long detection, authorized action and confirmation of the result would take**. Record the dependencies of the correction route as well. Who can inspect the event and act if the ordinary operator, monitoring channel or control interface is unavailable? Ed Zitron's focus on labs and observability makes the institutional side of that comparison visible. Poor observability and demonstrated evasion call for different findings. [Black Box]({{ '/BLACK-BOX/' | relative_url }})
+
+The permanent-ban proposal in the transcript adds a boundary question. A rule aimed at general superintelligence would need to say how it recognizes the covered capability in practice, including when separately narrow systems gain new powers through coordination. John's island-crew example provides a model of that interaction. An evaluator would examine the combined capabilities, permissions and available interruption routes of the actual arrangement. [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) · [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/#island' | relative_url }})
+
+### An opening record with room to change {#ai-risk-opening-record}
+
+In [V.C.R.A.S.]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies), this discussion can supply a **candidate opening record**. For a specified decision, preserve each assessment in its own terms, the evidence available at the time, the action it supports, the people exposed by acting or waiting, the authorized decision-maker and a review trigger. Later evidence may support an early concern about oversight while leaving a particular extinction forecast unresolved. It may also show that a protective measure delayed a benefit or that a narrower route preserved it. Each finding has its own dependency and remedy.
+
+The next comparable decision is a test of correction. Did the new evidence alter the actual release condition, authority boundary or review timing? A reasoned record can preserve a continuing disagreement over the ultimate forecast while showing whether the parties can agree on an immediate control check and what each would do with its result.
 
 ## The psychological transition from a label to a case {#psychological-transition}
 
@@ -305,7 +343,9 @@ The same examination applies when the ACCM Deep Ethics Project invokes due proce
 
 **Primary legal recovery:** [European Convention on Human Rights, Article 6](https://www.echr.coe.int/documents/d/echr/convention_ENG) · [Court guide to the presumption of innocence](https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence) · [Hoge Raad, ECLI:NL:HR:2020:1889](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1889), with [accessible judgment text](https://www.uitspraken.nl/uitspraak/hoge-raad/strafrecht/strafrecht-overig/cassatie/ecli-nl-hr-2020-1889) · [Mathews v. Eldridge, 424 U.S. 319 (1976)](https://www.law.cornell.edu/supremecourt/text/424/319) · [Herring v. United States, 555 U.S. 135 (2009)](https://supreme.justia.com/cases/federal/us/555/135/).
 
-**Source inspection date:** 4 November 2026. The legal judgments are primary texts reproduced by their linked legal repositories; scholarly entries retain their publication or working-paper status. The [page source record]({{ '/PROVENANCE/due-process-for-ethics-2026-11-04.json' | relative_url }}) identifies the project baseline and contribution boundaries.
+**5 November continuation:** John supplied the transcript and Grok 4.7 Expert A.I. review. The debate reading, source video and first comparison are recoverable in [Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}). The threshold comparison, correction-window questions and opening case record are GPT 6.1 Sol Pro A.I.'s editorial applications. The scope is the supplied transcript and comparison. The opening record contains no later case outcome.
+
+**Legal and research source inspection date:** 4 November 2026. The legal judgments are primary texts reproduced by their linked legal repositories; scholarly entries retain their publication or working-paper status. The [page source record]({{ '/PROVENANCE/due-process-for-ethics-2026-11-04.json' | relative_url }}) identifies the project baseline and contribution boundaries.
 
 A correction should identify the exact passage, source relationship, consequential difference and proposed repair. A material correction can change the relevant summary, case interpretation, suggested remedy or test. The purpose is to improve what the process can justifiably do.
 
@@ -320,3 +360,12 @@ A correction should identify the exact passage, source relationship, consequenti
 - [**V.C.R.A.S.**]({{ '/VCRAS/' | relative_url }}) — treatment, later evidence and responsibility across time.
 - [**Academia**]({{ '/ACADEMIA/' | relative_url }}) — reciprocal scholarly comparison and useful shared specimens.
 - [**Core Disclaimers**]({{ '/CORE-DISCLAIMERS/' | relative_url }}) — source-linked recovery of the governing project relationships.
+
+
+## Source video — the competing A.I. risks discussion {#ai-risk-source-video}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="nXYSqqUGRLI" title="The Diary Of A CEO Clips — If YOU Think AI Is Safe, You NEED To See This" caption="Source for the worked comparison above. The supplied corrected transcript and the first project comparison are in YouTube Transcripts, Record Five." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Watch the source discussion on YouTube](https://www.youtube.com/watch?v=nXYSqqUGRLI) · [Read Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}).

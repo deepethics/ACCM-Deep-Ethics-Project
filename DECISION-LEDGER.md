@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-05 — Due Process for Ethics: competing A.I. risks and decision rights {#due-process-ai-risk-2026-11-05}
+
+At John Kuhles's request, expanded [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/#ai-risk-decision-rights' | relative_url }}) using [YouTube Transcripts, Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}) and his supplied Grok 4.7 Expert A.I. review. Grok distinguishes the earlier procedural framework from GPT 6.1 Sol Pro A.I.'s case application. The continuation examines burdens for release and restriction, the Waymo intervention and forecast thresholds, whether correction routes can work in time, and a candidate V.C.R.A.S. opening record. The scenarios retain hypothetical status. The existing 4 November PDF edition remains for the regular change-aware refresh.
+
 ## 2026-11-05 — YouTube Record Five and competing A.I. risks {#youtube-diary-ai-risk-2026-11-05}
 
 At John Kuhles's request, add the [fifth YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}). Preserve the complete supplied corrected reading text and its grouped speaker labels. Embed The Diary Of A CEO Clips source below the separately attributed GPT 6.1 Sol Pro A.I. comparison. Connect the button hypothetical, costs of slowing down, loss of correction routes, lab oversight and the limits of the narrow-system category to the project's existing instruments. The video title and channel are confirmed by YouTube metadata. The source and reaction retain their separate claim status. The 27 October PDF edition remains scheduled for the regular change-aware refresh.
