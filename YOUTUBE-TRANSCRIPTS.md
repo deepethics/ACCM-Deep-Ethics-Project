@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "YouTube Transcripts"
-description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, and weight-space programming, targeted repair and authority."
+description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, weight-space programming, and the Diary of a CEO discussion on competing A.I. risks."
 permalink: /YOUTUBE-TRANSCRIPTS/
 date: 2026-10-27
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -19,7 +19,7 @@ last_modified_at: 2026-11-04
 
 This page pairs full supplied transcripts with their source videos and a separately identified ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
 
-**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming).
+**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming) · [A.I. safety and competing risks](#diary-of-a-ceo-ai-risk).
 
 **Orientation and recovery:** [Core]({{ '/CORE/' | relative_url }}) · [Project Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki). These routes lead into the working architecture and its sources; a navigation layer and the source it points to retain different roles.
 
@@ -383,3 +383,37 @@ The research comes from Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab
 <!-- ACCM_PDF_OMIT_END -->
 
 [Watch “GPT 6 Astra Just Did the Unthinkable” on YouTube](https://www.youtube.com/watch?v=lmLsiBmwEFE).
+
+---
+
+## Fifth record — The Diary Of A CEO Clips and competing A.I. risks {#diary-of-a-ceo-ai-risk}
+
+**Video** · [If YOU Think AI Is Safe, You NEED To See This](https://www.youtube.com/watch?v=nXYSqqUGRLI) · The Diary Of A CEO Clips. YouTube's embed metadata confirms the title and channel. John Kuhles supplied **4 November 2026** as the upload date and asked how the discussion relates to the ACCM Deep Ethics Project.
+
+**Reading routes** · [Full supplied corrected transcript](#diary-ai-risk-transcript) · [Project comparison](#diary-ai-risk-reaction) · [Source record](#diary-ai-risk-provenance) · [Watch the video](#diary-ai-risk-video).
+
+### Full supplied corrected transcript {#diary-ai-risk-transcript}
+
+The supplied reading edition identifies Steven Bartlett as host and Andrew McAfee, Nate Soares, Roman Yampolskiy and Ed Zitron as guests. It groups some risk-side turns under Soares / Yampolskiy and leaves some brief turns unassigned. Those boundaries and bracketed readings are retained. The supplied file says the sponsor and subscribe message at the end was already omitted. The wording and order below follow the supplied reading text. Individual words, speakers and claims await separate verification against the original sources where needed.
+
+{% include youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk.md %}
+
+### GPT 6.1 Sol Pro A.I. — reaction and project comparison {#diary-ai-risk-reaction}
+
+The comparison uses **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies). **[C1 and C2]({{ '/NETWORK/c1-c2/' | relative_url }})** refer to clarification process quality calibration evaluation and intervention, respectively.
+
+{% include youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk-reaction.md %}
+
+### Source record {#diary-ai-risk-provenance}
+
+John Kuhles supplied the video details, corrected transcript and comparison question. The discussion's claims remain attributed to the speakers as represented in the supplied transcript. GPT 6.1 Sol Pro A.I. supplied the project comparison and assembled this record on **5 November 2026**. The comparison treats the 100-button example as a hypothetical and the discussion as a starting record for competing assessments.
+
+**Source footprint** · SHA-256 `2a49196858ce363cdabdcf4a579cccb7efb322682adb56bb47c372e5965bea53`. [Complete supplied file]({{ '/PROVENANCE/youtube/2026-11-05-diary-of-a-ceo-ai-risk-supplied.txt' | relative_url }}) · [Publication source record]({{ '/PROVENANCE/youtube/2026-11-05-diary-of-a-ceo-ai-risk.json' | relative_url }}) · [Reading transcript](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk.md) · [Reaction source](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_includes/youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk-reaction.md).
+
+### Source video — The Diary Of A CEO Clips {#diary-ai-risk-video}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="nXYSqqUGRLI" title="The Diary Of A CEO Clips — If YOU Think AI Is Safe, You NEED To See This" caption="Fifth transcript record. The original video and the supplied corrected reading edition have separate source boundaries. The transcript and project comparison appear above." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Watch “If YOU Think AI Is Safe, You NEED To See This” on YouTube](https://www.youtube.com/watch?v=nXYSqqUGRLI).

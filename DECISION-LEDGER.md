@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-05 — YouTube Record Five and competing A.I. risks {#youtube-diary-ai-risk-2026-11-05}
+
+At John Kuhles's request, add the [fifth YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}). Preserve the complete supplied corrected reading text and its grouped speaker labels. Embed The Diary Of A CEO Clips source below the separately attributed GPT 6.1 Sol Pro A.I. comparison. Connect the button hypothetical, costs of slowing down, loss of correction routes, lab oversight and the limits of the narrow-system category to the project's existing instruments. The video title and channel are confirmed by YouTube metadata. The source and reaction retain their separate claim status. The 27 October PDF edition remains scheduled for the regular change-aware refresh.
+
 ## 2026-11-05 — Categorizing Issues: labels, cooperation and what a flag changes {#categorizing-issues-2026-11-05}
 
 At John Kuhles's request, publish [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }}). Follow his ordinary-category exercise, stranded-island scenario and question about controversy as processing. Keep judgments of reception, proposals and conduct distinct. Preserve the proposed fresh-session comparison, the same-record title and intake variations, reciprocal scrutiny and the accountability question before correction. John supplies the originating questions and scenario. GPT 6.1 Sol Pro A.I. develops the page and candidate comparisons with attributed DeepSeek and Kimi review contributions. The examples are hypothetical and the tests are proposed.

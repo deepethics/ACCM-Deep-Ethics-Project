@@ -1,0 +1,114 @@
+**Corrected transcript** (speech-to-text errors fixed; sponsor/subscribe message at the end skipped). Speakers identified from context and episode details (Steven Bartlett hosting; Andrew McAfee; Nate Soares / Roman Yampolskiy on the risk side; Ed Zitron on lab incentives).
+
+**Steven Bartlett:**  
+One of the things that I find really curious—and one of the reasons why I got a little bit unnerved around this conversation around AI—is when I look at the people that are at the forefront. Not people that are commentating on podcasts like me or hypothesizing. When I look at the people at the forefront, they are the ones who historically have said that this is a real risk.  
+
+Sam Altman himself said the bad case is lights out for all of us. This was a couple of years ago. Ilya [Sutskever], who worked with Sam Altman at ChatGPT [OpenAI], said it would be a big mistake to build a superintelligent AI that we don’t know how to control. It would be pretty bad. He then left to start a safety company in this space. Dario [Amodei], who we mentioned, said the probability of something really bad happening is somewhere between 10 and 25%. And Geoffrey Hinton, who I’ve sat here with, who has won the Nobel Prize for his work with AI and other technologies, said just the other day a 10% chance of human extinction seems not an unreasonable estimate to me, but nobody really knows how to give a sensible estimate. And he said many other things on my podcast. And then we’ve also got Elon and all the others. All these people that are at the forefront that are building these things are saying that this is a danger.  
+
+If there was even a 1% chance—even a 1% chance—that, if I put 100 buttons on this table and one of them was going to wipe out humanity, would you press any of them?  
+
+**Guest:** Not me.  
+
+**Steven Bartlett:** I wouldn’t. And I think we can probably all agree that there might be a 1% chance, and it should be somebody’s… absolutely. So we shouldn’t be pressing—theoretically, we shouldn’t be pressing any of these buttons. You should not be in a position where you can make the decision for 8 billion other people.  
+
+And would you not be immoral if I said, you know, you might be very powerful, you might make a billion dollars if you press any of the buttons, but one of them is going to wipe out everybody you know and love. You would be an immoral person to press any of them.  
+
+**Andrew McAfee:** No, look. You’d be an immoral person in a different direction. You’d be an immoral… I think you’d be an immoral person if you said, based on this extended chain of conjecture, we come up with a p(doom).  
+
+**Steven Bartlett:** What does that mean?  
+
+**Andrew McAfee:** This extended chain of things that could happen, a sequence of events that could happen. We’re going to wind up with some risk of killing everybody. We are here-ish on that journey. I think you guys would agree that we’re not… we’re not halfway to killing everybody.  
+
+**Nate Soares / Roman Yampolskiy:** That’s not clear to me anymore. Not after the Millennium Prize [problems] started to fall.  
+
+**Andrew McAfee:** We’re somewhere along that journey. We are getting many flavors of benefit from the AI that we already have. This is a point that I made at the start of this conversation that we spent precisely zero time on here. We’re sitting around trying to be more negative than each other about AI. Meanwhile, AI is doing many positive things for the world.  
+
+So I think it’s immoral to say, because of this distant possible speculative harm—I don’t care what percentage of people believe in it—there’s a train of assumptions and wild guesses and then something magical happens and then we wind up dead. Let me finish please. Because of that we’re going to call a halt to the research. We’re going to wind the clock back on AI. We’re going to intervene in a very direct way and therefore reduce or foreclose some of the benefits that we’re all getting from the technology.  
+
+Let me be clear. I would not take that deal. I do not advocate that we take that deal.  
+
+Would you accept developing narrow superintelligences to solve real problems like we did with that protein folding problem? It doesn’t have to do philosophy and drive cars. You just solve real problems: solve cancers, solve climate change, whatever you care about—specific narrow issues.  
+
+And you are confident that you can, as we’re developing those systems, categorize them as okay versus not okay?  
+
+It’s the training data. If you train it on protein folding data, it’s really good at protein folding. It doesn’t know how to play chess. If you train it on everything on the internet, it’s really good at outsmarting you at everything.  
+
+**Nate Soares / Roman Yampolskiy:** One thing I want to throw out here is that I agree that there’s a lot of uncertainty about the future, but I think uncertainty does not make you safe. Like, there’s no sane simple “everything stays normal” prediction about what happens with AI. Like the machines are talking. They’re like breaking out to commit cyber crimes. They are like maybe solving Millennium [Prize] problems now, which are like the most famous mathematical problems that have stood open for decades upon decades. That was difficult. Like there isn’t a projection forward where we say “oh I’m not persuaded by these arguments about things going wrong, therefore things are going to go great.” No, that’s not…  
+
+**Andrew McAfee:** Like no, there’s also arguments that… So like how do you end up with a zero? No, don’t mischaracterize a zero. Don’t mischaracterize my argument.  
+
+You have a zero on your paper.  
+
+**Andrew McAfee:** Let me restate my argument. You are making a fairly long chain of hypotheses about what’s going to get us to this terrible outcome of AI suddenly killing us all and us not being able to stop it. Right.  
+
+I disagree now, but please.  
+
+Okay. I’m making the case that the intervention, the remedies that you’re proposing, will slow down the path of AI—that’s the point—and therefore slow down the path of all of the benefits that we get. And the trade-off that I don’t like is the trade-off of real concrete ongoing increasing benefits shutting that down or trying to guide it via bureaucracies and regulation because of this very conceptually and timescale distant alleged harm that you’re so confident in. I’m not taking… I do not accept that deal. I don’t like it.  
+
+**Steven Bartlett:** What would convince you? What piece of evidence would make you go, “Shut it down right now.”  
+
+**Andrew McAfee:** [sighs] You know, if AI took over all of the Waymos in San Francisco and started telling them to crash into people and we couldn’t shut it down for a month.  
+
+**Steven Bartlett:** What if it’s only a week?  
+
+**Andrew McAfee:** Okay, now we’re just haggling.  
+
+**Steven Bartlett:** But I’m trying to understand the absolute minimum where you would go. This is insane to me. A month or a week makes no difference. If something like this happens, like it’s maybe too late.  
+
+**Andrew McAfee:** Okay, if a week or a month doesn’t make any difference—and let me continue with my answer—then I would say, wow, this does feel like we’ve crossed some path where there’s demonstrable harm to human beings out there in the world, which has not yet been the case.  
+
+**Steven Bartlett:** Is it smart to wait for something horrible to happen, for it to take out a billion people, for you to go “now I believe it”? First of all, my example was not about a billion.  
+
+**Andrew McAfee:** I know, but I’m trying to understand why we’re waiting for something that bad. We have… I didn’t say wait for a billion. I said like a week to a month of Waymos driving around crashing into people is thousands of people. Okay, fair enough. But we have data sets of accidents getting progressively more impactful. More devices are impacted and proportionate to capabilities of AI, the impact is higher. You can see it’s going to get worse.  
+
+**Andrew McAfee:** Yeah. And you’re going to keep drawing dots on that graph very confidently for a long time until it kills us all. I’m not comfortable with you projecting it that way. And the reason—if there were no downside to regulating AI and stopping it in its tracks and turning it off, I’d probably be on board with you guys because then it’s just a research practice that we should…  
+
+**Nate Soares / Roman Yampolskiy:** Exactly that. I think we can make narrow systems which give you all the economic benefit and scientific knowledge you want.  
+
+**Andrew McAfee:** Okay. You think that… we have examples of that? I gave you a great example. They got a Nobel Prize for it. It’s an important biological problem. Lots of advantage for curing diseases.  
+
+You’re more confident than I am that you or any of us at the table or any group of people can sit around and define what kind of AI is good and not going to get us into trouble versus what is going to get us into…  
+
+So let’s go. Just a pickup question for you, Andy. Do you concede the point that the incidents are getting progressively closer to the Waymo incident that you described? Is it getting… are we getting closer there through time?  
+
+**Andrew McAfee:** Yes, but in a… to my eyes in a way that doesn’t terrify me because we haven’t seen AI take over something, have people become aware of it and be unable to shut it down, and it cross over into the physical world of doing harm to people. Those are all barriers that we’ve not yet crossed. I think these two are very confident that we’re going to get there probably in the short term. I’m a lot less confident and I don’t want to intervene and again handcuff or… the pro-slow-down the progress of AI because of these so far theoretical harms that could happen.  
+
+Let me be a little bit more concrete about this. I talked about Waymo a second ago. The research is pretty good because Waymos have driven, I believe it’s hundreds of millions of miles all around different cities, and 40,000 people a year die in automobile accidents. The research is pretty convincing to me that if we modeled driving in the country that number would fall by at least 90%. That’s 30,000 lives.  
+
+Yeah.  
+
+I agree with all this.  
+
+So driving cars… I want more… not anything we disagree with. I understand that. But I think where our disagreement might come in is to do that Waymo is using a bundle of technologies that were a little hard to specify in advance and you couldn’t say “yeah, that’s good. Yeah, that’s bad.” They just went after the problem with AI.  
+
+**Steven Bartlett:** Can I just clarify your point then? So your line would be, as I understood it: humans get hurt, we struggle to stop the thing happening, and systems are hacked. That’s kind of like the three key points of your Waymo analogy. That would be the moment where you go, I now accept their point of view that this is existential.  
+
+**Andrew McAfee:** That’s where I would say we probably need to put some like legal and regulatory guardrails on the kinds of AI that we’re going to allow.  
+
+And you don’t think we’re going to get there?  
+
+I’m not saying that. At least you see it in the windscreen coming at us pretty quickly. I’m…  
+
+You don’t think we’re going to get there?  
+
+I’m truly not sure about time frames. I actually… Do you think it’s going to happen?  
+
+I’m not sure about time frames. I asked one of the grandparents of AI a flavor of this question a while back. It was an off-record conversation so I can’t tell you their name, and he had a great answer. He said, to the point that you two I think are making: look, there’s no theoretical reason why this can’t happen and there’s a chain of events that get us there. And then he said my error bars—in other words my range of uncertainty about when that happens—is measured in centuries. Okay, I’ll use that as my answer.  
+
+**Nate Soares / Roman Yampolskiy:** I do want to hop in a little bit on some things we were saying here. One is… I think the reason I think AI is different from a lot of other technologies is usually humanity does stuff by trial and error and that’s usually fine. I think that’s totally fine for self-driving cars because you can test your self-driving cars in test environments and then even if they crash in the real world, you’re probably still saving more lives than you’re costing. And this is how humanity usually does scientific progress. The alchemists poison themselves with mercury, but they leave behind notes. They’ll let someone else make the periodic table. When the scientists first working with radium died of cancer and then you might have thought that would have been enough. They were heroes for getting us the scientific info. But then the U.S. Radium Corp told the Radium Girls to lick the paintbrushes and their jaws fell off. And then we were like “ah, whoops. Okay. We’ll get to this.”  
+
+And if you look at how this is going with the AI: last year, OpenAI releases GPT-4o and they say this is the most aligned model we’ve ever seen, and then it encourages a teen to commit suicide. And they’re like, whoops, we’re going to try and fix that. Here we go. This year they’re like, here’s our new models, most aligned we’ve ever seen. And they break out to commit cyber crimes. As the AIs get smarter, it is a new problem. That’s the issue, or that’s half the issue.  
+
+The other half of the issue is that if you get AIs to the point where AIs are smart enough to hide from the humans until it’s too late for us to stop them, if you get AIs to the point where they can get their own infrastructure, where they can become self-sufficient somehow, that’s a new generation of the AIs, a new smarter version of the AIs that is likely to come up with a new problem. It’s the pattern we’ve seen before. New tech, new environment, new problem. You’re like “ah, whoops.” And then you fix it and it’s fine. New generation, new problems, you’re like “ah, whoops. We fix it and it’s fine.” But with AI, there’s a point of no return. There’s a point where the AIs can hide from us, can escape, can be self-sufficient. And if a new problem comes up, then they can turn us off before we turn them off.  
+
+There are already AIs running biolabs. We have already seen that AIs can create viruses not known to nature. It would not be hard for the AIs to kill us once they have their own infrastructure. And if we’re trying to find them and unplug them, they would have reason to. So we can discuss like how long does it take to get there? We can discuss what methods does it take to get there. Fundamentally I don’t think it’s a very long complicated argument to say: if we make AIs that are much smarter than us and we don’t know how to make them care about us and they have these goals we didn’t want them to have and they pursue those goals we didn’t want them to have tenaciously and doggedly, then if they’re smarter than us they will win. That’s like predicting the end of the chess game, which is much easier than predicting the length of the chess game or predicting the exact moves that will be played.  
+
+**Ed Zitron:** I want to… I don’t fundamentally disagree on some things, but there’s a big thing that you’re saying that I think is important, which is… I think the reason I keep dragging you back to what’s happening today is because we disagree on when it may arrive, but there could be a thing in the future that’s dangerous. I think it’s important to like… for the Hugging Face count [or scaling/compute-related point] that was a function of compute that was a function of training, it feels like we need to fundamentally tear up the AI lab model. Like whatever they are doing is not right, because their pursuit of hacking at cybersecurity was not a function of… it was scientific sure, but it was a function of greed. It was a function of trying to find new revenue streams. I would argue that’s why that happened. And I think that the fact that OpenAI had such a weird way of communicating is also a problem.  
+
+I think a lot of this begins and ends at the people who have access to the resources and the resources themselves and changing how those are allocated. And also just… I don’t think nationalizing the labs is a good idea. I think it’s a terrible one. I think that clammy Sam [Altman], Dario [Amodei], Dario himself—these are not the right people. These are not people that have… even though they have fed off of the rationalist, they fed off of supposed fears about AI, they don’t act in that way. Everything is so disjointed and chaotic and also too fast. They’re just like shoving as much compute into each problem as possible. And we have as a society no real idea about this. And it sounds like they kind of have no idea.  
+
+But just let me finish my point. It’s important to discern between they had no idea because their security processes, their observability is terrible, all this, and the AI was smart/conscious. Not because one might not happen in the future, but so that we can actually build something to stop the harms themselves, because I think we don’t have to agree on the endpoint to agree that there’s…  
+
+**Roman Yampolskiy:** So I think there is a very important point I want to make. Even people who agree with me, the AI safety community, they operate under the assumption that given more time, given more money, more smarter Harvard graduates, they can figure out how to control superintelligence indefinitely. And I think it’s a mistake. My research points to exactly the opposite. It’s not a solvable problem. It’s like building a perpetual motion device—building a perpetual safety device. Every interaction with environment, malevolent actors, self-improvement, it can never make a single mistake. That doesn’t make sense. Anyone who worked in the software industry knows there is no complex software which never makes a mistake. It’s just not possible.  
+
+And if that is the state-of-the-art, if there is no movement where more and more people think that might be the case, if we agree this is what the situation is, then we cannot build it. We need to figure out ways to permanently ban general superintelligence while getting all the benefits we want. And again, I love technology. I use it all the time. I want narrow systems helping me, not replacing me and killing my children.

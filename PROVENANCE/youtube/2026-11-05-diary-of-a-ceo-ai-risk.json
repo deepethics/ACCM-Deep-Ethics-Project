@@ -1,0 +1,21 @@
+{
+  "record": 5,
+  "record_date": "2026-11-05",
+  "video_id": "nXYSqqUGRLI",
+  "video_url": "https://www.youtube.com/watch?v=nXYSqqUGRLI",
+  "title": "If YOU Think AI Is Safe, You NEED To See This",
+  "channel": "The Diary Of A CEO Clips",
+  "title_and_channel_check": "YouTube oEmbed response",
+  "upload_date_supplied": "2026-11-04",
+  "upload_date_independently_verified": false,
+  "source_sha256": "2a49196858ce363cdabdcf4a579cccb7efb322682adb56bb47c372e5965bea53",
+  "source_bytes": 18709,
+  "reading_text_bytes": 18433,
+  "reading_transcript": "_includes/youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk.md",
+  "supplied_source": "PROVENANCE/youtube/2026-11-05-diary-of-a-ceo-ai-risk-supplied.txt",
+  "reaction_source": "_includes/youtube-transcripts/2026-11-05-diary-of-a-ceo-ai-risk-reaction.md",
+  "source_boundary": "Corrected text supplied by John Kuhles. Sponsor/subscribe ending already omitted in supplied text. Grouped, ambiguous and unassigned turns preserved. No independent complete audio check.",
+  "publication_anchor": "diary-of-a-ceo-ai-risk",
+  "comparison_author": "GPT 6.1 Sol Pro A.I.",
+  "new_pdf_export": false
+}
