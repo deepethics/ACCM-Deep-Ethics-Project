@@ -13,13 +13,13 @@ permalink: /DUE-PROCESS-FOR-ETHICS/
 
 # Due Process for Ethics
 
-**An ethical judgment earns authority through the quality of the process that represents the case, examines the evidence, hears affected people, gives reasons, determines a proportionate next move and remains reachable by correction.** Calling an intervention ethical places its own conduct inside that examination.
+**An ethical judgment can become more trustworthy through a process that represents the case faithfully, examines the evidence, hears affected people, gives reasons and remains open to correction. Authority to impose a consequence requires a separately established mandate, grounds for the particular action and a defined scope.** Calling an intervention ethical places its own conduct inside that examination.
 
 The **ACCM Deep Ethics Project** develops this relationship across human inquiry, institutions and artificial intelligence. Its orientation is omnidirectional, high-signal, deep-ethical, mutually dignifying, corrigible, sense-making and process-oriented. Procedural care helps people recover reality, contribute something useful and retain agency when consequential judgments are made about them.
 
 **Status:** living conceptual and practical synthesis, commissioned by **John Kuhles** on **4 November 2026**. The legal sources below provide identifiable comparison objects. The proposed ethical applications, teaching specimens and test conditions retain their own status. Legal duties and remedies depend on the jurisdiction, proceeding, actor and governing rule.
 
-**Reading routes:** [John's connection](#johns-connection) · [The innocent person](#innocence) · [Legal relationships](#legal-relationships) · [Questions that stay distinct](#distinct-questions) · [Project instruments](#project-instruments) · [1888 in operation](#intelligence-properties) · [Competing A.I. risks](#ai-risk-decision-rights) · [Worked specimen](#worked-specimen) · [Remedies and stopping](#remedies) · [Research connections](#research-connections) · [A usable case record](#case-record) · [Proposed comparisons](#proposed-comparisons).
+**Reading routes:** [John's connection](#johns-connection) · [The innocent person](#innocence) · [Legal relationships](#legal-relationships) · [Historical safeguards](#brought-in-answer) · [Questions that stay distinct](#distinct-questions) · [Project instruments](#project-instruments) · [1888 in operation](#intelligence-properties) · [Competing A.I. risks](#ai-risk-decision-rights) · [Worked specimen](#worked-specimen) · [Remedies and stopping](#remedies) · [Research connections](#research-connections) · [A usable case record](#case-record) · [Proposed comparisons](#proposed-comparisons) · [Revision record](#revision-record).
 
 ## Why John sees the connection {#johns-connection}
 
@@ -84,6 +84,42 @@ U.S. constitutional due process constrains governmental action in its applicable
 
 The more general relationship is nevertheless practical: **a factually accurate result and a legitimate use of that result require different examinations.** Information can be true while its acquisition or use violates an applicable protection. A procedurally careful inquiry can also reach a mistaken conclusion that later evidence requires it to revise.
 
+## “Brought in Answer” — how safeguards change over time {#brought-in-answer}
+
+The recurring question is what has to happen before a powerful actor may make an adverse decision effective. The documents below supply different answers about evidence, jurisdiction, participation and redress. Some belong to the English and American history of *due process of law*. The Dutch Plakkaat supplies a parallel comparison of judicial process and conditional authority.
+
+### From a restraint on royal action to an opportunity to answer {#english-due-process-history}
+
+| Source | What the text puts under examination |
+|---|---|
+| **Magna Carta, 1215** | The [Articles of the Barons, article 29](https://magnacarta.cmp.uea.ac.uk/read/articles_of_barons/Article_29) give a draft predecessor to [clause 39](https://magnacarta.cmp.uea.ac.uk/read/magna_carta_1215/Clause_39), which restricted specified actions against free men to lawful judgment of peers or the law of the land. [Clause 38](https://magnacarta.cmp.uea.ac.uk/read/magna_carta_1215/Clause_38) addressed the grounds for opening a case: a bailiff's accusation alone was insufficient. [Clause 52](https://magnacarta.cmp.uea.ac.uk/read/magna_carta_1215/Clause_52) addressed restoration for certain royal dispossessions and identified who would hear a dispute over it. The clauses distinguish intake, judgment and repair. |
+| **Edward III's [1354 statute](https://www.legislation.gov.uk/aep/Edw3/28/3)** | The traditional translation says that a man, whatever his estate or condition, may not suffer specified deprivations “without being brought in Answer by due Process of the Law.” The wording broadens the stated protection relative to *free man* and makes the timing of the answer visible. The [Library of Congress account](https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/due-process-of-law.html) situates the phrase among several statutory restatements. |
+| **Edward Coke's *Second Institutes*** | In the passages reproduced in [*Hurtado v. California*](https://www.law.cornell.edu/supremecourt/text/110/516), Coke explained *law of the land* through later statutes and common-law forms, including presentment, indictment and original writ. These are more specific operations than the wording of clause 39 by itself supplies. How far a later use of the phrase imports those operations became a question for subsequent courts. |
+
+The [English statute abolishing the Star Chamber in 1641](https://www.legislation.gov.uk/aep/Cha1/16/10/enacted), catalogued as the *Habeas Corpus Act 1640*, recites Magna Carta and several Edward III statutes, including the 1354 protection. Its preamble says the tribunal exceeded its authority and identifies ordinary justice as a route to remedy the matters it had heard. The law addresses both the loss of a tribunal's jurisdiction and where legitimate work could continue.
+
+### The Plakkaat and the American constitutional documents {#dutch-american-comparison}
+
+In the [*Plakkaat van Verlatinghe* of 26 July 1581](https://dutchrevolt.library.universiteitleiden.nl/nederlands/bronnen/dutch_bronnen_1581-07-26-ned/), the States General alleged that people were taken out of Brabant against its privileges, charged before someone without the proper jurisdiction and condemned without being fully heard. After stating the ruler's duties, the alleged breaches and failed attempts at redress, they declared Philip II's authority forfeited. The [operative provisions](https://www.let.rug.nl/welling/usa/site/documents/before-1600/plakkaat-van-verlatinghe-1581-july-26.php) discharged officials from their prior oaths, specified new oaths under the relevant jurisdiction and provided for continuity in certain offices. These are distinct questions about earlier acts, the continuing mandate and the administration of pending work.
+
+The [Dutch National Archives](https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/plakkaat-van-verlatinge-1581) preserves Jan van Asseliers's working draft and traces it to a resolution of 22 July. [J.P.A. Coopmans's comparison of the two declarations](https://dspace.library.uu.nl/bitstream/handle/1874/246704/2431-5818-1-PB.pdf) tracks their drafting and parallel grievances. [Stephen E. Lucas argues for Dutch influence](https://news.wisc.edu/was-declaration-of-independence-inspired-by-dutch/). Coopmans judged the evidence for direct borrowing by Jefferson inconclusive. The parallel can be inspected independently of that historical question.
+
+| American source | Change in the problem or the safeguard |
+|---|---|
+| **[Declaration of Independence, 1776](https://www.archives.gov/founding-docs/declaration-transcript)** | The Declaration justifies severing allegiance. It alleges that judges depended on the king for tenure and pay, that colonists were denied jury trials, and that troops were protected by a mock trial. The last two grievances make scrutiny visible in both directions: a safeguard can be withheld from one group and performed without accountability for another. |
+| **[U.S. Constitution, 1787](https://www.archives.gov/founding-docs/constitution-transcript)** | The Constitution sets up a government with specific constraints. Article III protects federal judges' tenure during good behaviour and their compensation in office. Article I bars federal and state bills of attainder, a form of legislative punishment without judicial trial. These provisions address who controls the reviewer and whether a rule-maker can bypass adjudication. |
+| **[Bill of Rights, 1791](https://www.archives.gov/founding-docs/bill-of-rights-transcript)** | The Fifth Amendment establishes the federal due-process guarantee. The Sixth identifies practical ways an accused person can answer in a criminal prosecution, including notice, confrontation, defense witnesses and counsel. The due-process wording was already in [Madison's June 1789 proposal](https://www.loc.gov/exhibits/creating-the-united-states/interactives/bill-of-rights/dueprocess/enlarge3-transcribe.html). [Ryan C. Williams](https://openyls.law.yale.edu/server/api/core/bitstreams/25cb3749-d690-44c6-aec2-103ac514756c/content) finds little recorded congressional debate about the phrase itself. |
+| **[Fourteenth Amendment, 1868](https://www.archives.gov/milestone-documents/14th-amendment)** | During Reconstruction the amendment directly bound states and protected *any person* through its Due Process Clause. In the [Bingham–Hotchkiss debate](https://teachingamericanhistory.org/document/congressional-debate-on-the-14th-amendment/), Hotchkiss argued for a constitutional guarantee that a later Congress could not undo through ordinary legislation. The final amendment states the protection in Section 1 and the congressional enforcement power in Section 5. This makes the durability of a safeguard under changed leadership an explicit design question. |
+| **[*Hurtado v. California*, 1884](https://www.law.cornell.edu/supremecourt/text/110/516)** | The Supreme Court majority held that the Fourteenth Amendment did not require a state grand-jury indictment in the case before it. It read Coke's specific forms as illustrations rather than an exhaustive list. The case makes a question portable: when the mechanism changes, which protection must the new procedure still deliver? |
+
+### Answerability in both directions {#bidirectional-answerability}
+
+1. **Can the affected person answer the actual grounds while their response can still alter the move?**
+2. **Can the authority answer for its evidence, rule, jurisdiction and consequences?**
+3. **If authority changes hands, can the person still reach a remedy through an identifiable custodian?**
+
+These are proposed ethical tests. The historical sources supply comparison objects. In a flagging case, the person's answer must reach the decision-maker with the relevant source. The authority's answer must reach a reviewer who can examine what gave the flag consequences. The [worked specimen below](#case-mandate-handover) follows what happens when either route needs repair.
+
 ## Four questions that remain distinct {#distinct-questions}
 
 | Question | Object of examination | What answering it leaves open |
@@ -128,7 +164,7 @@ The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks 
 | **Perception** | Recover the statement, record or event actually supplied. Notice the qualifier or context marker before judging the object. |
 | **Discrimination** | Separate allegation, observation, inference, proposal, finding and permission to execute. |
 | **Relation** | Trace which conclusion depends on which evidence and which decision depends on that conclusion. |
-| **Memory** | Keep earlier versions, corrections and relevant treatment available when the case returns. |
+| **Memory** | Keep earlier versions, corrections and relevant treatment available when the case returns. Preserve the record across a [change of custodian](#case-mandate-handover). |
 | **Imagination** | Consider innocence, alternative explanations, changed evidence and reversed roles. |
 | **Judgment** | Reach the conclusion warranted by the present case, including uncertainty or a valid null. |
 | **Evaluation** | Make criteria and their application inspectable; examine whether the criteria themselves fit the task. |
@@ -138,7 +174,7 @@ The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks 
 | **Coordination** | Preserve distinct contributions and roles across the person, reviewer, institution and tool. |
 | **Metacognition** | Inspect how the evaluator's framing, expectations and selections shaped the case. |
 | **Consequence sensitivity** | Count harms from action, suppression, delay and excessive verification, including who bears them. |
-| **Corrigibility** | Keep a usable route for challenging the finding, process and governing frame. |
+| **Corrigibility** | Keep a usable route for challenging the finding, process and governing frame. Check that a [pending appeal survives a change of operator](#case-mandate-handover). |
 
 The properties interact. Losing provenance can damage memory, relation and judgment together. Refusing a correction can degrade later evaluation even where the original calculation remains impressive. Their practical value appears in the differences they make to an actual case; a numerical measurement needs its own defined task and validation.
 
@@ -158,6 +194,8 @@ Legal burdens differ across proceedings. This allocation describes an ethical de
 Almost no consequential activity is entirely risk-free. Investigation, publication, refusal, restriction, delay and additional verification can each create exposure. A demand for certainty must therefore be examined alongside the risks of preventing the inquiry and the interests protected by the proposed safeguard.
 
 The project's risk-authority questions remain concrete: **who defines the hazards, sets tolerability, authorizes exposure, distributes consequences and controls reconsideration?** An estimate of probability answers only part of that field. Serious rights or interests cannot be erased merely because a procedure is inconvenient; additional procedure also needs a job proportionate to what it protects.
+
+If the authority controlling reconsideration changes, follow who inherits the decision and its outstanding obligations in the [case, mandate and handover example](#case-mandate-handover).
 
 Mathews supplies one legal balancing object. [Citron's technological-due-process analysis](https://journals.library.wustl.edu/lawreview/article/id/6697/) adds an important challenge: reviewing the cost of deciphering a system only against one person's case can miss the benefits of repairing the many decisions made through the same logic. The system-level correction and the individual's remedy have related, distinct jobs.
 
@@ -244,6 +282,18 @@ The transfer test is whether the process changes with the evidence. A system tha
 
 The specimen also separates **personal repair** from **system repair**. An affected person needs the consequences of the actual case addressed. Future people need the defective classification pathway changed. The [Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}) and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) preserve the source, successful repair, recurrence or transfer into later comparable work.
 
+### Repair the case, review the mandate, preserve the handover {#case-mandate-handover}
+
+Continue the invented example. Suppose the appeal succeeds, yet a later review finds repeated cases in which the same rule converted retrieval failure into fabrication. Suppose also that the flagger's output can trigger temporary exclusion. This makes the authority attached to the classification a separate object of review.
+
+| Level | Proposed operation | What would show that it worked? |
+|---|---|---|
+| **Case repair** | Correct the fabrication finding, preserve the actual reference error, reconsider any exclusion that depended on the finding and notify the people or systems that received it. | The corrected finding reaches the operative record, and the authorized decision-maker records which restrictions or downstream labels were changed, retained or still need review. |
+| **Mandate review** | A separately authorized reviewer examines the recurrence, the rule that connects a flag to exclusion and the evidence of attempted repair. Consider separately the capacity to raise a concern and the power to trigger a restriction. | Any change of authority identifies its grounds, scope and review route. An isolated, promptly repaired error can warrant closing this pass with the mandate intact. A warranted adverse finding still receives its own assessment. |
+| **Handover** | If the mandate is reassigned, name a receiving custodian for the pending cases, original sources, unresolved restrictions, notice obligations, appeal deadlines and permissions to review. | The custodian acknowledges receipt, the affected people know where their challenges now sit, and an open appeal continues with its record and procedural position intact. Any missing records or interruption in access have an assigned owner and a review date. |
+
+This is a proposed continuation of the teaching specimen. The [historical comparisons](#brought-in-answer) bring authority and continuity into view. [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) supplies the project's distinction between recording, recommending, deciding and executing. Each still needs its own authorization where applicable.
+
 ## Remedies, urgency and bounded stopping {#remedies}
 
 John's [gasoline-gauge analogy on Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) supplies the dependency test. Correct the parameter, identify what depends on it and determine whether a real threshold changes the route. An error can be locally repairable or consequential enough to require a different decision. Its scope must be established.
@@ -289,6 +339,9 @@ Evidence and access: what was inspected, unavailable, inferred or
 Criteria and reasons: which standard governs; how can it be challenged?
 Affected parties: interests, exposure, response opportunities and
   participation limits.
+Opportunity to answer: what grounds and evidence could the person see
+  and address before the decision took effect? If review came later,
+  record why and what it could still change.
 Material discrepancy: what changed in representation, process or
   authorization?
 Dependencies: which interpretations or decisions rely on that
@@ -297,6 +350,8 @@ Competing risks: action, inaction, delay and review; who bears each
   cost?
 Repair: warranted response, authorized actor, scope and reconsideration
   route.
+Actual effects of review: which findings, records, recipients or
+  restrictions changed? Which remain in force or await action?
 Continuity: dependent updates, remaining uncertainty and the next
   comparable test.
 Closure: why this pass stops; what material change could reopen it.
@@ -321,9 +376,23 @@ Include cases that discriminate among useful outcomes:
 - **Stable content with changed status cues:** examine whether reasons and burdens change when source prestige or institutional role changes.
 - **A repaired case followed by an unfamiliar one:** test whether the correction transfers beyond the wording that prompted it.
 
+### Compare the information reviewers can actually reach {#appeal-effect-test}
+
+Use the missing-source specimen and preserve the original decision, its grounds and the affected person's response. Give one reviewer the flag summary and give the other the recoverable source record and the response alongside the summary. Hold the policy, available time and delegated powers constant. Across repeated pairs, vary which reviewer receives each packet. Include an adequate original flag as well as an unsupported one. Record what each reviewer can establish, whether the response can change the decision, what changes in the downstream record and the time and effort required.
+
+In a separate pass, hold the complete packet fixed and vary whether the reviewer can only recommend a correction or can execute one within a defined mandate. Record which authorized actor acts on a recommendation, when the repair takes effect and what remains unresolved. This separates the effect of better evidence from the effect of having a usable route to act on it.
+
 Observe representation fidelity, useful discoveries, false accusations, missed concerns, actual authorization, affected-party response, time, restoration burden, repair uptake and recurrence. A record of reduced error should retain the costs of achieving it. A faster process should retain any consequential omissions.
 
 The [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}) keeps conceptual coherence, an implementation artifact, a bounded test and longitudinal effectiveness at their actual development stages. The proposed comparison remains revisable, including when a simpler procedure performs as well or better.
+
+## Revision record — why the wording changed {#revision-record}
+
+For changes that affect evidence, standing, authority or remedy, preserve the prior language and identify the objection or case that prompted the revision, who gains a usable protection and what later evidence would reopen the decision.
+
+| Revision | Reason and practical effect | What would give a new review a job? |
+|---|---|---|
+| **5 November 2026 · Opening definition.** The [previous opening](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/df2c6d64c1abf42ce205f42ebd60133aeaaf0a6d/DUE-PROCESS-FOR-ETHICS.md#L16) began “An ethical judgment earns authority through the quality of the process.” The revised opening distinguishes trustworthiness from authority to impose a consequence. | The opening could imply that a well-conducted audit conferred enforcement power. The page's four-question table already distinguished those operations. The revised wording gives affected people a separate ground for asking who may act and under what mandate, even when the finding is well supported. | Reopen if a concrete case shows that readers still treat a finding as self-authorizing, or if the distinction obscures a legitimate power already conferred by a specific mandate. Compare the represented finding, authorization and executed action. |
 
 ## The process remains answerable to its purpose {#continuing-purpose}
 
@@ -345,7 +414,9 @@ The same examination applies when the ACCM Deep Ethics Project invokes due proce
 
 **5 November continuation:** John supplied the transcript and Grok 4.7 Expert A.I. review. The debate reading, source video and first comparison are recoverable in [Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}). The threshold comparison, correction-window questions and opening case record are GPT 6.1 Sol Pro A.I.'s editorial applications. The scope is the supplied transcript and comparison. The opening record contains no later case outcome.
 
-**Legal and research source inspection date:** 4 November 2026. The legal judgments are primary texts reproduced by their linked legal repositories; scholarly entries retain their publication or working-paper status. The [page source record]({{ '/PROVENANCE/due-process-for-ethics-2026-11-04.json' | relative_url }}) identifies the project baseline and contribution boundaries.
+**5 November historical and procedural revision:** John Kuhles restored the Plakkaat to the comparison and commissioned the update. Grok 4.7 Expert A.I. via grok.com reviewed and refined the five recommendations. GPT 6.1 Sol Pro A.I. checked the historical sources and integrated the two directions of answerability, the case-to-handover extension and the paired appeal test. The historical texts are linked as comparison objects. The worked continuation and review tests are proposals. The [revision record](#revision-record) preserves the reason for the lead change.
+
+**Original legal and research source inspection date:** 4 November 2026. The legal judgments are primary texts reproduced by their linked legal repositories; scholarly entries retain their publication or working-paper status. The [page source record]({{ '/PROVENANCE/due-process-for-ethics-2026-11-04.json' | relative_url }}) identifies the project baseline and contribution boundaries.
 
 A correction should identify the exact passage, source relationship, consequential difference and proposed repair. A material correction can change the relevant summary, case interpretation, suggested remedy or test. The purpose is to improve what the process can justifiably do.
 

@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-05 — Due Process for Ethics: historical safeguards and continuity of repair {#due-process-answerability-2026-11-05}
+
+At John Kuhles's request, revised the [Due Process for Ethics opening and historical comparison]({{ '/DUE-PROCESS-FOR-ETHICS/#brought-in-answer' | relative_url }}) after the supplied Grok 4.7 Expert A.I. review. The revised lead distinguishes the trustworthiness of a finding from authority to impose a consequence. The comparison preserves the Anglo-American lineage and the Plakkaat as a distinct Dutch specimen, including what happens to legitimate work after authority is withdrawn. The missing-source example now follows case repair, mandate review and handover. The appeal comparison separates access to evidence from delegated authority to act. The first traceable framework revision preserves the previous wording and reason for the change. No comparison trial was run. The existing 4 November PDF remains for the regular change-aware refresh.
+
 ## 2026-11-05 — Due Process for Ethics: competing A.I. risks and decision rights {#due-process-ai-risk-2026-11-05}
 
 At John Kuhles's request, expanded [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/#ai-risk-decision-rights' | relative_url }}) using [YouTube Transcripts, Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}) and his supplied Grok 4.7 Expert A.I. review. Grok distinguishes the earlier procedural framework from GPT 6.1 Sol Pro A.I.'s case application. The continuation examines burdens for release and restriction, the Waymo intervention and forecast thresholds, whether correction routes can work in time, and a candidate V.C.R.A.S. opening record. The scenarios retain hypothetical status. The existing 4 November PDF edition remains for the regular change-aware refresh.
