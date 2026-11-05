@@ -46,6 +46,8 @@
   url: /BOUNDARY-RELAY/
 - label: C1-C2
   url: /NETWORK/c1-c2/
+- label: Categorizing Issues
+  url: /CATEGORIZING-ISSUES/
 - label: Cognitive Warfare
   url: /COGNITIVE-WARFARE/
 - label: Core

@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-05 — Categorizing Issues: labels, cooperation and what a flag changes {#categorizing-issues-2026-11-05}
+
+At John Kuhles's request, publish [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }}). Follow his ordinary-category exercise, stranded-island scenario and question about controversy as processing. Keep judgments of reception, proposals and conduct distinct. Preserve the proposed fresh-session comparison, the same-record title and intake variations, reciprocal scrutiny and the accountability question before correction. John supplies the originating questions and scenario. GPT 6.1 Sol Pro A.I. develops the page and candidate comparisons with attributed DeepSeek and Kimi review contributions. The examples are hypothetical and the tests are proposed.
+
+Register the new page and its November 5 initial PDF through the shared catalogue and download system. Retain the 167 earlier PDF editions for ordinary change-aware refresh.
+
 ## 2026-11-04 — Due Process for Ethics: innocence, procedure and accountable judgment {#due-process-for-ethics-2026-11-04}
 
 At John Kuhles's request, publish [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}). Develop his connection between court procedures and the project's treatment of representation, evidence, ethical judgment, authority and correction. Preserve his explicit clarification that an assumed criminal may be innocent and harmed by procedural failure or abuse. Keep factual support, procedural integrity, ethical adequacy and permission to act distinguishable. Examine proportionate remedies, competing risks, affected-party participation, refusal and bounded stopping.

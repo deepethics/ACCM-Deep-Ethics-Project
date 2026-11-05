@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 167
+**Public pages exported:** 168
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -36,6 +36,7 @@
 | [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) | [BIOGRAPHY.pdf](BIOGRAPHY.pdf) | `BIOGRAPHY.md` |
 | [Black Box — Who Controls the Pressure?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/) | [BLACK-BOX.pdf](BLACK-BOX.pdf) | `black-box.md` |
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |
+| [Categorizing Issues](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CATEGORIZING-ISSUES/) | [CATEGORIZING-ISSUES.pdf](CATEGORIZING-ISSUES.pdf) | `CATEGORIZING-ISSUES.md` |
 | [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) | [COGNITIVE-WARFARE.pdf](COGNITIVE-WARFARE.pdf) | `COGNITIVE-WARFARE/index.md` |
 | [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) | [CONTRIBUTING.pdf](CONTRIBUTING.pdf) | `contributing-site.md` |
 | [Core Disclaimers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE-DISCLAIMERS/) | [CORE-DISCLAIMERS.pdf](CORE-DISCLAIMERS.pdf) | `CORE-DISCLAIMERS.md` |

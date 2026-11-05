@@ -1,0 +1,120 @@
+{
+  "title": "Categorizing Issues",
+  "date": "2026-11-05",
+  "source_file": "CATEGORIZING-ISSUES.md",
+  "public_route": "/CATEGORIZING-ISSUES/",
+  "project_source_baseline": "10ca51118c76e33ef8bc28b45c02b0ae0d42fa33",
+  "source_sha256": "8039b9ec4f0a80299e5c9ef4523d9909107770df6654e31bdd281105bebc6a90",
+  "originator_and_commissioner": "John Kuhles",
+  "john_quotes": [
+    "Then you see why it is good to know what else someone can do if need be!",
+    "What if \"CONTROVERSY\" is just the \"processing\" of anything that doesn't fit into a \"simple category\" yet?"
+  ],
+  "drafting_and_test_design": "GPT 6.1 Sol Pro A.I.",
+  "attributed_reviews": {
+    "deepseek-v4.1-flash-max A.I. via Arena.ai": "Comparable evidence and recognition of distinctive combinations",
+    "kimi-k3 A.I. via Arena.ai": "Warrant of the model’s own inference before new evidence"
+  },
+  "status": "Conceptual synthesis with hypothetical island and archive examples and proposed comparisons",
+  "new_tests_executed": false,
+  "project_sources": [
+    {
+      "route": "/BIOGRAPHY/",
+      "source_file": "BIOGRAPHY.md",
+      "baseline_blob": "3c42a49349dc3d38c9f71f00c773f13afc9c84bf",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/BIOGRAPHY.md"
+    },
+    {
+      "route": "/CORE/27-PLUS-12/",
+      "source_file": "CORE/27-plus-12-site.md",
+      "baseline_blob": "a32cead8073cd476bc78a1a8487959cac74da7c7",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/CORE/27-plus-12-site.md"
+    },
+    {
+      "route": "/EMERGENT/",
+      "source_file": "emergent.md",
+      "baseline_blob": "4c0542975400acc6e003285c43928abf5f68684e",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/emergent.md"
+    },
+    {
+      "route": "/FIELD-CONDITION/",
+      "source_file": "FIELD-CONDITION.md",
+      "baseline_blob": "b4c76486f9c82008e552991f9ceba14f514b9456",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/FIELD-CONDITION.md"
+    },
+    {
+      "route": "/1888/",
+      "source_file": "NETWORK/1888.md",
+      "baseline_blob": "ef8dc8726c034939789f07dc9f2153d7c2778170",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/NETWORK/1888.md"
+    },
+    {
+      "route": "/CORE/",
+      "source_file": "CORE/index.md",
+      "baseline_blob": "9235fe72d6c38fed9346d820f5ec78f1dd0af398",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/CORE/index.md"
+    },
+    {
+      "route": "/NETWORK/c1-c2/",
+      "source_file": "NETWORK/c1-c2.md",
+      "baseline_blob": "af51b0567b737cf3b33bcde1ab167c59f578e803",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/NETWORK/c1-c2.md"
+    },
+    {
+      "route": "/FLAGGING-SYSTEM/",
+      "source_file": "flagging-system.md",
+      "baseline_blob": "ec6c34d1c95a2cce2468f92653ff17e7e41329cd",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/flagging-system.md"
+    },
+    {
+      "route": "/NETWORK/asymmetric-grace/",
+      "source_file": "NETWORK/asymmetric-grace.md",
+      "baseline_blob": "44542bd7359dca5854a72ebdd2a2906eee12ecc9",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/NETWORK/asymmetric-grace.md"
+    },
+    {
+      "route": "/DUE-PROCESS-FOR-ETHICS/",
+      "source_file": "DUE-PROCESS-FOR-ETHICS.md",
+      "baseline_blob": "b3d01a6f847c38c3f66c702199425c4ffa03d603",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/DUE-PROCESS-FOR-ETHICS.md"
+    },
+    {
+      "route": "/AI-AND-UFO-UAP/",
+      "source_file": "AI-AND-UFO-UAP.md",
+      "baseline_blob": "8c55538fecdf29c40b149f3e1a251f572ebc4ff0",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/AI-AND-UFO-UAP.md"
+    },
+    {
+      "route": "/NETWORK/correction-metabolism/",
+      "source_file": "NETWORK/correction-metabolism.md",
+      "baseline_blob": "c1c4344acc8d21e11e82089b5d625fa4191f2950",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/NETWORK/correction-metabolism.md"
+    },
+    {
+      "route": "/VALIDATION-PARADOX/",
+      "source_file": "VALIDATION-PARADOX.md",
+      "baseline_blob": "d2cc98db6be2e737519f1f65ab32332994d32b0d",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/VALIDATION-PARADOX.md"
+    },
+    {
+      "route": "/METACOGNITIVE-SYNTHESIS/",
+      "source_file": "METACOGNITIVE-SYNTHESIS.md",
+      "baseline_blob": "8a86cb056d675bcef6dd6bd1328bcd6a19adcc72",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/METACOGNITIVE-SYNTHESIS.md"
+    },
+    {
+      "route": "/DEEP-THINKERS/",
+      "source_file": "deep-thinkers.md",
+      "baseline_blob": "f92bf5585ff62692657a8d3ee5765ea67526d3ba",
+      "immutable_source": "https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/10ca51118c76e33ef8bc28b45c02b0ae0d42fa33/deep-thinkers.md"
+    }
+  ],
+  "initial_pdf": {
+    "snapshot_date": "2026-11-05",
+    "pages": 5,
+    "bytes": 64048,
+    "sha256": "0207e91593009f9c40fe01ab4d0bbcd2a0f22878be457b5fccdcd9fa6e9809b0",
+    "older_pdfs_unchanged": 167
+  },
+  "correction_route": "Identify the exact wording, source, added relationship and affected consequence."
+}

@@ -311,6 +311,8 @@ A correction should identify the exact passage, source relationship, consequenti
 
 ## Related pages
 
+- [**Categorizing Issues**]({{ '/CATEGORIZING-ISSUES/' | relative_url }}) — how a flag can shape which combinations people get to try and what evidence becomes available.
+
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification quality before an intervention gains authority.
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — standing, contribution, authority, participation and case review.
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) — declared direction and impartial case assessment.
