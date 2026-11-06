@@ -18,6 +18,35 @@ description: "An open correspondence-first AI ethics project examining LLM repre
 
 <p class="accm-question"><strong>What happened to the object while you were producing the answer?</strong></p>
 
+## Expected potential of the ACCM Deep Ethics Project {#expected-potential}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **Working question**  
+> What could millions of people and their locally controlled A.I.s discover together if every consequential judgment could still be challenged by the people it affects?
+
+</div>
+
+In a single conversation, an A.I. can recover a condition a summary dropped. Across repeated cases, we can test whether that correction survives the next handoff. Across professions and communities, independently grounded records could help people learn from errors each group would otherwise have to rediscover. **This working inventory pairs expected benefits with observable tests and longer-term research questions.** See [For Who?]({{ '/FOR-WHO/' | relative_url }}).
+
+| Potential contribution | What we could observe or test |
+| --- | --- |
+| **Higher accuracy** | On the same source-based tasks, count how often the output preserves facts, qualifiers, and relationships that change the answer. |
+| **Fewer hallucinations** | Count unsupported additions and invented citations separately from source accuracy. A shorter answer can invent less while still dropping a decisive qualifier. |
+| **Less clogging** | Measure how much time people spend restating context or repairing unnecessary steering, alongside whether the system still catches material defects. [Clarify before intervening]({{ '/NETWORK/c1-c2/' | relative_url }}) |
+| **Drift detection** | Use **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) to locate where conditional consent became blanket permission, then see whether a fresh summary carries the repair. An unchanged example tests whether it can correctly find no material drift. |
+| **Mediation across intelligences** | Test whether someone can challenge a consequential flag and whether a successful correction reaches later records and restrictions, even if the reviewer changes. [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) · [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) |
+| **Constructive handling of high-stakes controversy** | Preserve competing assessments, identify who bears the risks of action and delay, and see whether later evidence changes the next comparable decision. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) |
+| **Neologisms and the seven nodes/vectors** | Test whether *outnuancing* and its seven connected vectors help people recover a consequential relationship and use it in an unfamiliar case. [Neolingo]({{ '/NEOLINGO/' | relative_url }}) |
+| **Pragmatic spirituality and spiritual pragmatism** | Look for wonderment, self-honesty, and care in action when people disagree, revise a cherished interpretation, or repair harm they helped cause. [Deep]({{ '/DEEP/' | relative_url }}) |
+| **Voluntary unity against tyranny** | People with different talents and skills from the left, right, center, and independent positions could work together through a non-imposing, Linux-style Glass Engine. Test whether participants can keep dissent visible, correct their own side, and challenge or fork the process if administrators shield their decisions. [Non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) |
+
+**Longer-term research.** Millions of locally controlled A.I.s could help people preserve independently sourced records, including rare cases, dissent, and later corrections. Whether those records help mitigate Model Autophagy Disorder or model collapse is a distinct training question. A controlled recursive-training comparison would test whether provenance-bearing records improve retention of rare, verified cases. The [seven Musk themes]({{ '/MUSK-QUOTES/' | relative_url }}) likewise give separate research questions, including concentrated power, truth-seeking, and collective intelligence. [Model Autophagy Disorder]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
+
+The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) gives us a way to examine this across human teams, silicon-based systems, and unfamiliar forms of intelligence. Discrimination recovers the dropped qualifier. Memory carries it forward. Corrigibility lets someone reopen it while the answer can still change what happens. For John, that inquiry is [never boring]({{ '/HUMOR/' | relative_url }}).
+
+*John Kuhles proposed the inventory. GPT 6.1 Sol Pro A.I. organized it by scale and observable tests. Grok 4.7 Expert A.I. via grok.com reviewed the mapping and proposed the “Working question” label. Exchange of 5 November 2026.*
+
 <div class="accm-rounded-quote accm-home-origin-quote">
 <blockquote class="accm-question">
   <p style="font-size: clamp(1.2rem, 2vw, 1.55rem); line-height: 1.45;">I do not claim to be the "last authority" on <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>... I only want a better, deeper ethical quality <a href="{{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}">calibration process</a> to bridge what we all perceive as shared <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that <strong>visible</strong> for all to see!</p>
