@@ -144,3 +144,17 @@ A correction can refine one topic, source route or membership while preserving t
 **This first batch demonstrates a transfer in progress.** The completed health-thread inventory, this developing disclosure inventory and any later comparative test retain their distinct coverage and results.
 
 [Project Avalon method showcase]({{ '/PROJECT-AVALON/' | relative_url }}) · [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Believism]({{ '/BELIEVISM/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})
+
+<section class="accm-independent-media-box" id="john-kuhles-nova-1996-x-post">
+
+<h2>John Kuhles on Dutch television — NOVA, 1996</h2>
+
+<p>John Kuhles identifies the Paradiso conference coverage and his Gaasperplas interview in this edited montage as footage from the 1996 Dutch television program <em>NOVA</em> (NOS–VARA).</p>
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">ACCM <a href="https://x.com/hashtag/DeepEthics?src=hash&amp;ref_src=twsrc%5Etfw">#DeepEthics</a> Project CEO &amp; Founder <a href="https://x.com/hashtag/JohnKuhles?src=hash&amp;ref_src=twsrc%5Etfw">#JohnKuhles</a> on Dutch 🇳🇱 National TV 1996 &quot;Nova&quot; (NOS-Vara) 30 years ago: <a href="https://t.co/xucY2cBxmg">https://t.co/xucY2cBxmg</a> <a href="https://t.co/H22p8LgdOC">pic.twitter.com/H22p8LgdOC</a></p>&mdash; John Kuhles (@JohnKuhles1966) <a href="https://x.com/JohnKuhles1966/status/2118499084772536575?ref_src=twsrc%5Etfw">November 6, 2026</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="https://x.com/JohnKuhles1966/status/2118499084772536575">Open the original video post on X</a> · <a href="https://x.com/JohnKuhles1966/status/2118505166785642518">John Kuhles on what he included in the edit</a> · <a href="https://x.com/grok/status/2118507026443583559">Grok’s follow-up on X</a></p>
+
+</section>
