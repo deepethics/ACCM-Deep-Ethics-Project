@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#12372d">
+  <meta name="description" content="A compact, searchable mobile navigator for the ACCM Deep Ethics Project. Browse the original pages by cluster or A–Z.">
+  <title>Deep Ethical Topological Prompt Engineering™ · ACCM Deep Ethics Project</title>
+  <link rel="icon" href="./assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./data.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body data-density="compact">
+  <a class="skip-link" href="#search">Skip to page search</a>
+  <header class="masthead">
+    <div class="shell masthead-inner">
+      <a class="brand" href="./index.html" aria-label="ACCM Deep Ethics Project mobile navigator">
+        <img src="./assets/mark.svg" alt="" width="34" height="34">
+        <span>ACCM Deep Ethics Project</span>
+      </a>
+      <div class="masthead-actions">
+        <a class="source-link" href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/">Original site <span aria-hidden="true">↗</span></a>
+        <a class="header-zip" href="./ACCM-Deep-Ethics-Project-Mobile-Navigator.zip" download aria-label="Download app ZIP"><span aria-hidden="true">↓</span> ZIP</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell" id="main">
+    <section class="hero" aria-labelledby="app-title">
+      <div class="hero-art" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow"><span></span> MOBILE FIELD GUIDE</p>
+        <h1 id="app-title">Deep Ethical Topological Prompt Engineering<sup>™</sup></h1>
+        <p class="hero-description">Browse the project’s original pages by cluster or name. Follow a connection wherever it leads.</p>
+      </div>
+      <div class="hero-symbols" aria-label="Three project symbols">
+        <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/" title="Parrot · Freedom, perspective and compassion" aria-label="Parrot · Freedom, perspective and compassion">
+          <span class="symbol parrot" aria-hidden="true">🦜</span>
+        </a>
+        <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/" title="Butterfly · Transformation and wonderment" aria-label="Butterfly · Transformation and wonderment">
+          <span class="symbol butterfly" aria-hidden="true">🦋</span>
+        </a>
+        <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/" title="Tree · Grounding and living continuity" aria-label="Tree · Grounding and living continuity">
+          <span class="symbol tree" aria-hidden="true">🌳</span>
+        </a>
+      </div>
+    </section>
+
+    <div class="layout">
+      <section class="directory" aria-labelledby="catalog-heading">
+        <div class="catalog-controls">
+          <label class="sr-only" for="search">Search project pages</label>
+          <div class="search-box">
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="5.7"></circle><path d="m15 15 4.3 4.3"></path></svg>
+            <input id="search" type="search" placeholder="Search pages or clusters…" autocomplete="off" spellcheck="false">
+            <button id="clear-search" type="button" aria-label="Clear search" hidden><span aria-hidden="true">×</span></button>
+          </div>
+          <div class="view-bar">
+            <div class="segmented" role="group" aria-label="Browse view">
+              <button type="button" data-mode="clusters" aria-pressed="true">Clusters</button>
+              <button type="button" data-mode="az" aria-pressed="false">A–Z</button>
+              <button type="button" data-mode="saved" aria-pressed="false">Saved <span id="saved-count">0</span></button>
+            </div>
+            <div class="density" role="group" aria-label="Page link spacing">
+              <button type="button" data-density="compact" aria-pressed="true" aria-label="Compact spacing" title="Compact spacing">
+                <svg aria-hidden="true" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 6h16M4 10h16M4 14h16M4 18h16"></path></svg>
+              </button>
+              <button type="button" data-density="comfortable" aria-pressed="false" aria-label="Comfortable spacing" title="Comfortable spacing">
+                <svg aria-hidden="true" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 5h16M4 12h16M4 19h16"></path></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="catalog-bar">
+          <div>
+            <h2 id="catalog-heading">Browse clusters</h2>
+            <p id="result-count" role="status" aria-live="polite"></p>
+          </div>
+          <button id="expand-groups" type="button" hidden><span data-expand-label>Expand all</span></button>
+        </div>
+        <nav id="alphabet" class="alphabet" aria-label="Jump to a letter" hidden></nav>
+        <div id="catalog" tabindex="-1"></div>
+        <div id="empty" hidden></div>
+        <noscript><p class="no-script">Open the <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/">original All Pages index</a> to browse without JavaScript.</p></noscript>
+      </section>
+
+      <aside class="side" aria-label="Project routes and downloads">
+        <section class="side-panel">
+          <p class="eyebrow">CHOOSE AN ENTRY POINT</p>
+          <h2>Start anywhere</h2>
+          <ul class="trails">
+            <li><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/"><span class="trail-mark" aria-hidden="true">01</span><span>27 + 12</span><span class="link-arrow" aria-hidden="true">↗</span></a></li>
+            <li><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/"><span class="trail-mark" aria-hidden="true">02</span><span>Topologetics</span><span class="link-arrow" aria-hidden="true">↗</span></a></li>
+            <li><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/"><span class="trail-mark" aria-hidden="true">03</span><span>1888 intelligence properties</span><span class="link-arrow" aria-hidden="true">↗</span></a></li>
+            <li><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/#page-numbers"><span class="trail-mark" aria-hidden="true">04</span><span>Numbered reading routes</span><span class="link-arrow" aria-hidden="true">↗</span></a></li>
+            <li><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/#current-development-routes"><span class="trail-mark" aria-hidden="true">05</span><span>Current development routes</span><span class="link-arrow" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+        <section class="side-panel package">
+          <p class="eyebrow">TAKE A COPY</p>
+          <h2>Download the navigator</h2>
+          <p>Extract the ZIP and open index.html. The original articles open on the project site.</p>
+          <a class="download" href="./ACCM-Deep-Ethics-Project-Mobile-Navigator.zip" download>
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m-4-4 4 4 4-4M5 16v4h14v-4"></path></svg>
+            <span>Download app ZIP</span>
+          </a>
+        </section>
+      </aside>
+    </div>
+    <footer class="footer">
+      <div>
+        <a class="footer-brand" href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/">ACCM Deep Ethics Project</a>
+        <p>John Kuhles <span aria-label="parrot, butterfly and tree">🦜🦋🌳</span></p>
+      </div>
+      <div class="footer-links">
+        <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/">Source index ↗</a>
+        <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project">GitHub ↗</a>
+        <p>Catalog snapshot <time id="source-date"></time></p>
+      </div>
+    </footer>
+  </main>
+</body>
+</html>
