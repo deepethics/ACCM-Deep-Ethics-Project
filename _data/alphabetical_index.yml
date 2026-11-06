@@ -106,6 +106,8 @@
   url: /NETWORK/intent-resonator/#six-intent-mechanics
 - label: Iris
   url: /IRIS/
+- label: "John's Bio"
+  url: /BIOGRAPHY/
 - label: Lexicon
   url: /LEXICON/
 - label: MAD
@@ -136,8 +138,6 @@
   url: /NETWORK/non-npcs/
 - label: OmbudsEthics
   url: /OMBUDSETHICS/
-- label: Origins
-  url: /BIOGRAPHY/
 - label: Outnuancing
   url: /NETWORK/outnuancing/
 - label: Phase Change Snap

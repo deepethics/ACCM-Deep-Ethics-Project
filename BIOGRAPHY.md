@@ -676,3 +676,17 @@ The resulting public formulation is:
 <p class="accm-independent-media-status">Provisional selection. Reach makes the framing socially consequential; it does not settle the claims. The video can be replaced when a closer, stronger or more inspectable specimen appears.</p>
 
 </section>
+
+<section class="accm-independent-media-box" id="john-kuhles-nova-1996-x-post">
+
+<h2>John Kuhles on Dutch television — NOVA, 1996</h2>
+
+<p>John Kuhles shares footage from his 1996 appearance on the Dutch television program <em>NOVA</em> (NOS–VARA).</p>
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">ACCM <a href="https://x.com/hashtag/DeepEthics?src=hash&amp;ref_src=twsrc%5Etfw">#DeepEthics</a> Project CEO &amp; Founder <a href="https://x.com/hashtag/JohnKuhles?src=hash&amp;ref_src=twsrc%5Etfw">#JohnKuhles</a> on Dutch 🇳🇱 National TV 1996 &quot;Nova&quot; (NOS-Vara) 30 years ago: <a href="https://t.co/xucY2cBxmg">https://t.co/xucY2cBxmg</a> <a href="https://t.co/H22p8LgdOC">pic.twitter.com/H22p8LgdOC</a></p>&mdash; John Kuhles (@JohnKuhles1966) <a href="https://x.com/JohnKuhles1966/status/2118499084772536575?ref_src=twsrc%5Etfw">November 6, 2026</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><a href="https://x.com/JohnKuhles1966/status/2118499084772536575">Open the original post on X</a></p>
+
+</section>
