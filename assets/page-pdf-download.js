@@ -42,7 +42,7 @@
     return link;
   }
 
-  const defaultSnapshotDate = "November 1, 2026";
+  const defaultSnapshotDate = "November 8, 2026";
   const snapshotDateByPage = {
     "/CATEGORIZING-ISSUES/": "November 5, 2026",
     "/DUE-PROCESS-FOR-ETHICS/": "November 4, 2026",
