@@ -334,3 +334,28 @@ The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) con
 **Initial edition: 28 October 2026.** Additions should preserve earlier source states and record why a finding changed the inquiry or subsequent conduct. Clinical examples and study comparisons can be developed as separate, attributable entries as the evidence is examined.
 
 [Publication record]({{ '/DECISION-LEDGER/#ai-and-health-2026-10-28' | relative_url }}) · [All pages]({{ '/PAGES/' | relative_url }})
+
+---
+
+## John Kuhles — X post, 10 November 2026 {#john-kuhles-x-2120169377429377205}
+
+<div class="accm-companion-box" aria-label="X post preview">
+<p><strong>John Kuhles <a href="https://x.com/JohnKuhles1966/status/2120169377429377205" target="_blank" rel="noopener noreferrer">@JohnKuhles1966</a> — 10 November 2026</strong></p>
+<p><em>Shortened preview supplied by X; open the original post for the complete text and media.</em></p>
+<blockquote>
+<p>When “conspiracy theories” turn out to be true:</p>
+<p>A new FDA data-mining report reportedly shows that authorities were aware of 25 major side effects associated with the COVID-19 vaccines but decided to keep this information from the public.</p>
+<p>There was…</p>
+</blockquote>
+<p><strong><a href="https://x.com/JohnKuhles1966/status/2120169377429377205" target="_blank" rel="noopener noreferrer">Open the complete post and conversation on X ↗</a></strong></p>
+</div>
+
+<!-- ACCM_PDF_OMIT_START -->
+<div class="accm-x-thread-embed">
+<blockquote class="twitter-tweet" data-dnt="true">
+<p lang="en" dir="ltr"><a href="https://t.co/PClmkz7gTe">https://t.co/PClmkz7gTe</a><br>When “conspiracy theories” turn out to be true:<br><br>A new FDA data-mining report reportedly shows that authorities were aware of 25 major side effects associated with the COVID-19 vaccines but decided to keep this information from the public.<br><br>There was… <a href="https://t.co/zVsUzSeJLW">pic.twitter.com/zVsUzSeJLW</a></p>
+&mdash; John Kuhles (@JohnKuhles1966) <a href="https://x.com/JohnKuhles1966/status/2120169377429377205">November 10, 2026</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<!-- ACCM_PDF_OMIT_END -->
