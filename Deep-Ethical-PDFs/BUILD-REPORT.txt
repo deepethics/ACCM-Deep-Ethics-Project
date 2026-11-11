@@ -4,7 +4,7 @@ Scope: initial Constructivism PDF; 168 existing editions retained unchanged
 Successful PDFs: 169
 Failed PDFs: 0
 Total pages: 2738
-Total PDF bytes: 21689127
+Total PDF bytes: 21689170
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Full-set refresh cadence: weekly.

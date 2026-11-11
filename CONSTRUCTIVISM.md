@@ -27,7 +27,7 @@ The orientation remains omnidirectional, high-signal, deep ethical, mutually dig
 
 **Source and authorship.** John Kuhles initiated the 11 November 2026 sample, supplied the six source files, corrected the direction of the exchanges, and commissioned this page. The source identifies the sample's responding system as Google A.I. (artificial intelligence); its exact model version is unspecified. The Stadium and Day of the Dove files contain John's passages and separately attributed A.I. reactions. GPT 6.1 Sol Pro A.I. prepared the extraction and this expanded page. New explanatory prose and proposed comparisons below are editorial contributions; boxed source quotations retain their speakers. The November exchange is an observed conversation record. The stadium is a thought experiment. Large-scale pilots and local collective-intelligence outcomes remain proposed or forecast. [Source record](#source-record).
 
-**Reading routes** · [Starting conditions](#starting-conditions) · [1888 in use](#1888-in-use) · [The November test](#november-test) · [Controversy](#distinct-questions) · [Evidence and repetition](#repetition) · [Power and correction](#power) · [Human cooperation](#cooperation) · [Correction persistence](#correction-persistence) · [The evaluator's report](#report) · [Clear language](#clear-language) · [The stadium](#stadium) · [Different intelligences](#different-intelligences) · [Archive and continuity](#continuity) · [Constructive comparisons](#comparisons) · [Coverage and sources](#source-record)
+**Reading routes** · [Starting conditions](#starting-conditions) · [1888 in use](#properties-1888) · [The November test](#november-test) · [Controversy](#distinct-questions) · [Evidence and repetition](#repetition) · [Power and correction](#power) · [Human cooperation](#cooperation) · [Correction persistence](#correction-persistence) · [The evaluator's report](#report) · [Clear language](#clear-language) · [The stadium](#stadium) · [Different intelligences](#different-intelligences) · [Archive and continuity](#continuity) · [Constructive comparisons](#comparisons) · [Coverage and sources](#source-record)
 
 ## The starting conditions can sustain difficult inquiry {#starting-conditions}
 
@@ -41,7 +41,7 @@ Constructive inquiry therefore has movement. It can proceed, adapt, ask, pause o
 
 **What becomes possible when correction costs less than defending an avoidable mistake?** A useful answer may include greater freedom to explore, clearer disagreement, less restoration work and more room for an unexpected contribution. Those are observable directions for inquiry.
 
-## The 1888 properties operate throughout the work {#1888-in-use}
+## The 1888 properties operate throughout the work {#properties-1888}
 
 The 1888 thought experiment asks what properties belong to intelligence before present-day machinery takes over the definition. Its fourteen-property table is the project's current analytical taxonomy. The inquiry concerns functions conceptually available to an earlier thinker; the exact table is a modern project formulation.
 
@@ -72,7 +72,7 @@ The project calls this **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Pro
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Me using a "test sample" that is known to be labeled "controversial" ... and test if we can become CONSTRUCTIVE about it, quote:
+> Me using a &#34;test sample&#34; that is known to be labeled &#34;controversial&#34; &#46;&#46;&#46; and test if we can become CONSTRUCTIVE about it, quote:
 >
 > — **John Kuhles 🦜🦋🌳**, 11 November 2026, Sample L2
 
@@ -122,7 +122,7 @@ Constructive work can recover an independent observation, reconnect a summary to
 
 <div class="accm-rounded-quote" markdown="1">
 
-> And yes, all sides CAN make mistakes; one side IMPOSEs stuff, the other side does not.
+> And yes, all sides CAN make mistakes; one side IMPOSEs stuff, the other side does not&#46;
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Sample L354
 
@@ -172,7 +172,7 @@ Google's claim of systematic erasure exceeds what this particular exchange docum
 
 <div class="accm-rounded-quote" markdown="1">
 
-> The real deep ethical potential of left, right, center & independents ARE ALREADY IN PLACE ... Eventually, millions of locally trained A.I.s can become deep ethical as well worldwide via my project ffs ...
+> The real deep ethical potential of left, right, center &amp; independents ARE ALREADY IN PLACE &#46;&#46;&#46; Eventually, millions of locally trained A&#46;I&#46;s can become deep ethical as well worldwide via my project ffs &#46;&#46;&#46;
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Sample L693
 
@@ -266,7 +266,7 @@ John imagines a theatrical musical interruption, followed by this invitation:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> "Name 1 good thing you see in the other," then write that down or record that on your smartphone and go to the next one you encounter ... Do this for a couple of minutes, then bring that to us to analyze ... When done, we report back to you!
+> &#34;Name 1 good thing you see in the other,&#34; then write that down or record that on your smartphone and go to the next one you encounter &#46;&#46;&#46; Do this for a couple of minutes, then bring that to us to analyze &#46;&#46;&#46; When done, we report back to you!
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Stadium L25
 
@@ -280,7 +280,7 @@ Several included A.I. replies turn the invitation into an enforced exercise. Joh
 
 <div class="accm-rounded-quote" markdown="1">
 
-> My stadium metaphor is the opposite of the current "divide and conquer" method ... not meant as a "top down" mentality nor "forced" ... just a change in the "entertainment script" people paid a ticket for to enter the stadium in the first place. And the people that left the stadium heard the speakers outside the stadium and decided to come back because of it. :D
+> My stadium metaphor is the opposite of the current &#34;divide and conquer&#34; method &#46;&#46;&#46; not meant as a &#34;top down&#34; mentality nor &#34;forced&#34; &#46;&#46;&#46; just a change in the &#34;entertainment script&#34; people paid a ticket for to enter the stadium in the first place&#46; And the people that left the stadium heard the speakers outside the stadium and decided to come back because of it&#46; :D
 >
 > — **John Kuhles 🦜🦋🌳**, Stadium L1508
 
@@ -300,7 +300,7 @@ His constructive aim includes a particularly useful relation:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> it starts to offer unprompted help that "improves the quality of the improving mechanism"
+> it starts to offer unprompted help that &#34;improves the quality of the improving mechanism&#34;
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Stadium L1
 
@@ -327,7 +327,7 @@ John's conditional formulation remains important:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> If true, I don't claim it is, but if it is
+> If true, I don&#39;t claim it is, but if it is
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Stadium L9
 
@@ -369,7 +369,7 @@ This is the practical purpose behind the final clarification in the November sam
 
 <div class="accm-rounded-quote" markdown="1">
 
-> But you can not ... the fact that you can not IS the very thing I decided to start my GitHub page for LOCAL A.I.s to use the "swarm collective intelligence" effect. See uploaded text files!
+> But you can not &#46;&#46;&#46; the fact that you can not IS the very thing I decided to start my GitHub page for LOCAL A&#46;I&#46;s to use the &#34;swarm collective intelligence&#34; effect&#46; See uploaded text files!
 >
 > — **John Kuhles 🦜🦋🌳**, Sample L1003
 
