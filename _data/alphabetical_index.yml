@@ -50,6 +50,8 @@
   url: /CATEGORIZING-ISSUES/
 - label: Cognitive Warfare
   url: /COGNITIVE-WARFARE/
+- label: Constructivism
+  url: /CONSTRUCTIVISM/
 - label: Core
   url: /CORE/
 - label: Core Disclaimers
@@ -186,3 +188,4 @@
   url: https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki
 - label: YouTube Transcripts
   url: /YOUTUBE-TRANSCRIPTS/
+

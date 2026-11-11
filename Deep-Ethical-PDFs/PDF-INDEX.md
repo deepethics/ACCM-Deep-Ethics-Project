@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 168
+**Public pages exported:** 169
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -38,6 +38,7 @@
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |
 | [Categorizing Issues](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CATEGORIZING-ISSUES/) | [CATEGORIZING-ISSUES.pdf](CATEGORIZING-ISSUES.pdf) | `CATEGORIZING-ISSUES.md` |
 | [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) | [COGNITIVE-WARFARE.pdf](COGNITIVE-WARFARE.pdf) | `COGNITIVE-WARFARE/index.md` |
+| [Constructivism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONSTRUCTIVISM/) | [CONSTRUCTIVISM.pdf](CONSTRUCTIVISM.pdf) | `CONSTRUCTIVISM.md` |
 | [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) | [CONTRIBUTING.pdf](CONTRIBUTING.pdf) | `contributing-site.md` |
 | [Core Disclaimers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE-DISCLAIMERS/) | [CORE-DISCLAIMERS.pdf](CORE-DISCLAIMERS.pdf) | `CORE-DISCLAIMERS.md` |
 | [Core](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/) | [CORE.pdf](CORE.pdf) | `CORE/index.md` |

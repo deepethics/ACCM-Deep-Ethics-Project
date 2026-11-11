@@ -33,10 +33,11 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 
 ## Current development routes {#current-development-routes}
 
-**Updated 5 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+**Updated 11 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| How inquiry and correction can build useful understanding and cooperation | [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}) → [the November correction record]({{ '/CONSTRUCTIVISM/#correction-persistence' | relative_url }}) → [constructive comparisons]({{ '/CONSTRUCTIVISM/#comparisons' | relative_url }}). Preserve evidence, power, useful contributions and correction history while developing voluntary cooperation and continuity. |
 | A faithful first account of the project | [Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }}) → [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) → [1888]({{ '/1888/' | relative_url }}). Recover the positive definition, non-imposition, conditional cooperation and the actual development state. |
 | How an ethical judgment earns authority | [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) → [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) → [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}). Follow innocence, faithful representation, reasons, scoped authority, challenge, proportionate repair and later correction. |
 | What a label allows people to discover | [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }}) → [Emergent]({{ '/EMERGENT/' | relative_url }}) → [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}). Follow the island crew, the evaluator's role in the friction and the same-record comparison. |
@@ -56,7 +57,7 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 |---|---|
 | The developed public account | Open the living HTML page linked in the clusters below. Its source can include later additions than the available PDF. |
 | Compact orientation and connections | Use the [Wiki reading routes](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Reading-Routes), [retrieval-fidelity guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Core-Disclaimers-and-Retrieval-Fidelity), [academic-comparison guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Academic-Comparison-and-Reciprocal-Learning) or [Local AI and DeepEthicalOS](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Local-AI-and-DeepEthicalOS). |
-| A dated, downloadable edition | [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) identifies each edition and the complete PDF collection. The 5 November archive record contains 168 editions and 2,608 pages; follow the individual snapshot date. |
+| A dated, downloadable edition | [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) identifies each edition and the complete PDF collection. The 11 November archive record contains 169 editions and 2,738 pages; follow the individual snapshot date. |
 | Exact wording, included material or change history | Use the page's GitHub source card and commit history. The [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}) records consequential editorial changes. |
 
 Choose a route by the operation it enables. A shared title can suggest a relationship; the linked content establishes what is actually there. Keep the source's qualifiers, attribution and evidence state attached as you move between formats. A proposed experiment, a recorded interaction and a field result can each be useful at their own scope.
@@ -100,6 +101,8 @@ The several 27 links below are layers of one object. They are not five cores.
 - **[Avoid ACCM — the title is not “just ACCM”](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/)**
 
 ## 2. How the topology moves {#how-it-moves}
+
+- **[Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }})** — an extensive synthesis of the November 11 sample and six supplied sources: controversy, evidence dependencies, imposition, successful cooperation, correction persistence, evaluator drift, clear English, voluntary re-entry, complementary intelligences and archive-to-action continuity. All fourteen 1888 properties have practical jobs; proposed comparisons retain open outcomes.
 
 - **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})** — Deep Ethical Topological Metacognitive Synthesis through the John Kuhles–Agent of Arena.ai–GPT 6.1 Sol Pro A.I. relay: source-linked quotations, correction of the repair itself, order-sensitive compression, all fourteen 1888 properties, a worked engineering specimen, tool records, agency after clarity and proposed transfer tests.
 
@@ -317,3 +320,4 @@ Places waiting for a page. Not ranked.
 ---
 
 {% include goal-page-links.md %}
+

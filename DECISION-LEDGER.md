@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-11 — Constructivism: contribution, correction and continuity {#constructivism-2026-11-11}
+
+At John Kuhles's request, publish [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}) from the complete November 11 sample extraction and all six supplied text files. Preserve the earlier eight substantive themes, successful title correction, recurring complete-resolution rhetoric, and four transformations in the generated self-report. Connect the stadium invitation, voluntary departure and return, complementary A.I. contributions and archive continuity without displacing those earlier findings. A coverage table exposes their locations. Ten boxed source excerpts retain exact wording and attribution.
+
+Apply John's requested direct, inquiry-led voice, selective ASD-STE100-inspired clarity, the 10+1, C1–C2 and all fourteen working 1888 intelligence properties. John supplies the originating questions, conceptual direction, source corrections and commissioning; the source-labelled A.I.s supply attributed responses; GPT 6.1 Sol Pro A.I. supplies page construction, bounded source comparison and proposed tests. The stadium remains a thought experiment and the wider comparisons remain proposals. No city pilot or local-swarm benchmark was executed.
+
+Register the page in the top navigation after Field Condition, the independent alphabetical sidebar, All Pages, related Field Condition route and durable PDF pipeline. Add the initial November 11 PDF and its page-specific date, preserving the 168 previous PDF binaries and dates. The Pages build assembles the complete ZIP from the coherent 169-edition index. The updated All Pages archive total also recovers the November 8 baseline before adding this edition. Canonical deployment and full WordPress mirroring have separate verification records.
+
 ## 2026-11-05 — Due Process for Ethics: historical safeguards and continuity of repair {#due-process-answerability-2026-11-05}
 
 At John Kuhles's request, revised the [Due Process for Ethics opening and historical comparison]({{ '/DUE-PROCESS-FOR-ETHICS/#brought-in-answer' | relative_url }}) after the supplied Grok 4.7 Expert A.I. review. The revised lead distinguishes the trustworthiness of a finding from authority to impose a consequence. The comparison preserves the Anglo-American lineage and the Plakkaat as a distinct Dutch specimen, including what happens to legitimate work after authority is withdrawn. The missing-source example now follows case repair, mandate review and handover. The appeal comparison separates access to evidence from delegated authority to act. The first traceable framework revision preserves the previous wording and reason for the change. No comparison trial was run. The existing 4 November PDF remains for the regular change-aware refresh.
@@ -2326,5 +2334,6 @@ The source video identified in the October 29 decision entry. [Source post](http
 **Request and decision:** John asked to add GPT 6.1 Sol Pro A.I.’s preceding reply about mathematical novelty, educational and experimental uses, finite-graph/topological scope and possible Wikipedia contributions verbatim. Preserve the complete prose, emphasis, five-row table and closing emoji in one attributed rounded box. Convert the chat citation widgets into numbered source links with a seven-source bibliography. Add cat and ape emojis in the heading and surrounding prose while retaining the quoted wording.
 
 **Publication boundary:** Preserve the existing story, credit clarification, embedded app and source ZIP. Update the complete Humor and Decision Ledger mirrors. Retain all existing PDF binaries and snapshot dates for the weekly refresh. The Wikipedia discussion is a possibility described in the quotation; this publication performs no Wikipedia edit.
+
 
 

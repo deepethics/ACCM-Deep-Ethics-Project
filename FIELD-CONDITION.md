@@ -652,6 +652,8 @@ The commercial can simply make those relations memorable:
 
 ## Related pages
 
+- [**Constructivism**]({{ '/CONSTRUCTIVISM/' | relative_url }}) — the November 11 source-based inquiry into evidence, power, correction in use, existing human capacities, voluntary re-entry and the preservation of useful contributions.
+
 - [**YouTube Transcripts — preserve the field state**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#field-state-comparison) — uses the attributed definition to record which access, instructions, cues and correction opportunities changed between compared results.
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — treats announced testing, deployment-like interaction, hidden evaluation cues and examiner authority as materially different performance fields.
@@ -690,3 +692,4 @@ A contribution does not carry one context-free value label. *Not useful here* is
 “Here is why” exposes the evaluator's current map; it does not grant jurisdiction. If access, threat, evidence, power, time horizon or affected population changes, the state and explanation may change. Freedom is not a prize awarded after the corrected participant says approved words. *Am I allowed to be more free now?* reveals a permission topology surviving underneath apparently friendly correction. Adult-to-adult inquiry keeps agency, responsibility and reality contact active on both sides without pretending humans and A.I.s have identical embodiment, power, dependency or legal standing.
 
 Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+
