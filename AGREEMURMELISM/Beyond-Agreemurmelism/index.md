@@ -842,6 +842,8 @@ That is why I01 ⇄ I02 belongs here.
 
 ## Related pages
 
+- [**Tidy Trap**]({{ '/TIDY-TRAP/#contribution' | relative_url }}) — the November 11 continuation develops John's practical alternatives to agreement language, follows their correction into Google's next prompt, and compares the institutional-trust walkthrough with its source.
+
 - [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — examines the neighboring status trap in which evidence, experience or a working assessment is recoded as somebody's belief before its grounds and value–usefulness relations are examined.
 
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — applies Contribution State Grammar to candidate completions so agreement status cannot replace source separation, testing and correction persistence.
@@ -940,3 +942,4 @@ Without dignity, proportionality, provenance, non-coercion, reciprocal scrutiny,
 Deep Ethical operation keeps visible who assigns the state, the perimeter, who bears the effect, whether the source can contest the representation, whether the evaluator self-applies its standards, and what evidence can reopen the state. This is a trajectory, not a certificate. It asks: *What changed, by what warrant, with what effect, and did the change remain corrigible?*
 
 Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) preserves the topology · [1888]({{ '/1888/' | relative_url }}) tests correction as intelligence · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) follows propagated consequences.
+

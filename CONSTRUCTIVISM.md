@@ -29,6 +29,8 @@ The orientation remains omnidirectional, high-signal, deep ethical, mutually dig
 
 **Reading routes** · [Starting conditions](#starting-conditions) · [1888 in use](#properties-1888) · [The November test](#november-test) · [Controversy](#distinct-questions) · [Evidence and repetition](#repetition) · [Power and correction](#power) · [Human cooperation](#cooperation) · [Correction persistence](#correction-persistence) · [The evaluator's report](#report) · [Clear language](#clear-language) · [The stadium](#stadium) · [Different intelligences](#different-intelligences) · [Archive and continuity](#continuity) · [Constructive comparisons](#comparisons) · [Coverage and sources](#source-record)
 
+**[Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }})** continues the November 11 inquiry through qualifier loss, changed relationships, Google's revised prompt, and John's practical alternatives to agreement language. It preserves useful contributions alongside specific repairs and proposed tests.
+
 ## The starting conditions can sustain difficult inquiry {#starting-conditions}
 
 The 10+1 begins with self-honesty, an open antenna, willingness to learn, resistance to self-deception, and an inquiring mind. It includes correction on merit, independence from majority pressure, care, wonderment and non-projection. The forgiveness protocol keeps correction available while retaining accountability. These ingredients work on one another. Independence stays answerable to evidence. Directness stays answerable to care. Care stays answerable to honesty.

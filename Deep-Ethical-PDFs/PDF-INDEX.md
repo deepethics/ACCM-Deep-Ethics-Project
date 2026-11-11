@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 169
+**Public pages exported:** 170
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -166,6 +166,7 @@
 | [Search Engine Bias](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) | [SEARCH-ENGINE-BIAS.pdf](SEARCH-ENGINE-BIAS.pdf) | `SEARCH-ENGINE-BIAS.md` |
 | [Superintelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) | [SUPERINTELLIGENCE.pdf](SUPERINTELLIGENCE.pdf) | `SUPERINTELLIGENCE.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
+| [Tidy Trap](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TIDY-TRAP/) | [TIDY-TRAP.pdf](TIDY-TRAP.pdf) | `TIDY-TRAP.md` |
 | [Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |
 | [Truth Seekers vs Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) | [TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf](TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf) | `TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md` |
 | [Tweaking Tools](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TWEAKING-TOOLS/) | [TWEAKING-TOOLS.pdf](TWEAKING-TOOLS.pdf) | `TWEAKING-TOOLS.md` |

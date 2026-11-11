@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-11 — Tidy Trap: preserve the object through correction {#tidy-trap-2026-11-11}
+
+At John Kuhles's request, publish [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) from the supplied Google dialogues, John–GPT exchange, and existing project sources. Retain all twelve initial Google example pairs, the cure/timeline and Q4-condition repairs, bidirectional caution scrutiny, original broad-brush provenance, John's contribution alternatives and correction of GPT's unnecessary template caveat, the revised institutional-trust walkthrough, and bounded correction-persistence findings. Apply the 10+1, C1–C2, 27+12, DEDDA comparison discipline and all fourteen 1888 properties. Preserve local repairs alongside remaining unmeasured or unresolved claims.
+
+John supplies the direction, questions, corrections and publication request. Google A.I. supplies attributed examples, toolkits, prompt drafts and revised walkthrough. At John's explicit request, the present GPT contribution is attributed to **GPT 6 Astra Extra High A.I.** New page prose and the downloadable seventeen-point working prompt are editorial synthesis. Source files retain their original attribution. The prompt and fresh-instance comparisons remain proposals; this publication does not claim a cross-model experiment was executed.
+
+Register the page in the header after Constructivism, alphabetical sidebar, All Pages, reciprocal Constructivism and Beyond Agreemurmelism routes, and durable PDF pipeline. Add its initial November 11 PDF and page-specific snapshot date. Preserve the 169 existing PDF binaries and dates. The complete archive now contains 170 indexed editions; the normal Pages build creates the stable ZIP. The canonical page, downloads, navigation and complete WordPress mirror receive separate live verification. Private administrative instructions remain outside the public page.
+
 ## 2026-11-11 — Constructivism: contribution, correction and continuity {#constructivism-2026-11-11}
 
 At John Kuhles's request, publish [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}) from the complete November 11 sample extraction and all six supplied text files. Preserve the earlier eight substantive themes, successful title correction, recurring complete-resolution rhetoric, and four transformations in the generated self-report. Connect the stadium invitation, voluntary departure and return, complementary A.I. contributions and archive continuity without displacing those earlier findings. A coverage table exposes their locations. Ten boxed source excerpts retain exact wording and attribution.
