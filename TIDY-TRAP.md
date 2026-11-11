@@ -13,7 +13,7 @@ permalink: /TIDY-TRAP/
 
 <!-- ACCM_PDF_OMIT_START -->
 <style>
-.post-content a,.post-content a:visited{color:#102b59}
+.page-content .post-content a,.page-content .post-content a:visited{color:#102b59}
 .post-content table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse;font-size:.92em}
 .post-content th,.post-content td{padding:.6rem .7rem;border:1px solid #d9d1c3;text-align:left;vertical-align:top}
 .post-content th{background:#eae4d8}
