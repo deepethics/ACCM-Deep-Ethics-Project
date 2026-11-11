@@ -1,5 +1,13 @@
 # Decision Ledger
 
+## 2026-11-11 — Tidy Trap: twelve-stage sequence and seventeen working instructions {#tidy-trap-sequence-2026-11-11}
+
+At John Kuhles's request, expand [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and apply the exact subtitle **When does an original correspondence sentence become a different claim?** Preserve the initial examples, quotations, correction chronology, and project connections. Add the complete twelve-to-seventeen mapping, the broader linguistic audit and final reflection, the distinct positions of Stage 0 and both gates, and source attribution to ChatGPT 5.5 A.I. and Grok-4.6-xhigh A.I. in the supplied August 15 record.
+
+Integrate Google's two post-publication reflections and GPT 6 Astra Extra High A.I.'s comparisons. Retain the useful structural mapping while distinguishing prescribed operation from observed execution. Record the supplied prompt-link mismatch against the actual Dagstuhl destination and restore the canonical working-prompt route. Preserve the mismatched URL in the attributed excerpt record. Expand the downloadable prompt with its governing twelve-stage frame; the seventeen numbered instruction bodies retain their wording. Add three proposed probes for sequencing, citation destination, and instruction-to-execution drift. No fresh-model probe execution is claimed.
+
+Publish the page, prompt, two source excerpts, and this ledger entry; fully mirror both changed public pages. Retain all 170 PDF binaries and their existing snapshot dates for the regular change-aware refresh. The original Tidy Trap PDF remains the initial 11 November edition until that refresh.
+
 ## 2026-11-11 — Tidy Trap: preserve the object through correction {#tidy-trap-2026-11-11}
 
 At John Kuhles's request, publish [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) from the supplied Google dialogues, John–GPT exchange, and existing project sources. Retain all twelve initial Google example pairs, the cure/timeline and Q4-condition repairs, bidirectional caution scrutiny, original broad-brush provenance, John's contribution alternatives and correction of GPT's unnecessary template caveat, the revised institutional-trust walkthrough, and bounded correction-persistence findings. Apply the 10+1, C1–C2, 27+12, DEDDA comparison discipline and all fourteen 1888 properties. Preserve local repairs alongside remaining unmeasured or unresolved claims.

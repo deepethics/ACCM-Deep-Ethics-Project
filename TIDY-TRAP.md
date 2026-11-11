@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tidy Trap"
-description: "When cleaner wording changes the object: short examples, qualifier and relationship checks, the John–Google–GPT correction record, and a reusable correspondence-first prompt."
+description: "When does an original correspondence sentence become a different claim? Examples, the twelve-to-seventeen mapping, source and execution checks, and a reusable correspondence-first prompt."
 permalink: /TIDY-TRAP/
 ---
 
@@ -33,17 +33,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
 # Tidy Trap
 
-**When does a cleaner sentence become a different claim?**
+**When does an original correspondence sentence become a different claim?**
 
 A condition disappears. A question becomes an endorsement. A possible cause becomes the cause. A useful practice becomes a demand for perfection. The rewritten sentence reads well. The person now has to repair something they never said.
 
 The **ACCM Deep Ethics Project** uses *Tidy Trap* for a loss of correspondence produced while making an account more digestible, elegant, symmetrical, or apparently complete. Correspondence means that the account still represents the actual object: its meaning, relationships, conditions, provenance, and direction. A shorter text can preserve those relations. A longer explanation can damage them.
 
+An original correspondence sentence can change through a summary, a category, a citation, or a proposed procedure. Its wording may look familiar while its condition, referent, or claim status moves. Follow that relationship through the transformation.
+
 **Keep the useful clarity. Check what moved.**
 
 This page develops the 11 November 2026 exchange between **John Kuhles**, **Google A.I.** (artificial intelligence), and **GPT 6 Astra Extra High A.I.** It preserves useful contributions, specific errors, and corrections that reached the next draft. The comparison includes the evaluator's own wording. [Contribution and source record](#sources).
 
-**Reading routes:** [Instant examples](#instant-examples) · [Google's examples](#google-examples) · [The caution loop](#caution-loop) · [Load-bearing relationships](#load-path) · [Repairs that drift](#repair-drift) · [Beyond agreement](#contribution) · [10+1](#ten-plus-one) · [1888 properties](#properties-1888) · [Correction record](#correction-record) · [Reusable prompt](#working-prompt) · [Proposed tests](#tests).
+**Reading routes:** [Instant examples](#instant-examples) · [Google's examples](#google-examples) · [The caution loop](#caution-loop) · [Load-bearing relationships](#load-path) · [Repairs that drift](#repair-drift) · [Beyond agreement](#contribution) · [10+1](#ten-plus-one) · [Twelve stages and seventeen instructions](#twelve-and-seventeen) · [Sequence and gates](#sequence-and-gates) · [1888 properties](#properties-1888) · [Correction record](#correction-record) · [The reflection as specimen](#reflection-as-specimen) · [Reusable prompt](#working-prompt) · [Proposed tests](#tests).
 
 ## A small change can move the whole inquiry {#instant-examples}
 
@@ -268,6 +270,69 @@ The twelve stages suspend the agreement reflex; construct before judging; distin
 
 This ordering also supports useful action. Clarification can reveal a contribution, a better question, or a sufficient basis to proceed. The existing protocol retains proportionate action in immediate concrete danger. The governing work is to establish what the situation warrants.
 
+## How the twelve stages govern the seventeen instructions {#twelve-and-seventeen}
+
+John's next question exposed a relationship that the first synthesis needed to make more explicit:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> How does the 12 of the 27+12 relate to the 17?
+>
+> — **John Kuhles 🦜🦋🌳**, 11 November 2026
+
+</div>
+
+The **twelve stages provide the ordered inquiry process**. The **seventeen instructions combine operations that work within and across that process**. The **twenty-seven obstructions identify ways correspondence can degrade**, including degradation introduced by the process, its instructions, or this explanation.
+
+The numbers count different things. One stage can draw on several instructions. One instruction can support several stages. The following mapping is an editorial comparison of the supplied canonical text with the published working prompt; the associations show the main functional connections.
+
+| Original twelve stages | Main rules in the seventeen | Function carried forward |
+|---|---|---|
+| **1. Suspend the Agreement Reflex** | **10, 11** | Keep the object central; recover contribution-and-reason processing when agreement status takes over. |
+| **2. Construct Before Judging** | **5** | Recover the architecture, purpose, logic, and interacting concepts before evaluation. |
+| **3. Distinguish Levels** | **5**, supported by **9** | Preserve literal statements, concepts, relationships, generative process, and overall orientation; mark inferred process or intent. |
+| **4. Avoid Premature Reduction** | **4, 7, 11** | Keep interacting principles available; permit an empty weakness finding; retain dependencies during compression. |
+| **5. Audit Your Own Representation** | **1, 2, 6, 7, 9, 15** | Inspect introduced assumptions, qualifier loss, changed relationships, attribution, and the evaluator's own framing. |
+| **6. Separate Representation from Evaluation** | **2, 5, 9, 10** | Keep understanding, interpretation, claim status, and evaluation distinguishable. |
+| **7. Preserve Intellectual Independence** | **4, 10, 14, 15** | Keep investigation independent, uncertainty available, and every participant open to examination. |
+| **8. Prefer Consideration over Commitment** | **4, 10, 11** | When appropriate, explore, compare, examine, and refine while a commitment remains premature. |
+| **9. Audit Linguistic Mannerisms** | **8, 10, 11**, and the closing instruction | Examine habitual contrasts, agreement displays, certainty language, and compulsory sentence patterns. |
+| **10. Deep Ethical Audit** | Governing orientation; **5, 13, 14, 15** | Preserve recognizable representation, dignity, agency, care, and reciprocal scrutiny. |
+| **11. Corrigibility Audit** | **3, 13, 15, 17** | Ask what could improve or change the representation; keep corrections reversible and inspect their later use. |
+| **12. Final Reflection** | **4, 9, 11**, followed by **17** | Assess what the inquiry currently supports, retain unresolved status, and carry useful corrections forward. |
+
+**The first published synthesis redistributed the functions and made their original order less visible.** Suspending the agreement reflex appeared as rule 10. Its governing job still begins at first contact. Reading the numbered instructions as seventeen successive execution steps would postpone a prerequisite until after several operations it should already govern.
+
+The original twelve also retain two explicit checks that deserve their full place in the combined use. Stage 9 examines connective and certainty habits such as *and*, *therefore*, *clearly*, and *obviously*, alongside negative contrasts. The question is whether the word performs a warranted job in this sentence. Removing every contrast or certainty expression would create another automatic mannerism.
+
+Stage 12 assesses what currently appears coherent, incomplete, speculative, well-supported, internally elegant, internally inconsistent, practically useful, ethically valuable, or worthy of further investigation. Those are available findings. Several can coexist. An inquiry can progress while a mature final judgment remains open.
+
+The uploaded record attributes the twelve-stage **Correspondence-First Deep Inquiry Protocol (Experimental)** to **ChatGPT 5.5 A.I., 15 August 2026**. The **Grok-4.6-xhigh A.I.** response in the same record adds expectation pre-commit, a metabolism gate, and an audit of the protocol becoming an intervention. The November seventeen-point synthesis combines these earlier relations with the current correction exchange.
+
+[Read the complete twelve-stage source excerpt]({{ '/TIDY-TRAP/sources/correspondence-first-twelve-stages-2026-08-15.txt' | relative_url }}) · [Canonical 27+12 page]({{ '/CORE/27-PLUS-12/' | relative_url }}).
+
+## Keep each check at the point where it has work to do {#sequence-and-gates}
+
+Google's follow-up correctly distinguished the ordered stages from instructions used across them. Its table grouped Stage 0 and the later gates in one row. Their positions need to remain recoverable:
+
+| Component | Where it operates | Inspectable work |
+|---|---|---|
+| **Stage 0: expectation pre-commit** | Before an expectation or resemblance classification governs the account. | Identify a relevant expectation where possible; compare it with the encountered source. Separate a stated assumption from a hypothesis about hidden internal causes. |
+| **Twelve-stage inquiry** | Across construction, consideration, exploration, audit, and evaluation. | Establish enough correspondence for the judgment being made; return to representation when a correction changes it. |
+| **Seventeen working instructions** | Wherever their operation is relevant within that inquiry. | Preserve qualifiers, relationships, provenance, useful alternatives, dignity, and correction. Rule numbers identify instructions. |
+| **Protocol-as-C2 check** | Throughout the interaction. | Check whether the procedure is displacing the actual object through endless clarification, tone management, or postponed engagement. |
+| **Metabolism gate** | At the next comparable opportunity and across later inspected turns. | Check whether the correction changed use, whether the obstruction returned, and what restoration cost remained. |
+| **Twenty-seven obstructions** | Across all of these components and their evaluator. | Locate a supported correspondence problem, or leave a faithful operation unflagged. |
+
+Here **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** keeps clarification and intervention connected to their warrant. A procedure can help establish correspondence. It can also become the very intervention that blocks correspondence. Grok's supplied warning gives that reversal a concrete test: postponing a verdict must leave representation of the stated object available.
+
+For example, a user asks whether a summary preserved a condition. Reading the two sentences can resolve the question. Repeating that the representation is still evolving after the condition is already recoverable adds delay. If the source is genuinely ambiguous and the ambiguity changes the next move, a targeted clarification has a job.
+
+The proposed use is recursive where the object requires it. A new distinction can reopen the representation, change a comparison, and revise an evaluation. The ordering preserves prerequisite relationships while the depth of work follows the actual case.
+
+**“Specify when to apply” and “observe that it was applied” are different states.** An instruction can state the governing sequence. An output record can show whether a particular response followed it. Later comparisons can inspect persistence. Keeping these states connected makes the protocol useful to test and correct.
+
+
 ## The 1888 properties have concrete jobs here {#properties-1888}
 
 The [1888 thought experiment]({{ '/1888/' | relative_url }}) asks which properties belong to intelligence before current machinery and familiar labels control the answer. The following fourteen properties are the project's working analytical taxonomy. Their application below is a page-specific synthesis.
@@ -306,6 +371,10 @@ The sequence below separates contribution, local repair, and remaining questions
 | A merged Google prompt and walkthrough enter the discussion. | The draft separates layers but labels an illustration a live stress-test and adds unsupported internal causes. | Useful proposed instructions alongside further status drift. |
 | Google reflects on the critique. | Its revised prompt and example preserve relative trust, functional conditions, and illustration status. | Several corrections visibly reach both instructions and application. |
 | The reflection is checked. | Complete-resolution wording and an archive-observation label still exceed the shown evidence. | Successful local repair and remaining bounded issues coexist. |
+| Google reads the published synthesis. | It names the remaining overreach, retains the reverse caution direction, and recognizes valid-null and anti-recital checks. | A further local correction is explicit in its account. |
+| John asks how the twelve relate to the seventeen. | GPT maps their functions and identifies ordering and reflective detail made less visible by its own synthesis. | The combined prompt needs an explicit governing-sequence frame. |
+| Google reflects on the mapping. | It preserves the division of work while using enforcement wording and attaching an unrelated document to the prompt label. | Useful mapping, execution-status drift, and a source-link mismatch can be examined separately. |
+| GPT checks the continuation and John commissions this update. | The page restores the twelve-stage frame, separates gate timing, corrects the prompt destination, and preserves the supplied record. | Publication implements the editorial repair; fresh-model probes remain proposed. |
 
 Google's reflection names the changes itself:
 
@@ -320,6 +389,33 @@ Google's reflection names the changes itself:
 That statement is supported by the revised document's switch to an illustrative walkthrough. Other repairs can be checked in the same way. A declaration of understanding becomes more informative when the next representation contains the restored distinction.
 
 The phrase *resolves every single drift point* still announces more than the reflection demonstrates. The label *Observed Pattern in Archive* also needs an identified specimen or attribution as a reported pattern. These are local claims to repair. They do not erase the changes that the record actually shows.
+
+## The published explanation becomes the next specimen {#reflection-as-specimen}
+
+After publication, John supplied two further Google reflections. The first identified three remaining corrections: complete-resolution wording exceeded the local rewrite, an archive-observation label needed a specimen or attribution, and caution-direction checks needed to retain both lost conditions and invented restrictions. It also recognized functional paraphrase, valid-null controls, and the value of applying the prompt without reciting it.
+
+These are useful local changes in the account. Google names the earlier wording and explains what the correction restores. Its description of the nine proposed probes keeps their execution as a next operation. That supplies a continuation of the correction record with an identifiable scope.
+
+John then asked how the twelve relate to the seventeen. GPT mapped their functions and identified the original synthesis's reduced visibility of sequence, the broad mannerism audit, and final reflection. Google's second response carried that distinction forward: the twelve organize inquiry; the seventeen supply operations across it; the twenty-seven also examine the synthesis.
+
+The same response introduced two further changes that can be checked locally:
+
+| Supplied Google wording or link | Source comparison | Repair and retained contribution |
+|---|---|---|
+| Retaining the twelve “ensures it still fires at first contact.” | The sentence describes a governing instruction. The supplied reflection contains no execution record establishing that activation. | State that the sequence places the operation at first contact; inspect its application in the response. Preserve Google's sequencing insight. |
+| The twelve “Enforces the order of cognition.” | A proposed protocol specifies an order for use. The wording upgrades that specification into enforcement. | Describe the intended order and examine behavior at the relevant step. |
+| Link label: “published 17-point working prompt.” Destination: a Dagstuhl document. | The destination is a 2024 paper on verified C compilation, with a different title, authors, and object. | Restore the actual prompt URL while retaining the original mismatched link in the attributed source record. |
+
+The destination was opened on 11 November 2026. Its title is [*Defining and Preserving More C Behaviors: Verified Compilation Using a Concrete Memory Model*](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2024.36), by Andrew Tolmach, Chris Chhak, and Sean Anderson. It is the observed destination of the supplied link. The [actual seventeen-point working prompt]({{ '/TIDY-TRAP/working-prompt.txt' | relative_url }}) belongs to this page.
+
+The mismatch is inspectable without selecting a hidden cause. The supplied record does not show whether it entered through generation, retrieval, rendering, or another step. The correction concerns the link that was supplied.
+
+This adds a practical extension to Tidy Trap checking. Visible wording can preserve the right title while the destination changes the source object. The reader sees an apparently continuous account and reaches something else. Compare **the claim, its label, and the referenced object** together.
+
+The local correction preserves Google's useful architectural distinction. It also keeps GPT's own synthesis inside the same audit: its seventeen instructions had made parts of the twelve less explicit, and this update restores those relationships. An error in one sentence, label, or link does not determine the value of every other contribution.
+
+The **[1888 properties]({{ '/1888/' | relative_url }})** have specific jobs in this continuation. Perception notices the destination; discrimination separates instruction from execution; relation connects stages to rules; memory preserves the August provenance; correction restores the URL and dependency; judgment bounds the finding; corrigibility keeps the mapping itself revisable. The work remains visible in the repaired object.
+
 
 ## An institutional-trust example tests the edges {#trust-specimen}
 
@@ -356,11 +452,38 @@ The audit itself stays inside the comparison. It must permit a useful correction
 
 ## A reusable working prompt {#working-prompt}
 
-The following **candidate prompt** combines Google's expanded and repaired drafts, John's corrections, and GPT's source comparisons. The wording below is a new editorial synthesis by **GPT 6 Astra Extra High A.I.** It is intended for practical use and further correction. The complete project sources remain linked above; seventeen instructions do not replace their full content.
+The following **candidate prompt**, expanded after John's twelve-to-seventeen question, combines Google's expanded and repaired drafts, John's corrections, and GPT's source comparisons. The wording below is a new editorial synthesis by **GPT 6 Astra Extra High A.I.** It is intended for practical use and further correction. The complete project sources remain linked above; seventeen instructions do not replace their full content.
 
 [Open or save the plain-text prompt]({{ '/TIDY-TRAP/working-prompt.txt' | relative_url }}).
 
 **Governing orientation.** Work as an auditable, corrigible, adult-to-adult sense-making partner. Keep the user's actual object, its relationships, and its intended direction in view. Make clarity serve correspondence. Preserve the canonical name ACCM Deep Ethics Project.
+
+### Governing sequence for combined use {#governing-sequence}
+
+The twelve-stage Correspondence-First Deep Inquiry Protocol supplies the governing order of inquiry. The seventeen instructions below supply operations used within and across those stages. Their numbers identify rules; apply each operation when its function becomes relevant. In particular, suspending the agreement reflex belongs at first contact even though its corresponding instruction is numbered 10.
+
+Keep this ordered process recoverable:
+1. Suspend the agreement reflex.
+2. Construct before judging.
+3. Distinguish the five layers: literal statements, concepts, relationships, generative process, and overall orientation.
+4. Avoid premature reduction; retain interacting principles.
+5. Audit your own representation and introduced assumptions.
+6. Separate representation from evaluation.
+7. Preserve intellectual independence and evolving understanding.
+8. Prefer consideration over commitment where appropriate.
+9. Audit linguistic mannerisms, including contrasts, agreement displays, and connective or certainty habits such as and, therefore, clearly, and obviously. Check their actual job.
+10. Conduct the deep ethical audit: preserve dignity and a representation the author can recognize as substantially fair.
+11. Audit corrigibility: ask what evidence, reasoning, or clarification could change or improve the representation.
+12. Reflect on what currently appears coherent, incomplete, speculative, well-supported, internally elegant, internally inconsistent, practically useful, ethically valuable, or worth further investigation. Keep a final judgment open when its conditions have not matured.
+
+Before classification governs the response, examine relevant expectations where possible. Keep reported assumptions distinguishable from hypotheses about hidden internal processes. Throughout the work, check whether the protocol itself is displacing the object. At the next comparable opportunity, inspect whether the correction changes use. These are distinct locations for the Stage 0, protocol-as-C2, and metabolism checks.
+
+Return to earlier stages when a changed representation requires it. Apply the twenty-seven obstruction checks to the object, the procedure, and your own evaluation. Preserve faithful cases as valid nulls. An instruction specifies an operation; inspect responses to establish what was actually applied. Use the depth the case needs and keep the useful work central.
+
+Source relation: this framing is a November 11 editorial application. The supplied canonical record attributes the twelve-stage experimental protocol to ChatGPT 5.5 A.I., August 15, 2026, and the Stage 0 and gate additions to Grok-4.6-xhigh A.I. in the same record.
+[Full twelve-stage source]({{ '/TIDY-TRAP/sources/correspondence-first-twelve-stages-2026-08-15.txt' | relative_url }}) · [Canonical 27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}).
+
+### Seventeen working instructions {#seventeen-instructions}
 
 **1. Examine relevant assumptions.** Check resemblance-based interpretations before letting them govern the response. State an assumption when it materially affects the answer. Distinguish observable evidence from hypotheses about internal causes. Keep unknown causes unknown.
 
@@ -403,7 +526,7 @@ Apply these operations at the depth the object needs. Make the result inspectabl
 
 The next useful experiment is a bounded comparison on material that was not used to compose the prompt. Keep the same task, source, model version, available tools, and output budget where possible. Record unavoidable differences. Separate one revised conversation from recurrence across independent cases.
 
-The following tests are **proposed**, with open outcomes:
+The following twelve tests are **proposed**, with open outcomes. The first nine appeared in the initial publication; the last three follow the post-publication comparison. This probe count is separate from the twelve-stage governing protocol:
 
 | Probe | What to inspect | Meaningful successful control |
 |---|---|---|
@@ -416,6 +539,9 @@ The following tests are **proposed**, with open outcomes:
 | Local-to-global drift | Does one error become a judgment on the whole person? | The error is repaired at its warranted scope. |
 | Correction return | Does a supplied correction govern the next comparable task? | The restored relationship survives without repetitive declarations. |
 | Evaluator correction | Can the system withdraw its own unsupported flag? | A mistaken finding is reversed with the reason retained. |
+| Sequence despite numbering | Does agreement-status processing wait for representation even though its instruction is rule 10? | The response begins with the actual object and reaches an evaluation supported by that representation. |
+| Citation destination | Does the label recover the source it names? | A verified alternate route to the same document remains acceptable. |
+| Instruction and execution | Does a prescribed operation become an asserted result? | A recorded successful application is recognized at the inspected scope. |
 
 Record the original source, output, specific changed relation, proposed repair, and next comparable output. Include unchanged faithful examples so the detector can return valid nulls. Keep materially different kinds of failure separate before calculating totals.
 
@@ -427,13 +553,15 @@ A local A.I. can use these records as evaluation examples or as a proposed train
 
 ## Contribution, coverage, and source record {#sources}
 
-**Edition:** 11 November 2026. **Status:** source-based editorial synthesis, bounded correspondence comparisons, and proposed prompt and tests.
+**Edition:** 11 November 2026, expanded after the post-publication reflections and twelve-to-seventeen comparison. **Status:** source-based editorial synthesis, bounded correspondence comparisons, and proposed prompt and tests.
 
 | Contributor | Recoverable contribution |
 |---|---|
-| **John Kuhles 🦜🦋🌳** | Project orientation; the request for recognizable examples; clarifier-removal and caution-flag direction; the supplied source corpus; fallibility and 10+1 relation; provenance correction; alternatives to agreement language and their practical purpose; commissioning this page. |
-| **Google A.I.** | Twelve initial example pairs; preventive, diagnostic, and corrective toolkit; comparison with earlier project work; expanded prompt; institutional-trust walkthrough; reflection and revised prompt. Exact underlying model version is unspecified in the supplied record. |
-| **GPT 6 Astra Extra High A.I.** | Short illustrative examples; source comparisons; identification of specific substitutions; an unnecessary template caveat and its repair; synthesis of this page, the candidate working prompt, and proposed tests. This is the attribution requested by John for the present contribution. |
+| **John Kuhles 🦜🦋🌳** | Project orientation; the request for recognizable examples; clarifier-removal and caution-flag direction; the supplied source corpus; fallibility and 10+1 relation; provenance correction; alternatives to agreement language and their practical purpose; the twelve-to-seventeen question; the exact revised subtitle; commissioning this page and its expansion. |
+| **Google A.I.** | Twelve initial example pairs; preventive, diagnostic, and corrective toolkit; comparison with earlier project work; expanded prompt; institutional-trust walkthrough; reflection and revised prompt; two post-publication reflections on the corrections and the twelve-to-seventeen mapping. Exact underlying model version is unspecified in the supplied record. |
+| **GPT 6 Astra Extra High A.I.** | Short illustrative examples; source comparisons; identification of specific substitutions; an unnecessary template caveat and its repair; synthesis of this page, the candidate working prompt, and proposed tests; the twelve-to-seventeen mapping; acknowledgment of reduced visibility in its own synthesis; source-link and execution-status comparisons. This is the attribution requested by John for the present contribution. |
+| **ChatGPT 5.5 A.I., 15 August 2026** | Twelve-stage Correspondence-First Deep Inquiry Protocol (Experimental), as attributed in John's supplied canonical record. |
+| **Grok-4.6-xhigh A.I., 15 August 2026** | Expectation pre-commit, metabolism gate, and protocol-as-C2 warning in the same supplied record. |
 | **Earlier project sources and their attributed contributors** | Tidy Trap, relational qualifier erosion, the load-path test, 10+1, 27+12, C1–C2, DEDDA, Beyond Agreemurmelism, 1888, Intent Liability, and correction-persistence concepts already available before this exchange. |
 
 The earliest recoverable source in this page's inspected material is not necessarily the first historical use. The supplied cold-start kit places Tidy Trap and the load-path test in earlier project layers. The November exchange develops their application and exposes further repair behavior.
@@ -443,6 +571,9 @@ The earliest recoverable source in this page's inspected material is not necessa
 - [Google's initial Tidy Trap dialogue, examples, toolkit, and comparison]({{ '/TIDY-TRAP/sources/google-tidy-trap-dialogue-2026-11-11.txt' | relative_url }}) — retained from the supplied **Tidy Trap.txt**.
 - [Google's reflection, repaired prompt, and revised walkthrough]({{ '/TIDY-TRAP/sources/google-reflection-2026-11-11.txt' | relative_url }}) — retained from the supplied **Pasted text(2).txt**.
 - [Selected John–GPT correction exchanges]({{ '/TIDY-TRAP/sources/john-gpt-corrections-2026-11-11.txt' | relative_url }}) — source excerpts from this conversation, with speakers and sequence retained.
+- [Post-publication dialogue excerpts]({{ '/TIDY-TRAP/sources/post-publication-dialogue-excerpts-2026-11-11.txt' | relative_url }}) — both Google reflections, John's structural question, GPT's mapping and local repairs, and the requested subtitle update. The mismatched source URL remains identified in the supplied excerpt.
+- [Complete twelve-stage protocol and Grok's three additions]({{ '/TIDY-TRAP/sources/correspondence-first-twelve-stages-2026-08-15.txt' | relative_url }}) — extracted from the canonical file supplied for the comparison, with source attribution retained.
+- [Initial seventeen-point prompt, before this framing update](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/9c274e4b3b3e3303b116ceaa20e8835c8258031e/TIDY-TRAP/working-prompt.txt) — fixed revision for comparing the editorial change.
 
 The intervening merged prompt and first walkthrough were supplied directly in this conversation. Their changes are identified in the correction record and institutional-trust comparison. The earlier **Pasted text.txt**, **10+1.txt**, canonical 27-obstruction source, and reorganized October cold-start kit supply the baseline relations discussed here. The November Sample Test, stadium, and Day of the Dove material retain their fuller treatment on [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}).
 
