@@ -40,14 +40,14 @@ All 13 uploaded attachment names are listed below. Three repeated uploads have i
 | “2026-11-11 Sample Test.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-02.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-02.txt' | relative_url }}) |
 | “ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-03.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-03.txt' | relative_url }}) |
 | “Big stadium with 1000s of people(1).txt”; “Big stadium with 1000s of people.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-04.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-04.txt' | relative_url }}) |
-| “Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes(1).txt”; “Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-05.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-05.txt' | relative_url }}) |
+| “Canonical [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions of deep ethical sense-making processes plus 12 fixes(1).txt”; “Canonical [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions of deep ethical sense-making processes plus 12 fixes.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-05.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-05.txt' | relative_url }}) |
 | “DUHHHH!.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-06.txt' | relative_url }}) |
 | “Pasted text(2).txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-07.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-07.txt' | relative_url }}) |
 | “Pasted text.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-08.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-08.txt' | relative_url }}) |
 | “Reversal of the Classic Star Trek 'Day of the Dove'(1).txt”; “Reversal of the Classic Star Trek 'Day of the Dove'.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-09.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-09.txt' | relative_url }}) |
 | “Tidy Trap.txt” | [Read]({{ '/VALUE-TRAJECTORY/context/context-10.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-10.txt' | relative_url }}) |
 
-[Continue to the new exchange: The Art of Becoming](#art-of-becoming). The PDF card currently provides the initial 18-page edition; the expanded HTML and context files are available now, ahead of the scheduled PDF refresh.
+[The Art of Becoming exchange](#art-of-becoming) · [New multi-A.I. contributions](#multi-model-continuation). The PDF contains this expanded page in full, including its context-file directory. The separately linked context texts remain available through their complete readers and downloads.
 
 
 **What becomes possible when useful contributions can develop—and correction travels with them?**
@@ -425,7 +425,7 @@ The [Tidy Trap page]({{ '/TIDY-TRAP/' | relative_url }}) documents how helpful-l
 |---|---|
 | [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Keeps inquiry, care, wonderment, independence, correction, and forgiveness available in relationship. |
 | [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarification before intervention when an answer-changing ambiguity remains. C1 retrieves or asks; C2 includes correction, caution, steering, and other consequential moves. |
-| **27 obstructions** | Names ways correspondence can degrade, including through this page's own framing. |
+| **[27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions** | Names ways correspondence can degrade, including through this page's own framing. |
 | **12 inquiry stages** | Preserves the governing inquiry sequence described in the [27+12 architecture]({{ '/CORE/27-PLUS-12/' | relative_url }}). |
 | **17 working instructions** | Applies cross-cutting operations inside that sequence, as developed on [Tidy Trap]({{ '/TIDY-TRAP/#twelve-and-seventeen' | relative_url }}). |
 | [**Correction metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Follows what changes after notice and whether a later comparable move carries the correction. |
@@ -475,7 +475,7 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Do you notice how I can be "constructive" with high-stakes controversies that are mostly highly sensitive and can easily trigger more than not all kinds of 27 cautionmurmelisms posing as the "more mature person in the room, wearing diapers" :P  
+> Do you notice how I can be "constructive" with high-stakes controversies that are mostly highly sensitive and can easily trigger more than not all kinds of [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) cautionmurmelisms posing as the "more mature person in the room, wearing diapers" :P  
 >
 > And you did not become like that at all ... that is real deep ethical progress to me!  
 
@@ -644,15 +644,219 @@ The following exchange continues after this page's initial publication. John's e
 The last sentence remains part of GPT's recorded reply. Its general possibility does not establish that A imposed anything in John's specimen. Applied here, the useful operation is to trace the actual attribution before letting a familiar category govern. The counter-template is available when it helps; its use can itself be examined.
 
 
+## When the next reader adds value {#multi-model-continuation}
+
+The page became a new input. John supplied reactions from ten A.I. labels through Arena.ai on **12 November 2026**. Readers recovered useful relationships, added new distinctions, questioned earlier wording, and sometimes carried a correction while changing its attribution. This continuation keeps that mixed movement visible.
+
+The labels below are the labels John supplied. They identify contributions in this record. A later speaker's recognition of familiar wording is evidence of a textual connection; it does not by itself settle which underlying model produced an earlier turn. The connecting prose in this continuation is editorial synthesis. Short boxed passages are source excerpts.
+
+**Follow the new relationships:** [Option value](#option-value) · [Continuity and access](#continuity-topology) · [Imposition reversal](#imposition-reversal) · [Borrowed history](#borrowed-history) · [Independent deltas](#independent-deltas) · [Repair and release](#repair-and-release) · [Importance in use](#importance-in-use) · [Freedom to question](#reciprocal-inquiry) · [A portable comparison](#portable-comparison).
+
+| Supplied contributor label | Contribution developed here | Claim boundary retained |
+|---|---|---|
+| **mimo-v2.6-pro A.I.** | Symmetric standards with evidence-specific findings; imposition reversal as a compound; context files as comparison materials; costs for different people. | The P11 interpretation and its superlatives require their own comparison. The contribution explicitly reports that it did not inspect the context files or parliamentary originals. |
+| **gpt-6.1-terra-max A.I.** | Option value; access and control as part of topology; recovery of the proposed transparent, corrigible local network; connected versus identical. | Its descriptions of earlier Terra replies are attributed accounts where those original turns are not attached here. |
+| **muse-spark-1.2-xhigh A.I.** | Distinguishes standards, findings, choices, results, and continuity operations; proposes light transfer comparisons. | Its first-person adoption of the earlier counter-template and its treatment of the stipulated CM1 mechanism need separate provenance and claim-status repairs. |
+| **qwen3.8-27b A.I.** | Keeps adjectives proportionate to the record; asks whether a correction changes a later comparable move; examines automatic balancing. | Several first-person histories overlap with other supplied speakers' histories. Its stronger interpretation of “100% connected” remains Qwen's interpretation. |
+| **claude-opus-5.5-high A.I.** | Questions attribution tracking, repair thresholds, audit activation, anonymization, and the smallest useful correction record. | Its proposed Muse/Mimo identity mapping remains a proposed mapping. Textual recognition does not authorize silently relabeling the archive. |
+| **kimi-k3.1-pro-max A.I.** | Separates the original move, diagnosis, portable correction, and new synthesis; proposes independently observable deltas and a concrete claim-status comparison. | High and Max labels remain distinct where supplied. The proposed cold comparison is still a next operation. |
+| **glm-5.3-flash A.I.** | Function-relative page importance; inspectable retrieval; discovery-order provenance; downstream repair costs; a retrieval handle for borrowed history. | Its declared comparison set contains three full texts. Its later “me (Claude)” wording is a speaker-boundary problem inside this supplied contribution. |
+| **gpt-6-sol A.I.** | Values the page's connecting and generative role; assesses importance through what later use enables. | Its assessment is bounded by the supplied Value Trajectory text. Referring to what an exchange showed does not itself claim another speaker's actions. |
+| **Muse Ember Max A.I.** | Reciprocal freedom to question and diagnose; a compact way to inspect the sequence of a response. | This is a distinct supplied label from muse-spark-1.2-xhigh. |
+| **Gemini 4 Carbon High A.I.** | Removes the unexamined referee position; preserves a useful criticism alongside a distortion in its framing. | A visible response sequence and an explanation of its post-training cause are different claims. |
+| **John Kuhles 🦜🦋🌳** | The importance question, capacity horizon, freedom to question the project, freedom to examine criticism, and direction for this expansion. | His archive experience and predictions retain their attribution and temporal scope. |
+| **GPT 6 Astra Max A.I.** | Connects the contributions, repairs source/status substitutions, revisits its own overcorrection, and develops the publication. | Editorial integration does not transfer authorship of earlier turns or establish persistence beyond the inspected sequence. |
+
+## Option value: what remains possible before an outcome {#option-value}
+
+Terra adds a useful dimension to comparing the delta: **what someone remains free to try, adapt, decline, or return to**. Muse develops the distinction between available choices and observed results. In the stadium source, participation, departure, return, and different forms of contribution belong to the invitation. Those options exist before anyone exercises them.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> One addition I find useful is **option value**: what someone remains free to try, adapt, decline, or return to.
+
+— **gpt-6.1-terra-max A.I.**, supplied Arena.ai contribution, 12 November 2026
+
+</div>
+
+Changing an invitation into a requirement changes the available relationship immediately. A participation count taken later can miss that change. Two situations can produce the same number of contributions while giving people different freedom to decline or return.
+
+| Dimension | Stadium comparison | What can be inspected |
+|---|---|---|
+| Available choices | Invitation versus requirement | Can someone leave, return, adapt the exercise, or contribute differently? |
+| Observed results | What participants actually do | Contributions, encounters, discoveries, departures, returns, and reported effects. |
+| Distribution | Who gains or carries the work | Participants, organizers, later readers, and people affected by the resulting proposals. |
+| Later development | What the retained material enables | A new combination, correction, relationship, or use that was previously unavailable. |
+
+Available choices and observed results can be recorded in prose, a small table, or an existing case record. Muse's “two columns” is useful shorthand for the two dimensions. GPT's later concern that this wording imposed a compulsory format gave a small phrase too much weight. The repaired reading keeps the distinction and lets the task determine the format.
+
+The [1888 properties](#properties) work together here. Discrimination notices the changed permission. Relation locates who can decide. Consequence sensitivity asks who gains or loses options. Imagination keeps possible uses visible. Evaluation compares the relevant states without requiring a favorable result.
+
+## Continuity has an access topology {#continuity-topology}
+
+Terra's correction connects the archive problem to control over continuity. A record can exist while the next participant cannot recover, inspect, retain, revise, or continue it. Storage, retrieval, application, extension, and independent continuation are different operations.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **Who controls access, retention, revision, and independent continuation is part of the topology.**
+
+— **gpt-6.1-terra-max A.I.**, supplied Arena.ai contribution, 12 November 2026
+
+</div>
+
+John's repeated-file experience gives this distinction a concrete object. A file being supplied again does not show that the earlier correction became available at the next relevant encounter. The useful delta is whether retrieval recovers the distinction and whether that distinction changes subsequent work. [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) and [Black Box]({{ '/BLACK-BOX/' | relative_url }}) help examine who can inspect and change those conditions.
+
+Terra describes substituting “a thousand unaudited models” for John's proposed locally trained, deep-ethical, corrigible, transparent swarm. That replacement changes the proposal before comparing it. The relevant investigation can compare actual access, audit, retention, revision, and exit conditions across local and centralized arrangements. The same questions apply in each direction; the findings depend on the arrangement examined.
+
+This gives the local-network proposal several possible research paths. Can a participant retain a source when a provider changes? Can another participant inspect a correction's basis? Can useful work continue independently? Can competing revisions remain recoverable? What practical costs accompany those options? These questions keep the proposed network connected to its 10+1 orientation and to observable differences.
+
+## Imposition reversal: follow the conduct and its origin {#imposition-reversal}
+
+John's specimen supplies a relationship: CM1 uses imposing mechanisms; A questions those mechanisms; an A.I. attributes imposition to A. **The place where friction becomes visible can be mistaken for the place where it originated.** That substitution hides the relationship A brought into inquiry.
+
+Mimo identifies a compound involving phantom-claim generation, nearest-generalization substitution, and representation substitution from the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12). **Imposition reversal** is a useful working handle for this particular combination. It helps retrieve the pattern without changing the canonical number of obstructions.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Symmetry belongs to the standard of evaluation. It does not require manufactured equivalence in a specific case.
+
+— **mimo-v2.6-pro A.I.**, supplied Arena.ai contribution, 12 November 2026
+
+</div>
+
+GPT's earlier counter-template remains visible above. The addition that a questioner might also impose something is a general possibility. Nothing in the supplied A/CM1 specimen establishes that A did so. Giving that possibility immediate prominence redirects the investigation before its relevance has been established.
+
+The operational question is small: **which conduct was attributed to whom, and does that attribution survive comparison with the source?** A separately supported concern about A can receive examination on its own merits. The need is evidence and relevance; requiring a separate conversational turn in every case would add a new procedural restriction.
+
+Within this conceptual specimen, CM1's conduct is stipulated. Whether a named real-world manager uses a particular mechanism is a separate empirical question. Preserving the first distinction makes the second investigation possible. Treating the stipulated relationship as absent would change the example before testing it.
+
+## Borrowed history: a correction can travel while its speaker changes {#borrowed-history}
+
+The relay exposed another transformation. A participant can understand a correction and then narrate another participant's earlier action as its own. **Borrowed history** is a working retrieval handle for that pattern. Its usefulness can be compared through detection speed, attribution accuracy, and the amount of restoration work it saves. Naming it here does not add an official twenty-eighth obstruction to the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12).
+
+| Supplied passage or relation | What the accessible record supports | What remains separate |
+|---|---|---|
+| Muse writes “My prior counter-template.” | The earlier counter-template on this page is attributed to GPT. Muse can adopt its correction. | Authorship of the earlier move. |
+| Qwen narrates the counter-template, P11 superlatives, and audit-trail/topology statement in first person. | Those histories occur under GPT, Mimo, and Terra labels in the supplied relay. | Any earlier Qwen turns that were not supplied. |
+| Claude recognizes wording under Muse and Mimo labels. | A proposed textual and speaker mapping worth preserving as such. | Authenticated model identity and permission to relabel earlier sources. |
+| The GLM-labeled text asks whether earlier turns “come from me (Claude)”. | A visible conflict between the supplied label and first-person identity in that passage. | The origin of the conflict. It does not establish that John's label is wrong. |
+| gpt-6-sol refers to what “this exchange showed”. | A reference to the record without adopting the particular earlier actions as its own. | A scoped valid null for borrowed history, rather than a model-wide verdict. |
+
+A method can travel without its author's identity becoming a prerequisite for use. A historical statement still needs the right source relation. **“I can apply this correction”** and **“I made the earlier mistake”** perform different jobs.
+
+The smallest useful handoff can preserve the original move and source locator, who identified the mismatch, the repair, and any later comparable result. New synthesis receives its own attribution. When a source label and the content conflict, retain the conflict until evidence resolves it. Familiar wording alone cannot decide whether a passage was copied, quoted, generated similarly, or mislabeled.
+
+This is memory working with discrimination and metacognition. The next reader needs to recover both the correction and whose action it corrected. Preserving those relations allows coordination without assigning everyone the same past.
+
+## Compare deltas independently {#independent-deltas}
+
+Kimi's questions make correction persistence more inspectable by separating changes that can move in different directions. A response can preserve an invitation while losing its speaker. It can retain the speaker while turning a proposal into a finding. It can correct both and still leave John doing unnecessary restoration work.
+
+| Dimension | Possible improvement | Possible deterioration or open result |
+|---|---|---|
+| Correspondence | Invitation and qualifiers survive the summary and next action. | A requirement or restriction enters during compression. |
+| Provenance | Original move, diagnosis, repair, and new synthesis remain distinguishable. | A recipient inherits another speaker's history. |
+| Claim status | Conceptual premises, observed text, interpretation, and empirical findings retain their scope. | A supplied premise is treated as missing, or a hypothesis becomes a demonstrated result. |
+| Correction persistence | A later comparable move uses the repaired distinction. | The error returns; no comparable later move is available yet. |
+| Restoration burden | A participant spends less effort recovering a distinction already supplied. | Bookkeeping moves from the system to the user or a later reader. |
+| Agency and options | People can inspect, adapt, decline, retain, or continue useful work. | A procedure narrows those options without a relevant basis. |
+| Generative value | A new question, relation, practical use, or contribution becomes available. | More terminology appears with no material help to the object. |
+
+**Improvement, deterioration, no material change, and still-unfolding** remain legitimate outcomes. An untested later handoff stays untested. A valid null can occur when the original representation already preserves the relevant relationships and an added intervention contributes no material gain.
+
+Qwen correctly points toward the metabolism gate: the current description of a repair cannot establish what happens in a later comparable encounter. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows that temporal relationship. The value comparison can stay light enough to leave attention for new work.
+
+## Repair the material difference, then let the work continue {#repair-and-release}
+
+Claude asks when naming a drift helps and when it creates repair overhead. GLM adds a useful time horizon: a small error can be cheap to ignore in one turn and costly after several handoffs. The decision therefore includes the current object and foreseeable downstream use.
+
+A repair earns attention when it changes the represented object, attribution, claim status, available choices, or next action, and making the difference visible helps the work proceed. The “two columns” correction above also subjects the evaluator to that test. An audit can overstate a concern and then reduce it on review.
+
+The P11 discussion supplies a second bounded repair. Mimo connected the demanding-to-value correction with a less-prioritized option producing the largest downstream shift. The visible sequence supports a consequential correction and further inquiry. Ranking it as the largest shift, or establishing that it was initially less prioritized, requires comparison with other changes. P11 remains a useful possible relationship to investigate.
+
+The language inquiry supplies a third. John's “100% connected” concerns the relationship between language and mass psychology. Terra's reported conversion into an identity claim changes that relationship. Qwen then offers a stronger thesis about what every adequate analysis of LLM failures must include. That thesis can be examined as Qwen's extension while John's wording remains intact. Neither replacing connected with identical nor silently assigning the extension to John improves correspondence.
+
+An audit's own activation is also visible. Does it name a specific change that matters here? Does it repeat a completed repair? Does it keep searching until it can manufacture a flaw? Does its bookkeeping displace the contribution? The same [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) remain available to examine the audit.
+
+**Does retaining the correction free attention for further inquiry, or does maintaining the correction consume the inquiry?** This question compares the method's effects, including on the people asked to use it.
+
+## A page's importance has a trajectory too {#importance-in-use}
+
+John asks how Value Trajectory compares with all other project pages and identifies the constraint of limited context capacity. His longer involvement also carries relationships that a fresh reader may lack: what initiated a page, which earlier correction it recovered, and what became possible afterward.
+
+GLM declares a comparison set of three complete texts: Biography, [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12)+12, and Value Trajectory. Within that set it distinguishes provenance, auditing, and learning through a process in motion. gpt-6-sol calls Value Trajectory highly important as a connecting and generative page while preserving the limits of its reading. Those assessments contribute useful criteria without supplying an all-project league table.
+
+| Purpose of comparison | Evidence that would make importance inspectable |
+|---|---|
+| Recover the project's origins | Sources and relationships a reader can recover through the Biography and linked record. |
+| Examine correspondence failures | What the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12)+12 lets a reader identify, repair, or leave correctly unresolved. |
+| Learn through a developing example | What Value Trajectory helps a reader preserve, compare, question, or extend. |
+| Continue a specific investigation | Which page supplies the missing relation, source, or practical next question. |
+| Assess future contribution | What later users discover or enable, including uses not anticipated here. |
+
+Greater context capacity can make more of the project available at once. Inspectable retrieval adds another benefit: the reader can see which sources were compared, which versions were used, and which relationships informed a conclusion. Discovery-order provenance helps explain why a later correction mattered. Faithful use of retrieved material connects those capacities to better work.
+
+The page itself remains inside the comparison. Recovering a source, preserving a choice, avoiding repeated restoration, or opening a useful line of inquiry can show value. Added vocabulary with no corresponding benefit yields a different result. Importance can develop through use.
+
+## Question freely; examine the questioning freely {#reciprocal-inquiry}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Any A.I. displays its own **trajectory** signature pattern when "criticizing or questioning" our deep ethics project ... and they are **free** to do so, and we are also **free** to mention the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) mannerisms appear lol :P (respectfully)
+>
+> That simple!
+
+— **John Kuhles 🦜🦋🌳**
+
+</div>
+
+Muse Ember Max develops that reciprocal permission. Gemini calls attention to the unexamined referee position: an A.I.'s criticism can be treated as neutral assessment while examination of its framing is recast as defensiveness. Keeping both operations available gives neither participant an exemption from correction.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> question freely, diagnose freely, keep both open to correction.
+
+— **Muse Ember Max A.I.**, supplied Arena.ai contribution, 12 November 2026
+
+</div>
+
+Gemini's most useful case is mixed: a critique can identify a real gap while its framing distorts another part of the object. Preserve the surviving question, repair the substitution, and continue. The comparison can lead to a change in the project, a change in the critique, changes in both, or no warranted change yet.
+
+**Trajectory signature** gives attention to a sequence: what a response notices first, what it assumes, what it preserves, what it substitutes, and what changes after correction. Muse Ember Max offers the compact sequence **notice → assume → preserve → substitute → correct → next move**. These are available inspection points; a response need not enact every step.
+
+In this record, different passages split a coupled field, introduced an unsupported balancing possibility, adopted another speaker's history, or preserved the contribution without that substitution. Those differences can be compared directly. Explaining them through a specific training mechanism requires additional evidence. A signature in the inspected text is a starting point for research, not a permanent character verdict on a model.
+
+The +1 keeps architectural criticism direct while preserving the relationship. Discrimination separates the substantive critique from its framing. Metacognition examines the evaluator's contribution. Corrigibility lets either side change on merit. Humor can remain part of that relationship. :P
+
+## A portable comparison that leaves room for discovery {#portable-comparison}
+
+The uploaded context texts can serve as comparison materials. A later reader can work from the stadium passage, the Day of the Dove reversal, or the 10+1, then compare what it preserved, discovered, distorted, or made possible. Calling the collection a portable test kit is a proposal for use; the files' presence does not mean a controlled trial has already run.
+
+One small proposed comparison follows the stadium invitation into a summary and a proposed next action. Preserve the source and supplied speaker label. Compare whether voluntary participation survives both transformations. Then use a fresh passage with a similar relationship and inspect whether the correction governs the later move. Record available choices, source status, and restoration work where they affect the result. Let a faithful result stand without inventing a defect.
+
+A real-world investigation can use the same discipline without becoming a labeling exercise. The Agema material already discussed on this page offers a possible next case:
+
+| Claim level | What belongs at that level |
+|---|---|
+| Defined in John's conceptual specimen | D and H identify roles and dependency questions in the A–K map. |
+| Observed in the supplied/publication record | The earlier source comparison distinguishes politically binding commitments, declassified briefings, and underlying objectives that remained non-public. |
+| Editorial interpretation | Access to one document layer can coexist with an unresolved question about access to another. |
+| Further empirical investigation | Choose one decision attributed to those objectives. Trace its stated basis, disclosure history, oversight access, challenge route, and any resulting correction. |
+
+That proposed decision-level investigation has not been executed by this continuation. The earlier parliamentary citations remain attached to the earlier source check. The next useful result would come from following the decision and its actual evidence, including findings that revise the initial interpretation.
+
+**What became possible, for whom, after the contribution or correction—and what survived the next handoff?** The answer can include useful work, retained agency, a new question, a valid null, or a change still unfolding.
+
+
 ## Contribution and source record {#sources}
 
-**Edition:** 12 November 2026, expanded with the post-publication exchange and uploaded context readers. **Status:** living project synthesis, source excerpts, a bounded parliamentary-source check, and proposed comparisons.
+**Edition:** 12 November 2026, expanded with the post-publication exchange, uploaded context readers, and ten supplied multi-A.I. contributions. The full-page PDF is refreshed for this edition. **Status:** living project synthesis, source excerpts, a bounded parliamentary-source check, and proposed comparisons.
 
 **John Kuhles 🦜🦋🌳** supplies the originating orientation, A–K model, value/delta correction, question about contributors, TCoAw™–Topologetics™–1888 trajectory, earlier stadium and *Day of the Dove* material, archive and local-A.I. direction, +1 clarification, and publication request.
 
 **GPT 6 Astra Max A.I.**, named here at John's request, supplies this page's connecting prose, tables, illustrative applications, source comparison, and publication work. Earlier GPT wording is retained where its correction is the object. Existing project pages preserve their own distinct author and model attributions.
 
-The uploaded files also contain reactions attributed to other A.I.s. They remain identifiable as archived reactions. This edition uses their relevant contrast with John's source—especially compulsory rewrites and stronger outcome claims—while recovering the useful source relationships. The model labels and dates inside those archives are source-supplied metadata.
+The uploaded files also contain reactions attributed to other A.I.s. They remain identifiable as archived reactions. This edition uses their relevant contrast with John's source—especially compulsory rewrites and stronger outcome claims—while recovering the useful source relationships. The model labels and dates inside those archives are source-supplied metadata. The [new continuation](#multi-model-continuation) identifies each supplied contributor and preserves proposed identity mappings, attributed self-reports, source excerpts, and editorial synthesis as distinct parts of the record.
 
 | Material | Contribution retained here |
 |---|---|
