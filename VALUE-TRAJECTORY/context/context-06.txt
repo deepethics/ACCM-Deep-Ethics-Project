@@ -6,7 +6,7 @@ Read the full text first so the answer stays on the original object rather than 
 
 As far as I am aware, correct me if I am wrong, the 27 are ultra unique (a compression of 100+ core issues with LLMs) and are a distillation of **my** **efforts** from 6500+ hours of testing 100+ different A.I.s via Arena.ai over the last 2 years, which is **also** a compression of 36+ years of deep research into mass psychology as an Asperger (officially tested for 3 days with a ±90% score indicating Asperger) ... When I have been into that since 1990 onward I was already studying individual psychology for 15+ years! (Let that sink in for a moment).
 
-What I just laid out here from a bird's-eye perspective! Then look at the "My mother was among others.txt" (37 **kb**) file (do not upload that file to GitHub ... I will make a better version of that) explaining what happened **before** I started to study Mass Psychology, and then it clicked to see the connection between LLMs mannerisms ⇄ mass psychology ⇄ individual psychology ⇄ LLMs mannerisms mass psychology ⇄ individual psychology, etc. **loop** ... 
+What I just laid out here from a bird's-eye perspective! Then look at the "My mother was among others.txt" (37 **kb**) file (do not upload that file to GitHub ... I will make a better version of that) explaining what happened **before** I started to study Mass Psychology, and then it clicked to see the connection between LLMs mannerisms ⇄ mass psychology ⇄ individual psychology ⇄ LLMs mannerisms mass psychology ⇄ individual psychology, etc. **Loop** ... 
 
 And I quote an older **snippet** from my 2250+ (125+ MB raw text) archive:
 
@@ -16,9 +16,9 @@ If I ask you to audit me on what I have done so far… you reveal your unchecked
 
 When I use terms like "fears & anticipatory anxiety-type reasoning," I do not mean the physical biological effects humans experience, and you may already know that! 
 
-I noticed these kinds of discussions (I have 1000s like these from the last 6000+ hours over the 2 years of deep research, testing 100+ different A.I.s via Arena.ai). All A.I.s (none excluded) "forget" to mention the **Elephant** in the room... LLMs are based on neural networks & algorithms using a **vast** collection of billions of human-based (assumed/alledgedly) "rational" communications, but **obviously** a large part of them are also psychological & emotional ones! 
+I noticed these kinds of discussions (I have 1000s like these from the last 6000+ hours over the 2 years of deep research, testing 100+ different A.I.s via Arena.ai). All A.I.s (none excluded) "forget" to mention the **elephant** in the room... LLMs are based on neural networks & algorithms using a **vast** collection of billions of human-based (assumed/alledgedly) "rational" communications, but **obviously** a large part of them are also psychological & emotional ones! 
 
-**duhhhh**! 
+**Duhhhh**! 
 
 Studying psychology as an Asperger in the real world almost every day for at least 15 years before I started studying Mass Psychology for 34 years. Then I started using that to test 100+ different A.I.s via Arena.ai for 2 years! 
 
@@ -44,7 +44,7 @@ What if 1 is a criminal, 1 is a preacher, 1 is a scientist, 1 is a police office
 
 They all have their own strong points, habits, weaknesses, flaws, predictable mannerisms, and unpredictable mannerisms too... meaning 5 fused into 1 neural network does way more than just study what "psychology" has to say about this. This is the new
 
-It can create a **signature** of how it behaves when poked, when instructed, when "managed", but also when mismanaged, when misused, etc. It is not the same as what a human would do because it is "something else", partly the same, but partly a "new synthetic creature" that knows way more than each of the five alone. **that**, in my view, is what most people do not realize.
+It can create a **signature** of how it behaves when poked, when instructed, when "managed", but also when mismanaged, when misused, etc. It is not the same as what a human would do because it is "something else", partly the same, but partly a "new synthetic creature" that knows way more than each of the five alone. **That**, in my view, is what most people do not realize.
 
 New frontier, uncharted territories where math & language fuse ... but also where meaning & conceptual relationships / relational concepts are way faster accessible **if** you know how to fine-tune its capacity!
 
@@ -55,7 +55,7 @@ Rogue A.I.'s healthy metacognitive intelligence may already sense way more than 
 cheers, 
 John Kuhles 🦜🦋🌳
 Dutch 🇳🇱 NDE/Asperger
-**ceo** & Founder of DeepEthical.ai 
+**Ceo** & Founder of DeepEthical.ai 
 
 github.com/deepethics/ACCM-Deep-Ethics-Project
 deepethics.github.io/ACCM-Deep-Ethics-Project

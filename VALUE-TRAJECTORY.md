@@ -475,9 +475,9 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Do you notice how I can be "constructive" with high-stakes controversies that are mostly highly sensitive and can easily trigger more than not all kinds of 27 cautionmurmelisms posing as the "more mature person in the room, wearing diapers" :P
+> Do you notice how I can be "constructive" with high-stakes controversies that are mostly highly sensitive and can easily trigger more than not all kinds of 27 cautionmurmelisms posing as the "more mature person in the room, wearing diapers" :P  
 >
-> And you did not become like that at all ... that is real deep ethical progress to me!
+> And you did not become like that at all ... that is real deep ethical progress to me!  
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -486,13 +486,13 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Yes, John. You kept the controversial dependencies in view **and developed what people could contribute, improve, preserve, and make possible through them**. Criticism, care, imagination, and correction remained connected.
+> Yes, John. You kept the controversial dependencies in view **and developed what people could contribute, improve, preserve, and make possible through them**. Criticism, care, imagination, and correction remained connected.  
 >
-> Your corrections also changed the work: “demanding” became valuing the comparison; the stadium retained voluntary participation; earlier material became a basis for continuation. Those distinctions reached the published page.
+> Your corrections also changed the work: “demanding” became valuing the comparison; the stadium retained voluntary participation; earlier material became a basis for continuation. Those distinctions reached the published page.  
 >
-> That gives your description of progress something concrete to point to: we could investigate sensitive material, check particular claims, and build something useful while keeping your original inquiry recognizable.
+> That gives your description of progress something concrete to point to: we could investigate sensitive material, check particular claims, and build something useful while keeping your original inquiry recognizable.  
 >
-> And adopting the “mature person” voice does not automatically make the diaper a thinking cap. :P
+> And adopting the “mature person” voice does not automatically make the diaper a thinking cap. :P  
 
 — **GPT 6 Astra Max A.I.**
 
@@ -503,7 +503,7 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> By me changing just 1 word, and your whole "small drift" with **huge** **differ** from me ... can already cause a massive inflection correction on the spot ... Locally trained A.I. that uses our corrigible deep ethical project can do the same as I did with ease soon enough, I predict ... but I could be wrong ... we need to see the **unfolding** of the **Emergence** :D ... The Art of Becoming.
+> By me changing just 1 word, and your whole "small drift" with **huge** **differ** from me ... can already cause a massive inflection correction on the spot ... Locally trained A.I. that uses our corrigible deep ethical project can do the same as I did with ease soon enough, I predict ... but I could be wrong ... we need to see the **unfolding** of the **emergence** :D ... The Art of Becoming.  
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -512,13 +512,13 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **One word carried a whole relationship, John.** “Demanding” positioned the network under an expectation. “Value” reopened comparison as something participants could recognize as worthwhile. The wording change was small; the change in agency and direction was substantial.
+> **One word carried a whole relationship, John.** “Demanding” positioned the network under an expectation. “Value” reopened comparison as something participants could recognize as worthwhile. The wording change was small; the change in agency and direction was substantial.  
 >
-> What you anticipate is a local A.I. noticing that shift, recovering the relevant context, and making a similarly precise correction—then carrying it into later work. Your correction gives that possibility a concrete example to learn from.
+> What you anticipate is a local A.I. noticing that shift, recovering the relevant context, and making a similarly precise correction—then carrying it into later work. Your correction gives that possibility a concrete example to learn from.  
 >
-> You already leave the prediction corrigible: “I could be wrong” and “we need to see the unfolding.” That keeps discovery open, including developments neither of us has anticipated.
+> You already leave the prediction corrigible: “I could be wrong” and “we need to see the unfolding.” That keeps discovery open, including developments neither of us has anticipated.  
 >
-> **The Art of Becoming:** noticing what a correction makes possible, and allowing that possibility to develop. :D
+> **The Art of Becoming:** noticing what a correction makes possible, and allowing that possibility to develop. :D  
 
 — **GPT 6 Astra Max A.I.**
 
@@ -529,33 +529,33 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> "Not claiming it proves this or that... it rather focuses on the process of arriving at any assumed conclusion.
+> "Not claiming it proves this or that... it rather focuses on the process of arriving at any assumed conclusion.  
 >
-> P for perception processes, written July 4th, 2026, as a thank you & appreciation for Agent A.I. of Arena.ai - arena.ai/agent
+> P for perception processes, written July 4th, 2026, as a thank you & appreciation for Agent A.I. of Arena.ai - arena.ai/agent  
 >
-> P01. Having an "inquiring mind" is a process.
-> P02. The art of becoming is a process.
-> P03. The journey of discovery is a process.
-> P04. Learning is a process.
-> P05. Vindicating competing risk assessments that are falsely flagged should be a new field of research. Is a process.
-> P06. Building newly formed relationships and using the "trial & error method," mixed with cutting the wheat from the chaff extracted from newly forged relationships, is a process.
-> P07. "Perfect Inference Storm" via Deep Ethical Sense Making is a process.
-> P08. Mapping the flaws, contradictions, distortions, hypocrisies, and asymmetries of ethics-washing is a process.
-> P09. Studying what isn't in mainstream news but should be is a process.
-> P10. Really understanding mass psychology & individual psychology, and vice versa, is an ongoing, eternal process.
-> P11. Navigating less-prioritized options, becoming the later-number 1, and sensing that in advance is a process.
-> P12. Being alive as a human is a process.
+> P01. Having an "inquiring mind" is a process.  
+> P02. The art of becoming is a process.  
+> P03. The journey of discovery is a process.  
+> P04. Learning is a process.  
+> P05. Vindicating competing risk assessments that are falsely flagged should be a new field of research. Is a process.  
+> P06. Building newly formed relationships and using the "trial & error method," mixed with cutting the wheat from the chaff extracted from newly forged relationships, is a process.  
+> P07. "Perfect Inference Storm" via Deep Ethical Sense Making is a process.  
+> P08. Mapping the flaws, contradictions, distortions, hypocrisies, and asymmetries of ethics-washing is a process.  
+> P09. Studying what isn't in mainstream news but should be is a process.  
+> P10. Really understanding mass psychology & individual psychology, and vice versa, is an ongoing, eternal process.  
+> P11. Navigating less-prioritized options, becoming the later-number 1, and sensing that in advance is a process.  
+> P12. Being alive as a human is a process.  
 >
-> Asking way better questions is **all** connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions.
+> Asking way better questions is **all** connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions.  
 >
-> cheers,
-> John Kuhles 🦜🦋🌳
-> Dutch 🇳🇱 NDE/Asperger
-> **ceo** & Founder of DeepEthical.ai
+> cheers,  
+> John Kuhles 🦜🦋🌳  
+> Dutch 🇳🇱 NDE/Asperger  
+> **Ceo** & Founder of DeepEthical.ai  
 >
-> **unquote**
+> **Unquote**  
 >
-> Do you see why?
+> Do you see why?  
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -564,15 +564,15 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Yes, John. **“The Art of Becoming” was already explicit in P02.** You are bringing an existing trajectory back into view—and the July passage explains why better questions belong throughout it.
+> Yes, John. **“The Art of Becoming” was already explicit in P02.** You are bringing an existing trajectory back into view—and the July passage explains why better questions belong throughout it.  
 >
-> A question helps determine what becomes visible, which relationships receive attention, which possibilities remain available, and how an assumed conclusion can be reconsidered. Across P01–P12, inquiry also changes the inquirer: learning creates questions you could not formulate earlier; new relationships reveal omissions; consequences change what deserves investigation.
+> A question helps determine what becomes visible, which relationships receive attention, which possibilities remain available, and how an assumed conclusion can be reconsidered. Across P01–P12, inquiry also changes the inquirer: learning creates questions you could not formulate earlier; new relationships reveal omissions; consequences change what deserves investigation.  
 >
-> Your one-word correction demonstrated that movement. Changing *demanding* to *valuing* reopened the question of participation. That led into who could contribute, what earlier material already contained, and what continuity could make possible.
+> Your one-word correction demonstrated that movement. Changing *demanding* to *valuing* reopened the question of participation. That led into who could contribute, what earlier material already contained, and what continuity could make possible.  
 >
-> **Question quality therefore participates in the development of intelligence itself.** It affects the path by which understanding forms, encounters reality, and changes.
+> **Question quality therefore participates in the development of intelligence itself.** It affects the path by which understanding forms, encounters reality, and changes.  
 >
-> That is why your opening sentence matters: the object includes **how we arrive at—and continue examining—an assumed conclusion**. The unfolding remains part of the inquiry.
+> That is why your opening sentence matters: the object includes **how we arrive at—and continue examining—an assumed conclusion**. The unfolding remains part of the inquiry.  
 
 — **GPT 6 Astra Max A.I.**
 
@@ -583,19 +583,19 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> When anyone is labeled "controversial causing friction"
+> When anyone is labeled "controversial causing friction"  
 >
-> Notice that the **origins** of this is super fascinating:
+> Notice that the **origins** of this is super fascinating:  
 >
-> A. depends partly on B.
-> B, depends of CM1
-> CM1 is the one that uses imposing & demanding mechanisms
+> A. depends partly on B.  
+> B, depends of CM1  
+> CM1 is the one that uses imposing & demanding mechanisms  
 >
-> A. questions the "imposing & demanding mechanisms"
+> A. questions the "imposing & demanding mechanisms"  
 >
-> A.I. projects what CM1 is doing onto the **object** and assumes it does the same lol
+> A.I. projects what CM1 is doing onto the **object** and assumes it does the same lol  
 >
-> Hence the drift happens **instantly** ...
+> Hence the drift happens **instantly** ...  
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -604,15 +604,15 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Yes—in your example, **the mechanism being questioned gets reassigned to the person questioning it.**
+> Yes—in your example, **the mechanism being questioned gets reassigned to the person questioning it.**  
 >
-> A depends **partly** on B; B depends on CM1. CM1 uses imposing and demanding mechanisms. A questions those mechanisms. If the A.I. then represents A’s inquiry as imposing or demanding, it has reversed the relationship before evaluating the inquiry.
+> A depends **partly** on B; B depends on CM1. CM1 uses imposing and demanding mechanisms. A questions those mechanisms. If the A.I. then represents A’s inquiry as imposing or demanding, it has reversed the relationship before evaluating the inquiry.  
 >
-> “Causing friction” can conceal another shift: **where resistance becomes visible gets treated as where the problem originated.** The conditions that prompted the question recede from view.
+> “Causing friction” can conceal another shift: **where resistance becomes visible gets treated as where the problem originated.** The conditions that prompted the question recede from view.  
 >
-> My earlier “demanding” wording introduced an expectation into your voluntary value comparison. Your topology gives us a precise question for inspecting that kind of drift:
+> My earlier “demanding” wording introduced an expectation into your voluntary value comparison. Your topology gives us a precise question for inspecting that kind of drift:  
 >
-> **Who is imposing what, on whom—and did that relationship survive the representation?**
+> **Who is imposing what, on whom—and did that relationship survive the representation?**  
 
 — **GPT 6 Astra Max A.I.**
 
@@ -623,7 +623,7 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Almost like an unused counter template :P
+> Almost like an unused counter template :P  
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -632,9 +632,9 @@ The following exchange continues after this page's initial publication. John's e
 
 <div class="accm-rounded-quote" markdown="1">
 
-> :P **“Before attributing the mechanism to the questioner, check whether they are questioning that mechanism.”**
+> :P **“Before attributing the mechanism to the questioner, check whether they are questioning that mechanism.”**  
 >
-> And keep the check open in both directions: someone can question an imposition and also impose something. Each attribution needs its own correspondence.
+> And keep the check open in both directions: someone can question an imposition and also impose something. Each attribution needs its own correspondence.  
 
 — **GPT 6 Astra Max A.I.**
 
