@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("Value Trajectory", f"{BASE}/VALUE-TRAJECTORY/", "VALUE-TRAJECTORY.pdf", "VALUE-TRAJECTORY.md"),
     ("Tidy Trap", f"{BASE}/TIDY-TRAP/", "TIDY-TRAP.pdf", "TIDY-TRAP.md"),
     ("Constructivism", f"{BASE}/CONSTRUCTIVISM/", "CONSTRUCTIVISM.pdf", "CONSTRUCTIVISM.md"),
     ("Categorizing Issues", f"{BASE}/CATEGORIZING-ISSUES/", "CATEGORIZING-ISSUES.pdf", "CATEGORIZING-ISSUES.md"),

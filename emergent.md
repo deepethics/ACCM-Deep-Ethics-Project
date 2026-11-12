@@ -14,6 +14,8 @@ date: 2026-10-12
 
 # Emergent
 
+**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** connects emergence to voluntary participation, preserved corrections, and useful work across people and local A.I.s. It recovers the earlier stadium and *Day of the Dove* sources and follows what can develop when their relationships remain available.
+
 ## Which properties are we harnessing—and which ones are we obstructing?
 
 <div class="accm-rounded-quote" markdown="1">

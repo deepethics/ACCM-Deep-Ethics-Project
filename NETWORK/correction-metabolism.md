@@ -30,6 +30,8 @@ An editorial working record can track the source object, initial response, corre
 
 John explicitly says he archives successful correspondence as well as recurring failure patterns, without requiring agreement or disagreement. This gives the inquiry material for examining changes in conditions and response quality.
 
+**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** develops this positive direction across the stadium source, the professional contribution map, locally retained context, and John's A–K relationships. Comparing the delta remains available and voluntary; the record includes what a correction enables next.
+
 ## What useful work becomes possible after correction? {#useful-work-after-correction}
 
 **October 28, 2026 — contribution-focused extension.** The existing success archive and after-effects account below already preserve more than repaired sentences. John's further direction is to spend attention on what is useful and why it matters. A correction can recover a contribution, release time previously spent restoring the same distinction, or make a better question and unfamiliar extension possible.

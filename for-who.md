@@ -13,6 +13,8 @@ permalink: /FOR-WHO/
 
 # Who May Want a Local A.I. Grounded in ACCM Deep Ethics Project Principles?
 
+**[Value Trajectory]({{ '/VALUE-TRAJECTORY/#for-whom' | relative_url }})** follows the reciprocal direction: people across these 34 fields can potentially enrich future tools through situated knowledge, questions, sources, corrections, and creative work. Its examples connect possible contributors to useful differences and those who experience them.
+
 ## Expanded professional and expertise map
 
 The potential field is far larger than “ethics professionals.” Any profession can benefit when its failures arise from **premature framing, hidden assumptions, distorted summaries, asymmetric scrutiny, lost qualifiers, unacknowledged uncertainty, representation substitution, correction failure, or an inability to learn from what happened in the previous comparable case**.

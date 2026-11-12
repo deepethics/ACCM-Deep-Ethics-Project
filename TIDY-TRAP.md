@@ -47,6 +47,8 @@ This page develops the 11 November 2026 exchange between **John Kuhles**, **Goog
 
 **Reading routes:** [Instant examples](#instant-examples) · [Google's examples](#google-examples) · [The caution loop](#caution-loop) · [Load-bearing relationships](#load-path) · [Repairs that drift](#repair-drift) · [Beyond agreement](#contribution) · [10+1](#ten-plus-one) · [Twelve stages and seventeen instructions](#twelve-and-seventeen) · [Sequence and gates](#sequence-and-gates) · [1888 properties](#properties-1888) · [Correction record](#correction-record) · [The reflection as specimen](#reflection-as-specimen) · [Reusable prompt](#working-prompt) · [Proposed tests](#tests).
 
+**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** continues the inquiry through the correction from demanding to recognizing value. It follows what preserved meaning makes possible: voluntary contribution, useful combinations, continuity, and John's complete corrected A–K source.
+
 ## A small change can move the whole inquiry {#instant-examples}
 
 These are **illustrative transformations**, developed from GPT's short examples and the discussion. The right-hand column deliberately changes the left-hand meaning. It is not the project's position.

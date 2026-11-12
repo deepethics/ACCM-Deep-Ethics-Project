@@ -1,11 +1,12 @@
 ACCM Deep Ethics Project — Public Page PDF Export
-Export date: 2026-11-11
-Scope: initial Tidy Trap PDF; 169 existing editions retained unchanged
-Successful PDFs: 170
+Export date: 2026-11-12
+Scope: initial Value Trajectory PDF; 170 existing editions retained unchanged
+Successful PDFs: 171
 Failed PDFs: 0
-Total pages: 2752
-Total PDF bytes: 21787459
+Total pages: 2770
+Total PDF bytes: 21880681
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Full-set refresh cadence: weekly.
+
 
