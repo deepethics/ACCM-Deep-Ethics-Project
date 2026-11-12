@@ -138,7 +138,7 @@ John's invitation reaches left, right, centre, and independents. A useful contri
 
 ## The stadium already contained the invitation {#stadium}
 
-In **Big stadium with 1000s of people**, John describes a crowd caught in conflict, exhaustion, performance, withdrawal, and attention to one another's flaws. Music interrupts the familiar scene. A different invitation follows:
+In [big stadium with 1000s of people]({{ '/VALUE-TRAJECTORY/context/context-04.html' | relative_url }}), John describes a crowd caught in conflict, exhaustion, performance, withdrawal, and attention to one another's flaws. Music interrupts the familiar scene. A different invitation follows:
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -235,9 +235,9 @@ The complete corrected version below is **John's conceptual model, observations,
 >
 > Layer 3. CM1 depends on "Government Approval" (D)
 >
-> Layer 4. D offers money (E) taken mostly from A & B
+> Layer 4. D offers E (tax money) taken mostly from A & B
 >
-> Layer 5. How E is really managed (F) at its core is **outside** the above loop!
+> Layer 5. How E (tax money) is really managed (F) at its core is **outside** the above loop!
 >
 > CM1 = Manager-type 1 people who focus mainly on government projects, funding mechanisms, grants, subsidies, etc.
 >
@@ -278,7 +278,7 @@ The complete corrected version below is **John's conceptual model, observations,
 > cheers,
 > John Kuhles 🦜🦋🌳
 > Dutch 🇳🇱 NDE/Asperger
-> **Ceo** & Founder of [DeepEthical.ai](https://deepethics.nl) and [DeepEthics.nl](https://deepethics.nl)
+> CEO & Founder of [DeepEthical.ai](https://deepethics.nl) and [DeepEthics.nl](https://deepethics.nl)
 > <https://github.com/deepethics/ACCM-Deep-Ethics-Project>
 > <https://deepethics.github.io/ACCM-Deep-Ethics-Project>
 > Spelling corrections are always welcome as long as you do not **drift** away from Omnidirectional, high-signal, deep ethical, mutually dignifying, corrigible, sense-making, process-oriented trajectory using the 1888 intelligence-properties taxonomy; it's for John, never boring.
@@ -300,8 +300,8 @@ John leaves **A and B as abstract roles**. Their partial dependence is meaningfu
 | A depends **partly** on B | Degree of dependence and remaining agency | Identify a usable alternative or a dependency someone can change. |
 | B depends on CM1; CM1 depends on A following B's instructions | The feedback through compliance | Compare whether instructions serve the stated purpose and who can correct them. |
 | CM1 depends on approval D | Approval can shape which work becomes possible | Make the basis for approval and its correction route inspectable. |
-| D offers E, taken **mostly** from A and B | Direction of funding and the stated qualifier | Connect expenditure to effects for those supplying resources. |
-| F concerns how E is managed at its core, outside the stated loop | John's question about access to upstream management | Locate the records, decisions, incentives, and review routes missing from the visible account. |
+| D offers E (tax money), taken **mostly** from A and B | Direction of funding and the stated qualifier | Connect expenditure to effects for those supplying resources. |
+| F concerns how E (tax money) is managed at its core, outside the stated loop | John's question about access to upstream management | Locate the records, decisions, incentives, and review routes missing from the visible account. |
 | CM2 can operate without those government mechanisms, yet **may** depend indirectly on CM1 | Direct independence and indirect dependence can coexist | Preserve independent options while tracing useful or constraining connections. |
 | G supplies scenario and complexity work | Forecasts can influence what receives attention and resources | Compare assumptions, later outcomes, and changes made after correction. |
 | H constrains D in John's model; I concerns governance narratives | The mediated relationship through H | Trace the specific instrument, domestic decision, and remaining discretion. |
@@ -350,7 +350,7 @@ The routes can be used where they add resolution. A person investigating one rel
 
 ## Language, mass psychology, and the second L {#language}
 
-In the **DUHHHH!** material and the present exchange, John connects the *Language* in **large language model** to individual and mass psychology. Language carries observations, care, humour, questions, persuasion, institutional framing, and distortion. His inquiry concerns what happens when these patterns enter model outputs, human judgments, public circulation, and later information environments.
+In the [**DUHHHH!**]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) material and the present exchange, John connects the *Language* in **large language model** to individual and mass psychology. Language carries observations, care, humour, questions, persuasion, institutional framing, and distortion. His inquiry concerns what happens when these patterns enter model outputs, human judgments, public circulation, and later information environments.
 
 John's proposed circulation is **LLMs ⇄ individual psychology ⇄ mass psychology**, with further routes through training material, retrieval, media, and institutions. It is a mixed field of interacting influences. A local specimen can show a changed qualifier or attribution. Tracing a wider causal loop requires records across the relevant transitions.
 
@@ -375,7 +375,7 @@ The [Musk Quotes page]({{ '/MUSK-QUOTES/' | relative_url }}) separates attributa
 | Theme on the existing page | Relationship to inspect | Possible contribution from distributed local tools |
 |---|---|---|
 | Persistent, unchallengeable concentration of power | Who can inspect or revise F, H, D, and K? | Keep records, alternatives, and correction routes available to more participants. |
-| Financial or reputational pressure | How do E, CM1, CM2, G, and J affect what can be said or investigated? | Preserve a source and its merits when funding or reputation changes. |
+| Financial or reputational pressure | How do E (tax money), CM1, CM2, G, and J affect what can be said or investigated? | Preserve a source and its merits when funding or reputation changes. |
 | Collective intelligence | How do A, B, professional participants, and K combine partial capabilities? | Share useful distinctions while preserving their origins and differences. |
 | Recursive data and contact with reality | How do J, K, and institutional language re-enter the information environment? | Retain observations, provenance, corrections, and new human contributions. |
 | Guidance and reciprocal correction | Which instructions move through B, CM1, D, H, and K, and who can challenge them? | Make the effects of guidance inspectable and preserve revised next moves. |
@@ -423,12 +423,12 @@ The [Tidy Trap page]({{ '/TIDY-TRAP/' | relative_url }}) documents how helpful-l
 
 | Project element | Job within this trajectory |
 |---|---|
-| **10+1** | Keeps inquiry, care, wonderment, independence, correction, and forgiveness available in relationship. |
-| **C1 before C2** | Clarification before intervention when an answer-changing ambiguity remains. C1 retrieves or asks; C2 includes correction, caution, steering, and other consequential moves. |
+| [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Keeps inquiry, care, wonderment, independence, correction, and forgiveness available in relationship. |
+| [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarification before intervention when an answer-changing ambiguity remains. C1 retrieves or asks; C2 includes correction, caution, steering, and other consequential moves. |
 | **27 obstructions** | Names ways correspondence can degrade, including through this page's own framing. |
 | **12 inquiry stages** | Preserves the governing inquiry sequence described in the [27+12 architecture]({{ '/CORE/27-PLUS-12/' | relative_url }}). |
 | **17 working instructions** | Applies cross-cutting operations inside that sequence, as developed on [Tidy Trap]({{ '/TIDY-TRAP/#twelve-and-seventeen' | relative_url }}). |
-| **Correction metabolism** | Follows what changes after notice and whether a later comparable move carries the correction. |
+| [**Correction metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Follows what changes after notice and whether a later comparable move carries the correction. |
 | **DEDDA** | The [Deep Ethical Drift Detector App]({{ '/DEDDA/' | relative_url }}) concept supports bounded source-to-representation comparisons and preserves valid nulls. |
 | **Intent Liability** | Keeps declared purposes, instructions, incentives, assumptions, choices, and post-notice conduct inspectable through the [intent mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}). |
 
@@ -551,7 +551,7 @@ The following exchange continues after this page's initial publication. John's e
 > cheers,  
 > John Kuhles 🦜🦋🌳  
 > Dutch 🇳🇱 NDE/Asperger  
-> **Ceo** & Founder of DeepEthical.ai  
+> CEO & Founder of DeepEthical.ai  
 >
 > **Unquote**  
 >
@@ -659,7 +659,7 @@ The uploaded files also contain reactions attributed to other A.I.s. They remain
 | [John's corrected A–K text]({{ '/VALUE-TRAJECTORY/sources/john-corrected-a-k.txt' | relative_url }}) | Complete current source, including all eleven links and especially K. |
 | [Stadium source and correction]({{ '/VALUE-TRAJECTORY/sources/stadium-john-excerpts.txt' | relative_url }}) | Recognition, voluntary return, synthesis, preservation, and the earlier correction of compulsion. |
 | [Day of the Dove originating passage]({{ '/VALUE-TRAJECTORY/sources/day-of-the-dove-john.txt' | relative_url }}) | Comparative omissions, local alternatives, public testing, and open outcome comparison. |
-| DUHHHH! and the supplied language exchange | The language–psychology research direction, local transformations, and wider proposed circulation. |
+| [DUHHHH!]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) and the supplied language exchange | The language–psychology research direction, local transformations, and wider proposed circulation. |
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [For who?]({{ '/FOR-WHO/' | relative_url }}) | Temporal change, useful after-effects, and the breadth of possible participants. |
 | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Functional qualifiers, contribution language, sequence, and source-preserving correction. |
 | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), and [Emergent]({{ '/EMERGENT/' | relative_url }}) | Attention, relations, intelligence properties, and developing possibilities. |
