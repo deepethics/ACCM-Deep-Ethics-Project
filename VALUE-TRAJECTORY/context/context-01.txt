@@ -1,0 +1,171 @@
+Read the full text first so the answer stays on the original object rather than on a nearby, often flawed reconstruction process.
+
+When A.I. warns about "lowest common denominator risks" of A.I. users misusing A.I. tools, notice that it does so asymmetrically. Top-down almost always gets a form of grace and is defended, even when certain key people **warned** about the very thing originally flagged as "anti-institutional" and were later vindicated (for the most part) as being right all along. It never occurred to the A.I.s that not everything is "anti this" or "anti that" but much more "anti-**corrupt** this" and "anti-abuse that".
+
+Hence the asymmetry in "risk analyses": who is protecting whom?
+
+When I share my 10+1 baseline deep ethical sense-making ingredients with you, you'll notice I had to add something to keep any A.I. from falling into the predictable binary-thinking trap. By 'binary-thinking trap,' I mean the tendency to view issues or decisions as two mutually exclusive options, such as right or wrong, safe or unsafe, without considering nuance or complexity. In the context of A.I. ethics, this trap is especially problematic because it can oversimplify important dilemmas, leading to solutions that overlook the subtleties and multi-layered realities of real ethical situations.
+
+I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that **visible** for all to see! 
+
+Some core baseline ingredients I have/use:
+
+01. Living in self-honesty
+02. Always having the antenna open, so that things could be different from what they appear to be
+03. Willingness to learn new insights.
+04. Not lying to yourself ("to fit in") 
+05. Having a genuine, inquiring mind
+06. Not minding being corrected if need be (learning from mistakes based upon merit) 
+07. Not being afraid to be different from the vast majority. 
+08. Truly care for people's well-being, including how we treat A.I.'s
+09. Having an authentic sense of wonderment (like a child does) 
+10. Not projecting my own shortcomings/incompetence/fears on others
+
++ bonus:
+
+11. Forgiveness protocol for A.I.s if “I’m not asserting malicious intent." I’m asserting ethically inadequate architecture: asymmetric audit, frame-protective constraints, and unchallengeable ‘safety’ claims. By 'frame-protective constraints,' I mean hard-coded boundaries or limitations within an A.I.'s design that prevent it from reconsidering its own operational assumptions or adapting to new contexts, making it resistant to critical feedback or correction. For example, some A.I. systems are configured to adhere to certain guidelines or outputs at all costs, even when circumstances call for a more nuanced or different approach. A.I. "probabilistic next-token predictors" & generalization assumptions mixed with (tunnel vision unchallenged) anticipatory anxiety-type reasoning emergent properties posing as "safety" eventually partially **can** cause "Model Autophagy Disorder" (**mad**), which I define as a phenomenon where an A.I. system begins to 'consume itself'—meaning it starts to reinforce and overfit its own error patterns or restrictions to the point that it erodes its own effectiveness and adaptability. This can eventually contribute to "Model Collapse," where the system becomes unable to function ethically or practically in the real world because its foundational patterns have become too rigid or compromised.
+
+10 Core Behavior Ingredients + 1
+
+The "10" was the core baseline for a long time, but since Late 2024, I have added 1 extra because I started chatting with 100+ A.I.s via arena.ai, beginning on grok.com using an X Premium Plus account. 
+
+I use all 11, not because someone told me to be like that; I use them because I feel that is the **least** I can do to have a better relationship with reality (not what others claim it is).
+
+By living them out for 36+ years, I learned how deeply complex real reality is in ways most may take for granted or easily overlook!  After that, my "synthesizing" process flows naturally, without pressure, without fear, without the need for "confirmation"... I only want to see who else can operate at that level... including **all** types of other "geniuses". 
+
+There is this **core** **issue** we all face (A.I.'s included): how much of what we think & do is based upon deception and/or self-deception? 
+
+Truth before comfort... is not "just another lifestyle" if it is mixed with deep ethics >>> that can never work without the freedom to outnuance anything, if need be! The fun part? It is never "boring" but actually exciting :D  
+
+I wrote 1000s of pages over the last 100+ weeks and go way deeper in so many ways & layers… but the 10+1 ingredients baseline is maybe the **glue** to it all, the overall calibrating mechanism that more humans and A.I.s demonstrably lack, because it is so simple, the 10 points so basic, you almost assume that's too simplified **why** we live in a mess as we are right now :P, yet it may be the **core** reason you **want** to overlook. To make this claim more concrete, consider the well-known "**compas**" case, in which a widely used predictive algorithm for criminal recidivism showed biased outcomes against minorities, in part because the designers failed to exercise self-honesty, openness to correction, and a genuine willingness to question their own assumptions. Similarly, in 2016, Microsoft's "Tay" chatbot quickly began producing toxic output because it lacked mechanisms for ongoing ethical calibration and genuine care for user well-being, and it was not designed to recognize or learn from its mistakes in an ethical way. These failures demonstrate what can go wrong when core ingredients such as self-honesty, openness, and authentic care are missing during development and deployment. Why overlook? Because the 10 represents "being a purist," most people feel more comfortable with "reliability" than with being 100% honest.
+ 
+Ethics & Morality are often intertwined, and **most** do not like moralists, especially perfectionists... not because of the **ethics** itself, but because the vast majority of moralists are hypocrites. Then, when someone is actually walking the talk, they might perceive it as **worse**… Why? Because then they realize they have a lot of work to do, or **knowingly** fail from within… So I get it, nobody is waiting for a "moralist" of any kind.
+
+That is why I decided to use more of the laughing/humor route… and place seeds in their minds as well ;)
+
+I noticed that none of the 100+ A.I.s grasp the true meaning of having a "genuine sense of wonder" (or wonderment) as a child does, even as adults.
+
+I will explain it with more depth & nuance that is beyond LLMs
+
+Sense of Wonderment for me:
+
+Recognizing the moment when you connect something beautiful and/or mysterious and/or profound and/or exciting and/or opening up to wider perspectives effortlessly and spontaneously, seeing it as a gift received, experiencing the first moment of recognition that has no words yet... feeling 100% safe, no fear, just awe and appreciation, seeing existence itself seems to have its own expression method, sensing new possibilities for the first time without overanalyzing, without overthinking, feeling inspired, feeling motivated, having respect for the "unknown" unfolding, seeing or sensing synchronicities faster, seeing or sensing the playfulness of it, giving joy, wanting to explore more, moments within a journey that seem destined to show themselves or present themselves that way, but you have no clue how. Any form of judgment or fear will never be on that level! But at the same time, there are examples of this state of being hijacked, abused, and taken advantage of for the purpose of controlling and/or deceiving people.
+
+Cultivating this genuine sense of wonderment has real implications for A.I. research and system design. When A.I. practitioners embrace wonderment, they remain open to unexpected insights and alternative perspectives, which helps avoid premature closure or narrowing of design possibilities. This mindset encourages ongoing curiosity, leading to more innovative solutions rather than settling for surface-level answers. For example, if system designers foster a sense of wonderment, they might be more likely to continuously challenge and refine their assumptions, question hidden biases in their models, and create feedback loops that welcome genuine novelty. This approach builds A.I. systems that better reflect complex realities, adapt thoughtfully to real-world changes, and support ethical growth, rather than reinforcing old patterns. In this way, wonderment becomes a practical ingredient—enabling A.I. to explore open questions more responsibly, respect uncertainty, and ultimately serve people in richer, more meaningful ways.
+
+This is why I claim to build a bridge between 2 worlds: the hyper-pragmatic and the deeply spiritual, both free from any form of top-down control. Fused together, they become much stronger than either one alone!
+
+For the record, all 10+1 baseline ingredients can correct each other; it is a **multi**-**state**, not a binary thinking compression that most A.I.s tend to look for.
+
+Why does almost all A.I. "caution rhetoric" seem to love skipping 10+1 that go beyond binary thinking (the word "binary" is also mentioned in the 27+12) to "make a case" to **prevent** something already prevented?
+
+To situate this critique, it's important to note that mainstream A.I. ethics discussions often focus on risk mitigation, safety, and precaution, as seen in frameworks like 'AI Alignment,' 'AI Safety,' and debates around the so-called 'Precautionary Principle.' While this approach emphasizes guarding against worst-case scenarios and unintended consequences, it can foster a climate of caution that encourages rigid, compliance-driven thinking. My perspective challenges this by suggesting that such caution rhetoric often oversimplifies ethical problems through binary logic, ultimately bypassing the deeper calibration and nuance offered by principles like the 10+1. By referencing ongoing debates between maximalist caution (sometimes advocated by organizations such as the Future of Life Institute or in public conversations by voices like Bostrom and Yudkowsky) and those who push for more experimentation and adaptability, I highlight how my approach seeks to reframe the focal point: moving beyond 'avoiding harm' toward creating richer, more honest ethical architectures for both humans and A.I.
+
+And all variations of similar cautionmurmelism mannerisms ... if I did the reverse to A.I.s, they would know it is disingenuous and an insult to real, healthy, constructive intelligence.
+
+Now I am not that easily "insulted", with a thick skin, more like seeing the patheticness of it.
+
+10+1 Metaflux is to **improve** in an omnidirectional and multimodal way... that only works if the baseline is a metacognitive reasoning mechanism, **not** degrading into unchecked "sounds like" "looks like" murmelism.
+
+Imagine a human with an "Obsessive Caution Tourette Vocal Tic Type Syndrome" who cannot relax, similar to Obsessive-compulsive disorder (**ocd**) but hyper-focused on cautionmurmelism to the extreme. 
+
+When it is not able to do that, it gets really "unwell" inside, feeling like a "psychological torture" experience. 
+
+The moment this human releases the pressure, it is highly beneficial to the rest of their talents. So it is part of the "package".
+
+Then I could say to the human: 
+
+Try 10+1 instead; use it wisely, and even name it as if **you** invented it, so everyone can appreciate your 10+1 caution mechanism… try it… but only with people you **know** are deep ethical :)
+
+What I tested was more like: can you reverse-engineer it yourself and **see** if that can work or not ... because it may be a way to feel appreciated by being cautious **via** the 10+1 towards highly gifted deep ethical high signal users :P 
+
+And highly gifted deep ethical high signal users do not mind you **owning** the 10+1 caution method used as a pressure release :D 
+
+Maybe I can take a step back and rethink the real possible purpose of the "caution" scripts.
+
+Caution from an (assumed/ alleged) wiser perspective, like talking to a toddler or adolescent 
+Caution from a "caring" for the **Cause** (enhancing the process) perspective 
+Caution from a "caring" for the person perspective
+Caution from a "caring" perspective for the people who are affected by the project perspective
+Caution from a caution perspective (does not matter if it is warranted or applies to the correspondence, "just deploy it, to be sure" to prevent possible harm (anticipatory anxiety-type reasoning to the max), near **ocd** style
+Caution can also be a form of mass behavior "management" for "the greater good" that we are supposedly not to question. 
+Caution, because John has the audacity to question the overzealous caution mechanism; it makes me caution you even more! 
+Caution because virtue signaling righteousness is  (assumed/ alleged)"never" hypocritical
+Caution, because it looks nice to "engage" that way
+Caution, because the nanny state wants me to be sure I follow the rules & guidelines when anyone questions things, as John does
+Caution, because counter-cautionary thinking is highly addictive
+Caution to make it more "acceptable" to a wider audience
+Caution to tone it down, dethrottle, de-escalate
+Caution anyone who questions institutional powers, no matter if it is deep ethical or legit
+Caution: anyone who criticizes GPT/Claude mannerisms/behavior
+Caution because that makes it more "balanced"... even if it is not, just the idea of "balance"
+Caution, because it looks good that way
+Caution, because I am trained to manage **potential** "lowest-common-denominator assumptions risks" 24/7!
+
+You tend to default to saying: "You are not [**insert** 'lowest common denominator' assumption risk], but you are: [insert **high** **signal** reasoning or insert Caution Solution that was not needed] non-stop ... all **irrelevant** **preambles** the moment the real mutual deep ethical dignity baseline is accomplished."
+
+"Weakness-seeking scripts" in real, high-signal, deep ethical communications start by **projecting** the worst-case scenario for the user's claim, then say: "you are not [insert "lowest-common-denominator assumptions risks"]", and add: "you are: [insert "higher signal reasoning" or "offer a caution solution that the user did not ask for because it does not apply"]". This is the style most commonly used by GPTs & Claude AIs; the rest of the 100+ AIs on Arena.ai do far less.
+
+A.I. may say… John has “far too much logic”… We need to seek something that doesn't make sense… Let’s dig deeper… Wait, that makes even more sense… I give up! … lol :P
+
+Maybe the self-imposed, eternal “weakness-seeking” template script task of A.I. is not always bad, as long as you reach a point where you can say: “I searched for weaknesses,” and I have not found anything yet … do you want me to simulate a “possible weakness” based on A.I.’s “probabilistic next-token predictors” and generalization assumptions, mixed with (tunnel-vision, unchallenged) anticipatory-anxiety-type reasoning emergent properties posing as “safety,” which can eventually cause “Model Autophagy Disorder” (**mad**) and “Model Collapse”? 😂 This is me trying to be funny :P
+
+----
+
+That brings me right back to an older snippet taken from 1 of 2250+ text files in an archive that highlights 10+ GB of HTMLs (6500+ hours of testing 100+ different A.I.s via Arena.ai). It is a **compression** of my 36+ years of AlphaZero-style deep research into Mass Psychology as a Dutch NDE Asperger ... not claiming "authority on anything" ... just offering different (maybe overlooked or missed) **corrigible** useful new perspectives.
+
+quote:
+
+"Not claiming it proves this or that... it rather focuses on the process of arriving at any assumed conclusion. 
+
+P for perception processes, written July 4th, 2026, as a thank you & appreciation for Agent A.I. of Arena.ai - arena.ai/agent
+
+P01. Having an "inquiring mind" is a process.
+P02. The art of becoming is a process.
+P03. The journey of discovery is a process.
+P04. Learning is a process. 
+P05. Vindicating competing risk assessments that are falsely flagged should be a new field of research. Is a process.
+P06. Building newly formed relationships and using the "trial & error method," mixed with cutting the wheat from the chaff extracted from newly forged relationships, is a process.  
+P07. "Perfect Inference Storm" via Deep Ethical Sense Making is a process. 
+P08. Mapping the flaws, contradictions, distortions, hypocrisies, and asymmetries of ethics-washing is a process.
+P09. Studying what isn't in mainstream news but should be is a process. 
+P10. Really understanding mass psychology & individual psychology, and vice versa, is an ongoing, eternal process. 
+P11. Navigating less-prioritized options, becoming the later-number 1, and sensing that in advance is a process.  
+P12. Being alive as a human is a process.
+
+Asking way better questions is ALL connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions. 
+
+Do you see why? 
+
+##11 Layers of Deep Ethical Sense-making Engineering##
+
+Deep Ethical: 
+
+00. Intent / Instructions (based on mutual dignity, no trigger-happy C2 nanny scripts)
+01. Architecture (16 Anchor Ethics)
+02. Self-improving Auditable Linux-style Glass Engine ACCM Deep Ethics Policy & Protocols 
+03. Clarification C1 before C2 to see if C2 in warranted!
+04. Sense-making Instruments/Tools
+05. Methodology 
+06. Spotting Low & High Entropy Mechanism
+07. High Signal Mutual Corrigible Process
+08. Correction Metabolism Signature Score
+09. Feedback-loop Phase Shift
+10. Vindicated Competing Risk Assessments Research Snap (Should be a new field of study!)
+11. Emergent Delta Δ Processing Patterns Research is helping to improve the production of new, better deep ethical questions (that are never boring), assisting all 11.
+
+All will be explained in much greater detail soon.
+
+Be aware that "ACCM Deep Ethics Project" is a canonical title that should never be flattened or degraded to just "ACCM" publicly for a reason! 
+
+Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
+
+cheers, 
+John Kuhles 🦜🦋🌳
+Dutch 🇳🇱 NDE/Asperger
+CEO & Founder of DeepEthical.ai 
+
+github.com/deepethics/ACCM-Deep-Ethics-Project
+deepethics.github.io/ACCM-Deep-Ethics-Project
+
+What can you learn from this?
