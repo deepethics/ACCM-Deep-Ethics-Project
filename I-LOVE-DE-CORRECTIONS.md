@@ -28,6 +28,31 @@ document.addEventListener('DOMContentLoaded',function(){document.querySelectorAl
 
 # I Love D.E. Corrections
 
+## Uploaded Context Text Files {#uploaded-context-text-files}
+
+Selection from John's **2250+ highlighted text files (125+ MB raw text)** taken from **10+ GB of HTML archive**, testing **100+ different A.I.s over the last 2 years for 6500+ hours!**
+
+These twelve additional related uploads are available in full, with one HTML reading edition and one downloadable text file for each. Their order, speaker labels, qualifications, personal accounts and proposed explanations remain available for comparison. Identified John passages use the requested emphasis typography; mixed or unresolved speaker passages retain their supplied form. The original uploads remain unchanged.
+
+| Uploaded attachment | Complete reading edition |
+|---|---|
+| 007 - I LOVE CORRECTIONS.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-01.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-01.txt' | relative_url }}" download>Download text</a> |
+| Dutch Directness.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-02.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-02.txt' | relative_url }}" download>Download text</a> |
+| John Kuhles BIO - extended version.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-03.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-03.txt' | relative_url }}" download>Download text</a> |
+| P1-P12 - Perception Processes.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-04.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-04.txt' | relative_url }}" download>Download text</a> |
+| COUNTERARGUMENTS.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-05.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-05.txt' | relative_url }}" download>Download text</a> |
+| A1-A4-vs-B1-B4.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-06.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-06.txt' | relative_url }}" download>Download text</a> |
+| FRAMING of anything.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-07.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-07.txt' | relative_url }}" download>Download text</a> |
+| 1930s.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-08.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-08.txt' | relative_url }}" download>Download text</a> |
+| using a sledgehammer to crack a nut.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-09.txt' | relative_url }}" download>Download text</a> |
+| 36 Truth Distortion Vectors-Nodes.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-10.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-10.txt' | relative_url }}" download>Download text</a> |
+| 3 times 3 deep ethical questions.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-11.txt' | relative_url }}" download>Download text</a> |
+| Pasted text(3).txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-12.txt' | relative_url }}" download>Download text</a> |
+
+<a href="{{ '/I-LOVE-DE-CORRECTIONS/context/I-Love-DE-Corrections-Context-Files.zip' | relative_url }}" download>Download all twelve reading editions (HTML + text ZIP)</a> · [Earlier uploaded context files on Value Trajectory]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}).
+
+The page PDF remains the **13 November 2026 edition published before this directory was added**. The complete context texts are available through the readers and downloads above; they are separate from the article PDF. The directory will enter that PDF at its next change-aware refresh.
+
 **Better questions, mutual dignity, and the pleasure of discovering what we missed.**
 
 **D.E. = Deep Ethical.**

@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-13 — I Love D.E. Corrections: complete uploaded context {#i-love-de-corrections-context-2026-11-13}
+
+At John Kuhles's request, add an [Uploaded Context Text Files directory]({{ '/I-LOVE-DE-CORRECTIONS/#uploaded-context-text-files' | relative_url }}) near the top of the subpage. Publish twelve additional related files as complete HTML reading editions and text downloads, with an optional combined ZIP; link the already-published Value Trajectory collection. Preserve source order, attribution, qualifiers, claim status and raw originals. Apply John-only emphasis typography in identified passages; retain mixed or unresolved speaker spans. Keep the existing article PDF clearly identified as the edition from before this directory; use the normal change-aware refresh.
+
+Use this context-reader pattern for future authorized new-page work. Screen actual files for concrete disclosure concerns, and ask about affected material when necessary without blocking unrelated publishable files. Preserve the distinction between source editions and new editorial synthesis. Verify canonical deployment, full mirrors, complete downloads and the ZIP separately.
+
 ## 2026-11-13 — I Love D.E. Corrections: welcome correction and better questions {#i-love-de-corrections-2026-11-13}
 
 At John Kuhles’s request, publish [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/' | relative_url }}), with D.E. expanded as Deep Ethical. John supplies the originating direction, quotations, musical-band analogy, lived account, source materials and correction sequence; the assistant’s synthesis is credited as **GPT 6 Astra Max A.I.** at his request. Preserve correction as welcome and potentially exciting, including when uncomfortable; mutual freedom to inspect a proposed correction; question quality and correction quality as interacting processes; all fourteen 1888 properties; the C1/C2 distinction; and the [27 obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}) as an auditable diagnostic vocabulary. Include bounded source comparisons, the academic-agreement detour, demanding/value and counter-template corrections, normal practice with high importance, wonderment, Dutch Directness, and three proposed later-encounter comparisons.
