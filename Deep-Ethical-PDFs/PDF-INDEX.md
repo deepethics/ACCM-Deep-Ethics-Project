@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 171
+**Public pages exported:** 172
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -33,6 +33,7 @@
 | [Believism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BELIEVISM/) | [BELIEVISM.pdf](BELIEVISM.pdf) | `BELIEVISM.md` |
 | [Potential Science Paper Candidate Draft — V03b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) | [Beta-Paper-V03b.pdf](Beta-Paper-V03b.pdf) | `BETA-PAPER-V3B/index.md` |
 | [Potential Science Paper Candidate Draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) | [BETA-PAPER.pdf](BETA-PAPER.pdf) | `potential-science-paper-candidate-draft.md` |
+| [Beyond Dualism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/) | [BEYOND-DUALISM.pdf](BEYOND-DUALISM.pdf) | `BEYOND-DUALISM.md` |
 | [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) | [BIOGRAPHY.pdf](BIOGRAPHY.pdf) | `BIOGRAPHY.md` |
 | [Black Box — Who Controls the Pressure?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/) | [BLACK-BOX.pdf](BLACK-BOX.pdf) | `black-box.md` |
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |

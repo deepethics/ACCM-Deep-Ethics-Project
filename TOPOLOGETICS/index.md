@@ -46,6 +46,8 @@ The method behind Topologetics is the **Topological Summary of the Object**. Its
 
 ---
 
+**[Beyond Dualism]({{ '/BEYOND-DUALISM/#different-coherence' | relative_url }})** follows the density–vastness relationship into a different possible coherence: short entry points, recoverable dependencies, and unfamiliar connections that remain open to comparison. Its examples show what binary framing can remove before the object is understood.
+
 ## 1. Why another kind of summary became necessary
 
 An ordinary summary commonly asks:

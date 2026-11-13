@@ -49,6 +49,8 @@ This page develops the 11 November 2026 exchange between **John Kuhles**, **Goog
 
 **[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** continues the inquiry through the correction from demanding to recognizing value. It follows what preserved meaning makes possible: voluntary contribution, useful combinations, continuity, and John's complete corrected A–K source.
 
+**[Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }})** develops the related counter-template example: an operation intended to interrupt binary closure is recast as another opposing camp. Expected surprises and the 10+1 show why the lost relationship changes the answer.
+
 ## A small change can move the whole inquiry {#instant-examples}
 
 These are **illustrative transformations**, developed from GPT's short examples and the discussion. The right-hand column deliberately changes the left-hand meaning. It is not the project's position.

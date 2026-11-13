@@ -19,6 +19,8 @@ The **Outnuancing Network** makes the connected concepts of the **ACCM Deep Ethi
 
 **Outnuancing and Deep Ethics remain joined.** The seven vectors describe the specific word’s intended function and reach. The 10+1 describe mutually corrective orientation. The 27 and the 12 retain their established functions within the larger project.
 
+**[Beyond Dualism]({{ '/BEYOND-DUALISM/#connected-pages' | relative_url }})** supplies a connected reading map for expected surprises, mutually corrective intelligence, intent liability, vindication, and unfamiliar coherence.
+
 ## Enter through a relationship
 
 Start with [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), [the seven vectors](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/), or [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/). Follow the connections into examples, correction records, or tests. The groupings below are editorial navigation aids, not a final partition of the architecture.

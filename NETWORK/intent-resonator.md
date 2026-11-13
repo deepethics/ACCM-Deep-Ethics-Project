@@ -70,6 +70,8 @@ John's six original points follow, with individually linkable anchors. The headi
 
 These are John's formulations and questions for examination. They make the purpose governing a process, its observable operation, and its consequences available for inquiry. A lack of direct access to private experience does not settle those questions. An observed pattern can support or weaken an interpretation of intent; the record should show how that inference was reached and what could change it.
 
+**[Beyond Dualism]({{ '/BEYOND-DUALISM/#intent-liability' | relative_url }})** applies the six mechanics to John’s whistleblower-learning challenge: what happens when a declared improvement mission encounters learning that could also reveal the authority’s own recurring failures? The account retains the hypothetical, bounded search result, and choices after notice.
+
 ## Why liability belongs beside intent {#why-intent-liability}
 
 John's newer source texts sharpen the governing question:

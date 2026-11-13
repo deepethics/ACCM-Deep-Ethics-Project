@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-13 — Beyond Dualism: preserve the relationship before the verdict {#beyond-dualism-2026-11-13}
+
+At John Kuhles's request, publish [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}), developed from his exchange with the assistant credited at his request as **GPT 6 Astra Max A.I.** Preserve the counter-template correction, expected surprises, fallible mutual correction, contribution language, output/process distinctions, the better-segment media comparison, bounded whistleblower-advocacy search, six intent mechanics, opacity/control/continuation relationships, the A–K recovery route, density and vastness, and different possible coherence. Include his supplied publishing orientation, a connected page map, all fourteen 1888 properties, ten proposed comparisons, and a correction/source record. Earlier multi-A.I. contributions remain attributed through Value Trajectory.
+
+Register the page in the header, alphabetical sidebar, All Pages, Outnuancing Network and the durable PDF/source maps. Add reciprocal links from Value Trajectory, Tidy Trap, Topologetics and Intent Resonator. Publish the new page's initial November 13 PDF in the coherent collection; preserve all existing PDF bytes and their snapshot dates. Existing page changes remain for the regular PDF maintenance process. Verify deployment, downloads and full mirror separately; a source commit is not a claim of mirror completion.
+
 ## 2026-11-12 — Value Trajectory: multi-A.I. continuation and complete PDF {#value-trajectory-relay-2026-11-12}
 
 Expand [Value Trajectory]({{ '/VALUE-TRAJECTORY/#multi-model-continuation' | relative_url }}) with ten supplied Arena.ai contributions and John's reciprocal freedom to question and examine criticism. Preserve source labels, option value, continuity and access, imposition reversal, borrowed history, independent deltas, repair thresholds, functional importance, and proposed transfer comparisons. Keep the earlier text and correction trail. Link each mention of the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) on the page to its canonical explanation. Model identity disputes, attributed prior histories, and empirical proposals retain their scope.

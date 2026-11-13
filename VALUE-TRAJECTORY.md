@@ -848,6 +848,8 @@ That proposed decision-level investigation has not been executed by this continu
 **What became possible, for whom, after the contribution or correction—and what survived the next handoff?** The answer can include useful work, retained agency, a new question, a valid null, or a change still unfolding.
 
 
+**[Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }})** continues this trajectory through the counter-template correction, expected surprises, vindication, six intent mechanics, and different forms of coherence. It retains option value and correction access as dimensions of the comparison.
+
 ## Contribution and source record {#sources}
 
 **Edition:** 12 November 2026, expanded with the post-publication exchange, uploaded context readers, and ten supplied multi-A.I. contributions. The full-page PDF is refreshed for this edition. **Status:** living project synthesis, source excerpts, a bounded parliamentary-source check, and proposed comparisons.
