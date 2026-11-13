@@ -1,10 +1,10 @@
 ACCM Deep Ethics Project — Public Page PDF Export
 Export date: 2026-11-13
-Scope: initial full-content Beyond Dualism PDF; 171 existing editions retained unchanged
-Successful PDFs: 172
+Scope: initial full-content I Love D.E. Corrections PDF; 172 existing editions retained unchanged
+Successful PDFs: 173
 Failed PDFs: 0
-Total pages: 2803
-Total PDF bytes: 22027900
+Total pages: 2816
+Total PDF bytes: 22092119
 Text remains selectable/searchable; public and source links remain active.
 Emoji are represented with searchable text labels for PDF portability.
 Routine PDF maintenance cadence: weekly; individual snapshot dates belong to actual editions.

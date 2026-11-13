@@ -193,6 +193,8 @@ Test the next comparable mixed contribution before its eventual outcome is known
 
 ## Related pages
 
+- **[I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/' | relative_url }})** — preserves John’s positive experience of merit-based correction, including useful discomfort, and asks what the next question or collaboration becomes able to do.
+
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — separates correction testing from self-certification and aligns the evidence demand with the conceptual, Beta, field, or longitudinal stage that can actually produce it.
 
 - [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries a bounded finding through authority, action, boundary relay, and T0-to-Tn testing so recognition is not mistaken for completed case-level correction.

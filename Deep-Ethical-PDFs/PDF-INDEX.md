@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 172
+**Public pages exported:** 173
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -178,3 +178,4 @@
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |
 | [YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/) | [YOUTUBE-TRANSCRIPTS.pdf](YOUTUBE-TRANSCRIPTS.pdf) | `YOUTUBE-TRANSCRIPTS.md` |
+| [I Love D.E. Corrections](https://deepethics.github.io/ACCM-Deep-Ethics-Project/I-LOVE-DE-CORRECTIONS/) | [I-LOVE-DE-CORRECTIONS.pdf](I-LOVE-DE-CORRECTIONS.pdf) | `I-LOVE-DE-CORRECTIONS.md` |

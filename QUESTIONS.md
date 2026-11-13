@@ -389,6 +389,8 @@ The question does not need to sound profound. It needs to **do real work**.
 
 ## Related pages
 
+- **[I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/#question-quality' | relative_url }})** — how question quality and omnidirectional correction improve one another; restores conditions, attribution, agency, and useful possibilities before the next question.
+
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.

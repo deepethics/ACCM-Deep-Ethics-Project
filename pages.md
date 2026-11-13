@@ -37,6 +37,7 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| How can welcome correction improve the questions we ask? | [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/' | relative_url }}) connects mutual dignity, correction on merit, Dutch Directness, the fourteen 1888 properties, and what becomes possible afterward. |
 | Which relationships disappear under binary framing? | [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) follows expected surprises, the counter-template correction, mutual correction, intent liability, vindication, and different forms of coherence through the John–GPT exchange. |
 | How useful contributions can develop across people, local A.I.s, and time | [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) connects comparing the delta, the professional contribution map, voluntary participation, the +1, continuity, and John's corrected A–K source. Follow the relationships and what becomes possible next. |
 | Whether a cleaner account still represents the same object | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) → [the correction record]({{ '/TIDY-TRAP/#correction-record' | relative_url }}) → [the reusable working prompt]({{ '/TIDY-TRAP/#working-prompt' | relative_url }}). Preserve conditions, relationships, attribution, useful contributions, and the next opportunity to apply a correction. |
@@ -60,7 +61,7 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 |---|---|
 | The developed public account | Open the living HTML page linked in the clusters below. Its source can include later additions than the available PDF. |
 | Compact orientation and connections | Use the [Wiki reading routes](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Reading-Routes), [retrieval-fidelity guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Core-Disclaimers-and-Retrieval-Fidelity), [academic-comparison guide](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Academic-Comparison-and-Reciprocal-Learning) or [Local AI and DeepEthicalOS](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki/Local-AI-and-DeepEthicalOS). |
-| A dated, downloadable edition | [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) identifies each edition and the complete PDF collection. The 13 November archive record contains 172 editions and 2,803 pages; follow the individual snapshot date. |
+| A dated, downloadable edition | [Meta-PDFs]({{ '/META-PDFS/' | relative_url }}) identifies each edition and the complete PDF collection. The 13 November archive record contains 173 editions and 2,816 pages; follow the individual snapshot date. |
 | Exact wording, included material or change history | Use the page's GitHub source card and commit history. The [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }}) records consequential editorial changes. |
 
 Choose a route by the operation it enables. A shared title can suggest a relationship; the linked content establishes what is actually there. Keep the source's qualifiers, attribution and evidence state attached as you move between formats. A proposed experiment, a recorded interaction and a field result can each be useful at their own scope.
@@ -144,6 +145,8 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[PR Psychology — Deep Ethical PR Psychology Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/)** — public influence across marketing, media, politics, polling, lobbying, creators and campaigns, with sponsorship, psychological leverage, agency, correction and downstream effects kept inspectable.
 
 ## 3. What keeps it corrigible {#what-keeps-it-corrigible}
+
+- **[I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/' | relative_url }})** — examines correction stigma through John’s musical-band analogy and lived account; follows how question quality and omnidirectional correction improve one another, with source comparisons and proposed persistence checks.
 
 Without these, the topology can be stated and still fail to stay with the object.
 
