@@ -32,7 +32,7 @@ This page does not award a permanent certificate. It states the evidence, archit
 
 Before building the multidisciplinary specification, there is a simpler and more revealing way to approach the title question.
 
-An earlier GPT A.I. advised John not to use the term **Deep Ethics** and proposed language that would sound flatter and more conventionally acceptable. John answered by placing the disputed phrase inside a familiar word family:
+An earlier GPT 5.2 A.I. (not the later versions) advised John via Arena.ai not to use the term **Deep Ethics** and proposed language that would sound flatter and more conventionally acceptable. John answered by placing the disputed phrase inside a familiar word family:
 
 | Familiar phrase | Ordinary use of “deep” |
 | --- | --- |
