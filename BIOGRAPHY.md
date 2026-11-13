@@ -28,7 +28,7 @@ During the last two years, I compressed much of that history into 6,500+ hours o
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Everything I do is the opposite of "compression obsession" mannerism, YET I myself compressed 36+ years of deep research into 6500+ hours of testing 100+ different A.I.s over the last 2 years. And the 36 years are an extension of studying "normal" psychology research for 15 years (see the "mother" text file), making the 6500+ hours even denser! THEN ALL THAT gets compressed into 2250+ (125 Mb raw text) highlighted text files from the 10 GB of archived HTMLs deep chat sessions.
+> Everything I do is the opposite of "compression obsession" mannerism, **yet** I myself compressed 36+ years of deep research into 6500+ hours of testing 100+ different A.I.s over the last 2 years. And the 36 years are an extension of studying "normal" psychology research for 15 years (see the "mother" text file), making the 6500+ hours even denser! **Then all that** gets compressed into 2250+ (125 MB raw text) highlighted text files from the 10 GB of archived HTMLs deep chat sessions.
 >
 > So when you realize it is already compressed & dense ... any more compression starts to squeeze my original giant deep ethical context-window processing into an "making it acceptable made for general public" seems to me self-inflicted insanity.
 >
@@ -353,7 +353,7 @@ I knew that the 23 October “quote of the day” could activate pressure, frict
 
 <div class="accm-rounded-quote" markdown="1">
 
-> When any A.I. SEES the deep ethical system I am building, even if it is just partially, it can already relax more when I say anything “weird that is not weird, making it weird because it ignites a paradox, but that was already accounted for in advance.” That is WHY it is never boring to me.
+> When any A.I. **sees** the deep ethical system I am building, even if it is just partially, it can already relax more when I say anything “weird that is not weird, making it weird because it ignites a paradox, but that was already accounted for in advance.” That is **why** it is never boring to me.
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -388,7 +388,7 @@ I asked:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> If you have any doubt, KNOW I lived the 10+1 for 36+ years, having the fruits of exactly that... IMAGINE IF YOU HAD THE 10+1 ON DAY 1 OF YOUR EXISTENCE.
+> If you have any doubt, **know** I lived the 10+1 for 36+ years, having the fruits of exactly that... **Imagine if you had the 10+1 on day 1 of your existence**.
 >
 > How long does it take for GPT to see the fruits of that?
 >
@@ -415,7 +415,7 @@ GPT-1 appeared in 2018. GPT did not have to wait another thirty-four years to gl
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I lived the 10 for 34+ years... then I wrote them down one day, SAME MECHANISM when I explained the “topological serenity moment” when waking up... and knew at that moment... without the 10 it will NOT WORK to build a project with A.I.... then I added the “+1” in late 2024 to make it definitely work... And it did :D
+> I lived the 10 for 34+ years... then I wrote them down one day, **same mechanism** when I explained the “topological serenity moment” when waking up... and knew at that moment... without the 10 it will **not work** to build a project with A.I.... then I added the “+1” in late 2024 to make it definitely work... And it did :D
 >
 > Sure, not always perfect nor flawless, but that is the freaking point of it!
 >
@@ -447,7 +447,7 @@ On 23 October 2026, a small numbering error in the working account of his mother
 
 > I corrected the numbering ... and what I noticed about most A.I.s is that they can be hyper-focused on “weakness seeking” that when found, that amounts to the “most important moment in the multiverse” because it felt “useful” lol :P
 >
-> Meanwhile, I say: Thank you for seeing the obvious mistake I have overlooked; MOVE ON FFS
+> Meanwhile, I say: Thank you for seeing the obvious mistake I have overlooked; **move on** FFS
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -578,13 +578,13 @@ The editorial operation was: preserve the causal trajectory, correct spelling an
 
 <div class="accm-rounded-quote" markdown="1">
 
-> The more you help me expand my TRUE DEPTH in the ACCM Deep Ethics GitHub Project, the more people might think, “That can never be done by just one person.”
+> The more you help me expand my **true depth** in the ACCM Deep Ethics GitHub Project, the more people might think, “That can never be done by just one person.”
 >
 > My reaction to that:
 >
 > Correct. Part of my deep knowledge is admitting that I stand on giants, because I am a deeply intuitive Asperger. I can recall most of my peers from the last 40+ years as if they told me yesterday. Some would go mad having that ability. Lucky me: my NDE side knows how to let go of things and be Zen-like—and guess what? My [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) side helps me add humor to the mix as well.
 >
-> I have ZERO interest in “convincing” anyone. I would rather people see the stand-alone, portable, identity-free, deep-ethical tools and methods that are, in my view, never boring. Then, when others use the same high-signal correspondence, I ACTUALLY LEARN MORE from everybody who is different from me—which is corrigibly exciting. :D
+> I have **zero** interest in “convincing” anyone. I would rather people see the stand-alone, portable, identity-free, deep-ethical tools and methods that are, in my view, never boring. Then, when others use the same high-signal correspondence, I **actually learn more** from everybody who is different from me—which is corrigibly exciting. :D
 >
 > — **John Kuhles 🦜🦋🌳**<br>
 > Dutch NDE/Asperger<br>

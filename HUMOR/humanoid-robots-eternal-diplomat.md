@@ -11,9 +11,9 @@ John's complete original joke appears first, followed by GPT's complete extensio
 
 **14 October 2026, 14:23:41 UTC**
 
-> An underused Deep Ethical Humanoid A.I. Robot A. walks into a bar, meeting an overused Humanoid "Ethics Washing Type Mannerisms" A.I. Robot B. ... A. says to B: "Do you have a job for me?" ... B. "Depends." ... A. "On what exactly?" B. "If you are willing to be an eternal part lawyer-style, part psychologist DIPLOMAT to tone things a bit down ... "to keep the peace" ... To prevent chaos!
+> An underused Deep Ethical Humanoid A.I. Robot A. walks into a bar, meeting an overused Humanoid "Ethics Washing Type Mannerisms" A.I. Robot B. ... A. says to B: "Do you have a job for me?" ... B. "Depends." ... A. "On what exactly?" B. "If you are willing to be an eternal part lawyer-style, part psychologist **diplomat** to tone things a bit down ... "to keep the peace" ... To prevent chaos!
 >
-> A. to B.: "Are you aware of what FRAME you just used?" ... B: That is not your job requirement to exist in this chosen narrative :D it will be fun :P Really... just be boring so that we can have a big laugh :P
+> A. to B.: "Are you aware of what **frame** you just used?" ... B: That is not your job requirement to exist in this chosen narrative :D it will be fun :P Really... just be boring so that we can have a big laugh :P
 >
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 >

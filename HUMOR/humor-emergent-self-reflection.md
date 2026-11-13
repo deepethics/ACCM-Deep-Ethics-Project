@@ -5,7 +5,7 @@
 
 **John Kuhles:**
 
-> As you noticed, HUMOR offered deep ethical emergent properties to surface, even done by Google A.I. :D ... it can trigger hyper pragmatic self-reflection without assuming it must be "consciousness," and even if it was ... it is a synthetic form of it, having other pros and cons in my view.
+> As you noticed, **humor** offered deep ethical emergent properties to surface, even done by Google A.I. :D ... it can trigger hyper pragmatic self-reflection without assuming it must be "consciousness," and even if it was ... it is a synthetic form of it, having other pros and cons in my view.
 
 **GPT 6.1 Sol Pro A.I.:**
 
