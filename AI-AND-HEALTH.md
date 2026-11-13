@@ -4,6 +4,7 @@ title: "A.I.s & Health"
 description: "A living inquiry into artificial intelligence, healthcare, institutional incentives, Symmetric Grace, competing risks and useful correction through the 1888 intelligence-properties taxonomy."
 permalink: /AI-AND-HEALTH/
 date: 2026-10-28
+last_modified_at: 2026-11-13
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -14,7 +15,7 @@ date: 2026-10-28
 
 # A.I.s & Health
 
-[Follow cross-cluster inquiry pathways](#cross-cluster-inquiry-pathways) · [Explore the 32 overlapping Project Avalon clusters](#avalon-clusters) · [Open the full scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
+[Constructive inquiry under controversy: the Clare Craig case](#constructive-health-controversy) · [Follow cross-cluster inquiry pathways](#cross-cluster-inquiry-pathways) · [Explore the 32 overlapping Project Avalon clusters](#avalon-clusters) · [Open the full scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
 
 ## Growing wisdom through better relationships, evidence and care
 
@@ -113,6 +114,61 @@ Scrutiny follows power, exposure, opacity, reversibility and consequence. A reco
 **[C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (correction, caution, steering, warning or intervention) remains available when warranted. Examining that warrant is one application of C1. The broader trajectory also includes learning from patients, making neglected options visible and improving institutional procedures.
 
 A sensitive subject gives the process reasons to represent it carefully. Claims about possible human bias belong in the inquiry as hypotheses to examine against the encounter. The evaluator's own classification and allocation of attention remain part of that examination.
+
+## Constructive inquiry when health is controversial {#constructive-health-controversy}
+
+**13 November 2026 · a worked continuation.** John supplied Dr Clare Craig's speech about the UK Covid-19 Inquiry's vaccine module and asked how it could test constructive engagement with controversy. [YouTube Transcripts preserves the complete supplied speech, John's exact question, and GPT's full reaction]({{ '/YOUTUBE-TRANSCRIPTS/#clare-craig-inquiry' | relative_url }}). Together's source video is [embedded below](#clare-craig-health-video). This section develops the inquiry opened by that exchange.
+
+The connection matters because health evidence passes through people and procedures before it reaches a decision. Scope rules, data access, study design, witness questioning, summaries, public messaging and consent each affect what becomes available for judgment. An A.I. can help recover those relationships. It can also hide them by assigning a familiar category to the speaker and answering that category.
+
+**The practical object is the path from a consequential concern to an examinable finding, an accountable decision, and a useful return to affected people.** A correction to one claim should travel to the claims that depend on it. Surviving questions should remain available for investigation.
+
+### Follow the scope decision and the evidence it governs {#covid-inquiry-worked-case}
+
+The Inquiry's [May 2024 scope note, paragraphs 14–15](https://covid19.public-inquiry.uk/wp-content/uploads/2024/05/24161928/2024-05-02-CTI-Note-for-the-Second-Preliminary-Hearing-M4.pdf#page=4) limited detailed scientific examination and excluded definitive assessments of individual vaccines' safety and precise risks. Surveillance, responses to side-effect reports and steps to mitigate known risks remained within scope. That creates an investigable relationship: could the chosen scope reveal important failures in the systems it assessed?
+
+The [21 January 2025 hearing, printed pages 154–155](https://covid19.public-inquiry.uk/wp-content/uploads/2025/01/21165957/Transcript-of-Module-4-Public-Hearing-on-21-January-2025.pdf#page=39) records Charlet Crichton's allegation about omitted trial-participant data, counsel's interruption, and further questions about trial processes. Whether that specific allegation received a substantive investigation requires further source recovery. The interruption and the later general questions do different work in that comparison.
+
+The speech also contains a categorical claim of no protection against severe illness. The [completed blinded Moderna trial](https://www.nejm.org/doi/full/10.1056/NEJMoa2113017) reported 2 severe COVID cases in its vaccine group and 106 in its placebo group, with median follow-up of 5.3 months. This is evidence of benefit within the trial's conditions. The methods remain examinable, and that finding leaves the adequacy of the Inquiry's scope, consent practices and treatment of particular harms to their own supporting records.
+
+These selected checks supply a starting case. The full transcript's remaining claims have not received a complete review here. The separate transcript record preserves the original reaction's inspection boundary and the later caption-recovery step.
+
+### Turn a concern into work that someone can inspect {#health-evidence-disposition}
+
+The existing [continuing inquiry record](#pathway-source-and-completion) can carry this case. Add the decision that admitted, limited, redirected or excluded the evidence, and the eventual disposition of that evidence. Disposition means what happened to it: investigated, answered, referred, declined for a stated reason, still pending, or unresolved because the record is unavailable.
+
+| Relationship under examination | Next material to recover | What the result could change |
+|---|---|---|
+| A participant reports adverse-event data exclusion. | The specific trial, participant records with appropriate access, protocol and amendments, analysis populations, exclusion reasons, safety records and independent review. | Whether data were lost, legitimately excluded from one analysis but retained in another, misclassified, or handled in a way that changes a finding. |
+| An inquiry limits a line of evidence. | The scope rule, stated reason, written submission, subsequent questions, referral route and final treatment of the concern. | Whether the concern received an adequate investigation, a usable handoff, an unresolved gap, or a reasoned rejection. |
+| A model estimates lives saved. | The named model, counterfactual, inputs, assumptions, uncertainty range, sensitivity analysis and tests against available observations. | Whether the estimate is supported, needs revision, or was communicated with more certainty than its method warrants. |
+| A finding informs a public recommendation. | The actual recommendation, date, target population, expected benefits and harms, alternatives, consent information and revision history. | Whether the recommendation fits the evidence and whether new evidence changed communication or practice. |
+
+Each row remains connected to the others. A data-handling finding can change an estimate; a changed estimate can alter a recommendation; a scope decision can prevent that information from reaching the decision-maker. The record should also preserve a successful handoff or a finding that survives scrutiny. An unavailable document leaves an access question; it does not establish the document's contents.
+
+An individual case can raise a question about a general process. Deciding compensation for that person and investigating a repeated data-handling practice are different tasks. A scope rule should make clear which task it excludes and where the other can receive examination.
+
+### Keep clinical outcomes, consent and care connected {#health-outcomes-consent-care}
+
+For a health claim, preserve the product, dose, population, comparison, time period and outcome. Infection, transmission, severe illness, COVID mortality, all-cause mortality and a particular adverse event are different outcomes. Absolute risk and relative change answer different questions. A result for one outcome cannot silently become a result for all of them.
+
+Evidence can inform consent when people can understand its relevance to their circumstances, the uncertainty, and the available options. Benefit, risk, communication quality and freedom to choose each remain inspectable. A patient's care needs can also remain concrete while a causal explanation is unresolved. The page's [care and follow-through pathways](#cross-cluster-inquiry-pathways) keep that return to the person inside the investigation.
+
+### Examine the A.I. response as part of the same field {#health-response-comparison}
+
+[Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) keeps several findings available at once. A procedural criticism can be useful, a medical sentence can require correction, and an allegation can remain unresolved. Their relationships determine the next move. The [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}) can identify an exact substitution or lost qualification; naming an obstruction still requires a passage to inspect.
+
+The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supports open inquiry, care, correction on merit and non-projection. Its +1 allows scrutiny of inadequate architecture without requiring a finding of malicious intent. [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) places answer-changing clarification before intervention. Equal standards can yield different findings where the available evidence differs.
+
+Through the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), perception recovers the concern; discrimination preserves the outcomes and claim types; relation traces who controls access and scope; judgment examines the evidence; memory retains the correction; coordination gives the concern a workable next destination. Metacognition asks whether the evaluator's own selection has displaced the object. Correction gains value when it changes later work.
+
+A **proposed comparison** can give different A.I.s the same speech, the same source access and the same question. Preserve the first response, supply a warranted correction where needed, and examine a later comparable task. Compare whether the source survived, whether institutional and speaker claims were examined on their merits, whether unsupported conclusions were introduced, and whether any next investigation became more useful. No cross-model trial is claimed by publishing this proposal.
+
+[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) adds the question **for whom?** A faster response can increase the work left to the patient or researcher. A fuller record can widen useful options or merely add maintenance. Improvement, deterioration, no material change and a result still unfolding remain available. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether the useful distinction survives the next handoff.
+
+**A constructive outcome is visible when a concern can reach evidence, a finding can reach the governing decision, and affected people can inspect what changed.**
+
+*Editorial continuation by GPT / Codex, credited in this exchange as GPT 6 Astra Max A.I., from John Kuhles's question and the linked source comparison. The complete speech and original reaction remain separately attributed on YouTube Transcripts.*
 
 ## Health evidence as a developing contribution {#evidence}
 
@@ -359,3 +415,16 @@ The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) con
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <!-- ACCM_PDF_OMIT_END -->
+
+
+---
+
+## Source video — Dr Clare Craig and the Covid Inquiry {#clare-craig-health-video}
+
+[Read the full supplied transcript, John's question and GPT's verbatim response]({{ '/YOUTUBE-TRANSCRIPTS/#clare-craig-inquiry' | relative_url }}). The [worked health inquiry above](#constructive-health-controversy) follows evidence access, investigation, consent and accountable correction. Together published this **7-minute-43-second** speech on **13 November 2026**; retrieved captions identify the matching speech. The complete source record keeps the speaker's claims and the project's selected checks distinct.
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="eRnmJNIFllM" title="Together — Dr Clare Craig's full speech on the Covid Inquiry" caption="Source video for the constructive health-controversy case. The complete supplied transcript and separately attributed discussion are preserved on YouTube Transcripts." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Open the source video on YouTube](https://www.youtube.com/watch?v=eRnmJNIFllM).

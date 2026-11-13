@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "YouTube Transcripts"
-description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, weight-space programming, and the Diary of a CEO discussion on competing A.I. risks."
+description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, weight-space programming, the Diary of a CEO discussion on competing A.I. risks, and Dr Clare Craig on health evidence and the Covid Inquiry."
 permalink: /YOUTUBE-TRANSCRIPTS/
 date: 2026-10-27
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-13
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -19,7 +19,7 @@ last_modified_at: 2026-11-05
 
 This page pairs full supplied transcripts with their source videos and a separately identified ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
 
-**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming) · [A.I. safety and competing risks](#diary-of-a-ceo-ai-risk).
+**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming) · [A.I. safety and competing risks](#diary-of-a-ceo-ai-risk) · [Dr Clare Craig: constructive inquiry under controversy](#clare-craig-inquiry).
 
 **Orientation and recovery:** [Core]({{ '/CORE/' | relative_url }}) · [Project Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki). These routes lead into the working architecture and its sources; a navigation layer and the source it points to retain different roles.
 
@@ -417,3 +417,67 @@ John Kuhles supplied the video details, corrected transcript and comparison ques
 <!-- ACCM_PDF_OMIT_END -->
 
 [Watch “If YOU Think AI Is Safe, You NEED To See This” on YouTube](https://www.youtube.com/watch?v=nXYSqqUGRLI).
+
+---
+
+## Sixth record — Dr Clare Craig: constructive inquiry under controversy {#clare-craig-inquiry}
+
+**Video:** [Together, “The Jab Evidence the Covid Inquiry Doesn't Wants You to See | Dr Clare Craig's Full Speech”](https://www.youtube.com/watch?v=eRnmJNIFllM) · published **13 November 2026** · **7 minutes 43 seconds**. The title above retains the uploader's wording. Retrieved metadata identifies Together; retrieved English captions match the supplied speech's opening, closing and sequence. No independent, sentence-by-sentence audio verification is claimed.
+
+**Reading routes:** [Full supplied transcript](#clare-craig-full-transcript) · [John's request](#clare-craig-john-request) · [GPT's verbatim reaction](#clare-craig-gpt-reaction) · [Why this belongs in A.I.s & Health](#clare-craig-health-connection) · [Source references](#clare-craig-sources) · [Watch the video](#clare-craig-video).
+
+### Full supplied corrected transcript {#clare-craig-full-transcript}
+
+The complete supplied speech is preserved below, with its original wording, paragraph order and attribution. Craig's claims remain her claims in this record. John's question and the bounded source comparison follow as separate contributions.
+
+{% include youtube-transcripts/2026-11-13-clare-craig.md %}
+
+**Notes on corrections — supplied with the transcript:**
+
+- Names fixed from speech-to-text errors (e.g. Charlet Crichton of UKCV Family; Ruth O’Rafferty of the Scottish Vaccine Injured Group; Lord James Bethell; Hugo Keith KC; Baroness Hallett; HART; Fauci; Rishi Sunak).
+- Minor grammar, punctuation, and phrasing cleaned for readability while keeping the spoken content intact.
+- No sponsor messages were present.
+
+### John's request — verbatim {#clare-craig-john-request}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Why is the above a perfect "test" example? How to be constructive when controversial?
+
+— **John Kuhles 🦜🦋🌳**, 13 November 2026.
+
+</div>
+
+### GPT's reaction — verbatim {#clare-craig-gpt-reaction}
+
+The response below is reproduced in full. Its three citation widgets are displayed as ordinary numbered source links; the response wording is unchanged. The final sentence about not having compared the transcript with the recording describes the inspection state when the response was written. Caption recovery occurred later, during this publication.
+
+{% include youtube-transcripts/2026-11-13-clare-craig-reaction.md %}
+
+### Why this belongs in A.I.s & Health {#clare-craig-health-connection}
+
+[**A.I.s & Health — constructive inquiry when health is controversial**]({{ '/AI-AND-HEALTH/#constructive-health-controversy' | relative_url }}) develops this example into a practical investigation. Health decisions depend on what can be heard, what records can be obtained, which outcomes are compared, and whether a relevant correction can reach the procedure that governs later decisions.
+
+The transcript page preserves the encounter. The health page follows the next work: recover the disposition of disputed evidence, inspect study inclusion and exclusion rules, retain the distinction between modeled estimates and observed outcomes, connect evidence with informed consent, and follow what returns to affected people. A bounded correction to a medical sentence and a serious question about institutional procedure can both remain active. [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) explains why their relationship must survive the response.
+
+This is an application of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), and the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}): recover the object, trace the relevant relationships, and keep the evaluator and the governing process open to correction. These connections identify useful work; a completed institutional investigation or controlled A.I. trial is not claimed here.
+
+### Source references and recovery {#clare-craig-sources}
+
+1. [UK Covid-19 Inquiry: counsel's note for the second Module 4 preliminary hearing, 22 May 2024, paragraphs 14–15](https://covid19.public-inquiry.uk/wp-content/uploads/2024/05/24161928/2024-05-02-CTI-Note-for-the-Second-Preliminary-Hearing-M4.pdf#page=4). Source for the scope boundary and the matters that remained included.
+2. [UK Covid-19 Inquiry: 21 January 2025 hearing transcript, printed pages 154–155](https://covid19.public-inquiry.uk/wp-content/uploads/2025/01/21165957/Transcript-of-Module-4-Public-Hearing-on-21-January-2025.pdf#page=39). Source for the Crichton interruption and subsequent questioning.
+3. [El Sahly and colleagues: Efficacy of the mRNA-1273 SARS-CoV-2 Vaccine at Completion of Blinded Phase, 2021](https://www.nejm.org/doi/full/10.1056/NEJMoa2113017). Published randomized evidence used for the bounded severe-illness correction; the trial's methods and data remain examinable.
+
+**Transcript terms:** HART means Health Advisory and Recovery Team; KC means King's Counsel. UKCV Family and the Scottish Vaccine Injured Group retain their organization names. COVID-19 is coronavirus disease 2019. These explanations sit outside the speech and leave its wording intact.
+
+**Source footprint:** [Complete supplied text and question]({{ '/PROVENANCE/youtube/2026-11-13-clare-craig-supplied.txt' | relative_url }}) · [Original response text, including citation identifiers]({{ '/PROVENANCE/youtube/2026-11-13-clare-craig-gpt-reaction.txt' | relative_url }}) · [Public provenance record]({{ '/PROVENANCE/youtube/2026-11-13-clare-craig.json' | relative_url }}). Supplied-text SHA-256: `4017c5fc8ddaab077b704aab21ea0c7cd6dfa1fc1ccab1f963f67ba2deac37af`.
+
+**Contribution record:** Clare Craig supplies the speech; Together publishes the video; John Kuhles supplies the corrected text, the question, and publication direction; GPT / Codex supplies the response, selected source checks, page assembly, and health-page continuation. The current assistant contribution is credited in this exchange as GPT 6 Astra Max A.I. Earlier transcript records and their attributions remain intact. Existing PDFs retain their actual snapshot dates until the regular change-aware refresh.
+
+### Source video — Together {#clare-craig-video}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="eRnmJNIFllM" title="Together — Dr Clare Craig's full speech on the Covid Inquiry" caption="Sixth transcript record. The full supplied speech, John's question, GPT's response, and source references appear above." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[Watch Dr Clare Craig's full speech on Together's YouTube channel](https://www.youtube.com/watch?v=eRnmJNIFllM).

@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-13",
+  "speaker": "Dr Clare Craig",
+  "supplier": "John Kuhles",
+  "assistant_credit": "GPT 6 Astra Max A.I. (exchange credit; GPT / Codex publication)",
+  "video": {
+    "id": "eRnmJNIFllM",
+    "title": "The Jab Evidence the Covid Inquiry Doesn't Wants You to See | Dr Clare Craig's Full Speech",
+    "channelTitle": "Together",
+    "publishedAt": "2026-11-13T07:00:05Z",
+    "duration": "PT7M43S"
+  },
+  "supplied_source": "PROVENANCE/youtube/2026-11-13-clare-craig-supplied.txt",
+  "supplied_sha256": "4017c5fc8ddaab077b704aab21ea0c7cd6dfa1fc1ccab1f963f67ba2deac37af",
+  "spoken_paragraphs": 18,
+  "spoken_words": 1089,
+  "reaction_source": "PROVENANCE/youtube/2026-11-13-clare-craig-gpt-reaction.txt",
+  "reaction_sha256": "b2aecfc3469c98f5a3fc3a5f27cda6d00bf3e27d12effbe70c6219dac897fc70",
+  "caption_check": "Retrieved English captions match opening, closing and sequence. No independent sentence-by-sentence audio verification.",
+  "publication_transforms": [
+    "Separate supplied metadata and correction notes from speech.",
+    "Preserve all spoken paragraphs and exact question.",
+    "Preserve complete response wording; convert three citation widgets to source links.",
+    "Box attributed contributions."
+  ],
+  "checks": [
+    {
+      "citation": "1",
+      "url": "https://covid19.public-inquiry.uk/wp-content/uploads/2024/05/24161928/2024-05-02-CTI-Note-for-the-Second-Preliminary-Hearing-M4.pdf#page=4"
+    },
+    {
+      "citation": "2",
+      "url": "https://covid19.public-inquiry.uk/wp-content/uploads/2025/01/21165957/Transcript-of-Module-4-Public-Hearing-on-21-January-2025.pdf#page=39"
+    },
+    {
+      "citation": "3",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2113017"
+    }
+  ],
+  "remaining_scope": "Full speech claim verification, investigation of alleged data exclusions, and controlled cross-model comparison remain uncompleted.",
+  "pdf_status": "Existing page PDF bytes and dates retained for regular change-aware refresh."
+}
