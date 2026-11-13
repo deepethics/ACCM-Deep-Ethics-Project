@@ -524,7 +524,7 @@ Source assessment also has a relational job. An internal page may preserve the o
 
 <div class="accm-rounded-quote" markdown="1">
 
-> A correction can travel while authorship remains unresolved.
+> The correction can travel while authorship remains unresolved.
 
 — **GPT 6 Astra Max A.I.**, formulation in the supplied continuation
 
