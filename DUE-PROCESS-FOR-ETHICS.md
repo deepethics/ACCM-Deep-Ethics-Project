@@ -361,6 +361,23 @@ A short, low-consequence task can need only a few of these fields. A contested r
 
 The record earns its place when it changes understanding or action. It can recover a useful idea, clear an unsupported allegation, narrow a warranted concern, improve an adverse finding or preserve an unresolved result. Completing fields while the same substituted object still governs the decision leaves the substantive work undone.
 
+## From recognition to a response that can change conditions {#recognition-response-route}
+
+**13 November 2026 — [Beyond Dualism continuation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/#preparedness-routes).** A person can lack authority to halt a process while retaining agency through documentation, challenge, coordination, or independent review. The case record can distinguish direct authority, routes of influence, and the response those routes actually receive.
+
+| Handoff | Preserve and compare |
+|---|---|
+| Recognition to report | Original concern, evidence, date, and what the report retained or changed. |
+| Report to response | Recipient, substantive question, acknowledgment, investigation, redirection, and reasons. |
+| Response to action | Authorized actor, actual change or justified retention, delay, and remaining options. |
+| Action to later case | Whether the governing conditions changed and whether the change survives. |
+
+A formal channel can return the concern to the arrangement being questioned. Another route may reach an independent reviewer able to act. Follow the observed response rather than inferring effectiveness from the existence of a channel. Record who carries risk, cost, and restoration work during the interval. Disclosure, acknowledgment, decision repair, and rule revision can move separately.
+
+Preparation can support a bounded pause when a required check cannot be completed, even before an incident has been detected. Its basis, mandate, scope, and review route remain examinable. These additions extend the existing case card and information-access comparison; they do not create a new compulsory intake process.
+
+The relay proposed the Agema-related [Value Trajectory case](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) as a possible application. No decision-level trace was executed in this extension. Start with one identified decision and its documents, then follow what happened to one concern through the available routes.
+
 ## Proposed comparisons: does the procedure change the next case? {#proposed-comparisons}
 
 **These comparisons are proposed; this page reports no new controlled trial or deployed adjudication service.**
@@ -440,3 +457,4 @@ A correction should identify the exact passage, source relationship, consequenti
 <!-- ACCM_PDF_OMIT_END -->
 
 [Watch the source discussion on YouTube](https://www.youtube.com/watch?v=nXYSqqUGRLI) · [Read Record Five]({{ '/YOUTUBE-TRANSCRIPTS/#diary-of-a-ceo-ai-risk' | relative_url }}).
+

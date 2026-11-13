@@ -797,6 +797,16 @@ A candidate follow-up could compare a later decision with the original reasons, 
 
 ---
 
+## Bounded search records and the question being compared {#bounded-search-and-comparison}
+
+**13 November 2026 — application of the [Beyond Dualism relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/#relay-to-case).** The earlier prospective-denominator control already includes unsuccessful and mixed assessments. The new distinction concerns its job: comparing a population's predictive record needs a defined comparison set; investigating how one warning was treated can proceed from that case's own record. Neither study substitutes for the other.
+
+The relay's proposed **negative-space record** preserves a bounded unsuccessful search: exact question, date, sources and queries, access limits, what would count as a match, what was not found, and what could reopen the inquiry. It is optional. A criterion defined before a confirmatory search helps make the result inspectable. Exploration can revise its criteria; retain the revisions and the scope of each result. An unavailable source and a completed inspection with no matching result are different events.
+
+Existing nulls retain their original boundaries. A criterion written afterward must not be presented as a pre-registered condition. Such records preserve useful effort and allow later findings to narrow or replace the result. They do not prove a universal absence or certify the honesty of a separate vindication study.
+
+The candidate pre-/post-vindication study below also needs a familiarity check. Withholding an outcome from the prompt does not establish that a model never encountered it. Outcome-visible reconstruction and outcome-withheld recognition answer different questions. Record prior-familiarity concerns, supplied evidence, retrieval access, and scoring criteria. Constructed or unfamiliar cases can add a transfer comparison while retaining their actual status. No new experiment is reported by this extension.
+
 ## 14. Process and outcome must remain separate
 
 VCRAS keeps at least four states available:
@@ -1329,3 +1339,4 @@ The October 17 triad gives retrospective reopening a three-part temporal object:
 A later state can compare itself with an older footprint without consuming it. A change may be correction, improvement, expansion, or valid no-change. The earlier snapshot remains available as the reference that makes the delta inspectable.
 
 This strengthens V.C.R.A.S. without making a footprint, signature, pass, and Ledger entry identical. See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).
+

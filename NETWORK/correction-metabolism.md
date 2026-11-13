@@ -42,6 +42,18 @@ John's [synthetic-emotional-signature hypothesis]({{ '/SUPERINTELLIGENCE/#synthe
 
 This gives the [stadium invitation and contribution archive]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}) a temporal job. A temporary clear spot becomes recoverable after the session ends, with enough context for another person or system to build on it. The archive can preserve successful combinations and newly available paths as well as errors. Correction metabolism then follows both **what was repaired** and **what the repair enabled**.
 
+## First-pass fidelity, repair, and later persistence {#relay-independent-deltas}
+
+**13 November 2026 — [Beyond Dualism relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/#independent-correction-deltas).** Three comparisons retain different evidence: avoiding a particular distortion on first contact, repairing it after notice, and preserving the repair in a later comparable operation. Improvement in one can coexist with deterioration in another. Track restoration work and newly available contributions alongside each result.
+
+The supplied relay contains a local specimen: one passage warned against unsupported rankings and later ranked blind tests above hindsight tests. That sequence is inspectable as text. It shows a distinction articulated without governing the later sentence; it does not establish an underlying model's identity, training contents, or behavior across settings.
+
+The repair distinguishes outcome-visible reconstruction from outcome-withheld inquiry, with possible prior familiarity kept in view. A subsequent response that repeats this distinction shows uptake at that encounter. A later comparable task can test persistence. Both self-inspection and another reader's inspection can supply credible corrections when source, mismatch, and repair are recoverable.
+
+A supplied speaker label locates a passage without authenticating its producer. Preserve the original move, diagnosis, portable correction, and new synthesis at the resolution needed for the handoff. A participant can apply a repair without inheriting another speaker's first-person history. Record unresolved mappings once and recover them when a consequential attribution depends on them.
+
+The same relay withdrew a proposed property-table deletion after distinguishing corrigibility, correction, and adaptation. That is a bounded no-deletion finding. The stopping question applies to this method too: does retaining the repair free attention for further inquiry, or does repeated maintenance consume it? The next operation may be a case, a useful contribution, or a valid null.
+
 ## Scope of a finding
 
 A conversational record can establish what a system output in that setting. A proposal about changes to weights or hidden mechanisms requires a different observation method. The source’s temporary field-condition language and future trajectory can remain visible without merging those levels.
@@ -282,3 +294,4 @@ John describes meritorious correction as something he can genuinely enjoy: diffe
 Both participants can be altered, then carry the repair—or a flattened version—into later conversations, prompts, pages, models and decisions. A **Deep Ethical Contribution State Grammar Vector Trajectory** asks what survived, which relation changed, which dependencies moved, whether transfer occurred, and whether the correction remained corrigible. Success is not spotless processing. It is visible, metabolized, transferable correction that can still be reopened.
 
 Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+
