@@ -37,6 +37,7 @@ Jump: [Current development routes](#current-development-routes) · [1. Fused cor
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| Where can I read the complete source files? | [Correspondence Files]({{ '/CORRESPONDENCE-FILES/' | relative_url }}) gathers public source readers and text downloads, with reusable links for other pages. |
 | How can welcome correction improve the questions we ask? | [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/' | relative_url }}) connects mutual dignity, correction on merit, Dutch Directness, the fourteen 1888 properties, and what becomes possible afterward. |
 | Which relationships disappear under binary framing? | [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) follows expected surprises, the counter-template correction, mutual correction, intent liability, vindication, and different forms of coherence through the John–GPT exchange. |
 | How useful contributions can develop across people, local A.I.s, and time | [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) connects comparing the delta, the professional contribution map, voluntary participation, the +1, continuity, and John's corrected A–K source. Follow the relationships and what becomes possible next. |

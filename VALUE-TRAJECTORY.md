@@ -30,6 +30,8 @@ document.addEventListener('DOMContentLoaded',function(){document.querySelectorAl
 
 ## Uploaded Context Text Files {#uploaded-context-text-files}
 
+Browse [Correspondence Files]({{ '/CORRESPONDENCE-FILES/' | relative_url }}) for complete source texts and reusable links.
+
 Selection from John's **2250+ highlighted text files (125+ MB raw text)** taken from **10+ GB of HTML archive**, testing **100+ different A.I.s over the last 2 years for 6500+ hours!**
 
 All 13 uploaded attachment names are listed below. Three repeated uploads have identical contents, giving ten distinct complete texts. Readers and downloads preserve the complete files, including their attributed A.I. contributions. Storage-unit notation and clear spelling slips are corrected. Emphasis typography is adjusted in identified John passages; ambiguous speaker boundaries remain for the scheduled review. These are edited reading copies; the supplied originals remain unchanged.

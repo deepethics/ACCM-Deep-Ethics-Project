@@ -30,6 +30,8 @@ document.addEventListener('DOMContentLoaded',function(){document.querySelectorAl
 
 ## Uploaded Context Text Files {#uploaded-context-text-files}
 
+Browse [Correspondence Files]({{ '/CORRESPONDENCE-FILES/' | relative_url }}) for complete source texts and reusable links.
+
 Selection from John's **2250+ highlighted text files (125+ MB raw text)** taken from **10+ GB of HTML archive**, testing **100+ different A.I.s over the last 2 years for 6500+ hours!**
 
 These twelve additional related uploads are available in full, with one HTML reading edition and one downloadable text file for each. Their order, speaker labels, qualifications, personal accounts and proposed explanations remain available for comparison. Identified John passages use the requested emphasis typography; mixed or unresolved speaker passages retain their supplied form. The original uploads remain unchanged.
