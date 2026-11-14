@@ -49,7 +49,7 @@ These are the vectors as named in the source. The glosses are editorial and may 
 
 ## Publication status (2026-09-16)
 
-John: “that file is the 27, WITH the 52.” Grok’s earlier split (27, not 52) is corrected.
+John: “that file is the 27, **with** the 52.” Grok’s earlier split (27, not 52) is corrected.
 
 - **Prompts:** [52 cold-testable prompts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/fifty-two-prompts/)
 - **Unsplit object:** [27 + 12 + 52](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/27-12-52-source/)

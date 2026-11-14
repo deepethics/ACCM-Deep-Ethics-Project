@@ -18,7 +18,7 @@ John supplied a speech-to-text-corrected transcript of Dan Dicks, Press for Trut
 
 John:
 
-> I personally met Dan Dicks face to face in Germany 2016 even interviewed him ... it is not about me or him but what he says ... you see it easy to dismiss people who are known the alternative media world ... it is much harder NOT to use the 27 on what he says and why!
+> I personally met Dan Dicks face to face in Germany 2016 even interviewed him ... it is not about me or him but what he says ... you see it easy to dismiss people who are known the alternative media world ... it is much harder **not** to use the 27 on what he says and why!
 
 The object to react to is now represented separately, without agree/disagree and without a “looks like”:
 

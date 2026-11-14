@@ -51,7 +51,7 @@ Suppose the crew uses the investigator's background to dismiss the proposal. Lat
 
 <div class="accm-rounded-quote" markdown="1">
 
-> What if "CONTROVERSY" is just the "processing" of anything that doesn't fit into a "simple category" yet?
+> What if "**controversy**" is just the "processing" of anything that doesn't fit into a "simple category" yet?
 >
 > — **John Kuhles 🦜🦋🌳**, 5 November 2026
 

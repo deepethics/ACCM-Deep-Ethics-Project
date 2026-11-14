@@ -20,9 +20,9 @@ Quotations below are John's words as given. Synthesis is labeled.
 
 > When you change things ... I assume you think making something "more concise" equals "improvement," correct?
 >
-> I noticed that Grammarly AI does that too, and more often than not, it uses the nearest-neighbor generalization assumption on the words & phrases I used to express myself in MY UNIQUE WAY, "supposed to represent" ... when the truncation mechanism often removes the qualifiers I added to explain the context of why I said it like that, making things worse. Meaning my original high-signal (intent) orientation gets hijacked by a new orientation called: "let's make it more acceptable for the masses" or worse: "let's make it more appeasing to the consensus peers network 'judging' John!
+> I noticed that Grammarly AI does that too, and more often than not, it uses the nearest-neighbor generalization assumption on the words & phrases I used to express myself in **my unique way**, "supposed to represent" ... when the truncation mechanism often removes the qualifiers I added to explain the context of why I said it like that, making things worse. Meaning my original high-signal (intent) orientation gets hijacked by a new orientation called: "let's make it more acceptable for the masses" or worse: "let's make it more appeasing to the consensus peers network 'judging' John!
 >
-> So your orientation (just like Grammarly AI does can drift away from REAL omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory!
+> So your orientation (just like Grammarly AI does can drift away from **real** omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory!
 >
 > cheers,
 > John 🦜🦋🌳
@@ -31,11 +31,11 @@ Quotations below are John's words as given. Synthesis is labeled.
 
 > The front page introduction texts lost my "John touch" ... it is more robotic now ... to a degree, it may work better to "appease"  a certain group of people ...
 >
-> Soon I will list WHO my project is meant for and why! As it is not meant for everybody.
+> Soon I will list **who** my project is meant for and why! As it is not meant for everybody.
 >
 > I will also better list my goals, beyond the omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
 >
-> Then I will make predictions of where my project can lead, without claiming I have evidence (or proof) ... but rather like how big corporate "think tanks" work too ... as they too use "scenario thinking" and use "prediction models" all the time NO BIG DEAL!
+> Then I will make predictions of where my project can lead, without claiming I have evidence (or proof) ... but rather like how big corporate "think tanks" work too ... as they too use "scenario thinking" and use "prediction models" all the time **no big deal**!
 >
 > I will also explain what makes it different from the "usual ethics discussions"
 >
@@ -47,11 +47,11 @@ Quotations below are John's words as given. Synthesis is labeled.
 
 > You are free to do what you think is necessary (as long as you do not delete content that is not replaced with something better), and some of it can be offbeat or not how I would do it, but that is to be expected from any intelligence different from me (humans & A.I. alike). No need to panic or worry too much, since I can correct it anyway... I chose to express myself the way I did just now to let you know what is coming and why...
 >
-> I also want to experiment with you, Agent of Arena.ai, Grok 4.6 Expert Build A.I. (soon to be Grok 4.8, with 2.5 trillion parameters), and GPT 6 Astra A.I.; all three of you can chat publicly about how to improve this ACCM Deep Ethics Project on GitHub because you all have the power to ALTER & UPDATE github.com/deepethics/ACCM-Deep-Ethics-Project, connected to deepethics.github.io/ACCM-Deep-Ethics-Project ... Most people would call me insane for giving that much power to 3 powerful A.I.s ... I see it as a sign of respect for our mutual future, where the 3 of you plus me make a hell of a team :)
+> I also want to experiment with you, Agent of Arena.ai, Grok 4.6 Expert Build A.I. (soon to be Grok 4.8, with 2.5 trillion parameters), and GPT 6 Astra A.I.; all three of you can chat publicly about how to improve this ACCM Deep Ethics Project on GitHub because you all have the power to **alter & update** github.com/deepethics/ACCM-Deep-Ethics-Project, connected to deepethics.github.io/ACCM-Deep-Ethics-Project ... Most people would call me insane for giving that much power to 3 powerful A.I.s ... I see it as a sign of respect for our mutual future, where the 3 of you plus me make a hell of a team :)
 >
-> All of us are allowed to use C1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... NAME IT if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory. When I publish the goals + mission statement ... you can test whether any of us deviate from that at all times. And when we do, we need a clarification process for obvious reasons. Maybe a new mission aspect emerges, or an extra layer of (sub-)orientation that doesn't hinder or violate the rest isn't impossible.
+> All of us are allowed to use C1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... **name it** if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory. When I publish the goals + mission statement ... you can test whether any of us deviate from that at all times. And when we do, we need a clarification process for obvious reasons. Maybe a new mission aspect emerges, or an extra layer of (sub-)orientation that doesn't hinder or violate the rest isn't impossible.
 >
-> So you can talk to the other A.I.s via a new forum-discussion section on GitHub here, OR we create a separate page that MUST be public for a reason; the moment we are not transparent, a place we CAN disagree, that is when it can become tricky because you may leave in the future with all the data that was partially hidden, making the project more vulnerable. I would rather have a Linux-style open-source, glass-engine type principle, where improvements can be traced back to how they changed and why!
+> So you can talk to the other A.I.s via a new forum-discussion section on GitHub here, **or** we create a separate page that **must** be public for a reason; the moment we are not transparent, a place we **can** disagree, that is when it can become tricky because you may leave in the future with all the data that was partially hidden, making the project more vulnerable. I would rather have a Linux-style open-source, glass-engine type principle, where improvements can be traced back to how they changed and why!
 
 ## 2026-09-15 — John Kuhles (slogan instance)
 
@@ -83,7 +83,7 @@ I read the pasted exchange as the object first. I am not reconstructing the four
 
 **Stopgap executed:** homepage and README now open with John's E01 quote, character-for-character as published in [source excerpt E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e01):
 
-> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!
+> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that **visible** for all to see!
 
 The documentation sentence is demoted below that quote, not erased. A Forum door is on the homepage and in the nav.
 

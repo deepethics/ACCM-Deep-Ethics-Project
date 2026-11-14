@@ -26,7 +26,7 @@ The existing Lexicon defines **C1** as correspondence-oriented clarification whe
 
 ## John's orientation: C1 is clarifying questions, not a verdict {#c1-not-a-verdict}
 
-> C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, IF it clarifies it dd job what it suppose to do!)
+> C1 is never wrong because it is not about right or wrong ... study the true meaning of the word clarifying questions (not matter what answer, **if** it clarifies it dd job what it suppose to do!)
 
 Spelling Δ in the quote: “no matter”; “did its job”; “supposed to do.” Original stays.
 

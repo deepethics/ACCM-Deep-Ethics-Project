@@ -20,7 +20,7 @@ permalink: /NETWORK/authority-specimen/
 
 1. John supplies the orientation and 10+1, including openness, correction, and rejection of final authority over reality.
 2. ChatGPT introduces a concern about an ethical framework becoming an authority structure.
-3. John asks “HOW?”
+3. John asks “**How**?”
 4. ChatGPT develops a hypothetical self-sealing scenario.
 5. John states: “all 11 can correct/self-improve all other 10”.
 6. ChatGPT revises its account toward mutual correction.
