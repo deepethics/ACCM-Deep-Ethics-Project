@@ -2,10 +2,10 @@
 
 John Kuhles calls it **retrospective wit**: the punchline makes you look back at how you understood the setup. His formula describes why a sense of humor can be a key to Deep Ethics. The willingness to learn is what lets the discovery improve the listener, the joke-teller, or both.
 
-1. **Postpone judgment.** Let the setup remain open.
+1. **Postpone judgment.** Let the setup remain open. See **[Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})** page.
 2. **Have the patience to wait for the punchline.** Give the relationship time to become visible.
 3. **Keep several perspectives and situations available for comparison.** An early reading can work provisionally without taking over the whole scene.
-4. **Look back once the punchline lands.** [Thinking, Consciousness, and Awareness (TCoAw™)]({{ '/NETWORK/tcoaw/#retrospective-awareness-in-use' | relative_url }}) describes this retrospective shift in what you notice.
+4. **Look back once the punchline lands.** [TCoAw™]({{ '/NETWORK/tcoaw/#retrospective-awareness-in-use' | relative_url }}) describes this retrospective shift in what you notice.
 5. **Value the new insight or wisdom.** Part of the joy is seeing what becomes possible with the better reading.
 6. **Let your own partial miss come into view.** The joke can lay bare an unchecked “looks like” or “sounds like”—including yours.
 7. **Keep the counter-wit open to the joke-teller.** The joke is meant to have fun with the insight and leave the inquiry open. The people involved do not have to stay in fixed roles as the clever one and the one being corrected.
