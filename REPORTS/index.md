@@ -30,7 +30,7 @@ The PDF is a deep working report, not a replacement for the corrigible project p
 - [**11+1 Version 2 — Mass-Psychology Topology**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — the current public coordinate system.
 - [**11+1 Mass Psychology Clusters Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — the interactive working instrument.
 - [**Goal G42**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — the earlier visualization goal.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — connected concepts, methods, and correction routes.
+- [**Outnuancing™ Network**]({{ '/NETWORK/index/' | relative_url }}) — connected concepts, methods, and correction routes.
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}#11-1-version-2) — a compressed entry with links back to fuller context.
 
 ---

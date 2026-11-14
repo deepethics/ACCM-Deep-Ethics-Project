@@ -149,7 +149,7 @@ Quoted as attributed to John on the existing public page. Markdown emphasis is d
 
 ---
 
-## S07 — Beyond Agreemurmelism {#s07}
+## S07 — Beyond Agreemurmelism™ {#s07}
 
 Quoted as attributed to John in the page’s “John’s starting point” section. Outer quotation delimiters and Markdown bold are not part of the extracted wording.
 

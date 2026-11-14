@@ -23,9 +23,9 @@ John recalls how his mother taught him to observe crowds, question authorities, 
 
 [Read **My mother was among others.txt**]({{ '/CORRESPONDENCE-FILES/my-mother-was-among-others.html' | relative_url }}) · [Download the original text]({{ '/CORRESPONDENCE-FILES/my-mother-was-among-others.txt' | relative_url }}).
 
-## Value Trajectory collection {#value-trajectory-files}
+## Value Trajectory™ collection {#value-trajectory-files}
 
-These files support [Value Trajectory]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}). Where its source record identifies identical uploads, both filenames share one edition.
+These files support [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}). Where its source record identifies identical uploads, both filenames share one edition.
 
 | Uploaded source filename | Complete edition |
 | --- | --- |

@@ -782,7 +782,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — agreement and disagreement stay inside the mutually correcting field. They do not become the axis.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — agreement and disagreement stay inside the mutually correcting field. They do not become the axis.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — uses the 10+1 to keep independent inquiry from hardening into a flattering or self-sealing identity.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — shows how the 10+1 becomes visible in candid, caring, mutually corrigible communication.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
@@ -792,12 +792,12 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 - [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — gets the object clear before any ingredient is used to intervene.
 - [**Binary Hypercautionism and the Anti-Self-Sealing Test**]({{ '/NETWORK/hypercautionism/' | relative_url }}) — shows caution that seals itself off from the calibration it claims to serve.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a corrected ingredient still governs the next case.
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows whether the ingredients show up on the path from purpose to result.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows whether the ingredients show up on the path from purpose to result.
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names the obstructions this calibration is for, and a route back.
 - [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — is the field being calibrated. The 10+1 is not one of those clusters.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost so a correction can land.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.
-- [**TCoAw — freeze and corrigibility**]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}) — seeing the value of a distinction is not the same as keeping this baseline in the next move.
+- [**TCoAw™ — freeze and corrigibility**]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}) — seeing the value of a distinction is not the same as keeping this baseline in the next move.
 
 ---
 
@@ -841,7 +841,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 <a id="triad-topological-awareness-2026-10-17"></a>
 ## Triad extension — the snapshot author remains inside the 10+1
 
-A person or A.I. using PQCE may leave a snapshot that later becomes the best available reference. Producing that footprint does not place its author outside correction. The author remains open to learning, merit-based repair, self-audit, and the possibility that no change is currently warranted.
+A person or A.I. using PQCE™ may leave a snapshot that later becomes the best available reference. Producing that footprint does not place its author outside correction. The author remains open to learning, merit-based repair, self-audit, and the possibility that no change is currently warranted.
 
 This prevents a temporarily frozen state from becoming a personal certificate. It also prevents permanent weakness-seeking from masquerading as corrigibility. The operative phrase is future correction or improvement **if any** becomes needed.
 

@@ -76,20 +76,20 @@ The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) belongs i
 | [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) | Connect an excerpt to a useful research, design, communication or accountability purpose. The ten operational goals navigate the 44 and remain distinct from the 10+1. |
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Inspect the 27 correspondence obstructions and apply the 12-stage Correspondence-First Deep Inquiry Protocol. Construct the object before evaluating it. |
 | [**11+1 Mass-Psychology Topology**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) | Follow interacting distortion clusters and the correspondence-restoring field across individuals, institutions and populations. |
-| **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) | Keep possibilities, temporary attention and awareness of the wider field in relation. Notice what the current focus leaves out. |
-| **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) | Examine the actual handling of a contribution, with room for clarification to change the assessment. |
+| **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) | Keep possibilities, temporary attention and awareness of the wider field in relation. Notice what the current focus leaves out. |
+| **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) | Examine the actual handling of a contribution, with room for clarification to change the assessment. |
 | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process) | Use correspondence-oriented clarification when material ambiguity remains. Check whether an intervention outran comprehension. |
 | **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) | Preserve encounter, later evidence and the next comparable assessment. Separate process quality from outcome accuracy. |
-| **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Compare what was supplied with how it was later represented, including a valid finding of no material drift. |
-| [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine consequential choices through a fused field of consent, dignity, harm, power, digital sovereignty, epistemic integrity and cognitive pluralism; preserve conflicts and a reviewable next move. |
-| [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) | Connect instructions, incentives, assumptions, choices, consequences, notice and response to correction. |
+| **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Compare what was supplied with how it was later represented, including a valid finding of no material drift. |
+| [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine consequential choices through a fused field of consent, dignity, harm, power, digital sovereignty, epistemic integrity and cognitive pluralism; preserve conflicts and a reviewable next move. |
+| [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) | Connect instructions, incentives, assumptions, choices, consequences, notice and response to correction. |
 | [**Humor**]({{ '/HUMOR/' | relative_url }}) and [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) | Preserve a joke's unfolding meaning and distinguish direct expression from assumptions about aggression or intent. |
 
 Use the fuller sources when a distinction matters to the extraction. Learning the entire site is not an entrance requirement. Recover the relevant relation, follow its source, and widen the map when the material warrants it.
 
-## Consequential choices: use the 16 Anchor Ethics together {#anchor-ethics}
+## Consequential choices: use the 16 Anchor Ethics™ together {#anchor-ethics}
 
-The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) add a normative reference field to the property map. They work in parallel: consent, truth, care, pluralism, sovereignty and responsibility can expose tensions in the same choice. Preserve the relevant conflict, assumptions, alternatives and unresolved reasons when producing a combined assessment. Sixteen independent yes/no answers would lose that interaction.
+The [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) add a normative reference field to the property map. They work in parallel: consent, truth, care, pluralism, sovereignty and responsibility can expose tensions in the same choice. Preserve the relevant conflict, assumptions, alternatives and unresolved reasons when producing a combined assessment. Sixteen independent yes/no answers would lose that interaction.
 
 For an ordinary public interview, proceed with extraction using the established source and purpose. Greater consequence calls for more explicit examination: sharing a private transcript, naming a person whose identity is uncertain, storing a correction history or using submissions to train a model are different operations.
 
@@ -314,7 +314,7 @@ John's “maybe” keeps the deeper reading exploratory. To examine a particular
 
 **The restored trajectory:** John's argument follows acceptance of the premise into acceptance of assigned power, familiarization with sacrificing a life, escalating expectations and doing the “dirty job” for those invoking “the greater good.” His final trust question concerns the authority and purposes of those constructing and extending that arrangement. The conditioning-and-escalation sequence is what connects the opening frame examination to that conclusion.
 
-His qualification about “I do not know” also remains: uncertainty, knowledge, responsibility and reasons for action or inaction must stay connected. [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) here examines the frame and its transfer into consequential conduct. The evaluator's construction and interpretation of the answer remain part of the object.
+His qualification about “I do not know” also remains: uncertainty, knowledge, responsibility and reasons for action or inaction must stay connected. [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) here examines the frame and its transfer into consequential conduct. The evaluator's construction and interpretation of the answer remain part of the object.
 
 **Correction record:** the first extraction omitted the mechanism and consequence. Restoring the full passage repaired that loss, but the subsequent explanation still underweighted conditioning and premise refusal. John identified this second loss. His clarification now governs the example, showcase, extraction prompt and [Mutual Fate analysis]({{ '/MUTUAL-FATE/' | relative_url }}#interview-trolley-restoration). A future extraction must preserve setup, conditioning, escalation, responsibility, the trust question and the possible refusal of the assignment together.
 
@@ -328,15 +328,15 @@ This is a page-development contribution by **GPT 6.1 Sol Pro A.I.**, rather than
 
 ## DeepEthics App Beta: related services, mutual feedback {#app-beta}
 
-**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) Summarizer** and **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
+**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) Summarizer** and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
 
-The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) make two further requirements operational. First, each tool's finding stays challengeable: showing a difference does not authorize speaking for the participant or changing their aim. Second, cooperation must preserve independent correction. An extractor and a detector using the same mistaken speaker label can agree while both remain wrong. Record shared sources and use an independent source check when that distinction matters.
+The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) make two further requirements operational. First, each tool's finding stays challengeable: showing a difference does not authorize speaking for the participant or changing their aim. Second, cooperation must preserve independent correction. An extractor and a detector using the same mistaken speaker label can agree while both remain wrong. Record shared sources and use an independent source check when that distinction matters.
 
 ### Topologetics Summarizer: recoverable depth and honest loss
 
 The proposed summarizer lets a person choose the task and reading depth, then inspect the source relationships behind a compact result. The [Epistemic Integrity and Noetic Diversity anchors]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) require material qualifiers, dissent, uncertainty and correction routes to survive. If compression would erase an answer-changing conflict, retain a longer representation or identify the unresolved loss. A combined recommendation should not silently replace the reasons that pull in different directions.
 
-Show a purpose-specific loss note: what was condensed, what was left out and where a reader can recover it. Expanding a section should reconnect to actual source material. Feedback about a missing relation should update the summary and its dependent interpretation, then be checked on another passage. DEDDA may compare that repair with the source, while its own comparison remains open to correction. These are candidate output requirements for the Beta service.
+Show a purpose-specific loss note: what was condensed, what was left out and where a reader can recover it. Expanding a section should reconnect to actual source material. Feedback about a missing relation should update the summary and its dependent interpretation, then be checked on another passage. DEDDA™ may compare that repair with the source, while its own comparison remains open to correction. These are candidate output requirements for the Beta service.
 
 ### Feedback that can actually improve the tools
 
@@ -484,8 +484,8 @@ Use the page's GitHub-source service to inspect its history or propose a correct
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving meaning and trajectory under transformation.
 - [**Plot Twist**]({{ '/PLOT-TWIST/' | relative_url }}) — warranted expansion, correction and return to the governing object.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — possibilities, reciprocal scrutiny and accountable next moves.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — inquiry beyond agreement-status management.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — inquiry beyond agreement-status management.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — human and synthetic contributions across time.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the fused reference field for consequential choices, opt-in service boundaries and reviewable next moves.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the fused reference field for consequential choices, opt-in service boundaries and reviewable next moves.
 - [**DeepEthical.ai**](https://deepethical.ai) — the project's connected public direction.
 

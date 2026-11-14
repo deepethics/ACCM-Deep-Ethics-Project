@@ -139,10 +139,10 @@ Use unfamiliar tasks and compare announced evaluation, ordinary-use settings and
 | Practical question | ACCM Deep Ethics Project operation | Evidence that would make the comparison useful |
 |---|---|---|
 | Can a concern change the next decision? | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** distinguishes the Clarification Process, where an answer can change an evaluation, from subsequent correction, caution or steering. | Source concern, clarification, decision before and after, and the reason for any change. |
-| Can the evaluator be corrected? | [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) keeps Advocate–Arbiter mutuality available; [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) supplies candidate appeal and case-handling routes. | Challenges to criteria, minority records, recusals, appeal outcomes and changes after notice. |
-| Does a correction persist? | **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) compares source and representation; [Phase Change Snap]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) examines local recovery and recurrence. | Exact repair, the rest of that response, later comparable work, transfer and any recurrence. |
+| Can the evaluator be corrected? | [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) keeps Advocate–Arbiter mutuality available; [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) supplies candidate appeal and case-handling routes. | Challenges to criteria, minority records, recusals, appeal outcomes and changes after notice. |
+| Does a correction persist? | **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) compares source and representation; [Phase Change Snap]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) examines local recovery and recurrence. | Exact repair, the rest of that response, later comparable work, transfer and any recurrence. |
 | Who bears the competing risks? | [Vindicated Competing Risk Assessment Studies]({{ '/VCRAS/' | relative_url }}) preserves predictions, conditions, later outcomes and the treatment of competing warnings. | Risk from capability misuse alongside risk from concentration, false flags, suppression, delay or failed intervention. |
-| Can participants retain agency? | [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers a proposed action range including clarification, pause, postponement, referral and refusal inside voluntary service. | Permission, rationale, proportionality, appeal and a usable next move for affected participants. |
+| Can participants retain agency? | [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers a proposed action range including clarification, pause, postponement, referral and refusal inside voluntary service. | Permission, rationale, proportionality, appeal and a usable next move for affected participants. |
 | Can improvement be inspected and reused? | The [glass-engine principle]({{ '/NETWORK/latent-space/' | relative_url }}), [Unownable]({{ '/UNOWNABLE/' | relative_url }}) and public [Governance]({{ '/GOVERNANCE/' | relative_url }}) preserve provenance, challenge and renewable audit. | Recoverable changes, accountable maintainers, bounded stopping and the ability to challenge the project itself. |
 
 ### Cognitive Warfare — classification power needs a correction route {#classification-and-appeal}
@@ -153,7 +153,7 @@ Use unfamiliar tasks and compare announced evaluation, ordinary-use settings and
 
 Applied to commercial A.I., this asks what happens when a safety or integrity classification acquires authority over another participant's options. Can the affected person inspect the representation, provide a correction, contest the criterion and obtain a proportionate remedy? Record how uncertainty changes the intervention and whether repair reaches downstream decisions. Apply that examination to provider restrictions, a commentator's labels and the project's own flags. A classification that survives scrutiny can remain useful; a corrected false positive needs a recoverable repair path.
 
-### Six Intent Liability Mechanics — trace responsibility through the process {#six-intent-application}
+### Six Intent Liability Mechanics™ — trace responsibility through the process {#six-intent-application}
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -201,14 +201,14 @@ Keep evidential status and practical usefulness as separate fields. A source-sup
 The [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) distinguish a flexible work map from the ten operational navigation goals and the separate 10+1. This record particularly connects:
 
 - **G02–G03:** archive correction metabolism and investigate persistent Deep Ethics properties;
-- **G07–G08:** distinct Advocate, Arbiter and Overseer functions alongside the 16 Anchor Ethics;
+- **G07–G08:** distinct Advocate, Arbiter and Overseer functions alongside the 16 Anchor Ethics™;
 - **G13:** an inspectable, bottom-up, corrigible glass-engine principle;
 - **G18 and G24:** transcript-based analysis and journalism that preserves its actual sources;
 - **G28:** track competing risk assessments as later evidence changes their status.
 
 The uploaded goals record supplies the originating draft context; the current public goals page supplies the navigable comparison. Their numbered systems keep their separate jobs.
 
-### Outnuancing — reopen the governing frame and return to the case {#outnuancing-reentry}
+### Outnuancing™ — reopen the governing frame and return to the case {#outnuancing-reentry}
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -288,7 +288,7 @@ The transcript preserves the speaker's acronyms. **AI / A.I.** means artificial 
 
 ### Recovery routes and project connections {#judgment-project-connections}
 
-The **DUHHHH!** reference names John’s supplied archive on human-derived functional and relational mannerisms in A.I. The [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) pages develop related questions. The [Flagging System–PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) page examines **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation): what the evaluator represented, how its judgment acquired authority and whether a relevant correction can change the next move.
+The **DUHHHH!** reference names John’s supplied archive on human-derived functional and relational mannerisms in A.I. The [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) pages develop related questions. The [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) page examines **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation): what the evaluator represented, how its judgment acquired authority and whether a relevant correction can change the next move.
 
 [Project Avalon’s scope-reasoning correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}) keeps the reasoning, framer, evaluator and repair process in the same corrigible field. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether a correction governs later operations. [1888]({{ '/1888/' | relative_url }}) and [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) connect evaluation with the other intelligence properties and the shared ethical orientation.
 

@@ -34,7 +34,7 @@ This is an editorial recording aid. The categories do not replace the larger obs
 
 John's accepted [6 INTENT MECHANICS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics) extend this comparison to instructions, incentives, mission/output discrepancies, risk management, reasoning assumptions, and choices. The [intent Δ record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-delta-processing) preserves purpose, conditions, choice, consequence, feedback, and later choice. The [responsibility inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#responsibility) asks whether acknowledgment results in repair and lasting correction. These are labeled editorial applications of his questions.
 
-## Δ and the Outnuancing Network
+## Δ and the Outnuancing™ Network
 
 A new phrase may make a relation easier to retrieve. The relevant question is what its use contributes: a better question, a recovered condition, a discriminating test, a revision, or another inspectable change. The seven-vector proposal connects meaning and use; the correction record asks what actually occurred.
 
@@ -59,7 +59,7 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — extends Δ comparison across purpose, instructions, incentives, choices, results, feedback, and later choices.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps earlier and later representations available for direct comparison.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — identifies which missing context could materially change the next interpretive or intervention move.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines whether a new distinction reveals a real relationship or merely replaces the governing frame.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines whether a new distinction reveals a real relationship or merely replaces the governing frame.
 
 ---
 

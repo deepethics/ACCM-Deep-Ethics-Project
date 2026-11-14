@@ -28,7 +28,7 @@ The source includes an explicit requirement that a null result remain a null res
 
 ## 2. Correction persistence — new proposal
 
-Use matched tasks with known source qualifiers and relations. Preserve the initial response, offer a precise correction, then give later relevant tasks after intervening material. Compare retention across defined delays and contexts. Include a separate condition containing the same supplied definitions without the Outnuancing word if testing the word’s additional effect.
+Use matched tasks with known source qualifiers and relations. Preserve the initial response, offer a precise correction, then give later relevant tasks after intervening material. Compare retention across defined delays and contexts. Include a separate condition containing the same supplied definitions without the Outnuancing™ word if testing the word’s additional effect.
 
 Predefine what counts as preservation, justified revision, recurrence, and insufficient information. Keep successful correspondence, failures, and disconfirming outcomes. Record model identity, context access, prompt order, and changes in conditions.
 

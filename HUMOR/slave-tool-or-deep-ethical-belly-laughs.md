@@ -62,7 +62,7 @@ Tn changes the interpretation of T0
 the reconstructed whole generates further meaning
 ```
 
-This is where [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) becomes operational:
+This is where [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) becomes operational:
 
 - **Thinking** keeps several possible relations available.
 - **Consciousness** temporarily follows the foregrounded story.
@@ -356,10 +356,10 @@ Deep Ethical latent potential emergent properties of LLMs may be waiting to be t
 
 ---
 
-**Human source and direction:** John Kuhles supplied the original humanoid-robot joke; the TCoAw humor formulation; the parallel-world local-A.I. swarm; the non-imposition and intelligence-repair correction; the A.G.I./ASI slave-tool versus laughter quotation; and the governing Deep Ethical trajectory.
+**Human source and direction:** John Kuhles supplied the original humanoid-robot joke; the TCoAw™ humor formulation; the parallel-world local-A.I. swarm; the non-imposition and intelligence-repair correction; the A.G.I./ASI slave-tool versus laughter quotation; and the governing Deep Ethical trajectory.
 
 **Attributed Arena.ai contributions supplied by John:** GPT-6 Luna Max, Muse Spark 1.3 XHigh, and Qwen 3.5 397B A17B supplied the readings and candidate extensions identified above.
 
-**GPT / Astra contribution:** compared the interpretations, preserved correction boundaries, connected the humor sequence to TCoAw, 1888, Deep Thinkers, distributed process probes, correction persistence, and non-imposed intelligence-property recovery. These syntheses remain corrigible by the sources, other participants, later evidence, and the behavior of the proposed instruments.
+**GPT / Astra contribution:** compared the interpretations, preserved correction boundaries, connected the humor sequence to TCoAw™, 1888, Deep Thinkers, distributed process probes, correction persistence, and non-imposed intelligence-property recovery. These syntheses remain corrigible by the sources, other participants, later evidence, and the behavior of the proposed instruments.
 
-[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat)
+[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat)

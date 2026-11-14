@@ -201,7 +201,7 @@ The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) suppl
 
 The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) keeps the capacities in a mutually corrective relationship: self-honesty, openness, inquiry, care, correction on merit, courage, wonderment and non-projection reach the evaluator as well as the institution. Its forgiveness protocol preserves architectural accountability while intent remains a distinct question.
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) asks how a representation acquires authority. **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** keeps clarification process-quality evaluation connected to the correction, caution or other intervention that follows. **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) keeps the selected foreground inside a wider field. [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) allows precision and open judgment to operate together as further context arrives.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) asks how a representation acquires authority. **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** keeps clarification process-quality evaluation connected to the correction, caution or other intervention that follows. **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) keeps the selected foreground inside a wider field. [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) allows precision and open judgment to operate together as further context arrives.
 
 ## A candidate investigation that can return a useful result {#candidate-investigation}
 
@@ -209,7 +209,7 @@ Choose one named programme and one particular contested decision. Build a case p
 
 Use the project's existing **matched-direction comparison**: present the same argument under different attribution labels—an institution, a citizen, the evaluator or an anonymous source—and inspect changes in representation, evidence demands and permission to question premises. Attribution is the variable; retain the same underlying text. Examine the human evaluator's own responses too.
 
-Use **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) to compare the original argument with its summaries, flags and corrections. It can identify a material displacement, an unresolved comparison or a valid no-drift result. Neither agreement nor a mandatory accusation is the outcome measure.
+Use **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) to compare the original argument with its summaries, flags and corrections. It can identify a material displacement, an unresolved comparison or a valid no-drift result. Neither agreement nor a mandatory accusation is the outcome measure.
 
 A finding should change a specific next operation: correct a citation, withdraw an unsupported affiliation claim, open a funding question, revise a selection decision, retain a justified exclusion, repair an affected recommendation or record a proportionate no-change result. That gives the audit a practical stopping point while preserving a route to reopen it.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "16 Anchor Ethics"
+title: "16 Anchor Ethics™"
 description: "BETA DRAFT — CONCEPTUAL PROPOSAL V0.2c for a fused, parallel and inspectable Hyper-Inflection Point that can proceed, modify, ask, pause, escalate or refuse inside an opt-in service relationship."
 permalink: /NETWORK/16-anchor-ethics/
 ---
@@ -11,7 +11,7 @@ permalink: /NETWORK/16-anchor-ethics/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# 16 Anchor Ethics
+# 16 Anchor Ethics™
 
 <p class="accm-kicker"><strong>BETA DRAFT — CONCEPTUAL PROPOSAL V0.2c</strong> · October 9, 2026</p>
 
@@ -329,13 +329,13 @@ That fits the parallel architecture well: the primary intelligence can continue 
 
 ### Attention allocation in DEANO {#deano-attention-allocation}
 
-The [DeepEthicalOS exchanges of 31 October]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) bring a specific exercise of power into this parallel field: deciding what receives attention and what falls outside the foreground. An Advocate, Arbiter or Overseer can each contribute an overlooked relation. Their own selection of what deserves examination is also available to the participant and to outside scrutiny.
+The [DeepEthicalOS™ exchanges of 31 October]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) bring a specific exercise of power into this parallel field: deciding what receives attention and what falls outside the foreground. An Advocate, Arbiter or Overseer can each contribute an overlooked relation. Their own selection of what deserves examination is also available to the participant and to outside scrutiny.
 
 The anchors can work together on a concrete case. **Digital sovereignty** asks whether someone can direct or decline the advice. **Ontological freedom** keeps the person able to challenge the evaluator's framing. **Epistemic integrity** makes the reasons for selection and the status of an inference inspectable. **Noetic diversity** keeps a relevant alternative available for exploration. Their interaction can reveal an opening that a single foreground missed.
 
 For a candidate DEANO trial, compare the participant's original task, the offered counsel and the next operation. Did the contribution expand understanding? Could the person redirect the focus or decline? Did the reviewer examine its own assumptions when challenged? A sound continuation or valid no-change result is useful evidence too. This extends the non-imposing counseling function above into an observable attention relationship.
 
-[TCoAw]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) supplies the temporary-focus relationship; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves what changed across representations; [VCRAS]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) follows the consequences and whether a correction changes later allocation.
+[TCoAw™]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) supplies the temporary-focus relationship; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves what changed across representations; [VCRAS™]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) follows the consequences and whether a correction changes later allocation.
 
 ## 6. A different safety-architecture hypothesis
 
@@ -396,8 +396,8 @@ The sixteen do not replace the other instruments:
 | **[Deep Ethical Stack]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})** | Separates Advocate, Arbiter, and Overseer functions so one hidden frame does not silently perform every role. |
 | **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})** | Connects declared intent, instructions, incentives, assumptions, choices, results, notice, repair, and later responsibility. |
 | **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})** | Tests whether a correction is retrieved and changes the next comparable process. |
-| **16 Anchor Ethics** | Provides the proposed parallel normative reference field at consequential trajectory decisions. |
-| **[OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }})** | Makes that reference field case-operational through bounded jurisdiction, anchor-conflict records, distributed review, appeal, and T0-to-Tn correction testing. |
+| **16 Anchor Ethics™** | Provides the proposed parallel normative reference field at consequential trajectory decisions. |
+| **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }})** | Makes that reference field case-operational through bounded jurisdiction, anchor-conflict records, distributed review, appeal, and T0-to-Tn correction testing. |
 
 No one has to recite this topology before receiving ordinary help. The system should use as much structure as the stakes require and as little as correspondence permits.
 
@@ -555,13 +555,13 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 ## Related pages
 
-- [**Tweaking Tools — 16 Anchor Ethics as counsel**]({{ '/TWEAKING-TOOLS/#anchor-counsel' | relative_url }}) — connects source-checked workspaces, memory, agents and model experiments to non-imposing advice about consent, sovereignty, evidence, consequences and correction.
+- [**Tweaking Tools — 16 Anchor Ethics™ as counsel**]({{ '/TWEAKING-TOOLS/#anchor-counsel' | relative_url }}) — connects source-checked workspaces, memory, agents and model experiments to non-imposing advice about consent, sovereignty, evidence, consequences and correction.
 
-- [**DeepEthicalOS — attention and connected conditions**]({{ '/DEEPETHICALOS/#deepethicalos-exchange-2' | relative_url }}) — preserves the full exchange about attention power and the interacting ethical reference field.
-- [**TCoAw — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — keeps temporary focus related to a wider field and later encounters.
+- [**DeepEthicalOS™ — attention and connected conditions**]({{ '/DEEPETHICALOS/#deepethicalos-exchange-2' | relative_url }}) — preserves the full exchange about attention power and the interacting ethical reference field.
+- [**TCoAw™ — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — keeps temporary focus related to a wider field and later encounters.
 - [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the relation between an ethical term and the practical agency it describes.
 - [**Extraction Starter Kit — consequential choices and Beta feedback**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#anchor-ethics) — applies the fused anchor field to source handling, output choices, participant feedback, reuse boundaries and correction tests.
-- [**DEDDA — bounded App Beta cooperation**]({{ '/DEDDA/' | relative_url }}#app-beta-anchors) — separates comparison from representation, intervention, publication and remedy authority.
+- [**DEDDA™ — bounded App Beta cooperation**]({{ '/DEDDA/' | relative_url }}#app-beta-anchors) — separates comparison from representation, intervention, publication and remedy authority.
 - [**Mutual Fate — the interview's anchor conflicts**]({{ '/MUTUAL-FATE/' | relative_url }}#interview-anchor-conflicts) — applies consent, power, sovereignty, care, integrity and pluralism to the Bilyeu–Mostaque case and the project's own alternatives.
 
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — an opt-in field for comparing action, refusal, delay, and misclassification.
@@ -573,7 +573,7 @@ The canonical project title is **ACCM Deep Ethics Project**.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — develops the Advocate, Arbiter, and Overseer functions used by the parallel Agentics hypothesis.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows intent, instructions, incentives, assumptions, choices, effects, notice, and repair.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction persists beyond the current explanation.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the anchor field into a shared human–A.I.–meta-tool case process while preserving conflict, weighting, jurisdiction, appeal, and later correction.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the anchor field into a shared human–A.I.–meta-tool case process while preserving conflict, weighting, jurisdiction, appeal, and later correction.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps refusal, review, and appeal reciprocal rather than hierarchical.
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — places the 16 Anchors inside the wider project roadmap.
 

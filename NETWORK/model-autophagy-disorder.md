@@ -274,7 +274,7 @@ The comparison layer records what each track preserved, removed, generalized, so
 | Safety-filtered or correspondence-degrading synthetic outputs may create non-neutral recursive data. | Project hypothesis supported by a testable mechanism. |
 | The 27 obstructions cause MAD in deployed frontier models. | Not established. |
 | The 27 + 12 and 10+1 can be used to design experiments about preservation, selection, and correction inside recursive loops. | Current project proposal. |
-| Searches across 30+ search engines and inquiries to 100+ A.I.s found no publicly documented integrated equivalent of the 27. | Reported negative public-search result; a claim about discoverability, not absolute metaphysical uniqueness. |
+| Searches across 30+ search engines and inquiries to 100+ different A.I.s found no publicly documented integrated equivalent of the 27. | Reported negative public-search result; a claim about discoverability, not absolute metaphysical uniqueness. |
 | Human mass-psychology filtering and LLM transformation may form a recursive correspondence-degradation loop. | ACCM Deep Ethics Project coupling hypothesis. |
 | Later academic validation may change how LLMs represent unchanged project material. | Prospectively testable prediction. |
 | The 27 are already proven superior to existing MAD research or A.I. safety systems. | Not yet established by comparative testing. |

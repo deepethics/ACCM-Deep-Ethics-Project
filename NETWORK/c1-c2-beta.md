@@ -40,9 +40,9 @@ C1 is a **clarifying question**. It is not a right/wrong score. If it clarifies,
 
 A C1 move identifies the ambiguity that matters to the next step. It leaves room for the answer to change the evaluation. Questions that already assume guilt, error, authority abuse, or harmlessness can import a conclusion while appearing to clarify.
 
-## Outnuancing connection
+## Outnuancing™ connection
 
-John’s source says C2 may use frame-auditing methods while omitting the deep ethical process inseparable from Outnuancing. The audit therefore includes the proposed intervention, its assumptions, and its effect on the source object.
+John’s source says C2 may use frame-auditing methods while omitting the deep ethical process inseparable from Outnuancing™. The audit therefore includes the proposed intervention, its assumptions, and its effect on the source object.
 
 The opening conversation provides a worked case: an AI introduces an authority-structure concern; John asks how it follows and clarifies the mutually corrective relation; the AI revises its account. The sequence can be examined without treating the AI’s explanation of its internal causes as direct access to those causes.
 
@@ -55,7 +55,7 @@ Sources: [E13](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**C1 Before C2 — original reference page**]({{ '/NETWORK/c1-c2/' | relative_url }}) — contains the full source-based architecture represented by this visual twin.
 - [**Authority Specimen**]({{ '/NETWORK/authority-specimen/' | relative_url }}) — preserves the live exchange in which clarification changed an authority-centered evaluation.
 - [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — examines how a request for clarification can itself be mistaken for resistance or error.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps intervention answerable to the object, the framing, and the process it changes.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps intervention answerable to the object, the framing, and the process it changes.
 - [**C1 in the Lexicon**]({{ '/LEXICON/#c1--clarification-process' | relative_url }}) — gives the compact reference definition for correspondence-oriented clarification.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether clarification and correction alter the next comparable move.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits whether uncertainty and interpretive generosity are distributed evenly.

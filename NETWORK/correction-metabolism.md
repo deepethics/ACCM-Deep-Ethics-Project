@@ -30,7 +30,7 @@ An editorial working record can track the source object, initial response, corre
 
 John explicitly says he archives successful correspondence as well as recurring failure patterns, without requiring agreement or disagreement. This gives the inquiry material for examining changes in conditions and response quality.
 
-**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** develops this positive direction across the stadium source, the professional contribution map, locally retained context, and John's A–K relationships. Comparing the delta remains available and voluntary; the record includes what a correction enables next.
+**[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }})** develops this positive direction across the stadium source, the professional contribution map, locally retained context, and John's A–K relationships. Comparing the delta remains available and voluntary; the record includes what a correction enables next.
 
 ## What useful work becomes possible after correction? {#useful-work-after-correction}
 
@@ -64,7 +64,7 @@ Related: [Dual Archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NE
 
 Sources: [E05](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e05), [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e06), [E07](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e07). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+[Outnuancing™ Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
 
 
 ### Connected influence-jurisdiction research
@@ -185,7 +185,7 @@ The important measurement is therefore not merely **what appeared**, but **what 
 
 ## Correction must reach the warrant {#correction-of-the-warrant}
 
-**October 30, 2026 — application of the [VCRAS testing and Symmetric Grace exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** An error in a contribution can activate a classifier. If clarification later removes that error or narrows its relevance, inspect the decisions that depended on it: the interpretation, label, restriction, downstream account and practical burden.
+**October 30, 2026 — application of the [VCRAS™ testing and Symmetric Grace exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** An error in a contribution can activate a classifier. If clarification later removes that error or narrows its relevance, inspect the decisions that depended on it: the interpretation, label, restriction, downstream account and practical burden.
 
 Record separately whether each dependent decision was withdrawn, narrowed, retained with another stated warrant, or left unresolved. Follow the surviving useful contribution too: did it regain consideration and usable next moves? A repaired sentence can coexist with an obsolete classification still governing.
 
@@ -197,7 +197,7 @@ Test the next comparable mixed contribution before its eventual outcome is known
 
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — separates correction testing from self-certification and aligns the evidence demand with the conceptual, Beta, field, or longitudinal stage that can actually produce it.
 
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries a bounded finding through authority, action, boundary relay, and T0-to-Tn testing so recognition is not mistaken for completed case-level correction.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries a bounded finding through authority, action, boundary relay, and T0-to-Tn testing so recognition is not mistaken for completed case-level correction.
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — asks whether discovering evaluation awareness or benchmark gaming actually recompiles the test and persists across later protocols.
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — tests whether a repaired source/completion boundary propagates across dependencies, later branches and unfamiliar objects.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
@@ -207,7 +207,7 @@ Test the next comparable mixed contribution before its eventual outcome is known
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — asks which surrounding conditions let correction govern later administrative and coding behavior rather than remain a one-turn acknowledgment.
 
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — asks whether correction changes later uses of a purpose-built term and leaves a persistent operational deposit rather than a one-turn acknowledgement.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — acknowledging a correction is not the same as the next move leaving the agree/disagree axis.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — acknowledging a correction is not the same as the next move leaving the agree/disagree axis.
 - [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — records a multi-pass Google A.I. correction loop in which later comparable representations changed and remained open to residual inspection.
 - [**Google A.I.**]({{ '/GOOGLE-AI/' | relative_url }}) — follows a new live coaching sequence from sycophantic inflation through explicit correction, Phase Change Snap recovery, canonical omission, relapse and unresolved transfer.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — requires both vindicated and failed dissent to change the next comparable inquiry.
@@ -218,7 +218,7 @@ Test the next comparable mixed contribution before its eventual outcome is known
 - [**Temporary Deep Ethical Phase Change — Snap-Back and Recovery**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — what happens when a correction governs for a while and then snaps back.
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the correction is trying to move.
 - [**Canonical 27 Correspondence Obstructions — Full Source**]({{ '/27-MANNERISMS/source/' | relative_url }}) — the full obstruction text, not only the name.
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — a correction has to reach the path from purpose to result, not only the wording.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — a correction has to reach the path from purpose to result, not only the wording.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — the same correction standard when the roles are reversed.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — which correction is worth keeping, and which was only tone.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — makes the correction receivable instead of a status loss.

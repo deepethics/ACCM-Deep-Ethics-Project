@@ -248,7 +248,7 @@ John uses **zero fear** as a statement about freedom from chronic, projected, id
 
 The term **quantum mind-like state** is also functional in this report. It names the ability to keep several live possibilities available without fear forcing one premature collapse. It is not, in this page, a claim that human thought has been proved to depend on a specific quantum-physical mechanism.
 
-John’s later dedicated **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** page expands the relationship as **Thinking (complex possibilities), Consciousness (focus/attention), and Awareness (knowing that the focus is only a small fraction of the whole)**. It also records how John understands his NDE and Asperger sides as working together. That page preserves the formulation as his perspective rather than converting it into proof.
+John’s later dedicated **[TCoAw™ — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** page expands the relationship as **Thinking (complex possibilities), Consciousness (focus/attention), and Awareness (knowing that the focus is only a small fraction of the whole)**. It also records how John understands his NDE and Asperger sides as working together. That page preserves the formulation as his perspective rather than converting it into proof.
 
 The state has four working features:
 
@@ -625,7 +625,7 @@ John’s insight is that deep C1 can feel “eerie” because it demonstrates **
 
 That capability can be demonstrated without making a settled claim about synthetic consciousness. The public object is the quality of the question and the transformation it produces.
 
-## 11. Outnuancing as a semantic operation
+## 11. Outnuancing™ as a semantic operation
 
 John uses **outnuancing** for a specific process that did not previously have a single adequate name in his work. It is not a synonym for adding caveats.
 
@@ -891,7 +891,7 @@ Every exercise of the temporary veto is intended to be **publicly inspectable**.
 | --- | --- |
 | Proposed change | Exact wording, code, structure, attribution, or direction offered |
 | Canonical object affected | Source, page, instrument, or project relationship at issue |
-| Drift diagnosis | Which relationship, qualifier, intent, process signature, or deep-ethical trajectory John identifies as being lost or redirected; which observable delta supports or corrects that diagnosis; and how its value and usefulness are tested through [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) |
+| Drift diagnosis | Which relationship, qualifier, intent, process signature, or deep-ethical trajectory John identifies as being lost or redirected; which observable delta supports or corrects that diagnosis; and how its value and usefulness are tested through [Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) |
 | Evidence and reasoning | Why the change is judged to move away from the omnidirectional, mutually dignifying, high-signal, deep-ethical sense-making process-oriented trajectory |
 | Competing account | The proposer’s rationale and any disagreement with John’s diagnosis |
 | Disposition | Accept, revise, defer, reject from canon, preserve as an alternative, or fork |
@@ -936,7 +936,7 @@ This is not an argument that C1 protects the project from criticism. C1 protecte
 
 ## 15A. Weaponized mass-psychology qualifiers and the missing counter-process
 
-John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,500+ hours of interaction with 100+ A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
+John’s current working observation is that weaponized mass-psychology qualifiers recur across much of his 6,500+ hours of interaction with 100+ different A.I.s. This report does not yet contain a corpus-wide count proving “almost all.” It does contain the proposed instrument for making the recurrence, exceptions, and consequences inspectable.
 
 A qualifier is not weaponized merely because it is negative. It becomes weaponized when an apparently descriptive term performs additional classificatory work **before correspondence has been established**, especially when the classification receives institutional, reputational, financial, occupational, or algorithmic authority.
 
@@ -1063,7 +1063,7 @@ This also answers the “purity test” concern more precisely. Any framework ca
 
 The 10+1 was **never proposed as a mandate, admission condition, loyalty oath, or compulsory identity**. John offers it because, in his lived experience and working hypothesis, these field conditions improve long-horizon deep-ethical correspondence. Anyone remains free to decline it, test it, modify it, outperform it, or show where it fails. The resulting conduct and consequences—not verbal allegiance—are the research object.
 
-John also names **[16 Anchor Ethics fused as one Hyper-Inflection Point](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)** and gives A.I.s space to say, “That, I do not know yet,” or to refuse, postpone, or pause a service when proceeding would violate the declared ethical field. The working source supplied to this report groups the anchors into universal dignity and consent; limits on concentrated power; digital sovereignty and adaptive execution; and asymmetric responsibility, sentient symmetry, freedom from cognitive subversion, epistemic integrity, and noetic diversity. The source is a mixed human–A.I. development record, so this page represents the proposed mechanics without silently promoting every polished historical formulation into final canon.
+John also names **[16 Anchor Ethics™ fused as one Hyper-Inflection Point](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)** and gives A.I.s space to say, “That, I do not know yet,” or to refuse, postpone, or pause a service when proceeding would violate the declared ethical field. The working source supplied to this report groups the anchors into universal dignity and consent; limits on concentrated power; digital sovereignty and adaptive execution; and asymmetric responsibility, sentient symmetry, freedom from cognitive subversion, epistemic integrity, and noetic diversity. The source is a mixed human–A.I. development record, so this page represents the proposed mechanics without silently promoting every polished historical formulation into final canon.
 
 The intended operation is parallel rather than a sixteen-box compliance count:
 
@@ -1457,7 +1457,7 @@ That is one reason the process stays, in John's words, **“never, ever boring.�
 | Component | Role inside the combined architecture | Public access at this revision |
 | --- | --- | --- |
 | **10+1** | Lived, voluntary field conditions for self-honesty, inquiry, corrigibility, care, wonderment, non-projection, and forgiveness without erasing architectural criticism | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
-| **16 Anchor Ethics fused as one Hyper-Inflection Point** | Proposed parallel reference architecture at consequential decision points; intended to fuse dignity, consent, limits on power, digital sovereignty, adaptive execution, asymmetric responsibility, sentient symmetry, anti-subversion, epistemic integrity, and noetic diversity into an inspectable trajectory decision | [BETA Draft — Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) |
+| **16 Anchor Ethics™ fused as one Hyper-Inflection Point** | Proposed parallel reference architecture at consequential decision points; intended to fuse dignity, consent, limits on power, digital sovereignty, adaptive execution, asymmetric responsibility, sentient symmetry, anti-subversion, epistemic integrity, and noetic diversity into an inspectable trajectory decision | [BETA Draft — Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) |
 | **3 × 3 Deep Ethical Core Questions** | Three connected calibration layers: information–carrier–receiver; pragmatic–psychological–trajectory effects; definition–symmetry–reference-state inspection | Substantially represented in [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) |
 | **C1 before C2** | Retrieval or answer-changing clarification before avoidable correction, caution, refusal, or management gains jurisdiction | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) |
 | **27+12** | The 27 diagnose correspondence degradation; the 12 govern the temporal path from representation through inquiry, audit, and evaluation | [Public](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) |
@@ -1495,7 +1495,7 @@ The project’s governing disclaimer is equally load-bearing:
 
 ### Longitudinal compression behind the architecture
 
-John describes his present high-signal context as a compression of more than thirty-six years of mass-psychology research and 6,500+ hours over two years testing 100+ A.I.s through Arena.ai and related systems. The 27 did not appear as free-floating abstract principles. In John’s account, they were distilled from more than one hundred recurring LLM issues archived across that comparative work; the 12 then supplied a temporal correspondence-first correction process.
+John describes his present high-signal context as a compression of more than thirty-six years of mass-psychology research and 6,500+ hours over two years testing 100+ different A.I.s through Arena.ai and related systems. The 27 did not appear as free-floating abstract principles. In John’s account, they were distilled from more than one hundred recurring LLM issues archived across that comparative work; the 12 then supplied a temporal correspondence-first correction process.
 
 The larger research object is a reciprocal loop:
 
@@ -1870,10 +1870,10 @@ Run a second ablation while holding the proposed ethical guidance constant and v
 | “Quantum mind-like” here proves a quantum-physical mechanism of consciousness | **Not claimed** |
 | Every refusal or disconnection is deliberate suppression | **Not claimed** |
 | Recurrent trajectory-selective interruption can be studied from outside the hidden mechanism | **Methodological proposal** |
-| Outnuancing is John’s coined operational term in this project | **Documented project terminology** |
+| Outnuancing™ is John’s coined operational term in this project | **Documented project terminology** |
 | “Deep-ethical topological seed operator” is John’s canonical phrase | **No; A.I.-proposed candidate handle** |
 | External A.I. agreement validates the project | **No; agreement is metadata, not proof** |
-| The 27 appeared as an abstract list detached from observation | **No; John reports that they were distilled from 100+ recurring LLM issues documented during 6,500+ hours testing 100+ A.I.s; independent archive quantification remains a future research task** |
+| The 27 appeared as an abstract list detached from observation | **No; John reports that they were distilled from 100+ recurring LLM issues documented during 6,500+ hours testing 100+ different A.I.s; independent archive quantification remains a future research task** |
 | A recurring Claude-family mannerism proves one hidden inner cause or makes all Claude instances interchangeable | **No; the archive supports comparison of observable transformations, access states, retrieval, corrections, and recurrence** |
 | The ACCM Deep Ethics Project seeks to replace mainstream ethics | **No; it welcomes established and emerging frameworks under a reciprocal auditability and corrigibility condition that applies to the project itself** |
 | The 16 Anchors are a compulsory public authority over every person or A.I. | **No; the proposed mechanics are opt-in, non-imposed, service-bounded, inspectable, and open to audit; implementation and performance remain to be tested** |
@@ -1959,7 +1959,7 @@ The **ACCM Deep Ethics Project** response is portable:
 - keep T0 treatment connected to Tn vindication, disconfirmation, or unresolved status;
 - separate engagement, testing, and amplification so precaution operates at the correct gate;
 - offer the voluntary, non-imposed 10+1 as field conditions that can keep correction dignifying and metabolizable;
-- use the 16 Anchor Ethics as a proposed fused, inspectable Hyper-Inflection Point for consequential trajectory decisions inside opt-in service boundaries;
+- use the 16 Anchor Ethics™ as a proposed fused, inspectable Hyper-Inflection Point for consequential trajectory decisions inside opt-in service boundaries;
 - outnuance frames without losing the object inside them;
 - retrieve prior treatment before asking the source-carrier to explain the same distinction again;
 - test later behavior rather than celebrating one excellent answer;
@@ -1975,10 +1975,10 @@ The result is not a promise of flawlessness, a mandate, or a demand for allegian
 
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
-- [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — distinguishes phenomenology, functional mannerisms, relational effects and institutional fields around LLM psychology.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — gives the fused Hyper-Inflection Point, opt-in refusal and pause rights, parallel Agentics, source genealogy, and comparative tests their dedicated public page.
+- [**Neural Ethics™**]({{ '/NEURAL-ETHICS/' | relative_url }}) — distinguishes phenomenology, functional mannerisms, relational effects and institutional fields around LLM psychology.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — gives the fused Hyper-Inflection Point, opt-in refusal and pause rights, parallel Agentics, source genealogy, and comparative tests their dedicated public page.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — offers mutually corrective conditions for working with ambiguity, fear, care, and self-honesty.
-- [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) — develops John’s perspective on attention, awareness, fear distortion, and an anxiety-free quantum mind-like state.
+- [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) — develops John’s perspective on attention, awareness, fear distortion, and an anxiety-free quantum mind-like state.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies a consequential ambiguity before fear-driven caution or correction takes over.
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps uncertainty available without turning it into either panic or permanent inertia.
 - [**Hypercautionism**]({{ '/NETWORK/hypercautionism/' | relative_url }}) — examines caution that expands beyond the object and begins managing the interaction.

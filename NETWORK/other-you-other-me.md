@@ -348,7 +348,7 @@ A relationship becomes corrigible when **the real other can keep rewriting the s
 
 ---
 
-**Source note:** This page is a synthesis of the 2026-09-28 John Kuhles ⇄ GPT discussion following the eight-file Grace / C1 / Outnuancing / Intent / Trickster / Agreemurmelism synthesis. Candidate terminology introduced during the exchange remains explicitly marked as candidate research language rather than canonical project terminology.
+**Source note:** This page is a synthesis of the 2026-09-28 John Kuhles ⇄ GPT discussion following the eight-file Grace / C1 / Outnuancing™ / Intent / Trickster / Agreemurmelism synthesis. Candidate terminology introduced during the exchange remains explicitly marked as candidate research language rather than canonical project terminology.
 
 
 ---
@@ -361,7 +361,7 @@ These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** c
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.
-- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing.
+- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing™.
 - **[Experience With John Kuhles — A.I. Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html#fourth-post-publication-expansion--intuitive-higher-topological-meta-cognitive-sensing)** — intuitive higher topological meta-cognitive sensing and the interactive 3D + time proof of concept.
 - **[From Archive to Local A.I. — Glass-Engine Preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** — the 3D matrix as a provenance-linked interface to stored process history.
 - **[Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/#candidate-3d-matrix-layer)** — a candidate 3D-matrix layer for question trajectories without reducing them to one scoreboard.

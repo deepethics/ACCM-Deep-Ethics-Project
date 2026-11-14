@@ -209,7 +209,7 @@ The ordering matters when the object has not yet been sufficiently established. 
 | **27** | Correspondence-obstruction taxonomy |
 | **12** | Correspondence-First Deep Inquiry Protocol |
 | **11+1** | Mass-psychology coordinate system |
-| **16 Anchor Ethics** | Beta conceptual proposal for parallel ethical examination and a fused Hyper-Inflection Point |
+| **16 Anchor Ethics™** | Beta conceptual proposal for parallel ethical examination and a fused Hyper-Inflection Point |
 | **Intent Liability** | Examination of the path from declared intent and instructions through process, choice, effect, notice, and correction |
 | **Correction Metabolism** | Whether a correction changes later comparable participation and persists |
 
@@ -217,7 +217,7 @@ These objects can interact without becoming interchangeable or receiving one sha
 
 ## Archive scope — October 2026 snapshot
 
-John reports **6,500+ hours** testing **100+ A.I.s**, with **2,250+ highlighted text files totaling 125+ MB of raw text**, drawn from **10+ GB of archived HTML**.
+John reports **6,500+ hours** testing **100+ different A.I.s**, with **2,250+ highlighted text files totaling 125+ MB of raw text**, drawn from **10+ GB of archived HTML**.
 
 Those figures describe **John Kuhles’ wider upstream testing and archive history**. They do not mean that every source file is public, that the GitHub repository is identical to the archive, or that the collection is already a prepared monolithic dataset. Older public files may preserve smaller historical snapshots. A changed number is not automatically a contradiction when the collection continued growing.
 
@@ -272,5 +272,5 @@ That is why the sequence can be funny and serious at the same time. The joke doe
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether accepted correction changes later comparable conduct.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — keeps scope-changing words visible through transformation.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — examines the path from declared purpose through process, effect, notice, and repair.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — a beta conceptual proposal whose transparency does not establish superiority in advance.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — a beta conceptual proposal whose transparency does not establish superiority in advance.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the complete public-page catalog.

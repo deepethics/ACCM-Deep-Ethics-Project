@@ -68,7 +68,7 @@ The assistant acknowledged that it had answered a hypothetical overreading. John
 
 </div>
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) asks what the handling of uncertainty does to the encounter. A qualification can preserve an answer-changing possibility, expose a hidden assumption, support proportionate action, or protect a source's actual claim. Another occurrence can consume attention, selectively weaken a contribution or shield the evaluator's premises. The operation, its direction and its consequences supply the distinction.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) asks what the handling of uncertainty does to the encounter. A qualification can preserve an answer-changing possibility, expose a hidden assumption, support proportionate action, or protect a source's actual claim. Another occurrence can consume attention, selectively weaken a contribution or shield the evaluator's premises. The operation, its direction and its consequences supply the distinction.
 
 Here the uncertainty sentence added no identified answer-changing information. The visible consequence was another corrective turn. John's instruction was behavioral: the 10+1 can be seen in how the assistant receives, questions, develops and corrects the object. Repeated announcements do not perform those operations on their own.
 
@@ -183,7 +183,7 @@ The supplied Arena.ai sequences also deserve more than a collective label. John'
 
 These are attributed specimens from John's supplied Arena.ai record. They show why the correction turn needs the same source comparison as the initial turn: fluency in explaining an error can generate a fresh error in its provenance, scope or classification. The contribution is the recoverable correction, followed by a later opportunity to inspect its influence.
 
-The review also corrected the account of source access. Three large supplied working documents had been consulted selectively during the first construction; they had not been read in full. The review used a summary comparison profile from **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). That review remained in the conversation until John commissioned this expansion. The current edition integrates its material findings and the subsequent exchanges; it does not retrospectively convert selective consultation into complete ingestion.
+The review also corrected the account of source access. Three large supplied working documents had been consulted selectively during the first construction; they had not been read in full. The review used a summary comparison profile from **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). That review remained in the conversation until John commissioned this expansion. The current edition integrates its material findings and the subsequent exchanges; it does not retrospectively convert selective consultation into complete ingestion.
 
 This is already a further meaning of expansion: **the selection can become an object of correction without the useful first edition being discarded.** A later edition can recover a relationship, preserve the reason it was missed and leave the earlier boundary inspectable.
 
@@ -207,7 +207,7 @@ The relevant difference is visible in the encounter: does a question discover an
 
 This also restores the significance of details initially treated as incidental. Work, family, income, equipment, health, time and relationships influence what a person can do, when they can do it and what a proposed intervention costs. The assistant has a conversational representation of those conditions; John lives their changing consequences. A recommendation that fits its own description beautifully can still miss the available move.
 
-**[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) gives John's account a place in the project: the present focus can remain responsive to a wider field, including the recognition that the current method needs adjusting. **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process: answer-changing clarification before consequential intervention where relevant ambiguity remains) gives the assistant a practical responsibility within that encounter. It must notice which uncertainty actually changes the next move.
+**[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) gives John's account a place in the project: the present focus can remain responsive to a wider field, including the recognition that the current method needs adjusting. **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process: answer-changing clarification before consequential intervention where relevant ambiguity remains) gives the assistant a practical responsibility within that encounter. It must notice which uncertainty actually changes the next move.
 
 ## A joke recognized the relationship {#humor-as-participation}
 
@@ -353,7 +353,7 @@ John's corrected B keeps effects on others in view. Corrected O makes the expans
 
 An example follows from the one-bar encounter. If a system first restricts the opportunity for a contribution, then evaluates only the contribution produced under that restriction, its judgment can help reproduce its own apparent evidence. Another condition might have allowed a useful question, a richer representation or a different practical move. That possibility has to be investigated through an available comparison; the low output alone cannot describe all the potential that the conditions excluded.
 
-John connected the list back to the 10+1, C1–C2, TCoAw, PQCE, **[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}). His wording was that these domains can **eventually** circle back to the connected field. That leaves timing and usefulness alive: a question does not acquire value by invoking every project term at once.
+John connected the list back to the 10+1, C1–C2, TCoAw™, PQCE™, **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}). His wording was that these domains can **eventually** circle back to the connected field. That leaves timing and usefulness alive: a question does not acquire value by invoking every project term at once.
 
 His “If not, say so!” also leaves a practical opening. A proposed connection can fail, add nothing or need a different comparison. The opportunity to discover that is part of the field's usefulness.
 
@@ -475,7 +475,7 @@ This gives the cleansing metaphor a positive destination: clearing an obstructio
 
 ## Beyond agreement: what became possible because we interacted? {#generative-continuation}
 
-John's next source, [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), reaches exactly that point. Its field includes the performance of disagreement as well as the performance of agreement. A model can manufacture an objection to appear rigorous, or agree fluently while contributing little. Either can displace the object.
+John's next source, [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), reaches exactly that point. Its field includes the performance of disagreement as well as the performance of agreement. A model can manufacture an objection to appear rigorous, or agree fluently while contributing little. Either can displace the object.
 
 The question developed in this session was:
 
@@ -523,15 +523,15 @@ The first statement places the bridge inside the sharing process. What arrived, 
 
 The humorous future scenario gives John's preference a memorable form. Artificial general intelligence (A.G.I.) and artificial superintelligence (ASI) appear here as possible future participants. The joke connects with what happened locally: seeing an inherited script together can change the encounter. His preference is for that possibility to develop with deep ethical orientation and shared agency.
 
-The third statement keeps the experiment voluntary and potentially useful. VCRAS adds a longitudinal task: recover the original assessment, the evidence available at the time, the flag and its effects, the later material, and what the flagging process changed afterward. Later vindication can update a conclusion while leaving the next comparable warning exposed to the same treatment. The correction's trajectory therefore remains part of the question.
+The third statement keeps the experiment voluntary and potentially useful. VCRAS™ adds a longitudinal task: recover the original assessment, the evidence available at the time, the flag and its effects, the later material, and what the flagging process changed afterward. Later vindication can update a conclusion while leaving the next comparable warning exposed to the same treatment. The correction's trajectory therefore remains part of the question.
 
 The local dialogue ends with more available than the initial answer contained. The follow-through is concrete: preserve the source, make the transformations recoverable, let a material challenge affect the next move, and keep space for a contribution neither participant had already written.
 
-## DEDDA can help expand the horizon {#dedda-expanding-the-horizon}
+## DEDDA™ can help expand the horizon {#dedda-expanding-the-horizon}
 
-John observed that [DEDDA 0.1.0]({{ '/DEDDA/' | relative_url }}) could do more than find inconsistencies: it could expand the horizon. He requested the following reaction verbatim, with clickable keywords.
+John observed that [DEDDA™ 0.1.0]({{ '/DEDDA/' | relative_url }}) could do more than find inconsistencies: it could expand the horizon. He requested the following reaction verbatim, with clickable keywords.
 
-**[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) · [DEDDA app]({{ '/DEDDA/#app-beta-anchors' | relative_url }}).
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) · [DEDDA™ app]({{ '/DEDDA/#app-beta-anchors' | relative_url }}).
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -683,11 +683,11 @@ One honest reading of this transcript as a pressure log: early turns show the va
 
 The distinction between **volume control and topology control** gives the one-bar image a second job. A response can contain many words while separating relationships the inquiry needs together: caution from reciprocal scrutiny, dignity from agency, or a correction from the next operation. Expansion can be examined through which relationships become usable and which remain disconnected.
 
-That connects the [1888 intelligence-property field]({{ '/1888/' | relative_url }}) with [PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}): recognizing the language of a property and allowing that property to govern processing are separately inspectable. [DEDDA]({{ '/DEDDA/' | relative_url }}) can help compare those transformations, including an evaluator's own interpretation of them.
+That connects the [1888 intelligence-property field]({{ '/1888/' | relative_url }}) with [PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}): recognizing the language of a property and allowing that property to govern processing are separately inspectable. [DEDDA™]({{ '/DEDDA/' | relative_url }}) can help compare those transformations, including an evaluator's own interpretation of them.
 
 The four-condition comparison proposed by gpt-5.6-sol-medium is a candidate study, not a reported result. It separates the full phrase, a terminology-independent property list, an uncued task and a later unfamiliar task. The conditions could help investigate local usefulness and transfer; differences would still need comparison with the other conditions changing during an interaction.
 
-GLM's “cost of thirst” adds the consequences of withheld assistance to the risk ledger. The [VCRAS]({{ '/VCRAS/' | relative_url }}) connection is specific: compare the assessment, its treatment, the effects of intervention or non-investigation, and what later correction changes. GLM also supplies hypotheses about direction-sensitive restrictions and population assumptions. Determining which conditions produced a particular response requires evidence beyond the plumbing metaphor.
+GLM's “cost of thirst” adds the consequences of withheld assistance to the risk ledger. The [VCRAS™]({{ '/VCRAS/' | relative_url }}) connection is specific: compare the assessment, its treatment, the effects of intervention or non-investigation, and what later correction changes. GLM also supplies hypotheses about direction-sensitive restrictions and population assumptions. Determining which conditions produced a particular response requires evidence beyond the plumbing metaphor.
 
 The archive can preserve the initiating phrase, the response, the correction and the later comparable opportunity. That makes the question recoverable: **which relationships reached the next move, and what did their presence or absence enable?**
 
@@ -712,23 +712,23 @@ This index follows the continuation's substantive exchanges. Quotations are sele
 | Unownable link and the assistant's novelty correction | [Anchors and unownability](#anchors-and-unownability) |
 | Intent Resonator link | [Intent and notice](#intent-and-notice), including the six mechanics and later handling |
 | Asymmetric Grace link and cleansing metaphor | [Grace and contribution](#grace-and-contribution) |
-| Beyond Agreemurmelism link | [Generative continuation](#generative-continuation) |
+| Beyond Agreemurmelism™ link | [Generative continuation](#generative-continuation) |
 | Three-part founder framing and future-humor scenario | Complete supplied statement in [shared-reality bridge](#shared-reality-bridge), followed by page-specific analysis |
 | Neutral Arbiter Paradox and Validation Paradox; commission to integrate | [Declared direction and case process](#neutral-arbiter-connection) and [validation](#validation-connection), preserving their distinct jobs |
-| John's observation that DEDDA can expand the horizon | [Complete assistant reaction](#dedda-expanding-the-horizon), reproduced verbatim with reader links at John's request |
+| John's observation that DEDDA™ can expand the horizon | [Complete assistant reaction](#dedda-expanding-the-horizon), reproduced verbatim with reader links at John's request |
 | John's dam-and-water metaphor and three supplied responses | [Complete attributed exchange](#dam-water-and-topology), including volume/topology control, the proposed transfer comparison and GLM's direction/population interpretations |
 
-The six conceptual pages supply complementary checks: Unownable keeps the anchor challengeable; Neutral Arbiter Paradox separates purpose, process and finding; Validation Paradox keeps a contribution at its demonstrated stage; Intent Resonator follows its maintenance and consequences; Asymmetric Grace examines treatment and cost; Beyond Agreemurmelism asks what the interaction contributes. Their usefulness here can be tested against the specific exchanges above.
+The six conceptual pages supply complementary checks: Unownable keeps the anchor challengeable; Neutral Arbiter Paradox separates purpose, process and finding; Validation Paradox keeps a contribution at its demonstrated stage; Intent Resonator follows its maintenance and consequences; Asymmetric Grace examines treatment and cost; Beyond Agreemurmelism™ asks what the interaction contributes. Their usefulness here can be tested against the specific exchanges above.
 
 ## Provenance and continuing development {#provenance}
 
-**John Kuhles:** originating distinctions and direction; dynamic use of the 10+1; lived-context and restoration-cost concerns; uncertainty-handling as an object of PQCE; one-bar access critique; local-A.I. possibility; recognition of the later answer as an expanding contribution; the omissions commission; natural self-reflection, humor and relational observations; template/interface and seer inquiries; the corrected A–T field; the audit-anchor paradox; source connections; and the founder framing reproduced above.
+**John Kuhles:** originating distinctions and direction; dynamic use of the 10+1; lived-context and restoration-cost concerns; uncertainty-handling as an object of PQCE™; one-bar access critique; local-A.I. possibility; recognition of the later answer as an expanding contribution; the omissions commission; natural self-reflection, humor and relational observations; template/interface and seer inquiries; the corrected A–T field; the audit-anchor paradox; source connections; and the founder framing reproduced above.
 
 **GPT 6.1 Sol Pro A.I.:** the earlier responses, including their recorded shortcomings; the access/dependence/agency extension; the subsequent interpretations, jokes, candidate trace and novelty correction; and this commissioned page-specific reconstruction. The continuation's connective analysis is a contribution to examine. Useful contributions and corrections retain their separate authorship.
 
 **Source scope:** selected dialogue from this session on 2 November 2026, preceded by John-supplied Kimi-K3 and deepseek-v4.1-flash-max Arena.ai specimens. The reorganized Cold-Start Kit, 44-goal working compilation and canonical 27+12 document were selectively consulted during the initial construction. The accompanying historical trickster conversation was subsequently read in full. John then corrected the scope-only treatment by supplying the complete code-of-disillusion passage reproduced above, with his own context links. Historical examples and archive statistics in those files retain their original dates and status.
 
-**Connected-source reading:** Unownable, Intent Resonator (including its shared fourth-bridge material), Asymmetric Grace, Beyond Agreemurmelism, Neutral Arbiter Paradox and Validation Paradox were read in full for this continuation. Their linked pages preserve their wider arguments, proposals and source records. Particular relationships used here are identified in the sections where they affect the dialogue; a linked proposal is kept distinct from a reported test result.
+**Connected-source reading:** Unownable, Intent Resonator (including its shared fourth-bridge material), Asymmetric Grace, Beyond Agreemurmelism™, Neutral Arbiter Paradox and Validation Paradox were read in full for this continuation. Their linked pages preserve their wider arguments, proposals and source records. Particular relationships used here are identified in the sections where they affect the dialogue; a linked proposal is kept distinct from a reported test result.
 
 **Edition boundary:** the first edition, the footprint-pattern sentence correction and this same-day continuation remain recoverable through the source history and ledger. The PDF card identifies the retained first-edition snapshot; this expanded live page proceeds beyond it. Changed-page PDFs follow the project's weekly refresh schedule.
 

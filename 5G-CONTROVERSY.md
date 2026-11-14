@@ -50,7 +50,7 @@ The **ACCM Deep Ethics Project** develops **[ACCM](https://deepethics.github.io/
 
 The [10+1 ingredients](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keep self-honesty, openness, learning, inquiry, correction on merit, independence, care, wonderment, non-projection, refusal of self-deception and forgiveness mutually corrective. They apply to the researcher, the critic, the institution and the AI summarizing them.
 
-**[PQCE](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)** (Process Quality Calibration Evaluation) asks what the processing preserves, discovers, improves or makes possible. [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) keeps the route from intent through processing to consequences available for examination. [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) makes agreement and disagreement themselves subject to evaluation.
+**[PQCE™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)** (Process Quality Calibration Evaluation) asks what the processing preserves, discovers, improves or makes possible. [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) keeps the route from intent through processing to consequences available for examination. [Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) makes agreement and disagreement themselves subject to evaluation.
 
 Applied to this controversy, that means recovering the actual claim before evaluating it, retaining conditions such as **unsafe**, asking an answer-changing clarification when the object is ambiguous, tracing claims to their supporting sources, and checking whether corrections govern the next comparable answer. A warranted finding can support, challenge or leave a claim unresolved. Equal scrutiny does not require equal evidentiary weight.
 
@@ -421,12 +421,12 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 
 - [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) — intelligence properties and process-quality calibration.
 - [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) — mutually corrective operating ingredients.
-- [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) — the quality of agreement and disagreement.
+- [Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) — the quality of agreement and disagreement.
 - [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) — intent, processing, results and consequences.
 - [Search Engine Bias](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) — discovery, source attribution and correction propagation.
 - [A.I.s & Health](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) — wider health inquiry, care pathways and archive scope.
 - [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) — influence, classification, agency and institutional responsibility.
-- **[DEDDA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** (Deep Ethical Drift Detector App) — source-to-representation comparison.
+- **[DEDDA™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/)** (Deep Ethical Drift Detector App) — source-to-representation comparison.
 - **[V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** (Vindicated Competing Risk Assessment Studies) — long-horizon comparison with earlier assessments.
 - [All public pages](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/) — the wider project map.
 

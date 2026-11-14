@@ -791,7 +791,7 @@ Examples:
 
 * Deep Ethics → AI safety
 * Adult↔Adult dignity → politeness
-* Outnuancing → critical thinking
+* Outnuancing™ → critical thinking
 * Wonderment → curiosity
 * Correction metabolism → iterative refinement
 

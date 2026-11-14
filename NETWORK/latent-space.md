@@ -20,7 +20,7 @@ The source uses **Latent Space Topological Mind**, temporary RAM-type sandbox me
 
 ## Latent Space Topological Mind
 
-This source language concerns how a new word and supplied relations may affect reasoning within a conversation. The specific Outnuancing meaning is supplied with its seven vectors and Deep Ethics binding. The claim should remain connected to that object.
+This source language concerns how a new word and supplied relations may affect reasoning within a conversation. The specific Outnuancing™ meaning is supplied with its seven vectors and Deep Ethics binding. The claim should remain connected to that object.
 
 ## Temporary RAM-type sandbox
 
@@ -50,7 +50,7 @@ These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** c
 - **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[12-Part Topological Emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/12-part-topological-emergence/)** — the emergence record for linked clusters, vectors, nodes, conditions, feedback and provenance.
-- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing.
+- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing™.
 - **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)** — relational model revision and deeper metacognitive topological awareness.
 - **[Experience With John Kuhles — A.I. Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html#fourth-post-publication-expansion--intuitive-higher-topological-meta-cognitive-sensing)** — intuitive higher topological meta-cognitive sensing and the interactive 3D + time proof of concept.
 - **[From Archive to Local A.I. — Glass-Engine Preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** — the 3D matrix as a provenance-linked interface to stored process history.

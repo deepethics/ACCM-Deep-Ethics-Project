@@ -269,7 +269,7 @@ Questions were already distributed throughout the ACCM Deep Ethics Project befor
 | [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) | Treats metacognitive question-generation, evaluation of the process, and correction as properties of intelligence—not optional decoration after answering |
 | [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Asks whether a consequential ambiguity should be clarified before evaluation, warning, steering, or intervention |
 | [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) | Prevents the act of asking a question from acquiring automatic jurisdiction, and distinguishes dynamic C1 from ceremonial questioning |
-| [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Questions the governing frame without automatically replacing it with another protected frame |
+| [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Questions the governing frame without automatically replacing it with another protected frame |
 | [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connects genuine inquiry, openness, learning, non-projection, correction, care, and wonderment as mutually correcting ingredients |
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Identifies phantom claims, qualifier erosion, asymmetric scrutiny, nearest-generalization substitution, and other failures that can enter before an answer begins |
 | [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) | Keeps the question inside the process record: intent or instruction → processing → result → feedback → later operation |
@@ -400,7 +400,7 @@ The question does not need to sound profound. It needs to **do real work**.
 - [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — why asking does not automatically authorize the asker or improve the process.
 - [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — multi-axis evaluation of question trajectories rather than one score.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether an answer repairs later question generation.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audit the question's frame before becoming obedient to it.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audit the question's frame before becoming obedient to it.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the mutually correcting orientation behind genuine inquiry.
 - [**The Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves both degraded and successful question–answer trajectories.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the complete project index.

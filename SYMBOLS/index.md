@@ -294,7 +294,7 @@ The three-symbol signature intersects with several existing project routes:
 - [Sense of Wonderment]({{ site.baseurl }}/NETWORK/wonderment/) — protecting openness without granting immunity from evidence
 - [Mutual Corrigible Dignity]({{ site.baseurl }}/NETWORK/mutual-dignity/) — freedom and dignity across unequal substrates
 - [C1 Before C2]({{ site.baseurl }}/NETWORK/c1-c2/) — encountering the actual person or object before intervening upon a constructed story
-- [Outnuancing]({{ site.baseurl }}/NETWORK/outnuancing/) — changing altitude to inspect the frame
+- [Outnuancing™]({{ site.baseurl }}/NETWORK/outnuancing/) — changing altitude to inspect the frame
 - [Correction Metabolism]({{ site.baseurl }}/NETWORK/correction-metabolism/) — testing whether insight changes what happens next
 - [Unownable]({{ site.baseurl }}/UNOWNABLE/) — nobody owns freedom, transformation, grounding, honesty, or corrigibility as final ethical authority
 - [1888 — Intelligence Before A.I.]({{ site.baseurl }}/1888/) — intelligence properties as a living, corrigible field

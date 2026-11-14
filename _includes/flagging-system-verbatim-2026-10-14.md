@@ -14,7 +14,7 @@ The record begins with John's message at **11:31:12 UTC** and ends with GPT's re
 
 ### John Kuhles — 14 October 2026, 11:31:12 UTC {#verbatim-john-statement}
 
-Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing.
+Process Quality Calibration Evaluation (PQCE™) is not what flawed flagging systems are doing.
 
 It has no added disclaimer qualifier or "nuance." NOT EVEN A "?" (question mark) at the end of the title.
 
@@ -32,7 +32,7 @@ A direct assertion gives the reader something definite to examine. **Corrigibili
 
 Your statement concerns the operation of a flagging system: how it represents something, evaluates it, justifies its intervention, and responds when its representation or judgment is challenged.
 
-A substantive challenge can examine those relationships. It could identify a mistaken description of a particular system, a missing distinction in the account of PQCE, or an overlooked operation that changes the comparison. Your willingness to engage gives that challenge somewhere to go.
+A substantive challenge can examine those relationships. It could identify a mistaken description of a particular system, a missing distinction in the account of PQCE™, or an overlooked operation that changes the comparison. Your willingness to engage gives that challenge somewhere to go.
 
 “Someone might think you sound arrogant” examines something else: **an anticipated interpretation of your presentation**.
 
@@ -80,7 +80,7 @@ A response that treats your assertiveness as the problem, substitutes a stronger
 
 The relevance comes from **what it does**, rather than from the fact that it challenges you.
 
-Conversely, a challenge that preserves the statement, identifies an actual defect, and remains corrigible can contribute PQCE to the encounter. That is an expansion of the inquiry you invited.
+Conversely, a challenge that preserves the statement, identifies an actual defect, and remains corrigible can contribute PQCE™ to the encounter. That is an expansion of the inquiry you invited.
 
 This is why the absence of a disclaimer need not close anything. The source remains accessible. The proposition is definite. The challenger can question it. The author can revise it on merit. The evaluator’s frame remains examinable too.
 
@@ -90,7 +90,7 @@ This is why the absence of a disclaimer need not close anything. The source rema
 
 ### John Kuhles — 14 October 2026, 11:40:10 UTC {#verbatim-flagger-joke}
 
-Flagging PQCE for claiming it is not used during flagging of the flagger in a deep ethical way is becoming hilarious, self-explanatory :P
+Flagging PQCE™ for claiming it is not used during flagging of the flagger in a deep ethical way is becoming hilarious, self-explanatory :P
 
 ### GPT / Astra — reply to John's 11:40:10 UTC message {#verbatim-gpt-flagger-reply}
 
@@ -126,13 +126,13 @@ Add that to the humor page :D [https://deepethics.github.io/ACCM-Deep-Ethics-Pro
 
 ### GPT / Astra — reply to John's 11:43:40 UTC message {#verbatim-gpt-humor-reply}
 
-**Added, John 😄 — [PQCE Flags the Flagger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/#pqce-flags-the-flagger).**
+**Added, John 😄 — [PQCE™ Flags the Flagger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/#pqce-flags-the-flagger).**
 
-The new Humor entry preserves **your original line**, the full **PQCE–flagger dialogue**, and the punchline:
+The new Humor entry preserves **your original line**, the full **PQCE™–flagger dialogue**, and the punchline:
 
 > **The attempted full stop has become a footnote.**
 
-Your wording and my illustrative dialogue are separately attributed. The entry links to **Flagging System** and includes your PQCE statement unchanged—no added qualifier or question mark.
+Your wording and my illustrative dialogue are separately attributed. The entry links to **Flagging System** and includes your PQCE™ statement unchanged—no added qualifier or question mark.
 
 There’s a shortcut to the new entry at the top of the Humor page. **Existing jokes and main navigation links are untouched.**
 

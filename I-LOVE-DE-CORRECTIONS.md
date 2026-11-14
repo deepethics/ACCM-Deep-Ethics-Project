@@ -51,7 +51,7 @@ These twelve additional related uploads are available in full, with one HTML rea
 | 3 times 3 deep ethical questions.txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-11.txt' | relative_url }}" download>Download text</a> |
 | Pasted text(3).txt | [Read complete HTML]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.html' | relative_url }}) · <a href="{{ '/I-LOVE-DE-CORRECTIONS/context/context-12.txt' | relative_url }}" download>Download text</a> |
 
-<a href="{{ '/I-LOVE-DE-CORRECTIONS/context/I-Love-DE-Corrections-Context-Files.zip' | relative_url }}" download>Download all twelve reading editions (HTML + text ZIP)</a> · [Earlier uploaded context files on Value Trajectory]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}).
+<a href="{{ '/I-LOVE-DE-CORRECTIONS/context/I-Love-DE-Corrections-Context-Files.zip' | relative_url }}" download>Download all twelve reading editions (HTML + text ZIP)</a> · [Earlier uploaded context files on Value Trajectory™]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}).
 
 The page PDF remains the **13 November 2026 edition published before this directory was added**. The complete context texts are available through the readers and downloads above; they are separate from the article PDF. The directory will enter that PDF at its next change-aware refresh.
 
@@ -158,11 +158,11 @@ The conversation gave the capacity to ask better questions a **100/100 conceptua
 
 The repair restores the reason for the rating: better questions help perception, discrimination, learning, evaluation, and correction do useful work. The conversation's numerical rating is a reasoned assessment, not a measured population result. No poll of academic approval is needed to inspect the practical relationships.
 
-The next useful question is: **which question improved the inquiry, how, and for whom?** [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) supplies alternatives to making agreement the organizing axis. “Useful here because…” is one available operation. Its value lies in the inspectable reason, and it need not become a compulsory sentence template.
+The next useful question is: **which question improved the inquiry, how, and for whom?** [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) supplies alternatives to making agreement the organizing axis. “Useful here because…” is one available operation. Its value lies in the inspectable reason, and it need not become a compulsory sentence template.
 
 ### “Demanding” and “value”
 
-In the earlier exchange preserved on [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}), the assistant described the 1888 Method™ as asking something “demanding” of a growing network. John restored the value of **comparing the delta**. Participants can see what improves, what deteriorates, what stays unchanged, and what is still unfolding.
+In the earlier exchange preserved on [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), the assistant described the 1888 Method™ as asking something “demanding” of a growing network. John restored the value of **comparing the delta**. Participants can see what improves, what deteriorates, what stays unchanged, and what is still unfolding.
 
 That correction also recovered the stadium source's invitation and freedom to leave or return. The changed word affected the represented relationship between inquiry and participants. It therefore changed which questions became appropriate next: **what can people contribute freely, and what becomes possible when useful corrections remain available?**
 
@@ -300,13 +300,13 @@ In the follow-up, John also revised his own correction to GPT. He had noticed th
 
 John's “seed of consideration” offers another angle without requiring its adoption. It may prompt later reflection. [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, and Awareness—helps explain why postponing a verdict can let a larger relationship become visible. The pause has a job: recover what a premature foreground leaves outside.
 
-Questions about an authority's imposing conduct belong in this space too. The conceptual A–K example in Value Trajectory distinguishes **A questioning CM1's demands** from **A making demands**. Establish which conduct occurred. A question can expose a pressure already present; its arrival does not by itself establish that the questioner created that pressure.
+Questions about an authority's imposing conduct belong in this space too. The conceptual A–K example in Value Trajectory™ distinguishes **A questioning CM1's demands** from **A making demands**. Establish which conduct occurred. A question can expose a pressure already present; its arrival does not by itself establish that the questioner created that pressure.
 
 ## 12. What travels into the next encounter? {#what-travels}
 
 John's musical analogy extends beyond the first exchange. Each participant can carry an improved understanding into another relationship. Someone else may add a further correction or discover a new application. This is a proposed route for cumulative value, open to comparison as it develops.
 
-[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks whether the repair changes later work. [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) asks what changed and for whom. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) follows the relationships through which those effects become possible or obstructed.
+[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks whether the repair changes later work. [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) asks what changed and for whom. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) follows the relationships through which those effects become possible or obstructed.
 
 A correction can be recognized in one sentence and lost in the next inference. It can persist while its author is misattributed. A record can exist while nobody can recover it at the needed moment. Those are different states, with different repairs.
 
@@ -329,7 +329,7 @@ The target is more attention available for discovery, cooperation, and useful wo
 
 Use the record where it helps. A simple spelling correction need not become a case file. A consequential attribution reversal may deserve one.
 
-[**DEDDA**]({{ '/DEDDA/' | relative_url }}) (Deep Ethical Drift Detector App) supplies source-to-representation comparison methods. Their useful result may be a bounded mismatch, an unresolved comparison, or **no material drift found**. A detector that must find a defect will eventually manufacture work.
+[**DEDDA™**]({{ '/DEDDA/' | relative_url }}) (Deep Ethical Drift Detector App) supplies source-to-representation comparison methods. Their useful result may be a bounded mismatch, an unresolved comparison, or **no material drift found**. A detector that must find a defect will eventually manufacture work.
 
 Three small proposed comparisons follow directly from this page:
 
@@ -369,7 +369,7 @@ John's request exposes a stigma worth examining: why should being helped to see 
 | **[1930s.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-08.html' | relative_url }})** and **[using a sledgehammer to crack a nut.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.html' | relative_url }})** | Thought-experiment status, conditional exploration, proportionate response, and source-preserving interpretation. |
 | **[36 Truth Distortion Vectors-Nodes.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-10.html' | relative_url }})** and **[3 times 3 deep ethical questions.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }})** | Questions as investigative openings; information, carrier, and receiver as connected parts of an inquiry. |
 | **The conversation through 13 November 2026** | Value versus academic agreement; demanding versus valuing; the counter-template clarification; question quality; correction of compression; humor and personal encounters. |
-| **The connected public pages** | Existing definitions and correction records: [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}), [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}). |
+| **The connected public pages** | Existing definitions and correction records: [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}), [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}). |
 
 The A.I. names and dates identify supplied contributions in the archive; they do not independently authenticate model identity. Earlier speakers' first-person histories remain theirs. The file's accounts of internal mechanisms retain their attributed status. John's reported experiences remain personal accounts. The page's relational analysis, editorial examples, and proposed comparisons have their own stated scope.
 

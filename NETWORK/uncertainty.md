@@ -36,15 +36,15 @@ Sources: [E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — develops the practical relationship among postponed judgment, Asymmetric Grace, Bidirectional Scrutiny, PQCE and accountable action through John's attributed quotations.
+- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — develops the practical relationship among postponed judgment, Asymmetric Grace, Bidirectional Scrutiny, PQCE™ and accountable action through John's attributed quotations.
 
 - [**Sense of Wonderment**]({{ '/NETWORK/wonderment/' | relative_url }}) — preserves recognition and possibility before they have been compressed into a finished account.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks for clarification when a materially different answer could change the next move.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — tracks how uncertainty, scope, and evidentiary status change across a developing exchange.
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects unresolved meaning with reasoning that can move beyond a forced binary while still navigating binary conditions.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on keeping conceptual relationships available before selecting one final interpretation.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on keeping conceptual relationships available before selecting one final interpretation.
 - [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — shows how postponed judgment can let an unfolding punchline retroactively clarify the earlier trajectory.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the frame, omissions, assumptions, and pressure that can convert uncertainty into premature closure.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the frame, omissions, assumptions, and pressure that can convert uncertainty into premature closure.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps openness and wonderment answerable to inquiry, self-honesty, non-projection, and correction on merit.
 
 ---

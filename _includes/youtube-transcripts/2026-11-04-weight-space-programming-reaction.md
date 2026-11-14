@@ -89,13 +89,13 @@ The more targeted an intervention becomes, the more important its purpose can be
 
 [Intent Liability's six mechanics]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) provide a concrete examination: what instructions govern the editor; which incentives shape selection; whether the stated mission matches the resulting behavior; whose risks are counted; which assumptions enter the diagnosis; and which alternatives are chosen or excluded.
 
-The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** can examine consequences in parallel, including consent, harm, rights, epistemic integrity, cognitive diversity, and responsibility. Their contribution is to expose relevant conflicts and dependencies. A technical diagnosis or a favorable collection of scores does not itself authorize a change to another system.
+The **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** can examine consequences in parallel, including consent, harm, rights, epistemic integrity, cognitive diversity, and responsibility. Their contribution is to expose relevant conflicts and dependencies. A technical diagnosis or a favorable collection of scores does not itself authorize a change to another system.
 
 One practical distinction is between consenting to inspect a model and consenting to modify, distribute, or deploy it. Scope those permissions separately. Preserve the original checkpoint, the exact edit, the responsible decision, and a rollback or other appropriate recovery route. Where a change affects other people, their exposure and available recourse enter the decision too.
 
-This is [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) at an engineering boundary: an objection can be heard and examined before anyone receives authority to impose a remedy. A refusal may be justified, mistaken, or mixed. Labeling it a defect does not settle that question. The same scrutiny applies to the project and any tool built in its name.
+This is [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) at an engineering boundary: an objection can be heard and examined before anyone receives authority to impose a remedy. A refusal may be justified, mistaken, or mixed. Labeling it a defect does not settle that question. The same scrutiny applies to the project and any tool built in its name.
 
-[VCRAS]({{ '/VCRAS/' | relative_url }}) adds the longitudinal comparison: preserve what was known when an edit was proposed, the risks of acting or leaving the system unchanged, whose threshold governed the decision, and what later evidence changes. A correction can improve tomorrow's decision only if that history remains usable and the affected procedure can actually change.
+[VCRAS™]({{ '/VCRAS/' | relative_url }}) adds the longitudinal comparison: preserve what was known when an edit was proposed, the risks of acting or leaving the system unchanged, whose threshold governed the decision, and what later evidence changes. A correction can improve tomorrow's decision only if that history remains usable and the affected procedure can actually change.
 
 #### The Glass Engine needs the whole transformation path {#weights-glass-engine}
 

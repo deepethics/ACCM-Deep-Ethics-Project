@@ -292,7 +292,7 @@ The deeper opposite of grace, in this sense, is not harshness. It is **premature
 
 ## Component findings and whole-contribution judgments {#component-to-whole-judgment}
 
-**October 30, 2026 — conceptual extension from the [VCRAS exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** John contrasts a governing system's valid fragment being used to justify broader authority with an outside contribution's defective fragment being used to justify broader dismissal. His 15%/85% illustration directs attention to the selection rule: which part receives governing weight?
+**October 30, 2026 — conceptual extension from the [VCRAS™ exchange]({{ '/VCRAS/#testing-and-symmetric-grace' | relative_url }}).** John contrasts a governing system's valid fragment being used to justify broader authority with an outside contribution's defective fragment being used to justify broader dismissal. His 15%/85% illustration directs attention to the selection rule: which part receives governing weight?
 
 Keep the component finding, its relevance, dependent claims, surviving useful material and proposed consequence separately visible. Compare that same operation upstream, downstream and sideways. A detected defect may warrant a local correction, wider reconsideration or a consequential restriction; its evidentiary connections determine the scope.
 
@@ -509,7 +509,7 @@ The treasure is not merely the later verdict. It is the **longitudinal signature
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — trust, doubt, and generosity are not settled by which side a person is on.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — trust, doubt, and generosity are not settled by which side a person is on.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — compares the scrutiny, ambiguity, and correction rights given to consensus and dissent across political positions.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins candid scrutiny to reciprocal dignity, clarification, and correction rights.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps dignity active while scrutiny and correction move in both directions.

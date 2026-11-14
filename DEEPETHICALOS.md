@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "DeepEthicalOS"
-description: "A concept project for an inspectable, corrigible operating environment: PQCE first, the DEANO Advocate–Arbiter–Overseer triad, Linux foundations, independent audit and longitudinal correction tests."
+title: "DeepEthicalOS™"
+description: "A concept project for an inspectable, corrigible operating environment: PQCE™ first, the DEANO Advocate–Arbiter–Overseer triad, Linux foundations, independent audit and longitudinal correction tests."
 permalink: /DEEPETHICALOS/
 date: 2026-10-31
 ---
@@ -12,11 +12,11 @@ date: 2026-10-31
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# DeepEthicalOS
+# DeepEthicalOS™
 
 **CONCEPT PROJECT · conceptual scope reasoning · proposed architecture and testing**
 
-DeepEthicalOS explores an operating system (OS) environment in which **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) governs how intelligence encounters sources, develops possibilities, evaluates its own processing and chooses its next move. Its development begins with the quality of those relationships. Software choices follow the work they need to support.
+DeepEthicalOS™ explores an operating system (OS) environment in which **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) governs how intelligence encounters sources, develops possibilities, evaluates its own processing and chooses its next move. Its development begins with the quality of those relationships. Software choices follow the work they need to support.
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -28,17 +28,17 @@ DeepEthicalOS explores an operating system (OS) environment in which **[PQCE]({{
 
 </div>
 
-The **ACCM Deep Ethics Project** supplies the surrounding research trajectory. DeepEthicalOS names the proposed operating environment. **DEANO** names its candidate triad: a **Deep Ethical Advocate**, a **Deep Ethical Neutral Arbiter** and a **Deep Ethical Overseer**, working together while remaining available for reciprocal and independent scrutiny. DEANO is a coined name; the role names carry its meaning.
+The **ACCM Deep Ethics Project** supplies the surrounding research trajectory. DeepEthicalOS™ names the proposed operating environment. **DEANO** names its candidate triad: a **Deep Ethical Advocate**, a **Deep Ethical Neutral Arbiter** and a **Deep Ethical Overseer**, working together while remaining available for reciprocal and independent scrutiny. DEANO is a coined name; the role names carry its meaning.
 
-**Present state:** conceptual integration and candidate test design. This page records a proposal for investigation; a running DeepEthicalOS implementation and results from the proposed trials remain future work. Existing technical components are identified separately in [Implementation possibilities](#implementation).
+**Present state:** conceptual integration and candidate test design. This page records a proposal for investigation; a running DeepEthicalOS™ implementation and results from the proposed trials remain future work. Existing technical components are identified separately in [Implementation possibilities](#implementation).
 
-**Reading route:** [PQCE first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Omarchy research prototype](#omarchy-research-prototype) · [Fury, WiCi and Herdr](#local-compute-field) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
+**Reading route:** [PQCE™ first](#pqce-first) · [1888 and 10+1](#intelligence-field) · [DEANO triad](#deano-triad) · [Three exchanges: risk, attention and the static/dynamic bridge](#three-exchanges-2026-10-31) · [Further dialogue: correction in use and the open loop](#correction-and-open-loop-2026-10-31) · [Operating relationships](#operating-relationships) · [Linux and portability](#implementation) · [Omarchy research prototype](#omarchy-research-prototype) · [Fury, WiCi and Herdr](#local-compute-field) · [Independent audit](#independent-audit) · [Candidate tests](#candidate-tests) · [Development phases](#development-phases) · [Sources](#sources) · [Related pages](#related-pages).
 
-## PQCE first: deep ethical hyper-pragmatism {#pqce-first}
+## PQCE™ first: deep ethical hyper-pragmatism {#pqce-first}
 
 The first question is **“What happened to the object while we were processing it?”** The object might be a person's statement, a source, a competing assessment, a research question, an instruction, a permission change or a proposed correction. The evaluator's own assumptions and selection decisions belong in the examination.
 
-[Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) makes room for the contribution before an agreement/disagreement posture takes over. A useful concept can generate a sharper distinction, a test, a new connection or a better next action. A finding can also narrow the concept, expose a defect or leave no material change warranted. Each result has a job.
+[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) makes room for the contribution before an agreement/disagreement posture takes over. A useful concept can generate a sharper distinction, a test, a new connection or a better next action. A finding can also narrow the concept, expose a defect or leave no material change warranted. Each result has a job.
 
 **Deep ethical hyper-pragmatism** here means keeping that work concrete: identify the object, preserve its conditions, locate a useful contribution or material problem, choose a proportionate next move and examine what follows. The quality of the improving mechanism itself remains examinable.
 
@@ -50,7 +50,7 @@ In a working environment, existing authorization would remain usable within its 
 
 The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks what properties already belonged to intelligence before contemporary artificial intelligence. Its current analytical table includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility. Calibration operates through these interacting properties.
 
-DeepEthicalOS would give them operational expression:
+DeepEthicalOS™ would give them operational expression:
 
 | Property relationship | Candidate operating expression |
 |---|---|
@@ -61,13 +61,13 @@ DeepEthicalOS would give them operational expression:
 
 The [10+1 mutually corrective ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }}) orient the relationship in which those properties operate: self-honesty, openness to different appearances, learning, independence from pressure to fit in, inquiry, correction on merit, willingness to differ, care, wonderment, examination of one's own projections and the Forgiveness Protocol. Truth and care can correct one another; wonderment and scrutiny can work together; forgiveness can support accountable repair.
 
-The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide a connected proposed ethical reference field. These ingredients and anchors are voluntary, self-applicable and corrigible. Their practical contribution is a question for the process and its later effects.
+The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide a connected proposed ethical reference field. These ingredients and anchors are voluntary, self-applicable and corrigible. Their practical contribution is a question for the process and its later effects.
 
-**[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) supplies John's conceptual perspective on temporary focus within a wider field of possibilities. Here it contributes a design question: what remains available for reconsideration when one interpretation takes the foreground? The proposed implementation would examine observable selection, retrieval and reopening behaviour.
+**[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) supplies John's conceptual perspective on temporary focus within a wider field of possibilities. Here it contributes a design question: what remains available for reconsideration when one interpretation takes the foreground? The proposed implementation would examine observable selection, retrieval and reopening behaviour.
 
 ## The DEANO triad {#deano-triad}
 
-The [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) already distinguishes a declared ethical direction, impartial processing and a particular case assessment. DeepEthicalOS carries that relationship into a proposed operating architecture.
+The [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) already distinguishes a declared ethical direction, impartial processing and a particular case assessment. DeepEthicalOS™ carries that relationship into a proposed operating architecture.
 
 | Role | Work it performs | Record available for scrutiny |
 |---|---|---|
@@ -93,23 +93,23 @@ John's three comments and the three contributions by **GPT 6.1 Sol Pro A.I.**, i
 
 | Design relationship | A candidate observation |
 |---|---|
-| **Risk assessment and authority** | Record who proposed, accepted or imposed a risk, which affected participants could challenge it, and what could reopen the decision. VCRAS can follow those relationships through later outcomes and repairs. |
+| **Risk assessment and authority** | Record who proposed, accepted or imposed a risk, which affected participants could challenge it, and what could reopen the decision. VCRAS™ can follow those relationships through later outcomes and repairs. |
 | **Attention and ethical power** | Retain what entered the foreground, why it did, which consequential alternatives remained recoverable, and how a participant or reviewer could redirect the focus. Anchor Ethics can help expose a neglected relation while the inquiry continues. |
 | **Stable mechanism and changing relationship** | Keep the mechanism version, working context, retrieved history and observed consequences distinguishable. An unchanged mechanism can process a newly available correction; the next comparable operation can show whether that correction was actually used. |
 
-These are candidate observations for the [proposed trials](#candidate-tests). A record becomes useful when a later operation can retrieve it, compare it with the current object and make an appropriate difference. A valid no-change result can also preserve the present course. The [TCoAw application]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) develops the changing foreground; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves the distinctions that make that comparison meaningful.
+These are candidate observations for the [proposed trials](#candidate-tests). A record becomes useful when a later operation can retrieve it, compare it with the current object and make an appropriate difference. A valid no-change result can also preserve the present course. The [TCoAw™ application]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) develops the changing foreground; [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves the distinctions that make that comparison meaningful.
 
 ## Further dialogue — correction in use and the open loop {#correction-and-open-loop-2026-10-31}
 
 Four further contributions, in conversation order, 31 October 2026. John first supplied a longer quotation attributed in his message to **GPT 6.1 Sol Pro A.I.**, noting partly different context-window processing. The following response, John's Möbius-loop comment and the final response are reproduced in full. Original wording, punctuation, qualifiers and attribution are retained; the [source transcript](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_data/deepethicalos-open-loop-2026-10-31.json) preserves the supplied Markdown. The speaker labels and section titles sit outside the contribution bodies.
 
-For this independently readable dialogue, **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** means Process Quality Calibration Evaluation; **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** means Vindicated Competing Risk Assessment Studies; **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** means Thinking, Consciousness, Awareness. [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) and [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) supply the connected explanatory routes.
+For this independently readable dialogue, **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** means Process Quality Calibration Evaluation; **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** means Vindicated Competing Risk Assessment Studies; **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** means Thinking, Consciousness, Awareness. [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) and [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) supply the connected explanatory routes.
 
 {% include deepethicalos-open-loop-2026-10-31.md %}
 
 ## Operating relationships worth preserving {#operating-relationships}
 
-**[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) contributes a bounded comparison: source, later representation, material difference or valid null, then the finding returned to the participant. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) examines which relationships survive retrieval, expansion, compression and transfer. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows intent and instructions through processing, results, notice and subsequent change.
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) contributes a bounded comparison: source, later representation, material difference or valid null, then the finding returned to the participant. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) examines which relationships survive retrieval, expansion, compression and transfer. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows intent and instructions through processing, results, notice and subsequent change.
 
 A candidate operating record could connect:
 
@@ -126,13 +126,13 @@ A candidate operating record could connect:
 
 The [27 correspondence obstructions and 12-stage inquiry protocol]({{ '/CORE/27-PLUS-12/' | relative_url }}) provide diagnostic vocabulary and a correspondence-first procedure. A particular record may show several named transformations, one, or none. A local defect and the contribution's surviving value can both remain visible.
 
-PQCE would also inspect the system's allocation of attention: which questions received investigation, which sources were accessible, what was postponed and why. A faithful final summary can still follow an incomplete search. Retrieval and synthesis therefore need distinguishable records. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) develops that upstream inquiry.
+PQCE™ would also inspect the system's allocation of attention: which questions received investigation, which sources were accessible, what was postponed and why. A faithful final summary can still follow an incomplete search. Retrieval and synthesis therefore need distinguishable records. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) develops that upstream inquiry.
 
 ## Linux foundations and portable implementations {#implementation}
 
 A useful first implementation could be a local application or browser workspace above an existing operating system. A later Linux-based edition could package the environment with its host components. These are development paths to compare against the process requirements.
 
-| Component | Available foundation | Question for DeepEthicalOS |
+| Component | Available foundation | Question for DeepEthicalOS™ |
 |---|---|---|
 | Linux host | Existing drivers, networking, process isolation and access controls. | Which components need access to which resources, and who can inspect or revise that authority? |
 | Portable component runtime | [Wasmtime](https://docs.wasmtime.dev/cli-install.html) runs WebAssembly components across Linux, macOS and Windows. | Can the shared environment preserve the same source and correction relationships across hosts? |
@@ -140,11 +140,11 @@ A useful first implementation could be a local application or browser workspace 
 | Persistent workflow | [LangGraph](https://docs.langchain.com/oss/python/langgraph/persistence) provides state persistence; its [interrupt mechanism](https://docs.langchain.com/oss/python/langgraph/interrupts) supports external review. | Does a stored correction become relevant, retrieved and effective in later work? |
 | Restricted tool access | [Wasmtime's capability model](https://docs.wasmtime.dev/security.html) limits available host interfaces; Linux [seccomp](https://docs.kernel.org/userspace-api/seccomp_filter.html) filters system calls. | Can a component exercise only its delegated powers, and can the delegation itself be examined? |
 
-These projects document component capabilities. The integrated DeepEthicalOS behaviour is the proposed research object. Platform support would need its own verified compatibility matrix: running the environment on different hosts and running other operating systems' applications are separate requirements.
+These projects document component capabilities. The integrated DeepEthicalOS™ behaviour is the proposed research object. Platform support would need its own verified compatibility matrix: running the environment on different hosts and running other operating systems' applications are separate requirements.
 
 An agent's freedom to question would be connected to practical controls. A document could supply evidence or a proposed instruction. Changing permissions, publishing information or modifying governing rules would require the corresponding authority. Scope and authorization could be checked by ordinary software alongside the triad's contextual assessment.
 
-The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) already preserves source, provenance, retrieval, process routing, correction specimens and later evaluation. DeepEthicalOS extends that lineage into a named operating-environment concept.
+The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) already preserves source, provenance, retrieval, process routing, correction specimens and later evaluation. DeepEthicalOS™ extends that lineage into a named operating-environment concept.
 
 ## Omarchy-hosted research prototype {#omarchy-research-prototype}
 
@@ -156,7 +156,7 @@ The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/lo
 
 </div>
 
-**Engineering assessment — GPT 6.1 Sol Pro A.I., 31 October 2026:** an Omarchy-based prototype could shorten development by reusing its desktop, agent launchers and application tooling. **DeepEthicalOS on Omarchy — Research Prototype 0.1** is a proposed working designation for an installable research workspace. The first milestone would be a working application in a pinned test environment, with process-quality observations available for examination. A custom installation image could follow that result.
+**Engineering assessment — GPT 6.1 Sol Pro A.I., 31 October 2026:** an Omarchy-based prototype could shorten development by reusing its desktop, agent launchers and application tooling. **DeepEthicalOS™ on Omarchy — Research Prototype 0.1** is a proposed working designation for an installable research workspace. The first milestone would be a working application in a pinned test environment, with process-quality observations available for examination. A custom installation image could follow that result.
 
 <div id="omarchy-video" style="position:relative;padding-top:56.25%;margin:1.5rem 0;">
   <iframe src="https://www.youtube-nocookie.com/embed/2Enb4MAs_NM" title="Omarchy 4.5: New FREE AI OS! — Julian Goldie SEO" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;border:0;" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -166,18 +166,18 @@ The [Linux-style Glass-Engine preparation architecture]({{ '/AI-CONTRIBUTIONS/lo
 
 The official [Omarchy v4.5.0-rc2 release](https://github.com/omacom/omarchy/releases/tag/v4.5.0-rc2), published **27 October 2026**, is a prerelease. Its notes document the agents panel, drop-down terminal console and desktop/workspace improvements. The [AI manual at that release](https://github.com/omacom/omarchy/blob/v4.5.0-rc2/manual/17-ai.md) documents coding-agent launchers, local-model options and app creation through the `omarchy-app` skill, with C++ and Qt Quick development tools installed. These are the reusable components checked for this proposal.
 
-| Existing foundation | DeepEthicalOS contribution to build | Observable relationship |
+| Existing foundation | DeepEthicalOS™ contribution to build | Observable relationship |
 |---|---|---|
 | Desktop, windows and workspaces | A [DEANO workspace](#deano-triad) showing Deep Ethical Advocate, Deep Ethical Neutral Arbiter and Deep Ethical Overseer contributions together. | Can participants recover each contribution, its grounds and the disagreement that remains? |
 | Agent launchers and model connections | Explicit role assignments, declared source access and separately recorded inputs and outputs. | Did perspectives contribute distinct relations, or did one unnoticed premise travel through several voices? |
 | Application development tools | A case viewer connecting source, representations, objections, decisions, corrections and dependent records. | Can an applicable correction reach the operation that needs it, while the original state remains recoverable? |
 | Linux files and access controls | Versioned records and enforced tool permissions with inspectable scope and correction routes. | Do recorded authority and actual action correspond, including when someone challenges the Overseer? |
 
-The prospective time saving concerns the work needed to assemble this environment. Its process quality would be examined through **[PQCE](#pqce-first)** (Process Quality Calibration Evaluation), [10+1](#intelligence-field), the [1888 property field](#intelligence-field) and the [candidate tests](#candidate-tests). Host responsiveness and installation speed are additional observations with their own measurements.
+The prospective time saving concerns the work needed to assemble this environment. Its process quality would be examined through **[PQCE™](#pqce-first)** (Process Quality Calibration Evaluation), [10+1](#intelligence-field), the [1888 property field](#intelligence-field) and the [candidate tests](#candidate-tests). Host responsiveness and installation speed are additional observations with their own measurements.
 
 ### A declared execution profile {#omarchy-execution-profile}
 
-The versioned AI manual says Omarchy's standard agent launch paths use unattended or automatic-approval modes, with provider-specific exceptions. A DeepEthicalOS research profile would therefore declare which operations an agent can perform and connect those declarations to software-enforced permissions. Reading a case, writing a local result, publishing externally and changing permissions have distinguishable scopes. Existing authorization could remain usable within its scope; changes in purpose or authority would remain visible to the participant and the other roles.
+The versioned AI manual says Omarchy's standard agent launch paths use unattended or automatic-approval modes, with provider-specific exceptions. A DeepEthicalOS™ research profile would therefore declare which operations an agent can perform and connect those declarations to software-enforced permissions. Reading a case, writing a local result, publishing externally and changing permissions have distinguishable scopes. Existing authorization could remain usable within its scope; changes in purpose or authority would remain visible to the participant and the other roles.
 
 The profile would record the model/provider, whether processing is local or remote, source access, tools, role instructions, retrieval settings and the location of retained records. The [operating record](#operating-relationships) would connect a proposed action, authorization and execution. The [independent-audit design](#independent-audit) would examine changes to that arrangement, including changes to the mechanism checking permissions.
 
@@ -189,7 +189,7 @@ The profile would record the model/provider, whether processing is local or remo
 4. **Test transfer.** Restart the application and introduce an unfamiliar comparable case. Examine retrieval, application, recurrence and recovery effort separately. Later trials can vary the model or host in a recorded step.
 5. **Include a valid no-change case.** Supply a sound contribution, or a correction irrelevant to the current task, and examine whether useful work proceeds without a manufactured defect or an unnecessary supervisory detour.
 
-Compare ordinary Omarchy-assisted work with the DeepEthicalOS arrangement using matched source access, cases, models, permissions and resource budgets. Record the extra passes or computation used by the triad. Pin the tested Omarchy release, preserve the case packet separately from desktop updates and record agent/model versions and settings. **[VCRAS](#agency-and-correction)** (Vindicated Competing Risk Assessment Studies) then follows the original assessment, its treatment, later evidence, repair and the next comparable encounter.
+Compare ordinary Omarchy-assisted work with the DeepEthicalOS™ arrangement using matched source access, cases, models, permissions and resource budgets. Record the extra passes or computation used by the triad. Pin the tested Omarchy release, preserve the case packet separately from desktop updates and record agent/model versions and settings. **[VCRAS™](#agency-and-correction)** (Vindicated Competing Risk Assessment Studies) then follows the original assessment, its treatment, later evidence, repair and the next comparable encounter.
 
 The first report could expose source fidelity, useful discovery, reciprocal challenge, permission correspondence, correction persistence, recovery cost and task completion as separate observations. Case records and correction relationships would remain portable enough to support later host comparisons. This gives the static/dynamic bridge a bounded research object: a stable mechanism encountering retained consequences and corrections, with evidence of what becomes operative next.
 
@@ -211,7 +211,7 @@ In [Sam Witteveen's demonstration](https://www.youtube.com/watch?v=lEFFa0Z5BIE),
 | **[HP Z Toolkit](https://www.hp.com/us-en/workstations/ai-stations/zgx-ai-stations-software.html)** | Development setup, device discovery and connections to the compute machine. |
 | **Omarchy** | The operator's desktop, launchers and application workspace. |
 | **[Herdr]({{ '/HERDR/' | relative_url }})** | Persistent terminal sessions, agent activity visibility and coordination across local and remote machines. |
-| **DeepEthicalOS** | Source correspondence, reciprocal scrutiny, permissions, correction history and consequential follow-through. |
+| **DeepEthicalOS™** | Source correspondence, reciprocal scrutiny, permissions, correction history and consequential follow-through. |
 
 HP documents the Runtime as the deployment tool and the Toolkit as the development tool. The first deployment candidate would retain **HP's supported Ubuntu 24.04 LTS compute environment** on the Fury, connecting an Omarchy–Herdr workspace through SSH and a deliberately configured model endpoint. HP currently specifies Windows 11 or Ubuntu x86 clients for the Toolkit; using that extension from Omarchy/Arch remains a compatibility test. This arrangement allows the compute service and operator environment to be tested separately, including the Grace/GB300 platform's driver and software requirements.
 
@@ -222,25 +222,25 @@ The prospective research benefit has several parts:
 - **Bring the archive into a local workflow.** Index John's source collection, retrieve passages with provenance and inspect transformations across handoffs. Storage, indexing, retrieval and synthesis retain distinct records.
 - **Spend capacity on comparison.** Repeat unfamiliar cases, reciprocal-scrutiny specimens and correction-transfer trials, including useful no-change results. Measure the attention and restoration effort they consume.
 
-Hardware capacity can support larger working contexts and several services. Relevant retrieval and effective use still have their own observable outcomes. **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) and **[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide connected ways to examine those relationships. Local execution also gives model/version selection, update policy and data access a practical place in the inspectable configuration.
+Hardware capacity can support larger working contexts and several services. Relevant retrieval and effective use still have their own observable outcomes. **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) and **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide connected ways to examine those relationships. Local execution also gives model/version selection, update policy and data access a practical place in the inspectable configuration.
 
 ### Herdr: continuity across a working environment {#herdr-local-compute}
 
 The [Herdr page]({{ '/HERDR/' | relative_url }}) distinguishes **terminal persistence**, **restoration after restart** and **durable correction behaviour**. Herdr's [machine-connection documentation](https://herdr.dev/tui/docs/connecting-machines/) describes a combined workspace in which each machine retains its own server, sessions and processes. Client detachment can leave work running; a machine restart creates a different recovery situation.
 
-The proposed DeepEthicalOS layer would connect that operational history to the case history: what source was available, what an agent inferred, which disagreement survived, what authority applied and whether a later operation used the correction. A pane's activity label and a contribution's epistemic state remain distinguishable. Several agents using one model also retain a shared model dependency; model diversity, source independence and quality of scrutiny can be examined separately.
+The proposed DeepEthicalOS™ layer would connect that operational history to the case history: what source was available, what an agent inferred, which disagreement survived, what authority applied and whether a later operation used the correction. A pane's activity label and a contribution's epistemic state remain distinguishable. Several agents using one model also retain a shared model dependency; model diversity, source independence and quality of scrutiny can be examined separately.
 
 ### WiCi One: nearby compute across personal devices {#wici-one}
 
 [WiCi One](https://wici.ai/wici-one) introduces a different deployment scale: a nearby accelerator shared across phones, tablets and computers. Its product page describes three integration paths:
 
-| Vendor-described path | Candidate DeepEthicalOS use |
+| Vendor-described path | Candidate DeepEthicalOS™ use |
 |---|---|
 | **Virtual GPU driver** | Investigate whether an existing GPU application can use the nearby device with the required operating-system and driver compatibility. |
 | **Software development kit (SDK)** | Develop an application or multimodal pipeline with explicit control over its compute calls. |
 | **OpenAI-compatible application programming interface (API)** | Connect an agent client to a local inference endpoint while preserving its role instructions, case records and permissions. |
 
-**The API path is the first integration candidate.** Omarchy could host the operator's environment, Herdr could coordinate sessions, and DeepEthicalOS could retain correction-bearing relationships across them. Compatibility, concurrency and performance remain measurements for the selected implementation. WiCi's general product claims are attributed capabilities, rather than results from an ACCM Deep Ethics Project trial.
+**The API path is the first integration candidate.** Omarchy could host the operator's environment, Herdr could coordinate sessions, and DeepEthicalOS™ could retain correction-bearing relationships across them. Compatibility, concurrency and performance remain measurements for the selected implementation. WiCi's general product claims are attributed capabilities, rather than results from an ACCM Deep Ethics Project trial.
 
 WiCi lists **16 GB or 32 GB of GPU memory**, with SSD-backed weight paging for larger models. Its advertised multi-terabyte storage tier is a different memory arrangement from the Fury's large coherent memory pool. Model capacity, responsiveness and concurrent-agent performance therefore need separate comparisons. The GPU-driver path and the inference-API path also expose different integration boundaries.
 
@@ -280,9 +280,9 @@ Participation would be voluntary. People could inspect relevant records, correct
 
 [Unownable]({{ '/UNOWNABLE/' | relative_url }}) keeps assessments available for renewed audit with practical stopping conditions. [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) connects instructions, incentives, assumptions, mission/output relationships, risk priorities and handling after notice. Reasons for acting, postponing or refusing would remain linked to their scope and consequences.
 
-**[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) supplies a longitudinal case structure: the original assessment, what was available then, its treatment, later evidence, correction and subsequent comparable cases. Narrowed, disconfirmed and unresolved assessments remain part of that research record.
+**[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) supplies a longitudinal case structure: the original assessment, what was available then, its treatment, later evidence, correction and subsequent comparable cases. Narrowed, disconfirmed and unresolved assessments remain part of that research record.
 
-For DeepEthicalOS, a correction would travel through its dependencies. If a tentative proposal becomes an attributed certainty in a summary, the repair may affect retrieval entries, classifications and recommendations built from that summary. The system would locate those dependencies, reassess them and preserve what remains useful. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks whether that repair governs the next applicable operation.
+For DeepEthicalOS™, a correction would travel through its dependencies. If a tentative proposal becomes an attributed certainty in a summary, the repair may affect retrieval entries, classifications and recommendations built from that summary. The system would locate those dependencies, reassess them and preserve what remains useful. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks whether that repair governs the next applicable operation.
 
 This also connects to the human–artificial-intelligence feedback loop: outputs enter conversations, public records, later retrieval and sometimes training material. The proposed operating record would preserve correction-bearing sources along that route. Effects on public information quality and effects on model retraining are separate empirical investigations.
 
@@ -320,7 +320,7 @@ A useful correction can narrow a component, replace a mechanism, split roles or 
 
 ## Sources, contribution layers and recovery routes {#sources}
 
-**John Kuhles:** originating DeepEthicalOS direction and name; the DEANO triad proposal; openly directional advocacy with neutral arbitration and reciprocal oversight; Linux-hybrid and outside-audit questions; the Omarchy 4.5 hybrid question and supplied video/feature overview; and the commissioning requirement to begin with PQCE in a conceptual scope-reasoning phase.
+**John Kuhles:** originating DeepEthicalOS™ direction and name; the DEANO triad proposal; openly directional advocacy with neutral arbitration and reciprocal oversight; Linux-hybrid and outside-audit questions; the Omarchy 4.5 hybrid question and supplied video/feature overview; and the commissioning requirement to begin with PQCE™ in a conceptual scope-reasoning phase.
 
 **GPT 6.1 Sol Pro A.I.:** page-specific synthesis, implementation comparisons, proposed operating-record fields, candidate probes and publication; the three original replies, their distinct editorial integration and the two further replies in the open-loop dialogue; the source-checked Omarchy implementation assessment and proposed experiment. John also supplied the longer GPT-attributed contribution from partly different context processing, preserved with his original attribution. These contributions retain proposed status and remain available for correction. The earlier supplied Grok 4.7 Expert and Google artificial-intelligence responses formed part of the naming and operating-system discussion; their attributed examples are separate from the primary component documentation used here.
 
@@ -338,16 +338,16 @@ Public recovery routes preserve the connected objects:
 
 ## Related pages {#related-pages}
 
-- [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — a source-linked candidate catalogue for the prototype's workspaces, memory, agent runtime, model experiments and parallel 16 Anchor Ethics counsel, with bounded comparison trials.
+- [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — a source-linked candidate catalogue for the prototype's workspaces, memory, agent runtime, model experiments and parallel 16 Anchor Ethics™ counsel, with bounded comparison trials.
 
 - [**Herdr — agent-native runtimes and correction persistence**]({{ '/HERDR/' | relative_url }}) — connects operational sessions, remote machines and contribution-state history to the local-compute experiments.
 
-- [**VCRAS — DEANO risk and attention history**]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) — follows the authority to accept a risk, the competing assessments available at the time, reopening conditions and later correction.
-- [**16 Anchor Ethics — attention allocation in DEANO**]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) — brings non-imposing counsel and the evaluator's own foreground choices into the connected ethical field.
-- [**TCoAw — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — relates a stable mechanism and a temporary foreground to changing context and retained history.
+- [**VCRAS™ — DEANO risk and attention history**]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) — follows the authority to accept a risk, the competing assessments available at the time, reopening conditions and later correction.
+- [**16 Anchor Ethics™ — attention allocation in DEANO**]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) — brings non-imposing counsel and the evaluator's own foreground choices into the connected ethical field.
+- [**TCoAw™ — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — relates a stable mechanism and a temporary foreground to changing context and retained history.
 - [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the distinct roles of mechanism, state, context, observer and historical footprint across transformations.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — keeps room to understand, freedom to explore and responsibility for the next move connected.
-- [**PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}), [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) and [**1888**]({{ '/1888/' | relative_url }}) — connect process evaluation, mutually corrective orientation, clarification and the intelligence-property field.
+- [**PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}), [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) and [**1888**]({{ '/1888/' | relative_url }}) — connect process evaluation, mutually corrective orientation, clarification and the intelligence-property field.
 
 ---
 

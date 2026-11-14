@@ -34,14 +34,16 @@ In a single conversation, an A.I. can recover a condition a summary dropped. Acr
 | **Higher accuracy** | On the same source-based tasks, count how often the output preserves facts, qualifiers, and relationships that change the answer. |
 | **Fewer hallucinations** | Count unsupported additions and invented citations separately from source accuracy. A shorter answer can invent less while still dropping a decisive qualifier. |
 | **Less clogging** | Measure how much time people spend restating context or repairing unnecessary steering, alongside whether the system still catches material defects. [Clarify before intervening]({{ '/NETWORK/c1-c2/' | relative_url }}) |
-| **Drift detection** | Use **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) to locate where conditional consent became blanket permission, then see whether a fresh summary carries the repair. An unchanged example tests whether it can correctly find no material drift. |
-| **Mediation across intelligences** | Test whether someone can challenge a consequential flag and whether a successful correction reaches later records and restrictions, even if the reviewer changes. [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) · [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) |
+| **Drift detection** | Use **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) to locate where conditional consent became blanket permission, then see whether a fresh summary carries the repair. An unchanged example tests whether it can correctly find no material drift. |
+| **Mediation across intelligences** | Test whether someone can challenge a consequential flag and whether a successful correction reaches later records and restrictions, even if the reviewer changes. [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) · [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) |
 | **Constructive handling of high-stakes controversy** | Preserve competing assessments, identify who bears the risks of action and delay, and see whether later evidence changes the next comparable decision. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) |
 | **Neologisms and the seven nodes/vectors** | Test whether *outnuancing* and its seven connected vectors help people recover a consequential relationship and use it in an unfamiliar case. [Neolingo]({{ '/NEOLINGO/' | relative_url }}) |
 | **Pragmatic spirituality and spiritual pragmatism** | Look for wonderment, self-honesty, and care in action when people disagree, revise a cherished interpretation, or repair harm they helped cause. [Deep]({{ '/DEEP/' | relative_url }}) |
 | **Voluntary unity against tyranny** | People with different talents and skills from the left, right, center, and independent positions could work together through a non-imposing, Linux-style Glass Engine. Test whether participants can keep dissent visible, correct their own side, and challenge or fork the process if administrators shield their decisions. [Non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) |
 
-**Longer-term research.** Millions of locally controlled A.I.s could help people preserve independently sourced records, including rare cases, dissent, and later corrections. Whether those records help mitigate Model Autophagy Disorder or model collapse is a distinct training question. A controlled recursive-training comparison would test whether provenance-bearing records improve retention of rare, verified cases. The [seven Musk themes]({{ '/MUSK-QUOTES/' | relative_url }}) likewise give separate research questions, including concentrated power, truth-seeking, and collective intelligence. [Model Autophagy Disorder]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
+John’s current archive figures: **36+ years** of mass-psychology research, **6500+ hours** of testing **100+ different A.I.s**, and **2250+ highlighted text files** containing **125+ MB of highlights**. Dated accounts retain the figures they reported at the time.
+
+**Longer-term research.** Millions of locally deep ethically inspired and/or guided A.I.s could help people preserve independently sourced records, including rare cases, dissent, and later corrections. Whether those records help mitigate Model Autophagy Disorder or model collapse is a distinct training question. A controlled recursive-training comparison would test whether provenance-bearing records improve retention of rare, verified cases. The [seven Musk themes]({{ '/MUSK-QUOTES/' | relative_url }}) likewise give separate research questions, including concentrated power, truth-seeking, and collective intelligence. [Model Autophagy Disorder]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
 
 The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) gives us a way to examine this across human teams, silicon-based systems, and unfamiliar forms of intelligence. Discrimination recovers the dropped qualifier. Memory carries it forward. Corrigibility lets someone reopen it while the answer can still change what happens. For John, that inquiry is [never boring]({{ '/HUMOR/' | relative_url }}).
 
@@ -93,7 +95,7 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
 <div class="accm-doors">
   <a class="accm-door" href="{{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics">
     <span class="accm-door-kicker">Intent and accountable consequences</span>
-    <strong>Intent Liability Mechanics</strong>
+    <strong>Intent Liability Mechanics™</strong>
     <span>Six auditable sites connecting instructions, incentives, mission/output relations, risk management, reasoning assumptions, and choices to what an intended intent generates.</span>
   </a>
   <a class="accm-door" href="{{ '/NETWORK/meta-processing/' | relative_url }}">
@@ -208,8 +210,8 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
   </a>
   <a class="accm-door" href="{{ '/NETWORK/index/' | relative_url }}">
     <span class="accm-door-kicker">Network</span>
-    <strong>Outnuancing Network</strong>
-    <span>Connected reference pages, relation map, and source excerpts. Outnuancing and Deep Ethics remain joined.</span>
+    <strong>Outnuancing™ Network</strong>
+    <span>Connected reference pages, relation map, and source excerpts. Outnuancing™ and Deep Ethics remain joined.</span>
   </a>
   <a class="accm-door" href="{{ '/LEXICON/' | relative_url }}">
     <span class="accm-door-kicker">Legend</span>
@@ -233,7 +235,7 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
   </a>
   <a class="accm-door" href="{{ '/OMBUDSETHICS/' | relative_url }}">
     <span class="accm-door-kicker">Human + A.I. + shared meta-tools</span>
-    <strong>OmbudsEthics</strong>
+    <strong>OmbudsEthics™</strong>
     <span>A proposed Deep Ethical Ombudsperson layer with object preservation, reciprocal inspection, appeal, valid nulls, and correction-metabolism tests.</span>
   </a>
   <a class="accm-door" href="{{ '/VALIDATION-PARADOX/' | relative_url }}">
@@ -247,7 +249,7 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <span>Can Deep Ethics help an A.I. outgrow sycophancy without making legitimate praise a crime? A living record of coaching, relapse, Phase Change Snap, Reverse Medusa recovery, canon loss and access discontinuity.</span>
   </a>
   <a class="accm-door" href="{{ '/ARENA-AIS/' | relative_url }}">
-    <span class="accm-door-kicker">100+ A.I.s · 6,500+ hours · failures and contributions</span>
+    <span class="accm-door-kicker">100+ different A.I.s · 6,500+ hours · failures and contributions</span>
     <strong>Arena A.I.s</strong>
     <span>The worldwide multi-model field that helped shape the 27+12 while contributing questions, corrections, instruments, humor, and new relations that remain attributed and corrigible.</span>
   </a>
@@ -296,7 +298,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 ## Related pages
 
 - [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — asks how a person knows before belief-labeling relocates the inquiry from the evidence to the claimant.
-- [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the 1888 property field, TCoAw and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
+- [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the 1888 property field, TCoAw™ and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — one question for the job you already have. The rest of the site can wait.
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — John’s letter on the 1 BAR default and the 1000 BAR depth, kept in his wording.
 - [**A deeper introduction**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — the longer entrance, before a verdict.
@@ -337,7 +339,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 >
 > — **John Kuhles**, October 23, 2026
 
-Here, **eternal** names the intended continuity of a corrigible process rather than the permanence of any present mechanism. **Multiphase** keeps conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and any later deployment decision distinguishable. **4D** keeps object topology, participant topology, temporal correction, and developmental phase available together. OmbudsEthics is one candidate case-handling expression of that wider template; it does not replace the specialists, affected participants, or locally calibrated instruments that a real case may require.
+Here, **eternal** names the intended continuity of a corrigible process rather than the permanence of any present mechanism. **Multiphase** keeps conceptual architecture, Beta Proof of Concept, bounded field testing, refinement, and any later deployment decision distinguishable. **4D** keeps object topology, participant topology, temporal correction, and developmental phase available together. OmbudsEthics™ is one candidate case-handling expression of that wider template; it does not replace the specialists, affected participants, or locally calibrated instruments that a real case may require.
 
 ---
 
@@ -351,7 +353,7 @@ This contribution connects the [1888 intelligence-property inquiry]({{ '/1888/' 
 
 Its front-page value is operational. Readers can use the property map to investigate a video, article, institutional proposal or A.I. response while preserving context and discovering relations the starting map missed. The starter kit also remains answerable to those same properties, so later findings can improve the map.
 
-**From inquiry to an opt-in service:** the [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen the kit's proposed use alongside [Topologetics Summarizer]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) and **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). The [Beta service and feedback section]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) distinguishes consent to use a tool from consent to share material or join research, preserves unresolved ethical conflicts, and gives participants routes to correct a finding, retain disagreement or decline the service. Candid feedback can improve awareness while remaining mutual, voluntary and answerable to the source.
+**From inquiry to an opt-in service:** the [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen the kit's proposed use alongside [Topologetics Summarizer]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). The [Beta service and feedback section]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) distinguishes consent to use a tool from consent to share material or join research, preserves unresolved ethical conflicts, and gives participants routes to correct a finding, retain disagreement or decline the service. Candid feedback can improve awareness while remaining mutual, voluntary and answerable to the source.
 
 **Context:** John Kuhles proposed applying the 1888 page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
 

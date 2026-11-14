@@ -137,7 +137,7 @@ Applied here, a search for one convenient label should be supplemented by search
 
 The [Flagging System-PQCE page]({{ '/FLAGGING-SYSTEM/#projection' | relative_url }}) supplies a second relation: an evaluator's inability to recover a dimension can become a verdict about the diminished reconstruction. A retrieval failure can thereby become an apparent defect in the person, source or project. The page follows whether correction can change the evaluation and its governing process.
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/#practice' | relative_url }})** (Process Quality Calibration Evaluation) asks what reached the evaluator, what changed during processing and whether a correction governs the next encounter. For search, that means following the query, results, extraction, answer, classification and later reuse together.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/#practice' | relative_url }})** (Process Quality Calibration Evaluation) asks what reached the evaluator, what changed during processing and whether a correction governs the next encounter. For search, that means following the query, results, extraction, answer, classification and later reuse together.
 
 The existing [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) governs that inquiry: self-honesty, openness, learning, nonconformity, genuine inquiry, correction on merit, care, wonderment, non-projection and forgiveness remain mutually corrective. They support investigation of an unfamiliar source and honest recognition of an error in a favored source. [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) keeps consequential clarification able to change the next move.
 
@@ -220,7 +220,7 @@ For search, an adequate answer includes what became easy to see, what became har
 - [Flagging System-PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluation, projected incapacity and correction access.
 - [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — influence, classification, agency and public accountability.
 - [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving answer-changing relationships during summarization.
-- **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) — a proposed participant-controlled source/representation comparison tool.
+- **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) — a proposed participant-controlled source/representation comparison tool.
 - [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) — responsibility through instructions, choices, consequences and notice.
 - [All public pages]({{ '/PAGES/' | relative_url }}) — the wider project map.
 

@@ -227,7 +227,7 @@ The source check changed the location of the problem:
 
 </div>
 
-**[Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }})** separates declared direction, impartial processing and case conclusions. **[Unownable]({{ '/UNOWNABLE/' | relative_url }})** supplies material reopening triggers and local stopping. **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})** includes valid-unmoved and verified no-change outcomes. **[Flagging System–PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** brings the classification process inside the examination. Here PQCE means Process Quality Calibration Evaluation. **[Black Box]({{ '/BLACK-BOX/' | relative_url }})** separates layers of opacity and accountability. **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) preserves a bounded comparison and the participant's decision rights. **[Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }})** keeps development stage and admissible evidence connected.
+**[Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }})** separates declared direction, impartial processing and case conclusions. **[Unownable]({{ '/UNOWNABLE/' | relative_url }})** supplies material reopening triggers and local stopping. **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})** includes valid-unmoved and verified no-change outcomes. **[Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** brings the classification process inside the examination. Here PQCE™ means Process Quality Calibration Evaluation. **[Black Box]({{ '/BLACK-BOX/' | relative_url }})** separates layers of opacity and accountability. **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) preserves a bounded comparison and the participant's decision rights. **[Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }})** keeps development stage and admissible evidence connected.
 
 Their detailed mechanisms remain at those anchors. The continuation's contribution is a routing distinction:
 
@@ -241,9 +241,9 @@ Their detailed mechanisms remain at those anchors. The continuation's contributi
 
 This routing applies to the founder, a critic, an editor and an A.I. assistant. Familiarity with an author supplies useful context; actual sources and task consequences govern the comparison. It also prevents a supportive recovery from promoting the published architecture into an already completed deployment. The existing Validation Paradox stage distinctions continue to govern that claim.
 
-### Outnuancing returns understanding to the situation
+### Outnuancing™ returns understanding to the situation
 
-John supplied four audience-specific definitions of **[Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }})** and emphasized its specific coupling with a deep ethical sense-making process orientation. Agent proposed **corrigible re-entry**: carry the results of frame examination into a proportionate next move. GPT 6.1 Sol Pro A.I. formulated that proposed extension as:
+John supplied four audience-specific definitions of **[Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }})** and emphasized its specific coupling with a deep ethical sense-making process orientation. Agent proposed **corrigible re-entry**: carry the results of frame examination into a proportionate next move. GPT 6.1 Sol Pro A.I. formulated that proposed extension as:
 
 > Corrigible re-entry carries the results of frame examination back into the situation: restoring consequential relationships, correcting affected interpretations, and enabling a proportionate next move whose authority and consequences remain inspectable.
 
@@ -255,13 +255,13 @@ This proposed handle connects to the existing [Unforced Move]({{ '/UNFORCED-MOVE
 
 ### Risk authority includes the cost of the audit itself
 
-John identified the next relationship: almost nothing is completely risk-free, so **who controls what counts as tolerable risk?** This reopened the inquiry through **[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), whose existing [risk-authority application]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) distinguishes personal voluntary exposure from risk imposed on others.
+John identified the next relationship: almost nothing is completely risk-free, so **who controls what counts as tolerable risk?** This reopened the inquiry through **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), whose existing [risk-authority application]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) distinguishes personal voluntary exposure from risk imposed on others.
 
 The relay separated five powers: define the hazards, set the threshold, authorize exposure, distribute consequences, and control reconsideration. A probability estimate contributes to that process; it does not silently supply the other permissions. The comparison includes action, refusal, delay, suppression and misclassification. An incumbent course also carries risks, beneficiaries and people who bear costs.
 
 In our own exchange, additional verification consumed attention, source-recovery work and opportunities for discovery. Those burdens belong beside the errors verification might prevent. The live design question becomes: what uncertainty could change the next operation, what check could resolve it, and who bears the cost of that check or its omission? A confirmed restoration of an existing answer can justify continuing rather than regenerating its perimeter.
 
-VCRAS carries the comparison through time. Preserve what was reasonably available at the original decision, inspect later evidence, and ask whether the changed knowledge repaired treatment and subsequent procedures. A reasonable decision can have an adverse outcome; a defective process can get lucky. This separation prevents both retrospective certainty and permanent immunity for an earlier risk judgment.
+VCRAS™ carries the comparison through time. Preserve what was reasonably available at the original decision, inspect later evidence, and ask whether the changed knowledge repaired treatment and subsequent procedures. A reasonable decision can have an adverse outcome; a defective process can get lucky. This separation prevents both retrospective certainty and permanent immunity for an earlier risk judgment.
 
 ### Correction can be welcome, useful and enjoyable
 
@@ -313,7 +313,7 @@ The intended practical gain is more room for discovery. Established distinctions
 | **C1–C2** | The 4 November continuation in this commissioning conversation | Retrieval-gap repair and the proposed corrigible re-entry formulation |
 | **C3** | John's current clarification and the supplied Agent relay | Adult-to-adult dignity, delta corrigibility and the distinction between contribution and approval |
 
-John supplies current archive totals of 2,250+ highlight files, approximately 125 MB, drawn from 10+ GB of archived HTML across 6,500+ hours testing 100+ A.I.s through Arena.ai for free. These are his current reported figures. Earlier counts remain historical snapshots. Upload times and filename suffixes do not establish the dates of the underlying exchanges. Source identities and selected quotation spans are retained in the continuation record; the full personal files are not republished by this addition.
+John supplies current archive totals of 2,250+ highlight files, approximately 125 MB, drawn from 10+ GB of archived HTML across 6,500+ hours testing 100+ different A.I.s through Arena.ai for free. These are his current reported figures. Earlier counts remain historical snapshots. Upload times and filename suffixes do not establish the dates of the underlying exchanges. Source identities and selected quotation spans are retained in the continuation record; the full personal files are not republished by this addition.
 
 ## How a synthesis can discover something new
 
@@ -432,7 +432,7 @@ This interaction supplies a pragmatic reason to protect the full process. A flue
 
 The **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }})** field conditions include self-honesty, openness to another possibility, willingness to learn, acceptance of warranted correction, non-projection, care and forgiveness. Applied here, they make disagreement and discovery usable. They become answer-changing conduct when a contributor can lose an argument without losing standing as a participant, or when an evaluator reopens its own mistaken portrayal.
 
-The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** supply a parallel examination of dignity, responsibility, consent, consequences and proportionate action. Convergences and conflicts remain inspectable. The **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})** connects correspondence obstructions with the Correspondence-First Protocol. These instruments can inspect this page and one another.
+The **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** supply a parallel examination of dignity, responsibility, consent, consequences and proportionate action. Convergences and conflicts remain inspectable. The **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})** connects correspondence obstructions with the Correspondence-First Protocol. These instruments can inspect this page and one another.
 
 **Symmetric scrutiny preserves equal availability of examination while allowing evidence, capability and responsibility to differ.** A platform controlling distribution and an individual contributor may have different duties and consequences. Giving each the same number of criticisms would manufacture symmetry. Applying comparable evidentiary standards exposes the actual asymmetry.
 
@@ -528,7 +528,7 @@ This small case already does work: it repairs a report, distinguishes evidence n
 
 A first implementation can use ordinary documents, version control and a comparison table. It does not require an autonomous moral governor or a complete simulation of a mind. The critical object is an accessible transformation record that can change later work.
 
-**[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is an existing project direction for comparing representations and detecting material drift. The following design shows how a bounded synthesis function could connect to that direction. It describes a proposed implementation, rather than announcing a completed product.
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is an existing project direction for comparing representations and detecting material drift. The following design shows how a bounded synthesis function could connect to that direction. It describes a proposed implementation, rather than announcing a completed product.
 
 ### A portable synthesis record
 
@@ -855,6 +855,6 @@ Reviewed 4 November 2026. These sources supply the specific comparisons describe
 - [Non-NPCs — independent inquiry and script recognition]({{ '/NETWORK/non-npcs/' | relative_url }})
 - [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }})
 - [Dual Archive — preserving the object and its processing history]({{ '/NETWORK/dual-archive/' | relative_url }})
-- [DEDDA — comparing representations]({{ '/DEDDA/' | relative_url }})
+- [DEDDA™ — comparing representations]({{ '/DEDDA/' | relative_url }})
 
 **John supplies the initiating direction, originating project concepts, lived corrections and invitation to collective development. The Agent contributions supply interpretations and useful extensions preserved with their repairs. GPT 6.1 Sol Pro A.I. supplies the page-specific synthesis, research comparisons, operational proposals and publication. The resulting instruments remain open to everyone who can improve their relationship with reality.**

@@ -269,7 +269,7 @@ These are candidate common properties. Their operational form has to be reconstr
 | **Administration** | application, rule, evidence, decision | jurisdiction, proportionality, appeal, status and access consequences |
 | **Affected participant** | lived consequence, dissent, local knowledge, unavailable context | exposure, agency, consent, restoration burden, unequal power, usable remedy |
 
-A generic flagging system can detect the same surface pattern in several fields and assign one label. [**Process Quality Calibration Evaluation (PQCE)**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) asks what that classification did to the specialty's actual object, whether relevant expertise could change it, and whether the correction could reach the process that produced the flag.
+A generic flagging system can detect the same surface pattern in several fields and assign one label. [**Process Quality Calibration Evaluation (PQCE™)**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) asks what that classification did to the specialty's actual object, whether relevant expertise could change it, and whether the correction could reach the process that produced the flag.
 
 Specialty matching cannot become expert immunity. Domain experts contribute standards, distinctions, and consequences that a general-purpose system may not possess. Their representation and use of that knowledge remain inspectable. A participant with lived stakes may hold relevant evidence unavailable to a credentialed reviewer. An A.I. may locate a cross-case pattern without inheriting authority to decide the remedy.
 
@@ -451,7 +451,7 @@ The October 23, 2026 Arena.ai sequence helped sharpen the page through repeated 
 - Supplied outputs labeled **gpt-6-luna-max A.I.**, **step-5-preview A.I.**, **grok-4.6-high A.I.**, and **grok-4.6-low A.I.** refined the no-valid-state locator, separated specified safeguards from implementation and observed results, and required a valid null to govern the current operation. Their convergence remains design material rather than field validation.
 - Supplied outputs under **Claude Opus**, **Gemini**, **GLM**, **Muse**, and **Agent A.I.** labels exposed attribution continuity errors, praise-mediated status upgrades, evidence-threshold drift, composite self-confession, and lifecycle topology errors. Their useful corrections remain material for later instrument design; their fluent endorsement does not validate the page.
 - **John Kuhles** supplied the stage correction, the double-bind challenge, the incumbent-recursion comparison, the requirement for feedback before deployment, and the humorous “how evil” carrier that keeps the asymmetry memorable.
-- **John Kuhles** supplied the specialty-matching extension: shared Deep Ethical process properties must be adjusted to the relevant expertise, participants, evidence conditions, and case needs; their value or lack of value must become visible to the people involved. He connected this directly to PQCE and the Flagging System.
+- **John Kuhles** supplied the specialty-matching extension: shared Deep Ethical process properties must be adjusted to the relevant expertise, participants, evidence conditions, and case needs; their value or lack of value must become visible to the people involved. He connected this directly to PQCE™ and the Flagging System.
 - **Project GPT A.I.** reconstructed the page-specific distinction, candidate compound map, test suite, repository integration, and publication object. Those are editorial and design contributions, not independent evidence of effectiveness.
 
 ### UPDATE 4 as a live support-side audit
@@ -512,8 +512,8 @@ This framing does not borrow deployment evidence for conceptual work. It identif
 
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the stable obstruction vocabulary and the adjacent Recursive Certification Accretion compound.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — supplies the diagnosed-condition / valued-trajectory polarity, four grace layers, three-axis audit, matched attribution testing, opposing counsel, and valid-null result.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — separates standing, authority, contribution state, evidence thresholds, case lifecycle, and correction testing.
-- [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates what reached each participant, how a specialty-specific assessment acquired authority, whether correction reached the process, and what became possible afterward.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — separates standing, authority, contribution state, evidence thresholds, case lifecycle, and correction testing.
+- [**Flagging System / PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates what reached each participant, how a specialty-specific assessment acquired authority, whether correction reached the process, and what became possible afterward.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether a recognized correction governs a later comparable operation.
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — tests whether a minimal metacognitive probe produces local stage recovery, same-response recurrence, later transfer, or a valid null without pretending to reveal the hidden mechanism.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent or instructions, transformation, evaluator activity, and effect inside one inspectable route.

@@ -33,4 +33,4 @@ Humor can release unnecessary relational pressure without discharging the questi
 
 The `:P` does more than decorate compliance when it returns participants to play, proportion and mutual dignity. If it merely makes the permission ritual friendlier, the joke has joined the costume.
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/#contribution-state-intelligence' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }})
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/#contribution-state-intelligence' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }})

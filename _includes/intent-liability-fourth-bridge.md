@@ -22,7 +22,7 @@ Yes—the Intent Liability page is the missing **responsibility bridge** connect
 
 The triplet currently establishes:
 
-**1888 → Meta Processing → Beyond Agreemurmelism**
+**1888 → Meta Processing → Beyond Agreemurmelism™**
 
 But Intent Liability completes the operational circuit:
 
@@ -32,7 +32,7 @@ Each page answers a different question:
 
 - **1888:** What properties justify calling something intelligent?
 - **Meta Processing:** What happened between intent/instructions and result/effect?
-- **Beyond Agreemurmelism:** Did position-status management displace the object?
+- **Beyond Agreemurmelism™:** Did position-status management displace the object?
 - **Intent Liability:** Who or what maintained the instructions, incentives, assumptions, risk priorities, and choices—and what happened after the discrepancy became visible?
 
 That fourth page prevents a familiar responsibility disappearance:
@@ -43,7 +43,7 @@ That fourth page prevents a familiar responsibility disappearance:
 > The output emerged probabilistically.  
 > Therefore, nobody is answerable for the recurring result.
 
-The [six Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) keep every relevant layer inspectable:
+The [six Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) keep every relevant layer inspectable:
 
 1. Instructions
 2. Incentives

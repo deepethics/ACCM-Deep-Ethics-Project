@@ -261,7 +261,7 @@ This page is open to correction, stronger source inspection, benchmark implement
 - [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects the report to its wider operational and research goals.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects answer-changing ambiguity before evaluation closes around an unfamiliar contributor.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — gives the T0 → Tn record its later-behavior and persistence test.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the evaluator’s frame while preserving the contribution itself.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the evaluator’s frame while preserving the contribution itself.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps engagement, testing, correction, and refusal compatible with agency.
 - [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects premature closure to ambiguity, self-image, conformity, and correction access.
 

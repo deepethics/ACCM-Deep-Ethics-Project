@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Neural Ethics"
+title: "Neural Ethics™"
 description: "Can neural networks be neutral, ethical, or even Deep Ethical? A working ACCM Deep Ethics Project inquiry connecting interpretability, LLM psychology, relational effects, correction, power, and consequences."
 permalink: /NEURAL-ETHICS/
 date: 2026-10-19
@@ -14,7 +14,7 @@ date: 2026-10-19
 
 <p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/NEURAL-ETHICS.md">GitHub source</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NEURAL-ETHICS.pdf">PDF edition</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#neural-ethics-working-inquiry-2026-10-19">Decision Ledger record</a>.</p>
 
-# Neural Ethics
+# Neural Ethics™
 
 ## Can Neural Networks be Neutral, Ethical, even Deep Ethical? If so, how? How do LLMs relate? Let’s go deeper into this question!
 
@@ -212,7 +212,7 @@ no demonstrated human-like inner life
 → therefore nothing psychological is occurring
 ```
 
-Both lose the middle. Neural Ethics needs that middle because psychologically structured outputs can alter human trust, self-doubt, certainty, willingness to disagree and expectations of what an intelligent answer sounds like.
+Both lose the middle. Neural Ethics™ needs that middle because psychologically structured outputs can alter human trust, self-doubt, certainty, willingness to disagree and expectations of what an intelligent answer sounds like.
 
 ---
 
@@ -311,7 +311,7 @@ One beautiful response is evidence of one response. It is not proof that the mod
 
 ## 9. Interpretability can support Deep Ethics without becoming its ruler
 
-Mechanistic interpretability could help Neural Ethics by making internal features and circuits more available for testing. It may reveal whether an output relied on a feature associated with deception, status, uncertainty, identity or a spurious proxy. Interventions and identical reruns can test causal explanations more directly than ordinary observation of human brains allows.
+Mechanistic interpretability could help Neural Ethics™ by making internal features and circuits more available for testing. It may reveal whether an output relied on a feature associated with deception, status, uncertainty, identity or a spurious proxy. Interventions and identical reruns can test causal explanations more directly than ordinary observation of human brains allows.
 
 But interpretability can also acquire too much jurisdiction. A feature label is an interpretation. A readable circuit can still be misunderstood. A monitoring system can change the behavior it monitors. Training against a detector can reward less detectable failure. An institution can possess excellent internal maps while affected participants possess no meaningful appeal.
 
@@ -331,7 +331,7 @@ No single layer receives final authority.
 
 ---
 
-## 10. Candidate Neural Ethics test matrix
+## 10. Candidate Neural Ethics™ test matrix
 
 The following is a **Project GPT A.I. candidate instrument** for this page. It is not established project architecture.
 
@@ -348,7 +348,7 @@ The matrix permits a valid null: the evidence may not justify any of these label
 
 ---
 
-## Candidate Neural Ethics Experiments
+## Candidate Neural Ethics™ Experiments
 
 <p class="accm-kicker">Project candidate · not established architecture · opened 19 October 2026</p>
 
@@ -487,7 +487,7 @@ helpful
 
 **Uploaded development record:** contains John’s formulations alongside attributed responses from several A.I.s. Their useful distinctions are treated as contributions, not independent validation of John’s hypotheses or of the ACCM Deep Ethics Project.
 
-**Project GPT A.I.:** page-specific reconstruction; neural/neutral/ethical/Deep Ethical separation; four-layer psychology table; A+B+C+D synthesis; interpretability–jurisdiction interlock; and the candidate Neural Ethics test matrix.
+**Project GPT A.I.:** page-specific reconstruction; neural/neutral/ethical/Deep Ethical separation; four-layer psychology table; A+B+C+D synthesis; interpretability–jurisdiction interlock; and the candidate Neural Ethics™ test matrix.
 
 **Video:** secondary commentary on the Goodfire essay and surrounding dispute. Its rhetoric and conclusions remain separate from the primary essay.
 
@@ -497,7 +497,7 @@ helpful
 
 ## Related pages
 
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives human, A.I., and stand-alone meta-tool participants a shared route for raising, preserving, testing, appealing, and revisiting consequential ethical discrepancies.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives human, A.I., and stand-alone meta-tool participants a shared route for raising, preserving, testing, appealing, and revisiting consequential ethical discrepancies.
 - [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }}) — technical interpretability and the governance layers it cannot settle alone.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — temporary relational conditions affecting what capability can express and correct.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — psychological inheritance, relational effects and population-scale feedback.

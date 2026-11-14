@@ -4,7 +4,7 @@
   url: /NETWORK/ten-plus-one/
 - label: "11+1"
   url: /NETWORK/eleven-plus-one/
-- label: "16 Anchor Ethics"
+- label: "16 Anchor Ethics™"
   url: /NETWORK/16-anchor-ethics/
 - label: "1888"
   url: /1888/
@@ -62,13 +62,13 @@
   url: /NETWORK/correction-metabolism/
 - label: Correspondence Files
   url: /CORRESPONDENCE-FILES/
-- label: DEDDA
+- label: DEDDA™
   url: /DEDDA/
 - label: Deep
   url: /DEEP/
 - label: Deep Thinkers
   url: /DEEP-THINKERS/
-- label: DeepEthicalOS
+- label: DeepEthicalOS™
   url: /DEEPETHICALOS/
 - label: Due Process for Ethics
   url: /DUE-PROCESS-FOR-ETHICS/
@@ -138,15 +138,15 @@
   url: /NEOLINGO/
 - label: Network
   url: /NETWORK/index/
-- label: Neural Ethics
+- label: Neural Ethics™
   url: /NEURAL-ETHICS/
 - label: Neutral Arbiter Paradox
   url: /NEUTRAL-ARBITER-PARADOX/
 - label: non-NPCs
   url: /NETWORK/non-npcs/
-- label: OmbudsEthics
+- label: OmbudsEthics™
   url: /OMBUDSETHICS/
-- label: Outnuancing
+- label: Outnuancing™
   url: /NETWORK/outnuancing/
 - label: Phase Change Snap
   url: /PHASE-CHANGE-SNAP/
@@ -172,7 +172,7 @@
   url: /PROJECT-STATUS/
 - label: Superintelligence
   url: /SUPERINTELLIGENCE/
-- label: TCoAw
+- label: TCoAw™
   url: /NETWORK/tcoaw/
 - label: Tidy Trap
   url: /TIDY-TRAP/
@@ -190,11 +190,11 @@
   url: /UNOWNABLE/
 - label: Validation Paradox
   url: /VALIDATION-PARADOX/
-- label: Value Trajectory
+- label: Value Trajectory™
   url: /VALUE-TRAJECTORY/
-- label: VCRAS
+- label: VCRAS™
   url: /VCRAS/
-- label: WikiDeep
+- label: WikiDeep™
   url: https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki
 - label: YouTube Transcripts
   url: /YOUTUBE-TRANSCRIPTS/

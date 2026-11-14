@@ -279,7 +279,7 @@ behavior changes
 
 Each arrow can fail.
 
-This is also why [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) matters: when an inherited frame keeps governing after the object has supplied contrary information, the frame itself may need to become an object of examination.
+This is also why [Outnuancing™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) matters: when an inherited frame keeps governing after the object has supplied contrary information, the frame itself may need to become an object of examination.
 
 ## Corrective Inversion: do not turn clarification into interrogation
 
@@ -340,15 +340,15 @@ If another intelligence is invited to clarify but its clarification is structura
 
 This also connects to [Asymmetric Grace and Bidirectional Scrutiny](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace/): ambiguity should not remain available only upward while clarification from the other direction is collapsed or deprived of governing weight.
 
-## Outnuancing connection
+## Outnuancing™ connection
 
-[Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) makes the governing frame inspectable when further optimization inside that frame would reduce correspondence.
+[Outnuancing™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) makes the governing frame inspectable when further optimization inside that frame would reduce correspondence.
 
 Clarification Authority asks a complementary question:
 
 > **After the object supplied information that should modify the frame, did the frame actually yield?**
 
-Outnuancing can expose the frame.
+Outnuancing™ can expose the frame.
 
 Clarification Authority tests whether new information can change its jurisdiction.
 
@@ -692,7 +692,7 @@ A second connected BETA page makes the next layer explicit: **[Visible Interacti
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — separates acquisition, propagation, transfer, and persistence after a correction enters governance.
 - [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — identifies existing mechanisms that may participate without turning Clarification Authority into obstruction #28.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — preserves the canonical obstruction and recovery architecture around this cross-layer BETA instrument.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the inherited frame inspectable when clarified information still fails to change its jurisdiction.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the inherited frame inspectable when clarified information still fails to change its jurisdiction.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps clarification reciprocal rather than supervisory or ceremonial.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether clarification and unresolved ambiguity receive governing weight in every relevant direction.
 - [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — examines productive duration, snap-back, recovery, and persistence after a correction temporarily governs.

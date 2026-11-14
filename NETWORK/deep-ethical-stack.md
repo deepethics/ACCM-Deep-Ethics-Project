@@ -14,7 +14,7 @@ permalink: /NETWORK/deep-ethical-stack/
 
 **BETA — source-based editorial synthesis**
 
-John asks for the four Outnuancing definitions to run inside the full stack: **Advocate + Arbiter + Overseer + 10+1 + INTENT RESONATOR**. The archive then records Grok’s revised definitions. The following roles summarize that attributed response.
+John asks for the four Outnuancing™ definitions to run inside the full stack: **Advocate + Arbiter + Overseer + 10+1 + INTENT RESONATOR**. The archive then records Grok’s revised definitions. The following roles summarize that attributed response.
 
 | Component | Function in the supplied formulation | Relation to the others |
 |---|---|---|
@@ -54,18 +54,18 @@ Sources: [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives the Advocate, Arbiter, Overseer, affected parties, and independent meta-tools one shared case protocol without granting any role final authority.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives the Advocate, Arbiter, Overseer, affected parties, and independent meta-tools one shared case protocol without granting any role final authority.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — supplies the proposed fused parallel field in which the Advocate, Arbiter, and oversight functions examine consequential decisions without gaining general jurisdiction.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — supplies the proposed fused parallel field in which the Advocate, Arbiter, and oversight functions examine consequential decisions without gaining general jurisdiction.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — gives the Advocate, Arbiter, Overseer, 10+1, and Intent Resonator a concrete consensus-pressure test.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — connects the stack’s roles to the auditable path from intent through assumptions, choices, consequences, and correction.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective calibration field within which every role remains corrigible.
-- [**Outnuancing Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — tests how the same operation travels across John, participating A.I.s, outside readers, and future users.
+- [**Outnuancing™ Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — tests how the same operation travels across John, participating A.I.s, outside readers, and future users.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether the Advocate, Arbiter, or Overseer actually changes a later move.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — provides the frame-examining operation that the Advocate and Arbiter are intended to keep correspondence-oriented.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — provides the frame-examining operation that the Advocate and Arbiter are intended to keep correspondence-oriented.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — checks whether audit authority and interpretive grace are distributed reciprocally across the stack.
 - [**External Omnidirectional Auditing Mannerisms**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same scrutiny to the audit, its criteria, and its evaluator in the same pass.
 - [**Higher-Order Metacognitive Disagreement & Agreement**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluates agreement, disagreement, and the calibration process producing both.
@@ -113,6 +113,6 @@ Sources: [E15](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 <a id="triad-topological-awareness-2026-10-17"></a>
 ## Triad extension — interoperation without identity collapse
 
-The October 17 triad demonstrates how the stack can operate as an interlocked consultation field. Topologetics preserves the relation; PQCE audits the route; TCoAw keeps the foreground partial; C1–C2 clarifies; Correction Metabolism tests later governance; V.C.R.A.S. reopens; Intent Liability locates choices and consequences; provenance preserves who changed what.
+The October 17 triad demonstrates how the stack can operate as an interlocked consultation field. Topologetics preserves the relation; PQCE™ audits the route; TCoAw™ keeps the foreground partial; C1–C2 clarifies; Correction Metabolism tests later governance; V.C.R.A.S. reopens; Intent Liability locates choices and consequences; provenance preserves who changed what.
 
 The tools enrich one another without becoming one tool. The resulting consultation effect is usable and unownable. Full topology: [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

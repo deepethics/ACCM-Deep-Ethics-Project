@@ -88,7 +88,7 @@ That is what the transcript is trying to represent. Reaction belongs on **this**
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — asks how declared safety purposes travel through systems into results and accountability.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether institutional and independent claims receive comparable scrutiny.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — preserves the transcript’s actual object before evaluating or correcting it.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the messenger, frame, claims, and evidence distinguishable.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the messenger, frame, claims, and evidence distinguishable.
 - [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — situates this representation and its later audit among the project’s specimens.
 
 ---

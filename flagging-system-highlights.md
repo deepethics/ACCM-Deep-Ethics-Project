@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Flagging System — Highlighted Exchanges"
-description: "Eight John–GPT exchanges and seven attributed Arena responses on generative deep ethics, reciprocal correction, underused AI potential, provenance, and candidate PQCE instruments."
+description: "Eight John–GPT exchanges and seven attributed Arena responses on generative deep ethics, reciprocal correction, underused AI potential, provenance, and candidate PQCE™ instruments."
 permalink: /FLAGGING-SYSTEM/HIGHLIGHTS/
 date: 2026-10-14
 ---

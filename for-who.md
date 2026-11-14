@@ -13,7 +13,7 @@ permalink: /FOR-WHO/
 
 # Who May Want a Local A.I. Grounded in ACCM Deep Ethics Project Principles?
 
-**[Value Trajectory]({{ '/VALUE-TRAJECTORY/#for-whom' | relative_url }})** follows the reciprocal direction: people across these 34 fields can potentially enrich future tools through situated knowledge, questions, sources, corrections, and creative work. Its examples connect possible contributors to useful differences and those who experience them.
+**[Value Trajectory™]({{ '/VALUE-TRAJECTORY/#for-whom' | relative_url }})** follows the reciprocal direction: people across these 34 fields can potentially enrich future tools through situated knowledge, questions, sources, corrections, and creative work. Its examples connect possible contributors to useful differences and those who experience them.
 
 ## Expanded professional and expertise map
 
@@ -1344,7 +1344,7 @@ Some expertise travels across many professions and should not disappear inside c
 - Metacognition research
 - Corrigibility research
 - Process-quality calibration
-- Deep Ethical Outnuancing
+- Deep Ethical Outnuancing™
 - Constructive controversy facilitation
 - Intent Liability analysis
 - Representation-drift detection

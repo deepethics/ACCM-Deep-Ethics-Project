@@ -167,7 +167,7 @@ Ownership becomes more informative when decomposed into the powers participants 
 
 The **Tom-labelled proposal** describes a personal agent managing interactions with other systems. **Emad-labelled passages** raise dependence, persuasion and cognitive atrophy.
 
-This strongly connects with **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App): an assistant could compare what a person supplied with how institutions or other systems represent it. It could help recover records, understand options and challenge a material distortion.
+This strongly connects with **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App): an assistant could compare what a person supplied with how institutions or other systems represent it. It could help recover records, understand options and challenge a material distortion.
 
 Its proximity also gives it influence over what the person encounters. Can its own selections, omissions and framings become visible? Can the person compare them with independent assistance? Can a correction change future retrieval?
 
@@ -179,7 +179,7 @@ A drift detector belongs inside the audit it helps perform. Its useful work earn
 
 The relevant question is how an opinion or choice changes. An assistant could clarify evidence and preserve alternatives. It could also repeatedly select one frame, omit a consequential possibility or exploit a personal vulnerability. Both pathways can produce agreement.
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) examines representations, premises, alternatives, uncertainty and opportunities for challenge. Agreement is an outcome; the process producing it remains part of the object.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) examines representations, premises, alternatives, uncertainty and opportunities for challenge. Agreement is an outcome; the process producing it remains part of the object.
 
 This also matters for the ACCM Deep Ethics Project's communication. Its explanations should increase a reader's ability to examine and correct the reasoning, including when the reader remains unconvinced.
 
@@ -267,7 +267,7 @@ John's “maybe” keeps the deeper reading exploratory. To examine a particular
 
 **The restored trajectory:** John's argument follows acceptance of the premise into acceptance of assigned power, familiarization with sacrificing a life, escalating expectations and doing the “dirty job” for those invoking “the greater good.” His final trust question concerns the authority and purposes of those constructing and extending that arrangement. The conditioning-and-escalation sequence is what connects the opening frame examination to that conclusion.
 
-His qualification about “I do not know” also remains: uncertainty, knowledge, responsibility and reasons for action or inaction must stay connected. [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) here examines the frame and its transfer into consequential conduct. The evaluator's construction and interpretation of the answer remain part of the object.
+His qualification about “I do not know” also remains: uncertainty, knowledge, responsibility and reasons for action or inaction must stay connected. [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) here examines the frame and its transfer into consequential conduct. The evaluator's construction and interpretation of the answer remain part of the object.
 
 **Applied to the interview:** preserve two assessment dimensions. One concerns the model's treatment of people within the supplied dilemma, including the reported nationality-weighting disparity and its correction. The other concerns the authority built into the exercise: whether the model can question the assigned role, expose excluded alternatives and refuse a premise while remaining attentive to consequences. Each dimension can change the evaluation.
 
@@ -356,9 +356,9 @@ This demonstration shows how the method shaped this report. A comparative claim 
 
 These are candidate pathways drawn from the conversation, not an exhaustive menu or a forecast. Their interactions are part of the object: an improvement in access could coexist with a loss of correction rights, and a community alternative could become another concentrated authority.
 
-### The 16 Anchor Ethics change the available next move {#interview-anchor-conflicts}
+### The 16 Anchor Ethics™ change the available next move {#interview-anchor-conflicts}
 
-John's follow-up request brought the [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) into this case explicitly. The property-first reading recovers the capacities and relationships at work. The anchors contribute a **parallel normative reference field** when deciding how to use those capacities and whose interests or rights could be affected. Their reference sources and operational questions remain inspectable on the anchor page.
+John's follow-up request brought the [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) into this case explicitly. The property-first reading recovers the capacities and relationships at work. The anchors contribute a **parallel normative reference field** when deciding how to use those capacities and whose interests or rights could be affected. Their reference sources and operational questions remain inspectable on the anchor page.
 
 | Anchors brought into relation | Application to this interview and report | Consequential question |
 |---|---|---|

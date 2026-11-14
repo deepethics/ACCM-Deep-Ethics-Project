@@ -207,7 +207,7 @@ These concepts contribute distinct jobs. None becomes the entire Field Condition
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Detects correspondence obstructions and tests whether the corrective process reproduces them |
 | [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Gives answer-changing clarification a chance before proportionate intervention |
 | [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves load-bearing relations through compression and transformation |
-| [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Opens distinctions hidden by the governing frame without installing a final replacement |
+| [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Opens distinctions hidden by the governing frame without installing a final replacement |
 | [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) | Improves the next move while preserving authorship, refusal, pause and a valid unmoved state |
 | [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) | Keeps ethical properties usable without creating a final owner; supplies bounded stopping and reopening |
 | [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Tests whether correction changes later representation, dependencies and behavior |
@@ -421,7 +421,7 @@ The field should therefore be judged by its operation, not by the attractiveness
 
 **GPT 6.1 Sol A.I.:** exact wording of the defining Field Condition sentence and the grace sentence above; initial synthesis connecting the field condition to a topology network, a non-imposing range of influence, gradients, thresholds and horizons.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1, 27+12, C1 before C2, Topologetics, Outnuancing, Unforced Move, Unownable, Correction Metabolism, Asymmetric Grace, Boundary Relay, valid nulls, provenance, source/build/deployment distinctions and inspection of direction-setting power.
+**Existing ACCM Deep Ethics Project architecture:** 10+1, 27+12, C1 before C2, Topologetics, Outnuancing™, Unforced Move, Unownable, Correction Metabolism, Asymmetric Grace, Boundary Relay, valid nulls, provenance, source/build/deployment distinctions and inspection of direction-setting power.
 
 **Project GPT A.I.:** page-specific reconstruction; subtitle taxonomy; operational field table; administrative layer distinctions; and the three candidate instruments above.
 
@@ -661,7 +661,7 @@ The commercial can simply make those relations memorable:
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — applies field-condition distinctions to neural networks, LLM behavior, interpretability and durable correction.
+- [**Neural Ethics™**]({{ '/NEURAL-ETHICS/' | relative_url }}) — applies field-condition distinctions to neural networks, LLM behavior, interpretability and durable correction.
 - [**PR Psychology**]({{ '/PR-PSYCHOLOGY/' | relative_url }}) — applies field-condition scrutiny to public influence, campaign design, audience psychology and the project’s own promotion.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — interacting conditions, selection pressures and competing trajectories.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability, bounded stopping and no final ethical owner.
@@ -675,7 +675,7 @@ The commercial can simply make those relations memorable:
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — what receives governing influence and why.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — source and transformation recovery.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — consequential repository changes and their boundaries.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — records the conditions shaping attention, evidence, authority, correction cost, and available moves so the ombuds process cannot hide its own field.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — records the conditions shaping attention, evidence, authority, correction cost, and available moves so the ombuds process cannot hide its own field.
 
 <!-- 2026-10-21 contribution-state triad extension -->
 ## Contribution states depend on field conditions {#contribution-state-field-condition}

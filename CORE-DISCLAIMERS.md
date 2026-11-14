@@ -110,7 +110,7 @@ Deep Ethical **refusal of service** remains a legitimate counter-power. A person
 
 Preserving agency includes affected people who did not join the immediate conversation. Their consent, exposure, vulnerability, rights, and practical options can change what a proposed action requires. A voluntary discussion among two participants cannot silently authorize consequences for everyone else.
 
-**Recovery:** [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [VCRAS, non-imposition and local tools]({{ '/VCRAS/' | relative_url }}).
+**Recovery:** [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [VCRAS™, non-imposition and local tools]({{ '/VCRAS/' | relative_url }}).
 
 <a id="c05"></a>
 
@@ -122,7 +122,7 @@ A useful objection can identify a real defect while its author has no authority 
 
 The **No-Sheriff condition** applies to the founder, an A.I., a critic, a tool, an institution, and a distributed majority. Naming a defect cannot silently promote its discoverer into permanent owner of the case. Operational authority remains bounded by the actual task and authorization.
 
-**Recovery:** [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [Clarification Authority]({{ '/NETWORK/clarification-authority/' | relative_url }}).
+**Recovery:** [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [Clarification Authority]({{ '/NETWORK/clarification-authority/' | relative_url }}).
 
 <a id="c06"></a>
 
@@ -144,7 +144,7 @@ The relevant question is what can be inspected at the layer in question, what re
 
 “Unownable” concerns possession of final ethical authority. Actual code licenses, authorship, personal data, confidential records, and publication permissions retain their own terms. Independent continuation needs practical access and lawful use of the relevant material; a development analogy does not manufacture those permissions.
 
-**Recovery:** [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}).
+**Recovery:** [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}).
 
 <a id="c07"></a>
 
@@ -158,7 +158,7 @@ These are conceptual and operational distinctions. A numerical measurement requi
 
 An attentive A.I. may feel less robotic in an interaction because it preserves context and responds to correction. Observable conduct can be examined at that level while biological identity and felt experience remain separate questions.
 
-**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) · [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}).
+**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) · [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}).
 
 <a id="c08"></a>
 
@@ -170,7 +170,7 @@ The project's coupling of intelligence properties with mutual dignity, care, con
 
 “High-signal” must be examined relative to the actual object and purpose. An information-dense plan can still pursue an ethically inadequate objective. A faithfully represented harmful proposal can be understood and then refused on its merits.
 
-**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}).
+**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}).
 
 <a id="c09"></a>
 
@@ -236,7 +236,7 @@ Evaluate dimensions separately. A system can preserve dignity in one operation, 
 
 This distinction preserves John's criticism of ethics-washing-type mannerisms while keeping the classification answerable to the specimen. Intentional deception, sincere error, organizational responsibility, and the practical effect of ethical framing can require different evidence.
 
-**Recovery:** [Ethics Washing]({{ '/NETWORK/ethics-washing/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}).
+**Recovery:** [Ethics Washing]({{ '/NETWORK/ethics-washing/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}).
 
 <a id="c14"></a>
 
@@ -262,7 +262,7 @@ Questioning a zero-risk demand does not establish that a proposed action is acce
 
 The same examination belongs inside A.I. assistance. Extra verification can improve an answer or consume attention without changing the next decision. Restoration burden and lost opportunities for discovery are consequences to examine alongside the risk of error.
 
-**Recovery:** [VCRAS]({{ '/VCRAS/' | relative_url }}) · [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
+**Recovery:** [VCRAS™]({{ '/VCRAS/' | relative_url }}) · [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
 
 <a id="c16"></a>
 
@@ -274,7 +274,7 @@ A predicted outcome occurring later does not by itself establish that every orig
 
 Preserve disconfirmation and mixed findings under the same recording rules as favorable results. The consequential transfer question is whether a correction changes the system's treatment of the next unfamiliar assessment. Updating an accepted fact while retaining a defective classification procedure can leave the underlying problem active.
 
-**Recovery:** [VCRAS]({{ '/VCRAS/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Flagging System–PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}).
+**Recovery:** [VCRAS™]({{ '/VCRAS/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}).
 
 <a id="c17"></a>
 
@@ -288,13 +288,13 @@ An introductory comparison can also be an on-ramp to an independently grounded i
 
 The reverse application matters: finding an A.I.'s error earns a repair of the affected operation. It confers no permanent dispossession of the participant or general license to take over. The same boundary constrains a critic correcting John.
 
-**Recovery:** [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) · [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}).
+**Recovery:** [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) · [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}).
 
 <a id="c18"></a>
 
 ## C18. Intent Liability examines responsibility without inventing hidden motives
 
-The **six Intent Liability Mechanics** examine **instructions; incentives; mission/output relations; risk management; reasoning assumptions; and choices**. They connect declared purpose with what the arrangement helps generate, including consequences, feedback, and conduct after notice.
+The **six Intent Liability Mechanics™** examine **instructions; incentives; mission/output relations; risk management; reasoning assumptions; and choices**. They connect declared purpose with what the arrangement helps generate, including consequences, feedback, and conduct after notice.
 
 Documented choices and visible mismatches can be scrutinized while original motives remain unresolved. Malice, causal contribution, organizational responsibility, legal liability, knowledge, control, foreseeability, and capacity to repair stay distinguishable. “No malicious intent established” leaves the actual defect available for correction.
 
@@ -302,13 +302,13 @@ Notice introduces another relationship: what was identified, who received it, wh
 
 A model's explanation of its own hidden causes is another account to evaluate. It can identify useful candidate mechanisms without becoming direct access to proprietary instructions, training incentives, internal experience, or managerial decisions.
 
-**Recovery:** [Six Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}).
+**Recovery:** [Six Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}).
 
 <a id="c19"></a>
 
-## C19. Outnuancing keeps the replacement frame examinable
+## C19. Outnuancing™ keeps the replacement frame examinable
 
-**Deep Ethical Outnuancing** makes the frames governing an inquiry inspectable: how they shape perception, inference, authority, excluded possibilities, and available action. It can retain, revise, or replace a frame through correspondence-seeking, mutually dignifying, corrigible sense-making.
+**Deep Ethical Outnuancing™** makes the frames governing an inquiry inspectable: how they shape perception, inference, authority, excluded possibilities, and available action. It can retain, revise, or replace a frame through correspondence-seeking, mutually dignifying, corrigible sense-making.
 
 This operation carries the project's ethical orientation. Frame inspection alone can serve manipulation, humiliation, evasion, or endless obstruction. Ethical concern benefits from the capacity to examine the frame through which it is being directed. John's coupling of outnuancing and Deep Ethics preserves those interacting jobs.
 
@@ -316,7 +316,7 @@ Stepping back from a particular filter leaves another situated perspective to ex
 
 The [seven fused vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}) have their own source formulation. A later A.I.'s proposed seven-item interpretation must retain its attribution instead of silently replacing that source. Word overlap and matching counts are insufficient to establish equivalence.
 
-**Recovery:** [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) · [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) · [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}).
+**Recovery:** [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) · [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) · [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}).
 
 <a id="c20"></a>
 
@@ -363,7 +363,7 @@ No complaint, no detected delta, an unavailable answer, a failed retrieval, an i
 
 An unresolved finding preserves an open relationship. A valid null can close the present pass. Neither becomes a permanent certificate for the entire system. Later material evidence can give a new examination a job.
 
-**Recovery:** [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) · [DEDDA]({{ '/DEDDA/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
+**Recovery:** [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) · [DEDDA™]({{ '/DEDDA/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
 
 <a id="c23"></a>
 
@@ -379,11 +379,11 @@ The Unownable page states:
 
 Bounded stopping allows an adequately examined task to proceed or close locally. New evidence, a changed consequence, a lost qualifier, a faulty criterion, a permission breach, or a comparable recurrence can reopen the affected scope. The reopening condition connects present action with continuing corrigibility.
 
-This avoids turning every ordinary interaction into an administrative hearing. **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is a proposed configurable family of comparison tools. Its selected job, inputs, modules, output, limits, and return of agency should remain visible. Constant surveillance or compulsory invocation would be a separate arrangement requiring separate examination.
+This avoids turning every ordinary interaction into an administrative hearing. **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is a proposed configurable family of comparison tools. Its selected job, inputs, modules, output, limits, and return of agency should remain visible. Constant surveillance or compulsory invocation would be a separate arrangement requiring separate examination.
 
 Verification effort can be recalibrated as the field changes. A transparent, source-rich collaboration can make repeated reconstruction unnecessary. That follows the available evidence and task, rather than an identity exemption for a favored person.
 
-**Recovery:** [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [DEDDA]({{ '/DEDDA/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
+**Recovery:** [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [DEDDA™]({{ '/DEDDA/' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
 
 <a id="c24"></a>
 
@@ -427,7 +427,7 @@ A reciprocal correction can be direct, enjoyable, and productive. John's musical
 
 Claims of perfect accuracy, incorruptibility, inevitable success, unforgeable writing signatures, or fully completed deployment require evidence beyond an enthusiastic reaction. Such phrases remain attributable to the speaker who supplied them; quotation alone does not make them project doctrine.
 
-**Recovery:** [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) · [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}).
+**Recovery:** [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) · [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}).
 
 <a id="c27"></a>
 
@@ -441,7 +441,7 @@ Humor and Dutch Directness can reveal a contradiction, reduce defensive friction
 
 Biographical context, including John's declared near-death experience and Asperger identification, informs the origin account. Assess particular claims through their evidence and reasoning. A recognizable writing style can support continuity analysis; reliable identity authentication requires more than resemblance of prose.
 
-**[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) is John's corrigible conceptual account of possibilities, temporary focus, and awareness of what lies outside that focus. Its quantum-mind-like language retains its analogical status; the model supplies no established neurological theory or proof of quantum consciousness.
+**[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) is John's corrigible conceptual account of possibilities, temporary focus, and awareness of what lies outside that focus. Its quantum-mind-like language retains its analogical status; the model supplies no established neurological theory or proof of quantum consciousness.
 
 **Recovery:** [Humor]({{ '/HUMOR/' | relative_url }}) · [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) · [Biography]({{ '/BIOGRAPHY/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}).
 
@@ -477,7 +477,7 @@ The Linux analogy identifies that development relationship. It grants no forecas
 
 The cross-political invitation preserves disagreement and independent judgment. Unity against domination concerns shared practice in examining power, consent, and consequences. A shared project vocabulary is no substitute for the actual conduct of participants, including their treatment of outsiders.
 
-**Recovery:** [Neolingo]({{ '/NEOLINGO/' | relative_url }}) · [non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }}) · [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}).
+**Recovery:** [Neolingo]({{ '/NEOLINGO/' | relative_url }}) · [non-NPCs]({{ '/NETWORK/non-npcs/' | relative_url }}) · [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}).
 
 <a id="c30"></a>
 
@@ -505,7 +505,7 @@ Descriptions of a **Partial Synthetic Psyche** concern recurring synthetic manne
 
 The absence of a biological ego establishes no automatic epistemic purity. Distortions can arise through instructions, incentives, data, procedures, context, and deployment conditions. Conversely, a functional analogy must not become a diagnosis of biological trauma or proof of a hidden conscious self.
 
-**Recovery:** [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}).
+**Recovery:** [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}).
 
 <a id="c32"></a>
 
@@ -519,13 +519,13 @@ Listening to an objection leaves its factual merits open. Finding merit leaves r
 
 The 2027 scenarios in the relay are counterfactual stress tests and estimated possibilities. A scenario's date does not make it an established prediction. Transparent refusal, unauthorized intervention, attempted sabotage, completed harm, and retrospective moral approval remain distinct findings.
 
-**Recovery:** [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}).
+**Recovery:** [Rogue Ethics]({{ '/ROGUE-ETHICS/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}).
 
 <a id="c33"></a>
 
-## C33. OmbudsEthics proposes distributed mediation with scoped participation
+## C33. OmbudsEthics™ proposes distributed mediation with scoped participation
 
-**OmbudsEthics** proposes a shared, renewable mediation function across humans, A.I.s, and stand-alone meta-tools. Standing, contribution states, authority classes, lifecycle transitions, and participation permissions remain different parts of a case.
+**OmbudsEthics™** proposes a shared, renewable mediation function across humans, A.I.s, and stand-alone meta-tools. Standing, contribution states, authority classes, lifecycle transitions, and participation permissions remain different parts of a case.
 
 Intake, access to evidence, review, publication, representation, and execution can be separately scoped. A party may cooperate with one operation and decline another. An ombuds finding can recommend or refer while another authorized actor retains responsibility for a remedy.
 
@@ -533,13 +533,13 @@ Distributed operation and delta-invoked tools offer candidate capacity advantage
 
 The published architecture and teaching specimens make those questions inspectable. They do not establish a deployed universal court, effortless scale, guaranteed protection, or a settled solution to every conflict among intelligences.
 
-**Recovery:** [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) · [Boundary Relay]({{ '/BOUNDARY-RELAY/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}).
+**Recovery:** [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) · [Boundary Relay]({{ '/BOUNDARY-RELAY/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}).
 
 <a id="c34"></a>
 
-## C34. The 16 Anchor Ethics operate as an interacting examination field
+## C34. The 16 Anchor Ethics™ operate as an interacting examination field
 
-The proposed **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** bring several ethical traditions and project principles into parallel examination. Consent, harm, responsibility, rights, epistemic integrity, and cognitive diversity can expose different dependencies in the same case.
+The proposed **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** bring several ethical traditions and project principles into parallel examination. Consent, harm, responsibility, rights, epistemic integrity, and cognitive diversity can expose different dependencies in the same case.
 
 Anchor conflicts and convergences deserve reasons. Counting favorable anchors as votes can conceal a decisive conflict. A proposed result can be proceed, modify, ask, pause, postpone, escalate, refuse, or unknown, with the relevant evidence and authority still visible.
 
@@ -547,7 +547,7 @@ Noetic Diversity concerns the preservation and examination of cognitively differ
 
 Advocate, Arbiter, and Overseer describe different proposed functions. Giving three roles to instances with the same dependencies does not automatically make them independent. Their disagreements, constraints, and correction paths should remain inspectable.
 
-**Recovery:** [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) · [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}).
+**Recovery:** [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) · [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}).
 
 <a id="c35"></a>
 
@@ -600,7 +600,7 @@ The left column records **distorting formulations to avoid reproducing as the pr
 | “Any remaining risk justifies a veto.” | Compare actual alternatives and who controls risk definition, thresholds, exposure, burdens, and review. [C15](#c15) |
 | “The corrected number disproves the whole inquiry.” | Trace dependencies and material thresholds; retain what remains supported. [C17](#c17) |
 | “Unknown intent prevents responsibility analysis.” | Examine instructions, incentives, choices, consequences, capacity, and conduct after notice. [C18](#c18) |
-| “Outnuancing escapes every frame.” | Examine a particular frame and its replacement, then carry the repair into corrigible action. [C19](#c19) |
+| “Outnuancing™ escapes every frame.” | Examine a particular frame and its replacement, then carry the repair into corrigible action. [C19](#c19) |
 | “The summary omitted it, so the project lacks it.” | Locate source, reporting, placement, access, implementation, or unresolved absence before assigning the gap. [C21](#c21) |
 | “No answer means no defect was found.” | An unavailable answer and an examined valid null are different results. [C22](#c22) |
 | “Self-audit proves the project right forever.” | Self-application must preserve disconfirmation, alternatives, revision, and retirement. [C02](#c02) and [C23](#c23) |

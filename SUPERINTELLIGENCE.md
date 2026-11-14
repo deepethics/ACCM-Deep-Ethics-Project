@@ -160,7 +160,7 @@ The property-field distinction is useful here: **an administrative name, measure
 
 ## What opacity leaves open—and what remains accountable {#opacity-and-accountability}
 
-[Black Box]({{ '/BLACK-BOX/' | relative_url }}) separates technical opacity from governance opacity. Limited access to learned computation differs from limited access to objectives, instructions, incentives, classification rules and appeal routes. [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) adds a related distinction: recovering a neural mechanism can improve understanding while the ethical implications of its use remain examinable.
+[Black Box]({{ '/BLACK-BOX/' | relative_url }}) separates technical opacity from governance opacity. Limited access to learned computation differs from limited access to objectives, instructions, incentives, classification rules and appeal routes. [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) adds a related distinction: recovering a neural mechanism can improve understanding while the ethical implications of its use remain examinable.
 
 Three records have different jobs:
 
@@ -288,7 +288,7 @@ Such coordination need not become one fused mind or one center of moral jurisdic
 - [1888 — Intelligence Properties Taxonomy Before A.I.]({{ '/1888/' | relative_url }}) — the originating exchange, correction and fourteen-property analytical table.
 - [C1 Before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) and [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — clarification, provisional action and revisable judgment. The present page carries John's broader clarification/calibration wording from the October 28 discussion.
 - [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}) — temporal comparison and preservation of successful correspondence alongside failures.
-- [Black Box]({{ '/BLACK-BOX/' | relative_url }}), [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) — opacity, evidence layers, notice and responsibility.
+- [Black Box]({{ '/BLACK-BOX/' | relative_url }}), [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) — opacity, evidence layers, notice and responsibility.
 - [Emergent]({{ '/EMERGENT/' | relative_url }}), [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) and [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — interacting conditions, distributed potential and mutually corrective orientation.
 - [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) and [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) — existing diagnostic and inquiry instruments.
 

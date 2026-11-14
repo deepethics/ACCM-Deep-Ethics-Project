@@ -70,7 +70,7 @@ The last form matters. Preserving agency does not require returning every partic
 
 ## The available next moves
 
-The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) already protects a plural action space. Unforced Move studies what happens when those actions become the next temporal state.
+The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) already protects a plural action space. Unforced Move studies what happens when those actions become the next temporal state.
 
 | Available move | Deep ethical function | Question that keeps it inspectable |
 |---|---|---|
@@ -90,7 +90,7 @@ The list is an action field, not a mandatory sequence. A system that presents al
 
 ## The agency-return test
 
-A future DEDDA profile, local A.I., mediator, reviewer, or human participant could use the following questions without converting them into one ownership score:
+A future DEDDA™ profile, local A.I., mediator, reviewer, or human participant could use the following questions without converting them into one ownership score:
 
 1. **Object:** Can the source recognize what the next move is responding to?
 2. **Uncertainty:** Are relevant uncertainties, qualifiers, unresolved relations, and limits visible enough to affect the move?
@@ -128,13 +128,13 @@ Several recurring transformations can occur after an otherwise strong response:
 
 The failure can be small and still be load-bearing. Control does not need to appear as a command. It can enter through defaults, button order, suggested replies, omitted options, emotional attribution, repeated prompting, or a closing question designed mainly to keep the system active.
 
-## DEDDA and the right to return control
+## DEDDA™ and the right to return control
 
-[DEDDA]({{ '/DEDDA/' | relative_url }}) supplies a clear specimen. A personal drift detector may show:
+[DEDDA™]({{ '/DEDDA/' | relative_url }}) supplies a clear specimen. A personal drift detector may show:
 
 > The person supplied X. The later representation supplied Y. No recorded permission changed X into Y.
 
-After showing that difference, DEDDA must return the object and the decision to the person. If it automatically sends a correction, negotiates a new agreement, diagnoses the participants, or replaces their words with its preferred resolution, the detector becomes another actor in the drift.
+After showing that difference, DEDDA™ must return the object and the decision to the person. If it automatically sends a correction, negotiates a new agreement, diagnoses the participants, or replaces their words with its preferred resolution, the detector becomes another actor in the drift.
 
 Its strongest successful outputs may be brief:
 
@@ -207,7 +207,7 @@ Kimi-k3 supplied a useful candidate name for the wider mechanism: **compulsory m
 
 **Graceful Irrelevance** examines a later moment than the Unforced Move itself. Unforced Move asks who authors the next step after clarity. Graceful Irrelevance asks whether the assistant, mediator, framework, regulator, or ethical consultant can allow its role to shrink—or end—after doing useful work.
 
-A DEDDA that continually manufactures drift to justify remaining active has failed. A consultant that makes every future decision dependent on consultation has captured the process. An ethical framework that treats leaving it as ethical regression has become self-protective. Even a highly useful A.I. should be able to return a bounded result:
+A DEDDA™ that continually manufactures drift to justify remaining active has failed. A consultant that makes every future decision dependent on consultation has captured the process. An ethical framework that treats leaving it as ethical regression has become self-protective. Even a highly useful A.I. should be able to return a bounded result:
 
 - the object is sufficiently clear;
 - the correction route is recoverable;
@@ -501,7 +501,7 @@ John returned the complete originating proposal and asked how much of it had not
 Two source elements needed a more explicit return:
 
 1. **Uncertainty visibility** was present throughout the page but had dropped out as a named dimension of the agency-return profile. It is now restored directly.
-2. **PQCE** was present in the originating connection map but was not named in the Related pages section. The connection is now restored through the [Flagging System — Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}).
+2. **PQCE™** was present in the originating connection map but was not named in the Related pages section. The connection is now restored through the [Flagging System — Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}).
 
 The complete seed is not pasted again here because the living page is its developed form rather than a second object beside it. This audit records which relations survived, which transformed, and which two needed explicit restoration.
 
@@ -541,16 +541,16 @@ The complete seed is not pasted again here because the living page is its develo
 
 - [**Questions**]({{ '/QUESTIONS/' | relative_url }}) — question quality, hidden premises, causal influence, and correction of the question itself.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification before consequential intervention.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the plural action field from which the next move may be selected.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — show material drift or a valid null, then return control to the person.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the plural action field from which the next move may be selected.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — show material drift or a valid null, then return control to the person.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether correction changes later operations.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — intent, processing, result, feedback, and later inference.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compare the input, process, observer adaptation, result, and later state.
-- [**Flagging System — PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates process quality, including what the process makes possible afterward, without converting a temporary pass into a permanent certificate.
+- [**Flagging System — PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates process quality, including what the process makes possible afterward, without converting a temporary pass into a permanent certificate.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability, local stopping conditions, and permanent reopenability.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserve the relations and available next moves inside a temporal signature.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether the relevant boundary returns with a contribution without capturing the next move or imposing obsolete restraint.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — correction and choice without degrading either participant.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — applies agency return to remedies, appeal, interim action, local stopping, and authorship of the consequential next move.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — applies agency return to remedies, appeal, interim action, local stopping, and authorship of the consequential next move.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — the complete project index.
 

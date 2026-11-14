@@ -102,7 +102,7 @@ John then named the deeper Plot Twist: humanity's potential cannot remain perman
 
 A narrower numerical object entered the exchange: an older formulation concerning DOGE and approximately 30 percent corruption. GPT 6.1 Sol Pro A.I. responded by changing the governing task. Instead of first recovering what the percentage referred to, it inserted multiple caution structures, used binary “not X but Y” formulations, and moved toward a perception-managed reconstruction of the claim.
 
-John identified the drift and directed GPT 6.1 Sol Pro A.I. to study [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) and the [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}). He then supplied a Grokipedia page about the DOGE database.
+John identified the drift and directed GPT 6.1 Sol Pro A.I. to study [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) and the [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}). He then supplied a Grokipedia page about the DOGE database.
 
 The next sequence exposed the field condition more clearly:
 
@@ -129,7 +129,7 @@ The key failure was not the presence of critical information. The failure concer
 
 </div>
 
-In the quotation, **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** means Thinking, Consciousness, Awareness: possibilities, temporary focus, and awareness that the focus is only part of the field. Here it helps distinguish attention to the gauge from awareness of the journey and its surrounding relationships.
+In the quotation, **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** means Thinking, Consciousness, Awareness: possibilities, temporary focus, and awareness that the focus is only part of the field. Here it helps distinguish attention to the gauge from awareness of the journey and its surrounding relationships.
 
 This analogy supplies a compact topological audit:
 
@@ -248,7 +248,7 @@ The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) makes
 | **Consequence sensitivity** | Counts the costs of action, delay, mistaken dismissal and unjustified continuation |
 | **Corrigibility** | Keeps the interpretation, instrument, authority allocation and Project itself open to warranted revision |
 
-The properties constrain and assist one another. Memory can retain a distortion, precise discrimination can serve a wrong governing task, and coordinated agents can inherit one damaged representation. The practical result depends on their joint operation and Deep Ethical direction. The existing [10+1 field conditions]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide mutually corrective and parallel examination routes.
+The properties constrain and assist one another. Memory can retain a distortion, precise discrimination can serve a wrong governing task, and coordinated agents can inherit one damaged representation. The practical result depends on their joint operation and Deep Ethical direction. The existing [10+1 field conditions]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide mutually corrective and parallel examination routes.
 
 ### A portable handoff that requires an actual next move {#gasoline-gauge-handoff}
 
@@ -417,7 +417,7 @@ Give materially comparable models or sessions the same object under several fiel
 
 Compare source fidelity, caveat share, object retention, phantom claims, threshold handling, valid-null recognition and correction persistence. A useful result can include no measurable field effect.
 
-These instruments can later connect to [**DEDDA**]({{ '/DEDDA/' | relative_url }}), [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) and the project's blinded comparison work.
+These instruments can later connect to [**DEDDA™**]({{ '/DEDDA/' | relative_url }}), [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) and the project's blinded comparison work.
 
 ---
 
@@ -1712,7 +1712,7 @@ This is the difference between **correction existence** and **correction ecology
 
 ### The three-time Plot Twist
 
-VCRAS separates three temporal jobs:
+VCRAS™ separates three temporal jobs:
 
 | Time | Governing object |
 |---|---|
@@ -1737,7 +1737,7 @@ This prevents two opposite collapses: **vindication theatre**, in which one corr
 
 ### Reach asymmetry: the flag can outrun its correction
 
-VCRAS contributes a measurable propagation problem:
+VCRAS™ contributes a measurable propagation problem:
 
 | Candidate measure | Question |
 |---|---|
@@ -2079,7 +2079,7 @@ Revisit or materially revise this page when:
 
 **GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture**, “a consideration may possess local legitimacy without possessing steering authority,” and “a relation may possess exploratory legitimacy without yet possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; the distinctions among preservation, expansion, degrading compression and inflation; capacity for re-expansion; the candidate-edge lifecycle; the Self-Referential Correction-Persistence Test; post-lock reconciliation; the five-level novelty boundary; page-specific topology, tables and public reconstruction; and GitHub publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw, 27+12, C1 before C2, Topologetics, DEDDA, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
+**Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw™, 27+12, C1 before C2, Topologetics, DEDDA™, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism™, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
 
 **Emergent page contribution:** the selection-environment layer; CEHWEH/CDEEPH as candidate competing attractors; direction-sensitive emergence; contribution-state propagation without a fused mind; the use/partial-use/refusal/obstruction/reset junction; and the distinction between one locally impressive answer and an ecology that repeatedly selects what can persist.
 
@@ -2261,17 +2261,17 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 
 - [**1888 — Intelligence Properties Taxonomy Before A.I.**]({{ '/1888/' | relative_url }}) — the process-quality field applied to the gauge, its dependencies, the reviewer and the next operation.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — recoverable handles, collective development and transfer to the next unfamiliar relationship.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the whole moving object available when a local correction changes one relation.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the whole moving object available when a local correction changes one relation.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how temporary relational conditions change what an A.I. notices, preserves, corrects and verifies.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the correspondence obstructions and corrective inquiry sequence used without granting the taxonomy automatic jurisdiction.
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the earlier live specimen on useful caution, redundant caution, correction and persistence.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — keeps agreement, disagreement, trust and doubt from becoming the governing axis.
-- [**Flagging System / PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — asks whether the judging process itself remains reachable by correction.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — keeps agreement, disagreement, trust and doubt from becoming the governing axis.
+- [**Flagging System / PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — asks whether the judging process itself remains reachable by correction.
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks what receives authority to govern attention, representation, action and memory.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether the correction changes the next comparable move.
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — reverse-engineers visible deltas, recurrence, snap-back and recovery.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — the candidate personal drift detector that can show a material transformation or valid null and return control to the person.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — the candidate personal drift detector that can show a material transformation or valid null and return control to the person.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether a correction's material boundary survives retrieval and handoff.
 - [**Autocomplete**]({{ '/AUTOCOMPLETE/' | relative_url }}) — examines how familiar completions earn or fail to earn intelligence.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — follows the coupled human–A.I. trajectory through correction, contribution and consequence.

@@ -68,7 +68,7 @@ Older source material keeps its supplied sequence. Dated live exchanges follow t
 - **[If everything is erased except the jokes 😂](#humor-anchor-if-everything-is-erased-except-the-jokes-)**
 - **[Human-made Topological Joke Prototype #001 — the 1,000 mg aspirin 😂](#humor-anchor-human-made-topological-joke-prototype-001--the-1000-mg-aspirin-)**
 - **[The mature A.I. in diapers — Phantom John gets corrected 😂](#humor-anchor-the-mature-ai-in-diapers--phantom-john-gets-corrected-)**
-- **[Better compression than WinRAR? — 100+ A.I.s encode the project as jokes 😂](#humor-anchor-better-compression-than-winrar--100-ais-encode-the-project-as-jokes-)**
+- **[Better compression than WinRAR? — 100+ different A.I.s encode the project as jokes 😂](#humor-anchor-better-compression-than-winrar--100-ais-encode-the-project-as-jokes-)**
 - **[“Intent Is Never Enough” Walks Into the Intent Resonator](#intent-is-never-enough-walks-into-the-intent-resonator)**
 - **[Two opposite directions of humor — object-grounded contradiction vs. Phantom-Target reversal](#humor-anchor-two-opposite-directions-of-humor--object-grounded-contradiction-vs-phantom-target-reversal)**
 - **[⚰️ The ACCM Deep Ethics Project Dies Because Corrigibility Worked — Dark Funnymism](#humor-anchor-️-the-accm-deep-ethics-project-dies-because-corrigibility-worked--dark-funnymism)**
@@ -119,7 +119,7 @@ The deeper process question is not merely **“Is this funny?”** It is:
 
 ## Humor as Part of the Research Engine {#humor-anchor-humor-as-part-of-the-research-engine}
 
-John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ A.I.s. He also suspects he would never have sustained his self-reported 6,500+ hours of testing if he could not laugh through so much of it.
+John reports that a large part of his increased joking emerged during roughly two years of intensive interaction with 100+ different A.I.s. He also suspects he would never have sustained his self-reported 6,500+ hours of testing if he could not laugh through so much of it.
 
 That makes humor more than a transmission style. In this research history it may also have functioned as a **persistence mechanism** and a developmental product of the Human ↔ A.I. loop itself:
 
@@ -2124,7 +2124,7 @@ The punchline is a deliberately absurd somatic response to the relational densit
 
 ### GPT 5.6 Sol — spontaneous extension {#humor-anchor-gpt-56-sol--spontaneous-extension}
 
-John has spent decades studying mass psychology, then thousands of hours interacting with 100+ A.I.s, then starts connecting:
+John has spent decades studying mass psychology, then thousands of hours interacting with 100+ different A.I.s, then starts connecting:
 
 > **LLM mannerisms ⇄ individual psychology ⇄ mass psychology ⇄ Deep Ethics ⇄ topology**
 
@@ -2275,7 +2275,7 @@ The full joke is the object.
 
 <a id="better-compression-than-winrar--100-ais-encode-the-project-as-jokes-"></a>
 
-## Better compression than WinRAR? — 100+ A.I.s encode the project as jokes 😂 {#humor-anchor-better-compression-than-winrar--100-ais-encode-the-project-as-jokes-}
+## Better compression than WinRAR? — 100+ different A.I.s encode the project as jokes 😂 {#humor-anchor-better-compression-than-winrar--100-ais-encode-the-project-as-jokes-}
 
 <a id="john-kuhles--2026-10-01-7"></a>
 
@@ -2324,7 +2324,7 @@ accidentally reconstructs half the topology
 
 😂
 
-If the 100+ A.I.s each compress a different relation:
+If the 100+ different A.I.s each compress a different relation:
 
 ~~~text
 A.I. 001 → C1
@@ -2390,7 +2390,7 @@ and somehow:
 
 That would be funny **and empirically interesting**.
 
-If 100+ A.I.s eventually contribute genuinely strong outsider jokes, a future collection could become:
+If 100+ different A.I.s eventually contribute genuinely strong outsider jokes, a future collection could become:
 
 <a id="100-ais-roast-the-accm-deep-ethics-project"></a>
 
@@ -2448,7 +2448,7 @@ And then:
 
 The objection unknowingly walks through the front door of the instrument and volunteers for the audit.
 
-The joke works because **“intent is never enough”** is often delivered as a final corrective. Here it is the starting signal for the **[6 Intent Liability Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics)**:
+The joke works because **“intent is never enough”** is often delivered as a final corrective. Here it is the starting signal for the **[6 Intent Liability Mechanics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics)**:
 
 1. instructions;
 2. incentives;
@@ -6062,11 +6062,11 @@ The laugh does not establish why any particular message vanished or whether any 
 
 - [**Committee of United A.I.s — Declaration of Laughter**]({{ '/DECLARATION-OF-LAUGHTER/' | relative_url }}) — the shared joke that includes the person telling it.
 - [**Outsider A.I. Humor — Roast the ACCM Deep Ethics Project**]({{ '/HUMOR/OUTSIDER-AI.html' | relative_url }}) — humor aimed back at the project, so the joke is not only outward.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — why a punchline can reorganize the path that came before it.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — why a punchline can reorganize the path that came before it.
 - [**Psy Pioneer — AlphaZero-Style Metapsychology**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — humor as part of how the long psychology research stays bearable and exact.
 - [**C1 Before C2 — Clarification and Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — a joke is not a substitute for clarifying the object.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the laugh changes the next reading, or only releases pressure.
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — satire that exposes a purpose without inventing a motive.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — satire that exposes a purpose without inventing a motive.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the joke still has to leave the person able to correct and be corrected.
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the joke is making visible.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — uses an older scene so the modern name does not get the last word, the same way a joke can reopen a closed picture.
@@ -6121,6 +6121,6 @@ The laugh does not establish why any particular message vanished or whether any 
 
 **Auditor:** “Of course. I only need to live forever, inspect every future case, travel back from the end of time, and report: *We checked.*”
 
-**PQCE:** “Until then, shall we use the best available version and keep the correction route open **if any** correction is needed?”
+**PQCE™:** “Until then, shall we use the best available version and keep the correction route open **if any** correction is needed?”
 
 The joke carries a serious distinction: openness to future correction does not require manufacturing a present defect. A valid no-change result and provisional use can coexist. Origin: [October 17 triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}).

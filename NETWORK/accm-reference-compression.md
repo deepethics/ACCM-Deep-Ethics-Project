@@ -164,7 +164,7 @@ That question applies to project titles, acronyms, quotations, summaries, classi
 - [**Avoid ACCM — Canonical Naming Note**]({{ '/CORE/Avoid-ACCM/' | relative_url }}) — explains why the canonical public title should remain **ACCM Deep Ethics Project** rather than collapsing into the acronym alone.
 - [**Gravity-Well Trajectory and Representation Substitution**]({{ '/NETWORK/gravity-well/' | relative_url }}) — tracks how a convenient compression can pull later reasoning into a neighboring risk-shaped reconstruction.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks which object the system is actually responding to before caution or intervention acquires authority.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the compression-generated frame available for examination and correction.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — makes the compression-generated frame available for examination and correction.
 - [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — records what disappeared when “Deep Ethics Project” was removed and what changed after restoration.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves the scope and conditions lost when a larger canonical identity becomes an instruction-like label.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — examines how naming transformations alter assumptions, risk management, choices, and results.

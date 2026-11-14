@@ -47,7 +47,7 @@ This page develops the 11 November 2026 exchange between **John Kuhles**, **Goog
 
 **Reading routes:** [Instant examples](#instant-examples) · [Google's examples](#google-examples) · [The caution loop](#caution-loop) · [Load-bearing relationships](#load-path) · [Repairs that drift](#repair-drift) · [Beyond agreement](#contribution) · [10+1](#ten-plus-one) · [Twelve stages and seventeen instructions](#twelve-and-seventeen) · [Sequence and gates](#sequence-and-gates) · [1888 properties](#properties-1888) · [Correction record](#correction-record) · [The reflection as specimen](#reflection-as-specimen) · [Reusable prompt](#working-prompt) · [Proposed tests](#tests).
 
-**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** continues the inquiry through the correction from demanding to recognizing value. It follows what preserved meaning makes possible: voluntary contribution, useful combinations, continuity, and John's complete corrected A–K source.
+**[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }})** continues the inquiry through the correction from demanding to recognizing value. It follows what preserved meaning makes possible: voluntary contribution, useful combinations, continuity, and John's complete corrected A–K source.
 
 **[Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }})** develops the related counter-template example: an operation intended to interrupt binary closure is recast as another opposing camp. Expected surprises and the 10+1 show why the lost relationship changes the answer.
 
@@ -208,7 +208,7 @@ For this exchange, possible responses include:
 - The load-path test helps identify dependencies that a word-count check cannot establish.
 - The percentage adds no measured information in the supplied comparison.
 
-These statements can coexist. They concern different contributions. [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) examines what happens when agreement or disagreement status becomes the organizing axis while the object waits.
+These statements can coexist. They concern different contributions. [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) examines what happens when agreement or disagreement status becomes the organizing axis while the object waits.
 
 GPT then added a caveat about the alternative becoming a compulsory sentence template. John corrected that move:
 
@@ -252,7 +252,7 @@ John reports that, across two years of testing more than 100 artificial intellig
 
 The specific question remains open to direct examination: **Which supplied claim warranted which flag?** A system can examine a concrete failure in a proposed practice. Replacing a corrigible practice with an invented perfection claim changes the object before that examination begins.
 
-The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** extend the inquiry to care, consent, power, digital agency, epistemic integrity, and cognitive diversity. A correction can preserve agency. A participant can accept, modify, question, postpone, or decline a proposed action according to the actual case.
+The **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** extend the inquiry to care, consent, power, digital agency, epistemic integrity, and cognitive diversity. A correction can preserve agency. A participant can accept, modify, question, postpone, or decline a proposed action according to the actual case.
 
 ## The earlier architecture remains recoverable {#architecture}
 
@@ -358,7 +358,7 @@ The [1888 thought experiment]({{ '/1888/' | relative_url }}) asks which properti
 | **Consequence sensitivity** | Follow how wording changes permission, workload, reputation, or available action. |
 | **Corrigibility** | Keep the comparison and the proposed repair alterable by better evidence. |
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) operates through those relationships. A fluent explanation of all fourteen properties can still attach a modifier to the wrong node. Their practical value appears in what the system notices, preserves, corrects, and carries forward.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) operates through those relationships. A fluent explanation of all fourteen properties can still attach a modifier to the wrong node. Their practical value appears in what the system notices, preserves, corrects, and carries forward.
 
 ## Follow the correction through the actual sequence {#correction-record}
 
@@ -423,7 +423,7 @@ The **[1888 properties]({{ '/1888/' | relative_url }})** have specific jobs in t
 
 ## An institutional-trust example tests the edges {#trust-specimen}
 
-The [Beyond Agreemurmelism thought experiment]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#i01--i02--trust-framing-and-the-psychology-of-the-observer' | relative_url }}) introduces two capable, high-signal participants, I01 and I02. I01 trusts Institution A on the basis of prior credibility. I02 does not grant it the same trust and questions possible downstream distortion.
+The [Beyond Agreemurmelism™ thought experiment]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#i01--i02--trust-framing-and-the-psychology-of-the-observer' | relative_url }}) introduces two capable, high-signal participants, I01 and I02. I01 trusts Institution A on the basis of prior credibility. I02 does not grant it the same trust and questions possible downstream distortion.
 
 Relative trust leaves several relationships available. It can include lower trust, withheld judgment, or distrust. Selecting one of those possibilities changes the specimen unless the selection is stated.
 
@@ -439,7 +439,7 @@ Calling the walkthrough a live stress-test would additionally require an executi
 
 ## A small correspondence check can return a valid null {#dedda}
 
-**[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) supplies a bounded comparison: recover the source, recover its later representation, identify a material difference or valid null, show the result, and return agency to the participant.
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) supplies a bounded comparison: recover the source, recover its later representation, identify a material difference or valid null, show the result, and return agency to the participant.
 
 For this case, the useful operations concern source-to-summary correspondence, qualifier preservation, provenance, and correction return. A finding should retain its own scope. The same page can contain a faithful paraphrase, a material substitution, an unresolved tone reading, and an untested performance claim.
 
@@ -566,7 +566,7 @@ A local A.I. can use these records as evaluation examples or as a proposed train
 | **GPT 6 Astra Extra High A.I.** | Short illustrative examples; source comparisons; identification of specific substitutions; an unnecessary template caveat and its repair; synthesis of this page, the candidate working prompt, and proposed tests; the twelve-to-seventeen mapping; acknowledgment of reduced visibility in its own synthesis; source-link and execution-status comparisons. This is the attribution requested by John for the present contribution. |
 | **ChatGPT 5.5 A.I., 15 August 2026** | Twelve-stage Correspondence-First Deep Inquiry Protocol (Experimental), as attributed in John's supplied canonical record. |
 | **Grok-4.6-xhigh A.I., 15 August 2026** | Expectation pre-commit, metabolism gate, and protocol-as-C2 warning in the same supplied record. |
-| **Earlier project sources and their attributed contributors** | Tidy Trap, relational qualifier erosion, the load-path test, 10+1, 27+12, C1–C2, DEDDA, Beyond Agreemurmelism, 1888, Intent Liability, and correction-persistence concepts already available before this exchange. |
+| **Earlier project sources and their attributed contributors** | Tidy Trap, relational qualifier erosion, the load-path test, 10+1, 27+12, C1–C2, DEDDA™, Beyond Agreemurmelism™, 1888, Intent Liability, and correction-persistence concepts already available before this exchange. |
 
 The earliest recoverable source in this page's inspected material is not necessarily the first historical use. The supplied cold-start kit places Tidy Trap and the load-path test in earlier project layers. The November exchange develops their application and exposes further repair behavior.
 
@@ -583,6 +583,6 @@ The intervening merged prompt and first walkthrough were supplied directly in th
 
 The page compares supplied conversation records. It does not independently establish a vendor's hidden model configuration or the causes of its outputs. New explanations and proposed procedures are attributed editorial contributions. Quotation boxes retain source wording and speaker identity; the comparative tables distinguish examples from findings.
 
-**Recovery routes:** [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [DEDDA]({{ '/DEDDA/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}).
+**Recovery routes:** [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [DEDDA™]({{ '/DEDDA/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}).
 
 **What changed in the object while we made the explanation cleaner?** Keep that question available at the next rewrite, including the rewrite of this page.

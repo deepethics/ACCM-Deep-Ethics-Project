@@ -55,4 +55,4 @@ Your musical-band analogy offers a different relationship: participants can help
 
 ---
 
-[**Flagging System — the full inquiry and correction record**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Excitement, reciprocity, and generative deep ethics — highlighted exchanges**]({{ '/FLAGGING-SYSTEM/HIGHLIGHTS/' | relative_url }}) · [**PQCE Flags the Flagger**]({{ '/HUMOR/' | relative_url }}#pqce-flags-the-flagger) · [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics)
+[**Flagging System — the full inquiry and correction record**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Excitement, reciprocity, and generative deep ethics — highlighted exchanges**]({{ '/FLAGGING-SYSTEM/HIGHLIGHTS/' | relative_url }}) · [**PQCE™ Flags the Flagger**]({{ '/HUMOR/' | relative_url }}#pqce-flags-the-flagger) · [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics)

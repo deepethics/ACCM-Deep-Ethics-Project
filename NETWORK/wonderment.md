@@ -43,9 +43,9 @@ Sources: [E04](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — places wonderment inside a reciprocal process where openness, inquiry, care, and correction remain active together.
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps “I do not know, yet” available without converting uncertainty into closure.
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects wonderment with naming relationships whose meaning is still emerging.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on reasoning across conceptual relationships before reducing them to isolated claims.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on reasoning across conceptual relationships before reducing them to isolated claims.
 - [**Humor / Funnymism**]({{ '/HUMOR/' | relative_url }}) — shows why healthy ambiguity and postponed judgment can allow a later punchline to reorganize the earlier journey.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the governing frame, omissions, and pressure toward premature answers available for examination.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the governing frame, omissions, and pressure toward premature answers available for examination.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects emerging meaning by asking for context before consequential interpretation.
 - [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — connects wonderment with John’s autodidact bridge across psychology, mass psychology, A.I. mannerisms, and metapsychology.
 

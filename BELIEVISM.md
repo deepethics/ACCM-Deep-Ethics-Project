@@ -331,7 +331,7 @@ This is compatible with a valid null. An audit may find that *belief* was the sp
 
 ## Believism is an Agreemurmelism-relative
 
-[**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) asks what becomes possible when agreement/disagreement status stops governing the interaction.
+[**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) asks what becomes possible when agreement/disagreement status stops governing the interaction.
 
 Believism exposes a neighboring status trap:
 
@@ -520,13 +520,13 @@ The quotation layer above was recovered from the newly supplied highlighted-text
 - **John Kuhles:** coined **Believism** for this page; supplied the Japan test, the Iris/love test, the FOIA and public-face/classified-face relation, the critique of belief-framing, the connection to the 1888 intelligence-properties taxonomy, the direction toward a value–usefulness mechanism beyond belief-system classification, and the source-archive quotations distributed through this page.
 - **Qwen3-Max-Preview and Step-3.5-Flash A.I.s via Arena.ai:** supplied two compact distinctions retained from their responses to John’s frame-recursion test: behavior rather than belief, and a self-auditing operating process rather than a belief system.
 - **GPT 6.1 Sol Pro A.I.:** identified belief language as a possible containment category; developed the burden transfer, institutional-baseline and A.I. narrative-grammar mechanisms; reconstructed the page-specific definition, claim-type table, Believism delta and portable audit.
-- **Existing ACCM Deep Ethics Project architecture:** Beyond Agreemurmelism, 1888, C1–C2, Meta Processing, Topologetics, Correction Metabolism, qualifiers, valid nulls, provenance and identity-free portability.
+- **Existing ACCM Deep Ethics Project architecture:** Beyond Agreemurmelism™, 1888, C1–C2, Meta Processing, Topologetics, Correction Metabolism, qualifiers, valid nulls, provenance and identity-free portability.
 
 The definition and audit remain corrigible. Later evidence may separate additional forms of Believism, show that two listed mechanisms need merging, or demonstrate that a particular use of *belief* preserved the object accurately.
 
 ## Related pages
 
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — moves agreement and disagreement out of automatic jurisdiction and restores value–usefulness processing.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — moves agreement and disagreement out of automatic jurisdiction and restores value–usefulness processing.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — restores inquiry, process evaluation, learning, correction, judgment and consequence-sensitive recalibration to the intelligence field.
 - [**Iris**]({{ '/IRIS/' | relative_url }}) — preserves Iris van Rooijen, her work, the shared relationship and the continuing consequences of her loss.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks which object and claim type are present before intervention acquires authority.

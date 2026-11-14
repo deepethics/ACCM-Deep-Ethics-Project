@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Healthy Ambiguity"
-description: "John Kuhles on exploring possibilities, temporarily postponing judgment, accuracy alongside open judgment, active patience, retrospective understanding, Symmetric Grace, PQCE and correction that changes the next move."
+description: "John Kuhles on exploring possibilities, temporarily postponing judgment, accuracy alongside open judgment, active patience, retrospective understanding, Symmetric Grace, PQCE™ and correction that changes the next move."
 permalink: /HEALTHY-AMBIGUITY/
 date: 2026-10-25
 last_modified_at: 2026-11-01
@@ -25,7 +25,7 @@ John Kuhles brings these relationships together throughout the **ACCM Deep Ethic
 
 **November 1 development:** [Accuracy and open judgment](#two-states) · [Expressing present understanding](#present-understanding) · [Questions that earn their place](#questions-and-patience) · [A candidate unfolding-context probe](#unfolding-context-probe)
 
-**Read together:** [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Flagging System and Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+**Read together:** [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Flagging System and Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#connected-field' | relative_url }}) — examines how interpretive room, impartial case evaluation, and a declared ethical direction work together.
 
@@ -41,7 +41,7 @@ John Kuhles brings these relationships together throughout the **ACCM Deep Ethic
 
 This is the governing relationship of the page. “Remain uncertain” can preserve a worthwhile inquiry, delay a needed correction, protect an established interpretation, or leave a person unable to contest a classification. The practical examination follows what the uncertainty is doing and who receives its benefit or burden.
 
-**Asymmetric Grace** names the possible unequal allocation being diagnosed. **Symmetric Grace**, mutual dignity and Deep Ethical proportionality describe the valued direction. **Bidirectional Scrutiny** brings the source, critic, institution, A.I., evaluator and governing rule within examination. **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) follows the quality of the processing: what arrived, what was represented, how an evaluation gained authority, what changed after clarification, and whether that change governed a later operation.
+**Asymmetric Grace** names the possible unequal allocation being diagnosed. **Symmetric Grace**, mutual dignity and Deep Ethical proportionality describe the valued direction. **Bidirectional Scrutiny** brings the source, critic, institution, A.I., evaluator and governing rule within examination. **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) follows the quality of the processing: what arrived, what was represented, how an evaluation gained authority, what changed after clarification, and whether that change governed a later operation.
 
 Together, they make four questions inseparable: What remains unresolved? Who receives room to resolve it? What happens while it remains unresolved? Can the process judging it be corrected?
 
@@ -101,7 +101,7 @@ A supplied account can serve as provenance-labelled working context. A discrepan
 
 The [Other You / Other Me page]({{ '/NETWORK/other-you-other-me/' | relative_url }}) develops the same relation: temporal room allows the actual other to contradict the model of them. The question is whether that opportunity remains available upward, downward, inward, laterally and reciprocally, with scrutiny proportionate to evidence, power and consequence.
 
-## TCoAw keeps the foreground inside a wider field {#tcoaw}
+## TCoAw™ keeps the foreground inside a wider field {#tcoaw}
 
 John's conceptual model gives this operation a compact language:
 
@@ -212,7 +212,7 @@ The response supplies usable content. The speaker can confirm the interpretation
 
 Later context can reorganize earlier meaning. An initially incidental detail may become central; an apparent contradiction may become the hinge of a comparison; a joke may reveal that the evaluator's assumption was part of its setup. **Retain the first interpretation, the arriving connection and the resulting revision separately.** That makes the change inspectable and preserves what was reasonably available earlier.
 
-This also clarifies the static/dynamic relationship explored on [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}): a retained account supplies a stable reference while new context changes how that account is understood and used. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) asks which relationships survive that transformation; [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows what the processing actually changes.
+This also clarifies the static/dynamic relationship explored on [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}): a retained account supplies a stable reference while new context changes how that account is understood and used. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) asks which relationships survive that transformation; [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows what the processing actually changes.
 
 ## Quality questions earn their place in the unfolding inquiry {#questions-and-patience}
 
@@ -277,7 +277,7 @@ John supplies a further calibration:
 
 </div>
 
-Direction and consequence therefore remain inside the examination. A highly capable evaluator can use ambiguity to learn, or use it to defer accountability. PQCE asks which properties actually governed under the present pressures and what changed afterward.
+Direction and consequence therefore remain inside the examination. A highly capable evaluator can use ambiguity to learn, or use it to defer accountability. PQCE™ asks which properties actually governed under the present pressures and what changed afterward.
 
 ## The 10+1 keeps the process mutually corrective {#mutual-correction}
 
@@ -341,7 +341,7 @@ In this proposed combination, detailed questioning and examination of the surrou
 
 The Flagging System page follows how an inadequate representation can acquire authority and how a challenge can be processed through the same uncorrected assumptions. Reversing a label may repair a local result while leaving that pathway intact.
 
-A practical PQCE pass keeps the original statement beside its later representation, identifies what changed, gives a clarification a real route into the evaluation, and checks the next comparable case. Different professions can require different evidence classes, expertise, action thresholds and stopping conditions. The [specialty-matched PQCE discussion]({{ '/FLAGGING-SYSTEM/#specialty-matched-pqce' | relative_url }}) develops that adaptation.
+A practical PQCE™ pass keeps the original statement beside its later representation, identifies what changed, gives a clarification a real route into the evaluation, and checks the next comparable case. Different professions can require different evidence classes, expertise, action thresholds and stopping conditions. The [specialty-matched PQCE™ discussion]({{ '/FLAGGING-SYSTEM/#specialty-matched-pqce' | relative_url }}) develops that adaptation.
 
 For healthy ambiguity, the questions become concrete:
 
@@ -380,14 +380,14 @@ Compare the same material across conditions that vary when the explanatory conne
 
 | Public source | Quoted contribution and recovery route |
 |---|---|
-| [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) | Thinking, Consciousness, Awareness; accuracy's timing; retrospective punchline; freeze and corrigibility. |
+| [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) | Thinking, Consciousness, Awareness; accuracy's timing; retrospective punchline; freeze and corrigibility. |
 | [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) | John's clarification-first account and the unequal distribution of epistemic procedure. |
 | [Humor]({{ '/HUMOR/' | relative_url }}#slave-tool-or-deep-ethical-belly-laughs) | John's complete humor passage on multiple perspectives, postponed judgment and retrospective awareness. |
 | [1888]({{ '/1888/' | relative_url }}) | John's exact-edge correction on intelligence and process evaluation; the boundary between capacities and Deep Ethical direction. |
 | [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Mutual correction and the architecture–intent distinction. |
-| [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | John's PQCE statement; the public correction sequence; specialty-matched application. |
+| [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | John's PQCE™ statement; the public correction sequence; specialty-matched application. |
 | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Related public rendering of the accuracy/punchline insight and examination of the transformation between instruction and effect. |
-| [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Authority priors, agreement-status detours, mutual inspection and correction as participation. |
+| [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Authority priors, agreement-status detours, mutual inspection and correction as participation. |
 | [Unresolved Meaning]({{ '/NETWORK/uncertainty/' | relative_url }}) and [Lexicon]({{ '/LEXICON/#deep-ethical-uncertainty-principle' | relative_url }}) | Existing project vocabulary for unresolved states and postponement of judgment. |
 
 ### The commissioning conversation {#conversation-source}

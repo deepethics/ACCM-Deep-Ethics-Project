@@ -14,7 +14,7 @@ permalink: /NETWORK/gravity-well/
 
 **BETA — source-based editorial synthesis**
 
-John specifies Outnuancing as a deep ethical sense-making process-orientation **gravity-well trajectory**. In this usage the phrase preserves the connected orientation of the inquiry.
+John specifies Outnuancing™ as a deep ethical sense-making process-orientation **gravity-well trajectory**. In this usage the phrase preserves the connected orientation of the inquiry.
 
 The existing Lexicon describes a **Wrong Gravity Well** as the pull created when an early substitution activates the assumptions, vocabulary, objections, or expectations of a neighboring category. Later reasoning can become coherent within that reconstruction while drifting from the source.
 
@@ -22,7 +22,7 @@ The existing Lexicon describes a **Wrong Gravity Well** as the pull created when
 
 ## A source example
 
-The archive records an AI treating Outnuancing as an example of a general class of new words. Its later correction recognizes that the specific word and seven-node object belong together. The mistake displaced the particular object upward into an abstraction.
+The archive records an AI treating Outnuancing™ as an example of a general class of new words. Its later correction recognizes that the specific word and seven-node object belong together. The mistake displaced the particular object upward into an abstraction.
 
 ## A recovery question
 
@@ -38,8 +38,8 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the specific deep ethical process orientation displaced by a generic neighboring category.
-- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — restores the fused relational object that belongs with the word Outnuancing.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the specific deep ethical process orientation displaced by a generic neighboring category.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — restores the fused relational object that belongs with the word Outnuancing™.
 - [**Latent Space and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — examines temporary field conditions and the trajectories they make accessible.
 - [**Wrong Gravity Well — Lexicon entry**]({{ '/LEXICON/' | relative_url }}#wrong-gravity-well) — preserves the compact definition of coherent reasoning pulled into the wrong reconstruction.
 - [**Reference Compression and Context Loss**]({{ '/NETWORK/accm-reference-compression/' | relative_url }}) — shows how a compressed label can inherit assumptions that displace its full project object.

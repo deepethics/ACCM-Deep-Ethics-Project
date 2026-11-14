@@ -571,11 +571,11 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 - [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — places Herdr beside the memory, model, editor and host candidates in John's supplied collection, keeping terminal continuity and correction persistence separately testable.
 
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
 - [**Flagging System-PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — provides proportional quality-calibration signals without converting a flag into a verdict.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — keeps the intelligence-property field larger than model scale or fluent output.
-- [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) — relates focal attention to the wider field of available relations.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops the Deep Ethical Contribution State Grammar Vector Trajectory.
+- [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) — relates focal attention to the wider field of available relations.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops the Deep Ethical Contribution State Grammar Vector Trajectory.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how capability, conditions and correction behavior shape action quality.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes a local repair from propagated and durable change.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — examines which processing and governance surfaces can be made inspectable.

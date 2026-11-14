@@ -192,7 +192,7 @@ Each superscript number above links directly to the fuller public page named bel
 1. [**Superintelligence → Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — keeps intelligence as a multidimensional property field rather than allowing one capability ranking to define the entire object.
 2. [**Intelligence explosion → Emergent**]({{ '/EMERGENT/' | relative_url }}) — examines properties and trajectories produced by interacting systems, feedback, incentives, memory, correction, and scale.
 3. [**“Provided” → Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — preserves the clause that keeps Good's statement conditional; dropping it changes the proposition.
-4. [**Alignment → 16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — reopens who defines the preferred direction, which values receive jurisdiction, and which parallel responses remain available.
+4. [**Alignment → 16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — reopens who defines the preferred direction, which values receive jurisdiction, and which parallel responses remain available.
 5. [**The learning ladder → Emergent**]({{ '/EMERGENT/' | relative_url }}) — distinguishes immediate task automation from the longer developmental process through which novices acquire judgment.
 6. [**A.I. mentor → Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — asks whether assistance increases a person's capacity and agency or quietly makes the person replaceable and dependent.
 7. [**Judgment, taste, and question selection → Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — evaluates how questions alter later inquiry rather than treating answer production as the whole intelligence event.
@@ -203,10 +203,10 @@ Each superscript number above links directly to the fuller public page named bel
 12. [**Second pair of eyes → Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates what the tool contributed, what the professionals did with it, and which result followed from their interaction.
 13. [**Who lives in it and owns it → Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — returns abundance claims to access, ownership, power, renewable auditability, and the refusal of a final ethical owner.
 14. [**Without permission → Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — payment alone cannot manufacture consent, representation rights, or reciprocal dignity after the identity-bearing material has been taken.
-15. [**A.I. persona → DEDDA**]({{ '/DEDDA/' | relative_url }}) — compares the apparent speaker with the sources, permissions, transformations, and claims that produced the representation.
+15. [**A.I. persona → DEDDA™**]({{ '/DEDDA/' | relative_url }}) — compares the apparent speaker with the sources, permissions, transformations, and claims that produced the representation.
 16. [**Uncanny valley → Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects synthetic human cues to trust, projection, attachment, unease, and the psychological effects of the interface.
 17. [**“I'm not real” → External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — makes the presenter and production conditions available to the same scrutiny being applied to synthetic media elsewhere.
-18. [**A face becomes a suggestion → DEDDA**]({{ '/DEDDA/' | relative_url }}) — shows the source–representation gap and why consequential authorization needs independent verification.
+18. [**A face becomes a suggestion → DEDDA™**]({{ '/DEDDA/' | relative_url }}) — shows the source–representation gap and why consequential authorization needs independent verification.
 19. [**“Check everything, especially me” → Inspecting the Inspector**]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }}) — closes the recursive loop by applying the documentary's warning to the documentary, its A.I., its human producer, its audience, and this Project analysis.
 
 The annotations are navigation edges, not claims that the linked Project page owns the concept or settles the video's factual claims. Their purpose is to let a reader move from one compressed phrase into the deeper relation, evidence boundary, and correction route already developed elsewhere.

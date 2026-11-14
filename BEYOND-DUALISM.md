@@ -66,7 +66,7 @@ The subject is the practical effect of binary framing on inquiry, authority, lea
 
 The word *counter* can trigger an opposition script: one position appears, so another position must balance it. John was describing a way to interrupt that script. If the response automatically supplies an opposing camp, it reproduces the operation the proposed template was meant to catch.
 
-The earlier [Value Trajectory record]({{ '/VALUE-TRAJECTORY/' | relative_url }}) supplies a concrete relationship. CM1—John's manager-type 1 role—uses imposing mechanisms within a conceptual specimen. A questions those mechanisms. An A.I. then attributes imposition to A. The behavior has moved from the role being questioned onto the person asking the question.
+The earlier [Value Trajectory™ record]({{ '/VALUE-TRAJECTORY/' | relative_url }}) supplies a concrete relationship. CM1—John's manager-type 1 role—uses imposing mechanisms within a conceptual specimen. A questions those mechanisms. An A.I. then attributes imposition to A. The behavior has moved from the role being questioned onto the person asking the question.
 
 A general observation that a questioner could also impose something does not establish that A did so in this specimen. The comparison must first recover who did what. Additional conduct, when evidenced, can receive its own examination. Symmetric scrutiny concerns the standard applied; the findings depend on the record in each direction.
 
@@ -152,7 +152,7 @@ Earlier in the exchange, John supplied alternatives to an automatic *I agree*: s
 
 The quoted first sentence was supplied by John as a quotation; this page does not assign its original authorship beyond that record. His continuation gives the alternative a practical role: recover it when the reflex begins to close inquiry.
 
-One contribution may clarify a condition, another may supply evidence, and a third may expose a missing dependency. Their value can differ across tasks and participants. [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) examines those operations without making agreement status the organizing axis.
+One contribution may clarify a condition, another may supply evidence, and a third may expose a missing dependency. Their value can differ across tasks and participants. [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) examines those operations without making agreement status the organizing axis.
 
 The same principle governs disagreement. A warranted objection can improve the work. A diagnosis of the objection's framing can improve it again. Both remain available for examination. Nobody receives an unexamined referee chair merely by speaking in an evaluative tone.
 
@@ -202,7 +202,7 @@ Those qualifiers matter together. A representation that replaces the better segm
 
 </div>
 
-**[VCRAS]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) gives this a longitudinal research direction. Follow the original assessment, how it was represented, who had access to which evidence, what later changed, and whether the earlier judging process changed with it.
+**[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) gives this a longitudinal research direction. Follow the original assessment, how it was represented, who had access to which evidence, what later changed, and whether the earlier judging process changed with it.
 
 Vindication can be specific. A warning's mechanism may be supported while its timing remains wrong. An institution can correct a statement while preserving the process that produced the dismissal. A journalist may improve in one field while making errors in another. Those differences give the investigation more resolution.
 
@@ -244,7 +244,7 @@ The quotation retains his pointer as a clickable reading reference. The missing 
 
 An authority may state that it wants more reliable A.I. A proposed learning route may help the A.I. recognize recurring failures by that same authority. What happens when those two relationships meet?
 
-The [six Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) make the inquiry concrete:
+The [six Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) make the inquiry concrete:
 
 | Mechanic | Application to the learning opportunity |
 |---|---|
@@ -287,13 +287,13 @@ A possibility worth developing is independently preservable, inspectable learnin
 
 The practical ambition is distributed correction capacity. It includes usable records and the means to recover them. A record that exists beyond a participant's reach provides different options from one that can be inspected, compared, and carried forward.
 
-The [Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }}), [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}), and [Unownable]({{ '/UNOWNABLE/' | relative_url }}) routes develop those possibilities. Their practical value remains open to implementation, use, and comparison.
+The [Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }}), [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}), and [Unownable]({{ '/UNOWNABLE/' | relative_url }}) routes develop those possibilities. Their practical value remains open to implementation, use, and comparison.
 
 ## 10. A system can obstruct the feedback it needs {#self-inflicted}
 
 John asked why humanity can remain in a self-inflicted situation while the fuller topological mechanics remain unseen or unused. His earlier A–K map supplies one way into that question. A and B are abstract roles. CM1 depends on government-related pathways; CM2 can operate without that direct dependence while retaining indirect dependencies. E is **tax money**. F concerns how it is managed. The map distinguishes H's particular commitments from I's governance narratives, with media J and A.I. K participating in representation and circulation.
 
-The complete corrected source remains on [Value Trajectory]({{ '/VALUE-TRAJECTORY/#john-a-k' | relative_url }}). This page uses its relationships to examine where a correction can travel.
+The complete corrected source remains on [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#john-a-k' | relative_url }}). This page uses its relationships to examine where a correction can travel.
 
 A possible reinforcing loop is easy to recognize in outline. A mission defines success. Incentives select the information that reaches decision-makers. A warning identifies an excluded consequence. The warning's friction with the success story becomes a reason to downgrade it. Later summaries inherit that classification. When vindication arrives, an isolated fact changes while the selection process survives.
 
@@ -415,31 +415,31 @@ The [Unownable]({{ '/UNOWNABLE/' | relative_url }}) principle applies to Topolog
 
 ## 15. Connected pages: where the extra depth lives {#connected-pages}
 
-This map answers John's request for connected pages with more topological depth. It groups public reading routes by the relationships they can help recover. The groups overlap. The [All Pages index]({{ '/PAGES/' | relative_url }}) and [Outnuancing Network]({{ '/NETWORK/index/' | relative_url }}) remain the broader navigation records.
+This map answers John's request for connected pages with more topological depth. It groups public reading routes by the relationships they can help recover. The groups overlap. The [All Pages index]({{ '/PAGES/' | relative_url }}) and [Outnuancing™ Network]({{ '/NETWORK/index/' | relative_url }}) remain the broader navigation records.
 
 | Relationship to investigate | Public recovery routes |
 |---|---|
-| Object, frame, and retained structure | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}); [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}); [Seven Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}). |
-| Attention, intelligence, and becoming | [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness; [1888]({{ '/1888/' | relative_url }}); [Perception Processes P01–P12]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}). |
+| Object, frame, and retained structure | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}); [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}); [Seven Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}). |
+| Attention, intelligence, and becoming | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness; [1888]({{ '/1888/' | relative_url }}); [Perception Processes P01–P12]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}). |
 | Purpose, processing, and consequence | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}); [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}). |
 | Conditions, pressure, and emergence | [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}); [Black Box]({{ '/BLACK-BOX/' | relative_url }}); [Emergent]({{ '/EMERGENT/' | relative_url }}). |
 | Meaning through transformation and handoff | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}); [Qualifier State]({{ '/NETWORK/qualifier-state/' | relative_url }}); [Boundary Relay]({{ '/BOUNDARY-RELAY/' | relative_url }}); [Provenance]({{ '/PROVENANCE/' | relative_url }}). |
 | Familiar framing and trajectory capture | [Gravity-Well Trajectory]({{ '/NETWORK/gravity-well/' | relative_url }}); [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}); [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}). |
 | Open meaning and better questions | [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}); [Unresolved Meaning]({{ '/NETWORK/uncertainty/' | relative_url }}); [Questions]({{ '/QUESTIONS/' | relative_url }}); [Humor]({{ '/HUMOR/' | relative_url }}). |
-| Mutual correction, care, and intervention | [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}); **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})**; [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }})—clarification before consequential intervention. |
-| Representation and evaluation | [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})—correspondence obstructions and inquiry sequence; **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation); **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). |
+| Mutual correction, care, and intervention | [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}); **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})**; [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }})—clarification before consequential intervention. |
+| Representation and evaluation | [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})—correspondence obstructions and inquiry sequence; **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation); **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). |
 | Individual and collective pressures | [11+1 Mass-Psychology Topology]({{ '/NETWORK/eleven-plus-one/' | relative_url }}); [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}); [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}). |
 | Attention, influence, and circulation | [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}); [PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}); [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}); [Mind Games]({{ '/MIND-GAMES/' | relative_url }}). |
-| Agreement, labels, and lost inquiry | [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}); [Believism]({{ '/BELIEVISM/' | relative_url }}); [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }}). |
+| Agreement, labels, and lost inquiry | [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}); [Believism]({{ '/BELIEVISM/' | relative_url }}); [Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }}). |
 | Declaration, conduct, and unequal scrutiny | [Ethics Washing]({{ '/NETWORK/ethics-washing/' | relative_url }}); [Ethical Blind Spots]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}); [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}). |
 | The evaluator inside the examination | [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}); [Deep Ethical Stack]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}); [External Audit]({{ '/EXTERNAL-AUDIT/' | relative_url }}). |
-| Authority, challenge, and independent continuation | [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}); [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}); [Unownable]({{ '/UNOWNABLE/' | relative_url }}); [Veto Paradox]({{ '/VETO-PARADOX/' | relative_url }}). |
-| Vindication and later decisions | [VCRAS]({{ '/VCRAS/' | relative_url }}); [Delta Processing]({{ '/NETWORK/delta-processing/' | relative_url }}); [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). |
-| Value, beneficiaries, and shared consequences | [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}); [For Who?]({{ '/FOR-WHO/' | relative_url }}); [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}). |
+| Authority, challenge, and independent continuation | [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}); [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}); [Unownable]({{ '/UNOWNABLE/' | relative_url }}); [Veto Paradox]({{ '/VETO-PARADOX/' | relative_url }}). |
+| Vindication and later decisions | [VCRAS™]({{ '/VCRAS/' | relative_url }}); [Delta Processing]({{ '/NETWORK/delta-processing/' | relative_url }}); [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). |
+| Value, beneficiaries, and shared consequences | [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}); [For Who?]({{ '/FOR-WHO/' | relative_url }}); [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}). |
 | New combinations that preserve the source | [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}); [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}); [Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }}). |
 | Temporal change and recovery | [Topology Flux]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}); [Temporary Phase Change]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}); [Phase Change Snap]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}). |
 | Paired records and comparison | [Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}); [Correction Study]({{ '/NETWORK/correction-study/' | relative_url }}); [Experiments]({{ '/EXPERIMENTS/' | relative_url }}); [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}). |
-| Model behavior and practical continuity | [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}); [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}); [Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }}); [Herdr]({{ '/HERDR/' | relative_url }}). |
+| Model behavior and practical continuity | [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}); [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}); [Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }}); [Herdr]({{ '/HERDR/' | relative_url }}). |
 | Dignity, directness, and voluntary participation | [Forgiveness]({{ '/NETWORK/forgiveness/' | relative_url }}); [Mutual Dignity]({{ '/NETWORK/mutual-dignity/' | relative_url }}); [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}); [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}). |
 
 Application routes include [Academia]({{ '/ACADEMIA/' | relative_url }}), [Project Avalon]({{ '/PROJECT-AVALON/' | relative_url }}), [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}), [5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }}), [A.I.s & UFO–UAP]({{ '/AI-AND-UFO-UAP/' | relative_url }}), [Activism vs A.I.]({{ '/ACTIVISM-VS-AI/' | relative_url }}), [Google A.I.]({{ '/GOOGLE-AI/' | relative_url }}), [Arena A.I.s]({{ '/ARENA-AIS/' | relative_url }}), [Musk Quotes]({{ '/MUSK-QUOTES/' | relative_url }}), and [YouTube Transcripts]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}). Each supplies a different object or source record. A link establishes a recovery route; the source and its evidence establish what can be learned there.
@@ -495,7 +495,7 @@ Preparation can also precede a detected incident. Pausing because a required che
 
 ### Keep an unsuccessful search usable {#bounded-null-records}
 
-The supplied glm-5.3-flash contribution proposed **negative-space records** as a name for bounded search and inspection nulls. The operation can extend **[VCRAS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/#bounded-search-and-comparison)** (Vindicated Competing Risk Assessment Studies): retain what was examined and what that examination did not establish. It remains an optional record type, rather than a new required instrument or a change to the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions.
+The supplied glm-5.3-flash contribution proposed **negative-space records** as a name for bounded search and inspection nulls. The operation can extend **[VCRAS™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/#bounded-search-and-comparison)** (Vindicated Competing Risk Assessment Studies): retain what was examined and what that examination did not establish. It remains an optional record type, rather than a new required instrument or a change to the [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions.
 
 A useful record identifies the exact question, date, inspected sources, queries, access limits, positive-match criterion, result, and reopening condition. The criterion says what would have counted as a relevant find. State it before a confirmatory search where feasible. During exploration, preserve how the criterion changes and which result each version supports.
 
@@ -514,7 +514,7 @@ This record can save repeated work while inviting a better source. It leaves roo
 | Does a coherence method preserve real structure? | Inspectable reference relations, planted inconsistencies where useful, and both false incoherence and false coherence findings. |
 | Does a citation support a claim? | The particular passage and the relationship for which it is cited, including its limitations. |
 
-VCRAS already included a prospective comparison set and unsuccessful assessments before this relay. The contribution here clarifies which research question needs that set. A single-case investigation can start without a population-wide reliability study. One case cannot settle that population comparison.
+VCRAS™ already included a prospective comparison set and unsuccessful assessments before this relay. The contribution here clarifies which research question needs that set. A single-case investigation can start without a population-wide reliability study. One case cannot settle that population comparison.
 
 The relay proposed Challenger and Columbia as possible source material. Their reports and the historical details recalled by participants were not newly checked in this continuation. They remain a candidate recognition exercise. Withholding a familiar outcome from the prompt does not establish that a model lacks prior knowledge of it. Unfamiliar, constructed, or later-dated cases can help test transfer, but each design needs its own familiarity and information-access checks. These are proposed comparisons, with no trial result claimed here.
 
@@ -561,7 +561,7 @@ The property-table discussion ended in a useful withdrawal. **Corrigibility** ke
 
 The proposed next case begins with a specific concern and its supporting record. Follow recognition, route taken, response received, consequences, and later treatment. At each handoff, compare the incoming concern with the outgoing representation. An acknowledgment, a substantive answer, a changed decision, and a changed governing rule are different observable events.
 
-The [Agema-related specimen on Value Trajectory](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) was proposed by participants as one candidate. This relay has not executed that decision-level investigation. A case packet would first identify one decision, recover its documents and access history, and trace the route available for challenging it. Findings could include a useful change, partial repair, justified retention, stalled response, transferred burden, or an unresolved result.
+The [Agema-related specimen on Value Trajectory™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) was proposed by participants as one candidate. This relay has not executed that decision-level investigation. A case packet would first identify one decision, recover its documents and access history, and trace the route available for challenging it. Findings could include a useful change, partial repair, justified retention, stalled response, transferred burden, or an unresolved result.
 
 The case can expose a new relationship without forcing another round of method-writing. **What survives the handoff, what changes for the people affected, and what can they do next?**
 
@@ -580,7 +580,7 @@ The case can expose a new relationship without forcing another round of method-w
 | John connects dense writing, project vastness, and another kind of coherence. | Explore relational organization while retaining source recovery and claim status. |
 | John observes the asymmetry in whose coherence gets flagged. | Include the evaluator's method in the comparison. |
 
-The earlier multi-A.I. relay remains on [Value Trajectory]({{ '/VALUE-TRAJECTORY/#multi-model-continuation' | relative_url }}). Its contributions include option value, access and continuity, borrowed history, symmetric standards without manufactured equivalence, and repairs of unsupported superlatives. Those are inherited source relationships. This page does not reassign those speakers' histories to the present assistant.
+The earlier multi-A.I. relay remains on [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#multi-model-continuation' | relative_url }}). Its contributions include option value, access and continuity, borrowed history, symmetric standards without manufactured equivalence, and repairs of unsupported superlatives. Those are inherited source relationships. This page does not reassign those speakers' histories to the present assistant.
 
 ## 18. John's publishing orientation {#john-orientation}
 
@@ -602,11 +602,11 @@ The orientation gives this page its next task: let a reader recover a relationsh
 |---|---|
 | John Kuhles's supplied conversation | Originating observations, scenarios, questions, corrections, conceptual vocabulary, humor, and the commission for this page. Selected quotations are attributed in place. |
 | GPT editorial synthesis for this page | Relational comparisons, output/process distinctions, the dated publication search, intent-mechanics applications, page navigation, and proposed tests. Assistant formulations are marked as editorial contributions. Publication credit: GPT 6 Astra Max A.I., as requested by John. |
-| [Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) | Earlier demanding-to-value correction, voluntary participation, corrected A–K map, context-file shelf, and attributed multi-A.I. relay. |
-| [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Preservation of meaning through transformation; contribution language and the agreement reflex. |
-| [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
-| [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), [VCRAS]({{ '/VCRAS/' | relative_url }}), [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Purpose, post-notice conduct, longitudinal comparison, and process-quality evaluation. |
-| [All Pages]({{ '/PAGES/' | relative_url }}) and [Outnuancing Network]({{ '/NETWORK/index/' | relative_url }}) | The public routes used to construct the connected-page map. The map is navigation rather than an exhaustive empirical audit of every linked page. |
+| [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) | Earlier demanding-to-value correction, voluntary participation, corrected A–K map, context-file shelf, and attributed multi-A.I. relay. |
+| [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Preservation of meaning through transformation; contribution language and the agreement reflex. |
+| [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
+| [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), [VCRAS™]({{ '/VCRAS/' | relative_url }}), [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Purpose, post-notice conduct, longitudinal comparison, and process-quality evaluation. |
+| [All Pages]({{ '/PAGES/' | relative_url }}) and [Outnuancing™ Network]({{ '/NETWORK/index/' | relative_url }}) | The public routes used to construct the connected-page map. The map is navigation rather than an exhaustive empirical audit of every linked page. |
 
 John's broad statements about institutions, experts, media, and current systems retain their role as his observations and proposed investigations. The hypothetical about powerful actors and opaque improvement remains a hypothetical. The bounded search did not establish a worldwide absence of advocacy. Internal latent-space organization, future societal uptake, and the proposed probes remain open research objects. These statuses govern the corresponding sections without replacing their constructive inquiry.
 

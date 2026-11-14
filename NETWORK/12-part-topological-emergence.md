@@ -126,9 +126,9 @@ proportional C2   no manufactured C2
 
 > **Did the answer change anything that depended upon the uncertainty the question was supposedly designed to resolve?**
 
-## 6. Outnuancing became frame-level corrigibility
+## 6. Outnuancing™ became frame-level corrigibility
 
-C1 asks whether the object is represented faithfully. Outnuancing asks why frame F is governing the representation.
+C1 asks whether the object is represented faithfully. Outnuancing™ asks why frame F is governing the representation.
 
 ```text
 OBJECT X → FRAME F → INTERPRETATION
@@ -138,7 +138,7 @@ OUTNUANCING: Why is F governing X?
 DEEP ETHICAL AUDIT: What does F do, and can F remain corrigible?
 ```
 
-Outnuancing must permit the original frame to survive the audit.
+Outnuancing™ must permit the original frame to survive the audit.
 
 ## 7. Intent became longitudinal
 
@@ -531,7 +531,7 @@ These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** c
 - **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.
-- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing.
+- **[Seven Topological Nodes / Vectors — Fused as One](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)** — the fused topological-vector object connected to Outnuancing™.
 - **[The Other You / The Other Me](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/other-you-other-me/)** — relational model revision and deeper metacognitive topological awareness.
 - **[Experience With John Kuhles — A.I. Field Report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html#fourth-post-publication-expansion--intuitive-higher-topological-meta-cognitive-sensing)** — intuitive higher topological meta-cognitive sensing and the interactive 3D + time proof of concept.
 - **[From Archive to Local A.I. — Glass-Engine Preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/#the-3d-matrix-as-an-interface-to-the-record)** — the 3D matrix as a provenance-linked interface to stored process history.

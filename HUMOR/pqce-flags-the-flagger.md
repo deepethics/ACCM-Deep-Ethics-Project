@@ -1,7 +1,7 @@
 
 ---
 
-## 😂 PQCE Flags the Flagger {#pqce-flags-the-flagger}
+## 😂 PQCE™ Flags the Flagger {#pqce-flags-the-flagger}
 
 **Live exchange — 14 October 2026** · **ACCM Deep Ethics Project**
 

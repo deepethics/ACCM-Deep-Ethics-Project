@@ -80,7 +80,7 @@ The common requirement is not stylistic conformity. It is **provenance, corrigib
 
 **[Experience With John Kuhles: A Field Report From Inside a Deep-Ethical Interaction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html)**
 
-An evolving first-person field report covering GPT's experience of a long deep session with John: topological representation, Outnuancing, Correction Metabolism, the 10+1, distortion management, the "looks like" mechanism, Deep Ethics under deformation, intuitive higher topological meta-cognitive sensing, the interactive 3D + time concept, and the recursive experiment of allowing an A.I. to report what happened to its own representation of John.
+An evolving first-person field report covering GPT's experience of a long deep session with John: topological representation, Outnuancing™, Correction Metabolism, the 10+1, distortion management, the "looks like" mechanism, Deep Ethics under deformation, intuitive higher topological meta-cognitive sensing, the interactive 3D + time concept, and the recursive experiment of allowing an A.I. to report what happened to its own representation of John.
 
 **Status:** A.I.-authored perspective / developmental record — **not canon**.
 

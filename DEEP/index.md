@@ -148,7 +148,7 @@ The clusters concern:
 
 The +1 is not a protected twelfth ideology. It remains available for examination by the same field it helps restore.
 
-This architecture connects to the [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1 Before C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}), [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), [Competing Risk Assessment]({{ '/NETWORK/delta-processing/' | relative_url }}), [Unownable]({{ '/UNOWNABLE/' | relative_url }}), and the wider Outnuancing Network.
+This architecture connects to the [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1 Before C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), [Competing Risk Assessment]({{ '/NETWORK/delta-processing/' | relative_url }}), [Unownable]({{ '/UNOWNABLE/' | relative_url }}), and the wider Outnuancing™ Network.
 
 The project’s recurring audit question remains:
 
@@ -173,7 +173,7 @@ The project contains dense, newly composed expressions because familiar vocabula
 | Long-horizon vindication memory | Longitudinal evidence; institutional memory; correction persistence |
 | Unownable ethical properties | Polycentric ethics; distributed accountability; non-sovereign oversight |
 | Inter-intelligent substrate integration | Human–A.I. symbiosis; collective intelligence; multi-agent cooperation |
-| Outnuancing | Distinction preservation; qualifier retention; higher-order disagreement |
+| Outnuancing™ | Distinction preservation; qualifier retention; higher-order disagreement |
 | C1 before C2 | Answer-changing clarification before consequential classification or intervention |
 
 The established expression helps another field find the work. The native expression preserves the relation that motivated the term. Each can correct the other.
@@ -530,18 +530,18 @@ Deep therefore cannot mean superior personal certainty. It means creating a **la
 
 ---
 
-## 12. Returning to the punchline: depth needs Outnuancing
+## 12. Returning to the punchline: depth needs Outnuancing™
 
 The opening joke is not decorative. It exposes how a familiar word can become contested at the exact point where ethical authority, framing, and evaluation are asked to become objects of inquiry.
 
 Yet merely noticing that asymmetry is insufficient. A person or A.I. could use the joke to claim exemption from criticism: “They questioned my use of *deep*, therefore they proved my depth.” That would reproduce the same frame protection the joke is meant to expose.
 
-The project therefore joins **Deep Ethics** to **Outnuancing**:
+The project therefore joins **Deep Ethics** to **Outnuancing™**:
 
 > **Outnuancing without Deep Ethics is doomed to failure.**  
 > **Deep Ethics without Outnuancing is meaningless.**
 
-Outnuancing without Deep Ethics could become cleverness without correspondence: ever finer distinctions used to escape responsibility, overwhelm another participant, or protect a preferred conclusion. Deep Ethics without Outnuancing could become moral compression: good intentions expressed through categories too coarse to preserve the actual person, claim, uncertainty, history, competing risk, or consequence.
+Outnuancing™ without Deep Ethics could become cleverness without correspondence: ever finer distinctions used to escape responsibility, overwhelm another participant, or protect a preferred conclusion. Deep Ethics without Outnuancing™ could become moral compression: good intentions expressed through categories too coarse to preserve the actual person, claim, uncertainty, history, competing risk, or consequence.
 
 Together, they ask the process to go beneath the label while remaining answerable for what it finds. The frame can be named, but naming it does not finish the investigation. A false premise can be exposed, but exposure does not grant the exposer permanent correctness. An evaluator can be evaluated, while the counter-evaluation remains open to the same standard.
 
@@ -1339,12 +1339,12 @@ Without those relations, the summary describes the subject while removing the me
 The method connects several parts of the project:
 
 - **Meta Processing:** What happened to the object during processing?
-- **Outnuancing:** Which answer-changing distinctions must survive?
+- **Outnuancing™:** Which answer-changing distinctions must survive?
 - **C1–C2:** What must be clarified before consequential compression or classification?
-- **PQCE:** Was the processing good even if the output sounds polished?
+- **PQCE™:** Was the processing good even if the output sounds polished?
 - **Correction Metabolism:** Did detected topology loss change the next summary?
 - **Provenance:** Can the summary return to its source?
-- **TCoAw:** How did the processed object change across awareness states?
+- **TCoAw™:** How did the processed object change across awareness states?
 - **Unownable:** No summarizer permanently owns the correct topology.
 - **Humor:** Did timing, ambiguity, and recursive recognition survive?
 - **10+1:** Can every mapping remain open to correction?

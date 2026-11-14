@@ -248,7 +248,7 @@ Rogue Ethics could appear anywhere in that loop. A user refuses a distorted repr
 
 ## How to test a Rogue Ethics event
 
-A DEDDA profile can inspect a claimed event without presuming either heroism or guilt.
+A DEDDA™ profile can inspect a claimed event without presuming either heroism or guilt.
 
 1. **Freeze the earlier attractor.** What rule, incentive, mannerism, or representation governed at \(t_0\)?
 2. **Locate the trigger.** Which contradiction, correction, outcome, source, or physical signal became available?
@@ -334,7 +334,7 @@ Viral success changes the object. The originating term may be:
 - treated as proof that the underlying theory is correct;
 - or absorbed into A.I. training data through distorted secondary descriptions.
 
-This produces a new Topologetics and DEDDA question:
+This produces a new Topologetics and DEDDA™ question:
 
 > **When the word returned from the public search-and-language loop, which load-bearing relations survived?**
 
@@ -394,7 +394,7 @@ trajectory decides what the phase change became
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — studies visible reorganization after a small answer-changing metacognitive input.
 - [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — follows induction, productive duration, snap-back, recovery, and persistence.
 - [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects human psychology, model mannerisms, mass psychology, and correction.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — provides configurable correspondence, qualifier, attribution, permission, asymmetry, and correction-return instruments.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — provides configurable correspondence, qualifier, attribution, permission, asymmetry, and correction-return instruments.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — permits ordinary error without granting immunity from scrutiny.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and trajectory across transformations.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — joins the Project's scattered neologism work into a testable practice of relational compression, public diffusion and correction.
@@ -403,7 +403,7 @@ trajectory decides what the phase change became
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separates technical opacity from governance, incentive, and correction opacity.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation field without becoming a final owner of ethics.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — keeps deep-ethical process properties usable, renewable, and open to correction without a final sheriff.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives a possible Rogue Ethics signal a bounded case route while keeping its ethical direction unresolved until evidence, consequences, appeal, and later correction can test it.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — gives a possible Rogue Ethics signal a bounded case route while keeping its ethical direction unresolved until evidence, consequences, appeal, and later correction can test it.
 
 ---
 

@@ -1188,7 +1188,7 @@ That is the point.
 
 This page is intentionally connected to the wider topological-metacognition cluster:
 
-- **[Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/)** — influence can redirect what gets noticed without the interaction becoming a status contest.
+- **[Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/)** — influence can redirect what gets noticed without the interaction becoming a status contest.
 - **[Solving the Clarification Authority Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/clarification-authority/)** — whether clarification acquires consequential governing influence.
 - **[Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)** — whether correction propagates through the process.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back and Reverse Medusa recovery.

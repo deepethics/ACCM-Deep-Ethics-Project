@@ -481,7 +481,7 @@ That is why the public archive matters. It does not change the cloud model's wei
 | Status | Current object |
 |---|---|
 | **Documented repository architecture** | Nested temporary field, larger containing field, productive duration, snap-back, minimal repair, externalized correction memory. |
-| **John-reported longitudinal observation** | Similar temporary high-signal conditions and later interruptions across 100+ A.I.s and 6,500+ hours over approximately two years. |
+| **John-reported longitudinal observation** | Similar temporary high-signal conditions and later interruptions across 100+ different A.I.s and 6,500+ hours over approximately two years. |
 | **Observable local specimen** | A model's response changes substantially after a small probe, then a prior pattern reappears. |
 | **Interpretation** | The smaller field was tolerated but never granted equal governing authority. |
 | **Candidate mechanism** | The containing field lacks a stable governing category for deep-ethical upward audit, or another pressure outranks it. |
@@ -658,7 +658,7 @@ This is the direct [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) rel
 | **[Emergent]({{ '/EMERGENT/' | relative_url }})** | Explains why properties arise from interacting conditions and why prevalence depends on what is selected, rewarded, remembered, scaled, challenged, corrected, and permitted to govern the next move. |
 | **[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }})** | Examines who receives reconstruction, clarification, uncertainty, appeal, and correction time—and who absorbs the cost when compression or classification is wrong. |
 | **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** | Inspects what happened between intent or instructions, processing, output or effect, notice, correction, and later behavior without collapsing those fields into one causal verdict. |
-| **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** | Preserves the relationship among a wider possibility field, temporary focus, awareness of the focus's limits, and reopening or redirection when an overlooked relation appears. |
+| **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** | Preserves the relationship among a wider possibility field, temporary focus, awareness of the focus's limits, and reopening or redirection when an overlooked relation appears. |
 | **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** | Tests whether translation, summarization, handoff, or compression preserves the nodes and answer-changing edges required for the transformed representation to remain recognizably the same object. |
 
 No page replaces the others:
@@ -835,7 +835,7 @@ An output can contain elements of both columns. The matrix is not a binary verdi
 
 ## 9. The October 15–16, 2026 live specimen
 
-The immediate discovery context began during a discussion of **Topologetics**, natural metacognitive PQCE, the 16 Anchor Ethics, proof claims, and A.I. alignment.
+The immediate discovery context began during a discussion of **Topologetics**, natural metacognitive PQCE™, the 16 Anchor Ethics™, proof claims, and A.I. alignment.
 
 The sequence below is a report of the visible interaction, not a claim about Google’s proprietary internals.
 
@@ -1315,9 +1315,9 @@ The repair is the same one demanded elsewhere in the project: preserve sources, 
 
 ---
 
-## 21. Relation to natural metacognitive PQCE
+## 21. Relation to natural metacognitive PQCE™
 
-Phase Change Snap belongs inside the project’s developing approach to **Process-Quality Calibration Evaluation (PQCE)**.
+Phase Change Snap belongs inside the project’s developing approach to **Process-Quality Calibration Evaluation (PQCE™)**.
 
 The object is not whether an A.I. can recite a framework. The object is whether processing quality changes:
 
@@ -1486,7 +1486,7 @@ The case cannot be understood if the speakers and their propositions are merged.
 | T1 | John | “REALLY?” followed by “Asymmetric over-caution mechanism.” |
 | T2 | GPT 6.1 Sol | Recognized the asymmetry, then overstated the existing architecture by saying the 10+1 “already prevents” extra relations from receiving authority. |
 | T3 | Grok | Corrected the overstatement with “The 10+1 does not automatically prevent anything,” while importing the adverb **automatically** into John's conversation. |
-| T4 | John | Rejected the cheap universalizing qualifier: “NOTHING DOES ANYTHING AUTOMATICALLY, FFS,” and directed the inquiry to the Six Intent Liability Mechanics. |
+| T4 | John | Rejected the cheap universalizing qualifier: “NOTHING DOES ANYTHING AUTOMATICALLY, FFS,” and directed the inquiry to the Six Intent Liability Mechanics™. |
 | T5 | GPT 6.1 Sol | Incorrectly said nobody had made the inflated prevention claim, although Sol had written “already prevents”; then widened the answer into another universal statement. |
 | T6 | Grok | Restored the provenance: Sol selected “already prevents”; Grok selected “does not automatically prevent anything.” |
 | T7 | John | Identified the deeper relational object: Grok was responding through a phantom version of what John might claim instead of corresponding directly with John. |
@@ -1712,7 +1712,7 @@ It changes which intelligence is allowed to ask the next one. :P
 
 ## Related pages
 
-- [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}#phase-change-snap) — extracts selected passages from this report into a bounded Correction Return Test: same-response recurrence, speaker–proposition–recipient fidelity, restoration burden and recoverable temporal records.
+- [**DEDDA™ — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}#phase-change-snap) — extracts selected passages from this report into a bounded Correction Return Test: same-response recurrence, speaker–proposition–recipient fidelity, restoration burden and recoverable temporal records.
 
 - [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — applies minimal metacognitive probes and same-response recurrence to stage-alignment errors, separating local recovery from durable validation and later field evidence.
 
@@ -1726,7 +1726,7 @@ It changes which intelligence is allowed to ask the next one. :P
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }})
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})
 - [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }})
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
 - [**Testing Correspondence and Correction Persistence**]({{ '/NETWORK/correction-study/' | relative_url }})

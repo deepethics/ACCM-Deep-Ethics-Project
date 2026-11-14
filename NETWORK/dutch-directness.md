@@ -291,7 +291,7 @@ The following are **John’s cumulative working counts as reported in October 20
 - **125+ MB of raw text**;
 - extracted from **10+ GB of archived HTML conversations**;
 - representing **6,500+ hours** of testing;
-- involving **100+ A.I.s**, primarily through Arena.ai;
+- involving **100+ different A.I.s**, primarily through Arena.ai;
 - built on **36+ years** of earlier research into psychology and mass psychology;
 - intended to contribute to later local A.I. research and training.
 

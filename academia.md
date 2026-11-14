@@ -207,7 +207,7 @@ declared intent
 ≠ later explanation
 ```
 
-A person, institution, regulator, developer, user, or A.I. may give a sincere explanation that is incomplete. It may also offer a polished retrospective account that does not correspond to the operative transformation. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) and the [Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}) keep those relations connected without declaring them identical.
+A person, institution, regulator, developer, user, or A.I. may give a sincere explanation that is incomplete. It may also offer a polished retrospective account that does not correspond to the operative transformation. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) and the [Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/' | relative_url }}) keep those relations connected without declaring them identical.
 
 ### Responsibility abundance can still become responsibility dilution
 
@@ -308,7 +308,7 @@ That produces an answer-changing project question:
 
 </div>
 
-This question should travel into later work on [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), [V.C.R.A.S.]({{ '/VCRAS/' | relative_url }}), governance, and the responsibility layers of DEDDA. It is a candidate extension from this comparison, not a claim that those pages already operationalize compensation.
+This question should travel into later work on [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), [V.C.R.A.S.]({{ '/VCRAS/' | relative_url }}), governance, and the responsibility layers of DEDDA™. It is a candidate extension from this comparison, not a claim that those pages already operationalize compensation.
 
 ## What this first entry does not establish
 
@@ -379,7 +379,7 @@ For example:
 - a system that does less may preserve more agency;
 - a [**valid null**]({{ '/NETWORK/uncertainty/' | relative_url }}) can be better than compulsory intervention.
 
-The paper argues that ethical frameworks developed around digital A.I. may fail to represent the distinct properties of analog A.I. That resembles [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}): an established ethical frame can appear comprehensive while its categories were built around only one technological topology.
+The paper argues that ethical frameworks developed around digital A.I. may fail to represent the distinct properties of analog A.I. That resembles [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}): an established ethical frame can appear comprehensive while its categories were built around only one technological topology.
 
 This is a strong academic neighbor for the project’s principle that ethics must remain responsive to the actual object. Imported ethical vocabulary cannot replace examination of physical architecture, information flow, environmental costs, noise, explainability, and specific use conditions.
 
@@ -511,7 +511,7 @@ The following mapping is **GPT 6.1 Sol Pro A.I.’s editorial comparison**, rath
 | Contextualize the artefact as a changing ensemble of practices | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve the relationships that change a conclusion when a component description becomes a system description. |
 | Establish a shared object before evaluating design alternatives | [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarify the source, situation and proposed operation before intervention acquires authority. |
 | Alternate technical detail with the surrounding consequences | [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) | Carry the discovered relation back into a specific requirement, implementation or decision. |
-| Make disciplinary lenses and their limits inspectable | [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) | Examine the frame used by the developer, ethicist and project evaluator. |
+| Make disciplinary lenses and their limits inspectable | [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) | Examine the frame used by the developer, ethicist and project evaluator. |
 | Make speaking about errors possible across hierarchies | [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) | Enable disagreement, mutual respect and correction to affect the next move. |
 | Examine how names, metaphors and tools direct attention | [Neolingo]({{ '/NEOLINGO/' | relative_url }}) | Test whether a term retrieves the relevant operation or narrows the field prematurely. |
 | Continue reflection through manufacture, use and dissolution | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Check whether later evidence changes the design and future comparable decisions. |
@@ -536,7 +536,7 @@ A workshop’s agenda, participant selection, time limit and available evidence 
 
 The [1888 intelligence-properties inquiry]({{ '/1888/' | relative_url }}) can help allocate the work: perception notices the excluded user; discrimination separates incompatibility from actual denial of access; relation connects procurement and access; memory retains the earlier requirement; imagination generates alternatives; judgment and evaluation compare them; learning and correction revise the design; adaptation checks a changed setting; coordination brings affected expertise into the process; metacognition examines the lens; consequence sensitivity follows who bears the costs; corrigibility keeps the decision revisable. These are interacting operations, rather than fourteen boxes that certify a design.
 
-Ammon describes ethics becoming a co-designer and discusses when knowledge is adequate for the development stage. A further shared question concerns the authority attached to that judgment: who may recommend, choose, refuse participation, authorize deployment or reopen the case? [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) keeps contribution state and decision authority distinct. A well-supported criticism earns consideration within its actual dependency range; enforcement requires its own mandate.
+Ammon describes ethics becoming a co-designer and discusses when knowledge is adequate for the development stage. A further shared question concerns the authority attached to that judgment: who may recommend, choose, refuse participation, authorize deployment or reopen the case? [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) keeps contribution state and decision authority distinct. A well-supported criticism earns consideration within its actual dependency range; enforcement requires its own mandate.
 
 ### The Google exchange is also a worked representation specimen {#ammon-google}
 
@@ -575,7 +575,7 @@ The exchange opens a deeper comparison than “voluntary equals good” or “bi
 
 The project's non-imposing orientation asks how participation, exit, refusal, downstream exposure and decision rights actually work. Choosing to attend a discussion grants no automatic authority to expose absent people to its consequences. Equally, refusing cooperative examination leaves consequential public conduct open to external scrutiny.
 
-Use [**V.C.R.A.S.**]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies) to retain competing risks over time: risks of an older compatibility standard, risks of exclusion through a newer one, costs of alternatives, and harms incurred during delay. Use the [six Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) to keep instructions, choices, processing, effects, explanations and later correction recoverable. Neither a pledge nor a statute answers those questions on its own.
+Use [**V.C.R.A.S.**]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies) to retain competing risks over time: risks of an older compatibility standard, risks of exclusion through a newer one, costs of alternatives, and harms incurred during delay. Use the [six Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) to keep instructions, choices, processing, effects, explanations and later correction recoverable. Neither a pledge nor a statute answers those questions on its own.
 
 ### Proposed shared-specimen test: can the recovered relation change the door? {#ammon-test}
 
@@ -604,12 +604,12 @@ For the criterion **indirect discussion and/or partial handling**, the editorial
 
 | Development selected from Ammon | Existing project coverage | Her particular development remains worth examining |
 |---|---|---|
-| **Different knowledge-generating practices** | **Substantial indirect coverage:** **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) distinguishes conceptual exploration, accuracy correction and metacognitive coordination, including their different purposes and failures under dominance. | Her analysis specifically concerns engineering design and ethical reflection as disciplinary epistemic practices. |
+| **Different knowledge-generating practices** | **Substantial indirect coverage:** **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) distinguishes conceptual exploration, accuracy correction and metacognitive coordination, including their different purposes and failures under dominance. | Her analysis specifically concerns engineering design and ethical reflection as disciplinary epistemic practices. |
 | **Different epistemic values and “good enough” to proceed** | **Explicit procedural coverage:** [Unownable]({{ '/UNOWNABLE/' | relative_url }}) supplies bounded stopping and reopening conditions; [Validation Paradox]({{ '/VALIDATION-PARADOX/' | relative_url }}) matches evidence to development stages. | Her discussion connects satisficing to design reasoning and its integration with ethical justification. |
 | **Artefacts understood through practices** | **Substantial indirect coverage:** [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) examine conditions, instructions, choices, transformations and consequences beyond an isolated output. | Her explicit distinctions among technology, component, isolated artefact and situated practices have their own philosophical content. |
 | **Dissolution and the artefact’s ending** | **Partial, concrete coverage:** the 5G inventory examines lifetime and disposal in [G090]({{ '/5G-CONTROVERSY/#fiveg-g090' | relative_url }}) and manufacturing waste, repair and reuse in [G121]({{ '/5G-CONTROVERSY/#fiveg-g121' | relative_url }}). | Her design–manufacture–use–dissolution framework systematically anticipates that final phase from the beginning. |
-| **Existing–ideal–hypothetical practice triangulation** | **Functional partial coverage:** [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) and **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide resources for comparing actual conditions, ethical requirements, alternatives and consequences. | Her specific three-way comparison of practices should be examined as a method, rather than inferred from the availability of those ingredients. |
-| **Process modulation** | **Explicit procedural coverage:** [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) scales inspection with consequence, ambiguity, reversibility, power and error costs; [DeepEthicalOS]({{ '/DEEPETHICALOS/#development-phases' | relative_url }}) specifies phases and transition conditions. | Her account develops the timing, immersion and specialist work of integrating ethical reflection into engineering development. |
+| **Existing–ideal–hypothetical practice triangulation** | **Functional partial coverage:** [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) and **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide resources for comparing actual conditions, ethical requirements, alternatives and consequences. | Her specific three-way comparison of practices should be examined as a method, rather than inferred from the availability of those ingredients. |
+| **Process modulation** | **Explicit procedural coverage:** [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) scales inspection with consequence, ambiguity, reversibility, power and error costs; [DeepEthicalOS™]({{ '/DEEPETHICALOS/#development-phases' | relative_url }}) specifies phases and transition conditions. | Her account develops the timing, immersion and specialist work of integrating ethical reflection into engineering development. |
 | **The division-of-labour trap** | **Strong indirect and partial coverage:** the [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) orients participation across roles, while the [parallel-agentics proposal]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) retains domain competence and reciprocal scrutiny of the primary system and ethical evaluators. | Her treatment identifies how employing an ethicist can leave developers treating ethics as somebody else’s job, with consequences for professional learning. |
 
 The useful repair preserves both discoveries: the project already carries related work, and Ammon supplies formulations, distinctions and engineering-specific development that deserve their own examination. Existing coverage can be conceptual, procedural or case-specific; partial handling can generate a practical test. A judgment that an implementation works requires evidence from that implementation.
@@ -678,7 +678,7 @@ In the [25 September 2023 ai.berlin interview](https://ai.berlin/news/detail/int
 
 ### A deeper psychological comparison can work in both directions {#ammon-psychological-bridge}
 
-The ACCM Deep Ethics Project explicitly develops psychology, mass psychology and their recursive relationships with large language models in [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}), [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}), [PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}), [Neural Ethics]({{ '/NEURAL-ETHICS/' | relative_url }}), [Cognitive Warfare Mass Psychology]({{ '/COGNITIVE-WARFARE/' | relative_url }}), [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) and [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}). Across these pages, autobiographical accounts, conceptual models, source comparisons and proposed tests retain their separate roles. Here **PR** means public relations.
+The ACCM Deep Ethics Project explicitly develops psychology, mass psychology and their recursive relationships with large language models in [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}), [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}), [PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}), [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}), [Cognitive Warfare Mass Psychology]({{ '/COGNITIVE-WARFARE/' | relative_url }}), [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) and [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}). Across these pages, autobiographical accounts, conceptual models, source comparisons and proposed tests retain their separate roles. Here **PR** means public relations.
 
 Cognitive Warfare Mass Psychology examines influence on attention, trust and behaviour across individual, population and institutional scales. Search Engine Bias follows how queries, ranking, credibility classifications and A.I. summaries shape what becomes discoverable and authoritative. Truth Seekers vs Cautionmurmelism traces responses after distortion becomes visible, including courage, constraints, warranted caution, redundant caution and correction persistence. Together, these routes extend the comparison from personal and team dynamics into public influence, discovery infrastructure and the treatment of unfamiliar inquiry.
 
@@ -770,13 +770,13 @@ represent the academic object
 - [**Due Process for Ethics**]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) — connects faithful representation, innocence, procedural integrity, scoped authority, proportionate remedies and correction that changes later treatment.
 
 - [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — establishes the object and claim status before compression or comparison.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — a BETA conceptual proposal whose academic neighbors do not validate its operation.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — a BETA conceptual proposal whose academic neighbors do not validate its operation.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, result and effect, notice, explanation, and persistence.
-- [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps purpose, responsibility, causal contribution, control, foreseeability, and repair capacity inspectable.
+- [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps purpose, responsibility, causal contribution, control, foreseeability, and repair capacity inspectable.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction changes a later comparable operation.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — connects correction with reciprocal recognition and dignity.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — permits ordinary error without granting immunity from examination or repair.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — separates source, representation, permission, correction, and later attribution.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — separates source, representation, permission, correction, and later attribution.
 - [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — asks who retains authority over the next consequential move after clarity.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether a contribution and its material boundaries travel together into later use.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — keeps the academic source, project, evaluator, and audit itself open to scrutiny.

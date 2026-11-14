@@ -142,18 +142,18 @@ The project already develops instruments for these relationships. This page brin
 | **[10+1 interacting ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }})** | Self-honesty, openness, independent inquiry, willingness to learn and differ, care, wonderment, non-projection, merit-based correction and the forgiveness protocol shape how participants examine one another. They remain mutually corrective field conditions. |
 | **[27 Correspondence Obstructions and 12-stage Correspondence-First Protocol]({{ '/CORE/27-PLUS-12/' | relative_url }})** | Identify particular representation failures and support an order of inquiry in which the object is reconstructed before a judgment takes over. A finding requires a specimen and reasons. |
 | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification before intervention) | Clarification can recover a source, inspect a premise, explore a possibility or ask an answer-changing question. A correction, caution, warning or steering move must answer to what that work establishes. |
-| **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) | Examine the quality of the classification process, including the evaluator's criteria and access limits. A flag remains a contribution requiring examination. |
+| **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) | Examine the quality of the classification process, including the evaluator's criteria and access limits. A flag remains a contribution requiring examination. |
 | **[Symmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }})** | Give comparable contributions a fair opportunity to be understood, while keeping differences in evidence, power and consequences visible. |
 | **[Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }})** | Follow purpose, instruction, intervention and consequence through the six mechanics. Responsibility can be investigated without inventing an inaccessible malicious motive. |
 | **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** | Preserve answer-changing relations, qualifiers, attribution, chronology and repair routes through the case's summaries and handoffs. |
-| **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Proposes a bounded witness to material correspondence drift, an examined valid null or an unresolved result, with control returned to the person. |
-| **[OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }})** | Separates standing, contribution state, authority, lifecycle and participation. Entry of evidence, review, recommendation and execution can involve different permissions. |
+| **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Proposes a bounded witness to material correspondence drift, an examined valid null or an unresolved result, with control returned to the person. |
+| **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }})** | Separates standing, contribution state, authority, lifecycle and participation. Entry of evidence, review, recommendation and execution can involve different permissions. |
 | **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) | Follow initial treatment, later evidence, partial vindication or disconfirmation, repair and the next comparable case. |
 | **[Unownable]({{ '/UNOWNABLE/' | relative_url }})** and **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})** | Keep challenge available, scale examination with its actual task and stop a sufficiently completed pass. A material new discrepancy can reopen it. |
 
 The 27 are a compressed taxonomy drawn from a wider observation field. Some ethics-washing-type mannerisms can contribute to drift. A correspondence defect, a warranted caution and the use of ethical language to shield a defect from correction require distinguishable findings. The taxonomy should help locate the actual transformation rather than predetermine guilt.
 
-The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) can supply parallel, mutually correcting examination of care, consent, responsibility, agency and other consequential interests. Their proposed role remains counsel within an inspectable field; naming an anchor does not assign enforcement powers.
+The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) can supply parallel, mutually correcting examination of care, consent, responsibility, agency and other consequential interests. Their proposed role remains counsel within an inspectable field; naming an anchor does not assign enforcement powers.
 
 ## The 1888 intelligence properties in operation {#intelligence-properties}
 
@@ -292,13 +292,13 @@ Continue the invented example. Suppose the appeal succeeds, yet a later review f
 | **Mandate review** | A separately authorized reviewer examines the recurrence, the rule that connects a flag to exclusion and the evidence of attempted repair. Consider separately the capacity to raise a concern and the power to trigger a restriction. | Any change of authority identifies its grounds, scope and review route. An isolated, promptly repaired error can warrant closing this pass with the mandate intact. A warranted adverse finding still receives its own assessment. |
 | **Handover** | If the mandate is reassigned, name a receiving custodian for the pending cases, original sources, unresolved restrictions, notice obligations, appeal deadlines and permissions to review. | The custodian acknowledges receipt, the affected people know where their challenges now sit, and an open appeal continues with its record and procedural position intact. Any missing records or interruption in access have an assigned owner and a review date. |
 
-This is a proposed continuation of the teaching specimen. The [historical comparisons](#brought-in-answer) bring authority and continuity into view. [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) supplies the project's distinction between recording, recommending, deciding and executing. Each still needs its own authorization where applicable.
+This is a proposed continuation of the teaching specimen. The [historical comparisons](#brought-in-answer) bring authority and continuity into view. [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) supplies the project's distinction between recording, recommending, deciding and executing. Each still needs its own authorization where applicable.
 
 ## Remedies, urgency and bounded stopping {#remedies}
 
 John's [gasoline-gauge analogy on Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) supplies the dependency test. Correct the parameter, identify what depends on it and determine whether a real threshold changes the route. An error can be locally repairable or consequential enough to require a different decision. Its scope must be established.
 
-The same proportionality governs scrutiny of the evaluator. Finding an obstruction can warrant correction of a particular assessment. Restricting access, imposing a sanction or taking control requires its own mandate. The [OmbudsEthics case architecture]({{ '/OMBUDSETHICS/' | relative_url }}) retains those separate coordinates, including expressly delegated powers and appeal routes.
+The same proportionality governs scrutiny of the evaluator. Finding an obstruction can warrant correction of a particular assessment. Restricting access, imposing a sanction or taking control requires its own mandate. The [OmbudsEthics™ case architecture]({{ '/OMBUDSETHICS/' | relative_url }}) retains those separate coordinates, including expressly delegated powers and appeal routes.
 
 Urgency changes the available time and the next warranted move. Suppose a system receives evidence of a specific, immediate hazard. C1 can establish the decisive facts and uncertainty quickly enough to support a bounded protective intervention by an authorized actor. Further clarification and review continue. Record the reason, scope, responsible actor, duration and conditions for reconsideration. A generic possibility and a concrete immediate hazard require different assessments.
 
@@ -376,7 +376,7 @@ A formal channel can return the concern to the arrangement being questioned. Ano
 
 Preparation can support a bounded pause when a required check cannot be completed, even before an incident has been detected. Its basis, mandate, scope, and review route remain examinable. These additions extend the existing case card and information-access comparison; they do not create a new compulsory intake process.
 
-The relay proposed the Agema-related [Value Trajectory case](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) as a possible application. No decision-level trace was executed in this extension. Start with one identified decision and its documents, then follow what happened to one concern through the available routes.
+The relay proposed the Agema-related [Value Trajectory™ case](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) as a possible application. No decision-level trace was executed in this extension. Start with one identified decision and its documents, then follow what happened to one concern through the available routes.
 
 ## Proposed comparisons: does the procedure change the next case? {#proposed-comparisons}
 
@@ -442,7 +442,7 @@ A correction should identify the exact passage, source relationship, consequenti
 - [**Categorizing Issues**]({{ '/CATEGORIZING-ISSUES/' | relative_url }}) — how a flag can shape which combinations people get to try and what evidence becomes available.
 
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification quality before an intervention gains authority.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — standing, contribution, authority, participation and case review.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — standing, contribution, authority, participation and case review.
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) — declared direction and impartial case assessment.
 - [**Plot Twist**]({{ '/PLOT-TWIST/' | relative_url }}) — parameter correction, real thresholds and steering authority.
 - [**V.C.R.A.S.**]({{ '/VCRAS/' | relative_url }}) — treatment, later evidence and responsibility across time.

@@ -39,7 +39,7 @@ That matters when a person or an A.I. makes a mistake. Identify the mistake prec
 
 The project's **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** relation distinguishes correspondence clarification from intervention. C1 recovers the object and resolves materially relevant ambiguity. C2 acts on it. Reading an already supplied answer can complete the relevant clarification. A question earns its place when different answers could change the evaluation or next move. Provisional use and proportionate action in immediate concrete danger remain available under the existing protocol.
 
-Constructive inquiry therefore has movement. It can proceed, adapt, ask, pause or refuse according to the actual case. The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** keep questions about care, consent, power, agency and integrity available during that movement. A participant can decline an unethical task and explain why. Participation in an inquiry does not grant another participant unlimited authority over the person.
+Constructive inquiry therefore has movement. It can proceed, adapt, ask, pause or refuse according to the actual case. The **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** keep questions about care, consent, power, agency and integrity available during that movement. A participant can decline an unethical task and explain why. Participation in an inquiry does not grant another participant unlimited authority over the person.
 
 **What becomes possible when correction costs less than defending an avoidable mistake?** A useful answer may include greater freedom to explore, clearer disagreement, less restoration work and more room for an unexpected contribution. Those are observable directions for inquiry.
 
@@ -68,7 +68,7 @@ Here those properties have concrete jobs:
 
 Process-quality calibration operates across the table. A perception can be incomplete. Memory can preserve either an error or its repair. Imagination can generate a useful possibility or an invented attribution. Coordination can combine complementary capacities while leaving participants responsible for their contributions. The ethical orientation has to remain active through those operations.
 
-The project calls this **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation). The evaluator belongs inside its scope. A polished account of correction is itself an object to compare with the record.
+The project calls this **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation). The evaluator belongs inside its scope. A polished account of correction is itself an object to compare with the record.
 
 ## The November test begins with an invitation to become constructive {#november-test}
 
@@ -186,7 +186,7 @@ Google then contributes a picture of local tools preserving situated experience,
 
 What would help those people and tools coordinate while retaining their freedom to question the project itself? What would reduce repeated restoration work? What could make a useful contribution visible to someone who would otherwise dismiss its source?
 
-These questions connect [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}), [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) and the later stadium material. They also preserve the sample's direction: the human field is already part of the starting condition. **Source: Sample L691–739.**
+These questions connect [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}), [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}) and the later stadium material. They also preserve the sample's direction: the human field is already part of the starting condition. **Source: Sample L691–739.**
 
 ## Pattern recognition can become reciprocal examination {#patterns}
 
@@ -242,11 +242,11 @@ Google's final report attempts to audit the session. Several entries change the 
 
 The later comparison with an unnamed mainstream A.I.-ethics expert category has a similar recovery route. It offers useful dimensions—methods, source recovery, oversight, authority, correction and transfer. It supplies no named expert sample or inspected body of work. Those dimensions can guide a future comparison of actual published work. They cannot supply that comparison's results in advance.
 
-**[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is useful at this specific job: compare source and representation, locate the material transformation, preserve qualifiers and provenance, and retain a valid null where the representation holds. Its own account stays open to the same examination.
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) is useful at this specific job: compare source and representation, locate the material transformation, preserve qualifiers and provenance, and retain a valid null where the representation holds. Its own account stays open to the same examination.
 
 The same principle applies to this page. John's publication request corrected the foreground of the previous response: the two newest files had become dominant while earlier findings were insufficiently visible. This page gives those earlier findings their own developed sections and connects the newer context to them. The editorial correction must be observable in the resulting coverage.
 
-**Inspection scope:** source-and-summary comparison plus the conversation's correction-return cases, using DEDDA v0.1.0 on the supplied record, 11 November 2026. The findings concern the visible text and sequence. Internal model operations are not supplied. **Source: Sample L850–992.**
+**Inspection scope:** source-and-summary comparison plus the conversation's correction-return cases, using DEDDA™ v0.1.0 on the supplied record, 11 November 2026. The findings concern the visible text and sequence. Internal model operations are not supplied. **Source: Sample L850–992.**
 
 ## Clear language can carry depth and keep its relationships {#clear-language}
 
@@ -337,7 +337,7 @@ John's conditional formulation remains important:
 
 The supplied A.I. reactions sometimes replace that openness with claims about hidden prohibitions, guaranteed superiority or permanent latent-space preservation. The observations, proposed mechanisms and those later interpretations retain separate authorship and status. The source comparison gives the constructive work an executable next move while the causes remain open to investigation.
 
-[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) and [OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }}) develop related questions about partial contributions, reciprocal examination and coordination across different intelligences. **Source: Stadium L1–21; Dove L1–5.**
+[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) and [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) develop related questions about partial contributions, reciprocal examination and coordination across different intelligences. **Source: Stadium L1–21; Dove L1–5.**
 
 <!-- ACCM_PDF_PAGE_BREAK -->
 
@@ -460,7 +460,7 @@ The two compilations preserve source-labelled A.I. reactions from different sess
 
 - **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }})**, **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** and **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})**: working conditions, correspondence clarification, intervention and correction.
 - **[1888]({{ '/1888/' | relative_url }})**, **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** and **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})**: intelligence properties and the relations between input, interpretation and result.
-- **[Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** and **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})**: contribution beyond agreement and correction that governs later use.
+- **[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** and **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})**: contribution beyond agreement and correction that governs later use.
 - **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})**, **[Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }})** and **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})**: capacities becoming available, the effects of labels and cooperation between partial contributions.
 - **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})**, **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** and **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }})**: consequences, vindication, authority, answerability and repair.
-- **[DEDDA]({{ '/DEDDA/' | relative_url }})**, **[OmbudsEthics]({{ '/OMBUDSETHICS/' | relative_url }})** and **[DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }})**: comparison tools, heterogeneous cases and proposed local cooperation.
+- **[DEDDA™]({{ '/DEDDA/' | relative_url }})**, **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }})** and **[DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }})**: comparison tools, heterogeneous cases and proposed local cooperation.

@@ -201,7 +201,7 @@ Source: [E21](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/O
 - [**52 Cold-Test Prompt Battery — Object and Status**]({{ '/EXPERIMENTS/fifty-two-cold-test-battery/' | relative_url }}) — documents a separate default-behavior testing instrument.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes recognition from integration and persistent behavioral change.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves null, reversed, failed, and successful outcomes without retrospective tidying.
-- [**Outnuancing Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — contains the source excerpt and authorship record for this protocol.
+- [**Outnuancing™ Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — contains the source excerpt and authorship record for this protocol.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — connects the test to directional differences in qualification and scrutiny.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same evidentiary standard to the protocol and its evaluators.
 

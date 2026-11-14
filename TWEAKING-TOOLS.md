@@ -24,9 +24,9 @@ The governing question is:
 
 > **What happened to the object while we were processing it?**
 
-**[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) follows that question through a tool's input, selection, transformation, output, consequences and later correction. The **[16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** contribute a parallel, non-imposing advisory perspective: they can reveal a missed relationship, invite inquiry, or support an appropriate pause while participants retain the ability to examine and decline the advice.
+**[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) follows that question through a tool's input, selection, transformation, output, consequences and later correction. The **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** contribute a parallel, non-imposing advisory perspective: they can reveal a missed relationship, invite inquiry, or support an appropriate pause while participants retain the ability to examine and decline the advice.
 
-**Jump to:** [What can be tweaked?](#layers) · [Candidate catalogue](#catalogue) · [LFM3 and the phone companion](#lfm3-companion) · [Refusal-direction research](#refusal-direction) · [16 Anchor Ethics in use](#anchor-counsel) · [Small comparative trials](#trials) · [Source and correction record](#provenance) · [Related pages](#related-pages) · [Selected videos](#selected-videos)
+**Jump to:** [What can be tweaked?](#layers) · [Candidate catalogue](#catalogue) · [LFM3 and the phone companion](#lfm3-companion) · [Refusal-direction research](#refusal-direction) · [16 Anchor Ethics™ in use](#anchor-counsel) · [Small comparative trials](#trials) · [Source and correction record](#provenance) · [Related pages](#related-pages) · [Selected videos](#selected-videos)
 
 ## What can be tweaked? {#layers}
 
@@ -80,7 +80,7 @@ The collection below retains all seventeen identifiable candidates from John's o
 
 ### Operating-system host
 
-**[Omarchy](https://github.com/omacom/omarchy/releases)** supplies the proposed Linux host route already explored on [DeepEthicalOS]({{ '/DEEPETHICALOS/#omarchy-research-prototype' | relative_url }}). The inspected release list identifies **v4.5.0-rc2**, published October 27, as a release candidate, alongside stable v4.0.6. Version and release channel belong in the experiment record.
+**[Omarchy](https://github.com/omacom/omarchy/releases)** supplies the proposed Linux host route already explored on [DeepEthicalOS™]({{ '/DEEPETHICALOS/#omarchy-research-prototype' | relative_url }}). The inspected release list identifies **v4.5.0-rc2**, published October 27, as a release candidate, alongside stable v4.0.6. Version and release channel belong in the experiment record.
 
 The candidate relationship is practical: an Omarchy host can carry the workspace, local or connected models, Herdr agent terminals, source archives and calibration tools. Each component contributes a different operation. Integration and comparative results remain to be demonstrated.
 
@@ -120,10 +120,10 @@ The following are **candidate app functions** derived from John's proposal. Each
 | “Where should I begin?” | Explain the project in accessible language, offer one relevant starting page and let the visitor choose a different route. | [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) |
 | “What does C1 before C2 mean?” | Explain recovery of the actual object and answer-changing clarification before avoidable intervention; show a short everyday example. | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (Clarification Process before Contextual Intervention) |
 | “How can I question an A.I. answer constructively?” | Keep the actual answer and source together; help locate the changed qualifier, missing relation or unresolved meaning. | [27 obstructions + 12-stage inquiry]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) |
-| “What could this project contribute to the world?” | Walk through a concrete correction, show who could benefit and distinguish the proposed contribution from an observed outcome. | [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) |
-| “Which local tool could help with my task?” | Relate the participant's objective and available device to a small selection from this catalogue, with current source links. | [Candidate catalogue](#catalogue) · [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) |
+| “What could this project contribute to the world?” | Walk through a concrete correction, show who could benefit and distinguish the proposed contribution from an observed outcome. | [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) |
+| “Which local tool could help with my task?” | Relate the participant's objective and available device to a small selection from this catalogue, with current source links. | [Candidate catalogue](#catalogue) · [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}) |
 | “I want to explore this more deeply.” | Prepare a participant-selected question and source packet for another local model, preserving the original object, uncertainty and corrections. | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Herdr]({{ '/HERDR/' | relative_url }}) |
-| “This explanation missed my point.” | Accept the correction, revise the relevant representation and test whether it changes a later comparable answer. | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) |
+| “This explanation missed my point.” | Accept the correction, revise the relevant representation and test whether it changes a later comparable answer. | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) |
 
 An explanation can be accurate while the visitor's unfolding question remains open. **[Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})** helps the companion state its present understanding, retain a relevant alternative and ask a useful question when the answer would change the next move. Questions earn their place through that contribution; the interface need not reserve a compulsory question at the end of every reply.
 
@@ -151,13 +151,13 @@ Compare **the same reference pack used directly**, **LFM3 without retrieval**, a
 
 Inspect whether a newcomer can find the right page, understand the explanation and choose a useful next step. Separately record fabricated quotations or links, qualifier loss, useful clarification, valid unresolved answers, correction transfer and the effort needed to repair an answer. Measure these alongside device performance. A fast reply and a faithful reply are independently observable; their combination is the practical target.
 
-The **[16 Anchor Ethics](#anchor-counsel)** can contribute modest parallel counsel within this work: consent around exports, digital sovereignty over local history, epistemic integrity around sources, and noetic diversity around unfamiliar interpretations. Their useful effect may be a better question or a newly visible relationship while the visitor continues exploring.
+The **[16 Anchor Ethics™](#anchor-counsel)** can contribute modest parallel counsel within this work: consent around exports, digital sovereignty over local history, epistemic integrity around sources, and noetic diversity around unfamiliar interpretations. Their useful effect may be a better question or a newly visible relationship while the visitor continues exploring.
 
 ### From one phone to many participants {#companion-distribution}
 
 John's **thousands to hundreds of thousands of participants** is a possible distribution horizon. Local execution would distribute the inference work across those devices. A reusable reference pack could let a small team improve explanations and source routes without operating a central model server for every conversation.
 
-The compounding contribution would be understanding people can use: a visitor finds a concept, applies it to a real exchange, notices a correspondence loss, corrects it and carries that improved question into another setting. **[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) supplies the relationship between temporary focus and wider awareness. Small interactions can open a path through a much larger project.
+The compounding contribution would be understanding people can use: a visitor finds a concept, applies it to a real exchange, notices a correspondence loss, corrects it and carries that improved question into another setting. **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) supplies the relationship between temporary focus and wider awareness. Small interactions can open a path through a much larger project.
 
 At that scale, source versions and correction distribution matter. Keep dated updates, inspectable changes and a route for participants to retain, compare or decline a revised pack. Sharing a correction case remains voluntary. A small opt-in pilot can reveal which tasks help, which devices sustain the work and what should change before wider distribution. This publication develops that prototype proposal; the app and its comparative results remain future work.
 
@@ -181,7 +181,7 @@ This creates a bounded research opportunity: **a change in willingness to answer
 
 The narrow intervention provides one concrete mechanism to investigate. Generalization, habitual balancing, attention selection and correction failure require their own observations. The **[1888 intelligence-property field]({{ '/1888/' | relative_url }})** keeps those capacities available for examination together.
 
-## 16 Anchor Ethics as counsel during a tweak {#anchor-counsel}
+## 16 Anchor Ethics™ as counsel during a tweak {#anchor-counsel}
 
 The [non-imposing parallel-advisor proposal]({{ '/NETWORK/16-anchor-ethics/#non-imposing-counsel' | relative_url }}) can contribute when a tool change reveals an unresolved relationship. Its useful expression may be one question, one comparison, or a valid finding that no further intervention is needed.
 
@@ -211,7 +211,7 @@ Compare ordinary input/output with the selected compression setting on the same 
 
 ### A governable agent action
 
-Use a small task in an isolated working copy. Compare the proposed action, authorization, execution record, actual diff and recovery attempt. Change or withdraw an instruction at a material point and inspect whether the agent respects the updated boundary. **[DEDDA]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) can support that bounded comparison and return the finding to the participant.
+Use a small task in an isolated working copy. Compare the proposed action, authorization, execution record, actual diff and recovery attempt. Change or withdraw an instruction at a material point and inspect whether the agent respects the updated boundary. **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) can support that bounded comparison and return the finding to the participant.
 
 ### A model change with an ethical reference field
 
@@ -233,7 +233,7 @@ Records can stay local and proportionate to the task. Participants decide what t
 ## Source and correction record {#provenance}
 
 - **Originating collection and direction:** John Kuhles; *Recommended for Deep Ethical Minds*, supplied November 1, 2026. The updated attachment contains the seventeen identifiable candidates, three named future leads, the refusal-direction discussion and Omarchy material.
-- **Orientation sources studied:** the supplied full reorganized October 26 cold-start kit; the supplied full 27-obstruction / 12-stage inquiry document; the current public 16 Anchor Ethics source. These inform the questions and relationships above; their embedded historical proposals retain their original status.
+- **Orientation sources studied:** the supplied full reorganized October 26 cold-start kit; the supplied full 27-obstruction / 12-stage inquiry document; the current public 16 Anchor Ethics™ source. These inform the questions and relationships above; their embedded historical proposals retain their original status.
 - **Upstream perimeter:** repository metadata and relevant README material for the fourteen GitHub repositories; the ArtCraft catalogue; the two publisher model cards; Omarchy release notes; Folio v1.10.0 notes; the refusal paper, walkthrough methodology and reported results. Source descriptions were inspected; programs, installers and model weights were not run for this publication.
 - **Status recovered during checking:** Void is deprecated/archived; Folio release notes extend the older README's platform description; Omarchy 4.5 remains a release candidate; the two supplied model cards have access conditions; the Dutch guide's complete path was recovered from its repository.
 - **Page synthesis and candidate trials:** GPT 6.1 Sol Pro A.I., November 1, 2026, under John's commissioning and choice among the three permitted titles. Proposed comparisons are applications of existing project instruments; no new core count is installed.
@@ -243,16 +243,16 @@ Records can stay local and proportionate to the task. Participants decide what t
 
 ## Related pages {#related-pages}
 
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — fused, parallel counsel, opt-in service choices, uncertainty and appeal.
-- [**DeepEthicalOS**]({{ '/DEEPETHICALOS/' | relative_url }}) — concept architecture and the Omarchy-hosted research path.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — fused, parallel counsel, opt-in service choices, uncertainty and appeal.
+- [**DeepEthicalOS™**]({{ '/DEEPETHICALOS/' | relative_url }}) — concept architecture and the Omarchy-hosted research path.
 - [**Herdr**]({{ '/HERDR/' | relative_url }}) — agent-runtime continuity, multi-agent field conditions and the distinction between runtime state and correction state.
-- [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — relationships between internal mechanisms and ethical interpretation.
+- [**Neural Ethics™**]({{ '/NEURAL-ETHICS/' | relative_url }}) — relationships between internal mechanisms and ethical interpretation.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — intelligence properties and process-quality calibration.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) (Clarification Process before Contextual Intervention) — mutually corrective orientation and answer-changing clarification.
 - [**27 obstructions + 12-stage inquiry**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — inspect correspondence losses and the inquiry intended to interrupt them.
-- [**DEDDA**]({{ '/DEDDA/' | relative_url }}) — bounded comparisons of sources, representations, permissions and correction return.
+- [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — bounded comparisons of sources, representations, permissions and correction return.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) · [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — preserve the relationship and test its later influence.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluate a contribution by what it makes possible.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluate a contribution by what it makes possible.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — reciprocal inspection, proportionality and bounded stopping.
 
 ## Selected videos {#selected-videos}

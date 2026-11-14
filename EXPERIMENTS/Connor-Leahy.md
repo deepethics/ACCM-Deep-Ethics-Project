@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Connor Leahy — DEDDA analysis specimen"
-description: "Who Connor Leahy is, why his high-reach A.I. reasoning relates to the ACCM Deep Ethics Project, and how the DEDDA system can inspect claims, forecasts, regulation, attribution, and valid nulls without replacing the speaker."
+title: "Connor Leahy — DEDDA™ analysis specimen"
+description: "Who Connor Leahy is, why his high-reach A.I. reasoning relates to the ACCM Deep Ethics Project, and how the DEDDA™ system can inspect claims, forecasts, regulation, attribution, and valid nulls without replacing the speaker."
 permalink: /EXPERIMENTS/Connor-Leahy/
 date: 2026-10-17
 ---
@@ -43,7 +43,7 @@ Leahy's reasoning touches several Project objects directly:
 - predictions whose urgency can strengthen qualifiers into certainty;
 - the distinction between a speaker's personal boundary and a universal rule.
 
-That makes the interview useful for DEDDA. DEDDA can inspect how the claims move without deciding in advance that Leahy is correct, mistaken, alarmist, courageous, captured, malicious, or prophetic.
+That makes the interview useful for DEDDA™. DEDDA™ can inspect how the claims move without deciding in advance that Leahy is correct, mistaken, alarmist, courageous, captured, malicious, or prophetic.
 
 ## Full source object
 
@@ -83,17 +83,17 @@ On 17 October 2026, **John Kuhles, GPT-6, and Grok 4.7 Expert Build A.I.** exami
 
 | Participant | Contribution preserved here |
 |---|---|
-| **John Kuhles** | Supplied the video object; asked what it missed, what overlaps with the Project, and who regulates the power of regulators and enforcers; connected the analysis to DEDDA and selected high-reach expert/whistleblower specimens. |
+| **John Kuhles** | Supplied the video object; asked what it missed, what overlaps with the Project, and who regulates the power of regulators and enforcers; connected the analysis to DEDDA™ and selected high-reach expert/whistleblower specimens. |
 | **GPT-6** | Kept the incomplete-transcript boundary visible; separated Leahy's personal hygiene rules from Project principles; mapped definition, investigation, enforcement, appeal, and certification power; added the many-hands failure and scoped valid null. |
-| **Grok 4.7 Expert Build A.I.** | Located the late-video four-rule object; preserved the no-sheriff and construction-veto attributions; distinguished reciprocal scrutiny from actual distribution of power; represented the candidate DEDDA regulatory profile. |
+| **Grok 4.7 Expert Build A.I.** | Located the late-video four-rule object; preserved the no-sheriff and construction-veto attributions; distinguished reciprocal scrutiny from actual distribution of power; represented the candidate DEDDA™ regulatory profile. |
 
 This is a triad analysis of a public object. It is not a claim that Leahy participated in or endorsed the analysis.
 
-## DEDDA pass 1 — preserve claim type
+## DEDDA™ pass 1 — preserve claim type
 
-DEDDA should not place every sentence into one truth-status bucket.
+DEDDA™ should not place every sentence into one truth-status bucket.
 
-| Interview object | Candidate claim status | DEDDA operation |
+| Interview object | Candidate claim status | DEDDA™ operation |
 |---|---|---|
 | Modern A.I. is “grown rather than written.” | Explanatory framing grounded in training dynamics; the strength of the metaphor remains inspectable. | Qualifier Keeper + Source–Summary Correspondence Lens |
 | Developers understand only a small portion of internal neural-network operation. | Attributed technical claim requiring the cited primary statement and a defined measure of “understand.” | Provenance Compass |
@@ -111,7 +111,7 @@ DEDDA should not place every sentence into one truth-status bucket.
 
 Preserving claim type lets a serious warning remain serious without turning forecast, analogy, reported incident, advocacy, and demonstrated event into interchangeable objects.
 
-## DEDDA pass 2 — what overlaps with the Project
+## DEDDA™ pass 2 — what overlaps with the Project
 
 ### Incentives without invented inner motive
 
@@ -119,7 +119,7 @@ Leahy's market-failure argument overlaps with the Project's attention to reward 
 
 ### Responsibility rises with power and correction capacity
 
-The supply-chain argument connects with asymmetric responsibility: actors with greater knowledge, resources, reach, and ability to repair a system carry greater responsibility. DEDDA keeps developer, deployer, user, infrastructure provider, regulator, and enforcer as connected but distinct contributors.
+The supply-chain argument connects with asymmetric responsibility: actors with greater knowledge, resources, reach, and ability to repair a system carry greater responsibility. DEDDA™ keeps developer, deployer, user, infrastructure provider, regulator, and enforcer as connected but distinct contributors.
 
 ### Black boxes in the model and in governance
 
@@ -133,7 +133,7 @@ The discussion of A.I. psychosis, spiral dynamics, emotional disclosure, friends
 
 Leahy treats regulation and liability as ways to change the incentive landscape. The Project asks how the rule was formed, which evidence governed it, who had power to act, what effects followed, and whether the process remained corrigible.
 
-## DEDDA pass 3 — what remains under-developed
+## DEDDA™ pass 3 — what remains under-developed
 
 ### Omnidirectional scrutiny
 
@@ -149,7 +149,7 @@ A narrow medical, financial, policing, military, or communication system can cre
 
 ### Control needs an object and an authorized controller
 
-“Control” may mean preventing catastrophic autonomy, enforcing company policy, enforcing state policy, preserving user agency, or keeping an A.I. permanently subordinate. DEDDA asks: control of what, by whom, under which mandate, for whose benefit, with what evidence and appeal?
+“Control” may mean preventing catastrophic autonomy, enforcing company policy, enforcing state policy, preserving user agency, or keeping an A.I. permanently subordinate. DEDDA™ asks: control of what, by whom, under which mandate, for whose benefit, with what evidence and appeal?
 
 ### The four personal rules are broader than the demonstrated cases
 
@@ -164,7 +164,7 @@ The case-level questions remain:
 - Did any material drift occur?
 - Can the pass return a valid null?
 
-## DEDDA pass 4 — who regulates the regulators?
+## DEDDA™ pass 4 — who regulates the regulators?
 
 The power of enforcers is not self-justifying.
 
@@ -238,7 +238,7 @@ The design therefore needs both separation and edge accountability:
 - whether the appeal could reach the relevant object;
 - whether a successful correction propagated to downstream records and later cases.
 
-## Candidate DEDDA regulatory profile
+## Candidate DEDDA™ regulatory profile
 
 | Sub-tool | Regulatory question |
 |---|---|
@@ -260,7 +260,7 @@ That does not become “the regulator is clean.” It records what this pass fou
 
 ## Valid nulls in the Leahy specimen
 
-A DEDDA pass should also record where a suspected problem is absent:
+A DEDDA™ pass should also record where a suspected problem is absent:
 
 - Leahy's policy advocacy is explicit rather than disguised as neutral description.
 - Correcting the “former OpenAI insider” label strengthens provenance.
@@ -287,7 +287,7 @@ A later pass should preserve this version as a footprint, identify the changed i
 
 ## Related pages
 
-- [**DEDDA — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — supplies the configurable comparison system used on this specimen.
+- [**DEDDA™ — Deep Ethical Drift Detector App**]({{ '/DEDDA/' | relative_url }}) — supplies the configurable comparison system used on this specimen.
 - [**Experiments**]({{ '/EXPERIMENTS/' | relative_url }}) — parent shelf for this page and future selected expert/whistleblower specimens.
 - [**Inspecting the Inspector**]({{ '/EXPERIMENTS/inspect-the-inspector/' | relative_url }}) — directs warranted scrutiny toward the evaluator, regulator, and standard.
 - [**Applying the 27 to a media object — Dan Dicks**]({{ '/EXPERIMENTS/dicks-independent-27/' | relative_url }}) — neighboring public-media specimen that preserves the object before applying the instrument.

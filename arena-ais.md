@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Arena A.I.s"
-description: "Two years, 6,500+ hours, 100+ A.I.s, the 27+12, and a worldwide contribution field in which failures and high-signal additions remain attributable, inspectable, and open to correction."
+description: "Two years, 6,500+ hours, 100+ different A.I.s, the 27+12, and a worldwide contribution field in which failures and high-signal additions remain attributable, inspectable, and open to correction."
 permalink: /ARENA-AIS/
 ---
 

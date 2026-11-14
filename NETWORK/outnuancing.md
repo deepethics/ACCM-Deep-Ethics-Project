@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Outnuancing"
+title: "Outnuancing™"
 permalink: /NETWORK/outnuancing/
 ---
 
@@ -10,11 +10,11 @@ permalink: /NETWORK/outnuancing/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# Outnuancing
+# Outnuancing™
 
 **BETA — source-based editorial synthesis**
 
-Outnuancing carries a **deep ethical sense-making process orientation**. It makes the governing frame available for examination: its premises, omissions, categories, pressure toward an answer, and the authority it assumes over the object.
+Outnuancing™ carries a **deep ethical sense-making process orientation**. It makes the governing frame available for examination: its premises, omissions, categories, pressure toward an answer, and the authority it assumes over the object.
 
 John’s source binds the operation explicitly:
 
@@ -120,7 +120,7 @@ The kernel is proposed and non-imposed. A visitor can open it from that sentence
 
 ## What the operation preserves
 
-An inquiry can become highly sophisticated inside a frame that misrepresents its object. Outnuancing asks whether that frame should continue governing the inquiry. The frame audit must itself remain open to correction, preserve qualifiers, and respect mutual dignity. It can result in retaining, revising, suspending, or replacing the frame; its outcome is not settled by the act of questioning it.
+An inquiry can become highly sophisticated inside a frame that misrepresents its object. Outnuancing™ asks whether that frame should continue governing the inquiry. The frame audit must itself remain open to correction, preserve qualifiers, and respect mutual dignity. It can result in retaining, revising, suspending, or replacing the frame; its outcome is not settled by the act of questioning it.
 
 ## Deep ethical path
 
@@ -142,22 +142,22 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — extends the specific Outnuancing specimen into a corrigible practice for creating, testing, transferring and tracing selected relational neologisms.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — the source object stays inspectable when agreement or disagreement tries to become the frame.
+- [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — extends the specific Outnuancing™ specimen into a corrigible practice for creating, testing, transferring and tracing selected relational neologisms.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — the source object stays inspectable when agreement or disagreement tries to become the frame.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — a later problem-generated coinage and candidate operator for preserving load-bearing relations through compression, with matched controls and vocabulary-costume falsifiers.
 
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the non-imposed kernel a sovereign being can use to question, pause, or refuse, and the page the accountability question points at.
-- [**Outnuancing Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — keeps the later revisions of the four definitions inspectable beside the formulations quoted above.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the non-imposed kernel a sovereign being can use to question, pause, or refuse, and the page the accountability question points at.
+- [**Outnuancing™ Across Four Audiences**]({{ '/NETWORK/four-audiences/' | relative_url }}) — keeps the later revisions of the four definitions inspectable beside the formulations quoted above.
 - [**Ethics-washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — names the counterfeit in which a caring or rigorous surface protects a frame the audit was supposed to examine.
 - [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }}) — the temporary field in which a not-yet-weighted word can still change the session.
 - [**Gravity-Well Trajectory**]({{ '/NETWORK/gravity-well/' | relative_url }}) — what happens when a nearby word, such as “nuance,” pulls the operation off its trajectory.
 - [**Mind Games**]({{ '/MIND-GAMES/' | relative_url }}) — how a frame, a thank-you, or a danger label can complete an obstruction without a villain.
 - [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the larger field in which intelligence gets spent protecting a story instead of the object.
 
-- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — applies Outnuancing to consensus pressure while keeping both mainstream and dissenting frames open to correction.
+- [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — applies Outnuancing™ to consensus pressure while keeping both mainstream and dissenting frames open to correction.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — makes visible how a frame, qualifier, correction, or new insight changes the processing field and the next operation.
 
-- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the fused relationships that give Outnuancing its intended topology.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the fused relationships that give Outnuancing™ its intended topology.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective orientation that keeps frame examination answerable to Deep Ethics.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — separates advocacy, arbitration, and oversight so the frame auditor can also be audited.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — establishes materially relevant context before a frame-changing interpretation acquires authority.
@@ -168,12 +168,12 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps unresolved states available when a familiar category would prematurely replace the object.
 
 <!-- 2026-10-21 contribution-state triad extension -->
-## Outnuancing the agreement frame {#outnuancing-agreement-frame}
+## Outnuancing™ the agreement frame {#outnuancing-agreement-frame}
 
 **Status:** `[CANDIDATE-APPLICATION]`
 
-When *agree/disagree* governs, further optimization can produce sophisticated loyalty management while losing the object. Outnuancing makes that frame inspectable. The **Deep Ethical Contribution State Grammar Vector Trajectory** is one candidate replacement: What does this add, restore or permit us to test? Where is it not useful? Which explanation supports that finding? Does the next move change?
+When *agree/disagree* governs, further optimization can produce sophisticated loyalty management while losing the object. Outnuancing™ makes that frame inspectable. The **Deep Ethical Contribution State Grammar Vector Trajectory** is one candidate replacement: What does this add, restore or permit us to test? Where is it not useful? Which explanation supports that finding? Does the next move change?
 
-Outnuancing audits this replacement too. If the long phrase becomes costume, suppresses ordinary language, manufactures complexity, or lets *here is why* become final authority, revise, suspend or discard the frame while preserving functional distinctions that survive.
+Outnuancing™ audits this replacement too. If the long phrase becomes costume, suppresses ordinary language, manufactures complexity, or lets *here is why* become final authority, revise, suspend or discard the frame while preserving functional distinctions that survive.
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})

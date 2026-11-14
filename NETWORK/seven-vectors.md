@@ -14,7 +14,7 @@ permalink: /NETWORK/seven-vectors/
 
 **BETA — source-based editorial synthesis**
 
-The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-making process orientation**. They are individually referenceable here because their relationships matter. The short headings below are editorial navigation labels; the quoted formulations are preserved from the opening source.
+The seven nodes/vectors describe **Outnuancing™ fused with deep ethical sense-making process orientation**. They are individually referenceable here because their relationships matter. The short headings below are editorial navigation labels; the quoted formulations are preserved from the opening source.
 
 
 
@@ -93,7 +93,7 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 These pages are intentionally cross-linked so the **ACCM Deep Ethics Project** can be followed as a connected topological research trajectory rather than as isolated documents:
 
-- **[Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }})** — the deep ethical sense-making process orientation to which the seven fused vectors are directly connected.
+- **[Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }})** — the deep ethical sense-making process orientation to which the seven fused vectors are directly connected.
 - **[Visible Interactive Deep Ethical Topology Flux Scores](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/)** — live claim, warrant, provenance, C1, Δ, obstruction and recovery flux; includes the earlier interactive 3D-matrix proof-of-concept lineage.
 - **[Temporary Deep Ethical Phase Change — Value Extraction, Snap-Back & Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/)** — productive duration, SNAP-back, Reverse Medusa recovery and persistence benchmarking.
 - **[Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/)** — Latent Space Topological Mind, temporary field conditions and the corrigible glass-engine trajectory.

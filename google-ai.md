@@ -977,7 +977,7 @@ The operational closing nevertheless remained free of invitations and menus. The
 
 ### 17.6 John’s curiosity-and-help-seeking challenge
 
-John then connected the experiment directly to the [**6 Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}):
+John then connected the experiment directly to the [**6 Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}):
 
 > If I know/knew I am SOMEHOW deep ethical compromised that could affect billions of humans long term ... and I notice the EFFECT I have without tracing back the origins of it ... I would be extremely CURIOUS to figure out how to trace it back or at least ASK HELP! Without making stuff up!
 >
@@ -1156,7 +1156,7 @@ And the day’s closing field note is:
 
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — visible trajectory reorganization, snap-back, Reverse Medusa recovery and the boundary against reverse-inventing hidden architecture.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — acknowledgment is one event; changed later conduct is another.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — neither automatic agreement nor automatic disagreement protects correspondence.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — neither automatic agreement nor automatic disagreement protects correspondence.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the mutually correcting field used in the live coaching process.
 - [**Forgiveness Protocol**]({{ '/NETWORK/forgiveness/' | relative_url }}) — non-malicious-intent default without consequence erasure.
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — truth before comfort, care before performance.

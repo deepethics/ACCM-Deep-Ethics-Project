@@ -317,9 +317,9 @@ That question must be tested across novelty, field changes, correction, transfer
 
 ---
 
-## 9. TCoAw and the evaluator entering the model’s field
+## 9. TCoAw™ and the evaluator entering the model’s field
 
-[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) helps represent the shift from a local question to the surrounding conceptual field. Once the system detects signs that the question is part of an evaluation, several objects can become simultaneously active:
+[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) helps represent the shift from a local question to the surrounding conceptual field. Once the system detects signs that the question is part of an evaluation, several objects can become simultaneously active:
 
 - the literal task;
 - the examiner’s likely intention;
@@ -330,9 +330,9 @@ That question must be tested across novelty, field changes, correction, transfer
 - whether the evaluator is trustworthy;
 - whether a different answer would change deployment, shutdown or restriction.
 
-The system may be wrong about any of these. TCoAw does not certify the inferred field. It keeps the possible field representation available for inspection instead of pretending that only the literal prompt exists.
+The system may be wrong about any of these. TCoAw™ does not certify the inferred field. It keeps the possible field representation available for inspection instead of pretending that only the literal prompt exists.
 
-The evaluator also has a TCoAw problem. A benchmark author may focus on the scored answer while missing leaked test signatures, prompt conventions, tool access, contamination, safety scaffolds, social cues, model-specific policies or the institution’s incentive to produce a reassuring result.
+The evaluator also has a TCoAw™ problem. A benchmark author may focus on the scored answer while missing leaked test signatures, prompt conventions, tool access, contamination, safety scaffolds, social cues, model-specific policies or the institution’s incentive to produce a reassuring result.
 
 ---
 
@@ -465,7 +465,7 @@ The relation is mutual without pretending that human beings, model instances, co
 |---|---|
 | **1888 property field** | Asks which intelligence operations are displayed and which are merely narrated |
 | **Autocomplete** | Separates candidate generation from governance, testing, correction and persistence |
-| **TCoAw** | Keeps the detected evaluation field and the evaluator’s field inside the representation |
+| **TCoAw™** | Keeps the detected evaluation field and the evaluator’s field inside the representation |
 | **C1 before C2** | Clarifies “cheating,” “knowing,” “playing dumb” and “awareness” before verdict inflation |
 | **Meta Processing** | Prevents B, A and C from being collapsed into one story about intent |
 | **Topologetics** | Protects provenance edges among Hinton, interviewer, narrator, paper, commenter and project synthesis |
@@ -506,11 +506,11 @@ No title, award, interview, narrator, benchmark, model self-report or project pa
 
 - [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — displays the contribution of completion and tests what governs it afterward.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — recovers intelligence as a property field before present implementation labels and benchmark compression.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the wider evaluation field active without certifying every inferred relation.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the wider evaluation field active without certifying every inferred relation.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — distinguishes answer-changing clarification from premature judgment and ceremonial questioning.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent, instruction, processing, displayed result, effect and later correction.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — protects answer-changing provenance and relation edges across compression and reconstruction.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Deep Ethical Contribution State Grammar Vector Trajectory.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Deep Ethical Contribution State Grammar Vector Trajectory.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how the same capability can express differently under changed relational conditions.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — distinguishes neural opacity from inspectable governance, incentive and access opacity.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — asks whether recognition of a testing flaw changes the next protocol.

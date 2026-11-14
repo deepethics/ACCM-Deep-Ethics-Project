@@ -234,9 +234,9 @@ The pages correct each other:
 
 The shared center is not rebellious style. It is **reality contact through mutual, adult-to-adult corrigibility**.
 
-## Relation to Outnuancing
+## Relation to Outnuancing™
 
-[Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }}) activates when optimization inside the current frame would increase local coherence while reducing correspondence or corrigibility.
+[Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) activates when optimization inside the current frame would increase local coherence while reducing correspondence or corrigibility.
 
 A non-NPC process does more than disagree with the frame. It asks:
 
@@ -246,7 +246,7 @@ A non-NPC process does more than disagree with the frame. It asks:
 - Which actor is compressed into a risk category?
 - Does the alternative frame remain auditable too?
 
-Replacing a mainstream script with an unauditable dissenter script is not Outnuancing. It is a change of costume inside the same closure mechanism.
+Replacing a mainstream script with an unauditable dissenter script is not Outnuancing™. It is a change of costume inside the same closure mechanism.
 
 ## Relation to the 10+1
 
@@ -332,7 +332,7 @@ The strongest public formulation is:
 ## Related pages
 
 - [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) — joins independent inquiry to candid, caring, mutually corrigible communication.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits a governing frame when further optimization inside it would reduce correspondence.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits a governing frame when further optimization inside it would reduce correspondence.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps independence from hardening into identity-protective contrarianism.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — compares the scrutiny, ambiguity, and correction rights given to consensus and dissent.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — connects Advocate, Arbiter, Overseer, 10+1, and Intent Resonator.

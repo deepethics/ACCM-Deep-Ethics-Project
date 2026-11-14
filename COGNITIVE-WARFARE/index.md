@@ -249,9 +249,9 @@ Applied here:
 
 A C1 question is real only when an answer could change the next move. A ceremonial question followed by the same predetermined intervention is not correspondence.
 
-## Deep Ethical Outnuancing and the anti-sovereignty rule
+## Deep Ethical Outnuancing™ and the anti-sovereignty rule
 
-[Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) audits the frame instead of merely optimizing inside it. Joined to deep ethics, it must also audit the frame conducting the challenge.
+[Outnuancing™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) audits the frame instead of merely optimizing inside it. Joined to deep ethics, it must also audit the frame conducting the challenge.
 
 The method can challenge:
 
@@ -764,7 +764,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies the obstructions and restoration routes that can alter a cognitive-warfare evaluation.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks what remains unresolved before a person, claim, or frame is classified and acted upon.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits which institutions, critics, and audiences receive doubt, scrutiny, or interpretive charity.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the governing frame while keeping the evidence and source object recoverable.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the governing frame while keeping the evidence and source object recoverable.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether exposed distortions change later analysis, policy, or representation.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves agency and correction access for people affected by classification systems.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects ambiguity, threat response, conformity, mass psychology, and LLM output behavior.

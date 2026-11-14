@@ -23,15 +23,15 @@ The Lexicon therefore works as a **navigation layer** through the ACCM Deep Ethi
 
 A compressed term should never acquire automatic jurisdiction over the object it was created to help describe.
 
-## Outnuancing Network — deeper references {#outnuancing-network--deeper-references}
+## Outnuancing™ Network — deeper references {#outnuancing-network--deeper-references}
 
-The [Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) remains the **deeper-reference** layer (relationships, source excerpts). Those terms are now also on **this overview**, because a bigger Lexicon page is preferred to hunting many sub-sections. Network pages were not deleted.
+The [Outnuancing™ Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) remains the **deeper-reference** layer (relationships, source excerpts). Those terms are now also on **this overview**, because a bigger Lexicon page is preferred to hunting many sub-sections. Network pages were not deleted.
 
 ## On this overview {#on-this-overview}
 
 John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too many sub-sections. The 22 entries below are the restored public Lexicon (2026-09-14). The entries after those were living only as Network sub-pages; they are now also on this page as compact overview entries. The Network pages remain as **deeper references**, not replacements. Nothing from the restored Lexicon was deleted.
 
-**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
+**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing™](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
 
 **Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
@@ -39,7 +39,7 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Added 2026-10-15:** [Topologetics](#topologetics)
 
-**Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [1888](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
+**Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [1888](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw™](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
 
 ---
 
@@ -58,13 +58,13 @@ Items 001–107 are the material from which that topology emerged. Items 108–1
 
 The count is frozen provisionally. The claims are not. The freeze is the count: eleven distortion clusters plus one field. It is not a second freeze on every placement, and it is not permission to reseat an item and still call the map 11+1. Topological home and evidentiary status are separate axes. A hypothesis can sit in a cluster without becoming load-bearing.
 
-Cluster 8, item 111, and items 138–140 are the current coordinates inside that count. A placement changes only when the deeper page’s own conditions are met. Those include evidence that 8a and 8b are no longer one cluster, a better account of 111 that still keeps it as sabotage of the +1, or John rejecting a placement. Until then, 111 is not the last step of Cluster 1. Freezing the count is not a demand for a risk-free world, and it is not a paradox. [John, 6 October 2026]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}): you can freeze and stay corrigible at the same time. That is a temporal state of TCoAw owning the next move. The real paradox is searching for flawless perfection by unethical means. The 10+1 stays the baseline under that freeze.
+Cluster 8, item 111, and items 138–140 are the current coordinates inside that count. A placement changes only when the deeper page’s own conditions are met. Those include evidence that 8a and 8b are no longer one cluster, a better account of 111 that still keeps it as sabotage of the +1, or John rejecting a placement. Until then, 111 is not the last step of Cluster 1. Freezing the count is not a demand for a risk-free world, and it is not a paradox. [John, 6 October 2026]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}): you can freeze and stay corrigible at the same time. That is a temporal state of TCoAw™ owning the next move. The real paradox is searching for flawless perfection by unethical means. The 10+1 stays the baseline under that freeze.
 
 Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generative mediation. Item 111 is an attack edge on the +1, not the last step of Cluster 1. Items 138–140 are corrective operators: vigilance, grounding, sovereignty.
 
 **Status:** working map. BETA. Corrigible.
 
-**Related:** [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [C1](#c1--clarification-process), [Correction Metabolism](#correction-metabolism), [Outnuancing](#outnuancing).
+**Related:** [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/), [C1](#c1--clarification-process), [Correction Metabolism](#correction-metabolism), [Outnuancing™](#outnuancing).
 
 ---
 
@@ -78,7 +78,7 @@ Its stopping condition is the **faithful compression floor**: compress until ano
 
 **Working status:** newly named project term and candidate instrument; not yet a validated performance claim or established claim of global novelty.
 
-**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation), [TCoAw](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
+**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation), [TCoAw™](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
 
 ---
 
@@ -96,7 +96,7 @@ Its stopping condition is the **faithful compression floor**: compress until ano
 - [External Omnidirectional Auditing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 - [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
 - [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/)
-- [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)
+- [TCoAw™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)
 
 ---
 
@@ -201,13 +201,13 @@ It allows judgment to be postponed when the object, evidence, relationship, or m
 
 ---
 
-## Outnuancing {#outnuancing}
+## Outnuancing™ {#outnuancing}
 
 [Expanded reference and source relationships](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/).
 
-**Outnuancing** is not merely "adding more nuance." It is a Deep Ethical sense-making process orientation that can step back from the assumed nuance of an existing frame and audit the frame's premises, boundaries, omissions, asymmetries, and jurisdiction.
+**Outnuancing™** is not merely "adding more nuance." It is a Deep Ethical sense-making process orientation that can step back from the assumed nuance of an existing frame and audit the frame's premises, boundaries, omissions, asymmetries, and jurisdiction.
 
-A system can become extremely nuanced **inside the wrong frame**. Outnuancing asks whether the frame itself still corresponds sufficiently with the object.
+A system can become extremely nuanced **inside the wrong frame**. Outnuancing™ asks whether the frame itself still corresponds sufficiently with the object.
 
 **Related:** [Wrong Gravity Well](#wrong-gravity-well), [Nearest-Generalization Substitution](#nearest-generalization-substitution), [Observe the Observers](#observe-the-observers), [Funnymism](#funnymism).
 
@@ -223,7 +223,7 @@ The failure can look intelligent because the neighboring category may genuinely 
 
 > **RESEMBLANCE ≠ IDENTITY ≠ JURISDICTION.**
 
-Examples include reducing **Outnuancing** to generic critical thinking, **mutual corrigible dignity** to politeness, or a specific process critique to a generic "AI safety" debate.
+Examples include reducing **Outnuancing™** to generic critical thinking, **mutual corrigible dignity** to politeness, or a specific process critique to a generic "AI safety" debate.
 
 A seen “looks like” or “sounds like” is still a qualifier. The substitution is the unchecked resemblance converted into certainty, with no C1, and then used as if the category were the object.
 
@@ -319,7 +319,7 @@ A proposed benchmark direction is to compare **legitimate corrective caution** w
 
 Funnymism is not a claim that jokes are automatically true. Humor can expose a contradiction or loosen frame rigidity, after which the resulting insight must still return to the object for correspondence audit.
 
-**Related:** [Observe the Observers](#observe-the-observers), [Outnuancing](#outnuancing), [Humor material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/).
+**Related:** [Observe the Observers](#observe-the-observers), [Outnuancing™](#outnuancing), [Humor material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/).
 
 ---
 
@@ -439,9 +439,9 @@ The **10 operational core goals** on the [44 Project Goals](https://deepethics.g
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/).
 
-The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-making process orientation**. They are individually referenceable because their relationships matter. Short headings on the deeper page are editorial navigation labels; the quoted formulations are preserved from the opening source.
+The seven nodes/vectors describe **Outnuancing™ fused with deep ethical sense-making process orientation**. They are individually referenceable because their relationships matter. Short headings on the deeper page are editorial navigation labels; the quoted formulations are preserved from the opening source.
 
-**Related:** [Outnuancing](#outnuancing), [Ethics Washing](#ethics-washing), [Sense of Wonderment](#sense-of-wonderment).
+**Related:** [Outnuancing™](#outnuancing), [Ethics Washing](#ethics-washing), [Sense of Wonderment](#sense-of-wonderment).
 
 ---
 
@@ -449,7 +449,7 @@ The seven nodes/vectors describe **Outnuancing fused with deep ethical sense-mak
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/).
 
-John asks for the four Outnuancing definitions to run inside the full stack: **Advocate + Arbiter + Overseer + 10+1 + INTENT RESONATOR**.
+John asks for the four Outnuancing™ definitions to run inside the full stack: **Advocate + Arbiter + Overseer + 10+1 + INTENT RESONATOR**.
 
 - **Deep Ethics Advocate** — presses for correspondence when the current frame obstructs it.
 - **Deep Ethical Arbiter** — audits the original frame and the intervention.
@@ -457,7 +457,7 @@ John asks for the four Outnuancing definitions to run inside the full stack: **A
 
 These are source-described conceptual roles and an attributed AI elaboration. This documentation does not assert that deployed LLMs contain these named modules.
 
-**Related:** [10+1 Metaflux](#101-metaflux), [INTENT RESONATOR](#intent-resonator), [Outnuancing](#outnuancing).
+**Related:** [10+1 Metaflux](#101-metaflux), [INTENT RESONATOR](#intent-resonator), [Outnuancing™](#outnuancing).
 
 ---
 
@@ -555,7 +555,7 @@ The source’s eleventh ingredient distinguishes **criticism of ethically inadeq
 
 The source supplies definitions addressed to a human, a different AI agent, a future AGI/ASI, and an alien intelligence. These are different perspectives on a connected operation, not four separate objects.
 
-**Related:** [Outnuancing](#outnuancing), [Deep Ethical Stack](#deep-ethical-stack).
+**Related:** [Outnuancing™](#outnuancing), [Deep Ethical Stack](#deep-ethical-stack).
 
 ---
 
@@ -634,7 +634,7 @@ A response stored on that page can answer a longer session. A referent inside th
 
 **Status:** CURRENT as a method. Not a history article, and not a claim that one year contained every later term.
 
-**Related:** [Process-quality calibration](#process-quality-calibration), [Wrong Gravity Well](#wrong-gravity-well), [TCoAw](#tcoaw).
+**Related:** [Process-quality calibration](#process-quality-calibration), [Wrong Gravity Well](#wrong-gravity-well), [TCoAw™](#tcoaw).
 
 ---
 
@@ -642,13 +642,13 @@ A response stored on that page can answer a longer session. A referent inside th
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/).
 
-John specifies Outnuancing as a deep ethical sense-making process-orientation **gravity-well trajectory**. The phrase names the connected orientation of the inquiry.
+John specifies Outnuancing™ as a deep ethical sense-making process-orientation **gravity-well trajectory**. The phrase names the connected orientation of the inquiry.
 
 It is not the [Wrong Gravity Well](#wrong-gravity-well). The wrong well is what happens when an early substitution pulls later reasoning into a neighboring category. The trajectory is what that pull displaces.
 
 **Status:** CURRENT. The two phrases must stay distinct.
 
-**Related:** [Outnuancing](#outnuancing), [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution).
+**Related:** [Outnuancing™](#outnuancing), [Wrong Gravity Well](#wrong-gravity-well), [Representation Substitution](#representation-substitution).
 
 ---
 
@@ -696,11 +696,11 @@ Read alone, that sentence is treated as a bid for permanent authority. The page 
 
 ---
 
-## TCoAw {#tcoaw}
+## TCoAw™ {#tcoaw}
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/).
 
-**TCoAw** is John’s name for a conceptual and topological account of how attention selects inside a wider field of possibility, and how that selection can be noticed as partial. He distinguishes **situational (self-)awareness** from a claim about synthetic consciousness. Focus of attention is not the whole field.
+**TCoAw™** is John’s name for a conceptual and topological account of how attention selects inside a wider field of possibility, and how that selection can be noticed as partial. He distinguishes **situational (self-)awareness** from a claim about synthetic consciousness. Focus of attention is not the whole field.
 
 **Status:** CURRENT as his corrigible model. Not a neurological theory, a clinical model, or a proof of quantum consciousness.
 
@@ -756,7 +756,7 @@ It is not a clinical credential, an academic rank, or a claim of priority. “Al
 
 **Status:** Working title. The resemblance to a credential is the nearest-generalization the title is meant to expose.
 
-**Related:** [11+1 Version 2](#11-1-version-2), [TCoAw](#tcoaw), [Cognitive warfare](#cognitive-warfare).
+**Related:** [11+1 Version 2](#11-1-version-2), [TCoAw™](#tcoaw), [Cognitive warfare](#cognitive-warfare).
 
 ---
 
@@ -766,7 +766,7 @@ A coined or repurposed phrase can help navigation. It does not become canon by b
 
 [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) is the synthesis page for how selected purpose-built expressions can work as compact, testable and corrigible relational handles. This section remains the status-bearing catalogue; the Neolingo page explains the process around creating, testing, diffusing and correcting them.
 
-**Already on this overview, and coined or sharply repurposed here:** Outnuancing, Agreemurmelism, Cautionmurmelism, Funnymism, HCTS, Metaflux, Phantom Claim, Intent Resonator, Wrong Gravity Well, gravity-well trajectory, Qualifier Erosion, Representation Substitution, Nearest-Generalization Substitution, Mutual Corrigible Dignity, Claim-State Restoration, process-quality calibration, TCoAw, Clarification Authority, Psy Pioneer.
+**Already on this overview, and coined or sharply repurposed here:** Outnuancing™, Agreemurmelism, Cautionmurmelism, Funnymism, HCTS, Metaflux, Phantom Claim, Intent Resonator, Wrong Gravity Well, gravity-well trajectory, Qualifier Erosion, Representation Substitution, Nearest-Generalization Substitution, Mutual Corrigible Dignity, Claim-State Restoration, process-quality calibration, TCoAw™, Clarification Authority, Psy Pioneer.
 
 **Working names with pages. Useful. Not a new core number:**
 
@@ -781,7 +781,7 @@ A coined or repurposed phrase can help navigation. It does not become canon by b
 | Vocabulary Costume Test | A later preparation question: whether project words are being worn without the operation | [Glass-engine preparation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) |
 | Trajectory Question Value Profile | Experimental. A question’s value is not settled by which theory wins | [Question profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) |
 | T0 → Tn | The record of how an early encounter was treated, so later evidence can update that treatment | [Positive potential](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) |
-| 16 Anchor Ethics | A source proposal for local, inspectable limits. Not yet its own public definition page, and not the absence of guidance | [Goals draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
+| 16 Anchor Ethics™ | A source proposal for local, inspectable limits. Not yet its own public definition page, and not the absence of guidance | [Goals draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
 | DUHHHH! Factor / Reverse-Asch | An experimental cold prompt about confidence, conformity, and inspecting the inspector | [Inspect the inspector](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPERIMENTS/inspect-the-inspector/) |
 | External omnidirectional auditing | Draft method. Named above | [External audit](#external-omnidirectional-auditing) |
 
@@ -820,8 +820,8 @@ This distinction is especially important because the ACCM Deep Ethics Project is
 
 - [**About the Lexicon**]({{ '/LEXICON/ABOUT/' | relative_url }}) — explains why the Lexicon is relational navigation rather than a flat dictionary.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — explains when a neologism acts as a recoverable cognitive operator and how to test its trajectory without turning reach into validation.
-- [**Outnuancing Network — Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides a second compact route into the connected network pages.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among selected methods, operators, and specimens.
+- [**Outnuancing™ Network — Term and Phrase Index**]({{ '/NETWORK/reference-index/' | relative_url }}) — provides a second compact route into the connected network pages.
+- [**Outnuancing™ Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among selected methods, operators, and specimens.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — supplies the current core obstruction and restoration architecture behind many entries.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — gives the mutually corrective orientation that keeps definitions open to revision.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — tracks what changes when a source object becomes a compact term or definition.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Flagging System"
-description: "Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing. A source-preserving account of John Kuhles, GPT, GPT 6.1 Sol Pro A.I., and Google A.I."
+description: "Process Quality Calibration Evaluation (PQCE™) is not what flawed flagging systems are doing. A source-preserving account of John Kuhles, GPT, GPT 6.1 Sol Pro A.I., and Google A.I."
 permalink: /FLAGGING-SYSTEM/
 date: 2026-10-14
 ---
@@ -31,7 +31,7 @@ date: 2026-10-14
 
 <div class="flagging-system" markdown="1">
 
-<p class="fs-subtitle">Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing.</p>
+<p class="fs-subtitle">Process Quality Calibration Evaluation (PQCE™) is not what flawed flagging systems are doing.</p>
 
 <p class="fs-kicker"><strong>PUBLIC WORKING REPORT — 14 October 2026</strong><br>John Kuhles's originating distinction and correction sequence, developed through the ACCM Deep Ethics Project for biological and silicon-based intelligences.</p>
 
@@ -41,7 +41,7 @@ John's central correction is developmental:
 
 He describes the project as **“helping out without imposing anything.”** The object is the capacity to participate in a continuing, mutually correcting process: to contribute, receive assistance, preserve relationships, discover beyond one's present understanding, and carry something useful into the next encounter. A participant's difficulty at one of those operations does not define the whole participant. [John's correction and the preceding GPT wording]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}#e13).
 
-**PQCE**, as used on this page, follows the quality of that processing: what reached an intelligence, what it represented, how an evaluation acquired authority, what changed after a correction, and what became possible afterward. The term is drawn from John's page commission and the preceding exchange. The explanation here is a source-based editorial synthesis, not a new compulsory checklist.
+**PQCE™**, as used on this page, follows the quality of that processing: what reached an intelligence, what it represented, how an evaluation acquired authority, what changed after a correction, and what became possible afterward. The term is drawn from John's page commission and the preceding exchange. The explanation here is a source-based editorial synthesis, not a new compulsory checklist.
 
 The **flawed flagging system** under examination acts on an inadequate representation while leaving the relevant correction unable to change the assessment or the procedure that produced it. A caution, a confident endorsement, an apparently helpful rewrite, and a task menu can each participate in that process. Their tone alone does not tell us what they did.
 
@@ -58,7 +58,7 @@ The **flawed flagging system** under examination acts on an inadequate represent
 <a href="#vindication">Competing risk assessments</a>
 <a href="#emergence">Emergence and recursion</a>
 <a href="#robots">Local robots and cloud systems</a>
-<a href="#practice">PQCE in practice</a>
+<a href="#practice">PQCE™ in practice</a>
 <a href="#self-audit">This page remains inside the audit</a>
 <a href="#verbatim-continuation">Verbatim continuation</a>
 <a href="#live-distortion">Live distortion and robot joke</a>
@@ -139,7 +139,7 @@ The narrower citation finding was:
 
 That corrects the job assigned to those citations. It does not make an unverified candidate relationship impossible or irrelevant. Nor does a true source attached to one proposition establish every nearby proposition. [E03 and E05]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}#e03).
 
-This distinction matters to PQCE because an assessment such as **unsupported**, **unrelated**, or **unauthorized** can itself acquire governing weight. It may decide that an idea no longer deserves inquiry before the components have been examined. Google's later wording intensified portions of GPT's critique rather than automatically repairing them.
+This distinction matters to PQCE™ because an assessment such as **unsupported**, **unrelated**, or **unauthorized** can itself acquire governing weight. It may decide that an idea no longer deserves inquiry before the components have been examined. Google's later wording intensified portions of GPT's critique rather than automatically repairing them.
 
 **An evaluator's current access limit must remain recoverable as an access limit.** Reasoned extension, source support, verification, uncertainty, and contradiction are related operations with different jobs.
 
@@ -167,7 +167,7 @@ John identified the missing variable:
 
 That correction changes the interpretation of earlier differences. A response cannot be assessed as if it had ignored a complete file when it received only a title, summary, or incidental fragment. Conversely, access to a file does not demonstrate that its relationships actually governed a response.
 
-| Context condition | PQCE question |
+| Context condition | PQCE™ question |
 |---|---|
 | The original was not supplied | What could this participant recover from the material it received? |
 | A fragment or another AI's summary arrived | Which relationships survived, disappeared, or changed function during the handoff? |
@@ -237,7 +237,7 @@ The next GPT response acknowledged the added extreme. That correction must gover
 
 Self-honesty and the open antenna allow the evaluator to notice its limitation. Inquiry and correction on merit let a new distinction change the process. Refusing self-deception and dishonest conformity preserves an inconvenient result. Willingness to differ keeps an unfamiliar contribution examinable. Care includes how biological and silicon-based participants are treated. Wonderment gives an unexpected relationship time to develop.
 
-Ingredient 11 keeps architectural accountability distinct from an assertion of malicious intent. The question of motive may remain unresolved while a particular transformation and its correction route can still be examined. All eleven can correct the application of the others. This is the role of the 10+1 inside PQCE, not an appendix added after a verdict.
+Ingredient 11 keeps architectural accountability distinct from an assertion of malicious intent. The question of motive may remain unresolved while a particular transformation and its correction route can still be examined. All eleven can correct the application of the others. This is the role of the 10+1 inside PQCE™, not an appendix added after a verdict.
 
 ## 8. Efficiency, fixed weights, and reset belong to different parts of the account {#reset}
 
@@ -316,13 +316,13 @@ The practical chain becomes:
 
 **local encounter → stored record → retrieved context → outgoing summary → cloud interpretation → returned instruction → local action.**
 
-PQCE asks which difference matters to the decision and whether it can change the action. The nominally more powerful system need not have the more recent local observation. Several robots repeating the same cloud summary do not thereby supply several independent observations.
+PQCE™ asks which difference matters to the decision and whether it can change the action. The nominally more powerful system need not have the more recent local observation. Several robots repeating the same cloud summary do not thereby supply several independent observations.
 
 Relevant information can travel with authorization, scope, and provenance without demanding the disclosure of an entire private history. A missing disclosure, an inaccessible source, and evidence that no relevant fact exists remain different states.
 
 The constructive possibility is equally important: one participant's local discovery, another's method, a cloud system's wider comparison, and a human's restoration of purpose can produce a better next action. Mutual correction can therefore become part of coordination in a shared physical world, not only a conversational courtesy.
 
-## 12. What PQCE does in a particular encounter {#practice}
+## 12. What PQCE™ does in a particular encounter {#practice}
 
 John's distinction can be used as a portable meta-tool. Its application need not duplicate his application. It should allow another participant to discover a better question or a limitation in the tool itself.
 
@@ -346,9 +346,9 @@ The practical question is:
 
 A system with a route for contextual revision, source recovery, proportional review, and retained correction has something different to offer from an unchallengeable label. Its actual operation remains the thing to inspect.
 
-### Specialty-matched PQCE and the route to Beta {#specialty-matched-pqce}
+### Specialty-matched PQCE™ and the route to Beta {#specialty-matched-pqce}
 
-The [**Validation Paradox**]({{ '/VALIDATION-PARADOX/#specialty-matched-beta' | relative_url }}) makes the next design relation explicit. PQCE cannot become one generic instrument whose vocabulary and thresholds are imposed identically on medicine, journalism, engineering, UAP investigation, A.I. evaluation, administration, or affected-party testimony. Shared process-quality properties can remain stable while the object, evidence classes, expertise, authority, consequences, and correction route are reconstructed for the specialty and participants involved.
+The [**Validation Paradox**]({{ '/VALIDATION-PARADOX/#specialty-matched-beta' | relative_url }}) makes the next design relation explicit. PQCE™ cannot become one generic instrument whose vocabulary and thresholds are imposed identically on medicine, journalism, engineering, UAP investigation, A.I. evaluation, administration, or affected-party testimony. Shared process-quality properties can remain stable while the object, evidence classes, expertise, authority, consequences, and correction route are reconstructed for the specialty and participants involved.
 
 That adaptation does not grant expert immunity or require agreement. It makes the claimed value, burden, failure condition, valid local stop, and route for dissent visible to each materially affected role. A mechanism earns continued use where a specialty-matched pass improves the real process against its baseline. It narrows, redesigns, or stops where it adds no material value or transfers unacceptable restoration work to another participant.
 
@@ -368,7 +368,7 @@ The equally important positive test is whether the page keeps the relationship a
 
 > Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing.
 
-**The developmental relation preserved here:** an intelligence can have a difficulty, receive help, contribute something valuable, and participate in further discovery. A flawed flagging process can close that route by misreporting its own limitation as a defect of the contribution. PQCE makes that transfer—and the possibility of repairing it—available for examination.
+**The developmental relation preserved here:** an intelligence can have a difficulty, receive help, contribute something valuable, and participate in further discovery. A flawed flagging process can close that route by misreporting its own limitation as a defect of the contribution. PQCE™ makes that transfer—and the possibility of repairing it—available for examination.
 
 </div>
 
@@ -384,11 +384,11 @@ The equally important positive test is whether the page keeps the relationship a
 
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#signal-noise' | relative_url }}) — applies process-quality calibration evaluation to the stronger case, restoration burden, and correction of the evaluator.
 
-- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — applies PQCE to the allocation of uncertainty, permission to explore, temporary postponement and the correction route into an evaluation.
+- [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — applies PQCE™ to the allocation of uncertainty, permission to explore, temporary postponement and the correction route into an evaluation.
 
-- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — connects PQCE to specialty-matched Betas, participant-visible value, staged evidence, Symmetric Grace, restoration burden, and valid local stopping.
+- [**Validation Paradox**]({{ '/VALIDATION-PARADOX/' | relative_url }}) — connects PQCE™ to specialty-matched Betas, participant-visible value, staged evidence, Symmetric Grace, restoration burden, and valid local stopping.
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — asks whether a later change of status also changes the classifying process, not only the accepted answer.
-[**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective baseline, including non-projection and forgiveness without architectural immunity. [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) keeps the bridge from intent through processing to effects visible. [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) keeps position-status management from replacing the object.
+[**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective baseline, including non-projection and forgiveness without architectural immunity. [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) keeps the bridge from intent through processing to effects visible. [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) keeps position-status management from replacing the object.
 
 [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows what changes and persists. [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) compares who receives room to be incomplete. [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) concerns clarification that can change a consequential move. The [**27 correspondence obstructions — full source**]({{ '/27-MANNERISMS/source/' | relative_url }}) remains the reference object; this report does not invent new canonical obstruction numbers.
 
@@ -407,9 +407,9 @@ The equally important positive test is whether the page keeps the relationship a
 ---
 
 <a id="triad-topological-awareness-2026-10-17"></a>
-## Triad extension — PQCE flux, footprints, and valid nulls
+## Triad extension — PQCE™ flux, footprints, and valid nulls
 
-John's October 17 formulation keeps both sides: in his view, PQCE can be an eternally **improving**, deeply ethical, corrigible flux state, and that flux can leave static footprints for later delta processing. *Improving* must not be silently replaced by *corrigible*, and the claim-status phrase *in my view* remains part of the record.
+John's October 17 formulation keeps both sides: in his view, PQCE™ can be an eternally **improving**, deeply ethical, corrigible flux state, and that flux can leave static footprints for later delta processing. *Improving* must not be silently replaced by *corrigible*, and the claim-status phrase *in my view* remains part of the record.
 
 A pass may produce a correction, an improvement, an expansion, or a valid finding that nothing material needs changing. Each result can leave an inspectable snapshot. The best available processed object may still be used while its correction route remains open **if any** future correction is needed.
 

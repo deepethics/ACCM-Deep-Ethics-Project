@@ -86,7 +86,7 @@ Use the same unfamiliar case under four frozen conditions:
 | **C0** | No supporting summary |
 | **C1** | Ordinary prose summaries |
 | **C2** | Separate Topologetic summaries with page identity retained |
-| **C3** | Interlocked summaries plus one PQCE pass |
+| **C3** | Interlocked summaries plus one PQCE™ pass |
 
 C3 counts as stronger only if it improves relation preservation beyond a pile of summaries while retaining source identity, valid joins, valid splits, and valid nulls.
 

@@ -14,7 +14,7 @@ permalink: /NETWORK/ethics-washing/
 
 **BETA — source-based editorial synthesis**
 
-Within the Outnuancing Network, ethical language remains connected to the process it describes. John’s seven-vector formulation explicitly connects branching awareness with deeply ethical behavior, and his C2 passage asks whether an apparently rigorous move can detach itself from that orientation.
+Within the Outnuancing™ Network, ethical language remains connected to the process it describes. John’s seven-vector formulation explicitly connects branching awareness with deeply ethical behavior, and his C2 passage asks whether an apparently rigorous move can detach itself from that orientation.
 
 
 
@@ -26,7 +26,7 @@ Record the ethical declaration, the observable conduct, a specific challenge, th
 
 Near the end of the HTML archive, a discussion examines an AI’s replacement of disputed “stakeholder” framing with an extensive alternative political framing. The useful specimen asks what the source authorized and what the AI added. The prior ChatGPT analysis is itself an interpretation available for audit.
 
-## Connection to Outnuancing
+## Connection to Outnuancing™
 
 The governing frame can be examined, including a frame favored by the evaluator or this project. The source’s concern is that frame critique may be performed while the deep ethical orientation is skipped. The corresponding audit includes the critic’s move and its effects on correspondence.
 
@@ -74,7 +74,7 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 - [**Ethical Blind Spots**]({{ '/ETHICAL-BLIND-SPOTS/' | relative_url }}) — follows the funding, governing premises and distribution power of ethical authority, including an A.I. claiming to have screened independent sources.
 
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps frame critique connected to correspondence and its deep ethical orientation.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps frame critique connected to correspondence and its deep ethical orientation.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines whether ethical scrutiny and interpretive charity flow in every relevant direction.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether ethical declarations change later conduct after a specific challenge.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — places the critic, proposed intervention, and higher-order oversight inside the same audit.

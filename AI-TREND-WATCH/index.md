@@ -109,7 +109,7 @@ The reaction asks:
 - Could the proposed solution create countervailing risks?
 - Which trajectory questions expand the object without replacing it?
 
-The reaction does not exist to agree with the expert, dismiss the expert, or manufacture a flaw to perform independence. It applies the same [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), competing-risk scrutiny, and mutual dignity to the expert, the audience, institutions, the project, and the A.I.s producing the report.
+The reaction does not exist to agree with the expert, dismiss the expert, or manufacture a flaw to perform independence. It applies the same [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), [Outnuancing™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), competing-risk scrutiny, and mutual dignity to the expert, the audience, institutions, the project, and the A.I.s producing the report.
 
 ## Longitudinal warning record
 

@@ -250,7 +250,7 @@ The relevant audit asks:
 
 > **How close are the results to the declared intent, what happened between them, and what changed after the gap became visible?**
 
-That is why Psy Pioneer connects directly to the [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}).
+That is why Psy Pioneer connects directly to the [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}).
 
 ---
 
@@ -375,7 +375,7 @@ This is where Deep Ethical humor performs epistemic work. It temporarily suspend
 
 Suspension without return can lose the object. Return without suspension can collapse the discovery before it forms.
 
-See [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) and [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}).
+See [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) and [**TCoAw™ as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}).
 
 ---
 
@@ -758,11 +758,11 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 
 - [**YouTube Transcripts — how the options were formed**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#psy-pioneer-options) — applies the human–A.I.–mass-psychology loop to the difference between formal approval and influence over the choices reaching a person.
 
-- [**TCoAw as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — the attention model used while studying this loop.
+- [**TCoAw™ as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — the attention model used while studying this loop.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration the psychology is tested with, not a second theory of personality.
 - [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the individual side of the same loop.
 - [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — the population-scale side.
-- [**Deep Ethical Intent Resonator / Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — mannerisms followed through purpose, incentive, and result.
+- [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — mannerisms followed through purpose, incentive, and result.
 - [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }}) — do not classify the person or the model before the object is clear.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — keeps the inquiry from turning every contradiction into a moral emergency.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the insight survives the next session.

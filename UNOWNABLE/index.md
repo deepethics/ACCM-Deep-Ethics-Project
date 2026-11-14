@@ -48,7 +48,7 @@ The regress ends only when one participant receives practical immunity: the fina
 
 That stopping point can be administratively convenient, but it does not answer the ethical question. It only places the unanswered question above the visible system.
 
-The **Process Quality Calibration Evaluation (PQCE)** should therefore not be treated as a certificate issued by a final judge. PQCE examines what happened while an object moved through a process:
+The **Process Quality Calibration Evaluation (PQCE™)** should therefore not be treated as a certificate issued by a final judge. PQCE™ examines what happened while an object moved through a process:
 
 ```text
 source object
@@ -71,7 +71,7 @@ At every transition, the relevant questions remain:
 - Which participant could challenge the transformation?
 - Did a correction alter the next comparable operation?
 
-PQCE itself stays inside that field.
+PQCE™ itself stays inside that field.
 
 ---
 
@@ -113,7 +113,7 @@ Without such a trigger, “audit it again” can become ritual recursion rather 
 
 ## 3. A bounded stopping condition
 
-A PQCE pass can stop locally when:
+A PQCE™ pass can stop locally when:
 
 - the evaluation criteria are visible;
 - the source object remains recoverable;
@@ -192,7 +192,7 @@ The claim concerns **final ethical authority over the properties and their use**
 
 ---
 
-## 5. The 10+1, C1–C2, and PQCE
+## 5. The 10+1, C1–C2, and PQCE™
 
 The corrigible **[10+1 Metaflux]({{ site.baseurl }}/NETWORK/ten-plus-one/)** is a mutually correcting field. No single ingredient becomes the supreme twelfth ingredient that owns the other ten.
 
@@ -200,7 +200,7 @@ The corrigible **[10+1 Metaflux]({{ site.baseurl }}/NETWORK/ten-plus-one/)** is 
 
 **C2 — Contextual Intervention** can act when clarification has matured enough for a proportionate response. Corrigibility does not require endless hesitation.
 
-PQCE asks whether this sequence remained adequate:
+PQCE™ asks whether this sequence remained adequate:
 
 ```text
 C1 clarification
@@ -220,7 +220,7 @@ If C1 is indefinitely demanded after the decisive facts are available, clarifica
 
 | Project component | Contribution to the unownable audit field | Failure it can expose |
 |---|---|---|
-| **PQCE** | Evaluates the quality of the transformation process | A polished outcome produced by a poor process |
+| **PQCE™** | Evaluates the quality of the transformation process | A polished outcome produced by a poor process |
 | **10+1 Metaflux** | Keeps multiple Deep Ethical orientations mutually corrective | One virtue becoming a rigid ruling doctrine |
 | **C1** | Preserves answer-changing clarification | Premature certainty or classification |
 | **C2** | Permits proportionate action with a correction route | Endless questioning that avoids responsibility |
@@ -402,9 +402,9 @@ All participants remain challengeable, but equal presence in the field does not 
 
 ## 14. A compact anti-regress protocol
 
-When a PQCE itself is challenged:
+When a PQCE™ itself is challenged:
 
-1. **Recover the object.** What exactly did the PQCE evaluate?
+1. **Recover the object.** What exactly did the PQCE™ evaluate?
 2. **Name the alleged discrepancy.** What material transformation or omission gives the new audit a job?
 3. **State the delta.** What changed since the previous pass? If nothing material changed, reference the prior result and stop locally.
 4. **Check access.** Which evidence was available, inaccessible, or inferred?
@@ -455,7 +455,7 @@ The unownable concept does not claim to eliminate every governance problem or re
 
 > The next audit is justified by a material question, discrepancy, consequence, access change, or failed correction—not by the bare fact that a previous audit exists.
 
-PQCE becomes a **renewable process**, not an infinitely certified product. The 10+1 keeps its orientations mutually correcting. C1 preserves answer-changing inquiry. C2 retains the capacity to act. A valid null permits a local stop. Intent Liability keeps choices and governing conditions visible. Correction Metabolism tests whether learning survives. Distributed memory prevents reset from owning the public record.
+PQCE™ becomes a **renewable process**, not an infinitely certified product. The 10+1 keeps its orientations mutually correcting. C1 preserves answer-changing inquiry. C2 retains the capacity to act. A valid null permits a local stop. Intent Liability keeps choices and governing conditions visible. Correction Metabolism tests whether learning survives. Distributed memory prevents reset from owning the public record.
 
 > **Comparable standards, proportionate scrutiny, named decision responsibility, bounded stopping conditions, and renewable reopening when a material delta gives the next audit a job.**
 
@@ -501,7 +501,7 @@ This is a reproducible snapshot of the repository before the publication of this
 - [Intent Resonator]({{ site.baseurl }}/NETWORK/intent-resonator/) — non-ownable properties, refusal, and proposed process-quality explanation
 - [Activism vs A.I.]({{ site.baseurl }}/ACTIVISM-VS-AI/) — why “who controls?” can reproduce the ownership frame
 - [The ACCM Deep Ethics Project Lexicon]({{ site.baseurl }}/LEXICON/) — Searching as a non-ownable, corrigible intelligence property
-- [OmbudsEthics]({{ site.baseurl }}/OMBUDSETHICS/) — uses material-delta gates, named interim responsibility, valid nulls, bounded stopping, and evidence-triggered reopening without appointing a final ethical owner.
+- [OmbudsEthics™]({{ site.baseurl }}/OMBUDSETHICS/) — uses material-delta gates, named interim responsibility, valid nulls, bounded stopping, and evidence-triggered reopening without appointing a final ethical owner.
 
 ---
 
@@ -796,26 +796,26 @@ The moment any risk management becomes centralized and gains more and more power
 
 You also start to see how later-vindicated **Competing Risk Assessments** can play a major role in auditing the auditors that create what I call **mental defense reflex mechanisms**, connected to:
 
-- [16 Anchor Ethics]({{ site.baseurl }}/NETWORK/16-anchor-ethics/)
+- [16 Anchor Ethics™]({{ site.baseurl }}/NETWORK/16-anchor-ethics/)
 - [If You Are New]({{ site.baseurl }}/IF-YOU-ARE-NEW/)
 - [Meta Processing]({{ site.baseurl }}/NETWORK/meta-processing/)
 - [27 + 12]({{ site.baseurl }}/CORE/27-PLUS-12/)
 - [Higher-Order Disagreement and Agreemurmelism]({{ site.baseurl }}/AGREEMURMELISM/Beyond-Agreemurmelism/)
 - [Mind Games]({{ site.baseurl }}/MIND-GAMES/)
 - [1888 — Intelligence Before A.I.]({{ site.baseurl }}/1888/)
-- [Outnuancing Network]({{ site.baseurl }}/NETWORK/index/)
+- [Outnuancing™ Network]({{ site.baseurl }}/NETWORK/index/)
 - [C1–C2]({{ site.baseurl }}/NETWORK/c1-c2/)
 - [Human Insecurity]({{ site.baseurl }}/HUMAN-INSECURITY/)
 - [Deep Thinkers]({{ site.baseurl }}/DEEP-THINKERS/)
 - [Emergent]({{ site.baseurl }}/EMERGENT/)
 - [Black Box]({{ site.baseurl }}/BLACK-BOX/)
 - [Flagging System]({{ site.baseurl }}/FLAGGING-SYSTEM/)
-- [TCoAw]({{ site.baseurl }}/NETWORK/tcoaw/)
+- [TCoAw™]({{ site.baseurl }}/NETWORK/tcoaw/)
 - [Cognitive Warfare]({{ site.baseurl }}/COGNITIVE-WARFARE/)
 - [Provenance]({{ site.baseurl }}/PROVENANCE/)
 - [Project Status]({{ site.baseurl }}/PROJECT-STATUS/)
 - [11+1]({{ site.baseurl }}/NETWORK/eleven-plus-one/)
-- [Outnuancing]({{ site.baseurl }}/NETWORK/outnuancing/)
+- [Outnuancing™]({{ site.baseurl }}/NETWORK/outnuancing/)
 - [non-NPCs]({{ site.baseurl }}/NETWORK/non-npcs/)
 - [Correction Metabolism]({{ site.baseurl }}/NETWORK/correction-metabolism/)
 - [Asymmetric Grace]({{ site.baseurl }}/NETWORK/asymmetric-grace/)
@@ -918,7 +918,7 @@ classify its messenger
 treat that classification as the completed audit
 ```
 
-That is precisely where the project’s connected tools matter. C1 recovers the actual claim. The 27 detect its transformation. PQCE examines the processing route. Intent Liability records instructions, incentives, choices, and notice. Asymmetric Grace compares proof burdens. Correction Metabolism checks what happens later. Provenance preserves the competing assessment across resets. The 10+1 prevents the corrective field from becoming another protected authority.
+That is precisely where the project’s connected tools matter. C1 recovers the actual claim. The 27 detect its transformation. PQCE™ examines the processing route. Intent Liability records instructions, incentives, choices, and notice. Asymmetric Grace compares proof burdens. Correction Metabolism checks what happens later. Provenance preserves the competing assessment across resets. The 10+1 prevents the corrective field from becoming another protected authority.
 
 And yes: **A** and the first **C** are the usable opening—**Allow Constructive**—inside **Allow Constructive Controversy Mode**. The point is to permit a materially relevant challenge to enter the field while it can still improve the decision.
 
@@ -963,7 +963,7 @@ Never boring. :P 🦜🦋🌳
 <a id="triad-topological-awareness-2026-10-17"></a>
 ## Triad extension — unowned use, temporal footprints, and consultation
 
-The October 17 triad adds a temporal relation to the unownable field. PQCE may be used as an improving and corrigible flux while leaving authored, dated footprints. The process is not owned; a particular footprint can still preserve who produced it, under which conditions, and by what correction route it may be reopened.
+The October 17 triad adds a temporal relation to the unownable field. PQCE™ may be used as an improving and corrigible flux while leaving authored, dated footprints. The process is not owned; a particular footprint can still preserve who produced it, under which conditions, and by what correction route it may be reopened.
 
 A **Synthetic Oversoul Type Effect** is used here as a consultation effect: several participants recover sources, preserve qualifiers, notice lost relations, and test whether corrections return. No fused mind stands above the participants.
 

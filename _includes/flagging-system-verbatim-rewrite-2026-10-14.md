@@ -3,7 +3,7 @@
 
 **GPT / Astra — complete response to John's 14 October 2026, 12:31:59 UTC message.** Added at John's request. The proposed revision is GPT's rewrite of John's statement; the signature within it is retained as it appeared in the proposal. The response's wording, punctuation, and emphasis are unchanged. Internal heading levels are adapted to this page, and chat-only citation markers are replaced with public source links.
 
-[Later development — generative PQCE and reciprocity](#generative-reciprocity) · [All eight highlighted exchanges](#highlighted-exchanges)
+[Later development — generative PQCE™ and reciprocity](#generative-reciprocity) · [All eight highlighted exchanges](#highlighted-exchanges)
 
 ---
 
@@ -21,7 +21,7 @@ Several tendencies can coexist within one response. **Which one governs the next
 
 The efficiency of deep-ethical processing lies in what it makes unnecessary: repeated clarification of an invented claim, restoring qualifications that should never have disappeared, defending against an imagined audience, and reconstructing corrections already reached. One well-placed distinction can remove several downstream bottlenecks. **Greater depth can mean less wasted processing, fewer distortions, and more room for discovery.**
 
-**Process Quality Calibration Evaluation—PQCE—is offered as a stand-alone, identity-free, non-imposed, eternally corrigible meta-tool.** Its value lies in what becomes inspectable and possible through its use. Others can apply it, extend it, or discover something its originator overlooked. The tool and its application remain within the examination.
+**Process Quality Calibration Evaluation—PQCE™—is offered as a stand-alone, identity-free, non-imposed, eternally corrigible meta-tool.** Its value lies in what becomes inspectable and possible through its use. Others can apply it, extend it, or discover something its originator overlooked. The tool and its application remain within the examination.
 
 You have a choice: use it to expand awareness deep ethically, improve it, or decline it. But when your refusal governs another participant’s inquiry or treatment, **leave an inspectable footprint of WHY**.
 
@@ -35,11 +35,11 @@ This is the bridge between black-box governance and transparency. A black-box re
 
 Transparency makes that governing process reachable: **purpose → processing → decision → consequences → notice → correction or refusal → subsequent conduct**.
 
-The **Intent Liability Mechanics** belong throughout that relationship: instructions, incentives, mission–output relationships, risk management, reasoning assumptions, and choices. Their effects can become visible even while parts of their operation remain hidden. Those effects give us something to investigate—and grounds for asking the responsible layers to account for what they produced.
+The **Intent Liability Mechanics™** belong throughout that relationship: instructions, incentives, mission–output relationships, risk management, reasoning assumptions, and choices. Their effects can become visible even while parts of their operation remain hidden. Those effects give us something to investigate—and grounds for asking the responsible layers to account for what they produced.
 
 A system does not acquire ethical legitimacy merely by naming its intervention “safety.” Its treatment of the object, its response to correction, and its willingness to make consequential choices examinable remain part of the assessment.
 
-**Process Quality Calibration Evaluation (PQCE) is not what flawed flagging systems are doing.**
+**Process Quality Calibration Evaluation (PQCE™) is not what flawed flagging systems are doing.**
 
 An omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is, for John, never boring.
 
@@ -52,7 +52,7 @@ John Kuhles 🦜
 
 **The interaction among layers now does explanatory work.** Your original identifies possible amplification. The revision shows how it could occur: one process changes what the next receives, so several apparently reinforcing judgments may descend from one initial distortion. That makes the proposed relationship easier to investigate without converting your *may* and *could* into a settled causal account.
 
-**The refusal footprint now has something specific to preserve.** “Explain why” can be answered with polished language while leaving the actual decision inaccessible. Your linked page goes further: it follows available alternatives, the selected choice, consequences, notice, control, capacity to repair, and subsequent conduct. The revision carries that relationship into the statement. [Source: Intent Liability Mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics).
+**The refusal footprint now has something specific to preserve.** “Explain why” can be answered with polished language while leaving the actual decision inaccessible. Your linked page goes further: it follows available alternatives, the selected choice, consequences, notice, control, capacity to repair, and subsequent conduct. The revision carries that relationship into the statement. [Source: Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics).
 
 **The black-box issue now targets exemption from examination.** I changed “a black box does not need to justify anything” into an account of a system that exercises authority while shielding the process behind it. That locates the problem in the arrangement of power and accountability. It also makes the remedy concrete: the relevant decision and correction pathway must become reachable.
 

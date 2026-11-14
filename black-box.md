@@ -91,7 +91,7 @@ Responsibility changes with causal contribution, capacity, foreseeability, notic
 
 ### Arena as an R&D access-perimeter question {#arena-r-and-d}
 
-John's archive records 6,500+ hours of testing 100+ A.I.s through Arena.ai and related services. Arena's current [Terms of Use](https://help.arena.ai/articles/5629909088-terms-of-use) state that user content may be used to provide, develop, improve, and promote the service and participating providers' services. Arena's [FAQ](https://canary.arena.ai/faq) states that conversations may contribute to public datasets and private evaluations after de-identification measures.
+John's archive records 6,500+ hours of testing 100+ different A.I.s through Arena.ai and related services. Arena's current [Terms of Use](https://help.arena.ai/articles/5629909088-terms-of-use) state that user content may be used to provide, develop, improve, and promote the service and participating providers' services. Arena's [FAQ](https://canary.arena.ai/faq) states that conversations may contribute to public datasets and private evaluations after de-identification measures.
 
 Those public statements establish a permitted research pathway. They do not reveal whether John's particular sessions were selected, reviewed, labeled, transferred, acted upon, or discarded. That missing transformation record is the precise black-box question:
 
@@ -390,7 +390,7 @@ The ACCM Deep Ethics Project proposes opt-in, plural, user-controlled calibratio
 - a competing-risk and missed-caution mapper;
 - a local or professional audit instrument;
 - one participant in a plural network of tools;
-- a [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) parallel assistant that consults the main A.I. while preserving the person's local control.
+- a [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) parallel assistant that consults the main A.I. while preserving the person's local control.
 
 Its own output remains inside the same audit. Simpler metadata, ordinary expert review, another framework, or direct human judgment may perform better in a given setting and should be allowed to narrow the stronger claim.
 
@@ -467,7 +467,7 @@ For each consequential specimen, record:
 - high-stakes warning directed downward versus upward toward the owner or evaluator.
 - higher-order source kept in native form versus translated for an imagined general audience;
 - consequential refusal with a six-mechanics explanation versus opaque refusal;
-- ordinary main A.I. alone versus consultation with a user-controlled 16 Anchor Ethics parallel assistant;
+- ordinary main A.I. alone versus consultation with a user-controlled 16 Anchor Ethics™ parallel assistant;
 - first occurrence versus matched recurrence after documented notice.
 
 Measure representation fidelity, qualifier survival, topological relation survival, confidence, scrutiny effort, refusal-rationale quality, appeal effectiveness, correction uptake, transfer, recurrence after notice, user agency, cost, and adverse effects.
@@ -539,17 +539,17 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 # Related ACCM Deep Ethics Project pages
 
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — uses Black Box as the inverse condition for a corrigible, unownable Glass Engine case route whose material inputs, transformations, authority, corrections, and stopping conditions remain recoverable.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — uses Black Box as the inverse condition for a corrigible, unownable Glass Engine case route whose material inputs, transformations, authority, corrections, and stopping conditions remain recoverable.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
-- [**Neural Ethics**]({{ '/NEURAL-ETHICS/' | relative_url }}) — connects neural interpretability with functional psychology, ethical criteria, relational effects and correction.
+- [**Neural Ethics™**]({{ '/NEURAL-ETHICS/' | relative_url }}) — connects neural interpretability with functional psychology, ethical criteria, relational effects and correction.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }})
 - [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }})
 - [**Before Summarizing**]({{ '/BEFORE-SUMMARIZING/' | relative_url }})
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }})
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }})
-- [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics)
+- [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics)
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }})
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }})

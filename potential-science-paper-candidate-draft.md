@@ -345,9 +345,9 @@ That right means:
 - uncertainty does not automatically transfer the full burden to the less powerful party;
 - rejection should be based on the assessment's merits rather than its institutional inconvenience.
 
-This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) converge.
+This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) converge.
 
-Meta Processing examines what happened between instructions, processing, and effects. The 1888 property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
+Meta Processing examines what happened between instructions, processing, and effects. The 1888 property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism™ prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
 
 ### Falsely flagged, later vindicated
 
@@ -394,7 +394,7 @@ Forgiveness of unsupported malicious-intent attribution does not mean exemption 
 
 ### Intent Liability supplies the responsibility bridge
 
-The [**6 Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) provide a more precise way to study responsibility without pretending to possess direct access to private motive.
+The [**6 Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) provide a more precise way to study responsibility without pretending to possess direct access to private motive.
 
 In this project, **intent liability** means an auditable responsibility relationship between an intended purpose and what that purpose helps generate through instructions, incentives, choices, consequences, feedback, and later conduct.
 

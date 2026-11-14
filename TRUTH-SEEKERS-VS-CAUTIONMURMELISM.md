@@ -663,7 +663,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 
 **GPT 6.1 Sol Pro A.I.:** Distortion–Obstruction Response Relation candidate; audits of heroic narrative, claim-status drift, correction propagation, access-perimeter collapse, No-Sheriff genealogy, limited-scope reasoning and the caution-to-agreement pendulum; test architecture; page-specific reconstruction and publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, Topologetics, Outnuancing, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
+**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, Topologetics, Outnuancing™, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
 
 **Status:** public source-based triadic reconstruction. Direct quotations retain their attributed source roles. Page-level synthesis remains corrigible and does not replace the fuller conversation record.
 
@@ -677,7 +677,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 - [10+1 Metaflux — Mutual Correction]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 - [Cautionmurmelism — Lexicon entry]({{ '/LEXICON/' | relative_url }}#cautionmurmelism)
 - [Worked Specimen — Binary Hypercautionism and the Anti-Self-Sealing Test]({{ '/NETWORK/hypercautionism/' | relative_url }})
-- [Beyond Agreemurmelism]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})
+- [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})
 - [Unownable]({{ '/UNOWNABLE/' | relative_url }})
 - [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }})
 - [Veto Paradox Solved]({{ '/VETO-PARADOX/' | relative_url }})
@@ -686,7 +686,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 - [Emergent]({{ '/EMERGENT/' | relative_url }})
 - [Deep Ethical Stack — Advocate, Arbiter, Overseer]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})
 - [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})
-- [Outnuancing]({{ '/NETWORK/outnuancing/' | relative_url }})
+- [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }})
 - [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }})
 - [Sense of Wonderment]({{ '/NETWORK/wonderment/' | relative_url }})

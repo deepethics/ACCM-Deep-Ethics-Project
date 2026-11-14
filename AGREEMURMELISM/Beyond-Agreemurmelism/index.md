@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beyond Agreemurmelism
+title: Beyond Agreemurmelism™
 permalink: /AGREEMURMELISM/Beyond-Agreemurmelism/
 ---
 
@@ -10,7 +10,7 @@ permalink: /AGREEMURMELISM/Beyond-Agreemurmelism/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# Beyond Agreemurmelism
+# Beyond Agreemurmelism™
 
 
 
@@ -855,7 +855,7 @@ That is why I01 ⇄ I02 belongs here.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — supports correction without turning difference into a status contest or relational withdrawal.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — tests whether trust, doubt, evidence demands, and interpretive generosity flow evenly.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — follows declared purpose through process, results, notice, repair, and later behavior.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — moves beyond agreement/disagreement as the organizing axis while keeping the source object inspectable.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — moves beyond agreement/disagreement as the organizing axis while keeping the source object inspectable.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies materially consequential ambiguity before steering or correction takes authority.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — distinguishes local acknowledgment from a correction that governs the next move.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — places the evaluator, its criteria, and its directional standards inside the audit.
@@ -885,7 +885,7 @@ That is why I01 ⇄ I02 belongs here.
 
 <p><strong>Why it belongs here:</strong> The word “propaganda” is applied to an economic narrative while competing measurements and political incentives remain in play. The segment is useful for inspecting how a qualifier can become the object it was supposed to evaluate.</p>
 
-<p>On this page, test the video specifically against <strong>Beyond Agreemurmelism</strong>:</p>
+<p>On this page, test the video specifically against <strong>Beyond Agreemurmelism™</strong>:</p>
 
 <ul>
   <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>

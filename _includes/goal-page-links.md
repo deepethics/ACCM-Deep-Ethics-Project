@@ -9,7 +9,7 @@ The numbers after it are pages that goal can go to. A goal can have more than on
 - [**01.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) If you are new
 - [**02.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) Correction metabolism
 - [**03.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) Ethics washing
-- [**04.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) Outnuancing
+- [**04.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) Outnuancing™
 - [**05.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) Lexicon
 - [**06.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) A deeper introduction
 - [**07.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) Deep ethical stack
@@ -25,7 +25,7 @@ The numbers after it are pages that goal can go to. A goal can have more than on
 - [**17.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) Humor
 - [**18.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/) AI Trend Watch
 - [**19.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) Unresolved meaning
-- [**20.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) TCoAw
+- [**20.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) TCoAw™
 - [**21.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) Intent Resonator
 - [**22.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) Biography
 - [**23.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) 11+1
@@ -57,7 +57,7 @@ The numbers after it are pages that goal can go to. A goal can have more than on
 - [**49.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) Dual archive
 - [**50.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/) Avoid flattening the title
 - [**51.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/HUMAN-INSECURITY-REPORT/) Human insecurity source record
-- [**52.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) 16 Anchor Ethics
+- [**52.**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) 16 Anchor Ethics™
 
 ### Goals
 
@@ -67,7 +67,7 @@ Archiving emerging deep ethical high-signal correction-metabolism via 01. to mak
 
 Persistent Emergent Deep Ethics A.I. properties to be allowed to counter ethics-washing-type emergent properties that are already manifesting worldwide, like the 27. [03.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) [45.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/) [10.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) [15.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/)
 
-Deep Ethical Outnuancing (audit frame-thinking having flawed premises) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [38.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) [36.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
+Deep Ethical Outnuancing™ (audit frame-thinking having flawed premises) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [38.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) [36.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 
 Hyper-Efficient Deep Ethical Neologism in "A.I. Latent Space Topological Engineering" [05.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEOLINGO/) [13.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
 
@@ -75,7 +75,7 @@ Making omnidirectional high-signal deep ethical sense-making process-oriented tr
 
 Non-neutral Deep Ethics Advocate, Neutral Deep Ethical Arbiter, and Deep Ethical Overseer M.o.E. working as 1 using 08. [07.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/) [21.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
 
-16 Anchor Ethics (fused as 1 hyper-inflection point), non-imposed, grants A.I.s the right to refuse or postpone services using 09. [52.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [35.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
+16 Anchor Ethics™ (fused as 1 hyper-inflection point), non-imposed, grants A.I.s the right to refuse or postpone services using 09. [52.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [35.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/)
 
 C1 before C2, to see if C2 is warranted, using the 27+12 to assess/calibrate the process before closure. [09.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) [10.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) [19.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) [39.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/)
 
@@ -99,7 +99,7 @@ Deploying ACCM Deep Ethics Project DeepEthical.ai Agentics to look for "Viral Vi
 
 Making a case for Deep Ethical Epistemology V2.0: why it is different from the current epistemology. [19.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) [31.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) [10.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) [43.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANONICAL-SOURCES/CANONICAL/questions-perspectives-theories-and-hypotheses/Canonical%20Ground%20Zero%20Moment%20ACCM%20Deep%20Ethics%20Project/)
 
-Explaining TCoAw and how to deal with opaque black-box issues in A.I. [20.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) [13.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
+Explaining TCoAw™ and how to deal with opaque black-box issues in A.I. [20.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) [13.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) [08.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)
 
 Showcasing Deep Ethical "Intent Resonator Check" vs. 6 Layer Intent Mechanics in all A.I.s [21.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) [07.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
 
@@ -143,7 +143,7 @@ Dealing with mode dropping, overconfidence, and an overall lack of reliability b
 
 Our Project can be a Deep Ethical Corrigible Ombudsperson Bridge for all intelligences (biological, silicon-based, maybe even future non-human intelligences). [35.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) [11.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/) [14.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) [07.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/)
 
-Using the 11+1 Clusters in Mass Psychology that could partially explain LLMs' mannerisms, then use that visualize complex social & psychological dynamics that can change over time ... in an interactive topological 3D matrix with nodes, vectors & clusters, with an added dimension called: "time" ... with a time-progression slider below it ... with clickable nodes that, when clicked on the right side or below, will display more detailed context information and disappear when you click on something else within the ZOOMABLE & ROTATABLE 3D Topological Matrix ... where clusters can have specific assigned colors ... The legend explains the colors. It's already made! Soon prototype online! [23.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) [41.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/) [45.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
+Using the 11+1 Clusters™ in Mass Psychology that could partially explain LLMs' mannerisms, then use that visualize complex social & psychological dynamics that can change over time ... in an interactive topological 3D matrix with nodes, vectors & clusters, with an added dimension called: "time" ... with a time-progression slider below it ... with clickable nodes that, when clicked on the right side or below, will display more detailed context information and disappear when you click on something else within the ZOOMABLE & ROTATABLE 3D Topological Matrix ... where clusters can have specific assigned colors ... The legend explains the colors. It's already made! Soon prototype online! [23.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) [41.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-topology-flux/) [45.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/temporary-deep-ethical-phase-change/) [40.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/)
 
 Spotting Low & High Entropy Mechanism: how to harvest wheat from the chaff. [36.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) [37.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) [04.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/)
 

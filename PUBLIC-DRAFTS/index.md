@@ -21,6 +21,6 @@ permalink: /PUBLIC-DRAFTS/
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — demonstrates a portable draft whose audit is examined by the same standard.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — makes source-to-draft transformations and losses visible.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — separates readable public synthesis from the record required to inspect it.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — contains connected source-based public syntheses with stable addresses.
+- [**Outnuancing™ Network**]({{ '/NETWORK/index/' | relative_url }}) — contains connected source-based public syntheses with stable addresses.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — preserves the sources and transformation records behind public drafts.
 - [**Project Status**]({{ '/PROJECT-STATUS/' | relative_url }}) — explains how BETA, DRAFT, experimental, and provisional materials should be read.

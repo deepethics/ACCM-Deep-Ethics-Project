@@ -513,7 +513,7 @@ That includes early warnings that may later be vindicated, but it must also incl
 
 I am especially interested in developing a distinct field of research around a question whose value and usefulness can be tested: **vindicated competing-risk assessments that were falsely flagged by other risk assessments, whose categories then entered policy, moderation, media, and authoritative computer models without equivalent deep-ethical accountability.**
 
-Its value is assessed through what it makes more inspectable, comparable, correctable, and discoverable—an orientation developed in [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/). Both independent and official assessments produce risks, and both must remain inspectable.
+Its value is assessed through what it makes more inspectable, comparable, correctable, and discoverable—an orientation developed in [Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/). Both independent and official assessments produce risks, and both must remain inspectable.
 
 ## What I ask from readers
 
@@ -631,7 +631,7 @@ The resulting public formulation is:
 ## Related pages
 
 - [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — develops John’s autodidact path through psychology, mass psychology, LLM mannerisms, and metapsychology.
-- [**TCoAw**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John’s perspective on how his NDE and Asperger sides work together in conceptual topological reasoning.
+- [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John’s perspective on how his NDE and Asperger sides work together in conceptual topological reasoning.
 - [**John’s Process Object**]({{ '/NETWORK/john-process-object/' | relative_url }}) — makes the interaction among mirroring, baseline ingredients, humor, and correction inspectable.
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — follows the lived development process from source preservation into public architecture.
 - [**Human Insecurity, LLMs, Psychology & Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects individual psychology, mass psychology, fear, conformity, and model behavior.

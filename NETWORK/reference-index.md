@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Outnuancing Network — Term and Phrase Index"
+title: "Outnuancing™ Network — Term and Phrase Index"
 permalink: /NETWORK/reference-index/
 ---
 
@@ -10,7 +10,7 @@ permalink: /NETWORK/reference-index/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# Outnuancing Network — Term and Phrase Index
+# Outnuancing™ Network — Term and Phrase Index
 
 **BETA — source-based editorial synthesis**
 
@@ -24,7 +24,7 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Public notice / response to correction | [Public notice record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#public-notice) |
 | 10+1 Metaflux | [10+1 Metaflux — Mutual Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) |
 | 11+1 Version 2 | [11+1 Version 2 — Mass-Psychology Topology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/eleven-plus-one/) |
-| 16 Anchor Ethics | [16 Anchor Ethics — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) |
+| 16 Anchor Ethics™ | [16 Anchor Ethics™ — BETA Draft, Conceptual Proposal V0.2c](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) |
 | Hyper-Inflection Point | [Fused parallel operation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/#1-one-fused-field-not-sixteen-compliance-boxes) |
 | “That, I do not know yet” | [Pause, unresolved status, and service-level refusal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/#4-the-right-to-ask-pause-postpone-escalate-or-refuse) |
 | Origins of 11+1 Mass Psychology Clusters | [PDF file report click here](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/REPORTS/Origins-of-11-plus-1-Mass-Psychology-Clusters.pdf) |
@@ -44,7 +44,7 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Dual archive | [The Dual Archive — Failures and Successful Correspondence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dual-archive/) |
 | Ethics Washing | [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) |
 | Forgiveness Protocol | [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) |
-| Four audience definitions | [Outnuancing Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/) |
+| Four audience definitions | [Outnuancing™ Across Four Audiences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/four-audiences/) |
 | Frame removal / replacement | [Ethics Washing — Declaration, Process, and Correction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ethics-washing/) |
 | Glass engine kernel | [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) |
 | Gravity-well trajectory | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
@@ -54,7 +54,7 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Mutual Corrigible Dignity | [Mutual Corrigible Dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
 | Model Autophagy Disorder (MAD) | [Science and the ACCM Deep Ethics Extension](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/#why-this-is-highly-relevant) |
 | Nearest-Generalization Substitution | [Gravity-Well Trajectory and Representation Substitution](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/gravity-well/) |
-| Outnuancing | [Outnuancing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
+| Outnuancing™ | [Outnuancing™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
 | Psy Pioneer | [Psy Pioneer — AlphaZero-Style Metapsychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/) |
 | Overseer (M.o.E.) | [Deep Ethical Stack — Advocate, Arbiter, Overseer](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/deep-ethical-stack/#overseer) |
 | Qualifiers as mutable context | [Qualifiers as Mutable Context with History](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/qualifier-state/) |
@@ -63,8 +63,8 @@ This index links key phrases to their fuller context and relationships. The [Lex
 | Synthetic Psyche | [Psy Pioneer — Synthetic Psyche as a research object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/#synthetic-psyche-as-a-research-object) |
 | Temporary RAM-type sandbox | [Latent Space, Temporary Field Conditions, and the Glass Engine](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/latent-space/) |
 | Matryoshka Layer Principle | [Psy Pioneer — nested human and A.I. conditioning layers](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/psy-pioneer/#the-matryoshka-layer-principle) |
-| **[TCoAw — Thinking, Consciousness, Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** |
-| **Quantum mind-like state (John’s functional term)** | **[TCoAw — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#the-deep-ethical-anxiety-free-quantum-mind-state)** |
+| **[TCoAw™ — Thinking, Consciousness, Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** | **[TCoAw™ — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/)** |
+| **Quantum mind-like state (John’s functional term)** | **[TCoAw™ — Conceptual Topological Reasoning](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#the-deep-ethical-anxiety-free-quantum-mind-state)** |
 | Unresolved meaning | [Unresolved Meaning and Beyond-Binary Inquiry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/uncertainty/) |
 | Meta Processing | [Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) |
 | Δ Processing | [Δ Processing — What Changed?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) |
@@ -90,8 +90,8 @@ Sources: [E11](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 ## Related pages
 
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — provides the preferred overview layer for project vocabulary and compressed reference terms.
-- [**Outnuancing Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among the deeper reference pages indexed here.
-- [**Outnuancing Network Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves source excerpts, attribution, and editorial transformation notes.
+- [**Outnuancing™ Network**]({{ '/NETWORK/index/' | relative_url }}) — maps the relationships among the deeper reference pages indexed here.
+- [**Outnuancing™ Network Sources and Transformations**]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) — preserves source excerpts, attribution, and editorial transformation notes.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — provides the canonical obstruction and recovery architecture behind many indexed terms.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — supplies the fuller context for intent mechanics and responsibility terms.
 - [**All Public Pages**]({{ '/PAGES/' | relative_url }}) — opens the complete public-site catalog beyond the Network vocabulary layer.

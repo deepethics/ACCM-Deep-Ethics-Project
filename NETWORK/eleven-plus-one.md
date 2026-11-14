@@ -215,7 +215,7 @@ Do not complete the architecture rhetorically.
 - [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects individual insecurity, conformity, LLM mannerisms, and recursive correction dynamics with the cluster topology.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — applies population-scale cognitive operations and classification power to the wider architecture.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects cluster placement and risk interpretation from intervention before clarification.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the topology open to frame examination rather than treating its current organization as final.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the topology open to frame examination rather than treating its current organization as final.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — remains a distinct mutually corrective calibration process rather than another mass-psychology cluster.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tracks whether later evidence changes item placement, claim status, or the governing map.
 - [**G42 — Visualize the 11+1 Mass-Psychology Clusters**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — preserves the interactive visualization goal for nodes, vectors, clusters, time, context, and legend.

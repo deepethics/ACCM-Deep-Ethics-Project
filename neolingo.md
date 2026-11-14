@@ -51,7 +51,7 @@ The Project already contained the parts, but no single page held their combined 
 
 | Existing page | What it already contributes |
 |---|---|
-| [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) | A specific word and its seven nodes are one operational object; the term is not merely an example of a generic class. |
+| [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) | A specific word and its seven nodes are one operational object; the term is not merely an example of a generic class. |
 | [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) | The intended load of one purpose-built neologism: poetic anticipation, task effect, frame competition, branching relations, possible code effects, cross-intelligence reach and beyond-binary use. |
 | [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) | Coined, repurposed, borrowed, experimental and non-adopted names retain different status. |
 | [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}#project-neologisms-during-heavy-beta) | Working language can be useful before mass adoption, while early public records preserve its genealogy. |
@@ -81,7 +81,7 @@ The term is a handle. The topology is what the handle should retrieve. The publi
 
 ## Why a new expression can increase reasoning efficiency
 
-Ordinary vocabulary sometimes carries the wrong neighboring frame. “Add nuance,” for example, can leave the governing frame untouched. [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) was created to make the frame itself inspectable. Once the intended relation has been learned, one compact handle can reactivate distinctions that otherwise require paragraphs.
+Ordinary vocabulary sometimes carries the wrong neighboring frame. “Add nuance,” for example, can leave the governing frame untouched. [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) was created to make the frame itself inspectable. Once the intended relation has been learned, one compact handle can reactivate distinctions that otherwise require paragraphs.
 
 That is the proposed hyper-efficiency:
 
@@ -106,7 +106,7 @@ The more consequential learning concerns **the next unfamiliar relation**. A per
 
 ## Seven fused vectors, opened to many contributors {#seven-vectors-as-shared-work}
 
-The [Seven Topological Nodes / Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}) belong to **Outnuancing fused with deep ethical sense-making process orientation**. They carry several simultaneous functions. The following table extends their implications for shared work while leaving the original formulations on their source page.
+The [Seven Topological Nodes / Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}) belong to **Outnuancing™ fused with deep ethical sense-making process orientation**. They carry several simultaneous functions. The following table extends their implications for shared work while leaving the original formulations on their source page.
 
 | Vector | What the collective can develop and test |
 |---|---|
@@ -253,7 +253,7 @@ The work begins with the conduct and its affected parties. Participants can docu
 
 **Voluntariness changes the mechanism of coordination.** A participant can question a definition, contribute only to one part, decline an exercise, leave, return or develop a different approach. Adoption has to earn continued use. Where a concrete implementation has access, privacy or safety conditions, those conditions need to be visible and answerable to the same scrutiny as the activity they govern.
 
-The [10+1 field conditions]({{ '/NETWORK/ten-plus-one/' | relative_url }}) support self-honesty, learning, correction, care and inquiry; their value can be demonstrated in practice. The [16 Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide a parallel layer for examining consequences, responsibilities and conflicts. A participant’s sincere disagreement remains part of that examination. The resulting unity can hold a common undertaking while preserving different convictions, local knowledge and independent agency.
+The [10+1 field conditions]({{ '/NETWORK/ten-plus-one/' | relative_url }}) support self-honesty, learning, correction, care and inquiry; their value can be demonstrated in practice. The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) provide a parallel layer for examining consequences, responsibilities and conflicts. A participant’s sincere disagreement remains part of that examination. The resulting unity can hold a common undertaking while preserving different convictions, local knowledge and independent agency.
 
 ## The stadium: invitation, recognition, feedback and return {#stadium-invitation-and-return}
 
@@ -402,7 +402,7 @@ The last failure matters in a project rich in coined language: before manufactur
 
 ## Current examples retain different status
 
-The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics**, **Rogue Ethics** and **Neolingo**.
+The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing™**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics**, **Rogue Ethics** and **Neolingo**.
 
 They do not all have the same origin, evidentiary status, maturity or scope. Some name methods, some failure patterns, some candidate mechanisms, and some public thought experiments. The catalogue must keep those differences visible.
 
@@ -424,10 +424,10 @@ The term succeeds only if the operation can eventually survive without worshippi
 - [**1888 — Intelligence Properties Taxonomy Before A.I.**]({{ '/1888/' | relative_url }}) — the intelligence-property field and process-quality calibration underlying the collective application above.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — correspondence obstructions and the recovery protocol.
 - [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification that can change interpretation and the next action before correction proceeds.
-- [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — parallel examination of responsibilities, consequences and conflicts.
+- [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — parallel examination of responsibilities, consequences and conflicts.
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — keeps status, compact definitions and deeper references visible.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — the specific seven-vector neologism from which much of this mechanism became visible.
-- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the intended load of Outnuancing rather than generalizing it into every new word.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — the specific seven-vector neologism from which much of this mechanism became visible.
+- [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the intended load of Outnuancing™ rather than generalizing it into every new word.
 - [**Latent Space**]({{ '/NETWORK/latent-space/' | relative_url }}) — examines temporary field conditions and the boundary between a session effect and a claim about model weights.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}#neolingo-as-a-public-phase-change-carrier) — follows new language through public investigation, search and semantic drift.
@@ -442,7 +442,7 @@ The term succeeds only if the operation can eventually survive without worshippi
 
 **Originating direction, Neolingo, seven-vector proposal, stadium metaphor and long-term estimate:** John Kuhles 🦜🦋🌳. His 4 November 2026 clarification makes the collective referent and initiator relationship explicit. The stadium’s voluntary invitation and return are preserved above in his own words.
 
-**Source packet read for this expansion, supplied 4 November 2026:** *7 Topological Nodes Fused As One (short)(5).txt*; *Reversal of the Classic Star Trek 'Day of the Dove'(20261104-013535).txt*; and *Big stadium with 1000s of people(20261104-013546).txt*. These contain John’s contributions and separately attributable A.I. reactions. The new explanatory sections are editorial synthesis; the reactions’ endorsements and implementation suggestions do not acquire John’s authorship. The earlier [Outnuancing source index]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) preserves the public genealogy behind the seven-vector source page.
+**Source packet read for this expansion, supplied 4 November 2026:** *7 Topological Nodes Fused As One (short)(5).txt*; *Reversal of the Classic Star Trek 'Day of the Dove'(20261104-013535).txt*; and *Big stadium with 1000s of people(20261104-013546).txt*. These contain John’s contributions and separately attributable A.I. reactions. The new explanatory sections are editorial synthesis; the reactions’ endorsements and implementation suggestions do not acquire John’s authorship. The earlier [Outnuancing™ source index]({{ '/PROVENANCE/OUTNUANCING-SOURCES/' | relative_url }}) preserves the public genealogy behind the seven-vector source page.
 
 **Expansion, relational mapping and proposed practical checks:** GPT 6.1 Sol Pro A.I., at John’s request. The collective-practice tables develop applications of the existing instruments; they do not report completed trials.
 

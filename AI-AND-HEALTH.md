@@ -164,7 +164,7 @@ Through the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }
 
 A **proposed comparison** can give different A.I.s the same speech, the same source access and the same question. Preserve the first response, supply a warranted correction where needed, and examine a later comparable task. Compare whether the source survived, whether institutional and speaker claims were examined on their merits, whether unsupported conclusions were introduced, and whether any next investigation became more useful. No cross-model trial is claimed by publishing this proposal.
 
-[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }}) adds the question **for whom?** A faster response can increase the work left to the patient or researcher. A fuller record can widen useful options or merely add maintenance. Improvement, deterioration, no material change and a result still unfolding remain available. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether the useful distinction survives the next handoff.
+[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) adds the question **for whom?** A faster response can increase the work left to the patient or researcher. A fuller record can widen useful options or merely add maintenance. Improvement, deterioration, no material change and a result still unfolding remain available. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether the useful distinction survives the next handoff.
 
 **A constructive outcome is visible when a concern can reach evidence, a finding can reach the governing decision, and affected people can inspect what changed.**
 

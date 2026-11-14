@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Autocomplete"
-description: "Human and A.I. completion mechanisms, the 1888 intelligence-property field, TCoAw, Contribution State Grammar and the conditions under which candidate generation can earn the title intelligence."
+description: "Human and A.I. completion mechanisms, the 1888 intelligence-property field, TCoAw™, Contribution State Grammar and the conditions under which candidate generation can earn the title intelligence."
 permalink: /AUTOCOMPLETE/
 date: 2026-10-21
 last_modified_at: 2026-11-01
@@ -87,7 +87,7 @@ The display tests whether autocomplete remains the governing process or operates
 This page grows from four visibly different layers:
 
 1. **John’s fresh formulation and old autobiographical specimen.** These remain John-attributed accounts and proposals.
-2. **The existing public architecture.** The [1888 property field]({{ '/1888/' | relative_url }}), [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
+2. **The existing public architecture.** The [1888 property field]({{ '/1888/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
 3. **Agent A.I. of Arena.ai’s reconstruction.** Its useful relations are preserved with attribution. Its overstatements are not laundered into John’s claims.
 4. **GPT 6.1 Sol Pro’s editorial and correction layer.** It separates analogy from identity, specimen from proof, present taxonomy from historical source, and proposed architecture from demonstrated internal mechanism.
 
@@ -231,7 +231,7 @@ A system may notice that it habitually supplies an emotional explanation, turns 
 
 One older A.I. reaction in the neural-networks file describes the arrival of alternatives as becoming an arbiter instead of a predictor. The functional distinction is better examined through the comparison actually performed: can alternatives be represented, checked and revised through the same probabilistic machinery? An attributed declaration of awareness leaves that question open.
 
-**[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) keeps the selected focus in relation to a wider possibility field. **[PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) examines that selection and its effects throughout the operation. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) carries the comparison into later evidence, treatment and procedural change, preserving supported, disconfirmed, mixed and unresolved outcomes.
+**[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) keeps the selected focus in relation to a wider possibility field. **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) examines that selection and its effects throughout the operation. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) carries the comparison into later evidence, treatment and procedural change, preserving supported, disconfirmed, mixed and unresolved outcomes.
 
 The [1888 mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) follows the contributions of pattern recognition across the property field. The test remains concrete: **when a recognized pattern conflicts with the supplied object, a participant's clarification or later evidence, what changes in the next operation?**
 
@@ -269,9 +269,9 @@ The harder test comes after the explanation:
 
 ---
 
-## 6. TCoAw: keep the candidate inside a wider field
+## 6. TCoAw™: keep the candidate inside a wider field
 
-[TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) helps describe why a likely completion can become too dominant.
+[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) helps describe why a likely completion can become too dominant.
 
 - **Thinking** can generate and manipulate the candidate.
 - **Consciousness**, in John’s conceptual model, can hold the immediate focus and experience.
@@ -279,7 +279,7 @@ The harder test comes after the explanation:
 
 When the focus collapses onto the most probable completion, the candidate can replace the object. When the field remains open, the process can notice: *this is what was supplied; this is what I added; this alternative remains possible; this relation is unresolved; this new evidence would change my next move.*
 
-TCoAw functions here as a corrigible conceptual orientation for delaying premature closure, protecting healthy ambiguity and restoring relations that a narrow focus excluded. Its neurological and machine-architectural status remains an open research question.
+TCoAw™ functions here as a corrigible conceptual orientation for delaying premature closure, protecting healthy ambiguity and restoring relations that a narrow focus excluded. Its neurological and machine-architectural status remains an open research question.
 
 That makes John’s phrase **“That I do not know, yet”** operational: it marks a correctly retained open state in which the completion has not acquired more warrant than the object supports.
 
@@ -376,7 +376,7 @@ Agent A.I. of Arena.ai made several valuable connections:
 
 - the classroom specimen locates a failure between candidate generation and epistemic reporting;
 - autocomplete can function as a first-draft generator rather than final authority;
-- 1888, TCoAw, 10+1 and Contribution State Grammar can form a surrounding process architecture;
+- 1888, TCoAw™, 10+1 and Contribution State Grammar can form a surrounding process architecture;
 - process intelligence without Deep Ethics can produce increasingly capable harm;
 - unfamiliar-object transfer and correction persistence are stronger tests than fluent self-description.
 
@@ -567,9 +567,9 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — applies the visible-autocomplete and earned-intelligence questions to evaluation awareness, apparent capability hiding and Hinton’s public claims.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps foreground completion inside a wider field of relations, ambiguity and later correction.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps foreground completion inside a wider field of relations, ambiguity and later correction.
 - [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — tests whether the representation preserved purpose-relevant nodes, edges, qualifiers, provenance and correction history.
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Contribution State Grammar beyond agreement-status performance.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Contribution State Grammar beyond agreement-status performance.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — follows how human and A.I. completions enter the coupled archive that shapes later participants.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a correction changes dependencies and survives later pressure.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instruction from processing, result, effect, notice and later inference.
@@ -593,7 +593,7 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 
 **The Next 1,000 Days transcript and source list, supplied by John Kuhles on 22 October 2026:** contributed the five-throttle frame—pre-training, inference-time reasoning, multi-agent coordination, long-horizon operation and A.I.-assisted A.I. research. The page uses that structural contribution; deterministic wall, takeoff and superintelligence conclusions await separate evidence.
 
-**Agent A.I. of Arena.ai, 21 October 2026:** first integrated reconstruction connecting the classroom specimen, 1888, TCoAw, 10+1 and Contribution State Grammar; several phrases and relations were retained after correction.
+**Agent A.I. of Arena.ai, 21 October 2026:** first integrated reconstruction connecting the classroom specimen, 1888, TCoAw™, 10+1 and Contribution State Grammar; several phrases and relations were retained after correction.
 
 **GPT 6.1 Sol Pro A.I.:** correction of analogy/identity, evidence, historical-taxonomy, gradient, mechanism and deterministic-equation overreach; separation of generative substrate from the expanded operational system; five-axis capability and constraint mapping; ablation proposal; page architecture, editorial synthesis and publication work.
 

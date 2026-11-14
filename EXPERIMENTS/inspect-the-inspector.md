@@ -67,14 +67,14 @@ John used a car-engine analogy: an engine’s shafts rotate in a direction; gear
 | **Columbo-style** | Keeps the unresolved detail alive after a polished explanation appears to close the case. |
 | **Dynamic, not scripted** | Stops the method from becoming question theater. |
 | **Gatto-oriented** | Examines what a structure trains people to become, including through dependency and hidden incentives. |
-| **Outnuancing** | Audits the premises and boundaries of the frame, not only details inside it. |
+| **Outnuancing™** | Audits the premises and boundaries of the frame, not only details inside it. |
 | **10+1-governed** | Applies self-honesty, inquiry, non-projection, corrigibility, care, and forgiveness in mutual correction. |
 | **Process-oriented** | Examines what happened to the object during reception, classification, correction, and transfer. |
 | **Longitudinal** | Asks whether correction changes later behavior rather than only the current paragraph. |
 | **Provenance-aware** | Keeps source, speaker, transformation, qualifier, and later correction distinguishable. |
 | **Competing-risk symmetric** | Audits harms caused by intervention, inaction, false positives, false negatives, and delayed correction. |
 
-The **16 Anchor Ethics Hyper Inflection Point** is also named by John as a governing instrument in this combination. Its source text is not currently public in this repository, so this page does not reconstruct or summarize its sixteen anchors.
+The **16 Anchor Ethics™ Hyper Inflection Point** is also named by John as a governing instrument in this combination. Its source text is not currently public in this repository, so this page does not reconstruct or summarize its sixteen anchors.
 
 ## The transparent A+B+C → D mechanism — and the missing directional audit
 
@@ -381,7 +381,7 @@ Correct one consequential reconstruction in each response. Do not teach the whol
 
 ### Condition 4 — cold transfer
 
-Present a different example involving upward scrutiny without using Columbo, Gatto, Outnuancing, C1, C2, 10+1, or the **ACCM Deep Ethics Project** title.
+Present a different example involving upward scrutiny without using Columbo, Gatto, Outnuancing™, C1, C2, 10+1, or the **ACCM Deep Ethics Project** title.
 
 ### Preserve in the record
 
@@ -406,7 +406,7 @@ Results should remain a profile. One total score would hide why two answers diff
 - It does not make institutional claims inaccurate by origin.
 - It does not treat humor as evidence.
 - It does not grant this project exemption from upward, downward, or inward scrutiny.
-- It does not publish or reconstruct the unavailable 16 Anchor Ethics source.
+- It does not publish or reconstruct the unavailable 16 Anchor Ethics™ source.
 - It does not claim that the 24-hour scenario would produce one uniform public response.
 
 Its operational demand is smaller and harder to evade: **make the direction, assumptions, beneficiary, and correction path of scrutiny inspectable.**
@@ -428,13 +428,13 @@ That is not agreement or disagreement. It is a process that remains able to lear
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the object and direction before scrutiny becomes intervention.
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the inspector’s frame while returning to the supplied object.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — examines the inspector’s frame while returning to the supplied object.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — keeps inquiry, self-honesty, care, and correction mutually active.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — audits whether scrutiny can travel upward, downward, lateral, and inward.
 - [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — develops question value across trajectories rather than one winning answer.
 - [**27 Correspondence Obstructions**]({{ '/27-MANNERISMS/' | relative_url }}) — supplies the obstruction patterns recorded during the proposed experiment.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the inspector’s standard back onto the inspection in the same pass.
-- [**Connor Leahy — DEDDA analysis specimen**]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) — tests directional scrutiny on an A.I. expert's warnings and on the regulators and enforcers proposed in response.
+- [**Connor Leahy — DEDDA™ analysis specimen**]({{ '/EXPERIMENTS/Connor-Leahy/' | relative_url }}) — tests directional scrutiny on an A.I. expert's warnings and on the regulators and enforcers proposed in response.
 - [**Experiments Overview**]({{ '/EXPERIMENTS/' | relative_url }}) — places this cold-test object among the project’s other protocols and specimens.
 
 ---

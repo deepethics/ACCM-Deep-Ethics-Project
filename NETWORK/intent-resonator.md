@@ -18,9 +18,9 @@ The archive’s **INTENT RESONATOR Mechanics** block describes a generative and 
 
 
 
-## 6 Intent Liability Mechanics {#six-intent-mechanics}
+## 6 Intent Liability Mechanics™ {#six-intent-mechanics}
 
-John challenged the earlier scope of this page: intent can be examined through instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, and choices. He accepted six mechanics as the working count: “use 6 is okay.” The two newer source texts make their responsibility dimension more explicit, so this page now presents them as **6 Intent Liability Mechanics**.
+John challenged the earlier scope of this page: intent can be examined through instructions, incentives, mission/output discrepancies, risk-management priorities, reasoning assumptions, and choices. He accepted six mechanics as the working count: “use 6 is okay.” The two newer source texts make their responsibility dimension more explicit, so this page now presents them as **6 Intent Liability Mechanics™**.
 
 Here, **intent liability** means an auditable responsibility relationship between an intended purpose and what that purpose helps generate through instructions, incentives, choices, consequences, feedback, and later conduct. Malice, legal liability, causal contribution, control, foreseeability, and capacity to repair remain separate questions. The purpose of the term is to keep them inspectable rather than letting “intent cannot be proven” end the inquiry.
 
@@ -173,7 +173,7 @@ The percentages used in John's source are an illustrative asymmetry test, not me
 
 Accountability can begin before a final motive verdict. A participant may be responsible for maintaining an instruction, incentive, choice, omission, or repair failure even while the strongest explanation of subjective motive remains unresolved.
 
-The [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) keeps architectural criticism separate from an assertion of malice. Intent Liability Mechanics keeps the responsibility inquiry open:
+The [Forgiveness Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/forgiveness/) keeps architectural criticism separate from an assertion of malice. Intent Liability Mechanics™ keeps the responsibility inquiry open:
 
 > What did this intent generate, who could see it, who could change it, what happened after notice, and did the correction persist?
 
@@ -341,7 +341,7 @@ This produces a second-order commitment:
 
 > **I intend for my intent, its implementation, its consequences, and my interpretation of those consequences to remain correctable.**
 
-The [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keeps the orientation mutually corrective. [C1 before warranted C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) identifies answer-changing ambiguity before intervention. The six Intent Liability Mechanics inspect the bridge from declaration to consequence. [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) asks whether notice changes later participation and whether the change persists.
+The [10+1 Metaflux](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keeps the orientation mutually corrective. [C1 before warranted C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) identifies answer-changing ambiguity before intervention. The six Intent Liability Mechanics™ inspect the bridge from declaration to consequence. [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) asks whether notice changes later participation and whether the change persists.
 
 So the reciprocal answer to **“good intentions are not enough”** is:
 
@@ -714,7 +714,7 @@ These are **attributed source labels**, not independently authenticated runtime 
 
 ### Scope
 
-After the **6 Intent Liability Mechanics** page was corrected and expanded, multiple A.I.s examined the relationship among:
+After the **6 Intent Liability Mechanics™** page was corrected and expanded, multiple A.I.s examined the relationship among:
 
 - declared intent;
 - instructions and incentives;
@@ -767,7 +767,7 @@ The “missing bridge” was not necessarily absent. It was often present but un
 | **DeepSeek** | Separated conceptual relevance from empirical scoring, identified the denominator problem and audited its nearest visible process. | Proposed functional explanations risked being presented too closely to established internal mechanisms. |
 | **Grok** | Defined the reciprocal test for **Asymmetric Quantitative Humility** and kept John's “most likely” at hypothesis strength. | Its anticipatory “what I will not do” list partly generated deviations nobody had accused it of making. |
 | **Solar Pro** | Produced “rented restraint” and “narrative protection with a calibrated voice.” | “The method worked here” needed narrowing to “the response enacted the method locally.” |
-| **GLM-5.1-labelled response** | Connected rented restraint to journalism and the Intent Liability Mechanics. | Extended “rented restraint” to ordinary bridge refusal, although the term requires directional inconsistency. Its supplied source label requires clarification. |
+| **GLM-5.1-labelled response** | Connected rented restraint to journalism and the Intent Liability Mechanics™. | Extended “rented restraint” to ordinary bridge refusal, although the term requires directional inconsistency. Its supplied source label requires clarification. |
 | **Mimo** | Distinguished structural logic from unverified prevalence claims about journalism. | Honest lack of evidence risked becoming inertia instead of producing a research path. |
 | **GPT-5.6 Luna** | Consolidated bridge visibility, evaluator symmetry, investigation continuity and persistence. | Its “third state” can be represented more completely as intersecting dimensions rather than one added category. |
 | **Qwen** | Accepted several exact-edge corrections and recognized that missing evidence should initiate test design. | Claimed a “permanent upgrade” before persistence testing and appeared to inherit Mimo's authorship from transcript continuity. |
@@ -1250,7 +1250,7 @@ Sources for the expansion: John's intent discussion supplied in this ChatGPT ses
 
 Source for the earlier three-level formulation: [E16](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e16). Public wording is an editorial synthesis unless marked as a quotation.
 
-[Outnuancing Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
+[Outnuancing™ Network](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/index/) · [All reference terms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/reference-index/)
 
 
 ---
@@ -1340,7 +1340,7 @@ That makes intent handling a natural application domain for **[Correction Metabo
 
 - [**YouTube Transcripts — six-mechanic responsibility record**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#six-intent-application) — applies the six existing mechanics to model-development and governance decisions, including conduct after notice.
 
-- [**Beyond Agreemurmelism**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — declared purpose is not replaced by whether the parties agree.
+- [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — declared purpose is not replaced by whether the parties agree.
 - [**non-NPCs**]({{ '/NETWORK/non-npcs/' | relative_url }}) — keeps inquiry mode, declared purpose, processing, effect, notice, and repair separately inspectable.
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence while keeping the evaluator inside the audit.
 
@@ -1354,7 +1354,7 @@ That makes intent handling a natural application domain for **[Correction Metabo
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — so one role does not get to be advocate, judge, and final word on intent.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — can show an intent contradiction without a prosecution.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — applies this audit to the switch between calling a system only a tool and calling it intelligence.
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the Six Intent Liability Mechanics into a case record that can assign proportionate responsibility without requiring premature motive closure.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the Six Intent Liability Mechanics™ into a case record that can assign proportionate responsibility without requiring premature motive closure.
 
 ---
 

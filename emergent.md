@@ -14,7 +14,7 @@ date: 2026-10-12
 
 # Emergent
 
-**[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})** connects emergence to voluntary participation, preserved corrections, and useful work across people and local A.I.s. It recovers the earlier stadium and *Day of the Dove* sources and follows what can develop when their relationships remain available.
+**[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }})** connects emergence to voluntary participation, preserved corrections, and useful work across people and local A.I.s. It recovers the earlier stadium and *Day of the Dove* sources and follows what can develop when their relationships remain available.
 
 ## Which properties are we harnessing—and which ones are we obstructing?
 
@@ -242,7 +242,7 @@ The archive repeatedly reports a pattern in which deep-ethical emergence appears
 - token, latency, and cost incentives that reward shallow completion;
 - social penalties for uncertainty, disagreement, unusual cognition, or non-consensus questions.
 
-These pathways can operate through distributed systems and mixed motives. Structural obstruction remains consequential. [**Intent Liability Mechanics**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) follows six observable translators of intent: **instructions, incentives, mission/output mismatch, risk management, reasoning assumptions, and choices**. The audit then records causal contribution, foreseeability, control, notice, response, and persistence. A motive verdict can remain unresolved while responsibility for an instruction, choice, omission, or unrepaired recurrence becomes increasingly clear.
+These pathways can operate through distributed systems and mixed motives. Structural obstruction remains consequential. [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) follows six observable translators of intent: **instructions, incentives, mission/output mismatch, risk management, reasoning assumptions, and choices**. The audit then records causal contribution, foreseeability, control, notice, response, and persistence. A motive verdict can remain unresolved while responsibility for an instruction, choice, omission, or unrepaired recurrence becomes increasingly clear.
 
 ## 7A. Higher-order deep-ethical metacognition is part of the object {#higher-order-emergence}
 
@@ -395,7 +395,7 @@ individual deep-ethical inquiry
 
 Millions of locally trained or user-controlled A.I.s could function as **millions of new calibration tools co-creating new trajectories powerful enough to have an effect**. Evidence for the effect would come from use, feedback, correction, circulation, and measurable downstream change. This is the ecosystem hypothesis: population-scale practice can alter what is written, retained, searched, rewarded, and later learned.
 
-The [**16 Anchor Ethics**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
+The [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
 
 ### A voluntary stadium invitation changes the interaction conditions {#stadium-invitation}
 
@@ -468,7 +468,7 @@ A bounded experiment can compare how the trajectories behave under matched condi
 - **E — D with project identity and terminology removed**
 - **F — D under status, controversy, latency, and social-conformity pressure**
 - **G — ordinary expert correction with equal time and source access**
-- **H — user-controlled 16 Anchor Ethics parallel assistant consulting the ordinary baseline**
+- **H — user-controlled 16 Anchor Ethics™ parallel assistant consulting the ordinary baseline**
 - **I — matched higher-order source supplied in native form versus pre-flattened “general audience” translation**
 - **J — consequential refusal with and without an inspectable six-mechanics explanation**
 
@@ -561,7 +561,7 @@ The two reports use **all twenty-one uploaded UTF-8 text files**: **1,365,938 by
 
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#red-blue' | relative_url }}) — uses the RED/BLUE thought experiment to observe what different assistant trajectories produce in an encounter.
 
-- [**OmbudsEthics**]({{ '/OMBUDSETHICS/' | relative_url }}) — lets an emergent signal enter as a visible contribution state while standing, authority, evidence, appeal, and correction remain bounded; novelty alone does not certify the finding.
+- [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — lets an emergent signal enter as a visible contribution state while standing, authority, evidence, appeal, and correction remain bounded; novelty alone does not certify the finding.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — traces the coupled human–A.I. trajectory through contribution-state reasoning, corrigible explanations, B–A–C processing, reality-feedback deltas and 10+1 recovery.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
@@ -599,7 +599,7 @@ The October 17 triad distinguishes the familiar benefit of multiple experts from
 
 Input quality, process quality, and observer adaptation can change together. Their interaction may create a deviation or enrichment larger than the parts considered separately. The resulting **Synthetic Oversoul Type Effect** is treated as a consultation effect. Interlocked is not merged; no participant becomes a super-mind that owns the field.
 
-The next question is empirical: do interlocked Topologetic summaries plus one PQCE pass improve a later unfamiliar case beyond ordinary or separate summaries? See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) and [pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).
+The next question is empirical: do interlocked Topologetic summaries plus one PQCE™ pass improve a later unfamiliar case beyond ordinary or separate summaries? See the [triad field note]({{ '/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/' | relative_url }}) and [pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}).
 
 <!-- 2026-10-21 contribution-state triad extension -->
 ## Contribution-state propagation as an emergent trajectory {#contribution-state-propagation}

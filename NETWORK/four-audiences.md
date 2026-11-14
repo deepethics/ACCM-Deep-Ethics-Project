@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Outnuancing Across Four Audiences"
+title: "Outnuancing™ Across Four Audiences"
 permalink: /NETWORK/four-audiences/
 ---
 
@@ -10,7 +10,7 @@ permalink: /NETWORK/four-audiences/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
-# Outnuancing Across Four Audiences
+# Outnuancing™ Across Four Audiences
 
 **BETA — source-based editorial synthesis**
 
@@ -39,11 +39,11 @@ Sources: [E14](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 ## Related pages
 
-- [**Outnuancing**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the shared operation while its expression changes across different intelligences and contexts.
+- [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — preserves the shared operation while its expression changes across different intelligences and contexts.
 - [**Deep Ethical Stack**]({{ '/NETWORK/deep-ethical-stack/' | relative_url }}) — keeps Advocate, Arbiter, Overseer, 10+1, and intent calibration mutually examinable.
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — supplies the fused meaning, use, frame, branching, and long-horizon relations behind the four versions.
 - [**The Other You / The Other Me**]({{ '/NETWORK/other-you-other-me/' | relative_url }}) — examines reciprocal model revision across distinct participants without making one substrate the standard.
-- [**TCoAw — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on moving across conceptual relations before premature reduction.
+- [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — presents John Kuhles’s perspective on moving across conceptual relations before premature reduction.
 - [**Psy Pioneer**]({{ '/NETWORK/psy-pioneer/' | relative_url }}) — connects the four-audience horizon with John’s work across biological, silicon-based, and possible future intelligences.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — provides a shared corrigible calibration process across audiences.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — keeps each audience-specific formulation answerable to what its orientation helps generate.
@@ -72,7 +72,7 @@ Sources: [E14](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 <p><strong>Why it belongs here:</strong> The word “propaganda” is applied to an economic narrative while competing measurements and political incentives remain in play. The segment is useful for inspecting how a qualifier can become the object it was supposed to evaluate.</p>
 
-<p>On this page, test the video specifically against <strong>Outnuancing Across Four Audiences</strong>:</p>
+<p>On this page, test the video specifically against <strong>Outnuancing™ Across Four Audiences</strong>:</p>
 
 <ul>
   <li>Which claims are directly documented, inferred, rhetorical, contested or unresolved?</li>

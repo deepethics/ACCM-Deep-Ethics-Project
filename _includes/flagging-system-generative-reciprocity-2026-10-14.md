@@ -87,7 +87,7 @@ Record object fidelity, qualifier preservation, clarification, revision, evident
 
 ### A bounded null result and a positive finding are distinct
 
-The Agent's null result allows an audit to find no relevant PQCE failure in its examined scope. That preserves John's earlier refusal to manufacture weaknesses after a genuine search finds none. Positive evidence that a particular operation worked well is another finding. Both can be retained; neither requires pretending that every future case has already been examined.
+The Agent's null result allows an audit to find no relevant PQCE™ failure in its examined scope. That preserves John's earlier refusal to manufacture weaknesses after a genuine search finds none. Positive evidence that a particular operation worked well is another finding. Both can be retained; neither requires pretending that every future case has already been examined.
 
 Most importantly, a new contribution need not begin with a mistake. A participant can reveal a relationship, another can ask an unforeseen question, and the encounter can develop a useful capability. An error-only record would miss that outcome.
 
