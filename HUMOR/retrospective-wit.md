@@ -1,6 +1,6 @@
 ## Retrospective wit — the mutual joy of improving {#retrospective-wit}
 
-John Kuhles calls it **retrospective wit**: the punchline makes you look back at how you understood the setup. His formula describes why a sense of humor can be a key to Deep Ethics. The willingness to learn is what lets the discovery improve the listener, the joke-teller, or both.
+John Kuhles calls it **retrospective wit**: the punchline makes you look back at how you understood the setup. His **formula** describes why a sense of humor can be a key to Deep Ethics. The mutual joy of improving depends on a willingness to learn, improve, and expand awareness in a naturally deep-ethical way. Either person can bring something into view and be changed by what they discover together. Without that openness, a shared laugh alone does not make the improving mutual.
 
 1. **Postpone judgment.** Let the setup remain open. See **[Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})** page.
 2. **Have the patience to wait for the punchline.** Give the relationship time to become visible.
