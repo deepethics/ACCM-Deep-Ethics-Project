@@ -10,6 +10,14 @@ John Kuhles calls it **retrospective wit**: the punchline makes you look back at
 6. **Let your own partial miss come into view.** The joke can lay bare an unchecked “looks like” or “sounds like”—including yours.
 7. **Keep the counter-wit open to the joke-teller.** The joke is meant to have fun with the insight and leave the inquiry open. The people involved do not have to stay in fixed roles as the clever one and the one being corrected.
 
+### Less is more when the explanation is one click away {#small-unsolved-mystery}
+
+John keeps the link in point 4 short on purpose. The sentence tells you what TCoAw™ helps you notice, so you can follow the point without stopping. If the name makes you wonder what it means, one click takes you to the explanation. Spelling it out immediately would solve the little mystery before you had a chance to feel curious about it.
+
+John uses **™** as part of that playful invitation when he introduces a concept he considers distinctive, novel, or unusually rare. It draws attention to the name; in this use, it is not a declaration of registration or proof of originality. A reader might take it as an official claim, and John can clarify how he meant it.
+
+The choice works when the short version gives you enough to keep reading, and the link gives you an easy way to expand it on your own terms. Like a joke’s setup, it leaves something open for a moment. If what’s missing is essential to understanding the point, say it directly. The fun is in giving curiosity room, not making the reader work for the basics.
+
 ### “I did not searched John :P”
 
 GPT first said it did not know how many people had brought the elements of John's formula together so explicitly. John teased it with the narrower question of what is publicly findable through multiple search engines. GPT refined the scope and acknowledged it had not run the comparison, then explained how to vary search terms. John's punchline put the plain admission in GPT's own voice:
