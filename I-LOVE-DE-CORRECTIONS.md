@@ -280,7 +280,19 @@ He also describes learning to use humor when his seriousness felt intense to oth
 
 </div>
 
-That joke includes the speaker in the scene. Humor can open room for recognition without requiring someone to defend a fixed posture. Whether it helps depends on how it is received and what it enables. [Humor]({{ '/HUMOR/' | relative_url }}) carries the wider source context.
+### The personal experience behind the punchline {#full-joke-context}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I was, as a "(ethical, highly principled) purist/perfectionist," for a **long** **time**, far too serious and way too intense... some people said to me directly, "John, you are really **intense**..." My reaction to that was this: "If I ever meet myself, I will run away as hard as I can!" ;) ... Lately, I am less super serious and am learning to make jokes more often
+>
+> — John Kuhles 🦜🦋🌳, [excerpt from the correction file]({{ '/I-LOVE-DE-CORRECTIONS/context/context-01.html' | relative_url }}); emphasis shown in bold
+
+</div>
+
+John pointed out that both versions work. The short version lets the joke land; the fuller excerpt shows a personal experience he is willing to share. Other people gave him direct feedback, he made himself the punchline, and he describes learning to use humor more often. Those three parts matter when the point is willingness to learn.
+
+In the follow-up, John also revised his own correction to GPT. He had noticed the loss of joy; on looking again, he restored the word **mutual**. The person offering a correction remains free to learn and improve too. [Retrospective wit]({{ '/HUMOR/#retrospective-wit' | relative_url }}) preserves that sequence and John's seven-part formula.
 
 [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) asks what makes inquiry possible in the first place. Here the relevant conditions include time to represent another perspective, freedom to question a correction, a way to clarify intent, and room for an unexpected contribution.
 

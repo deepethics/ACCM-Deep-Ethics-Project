@@ -10,6 +10,8 @@ permalink: /HUMOR/
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
 
+[**Retrospective wit — the mutual joy of improving**](#retrospective-wit) · 14 November 2026
+
 [**New playable exchange — Six digits, an ape, a hungry cat, and technical support from the future :P**](#same-states-mathematical-menagerie) · 2 November 2026
 
 [**🐈 🦍 Verbatim reply — Mathematical uses, topology and a possible Wikipedia contribution**](#same-states-mathematical-uses) · 2 November 2026
@@ -29,6 +31,8 @@ permalink: /HUMOR/
 [**New live exchange — Correction Applies for Parole 😂**](#contribution-state-parole) · 21 October 2026
 
 {% include_relative README.md %}
+
+{% include_relative retrospective-wit.md %}
 
 {% include_relative pqce-flags-the-flagger.md %}
 
