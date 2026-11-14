@@ -143,7 +143,7 @@ A correction can refine one topic, source route or membership while preserving t
 
 **This first batch demonstrates a transfer in progress.** The completed health-thread inventory, this developing disclosure inventory and any later comparative test retain their distinct coverage and results.
 
-[Project Avalon method showcase]({{ '/PROJECT-AVALON/' | relative_url }}) · [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Believism]({{ '/BELIEVISM/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})
+[Project Avalon method showcase]({{ '/PROJECT-AVALON/' | relative_url }}) · [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [Believism]({{ '/BELIEVISM/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})
 
 <section class="accm-independent-media-box" id="john-kuhles-nova-1996-x-post">
 

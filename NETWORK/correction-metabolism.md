@@ -295,5 +295,5 @@ John describes meritorious correction as something he can genuinely enjoy: diffe
 
 Both participants can be altered, then carry the repair—or a flattened version—into later conversations, prompts, pages, models and decisions. A **Deep Ethical Contribution State Grammar Vector Trajectory** asks what survived, which relation changed, which dependencies moved, whether transfer occurred, and whether the correction remained corrigible. Success is not spotless processing. It is visible, metabolized, transferable correction that can still be reopened.
 
-Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
 

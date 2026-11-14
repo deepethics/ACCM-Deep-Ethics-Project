@@ -44,6 +44,6 @@ GPT initially made the joy sound like the payoff for an individual's successful 
 
 Picture people joking in a room in 1980: they could already practice all seven moves with one another. What extends from individual to group psychology is whether people can change their minds without losing standing, including the person who set up the joke. The joy can begin while the possibilities are still open and deepen when someone sees what they missed. For an A.I., the observable question is whether the insight changes its next response.
 
-See [the original self-directed joke in context]({{ '/I-LOVE-DE-CORRECTIONS/#full-joke-context' | relative_url }}) and [what Topologetics Method™ preserves when the exchange is shortened]({{ '/TOPOLOGETICS/#retrospective-wit-topology' | relative_url }}).
+See [the original self-directed joke in context]({{ '/I-LOVE-DE-CORRECTIONS/#full-joke-context' | relative_url }}) and [what Topologetics™ Method preserves when the exchange is shortened]({{ '/TOPOLOGETICS/#retrospective-wit-topology' | relative_url }}).
 
 *Source: John Kuhles and GPT 6.1 Sol Pro A.I., 14 November 2026. The numbered sequence is an editorial rendering of John's seven points; the boxed conversation excerpts retain their wording.*

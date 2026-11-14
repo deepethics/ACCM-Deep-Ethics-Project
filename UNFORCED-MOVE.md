@@ -548,7 +548,7 @@ The complete seed is not pasted again here because the living page is its develo
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compare the input, process, observer adaptation, result, and later state.
 - [**Flagging System — PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates process quality, including what the process makes possible afterward, without converting a temporary pass into a permanent certificate.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability, local stopping conditions, and permanent reopenability.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserve the relations and available next moves inside a temporal signature.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserve the relations and available next moves inside a temporal signature.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether the relevant boundary returns with a contribution without capturing the next move or imposing obsolete restraint.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — correction and choice without degrading either participant.
 - [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — applies agency return to remedies, appeal, interim action, local stopping, and authorship of the consequential next move.

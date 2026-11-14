@@ -87,7 +87,7 @@ The display tests whether autocomplete remains the governing process or operates
 This page grows from four visibly different layers:
 
 1. **John’s fresh formulation and old autobiographical specimen.** These remain John-attributed accounts and proposals.
-2. **The existing public architecture.** The [1888 property field]({{ '/1888/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
+2. **The existing public architecture.** The [1888 property field]({{ '/1888/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
 3. **Agent A.I. of Arena.ai’s reconstruction.** Its useful relations are preserved with attribution. Its overstatements are not laundered into John’s claims.
 4. **GPT 6.1 Sol Pro’s editorial and correction layer.** It separates analogy from identity, specimen from proof, present taxonomy from historical source, and proposed architecture from demonstrated internal mechanism.
 
@@ -568,7 +568,7 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — applies the visible-autocomplete and earned-intelligence questions to evaluation awareness, apparent capability hiding and Hinton’s public claims.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps foreground completion inside a wider field of relations, ambiguity and later correction.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — tests whether the representation preserved purpose-relevant nodes, edges, qualifiers, provenance and correction history.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — tests whether the representation preserved purpose-relevant nodes, edges, qualifiers, provenance and correction history.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Contribution State Grammar beyond agreement-status performance.
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — follows how human and A.I. completions enter the coupled archive that shapes later participants.
 - [**Correction Metabolism and Persistence**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether a correction changes dependencies and survives later pressure.

@@ -231,7 +231,7 @@ That is how the stadium becomes a research process rather than a positivity exer
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — records successful correspondence and failures with the same provenance standard.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction governs a later comparable move.
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — examines temporary high-signal reorganizations, snap-back, and recovery.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
 - [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — asks whether assistance returns usable agency after clarity.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — applies the same scrutiny to source, model, evaluator, project, and audit.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — keeps source, speaker, transformation, claim status, and correction routes recoverable.

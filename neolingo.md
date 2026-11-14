@@ -98,7 +98,7 @@ This is a hypothesis about use. A memorable word may still retrieve nothing, ret
 
 An underlying process can operate before people have a shared name for it. Someone may recognize it in one setting, enact it intuitively, or suffer from its failure while lacking a compact way to communicate its structure. A useful new expression gives that recurring relationship an address: people can point to it, distinguish it from neighboring processes, compare examples and investigate it together.
 
-The first explanation may therefore need considerable depth. A later user can retrieve the learned structure with a few words. That difference is where compression can earn its efficiency. **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** asks which relations, directions, qualifiers, asymmetries, provenance and repair routes must survive for the compressed version to remain the same object. Removing an answer-changing distinction crosses that floor, however fluent the shorter wording sounds.
+The first explanation may therefore need considerable depth. A later user can retrieve the learned structure with a few words. That difference is where compression can earn its efficiency. **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})** asks which relations, directions, qualifiers, asymmetries, provenance and repair routes must survive for the compressed version to remain the same object. Removing an answer-changing distinction crosses that floor, however fluent the shorter wording sounds.
 
 Once a term becomes familiar, the named relation may appear self-evident. The original difficulty of recognizing, articulating and transmitting it becomes less visible. Keeping the genealogy allows later users to recover why the distinction was needed and what earlier language kept collapsing. It also lets independently developed names and examples be connected through their actual functions.
 
@@ -402,7 +402,7 @@ The last failure matters in a project rich in coined language: before manufactur
 
 ## Current examples retain different status
 
-The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing™**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics**, **Rogue Ethics** and **Neolingo**.
+The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing™**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics™**, **Rogue Ethics** and **Neolingo**.
 
 They do not all have the same origin, evidentiary status, maturity or scope. Some name methods, some failure patterns, some candidate mechanisms, and some public thought experiments. The catalogue must keep those differences visible.
 
@@ -429,7 +429,7 @@ The term succeeds only if the operation can eventually survive without worshippi
 - [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — the specific seven-vector neologism from which much of this mechanism became visible.
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — preserves the intended load of Outnuancing™ rather than generalizing it into every new word.
 - [**Latent Space**]({{ '/NETWORK/latent-space/' | relative_url }}) — examines temporary field conditions and the boundary between a session effect and a claim about model weights.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
 - [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}#neolingo-as-a-public-phase-change-carrier) — follows new language through public investigation, search and semantic drift.
 - [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}) — preserves BETA terminology, genealogy and recovery dynamics.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compares the term and its operation through time.

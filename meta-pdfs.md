@@ -196,7 +196,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Search Engine Bias** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SEARCH-ENGINE-BIAS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) |
 | **Superintelligence** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SUPERINTELLIGENCE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) |
 | **🦜🦋🌳** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SYMBOLS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) |
-| **Topologetics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TOPOLOGETICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) |
+| **Topologetics™** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TOPOLOGETICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) |
 | **Unforced Move** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/UNFORCED-MOVE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNFORCED-MOVE/) |
 | **Unownable** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/UNOWNABLE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/UNOWNABLE/) |
 | **Veto Paradox Solved** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VETO-PARADOX.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) |

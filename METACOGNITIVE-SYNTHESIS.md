@@ -56,7 +56,7 @@ These operations interlock. A faithful reconstruction can expose a new ethical c
 
 The project's use of **topological** concerns recoverable relational structure: nodes and edges, direction, conditions, ordering, provenance, consequences and routes of repair. A diagram can help represent this structure. A diagram alone supplies no mathematical proof that the representation is complete. Likewise, **metacognitive** here identifies observable monitoring and adjustment of processing. A convincing account of self-monitoring remains open to behavioral comparison.
 
-The existing [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) page examines processing applied to processing. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) examines faithful compression for a declared purpose. This page follows their joint into **construction**: how several sources or intelligences can produce a richer working object, inspect what the construction changed, and carry warranted corrections into use.
+The existing [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) page examines processing applied to processing. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) examines faithful compression for a declared purpose. This page follows their joint into **construction**: how several sources or intelligences can produce a richer working object, inspect what the construction changed, and carry warranted corrections into use.
 
 ### Integration can increase resolution
 
@@ -844,7 +844,7 @@ Reviewed 4 November 2026. These sources supply the specific comparisons describe
 ## Continue from the operation you need
 
 - [1888 — intelligence and process-quality calibration]({{ '/1888/' | relative_url }})
-- [Topologetics — the faithful compression floor]({{ '/TOPOLOGETICS/' | relative_url }})
+- [Topologetics™ — the faithful compression floor]({{ '/TOPOLOGETICS/' | relative_url }})
 - [Meta Processing — processing applied to processing]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [C1 before C2 — clarification and intervention]({{ '/NETWORK/c1-c2/' | relative_url }})
 - [27+12 — correspondence obstructions and recovery]({{ '/CORE/27-PLUS-12/' | relative_url }})

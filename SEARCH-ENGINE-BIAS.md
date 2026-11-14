@@ -219,7 +219,7 @@ For search, an adequate answer includes what became easy to see, what became har
 - [Deep]({{ '/DEEP/' | relative_url }}) — layered search fingerprints, relationships and operational depth.
 - [Flagging System-PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluation, projected incapacity and correction access.
 - [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — influence, classification, agency and public accountability.
-- [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving answer-changing relationships during summarization.
+- [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving answer-changing relationships during summarization.
 - **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) — a proposed participant-controlled source/representation comparison tool.
 - [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) — responsibility through instructions, choices, consequences and notice.
 - [All public pages]({{ '/PAGES/' | relative_url }}) — the wider project map.

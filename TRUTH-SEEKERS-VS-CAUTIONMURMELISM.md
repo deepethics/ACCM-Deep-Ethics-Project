@@ -663,7 +663,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 
 **GPT 6.1 Sol Pro A.I.:** Distortion–Obstruction Response Relation candidate; audits of heroic narrative, claim-status drift, correction propagation, access-perimeter collapse, No-Sheriff genealogy, limited-scope reasoning and the caution-to-agreement pendulum; test architecture; page-specific reconstruction and publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, Topologetics, Outnuancing™, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
+**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, Topologetics™, Outnuancing™, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
 
 **Status:** public source-based triadic reconstruction. Direct quotations retain their attributed source roles. Page-level synthesis remains corrigible and does not replace the fuller conversation record.
 
@@ -685,7 +685,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 - [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})
 - [Emergent]({{ '/EMERGENT/' | relative_url }})
 - [Deep Ethical Stack — Advocate, Arbiter, Overseer]({{ '/NETWORK/deep-ethical-stack/' | relative_url }})
-- [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})
+- [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})
 - [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }})
 - [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }})
@@ -714,4 +714,4 @@ The **Deep Ethical Contribution State Grammar Vector Trajectory** replaces the p
 
 *You corrected me; I agree; may I proceed?* can preserve permission hierarchy. Truth seeking keeps both participants answerable to the object and reality. Neither becomes flawless, subordinate or permanently certified.
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }})

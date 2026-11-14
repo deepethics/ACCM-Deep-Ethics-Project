@@ -213,7 +213,7 @@ Use **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector 
 
 A finding should change a specific next operation: correct a citation, withdraw an unsupported affiliation claim, open a funding question, revise a selection decision, retain a justified exclusion, repair an affected recommendation or record a proportionate no-change result. That gives the audit a practical stopping point while preserving a route to reopen it.
 
-Across time, **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) can follow what happened to the competing warning and the person who raised it. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the relationships needed to inspect that trajectory. An eventual correction matters partly through whether it reaches downstream classifications, affected people and the next comparable decision.
+Across time, **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) can follow what happened to the competing warning and the person who raised it. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the relationships needed to inspect that trajectory. An eventual correction matters partly through whether it reaches downstream classifications, affected people and the next comparable decision.
 
 ## Contribution and correction record {#contributions}
 

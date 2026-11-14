@@ -39,7 +39,7 @@ This page remembers **Iris van Rooijen** as a person, writer, interviewer, socia
 
 ## Before the project vocabulary
 
-Iris did not use the later vocabulary of the **ACCM Deep Ethics Project**. She did not co-author its 10+1, 27+12, C1–C2, Topologetics, Field Condition, or Correction Metabolism pages. She died before the project took its present form, and this page does not assign her posthumous agreement with every position John or the project now holds.
+Iris did not use the later vocabulary of the **ACCM Deep Ethics Project**. She did not co-author its 10+1, 27+12, C1–C2, Topologetics™, Field Condition, or Correction Metabolism pages. She died before the project took its present form, and this page does not assign her posthumous agreement with every position John or the project now holds.
 
 What survives does show a recognizable orientation. Iris described a long interest in subjects that received little attention in mainstream radio, newspapers, and television. She completed her education as a social worker in early 2011. John also remembers her sustained study of psychology and more than ten years of attention to alternative media. Her own introduction says that writing had long been close to her heart: before her social-work education she had worked for almost ten years as a secretary; during her studies she wrote extensively; afterward she recorded a person’s life story, interviewed people with lived experience, and wrote about psychosis.
 

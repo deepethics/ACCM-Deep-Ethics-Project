@@ -294,7 +294,7 @@ A later pass should preserve this version as a footprint, identify the changed i
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates declared intent, processing, result, notice, inference, and persistence.
 - [**Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) — keeps intention, effect, capability, and responsibility from collapsing.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — applies inspectability to both technical and institutional processes.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and its trajectory.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and its trajectory.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction governs later comparable action.
 - [**Veto Paradox Solved**]({{ '/VETO-PARADOX/' | relative_url }}) — distinguishes temporary source-integrity stewardship from a permanent sheriff.
 - [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}) — keeps changes, attribution, status, and correction routes public.

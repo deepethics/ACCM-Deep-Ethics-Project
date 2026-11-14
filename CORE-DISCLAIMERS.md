@@ -50,7 +50,7 @@ An object can be a person's statement, a scientific result, a proposed invention
 
 Use **ACCM Deep Ethics Project** as the public title. **ACCM** expands to **Allow Constructive Controversy Mode**. The expanded name identifies an invitation to constructive inquiry; the full project title preserves the Deep Ethics orientation. Describing the work as generic artificial-intelligence ethics, a controversy generator, a political faction, or a collection of unusual words loses different parts of the object.
 
-The linked [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), [10+1 ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), and [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) perform interacting jobs. A list of their names is an index into those jobs. Understanding requires recovering the relationships and testing their use.
+The linked [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), [10+1 ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) perform interacting jobs. A list of their names is an index into those jobs. Understanding requires recovering the relationships and testing their use.
 
 The project examines existing frameworks, its own methods, institutional conduct, independent claims, and A.I. assistance. Its particular origin and vocabulary can remain visible while the underlying operations are compared with work expressed in other vocabularies.
 
@@ -320,9 +320,9 @@ The [seven fused vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}) have t
 
 <a id="c20"></a>
 
-## C20. Topologetics preserves the relationships that change the answer
+## C20. Topologetics™ preserves the relationships that change the answer
 
-**Topologetics** names the project's purpose-sensitive faithful-compression work. A useful representation preserves the relevant nodes, edges, direction, qualifiers, provenance, asymmetries, thresholds, repair routes, and trajectory. Its compression floor is reached where another reduction would change the purpose-relevant object or next warranted move.
+**Topologetics™** names the project's purpose-sensitive faithful-compression work. A useful representation preserves the relevant nodes, edges, direction, qualifiers, provenance, asymmetries, thresholds, repair routes, and trajectory. Its compression floor is reached where another reduction would change the purpose-relevant object or next warranted move.
 
 “Topological” here concerns relational organization. Formal mathematical claims, geometrical models, neural mechanisms, or guarantees of invariance need their own definitions and evidence. The term is not a substitute for that work.
 
@@ -330,7 +330,7 @@ A summary can be shorter and faithful. A verbatim extract can mislead through se
 
 For a search description, preserving “non-imposing,” “corrigible,” “process-oriented,” or a conditional relationship can change what the reader thinks the project authorizes. These qualifiers do different work; exchanging them for a generic positive adjective can flatten the object even when the sentence remains fluent.
 
-**Recovery:** [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }}).
+**Recovery:** [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Expanding vs Flattening]({{ '/EXPANDING-VS-FLATTENING/' | relative_url }}).
 
 <a id="c21"></a>
 

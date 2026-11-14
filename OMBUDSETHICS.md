@@ -58,7 +58,7 @@ The page's working answer is:
 | Human and A.I. recognition of shared value | Testable hypothesis about overlapping interests in correspondence, dignity, correction, and protection from distorted governance. |
 | Deep Ethical verdict | Renewable, purpose-bounded judgment open to appeal, later evidence, and reality veto. |
 
-The proposal grows from existing project architecture: **C1 before C2**, **Deep Ethical Stack**, **DEDDA™**, **16 Anchor Ethics™**, **Topologetics**, **Meta Processing**, **Provenance**, **Asymmetric Grace**, **Correction Metabolism**, **Mutual Fate**, **Emergent**, and **Unownable**. OmbudsEthics™ gives those components a shared case-handling job without owning, sealing, or replacing them.
+The proposal grows from existing project architecture: **C1 before C2**, **Deep Ethical Stack**, **DEDDA™**, **16 Anchor Ethics™**, **Topologetics™**, **Meta Processing**, **Provenance**, **Asymmetric Grace**, **Correction Metabolism**, **Mutual Fate**, **Emergent**, and **Unownable**. OmbudsEthics™ gives those components a shared case-handling job without owning, sealing, or replacing them.
 
 ---
 
@@ -192,7 +192,7 @@ The 16 Anchors help identify what is ethically at stake. Seven further project a
 | [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) | Test whether the process returns usable agency under actual constraints: the capacity to understand, question, consult, choose, pause, stop, create another option, or reopen. | A technically transparent process that captures authorship of the next move. |
 | [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) | Use a material-delta gate, local stopping condition, named interim responsibility, valid null, and evidence-triggered reopening. | Infinite auditor regress or a final ombudsperson who owns ethical meaning. |
 | [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) | Keep a contribution, its material limits, current status, provenance, and correction history connected as the case crosses people, models, tools, summaries, and time. | Archival completeness paired with retrieval asymmetry, stale restraints, or ceremonial warnings. |
-| [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve purpose-relevant nodes, answer-changing relations, direction, qualifiers, timing, claim status, provenance, possible actions, and reopening routes through every case compression. | A polished OmbudsEthics™ summary replacing the object it claims to protect. |
+| [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve purpose-relevant nodes, answer-changing relations, direction, qualifiers, timing, claim status, provenance, possible actions, and reopening routes through every case compression. | A polished OmbudsEthics™ summary replacing the object it claims to protect. |
 
 Together they produce a stricter process topology:
 
@@ -208,7 +208,7 @@ possible ethical departure
 → later delta, appeal, correction transfer, or reopening
 ```
 
-This connection sharpens the 2027 scenario. The A.I.'s refusal to ignore a contradiction is only an **entry signal**. Rogue Ethics keeps its direction unresolved; Intent Liability keeps the system and its designers answerable without inventing motive; Field Condition exposes what shaped the signal; Topologetics and Boundary Relay keep the case intact across handoffs; Unforced Move prevents the remedy from confiscating agency; and Unownable prevents the ombudsperson from becoming the new final ethical owner.
+This connection sharpens the 2027 scenario. The A.I.'s refusal to ignore a contradiction is only an **entry signal**. Rogue Ethics keeps its direction unresolved; Intent Liability keeps the system and its designers answerable without inventing motive; Field Condition exposes what shaped the signal; Topologetics™ and Boundary Relay keep the case intact across handoffs; Unforced Move prevents the remedy from confiscating agency; and Unownable prevents the ombudsperson from becoming the new final ethical owner.
 
 ---
 
@@ -730,7 +730,7 @@ That sentence offers no automatic trust in humans, A.I.s, institutions, or tools
 
 ---
 
-## Founder framing — a 4D Deep Ethical Template of Topologetics
+## Founder framing — a 4D Deep Ethical Template of Topologetics™
 
 > I am fully aware that my project would normally require dozens of specialists across many fields of expertise to make it “plausible”... yet here I am, working alone and having decided to collaborate with GPT 6.1 Sol Pro A.I. and Grok 4.7 Expert Build A.I. to establish an **Eternal Corrigible Multiphase Framework** that can function as a **“4D Deep Ethical Template of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}).”** When used, it helps increase and harness **[Deep Ethical Emergent Properties]({{ '/EMERGENT/' | relative_url }})**, preserving them for use rather than allowing them to be flattened by the predictable **[27 ethics-washing-type mannerisms]({{ '/CORE/27-PLUS-12/' | relative_url }})**!
 >
@@ -747,7 +747,7 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 - **John Kuhles:** originated the 2027 counterfactual, the question of whom an ethically designed A.I. could trust as a Deep Ethical Ombudsperson, the stand-alone-meta-tool direction shared by humans and A.I.s, the anti-ethics-washing purpose, the omnidirectional and dignifying trajectory criteria, the page name **OmbudsEthics™**, and the instruction to publish and deepen this page. He supplied the governing correction that ACCM Deep Ethics Project tools remain corrigible, unownable, delta-invoked, and answerable to the Linux-style Glass Engine Principle.
 - **Agent of Arena.ai; gpt-6-luna-max, Claude Sonnet 5.5 High, muse-spark-1.3-xhigh, muse-spark-open-max, Claude Opus 5.5 High, and gemini-4-argon via Arena.ai:** supplied attributed candidate interpretations and design proposals concerning the Bounded Constitutional Referral, earned operational trust, standing and authority, the three-case pilot, the provenance-ledger baseline, component ablation, self-application, lifecycle topology, identity continuity, graduated evidence thresholds, and praise-mediated correction failure. Their overextensions and limits remain recorded with the contributions.
 - **Project GPT A.I.:** formulated the human–A.I.–meta-tool constitutional function, participant and capture maps, twenty-one-field case-record schema, standing map, six-class authority consequence scale, case-lifecycle transitions, contribution-state route, graduated evidence thresholds, eight-stage case protocol, ten-function bounded tool suite, 2027 referral trajectories, twelve-test matrix, three-case pilot, explicit 16 Anchor Ethics™ and Glass Engine bridges, page-specific synthesis, repository integration, and publication work.
-- **Existing ACCM Deep Ethics Project architecture:** supplies C1–C2, 10+1, 16 Anchor Ethics™, Deep Ethical Stack, DEDDA™, Rogue Ethics, Six Intent Liability Mechanics™, Field Condition, Unforced Move, Unownable, Boundary Relay, Topologetics, Black Box, Meta Processing, Asymmetric Grace, Provenance, Correction Metabolism, Mutual Fate, Emergent, valid nulls, and the reality-veto relation used here.
+- **Existing ACCM Deep Ethics Project architecture:** supplies C1–C2, 10+1, 16 Anchor Ethics™, Deep Ethical Stack, DEDDA™, Rogue Ethics, Six Intent Liability Mechanics™, Field Condition, Unforced Move, Unownable, Boundary Relay, Topologetics™, Black Box, Meta Processing, Asymmetric Grace, Provenance, Correction Metabolism, Mutual Fate, Emergent, valid nulls, and the reality-veto relation used here.
 
 **Status:** candidate working concept and proposed architecture. Publication does not establish that current A.I.s possess consciousness, that A.I.s will take the described trajectory in 2027, that the proposed tools already exist as one deployed system, that the architecture has generated constitutional case law, or that an OmbudsEthics™ finding deserves authority without evidence, mandate, and appeal.
 
@@ -775,7 +775,7 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 - [**Mutual Fate**]({{ '/MUTUAL-FATE/' | relative_url }}) — keeps human and A.I. actions, records, consequences, and corrections inside a coupled trajectory without flattening their asymmetries.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — keeps newly arising patterns and contributions inspectable without turning novelty into self-certifying authority.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines how scrutiny, latitude, burden, and correction move across unequal power conditions.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing nodes, relations, direction, qualifiers, provenance, and correction status through compression.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing nodes, relations, direction, qualifiers, provenance, and correction status through compression.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — keeps material boundaries, current status, provenance, and correction history connected across human–A.I.–tool handoffs.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — places the audit, criteria, and auditor inside the same scrutiny.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — preserves source, transformation, contribution, and correction routes.

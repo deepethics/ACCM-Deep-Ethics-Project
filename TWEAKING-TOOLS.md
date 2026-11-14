@@ -122,7 +122,7 @@ The following are **candidate app functions** derived from John's proposal. Each
 | “How can I question an A.I. answer constructively?” | Keep the actual answer and source together; help locate the changed qualifier, missing relation or unresolved meaning. | [27 obstructions + 12-stage inquiry]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) |
 | “What could this project contribute to the world?” | Walk through a concrete correction, show who could benefit and distinguish the proposed contribution from an observed outcome. | [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) |
 | “Which local tool could help with my task?” | Relate the participant's objective and available device to a small selection from this catalogue, with current source links. | [Candidate catalogue](#catalogue) · [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}) |
-| “I want to explore this more deeply.” | Prepare a participant-selected question and source packet for another local model, preserving the original object, uncertainty and corrections. | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [Herdr]({{ '/HERDR/' | relative_url }}) |
+| “I want to explore this more deeply.” | Prepare a participant-selected question and source packet for another local model, preserving the original object, uncertainty and corrections. | [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [Herdr]({{ '/HERDR/' | relative_url }}) |
 | “This explanation missed my point.” | Accept the correction, revise the relevant representation and test whether it changes a later comparable answer. | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) |
 
 An explanation can be accurate while the visitor's unfolding question remains open. **[Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }})** helps the companion state its present understanding, retain a relevant alternative and ask a useful question when the answer would change the next move. Questions earn their place through that contribution; the interface need not reserve a compulsory question at the end of every reply.
@@ -207,7 +207,7 @@ Supply a source, a representation that loses a material qualifier, and the corre
 
 ### Compression that preserves the relationship
 
-Compare ordinary input/output with the selected compression setting on the same task. Inspect sources, qualifiers, dependencies, failed paths and unanswered questions alongside token use and completion quality. A shorter output earns its saving when the purpose-relevant object survives and avoidable restoration work decreases. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) supplies the relationship-preservation question.
+Compare ordinary input/output with the selected compression setting on the same task. Inspect sources, qualifiers, dependencies, failed paths and unanswered questions alongside token use and completion quality. A shorter output earns its saving when the purpose-relevant object survives and avoidable restoration work decreases. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) supplies the relationship-preservation question.
 
 ### A governable agent action
 
@@ -251,7 +251,7 @@ Records can stay local and proportionate to the task. Participants decide what t
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) (Clarification Process before Contextual Intervention) — mutually corrective orientation and answer-changing clarification.
 - [**27 obstructions + 12-stage inquiry**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — inspect correspondence losses and the inquiry intended to interrupt them.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — bounded comparisons of sources, representations, permissions and correction return.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) · [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — preserve the relationship and test its later influence.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) · [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — preserve the relationship and test its later influence.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — evaluate a contribution by what it makes possible.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — reciprocal inspection, proportionality and bounded stopping.
 

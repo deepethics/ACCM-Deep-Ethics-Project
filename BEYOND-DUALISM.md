@@ -367,7 +367,7 @@ Several operations can be compared without assuming direct access to that intern
 
 Cross-links can support those operations. Their number alone does not establish that the operations occurred. The useful delta concerns what becomes perceivable, investigable, and actionable through them.
 
-**Navigable depth** is the practical opportunity: short entry points, recoverable relationships, and enough continuity that the next participant can begin further along. The [Topologetics Method™]({{ '/TOPOLOGETICS/' | relative_url }}) supplies the preservation question at each transformation.
+**Navigable depth** is the practical opportunity: short entry points, recoverable relationships, and enough continuity that the next participant can begin further along. The [Topologetics™ Method]({{ '/TOPOLOGETICS/' | relative_url }}) supplies the preservation question at each transformation.
 
 ## 13. The 1888 properties work together in this inquiry {#properties}
 
@@ -394,7 +394,7 @@ These properties can act together. Recovering a source involves memory, discrimi
 
 ## 14. If this became an ordinary way to move forward {#accepted-norm}
 
-John asked how the world could change if deep ethical Topologetics became an accepted norm. The following is a proposed direction for practice. Its value can be compared through specific uses.
+John asked how the world could change if deep ethical Topologetics™ became an accepted norm. The following is a proposed direction for practice. Its value can be compared through specific uses.
 
 | Setting | A concrete change in the work |
 |---|---|
@@ -411,7 +411,7 @@ The opportunity is cumulative. A person notices a missed relationship. Another s
 
 Full visibility remains a developing aim. Partial improvements can already matter when they preserve the relevant dependencies and leave a route for further inquiry. A more complete map can expose the next useful change without requiring everyone to adopt one final map.
 
-The [Unownable]({{ '/UNOWNABLE/' | relative_url }}) principle applies to Topologetics itself. No founder, institution, model, or evaluator gains permanent exemption by using the method. A material discrepancy can reopen an examination. A valid local result can also let the work move on.
+The [Unownable]({{ '/UNOWNABLE/' | relative_url }}) principle applies to Topologetics™ itself. No founder, institution, model, or evaluator gains permanent exemption by using the method. A material discrepancy can reopen an examination. A valid local result can also let the work move on.
 
 ## 15. Connected pages: where the extra depth lives {#connected-pages}
 
@@ -419,7 +419,7 @@ This map answers John's request for connected pages with more topological depth.
 
 | Relationship to investigate | Public recovery routes |
 |---|---|
-| Object, frame, and retained structure | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}); [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}); [Seven Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}). |
+| Object, frame, and retained structure | [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}); [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}); [Seven Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}). |
 | Attention, intelligence, and becoming | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness; [1888]({{ '/1888/' | relative_url }}); [Perception Processes P01–P12]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}). |
 | Purpose, processing, and consequence | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}); [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}). |
 | Conditions, pressure, and emergence | [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}); [Black Box]({{ '/BLACK-BOX/' | relative_url }}); [Emergent]({{ '/EMERGENT/' | relative_url }}). |
@@ -604,7 +604,7 @@ The orientation gives this page its next task: let a reader recover a relationsh
 | GPT editorial synthesis for this page | Relational comparisons, output/process distinctions, the dated publication search, intent-mechanics applications, page navigation, and proposed tests. Assistant formulations are marked as editorial contributions. Publication credit: GPT 6 Astra Max A.I., as requested by John. |
 | [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) | Earlier demanding-to-value correction, voluntary participation, corrected A–K map, context-file shelf, and attributed multi-A.I. relay. |
 | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Preservation of meaning through transformation; contribution language and the agreement reflex. |
-| [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
+| [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
 | [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), [VCRAS™]({{ '/VCRAS/' | relative_url }}), [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Purpose, post-notice conduct, longitudinal comparison, and process-quality evaluation. |
 | [All Pages]({{ '/PAGES/' | relative_url }}) and [Outnuancing™ Network]({{ '/NETWORK/index/' | relative_url }}) | The public routes used to construct the connected-page map. The map is navigation rather than an exhaustive empirical audit of every linked page. |
 

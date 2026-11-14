@@ -212,7 +212,7 @@ The response supplies usable content. The speaker can confirm the interpretation
 
 Later context can reorganize earlier meaning. An initially incidental detail may become central; an apparent contradiction may become the hinge of a comparison; a joke may reveal that the evaluator's assumption was part of its setup. **Retain the first interpretation, the arriving connection and the resulting revision separately.** That makes the change inspectable and preserves what was reasonably available earlier.
 
-This also clarifies the static/dynamic relationship explored on [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}): a retained account supplies a stable reference while new context changes how that account is understood and used. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) asks which relationships survive that transformation; [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows what the processing actually changes.
+This also clarifies the static/dynamic relationship explored on [DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }}): a retained account supplies a stable reference while new context changes how that account is understood and used. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) asks which relationships survive that transformation; [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows what the processing actually changes.
 
 ## Quality questions earn their place in the unfolding inquiry {#questions-and-patience}
 

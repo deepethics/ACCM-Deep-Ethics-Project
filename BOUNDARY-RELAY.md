@@ -558,7 +558,7 @@ first_local_specimen:
 
 ## Related pages
 
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through transformation and supplies the faithful-compression boundary.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through transformation and supplies the faithful-compression boundary.
 - [**Arena A.I.s**]({{ '/ARENA-AIS/' | relative_url }}) — the public contribution field from which contribution–cost coupling emerged.
 - [**The Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — preserves successful correspondence and failures together without making either the whole contributor.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction changes later comparable behavior.

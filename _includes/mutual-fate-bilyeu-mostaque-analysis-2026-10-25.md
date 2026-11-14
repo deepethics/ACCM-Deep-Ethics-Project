@@ -38,7 +38,7 @@ He explains this through team efficiency: an automated team allegedly becomes mo
 
 A human contribution might slow production while improving accountability, challenging an incomplete objective or recognizing effects outside a performance measure. Another intervention might simply be redundant or wrong. Both possibilities remain available for examination.
 
-[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) keeps four relations recoverable: demand for a task, performance within a workflow, participation in defining that workflow, and a person's dignity. A reduced market price for one contribution does not establish a reduced standing to question the institutions governing it.
+[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) keeps four relations recoverable: demand for a task, performance within a workflow, participation in defining that workflow, and a person's dignity. A reduced market price for one contribution does not establish a reduced standing to question the institutions governing it.
 
 The language of “surplus humans” and “human-shaped holes” makes economic substitution vivid. It also exposes the point where a person can become represented as an excess component. This is an appropriate site for examining **Adult ↔ Adult Bidirectional Dignity Drift**, one of the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}).
 

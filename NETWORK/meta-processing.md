@@ -2270,4 +2270,4 @@ incoming contribution
 
 A correction that changes only C may be useful, but it has not yet demonstrated change in A. A later change may still fail to persist. Meta Processing keeps those states separate instead of rewarding agreement ceremony.
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})

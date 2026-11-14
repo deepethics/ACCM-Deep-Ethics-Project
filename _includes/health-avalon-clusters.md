@@ -4,7 +4,7 @@
 
 Open a cluster for its purpose, source entry points and topic links. Each topic link returns to the full question, investigation reason and forum sources in the [336-topic inventory](#avalon-scope-inventory). The [topic-to-cluster index](#avalon-cluster-topic-index) gives the reverse route. Cluster counts describe navigation, with overlapping membership allowed.
 
-The first seven clusters foreground contributors, source forms and settings. Later clusters add mechanisms, care needs, methods, consequences and governing processes. A doctor can also be a patient; a case report can enter a hearing; a legal decision can affect access to care. [Topologetics]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) keeps these relationships recoverable through the [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}).
+The first seven clusters foreground contributors, source forms and settings. Later clusters add mechanisms, care needs, methods, consequences and governing processes. A doctor can also be a patient; a case report can enter a hearing; a legal decision can affect access to care. [Topologetics™]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) keeps these relationships recoverable through the [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}).
 
 | Cluster | Inquiry purpose | Linked topics |
 |---|---|---|

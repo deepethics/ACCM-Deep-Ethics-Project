@@ -411,7 +411,7 @@ For TCoAw™, this gives the present foreground a history. An earlier interpreta
 
 A candidate comparison could preserve the initial source and response, supply a material correction, then present a later comparable task. What remained in focus? What became newly available? Was the relevant relation retrieved when it mattered, or did the later operation return to the earlier omission? A valid no-change result can also show that the existing relation survived examination.
 
-This develops the freeze-and-corrigibility relationship above. [Topologetics]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves the distinct objects and directions across the comparison. [Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) opens the allocation of focus to challenge, and [VCRAS™]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) follows later treatment and consequences. The DeepEthicalOS™ use remains a concept and candidate test.
+This develops the freeze-and-corrigibility relationship above. [Topologetics™]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) preserves the distinct objects and directions across the comparison. [Anchor Ethics]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) opens the allocation of focus to challenge, and [VCRAS™]({{ '/VCRAS/#deano-risk-attention-history' | relative_url }}) follows later treatment and consequences. The DeepEthicalOS™ use remains a concept and candidate test.
 
 ## A small observational use
 
@@ -451,7 +451,7 @@ The model remains open to all five.
 ## Related pages
 
 - [**DeepEthicalOS™ — the static/dynamic bridge**]({{ '/DEEPETHICALOS/#deepethicalos-exchange-3' | relative_url }}) — preserves John's full comment and the GPT contribution on an unchanged mechanism studying its changing relationship.
-- [**Topologetics — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves mechanism, state, context, observer and footprint as distinct but connected objects.
+- [**Topologetics™ — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves mechanism, state, context, observer and footprint as distinct but connected objects.
 - [**16 Anchor Ethics™ — attention allocation**]({{ '/NETWORK/16-anchor-ethics/#deano-attention-allocation' | relative_url }}) — examines the power to choose a foreground through non-imposing, corrigible counsel.
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#connected-field' | relative_url }}) — keeps the Arbiter's present focus open to wider relations, alternative readings, and material correction.
 

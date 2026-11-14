@@ -305,7 +305,7 @@ new relation needs a name
 → later use preserves, mutates, or loses the original topology
 ```
 
-The in-between phase matters because a term can be publicly visible before it has a stable common meaning. At first, searching **Rogue Ethics**, **Topologetics**, **Agreemurmelism**, **Cautionmurmelism**, or another project-originated expression may lead mainly to its source page. If wider discussion grows, the search field becomes a living record of adoption, criticism, imitation, drift, and independent development.
+The in-between phase matters because a term can be publicly visible before it has a stable common meaning. At first, searching **Rogue Ethics**, **Topologetics™**, **Agreemurmelism**, **Cautionmurmelism**, or another project-originated expression may lead mainly to its source page. If wider discussion grows, the search field becomes a living record of adoption, criticism, imitation, drift, and independent development.
 
 Search engines do not need to make a conscious editorial decision to promote the term. Their crawling, indexing, semantic clustering, query prediction, link analysis, freshness systems, engagement signals, and ranking models can increasingly allocate processing and visibility when a new expression appears across many searches and public documents. A successful viral video could accelerate that process. Top ranking remains an empirical outcome rather than a guaranteed reward.
 
@@ -334,7 +334,7 @@ Viral success changes the object. The originating term may be:
 - treated as proof that the underlying theory is correct;
 - or absorbed into A.I. training data through distorted secondary descriptions.
 
-This produces a new Topologetics and DEDDA™ question:
+This produces a new Topologetics™ and DEDDA™ question:
 
 > **When the word returned from the public search-and-language loop, which load-bearing relations survived?**
 
@@ -396,7 +396,7 @@ trajectory decides what the phase change became
 - [**Human Insecurity and the Correction Loop**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — connects human psychology, model mannerisms, mass psychology, and correction.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — provides configurable correspondence, qualifier, attribution, permission, asymmetry, and correction-return instruments.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — permits ordinary error without granting immunity from scrutiny.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and trajectory across transformations.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the relational signature and trajectory across transformations.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — joins the Project's scattered neologism work into a testable practice of relational compression, public diffusion and correction.
 - [**Lexicon / Legend**]({{ '/LEXICON/' | relative_url }}) — keeps project-originated terms connected to their fuller objects instead of turning the vocabulary into a flat dictionary.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — keeps intent, processing, effect, notice, inference, and later persistence distinct.

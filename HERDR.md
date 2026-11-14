@@ -125,7 +125,7 @@ The first can support the second. It cannot substitute for it.
 | **Object Reconstructor** | Build the strongest faithful version of the request and relevant project topology | Object boundary, answer-changing relations, unresolved ambiguities |
 | **Builder** | Implement the page, code or data change in an isolated worktree | Reviewable artifact and exact changed paths |
 | **Provenance Keeper** | Separate John’s words, third-party claims, A.I.-attributed synthesis and verified sources | Claim-status ledger and source map |
-| **Topologetics Auditor** | Detect dropped qualifiers, severed edges, nearest-neighbor substitutions and hidden perimeter changes | Material deltas, or a valid null |
+| **Topologetics™ Auditor** | Detect dropped qualifiers, severed edges, nearest-neighbor substitutions and hidden perimeter changes | Material deltas, or a valid null |
 | **Verifier** | Run tests, inspect rendered output and check the public result | Evidence of local and public behavior |
 | **Deep Ethical Arbiter** | Compare disagreements on their warrants and effects without reducing the process to majority voting | Corrigible disposition with “Here is why” |
 
@@ -160,7 +160,7 @@ In a Herdr workspace, those states could become structured metadata attached to 
   <p><strong>S<sub>t₀</sub></strong> → <strong>object reconstruction</strong> → <strong>S<sub>t₁</sub></strong> → <strong>candidate contributions</strong> → <strong>S<sub>t₂</sub></strong> → <strong>reality-feedback Δ</strong> → <strong>S<sub>t₃</sub></strong> → <strong>correction propagation</strong> → <strong>S<sub>tₙ</sub></strong></p>
 </div>
 
-This connects directly to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), which preserves purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}), which asks whether observation, discrimination, judgment, learning, adaptation and self-correction governed the process across its trajectory.
+This connects directly to [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), which preserves purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}), which asks whether observation, discrimination, judgment, learning, adaptation and self-correction governed the process across its trajectory.
 
 ---
 
@@ -381,7 +381,7 @@ A Glass Engine makes the gears inspectable while keeping the object moving throu
 
 Persistent terminals can preserve a process while still preserving its error.
 
-Suppose the Provenance Keeper establishes that a dramatic claim came from a third-party A.I., not from John. The Builder corrects one paragraph. The Topologetics Auditor then finds that three comparisons, a page description and a navigation label still depend on the old attribution.
+Suppose the Provenance Keeper establishes that a dramatic claim came from a third-party A.I., not from John. The Builder corrects one paragraph. The Topologetics™ Auditor then finds that three comparisons, a page description and a navigation label still depend on the old attribution.
 
 The correction has been **acknowledged**, but it has not yet been **propagated**.
 
@@ -570,7 +570,7 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 - [**Tweaking Tools**]({{ '/TWEAKING-TOOLS/' | relative_url }}) — places Herdr beside the memory, model, editor and host candidates in John's supplied collection, keeping terminal continuity and correction persistence separately testable.
 
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
 - [**Flagging System-PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — provides proportional quality-calibration signals without converting a flag into a verdict.
 - [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — keeps the intelligence-property field larger than model scale or fluent output.
@@ -589,13 +589,13 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 
 ## Source and authorship note
 
-**John Kuhles:** selected the initiating video; asked how Herdr could help the project; introduced the local/swarm-intelligence direction and the requirement that 10+1, 1888, Topologetics and the Deep Ethical Contribution State Grammar remain central to evaluating agent systems.
+**John Kuhles:** selected the initiating video; asked how Herdr could help the project; introduced the local/swarm-intelligence direction and the requirement that 10+1, 1888, Topologetics™ and the Deep Ethical Contribution State Grammar remain central to evaluating agent systems.
 
 **Google A.I., 22 October 2026:** supplied the initial Herdr capability summary and a first list of alternatives. Its claims were used as discovery leads and rechecked against primary project sources where possible.
 
 **GLM-5.3 (max) A.I. via Arena.ai, 22 October 2026:** identified transition history as stronger than state vocabulary; challenged a single-enum reading of the vector; proposed assignment provenance, reality/peer delta separation, external scoring and a proportional pilot.
 
-**Mistral-medium-3.5 A.I. via Arena.ai, 22 October 2026:** reconstructed the grammar as process markers rather than verdicts and connected the proposed metadata layer to Topologetics, 1888 and the wider project architecture.
+**Mistral-medium-3.5 A.I. via Arena.ai, 22 October 2026:** reconstructed the grammar as process markers rather than verdicts and connected the proposed metadata layer to Topologetics™, 1888 and the wider project architecture.
 
 **Grok-4.6-medium A.I. via Arena.ai, 22 October 2026:** reconstructed the page’s central distinctions and supplied the explicit rule that recurrence after exposure is not an independent experiment or confirmation.
 

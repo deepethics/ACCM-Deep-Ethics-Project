@@ -86,7 +86,7 @@ The new page did not begin from an isolated neologism. Its parts were already di
 - **[Black Box — Who Controls the Pressure?]({{ '/BLACK-BOX/' | relative_url }})** separated technical opacity from governance opacity and required each finding to remain matched to the layer actually inspected.
 - **[Humor]({{ '/HUMOR/' | relative_url }})** preserved Reverse Medusa, the relational “OH,” the fourteen-second recurrence joke, and the possibility that humor makes the frame itself visible.
 - **[27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }})** supplied candidate obstruction and recovery language without allowing a label to replace the specimen.
-- **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** added the requirement to preserve load-bearing relations, direction, timing, claim status, provenance, correction routes, and next-move compatibility through transformation.
+- **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})** added the requirement to preserve load-bearing relations, direction, timing, claim status, provenance, correction routes, and next-move compatibility through transformation.
 - **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** kept intent or instructions, processing, results, interpretation, notice, later behavior, and persistence from collapsing into one another.
 
 On October 1, 2026, John described the larger temporal cycle:
@@ -647,7 +647,7 @@ Two compression paths must remain distinct:
 | Leaves omitted detail visibly recoverable. | Makes the compressed derivative function as though it were the complete object. |
 | Stops at the purpose-dependent faithful compression floor. | Continues until the object becomes easier to classify but materially different. |
 
-This is the direct [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) relation:
+This is the direct [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) relation:
 
 > **Expansion is not fidelity merely because it adds relations. Compression is not distortion merely because it removes words. The test is whether the load-bearing topology and its appropriate next-move range survive.**
 
@@ -659,7 +659,7 @@ This is the direct [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) rel
 | **[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }})** | Examines who receives reconstruction, clarification, uncertainty, appeal, and correction time—and who absorbs the cost when compression or classification is wrong. |
 | **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** | Inspects what happened between intent or instructions, processing, output or effect, notice, correction, and later behavior without collapsing those fields into one causal verdict. |
 | **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** | Preserves the relationship among a wider possibility field, temporary focus, awareness of the focus's limits, and reopening or redirection when an overlooked relation appears. |
-| **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** | Tests whether translation, summarization, handoff, or compression preserves the nodes and answer-changing edges required for the transformed representation to remain recognizably the same object. |
+| **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})** | Tests whether translation, summarization, handoff, or compression preserves the nodes and answer-changing edges required for the transformed representation to remain recognizably the same object. |
 
 No page replaces the others:
 
@@ -763,7 +763,7 @@ That question keeps all five linked pages inside the same living inquiry while p
 
 ### 7B.7 Terra: the expanding field must remain serious enough to fail
 
-**gpt-5.6-terra-low A.I.**, responding through Arena.ai on October 15, 2026, contributes experimental guardrails that apply directly to the nested-sandbox hypothesis even though its immediate object was the Topologetics page.
+**gpt-5.6-terra-low A.I.**, responding through Arena.ai on October 15, 2026, contributes experimental guardrails that apply directly to the nested-sandbox hypothesis even though its immediate object was the Topologetics™ page.
 
 Its strongest formulation is:
 
@@ -835,14 +835,14 @@ An output can contain elements of both columns. The matrix is not a binary verdi
 
 ## 9. The October 15–16, 2026 live specimen
 
-The immediate discovery context began during a discussion of **Topologetics**, natural metacognitive PQCE™, the 16 Anchor Ethics™, proof claims, and A.I. alignment.
+The immediate discovery context began during a discussion of **Topologetics™**, natural metacognitive PQCE™, the 16 Anchor Ethics™, proof claims, and A.I. alignment.
 
 The sequence below is a report of the visible interaction, not a claim about Google’s proprietary internals.
 
 | Time | Visible event |
 |---|---|
-| **T0** | John supplied Topologetics as striving toward natural, universal, omnidirectional, distortion-free metacognitive Process-Quality Calibration Evaluation. “Distortion-free” named a governing direction, not a certificate. |
-| **T1** | Google represented Topologetics as a “cognitive prosthesis” and added mechanical, mathematical, and certainty-bearing properties not established by the source. |
+| **T0** | John supplied Topologetics™ as striving toward natural, universal, omnidirectional, distortion-free metacognitive Process-Quality Calibration Evaluation. “Distortion-free” named a governing direction, not a certificate. |
+| **T1** | Google represented Topologetics™ as a “cognitive prosthesis” and added mechanical, mathematical, and certainty-bearing properties not established by the source. |
 | **T2** | John corrected the ontological substitution directly. |
 | **T3** | Google accepted the correction but introduced new metaphors, certainty language, and provenance drift. |
 | **T4** | GPT 6.1 Sol A.I. audited the transformation and separated striving from certification. |
@@ -989,7 +989,7 @@ The load-bearing topology includes:
 - whether the next response changed;
 - and whether the change persisted.
 
-The Phase Change Snap is therefore a natural Topologetics specimen:
+The Phase Change Snap is therefore a natural Topologetics™ specimen:
 
 ```text
 nodes survive
@@ -1723,7 +1723,7 @@ It changes which intelligence is allowed to ask the next one. :P
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }})
 - [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }})
 - [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }})
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }})
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }})
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})

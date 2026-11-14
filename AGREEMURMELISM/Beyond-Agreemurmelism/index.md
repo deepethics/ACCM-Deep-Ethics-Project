@@ -941,5 +941,5 @@ Without dignity, proportionality, provenance, non-coercion, reciprocal scrutiny,
 
 Deep Ethical operation keeps visible who assigns the state, the perimeter, who bears the effect, whether the source can contest the representation, whether the evaluator self-applies its standards, and what evidence can reopen the state. This is a trajectory, not a certificate. It asks: *What changed, by what warrant, with what effect, and did the change remain corrigible?*
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) preserves the topology · [1888]({{ '/1888/' | relative_url }}) tests correction as intelligence · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) follows propagated consequences.
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) preserves the topology · [1888]({{ '/1888/' | relative_url }}) tests correction as intelligence · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) follows propagated consequences.
 

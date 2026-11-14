@@ -366,7 +366,7 @@ The positive pathway deserves equal attention. A better question, faithful expla
 
 John identifies [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness—together with [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) as part of the generative trajectory that gave rise to his [**1888 Method™**]({{ '/1888/' | relative_url }}).
 
-In TCoAw™, thinking opens possibilities, focused consciousness gives something a foreground, and awareness retains room for what that foreground leaves outside. These processes can interact. Topologetics follows the relationships: who depends on whom, which qualifier governs which claim, where a correction travels, and which branch becomes available.
+In TCoAw™, thinking opens possibilities, focused consciousness gives something a foreground, and awareness retains room for what that foreground leaves outside. These processes can interact. Topologetics™ follows the relationships: who depends on whom, which qualifier governs which claim, where a correction travels, and which branch becomes available.
 
 The 1888 property field then gives the comparison further resolution. Intelligence includes perceiving, relating, remembering, imagining, evaluating, learning, and correcting in context. These operations can help people notice value that an agreement score or a fluent answer would miss.
 

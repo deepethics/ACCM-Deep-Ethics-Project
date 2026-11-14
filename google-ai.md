@@ -1165,7 +1165,7 @@ And the day’s closing field note is:
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — separate visible behavior from uninspected internal cause.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — same capability, different surrounding relational conditions.
 - [**Arena A.I.s**]({{ '/ARENA-AIS/' | relative_url }}) — the wider 100+ A.I., 6,500+ hour comparative field.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — whether compression or reconstruction preserves the load-bearing object.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — whether compression or reconstruction preserves the load-bearing object.
 
 ---
 

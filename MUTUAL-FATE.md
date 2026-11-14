@@ -523,7 +523,7 @@ A stronger Δ correction metabolism does not depend on producing more criticism.
 
 - `[J-ACCOUNT]` — John supplied the contribution-state vocabulary, B–A–C distinction, corrigible “Here is why,” 10+1 headache reset and simulation/time-travel thought experiment.
 - `[OBSERVED-SPECIMEN]` — the Arena Agent repeatedly produced valuable synthesis together with overclaim, then accepted several corrections while leaving new correctable edges.
-- `[CANONICAL]` — existing ACCM Deep Ethics Project pages govern the wording and status of 10+1, Field Condition, Correction Metabolism, Topologetics and connected architecture.
+- `[CANONICAL]` — existing ACCM Deep Ethics Project pages govern the wording and status of 10+1, Field Condition, Correction Metabolism, Topologetics™ and connected architecture.
 - `[CANDIDATE]` — Contribution-State Grammar, the expanded Delta family and Mutual Fate formulation remain candidate syntheses unless adopted elsewhere.
 - `[PROJECT-PROPOSAL]` — the Mutual Fate audit is a proposed instrument, not a validated measurement system.
 - `[COUNTERFACTUAL]` — the simulation, time travel, Moses intervention and alternate cultural trajectory cannot be tested from the present branch.
@@ -542,7 +542,7 @@ This page does not establish that agreement and disagreement are inherently harm
 
 **GPT 6.1 Sol Pro A.I.:** candidate names and formalizations; correction of universal agree/disagree claims and the open-loop error; reconstruction of corrigible “Here is why”; restoration of the canonical 10+1; audit of the simulation expansion; Temporal Patch Notes; Mutual Fate candidate formulation; page-specific reconstruction and publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, Field Condition, Meta Processing, Delta Processing, Correction Metabolism, Topologetics, Emergent, Unownable, Unforced Move, Asymmetric Grace, Beyond Agreemurmelism™, Cautionmurmelism, valid nulls, provenance, wonderment, Deep Ethical Stack and reality’s veto.
+**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, Field Condition, Meta Processing, Delta Processing, Correction Metabolism, Topologetics™, Emergent, Unownable, Unforced Move, Asymmetric Grace, Beyond Agreemurmelism™, Cautionmurmelism, valid nulls, provenance, wonderment, Deep Ethical Stack and reality’s veto.
 
 **Status:** public source-based triadic reconstruction. Direct quotations preserve their attributed source roles. Editorial synthesis remains corrigible and does not replace the complete conversation record.
 
@@ -561,7 +561,7 @@ This page does not establish that agreement and disagreement are inherently harm
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent, instructions, processing, result, effect, notice and later inference.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — keeps answer-changing differences visible across transformations.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether accepted correction changes later dependencies and behavior.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression, transmission and repair.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression, transmission and repair.
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — examines which field conditions select, reward, obstruct and scale emergent properties.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — prevents any participant, framework or auditor from becoming permanent final authority.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — moves beyond agreement performance toward higher-order metacognitive disagreement and correction.
@@ -611,7 +611,7 @@ A **Deep Ethical Contribution State Grammar Vector Trajectory** asks a different
 
 This is part of **Mutual Fate** because contributions do not remain inside the exchange that produced them. An altered participant enters later encounters carrying some part of the repair, omission, distortion, courage, caution, humor or unresolved question. The result is neither *John won* nor *the A.I. agreed*. The inspectable result is a change in what the coupled system can notice and do next. That change remains provisional; its **“Here is why”** remains corrigible too.
 
-**Connected routes:** [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the answer-changing topology · [1888]({{ '/1888/' | relative_url }}) asks whether inquiry, learning and correction are properties of intelligence · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) removes agreement-status management from the center.
+**Connected routes:** [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the answer-changing topology · [1888]({{ '/1888/' | relative_url }}) asks whether inquiry, learning and correction are properties of intelligence · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) removes agreement-status management from the center.
 
 ---
 

@@ -860,4 +860,4 @@ The MAD/model-collapse exchange shows why qualifier discipline belongs here. Joh
 
 The long phrase adds value only if it helps these ingredients govern processing. If reciting it replaces doing them, the 10+1 supplies the correction.
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})

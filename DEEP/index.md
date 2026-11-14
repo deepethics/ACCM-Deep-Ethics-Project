@@ -1428,7 +1428,7 @@ Ethics are supposed to be about **removing unethical obstacles, hurdles, and obs
 
 - [**Search Engine Bias**]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) — follows queries, ranking, source admission, representation and correction through search and A.I. reuse, with source-linked cases and a candidate comparison protocol.
 
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — develops the live correction dialogue into a purpose-bounded method for preserving load-bearing nodes, answer-changing relations, provenance, timing, humor, and correction routes at the faithful compression floor.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — develops the live correction dialogue into a purpose-bounded method for preserving load-bearing nodes, answer-changing relations, provenance, timing, humor, and correction routes at the faithful compression floor.
 
 - [**11+1 Cluster Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — interactive map of the original 1–107 and refined 1–140 architectures.
 - [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — the property taxonomy of intelligence and the title-fee inherited by present A.I.

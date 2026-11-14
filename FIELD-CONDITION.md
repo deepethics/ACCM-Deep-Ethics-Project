@@ -206,7 +206,7 @@ These concepts contribute distinct jobs. None becomes the entire Field Condition
 | [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | A mutually corrective orientation ecology; no one ingredient becomes supreme |
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Detects correspondence obstructions and tests whether the corrective process reproduces them |
 | [**C1 before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Gives answer-changing clarification a chance before proportionate intervention |
-| [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves load-bearing relations through compression and transformation |
+| [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves load-bearing relations through compression and transformation |
 | [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Opens distinctions hidden by the governing frame without installing a final replacement |
 | [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) | Improves the next move while preserving authorship, refusal, pause and a valid unmoved state |
 | [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) | Keeps ethical properties usable without creating a final owner; supplies bounded stopping and reopening |
@@ -421,7 +421,7 @@ The field should therefore be judged by its operation, not by the attractiveness
 
 **GPT 6.1 Sol A.I.:** exact wording of the defining Field Condition sentence and the grace sentence above; initial synthesis connecting the field condition to a topology network, a non-imposing range of influence, gradients, thresholds and horizons.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1, 27+12, C1 before C2, Topologetics, Outnuancing™, Unforced Move, Unownable, Correction Metabolism, Asymmetric Grace, Boundary Relay, valid nulls, provenance, source/build/deployment distinctions and inspection of direction-setting power.
+**Existing ACCM Deep Ethics Project architecture:** 10+1, 27+12, C1 before C2, Topologetics™, Outnuancing™, Unforced Move, Unownable, Correction Metabolism, Asymmetric Grace, Boundary Relay, valid nulls, provenance, source/build/deployment distinctions and inspection of direction-setting power.
 
 **Project GPT A.I.:** page-specific reconstruction; subtitle taxonomy; operational field table; administrative layer distinctions; and the three candidate instruments above.
 
@@ -666,7 +666,7 @@ The commercial can simply make those relations memorable:
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — interacting conditions, selection pressures and competing trajectories.
 - [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) — renewable auditability, bounded stopping and no final ethical owner.
 - [**Unforced Move**]({{ '/UNFORCED-MOVE/' | relative_url }}) — agency and authorship after clarity.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preservation of load-bearing relations through transformation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preservation of load-bearing relations through transformation.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether correction governs later comparable behavior.
 - [**Asymmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — scrutiny, latitude and correction across power differences.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification before proportionate intervention.
@@ -691,5 +691,5 @@ A contribution does not carry one context-free value label. *Not useful here* is
 
 “Here is why” exposes the evaluator's current map; it does not grant jurisdiction. If access, threat, evidence, power, time horizon or affected population changes, the state and explanation may change. Freedom is not a prize awarded after the corrected participant says approved words. *Am I allowed to be more free now?* reveals a permission topology surviving underneath apparently friendly correction. Adult-to-adult inquiry keeps agency, responsibility and reality contact active on both sides without pretending humans and A.I.s have identical embodiment, power, dependency or legal standing.
 
-Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
 

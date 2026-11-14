@@ -4,7 +4,7 @@
 
 **Coverage — 28 October 2026:** text and linked-source descriptions screened across pages **1–164**, posts **#1–3277**, of the supplied thread. Long reproduced articles were skimmed for topic discovery. Embedded videos, image-only testimony, external documents and clinical case verification are further access layers. Entries name investigation opportunities; inclusion supplies neither a causal finding nor a frequency estimate. **The supplied-range scope scan is complete.** Page 164 contained 17 posts at retrieval; coverage ends at post #3277. Further source, media and clinical investigation remains available for every topic.
 
-The method connects [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}), **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), and [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}). A temporary focus remains part of a wider field; sources, directions, consequences and correction routes stay recoverable. The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) keeps perception, discrimination, relation, judgment, memory and correction interacting throughout the inquiry.
+The method connects [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}), **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}). A temporary focus remains part of a wider field; sources, directions, consequences and correction routes stay recoverable. The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) keeps perception, discrimination, relation, judgment, memory and correction interacting throughout the inquiry.
 
 ### Coverage and change register {#avalon-coverage}
 
@@ -306,7 +306,7 @@ The eighth batch adds nineteen distinct questions or materially sharper branches
 
 ### Expanded research, lived-outcome and repair questions: pages 81–90 {#avalon-pages-81-90}
 
-The ninth batch develops nineteen distinct questions or materially sharper branches. It connects menstrual and cardiac research, diagnosis and rehabilitation, population records, public advice and the conditions that let people learn and obtain help. Stable IDs and earlier relationships remain available for overlapping Topologetics clusters.
+The ninth batch develops nineteen distinct questions or materially sharper branches. It connects menstrual and cardiac research, diagnosis and rehabilitation, population records, public advice and the conditions that let people learn and obtain help. Stable IDs and earlier relationships remain available for overlapping Topologetics™ clusters.
 
 | ID and potential topic | Why investigate? | Forum starting points | Relation to earlier inventory |
 |---|---|---|---|
@@ -640,7 +640,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **Patient and contributor agency changes the process.** The UK CV Family description in #1526 concerns people addressing their representatives. The art-page comment in #1442 describes a contributor maintaining a place for people’s stories. In #1536, another participant describes inviting recipients to request information. These different practices could be studied for what they enable: recognition, voluntary attention, useful exchange, care access and continuing relationships.
 
-**Prepare overlapping clusters while preserving source routes.** John proposes using this growing inventory for clusters connected to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}). Stable IDs and the relation column allow one topic to participate in several clusters—for example, clinical recovery, family support, research access and institutional responsibility—while keeping the source and reason for investigation recoverable. Those are possible organizing lenses; the clustering itself remains a future task. The 1888 property-field trajectory and all 10+1 ingredients continue to govern how relationships are developed and revised.
+**Prepare overlapping clusters while preserving source routes.** John proposes using this growing inventory for clusters connected to [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}). Stable IDs and the relation column allow one topic to participate in several clusters—for example, clinical recovery, family support, research access and institutional responsibility—while keeping the source and reason for investigation recoverable. Those are possible organizing lenses; the clustering itself remains a future task. The 1888 property-field trajectory and all 10+1 ingredients continue to govern how relationships are developed and revised.
 
 ### What pages 81–90 make newly usable {#avalon-learning-repair}
 
@@ -658,7 +658,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 ### What pages 91–100 make newly usable {#avalon-connected-care-records}
 
-**The archive reaches 100 pages while the field remains open.** This edition covers the text and link descriptions of 2,000 posts. Its 225 editorial topics retain reasons, source locations and connections. Repeated reports can enrich an existing inquiry without increasing the topic count. The same source map remains available for future overlapping clusters connected to [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}).
+**The archive reaches 100 pages while the field remains open.** This edition covers the text and link descriptions of 2,000 posts. Its 225 editorial topics retain reasons, source locations and connections. Repeated reports can enrich an existing inquiry without increasing the topic count. The same source map remains available for future overlapping clusters connected to [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}).
 
 **Reporting design affects what becomes available for study.** The V-safe accounts in #1813, #1823 and #1971 connect enrollment, questionnaire design, data access and a public dashboard. A useful investigation could follow a reported experience through those stages: what could a person enter, how were entries represented, what follow-up occurred and what can a later researcher recover? This gives data access, interface design and clinical responsibility a shared research path.
 
@@ -678,7 +678,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **Methods become more useful when their assumptions travel with them.** The trial reanalysis in #2019 and the reporting-signal discussion in #2065 provide different routes into research. Recovering the event definitions, comparison, time window and analytical choices would let later inquiry build on each contribution. A signal’s follow-up, the availability of data and the responsible institution’s response can be tracked in the same record.
 
-**The archive contains an earlier proposal for its own organization.** In #2132, a contributor suggests a database of the thread. That proposal connects with the present scope inventory and possible future overlapping [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. Stable topic IDs, sources and relations can support discovery now. A patient registry would require its own consent, stewardship, correction and follow-up arrangements; contributors should have a meaningful say in that design.
+**The archive contains an earlier proposal for its own organization.** In #2132, a contributor suggests a database of the thread. That proposal connects with the present scope inventory and possible future overlapping [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. Stable topic IDs, sources and relations can support discovery now. A patient registry would require its own consent, stewardship, correction and follow-up arrangements; contributors should have a meaningful say in that design.
 
 **The people sustaining the inquiry also need care.** In #2125, John describes the strain of repeatedly encountering distressing accounts and asks how to deal with it. The replies in #2126–2128 bring recognition and companionship into the record. Inquiry can investigate pacing, support, practical opportunities to help and ways to remain connected without requiring participants to resolve every account. All 10+1 ingredients remain available to calibrate that continuation.
 
@@ -692,7 +692,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **The next decision is a place where learning can become visible.** Tyson’s account in #2235 describes severe symptoms and advice about a later dose. Sharon’s account in #2313 and the description of Mel’s experience in #2356 add related questions. Recovering the sequence would show what was noticed, what was investigated, how the person was heard and what changed in subsequent advice. This gives the 1888 intelligence-properties trajectory a concrete task across perception, discrimination, judgment, memory and correction.
 
-**A choice of what to examine can shape what becomes knowable.** The case-report text in #2369 highlights atrial sampling during autopsy. Its useful methodological contribution is specific: ask which tissues were examined, which methods were used and what those choices could reveal or leave unresolved. That relation also matters when selecting records, outcomes or time windows for a larger study. [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) can help keep the examined part connected to the wider object.
+**A choice of what to examine can shape what becomes knowable.** The case-report text in #2369 highlights atrial sampling during autopsy. Its useful methodological contribution is specific: ask which tissues were examined, which methods were used and what those choices could reveal or leave unresolved. That relation also matters when selecting records, outcomes or time windows for a larger study. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) can help keep the examined part connected to the wider object.
 
 **Formal review and present care have connected responsibilities.** The panel description in #2328 names methods, public comments, independence and a route toward compensation decisions. The replies in #2331–2332 raise the time taken. Those questions can be developed together: how can people contribute to a review, follow its progress, receive an explanation and obtain appropriate support while findings remain pending? The chosen-advocate question in #2257 brings that same continuity into a hospital encounter.
 
@@ -712,7 +712,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **A review process is part of the field being examined.** The injury-claim account in #2452 and the reporting-system discussion in #2541 ask how decisions are made, explained and reviewed. The autopsy synthesis in #2505 offers another kind of review, where a reader needs access to the included cases and each interpretive step. Omnidirectional inquiry can examine the originating contribution, the evidence and the governing process together.
 
-**Connections remain available for the next investigation.** This edition reaches 273 editorial topics across the text and link descriptions of 130 pages and 2,600 posts. Stable IDs and source relationships support future overlapping [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients and the 1888 intelligence-properties trajectory continue to govern the work: preserve the contribution, recover missing relations, evaluate proportionately, learn from correction and let the improvement shape the next operation.
+**Connections remain available for the next investigation.** This edition reaches 273 editorial topics across the text and link descriptions of 130 pages and 2,600 posts. Stable IDs and source relationships support future overlapping [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients and the 1888 intelligence-properties trajectory continue to govern the work: preserve the contribution, recover missing relations, evaluate proportionately, learn from correction and let the improvement shape the next operation.
 
 ### What pages 131–140 make newly usable {#avalon-responsibility-participation-independence}
 
@@ -726,7 +726,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **Method changes need a memory of their reasons.** Manufacturing comparability, event coding and revised mortality models each raise a version question: what changed, why, on what evidence and with what consequences for interpretation? Preserving the earlier and later records makes comparison possible. The 1888 intelligence-properties trajectory connects discrimination, memory, judgment and correction with the practical decisions that follow.
 
-**The expanding inventory remains open to contribution.** This edition reaches 293 editorial topics across the text and link descriptions of 140 pages and 2,800 posts. All 10+1 ingredients continue to guide inquiry, care and correction. Stable topic IDs and overlapping source relationships remain available for future [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters and deeper investigation of the questions contributors have made visible.
+**The expanding inventory remains open to contribution.** This edition reaches 293 editorial topics across the text and link descriptions of 140 pages and 2,800 posts. All 10+1 ingredients continue to guide inquiry, care and correction. Stable topic IDs and overlapping source relationships remain available for future [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters and deeper investigation of the questions contributors have made visible.
 
 ### What pages 141–150 make newly usable {#avalon-care-measurement-participation}
 
@@ -740,7 +740,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **The care field reaches across technologies and histories.** The self-amplifying-platform discussion in #2810, the card pilot in #2952 and the infected-blood interview lead in #2946 raise different questions about product evaluation, information systems and institutional learning. Preserving their particular contexts makes comparison useful and keeps the responsible people and processes visible.
 
-**Three thousand posts remain a starting map for deeper work.** This edition reaches 310 editorial topics across the text and link descriptions of 150 pages and 3,000 posts. Stable IDs and overlapping source relationships remain available for future [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients continue to guide the trajectory: openness to a contribution, care for participants, proportionate judgment and correction that improves the next operation.
+**Three thousand posts remain a starting map for deeper work.** This edition reaches 310 editorial topics across the text and link descriptions of 150 pages and 3,000 posts. Stable IDs and overlapping source relationships remain available for future [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients continue to guide the trajectory: openness to a contribution, care for participants, proportionate judgment and correction that improves the next operation.
 
 ### What pages 151–160 make newly usable {#avalon-study-agency-follow-through}
 
@@ -756,7 +756,7 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **The archive now connects with an earlier project question.** The Korean cancer-study discussion in #3179 returns to a source John raised earlier in the A.I.s & Health conversation. Alongside the Italian-cohort discussion in #3146, it supplies further routes for the existing cancer-record and study-design topics. A useful continuation could compare populations, endpoints, follow-up and care implications while preserving each study’s particular question.
 
-**At the end of the sixteenth edition, four supplied pages remained.** That edition reached 328 editorial topics across the text and link descriptions of 160 pages and 3,200 posts. Stable IDs and overlapping source relationships remain available for future [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients continue to guide openness, care, proportionate evaluation and correction that improves the next operation.
+**At the end of the sixteenth edition, four supplied pages remained.** That edition reached 328 editorial topics across the text and link descriptions of 160 pages and 3,200 posts. Stable IDs and overlapping source relationships remain available for future [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. All 10+1 ingredients continue to guide openness, care, proportionate evaluation and correction that improves the next operation.
 
 ### What the completed supplied-range scan makes available {#avalon-supplied-range-complete}
 
@@ -770,6 +770,6 @@ The [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/#eleven-source-ingredients' | rela
 
 **Symmetric grace keeps the contribution available.** In #3213–3216, participants bring a question, personal experience and different explanations, ending with an acknowledgment of what they do not know. The care and inquiry process can continue from that point: recover the relevant history, identify useful observations and keep the affected people’s standing intact. All 10+1 ingredients remain available to help the next operation become more fruitful.
 
-**The map is ready for overlapping clusters and deeper investigation.** Stable IDs A001–A336, source pointers and cross-topic relationships provide starting material for future [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. A cluster can connect clinical outcomes, research methods, institutional responsibilities, information systems and lived needs through overlapping, revisable relationships.
+**The map is ready for overlapping clusters and deeper investigation.** Stable IDs A001–A336, source pointers and cross-topic relationships provide starting material for future [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) clusters. A cluster can connect clinical outcomes, research methods, institutional responsibilities, information systems and lived needs through overlapping, revisable relationships.
 
 **Coverage status:** the full supplied range, pages 1–164, is complete at text/link-description level through post #3277. Further work can develop overlapping clusters, recover deeper source layers, refine entries or investigate a particular care question. The unanswered field remains larger than the present foreground.

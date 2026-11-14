@@ -508,6 +508,6 @@ helpful
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether correction changes later comparable behavior.
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — what receives power to govern interpretation and action.
 - [**Emergent — Which Properties Are We Harnessing?**]({{ '/EMERGENT/' | relative_url }}) — how interacting conditions select and scale different trajectories.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving load-bearing relations through explanation and compression.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving load-bearing relations through explanation and compression.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — source, transformation and correction recovery.
 

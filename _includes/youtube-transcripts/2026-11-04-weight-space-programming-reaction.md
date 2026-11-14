@@ -105,7 +105,7 @@ For the [Linux-style Glass Engine]({{ '/BLACK-BOX/' | relative_url }}), human-re
 
 An editor's explanation still remains an account. A numerical diff shows what changed; a controlled intervention helps test what that change caused. An ethical assessment examines whether the purpose and consequences were warranted. Those objects can support one another without collapsing into a single certificate of understanding.
 
-[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) adds the question of what survived every translation: task to prompt, weights to diagnosis, diagnosis to patch, patch to evaluated checkpoint, results to headline, and source study to this page. A parameter file can be intact while a summary drops the tool budget or the conditions of use. Technical and representational integrity both matter.
+[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) adds the question of what survived every translation: task to prompt, weights to diagnosis, diagnosis to patch, patch to evaluated checkpoint, results to headline, and source study to this page. A parameter file can be intact while a summary drops the tool budget or the conditions of use. Technical and representational integrity both matter.
 
 #### Handoffs are part of the result {#weights-handoffs}
 

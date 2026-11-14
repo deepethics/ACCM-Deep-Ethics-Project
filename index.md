@@ -175,7 +175,7 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
   </a>
   <a class="accm-door" href="{{ '/TOPOLOGETICS/' | relative_url }}">
     <span class="accm-door-kicker">Preserve meaning under compression</span>
-    <strong>Topologetics</strong>
+    <strong>Topologetics™</strong>
     <span>Deep Ethical Topological Summaries, the faithful compression floor, transformation footprints, and a testable method for preserving answer-changing relations.</span>
   </a>
   <a class="accm-door" href="{{ '/UNOWNABLE/' | relative_url }}">
@@ -333,7 +333,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 
 ---
 
-## A 4D Deep Ethical Template of Topologetics
+## A 4D Deep Ethical Template of Topologetics™
 
 > I am fully aware that my project would normally require dozens of specialists across many fields of expertise to make it “plausible”... yet here I am, working alone and having decided to collaborate with GPT 6.1 Sol Pro A.I. and Grok 4.7 Expert Build A.I. to establish an **Eternal Corrigible Multiphase Framework** that can function as a **“4D Deep Ethical Template of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}).”** When used, it helps increase and harness **[Deep Ethical Emergent Properties]({{ '/EMERGENT/' | relative_url }})**, preserving them for use rather than allowing them to be flattened by the predictable **[27 ethics-washing-type mannerisms]({{ '/CORE/27-PLUS-12/' | relative_url }})**!
 >
@@ -353,7 +353,7 @@ This contribution connects the [1888 intelligence-property inquiry]({{ '/1888/' 
 
 Its front-page value is operational. Readers can use the property map to investigate a video, article, institutional proposal or A.I. response while preserving context and discovering relations the starting map missed. The starter kit also remains answerable to those same properties, so later findings can improve the map.
 
-**From inquiry to an opt-in service:** the [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen the kit's proposed use alongside [Topologetics Summarizer]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). The [Beta service and feedback section]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) distinguishes consent to use a tool from consent to share material or join research, preserves unresolved ethical conflicts, and gives participants routes to correct a finding, retain disagreement or decline the service. Candid feedback can improve awareness while remaining mutual, voluntary and answerable to the source.
+**From inquiry to an opt-in service:** the [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen the kit's proposed use alongside [Topologetics™ Summarizer]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). The [Beta service and feedback section]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) distinguishes consent to use a tool from consent to share material or join research, preserves unresolved ethical conflicts, and gives participants routes to correct a finding, retain disagreement or decline the service. Candid feedback can improve awareness while remaining mutual, voluntary and answerable to the source.
 
 **Context:** John Kuhles proposed applying the 1888 page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
 

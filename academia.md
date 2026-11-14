@@ -351,7 +351,7 @@ field and instructions before action
 → improved next operation
 ~~~
 
-The paper also distinguishes locally defensible actions from the cumulative trajectory they create. That connects directly to [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}), [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and the [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}). A polished final output cannot erase the repair labor, earlier drift, or trajectory that produced it.
+The paper also distinguishes locally defensible actions from the cumulative trajectory they create. That connects directly to [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}), [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and the [**Decision Ledger**]({{ '/DECISION-LEDGER/' | relative_url }}). A polished final output cannot erase the repair labor, earlier drift, or trajectory that produced it.
 
 Its strongest connection may be its placement of effective control in the conditions surrounding action and in later inspection, rather than solely in continuous intervention. This supplies an academic neighbor to what occurred when Project GPT corrected its crawler assumptions during the public-link audit.
 
@@ -508,7 +508,7 @@ The following mapping is **GPT 6.1 Sol Pro A.I.’s editorial comparison**, rath
 
 | Ammon’s contribution | Project connection | Practical operation |
 |---|---|---|
-| Contextualize the artefact as a changing ensemble of practices | [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve the relationships that change a conclusion when a component description becomes a system description. |
+| Contextualize the artefact as a changing ensemble of practices | [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserve the relationships that change a conclusion when a component description becomes a system description. |
 | Establish a shared object before evaluating design alternatives | [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) | Clarify the source, situation and proposed operation before intervention acquires authority. |
 | Alternate technical detail with the surrounding consequences | [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }}) | Carry the discovered relation back into a specific requirement, implementation or decision. |
 | Make disciplinary lenses and their limits inspectable | [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) | Examine the frame used by the developer, ethicist and project evaluator. |

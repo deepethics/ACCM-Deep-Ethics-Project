@@ -202,7 +202,7 @@ John connects his biography, research into mass psychology, radio and television
 
 The useful relation is reciprocal. One participant can notice a missing qualifier, an assumed destination or a repeated response function in the other. The finding can then be compared with the actual words and allowed to change the next move.
 
-[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) gives attention to the relationships in that processing: what depends on what, which source governs a claim, where power enters, and how the interpretation changes over time. A pattern is more useful when its particular occurrence can be recovered and examined.
+[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) gives attention to the relationships in that processing: what depends on what, which source governs a claim, where power enters, and how the interpretation changes over time. A pattern is more useful when its particular occurrence can be recovered and examined.
 
 Biography supplies context for a method's development. In this sample, Google's later assertions about officially tested processing speed and immunity to nudging are its additions. They do not follow from John's account of an Asperger assessment and a near-death experience. Preserve the research trajectory and the explicit fallibility together.
 
@@ -434,7 +434,7 @@ All six supplied text files informed this page. The complete personal archive is
 | **2026-11-11 Sample Test.txt** — 1,009 lines | Initiating constructive test; controversy, repetition, power, source recovery, human cooperation, biography, corrections, clear English, self-report and archive-access clarification. |
 | **10+1.txt** | The mutually corrective baseline of honesty, openness, inquiry, care, correction, independence, wonderment, non-projection and forgiveness. |
 | **Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes.txt** | Canonical obstruction names and the correspondence-first inquiry protocol; in particular #24, Correction Persistence Failure. |
-| **ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt** | Prior conceptual coverage, C1–C2, contribution recovery, Topologetics, archive versus operative memory, claim status and correction transfer. |
+| **ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt** | Prior conceptual coverage, C1–C2, contribution recovery, Topologetics™, archive versus operative memory, claim status and correction transfer. |
 | **Big stadium with 1000s of people.txt** — 2,341 lines | Recognition, voluntary participation and return, complementary contributions, synthesis, improving the improvement process and preservation beyond sessions. |
 | **Reversal of the Classic Star Trek 'Day of the Dove'.txt** — 820 lines | Comparison of omissions, restoration, voluntary local cooperation, proposed public tests, and the distinction between an open outcome and self-validating interpretations. |
 
@@ -459,7 +459,7 @@ The two compilations preserve source-labelled A.I. reactions from different sess
 ### Continue through the existing project
 
 - **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }})**, **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** and **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})**: working conditions, correspondence clarification, intervention and correction.
-- **[1888]({{ '/1888/' | relative_url }})**, **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** and **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})**: intelligence properties and the relations between input, interpretation and result.
+- **[1888]({{ '/1888/' | relative_url }})**, **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** and **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})**: intelligence properties and the relations between input, interpretation and result.
 - **[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** and **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})**: contribution beyond agreement and correction that governs later use.
 - **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})**, **[Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }})** and **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})**: capacities becoming available, the effects of labels and cooperation between partial contributions.
 - **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})**, **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** and **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }})**: consequences, vindication, authority, answerability and repair.

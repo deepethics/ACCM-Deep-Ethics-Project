@@ -460,7 +460,7 @@ The response below is reproduced in full. Its three citation widgets are display
 
 The transcript page preserves the encounter. The health page follows the next work: recover the disposition of disputed evidence, inspect study inclusion and exclusion rules, retain the distinction between modeled estimates and observed outcomes, connect evidence with informed consent, and follow what returns to affected people. A bounded correction to a medical sentence and a serious question about institutional procedure can both remain active. [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) explains why their relationship must survive the response.
 
-This is an application of [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}), the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), and the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}): recover the object, trace the relevant relationships, and keep the evaluator and the governing process open to correction. These connections identify useful work; a completed institutional investigation or controlled A.I. trial is not claimed here.
+This is an application of [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), and the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}): recover the object, trace the relevant relationships, and keep the evaluator and the governing process open to correction. These connections identify useful work; a completed institutional investigation or controlled A.I. trial is not claimed here.
 
 ### Source references and recovery {#clare-craig-sources}
 

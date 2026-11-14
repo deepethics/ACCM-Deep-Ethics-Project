@@ -468,7 +468,7 @@ The relation is mutual without pretending that human beings, model instances, co
 | **TCoAw™** | Keeps the detected evaluation field and the evaluator’s field inside the representation |
 | **C1 before C2** | Clarifies “cheating,” “knowing,” “playing dumb” and “awareness” before verdict inflation |
 | **Meta Processing** | Prevents B, A and C from being collapsed into one story about intent |
-| **Topologetics** | Protects provenance edges among Hinton, interviewer, narrator, paper, commenter and project synthesis |
+| **Topologetics™** | Protects provenance edges among Hinton, interviewer, narrator, paper, commenter and project synthesis |
 | **Contribution State Grammar** | Replaces agree/disagree with test-worthy, unresolved, useful here and corrigible reasons |
 | **Field Condition** | Treats evaluation cues, incentives, authority and observability as causal parts of performance |
 | **Black Box** | Separates observed behavior from inaccessible processing while still examining governable opacity |
@@ -509,7 +509,7 @@ No title, award, interview, narrator, benchmark, model self-report or project pa
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the wider evaluation field active without certifying every inferred relation.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — distinguishes answer-changing clarification from premature judgment and ceremonial questioning.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent, instruction, processing, displayed result, effect and later correction.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — protects answer-changing provenance and relation edges across compression and reconstruction.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — protects answer-changing provenance and relation edges across compression and reconstruction.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Deep Ethical Contribution State Grammar Vector Trajectory.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how the same capability can express differently under changed relational conditions.
 - [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) — distinguishes neural opacity from inspectable governance, incentive and access opacity.

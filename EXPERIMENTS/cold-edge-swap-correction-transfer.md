@@ -128,7 +128,7 @@ Add qualitative notes for motive inflation, rule installation, claim-status loss
 
 Begin with the two frozen pairs, one join-control, one valid-null, and one debranded item. Expand only if independent scoring indicates that responses are reacting to the changed relation. If the pilot mostly detects word familiarity, repair the stimuli before increasing item count.
 
-This is not the existing 52-prompt battery and not the Topologetics word-retrieval test. It tests whether a changed edge changes the representation.
+This is not the existing 52-prompt battery and not the Topologetics™ word-retrieval test. It tests whether a changed edge changes the representation.
 
 ---
 

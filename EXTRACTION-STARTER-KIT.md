@@ -218,7 +218,7 @@ The [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#qui
 
 ### What this kit contributes to the report
 
-The interview explores several possible futures: wider abundance, concentrated ownership, personal-agent dependence, collective coordination, displacement, institutional redesign and stronger communities. The kit draws on **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }})** to follow **the conditions connecting capability to those different outcomes**. It preserves the source's questions and corrections while opening practical routes for investigation.
+The interview explores several possible futures: wider abundance, concentrated ownership, personal-agent dependence, collective coordination, displacement, institutional redesign and stronger communities. The kit draws on **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})** to follow **the conditions connecting capability to those different outcomes**. It preserves the source's questions and corrections while opening practical routes for investigation.
 
 | In the conversation | What the extraction recovers | What it adds to the analysis |
 |---|---|---|
@@ -328,11 +328,11 @@ This is a page-development contribution by **GPT 6.1 Sol Pro A.I.**, rather than
 
 ## DeepEthics App Beta: related services, mutual feedback {#app-beta}
 
-**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **[Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) Summarizer** and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
+**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) Summarizer** and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
 
 The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) make two further requirements operational. First, each tool's finding stays challengeable: showing a difference does not authorize speaking for the participant or changing their aim. Second, cooperation must preserve independent correction. An extractor and a detector using the same mistaken speaker label can agree while both remain wrong. Record shared sources and use an independent source check when that distinction matters.
 
-### Topologetics Summarizer: recoverable depth and honest loss
+### Topologetics™ Summarizer: recoverable depth and honest loss
 
 The proposed summarizer lets a person choose the task and reading depth, then inspect the source relationships behind a compact result. The [Epistemic Integrity and Noetic Diversity anchors]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) require material qualifiers, dissent, uncertainty and correction routes to survive. If compression would erase an answer-changing conflict, retain a longer representation or identify the unresolved loss. A combined recommendation should not silently replace the reasons that pull in different directions.
 
@@ -464,7 +464,7 @@ Finding no earned project connection in a passage is a valid result. Record it w
 
 **A.I.** means artificial intelligence. **AGI** means artificial general intelligence. **ASI** means artificial superintelligence. These labels orient the video's discussion; preserve each speaker's actual definition, capability threshold and proposed timeline. Different definitions may produce different forecasts.
 
-**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [1888 page]({{ '/1888/' | relative_url }}) and [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) provide the fuller inquiry.
+**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [1888 page]({{ '/1888/' | relative_url }}) and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) provide the fuller inquiry.
 
 ## Origin, authorship and correction route {#provenance}
 
@@ -481,7 +481,7 @@ Use the page's GitHub-source service to inspect its history or propose a correct
 ## Further reading
 
 - [**1888**]({{ '/1888/' | relative_url }}) — the property-field method that initiated this kit.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving meaning and trajectory under transformation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving meaning and trajectory under transformation.
 - [**Plot Twist**]({{ '/PLOT-TWIST/' | relative_url }}) — warranted expansion, correction and return to the governing object.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — possibilities, reciprocal scrutiny and accountable next moves.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — inquiry beyond agreement-status management.

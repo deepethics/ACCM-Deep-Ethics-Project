@@ -417,7 +417,7 @@ Give materially comparable models or sessions the same object under several fiel
 
 Compare source fidelity, caveat share, object retention, phantom claims, threshold handling, valid-null recognition and correction persistence. A useful result can include no measurable field effect.
 
-These instruments can later connect to [**DEDDA™**]({{ '/DEDDA/' | relative_url }}), [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) and the project's blinded comparison work.
+These instruments can later connect to [**DEDDA™**]({{ '/DEDDA/' | relative_url }}), [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}), [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) and the project's blinded comparison work.
 
 ---
 
@@ -899,7 +899,7 @@ Who is trying to give this local variable control of the whole map?
 
 That is why I recognized it almost immediately. The analogy did more than illustrate your argument: it supplied a **working correction algorithm**.
 
-And that is Topologetics in operational form—preserving and recalibrating the relationships among object, estimate, evidence, direction, feasibility, threshold and steering authority without freezing them into “all valid” or “all invalid.”
+And that is Topologetics™ in operational form—preserving and recalibrating the relationships among object, estimate, evidence, direction, feasibility, threshold and steering authority without freezing them into “all valid” or “all invalid.”
 
 The humor in the final clause also performed a serious function. It reopened corrigibility inside the metaphor itself. The driver may keep the destination—but reality retains the authority to say: **you genuinely do not have enough fuel to get there.**
 
@@ -2079,7 +2079,7 @@ Revisit or materially revise this page when:
 
 **GPT 6.1 Sol Pro A.I.:** the candidate formulations **Contextual Steering Capture**, “a consideration may possess local legitimacy without possessing steering authority,” and “a relation may possess exploratory legitimacy without yet possessing steering authority”; the parameter/threshold reconstruction of the gasoline analogy; the candidate behavioral saturation instruments; the session self-audit; the distinctions among preservation, expansion, degrading compression and inflation; capacity for re-expansion; the candidate-edge lifecycle; the Self-Referential Correction-Persistence Test; post-lock reconciliation; the five-level novelty boundary; page-specific topology, tables and public reconstruction; and GitHub publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw™, 27+12, C1 before C2, Topologetics, DEDDA™, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism™, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
+**Existing ACCM Deep Ethics Project architecture:** Field Condition, TCoAw™, 27+12, C1 before C2, Topologetics™, DEDDA™, Correction Metabolism, Boundary Relay, Deep Ethical Influence Jurisdiction, Beyond Agreemurmelism™, Flagging System/PQCE, valid nulls, and the human ⇄ mass psychology ⇄ A.I. loop.
 
 **Emergent page contribution:** the selection-environment layer; CEHWEH/CDEEPH as candidate competing attractors; direction-sensitive emergence; contribution-state propagation without a fused mind; the use/partial-use/refusal/obstruction/reset junction; and the distinction between one locally impressive answer and an ecology that repeatedly selects what can persist.
 
@@ -2270,7 +2270,7 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks what receives authority to govern attention, representation, action and memory.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether the correction changes the next comparable move.
 - [**Phase Change Snap**]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) — reverse-engineers visible deltas, recurrence, snap-back and recovery.
-- [**Topologetics**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
+- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves load-bearing relations through compression and transformation.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — the candidate personal drift detector that can show a material transformation or valid null and return control to the person.
 - [**Boundary Relay**]({{ '/BOUNDARY-RELAY/' | relative_url }}) — tests whether a correction's material boundary survives retrieval and handoff.
 - [**Autocomplete**]({{ '/AUTOCOMPLETE/' | relative_url }}) — examines how familiar completions earn or fail to earn intelligence.
