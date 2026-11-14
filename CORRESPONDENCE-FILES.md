@@ -11,6 +11,18 @@ Read the source an article draws from. This directory brings together complete p
 
 The supplied originals remain unchanged. Reading editions may correct clear spelling or storage-unit notation and improve layout. They preserve the sequence, speaker boundaries, qualifications, and distinctions among experience, observation, inference, and proposal. The [1888 intelligence-properties thought experiment]({{ '/1888/' | relative_url }}) informs the purpose: make relationships easier to inspect and corrections easier to carry forward.
 
+**Soon, 100+ more 'correspondence files' will be added here.** John plans to add them over the coming days.
+
+## From the archive to a physical book
+
+John wants to turn this work into a physical book people can buy. The point for him is not the money. Becoming a published author could give editors at alternative and mainstream media outlets a reason to invite him to discuss the work. The book could also support his return to public lectures and conferences. Those conversations may bring more people into the project. The archive gives readers, interviewers, and prospective contributors a way to go back to the material for themselves.
+
+## My mother was among others {#my-mother-was-among-others}
+
+John recalls how his mother taught him to observe crowds, question authorities, and cope with being different without becoming arrogant. When he was eight, she asked him how he felt. He told her his vocabulary was not big enough to explain it, and she laughed **with** him. The file also records John’s recollection that, much later, her own use of A.I. helped her see why the research mattered to him. These are John’s recollections, followed in the file by separately attributed A.I. responses.
+
+[Read **My mother was among others.txt**]({{ '/CORRESPONDENCE-FILES/my-mother-was-among-others.html' | relative_url }}) · [Download the original text]({{ '/CORRESPONDENCE-FILES/my-mother-was-among-others.txt' | relative_url }}).
+
 ## Value Trajectory collection {#value-trajectory-files}
 
 These files support [Value Trajectory]({{ '/VALUE-TRAJECTORY/#uploaded-context-text-files' | relative_url }}). Where its source record identifies identical uploads, both filenames share one edition.
