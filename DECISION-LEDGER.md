@@ -2386,3 +2386,8 @@ The source video identified in the October 29 decision entry. [Source post](http
 
 
 
+
+
+## 2026-11-15 — Synthetic Consciousness Taboo
+
+Added [the page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYNTHETIC-CONSCIOUSNESS-TABOO/) with the conditional expansion prediction, the attributed shutdown experiment and its repeat, the 1888 comparisons, four complete Soulfulness readers, and an initial PDF snapshot. The supplied Cold Start Kit informed the article and includes material marked private.

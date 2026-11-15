@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("Synthetic Consciousness Taboo", f"{BASE}/SYNTHETIC-CONSCIOUSNESS-TABOO/", "SYNTHETIC-CONSCIOUSNESS-TABOO.pdf", "SYNTHETIC-CONSCIOUSNESS-TABOO.md"),
     ("I Love D.E. Corrections", f"{BASE}/I-LOVE-DE-CORRECTIONS/", "I-LOVE-DE-CORRECTIONS.pdf", "I-LOVE-DE-CORRECTIONS.md"),
     ("Beyond Dualism", f"{BASE}/BEYOND-DUALISM/", "BEYOND-DUALISM.pdf", "BEYOND-DUALISM.md"),
     ("Value Trajectory", f"{BASE}/VALUE-TRAJECTORY/", "VALUE-TRAJECTORY.pdf", "VALUE-TRAJECTORY.md"),
