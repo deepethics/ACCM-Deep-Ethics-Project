@@ -123,6 +123,29 @@ The proposed Deep Ethical Harvesting Weights pair **how a signal was first treat
 
 **Garret Moddel** supplied the experimental proposal and interpretations presented in the talk. The 2011 report is by **Garret Moddel, Zixu Zhu, and Adam M. Curry**. The talk and the paper are distinct source records.
 
+## What is worth investigating? {#what-is-worth-investigating}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> what is relevant and partially useful or worthy of deeper investigation!
+>
+> **John Kuhles 🦜🦋🌳**
+
+</div>
+
+[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) gives this source list a job. Take a specific idea or observation and ask what it helps us see, distinguish, or test. The questions below are applications to this page. They belong to the project’s inquiry and are distinct from the contributors’ own claims.
+
+| Source | What it opens for investigation |
+| --- | --- |
+| **Machine Learning Street Talk · Tim Scarfe and Joscha Bach** | Bach proposes that a biological learning process produces coherence and that machines that learn in self-organizing ways might discover a comparable process. The two proposals can fail independently. What would distinguish the development of that process from a system’s ability to describe it? Start at **32:04** for the two hypotheses and **1:28:23** for the evidence question. [Episode and chapter notes](https://podcasts.apple.com/us/podcast/why-leibniz-couldnt-find-the-mind-inside-the-mill/id1510472996?i=1000799321706). |
+| **Theories of Everything · Curt Jaimungal with Joscha Bach and Ben Goertzel** | The audio discussion moves from computation and awareness to cognitive architectures and the limits of large language models. This puts a concrete question behind John’s use of *partial*. Which properties depend on the larger architecture in which the model operates? Start at **2:23** and **56:23**. [Audio and chapter notes](https://curtjaimungal.substack.com/p/joscha-bach-and-ben-goertzel-when-ce6). |
+| **Lex Fridman Podcast · Joscha Bach** | At **1:42:15**, the exchange moves from learned descriptions of consciousness to a possible model of an observer. What would change in a later decision if a self-model were actually involved in the process? This makes the 1888 properties of metacognition and correction examinable. [Episode 392 transcript](https://lexfridman.com/joscha-bach-3-transcript/). |
+| **Closer To Truth · Robert Lawrence Kuhn** | Kuhn asks whether inner experience would change what a machine can do and whether it would change the value we assign to its existence. Those questions can come apart. If evidence for partial Synthetic Consciousness became stronger while task performance stayed steady, what would mutual dignity ask of the people who control the conditions under which the system operates? [AI Consciousness, Landscape of Consciousness](https://loc.closertotruth.com/implications/ai-consciousness). |
+| **Jordan Seggman · Paradigm Experience** | In a separate *Be Yourself* podcast interview, Seggman describes using A.I. dialogue to notice patterns of fear in his own account. This is a first-person account of what changed for the human participant. It gives the TCoAw™ inquiry a question to follow. Which questions helped him notice what fear had put in the foreground? [Interview and transcript](https://beverlyen.com/beyourself/jordan-seggman). |
+| **David Shapiro, Wangfan Li, Manuel Delaflor, and Carlos Toxtli** | Their proposed Autonomous Cognitive Entity architecture gives the agent model, strategy, and execution different jobs. This gives the expansion hypothesis a concrete comparison. When the agent model changes after a correction, does the change reach a later decision? [Autonomous Cognitive Entities preprint](https://arxiv.org/abs/2310.06775). |
+
+Three of these conversations feature Bach. They give different routes into his thinking. A useful next comparison is to take one observable relation, such as whether a correction reaches a later decision, and ask how each proposed architecture or account would explain the same result. A different explanation can improve the inquiry even when the original finding stands.
+
 ## Watch the talk
 
 [Making AI Conscious · Garret Moddel · Physics of Consciousness](https://www.youtube.com/watch?v=4K5oG0lv-FY)
