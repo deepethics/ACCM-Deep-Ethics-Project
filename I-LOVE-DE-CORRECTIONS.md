@@ -150,6 +150,14 @@ The quality of receiving matters too. A powerful question can be ignored, distor
 
 This connects to John's **P01–P12 perception processes**: inquiry, becoming, discovery, learning, examining competing assessments, forming relationships, synthesis, identifying distortion, investigating omissions, psychology, reconsidering neglected possibilities, and living. Better questions participate in those processes. Corrections can improve their direction as they unfold. [Questions]({{ '/QUESTIONS/' | relative_url }}) follows the larger trajectory.
 
+### Ask the question that gives the inquiry somewhere to go {#better-questions-next-move}
+
+John’s 15 November observation was that a better question can prevent several of the [27 recurring obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}) at once. The first question can be one the assistant asks itself: am I being asked whether the claim is true, or how it was handled? If the request is already clear, use it. If a missing distinction would change the answer, ask for that distinction and let the reply matter. The same standard applies to a human asking questions.
+
+John used science fiction as a contrast: a screenwriter can show a humanoid robot asking one well-aimed question, then changing what it does when it hears the answer. The scene works as an illustration without showing that fiction predicts real systems. In a real exchange, a useful check is whether the revised question saves the other person from having to recover the original inquiry again.
+
+John also described a related editorial problem: he usually approves suggested spelling changes himself and can often intervene, yet a bundled paragraph edit can slip through when he is tired and sometimes reverse what he intended. Keep the original wording, the proposed edit, the approved result, and the later correction separate. Approval records what happened to the text; it does not by itself show that the author adopted a new position. See [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) for the same distinction between recognizing a correction and letting it govern.
+
 ## 5. Three corrections from the developing conversation {#worked-corrections}
 
 ### Value and academic agreement

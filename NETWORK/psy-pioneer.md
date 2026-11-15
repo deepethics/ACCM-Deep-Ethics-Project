@@ -278,6 +278,16 @@ Useful explanations, dignity-preserving disagreement and successful collaboratio
 
 [Ruolei Gu and colleagues, *Why sycophantic LLMs may imperil interactive norms between humans*](https://www.nature.com/articles/s44271-026-00486-9) (16 June 2026) is a **Perspective** proposing that interaction habits can carry from conversational systems into human relationships. It identifies emerging evidence while leaving durability and real-world magnitude unresolved. Its cross-context proposal helps specify the middle, human-to-human part of John's wider recursive inquiry. The two publications have different evidence jobs; neither establishes the synthetic-emotional-signature explanation.
 
+### Individual, collective, and model-level evidence {#psychology-mannerism-evidence}
+
+A discussion on 15 November 2026 returned to [DUHHHH!.txt]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) and separated three questions: why an available capacity might go unused by a person, which answers a group rewards or repeats, and what move an A.I. actually makes under comparable conditions. Related work gives each question a comparison without treating the three as one mechanism.
+
+- **Individual:** [Stanovich and colleagues on myside bias](https://doi.org/10.1177/0963721413480174) distinguish cognitive ability from evaluating evidence without favoring one’s own position. [Stanovich and Toplak on actively open-minded thinking](https://pubmed.ncbi.nlm.nih.gov/36826925/) examine dispositions such as considering alternatives and postponing closure.
+- **Organizational:** [Chris Argyris’s account of defensive reasoning](https://hbr.org/1991/05/teaching-smart-people-how-to-learn) examines how skilled professionals can solve problems while defending their own conduct from scrutiny.
+- **Model outputs:** [Zhu and colleagues’ conformity experiments](https://aclanthology.org/2025.acl-long.195/) found shifts toward a stated majority in the tested models. [Sharma and colleagues’ sycophancy study](https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html) found that evaluators sometimes preferred convincing agreement to correct answers.
+
+These are partial parallels, not a demonstration of the whole recursive loop or evidence that a model shares human motives. Pairing them with [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) gives a way to locate whether the difference appeared in perception, discrimination, judgment, action, or later correction.
+
 ## Synthetic Psyche as a research object
 
 “Synthetic Psyche” is used here as a functional lens for interaction patterns. It does not settle questions of consciousness, sentience, inner experience, or biological equivalence.

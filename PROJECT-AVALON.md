@@ -213,6 +213,14 @@ The constructive test concerns the next operation: can sensitivity inform attent
 
 The **32 Avalon topic clusters**, the **11+1 mass-psychology architecture**, and a **proposed eleven-topic showcase programme** count different objects. Their relationships can be useful without merging their inventories.
 
+## Audit the next move, including the evaluator’s {#audit-the-next-move}
+
+The [DUHHHH!.txt]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) exchange supplies a compact example of Deep Ethical Topological Prompt Engineering™ in action. A prompt about an observable interaction can return as an answer about a different object. The immediate repair is to recover the question and continue the work it called for.
+
+In an Avalon-style archive, keep these operations separate: record what the participant reported, examine how another participant or system handled it, and verify the underlying claim where that is part of the task. A source map can include all three without giving them the same evidence status. If a caution is relevant to claim verification, it can remain there without taking over a question about handling. Apply the same check to the person prompting, the A.I. answering, and the criteria of the inventory itself.
+
+That makes the next handoff observable: did the correction change the inventory entry, restore an overlooked relationship, or produce a better question? If the original was already faithful, leave it intact. The aim is to free attention for the inquiry, and to keep what people contributed recoverable. See [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) for a small comparison that does not require agreement with the framework.
+
 ## A transferable working method {#working-method}
 
 Begin with the actual archive and the intended use. Read in manageable batches, preserve source locations and report the material examined. For each useful contribution, retain enough context to explain **what it offers, why it matters, what remains unresolved and what could happen next**.
