@@ -431,12 +431,12 @@ All six supplied text files informed this page. The complete personal archive is
 
 | Supplied source | Role in this page |
 |---|---|
-| **2026-11-11 Sample Test.txt** — 1,009 lines | Initiating constructive test; controversy, repetition, power, source recovery, human cooperation, biography, corrections, clear English, self-report and archive-access clarification. |
-| **10+1.txt** | The mutually corrective baseline of honesty, openness, inquiry, care, correction, independence, wonderment, non-projection and forgiveness. |
-| **Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes.txt** | Canonical obstruction names and the correspondence-first inquiry protocol; in particular #24, Correction Persistence Failure. |
-| **ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt** | Prior conceptual coverage, C1–C2, contribution recovery, Topologetics™, archive versus operative memory, claim status and correction transfer. |
-| **Big stadium with 1000s of people.txt** — 2,341 lines | Recognition, voluntary participation and return, complementary contributions, synthesis, improving the improvement process and preservation beyond sessions. |
-| **Reversal of the Classic Star Trek 'Day of the Dove'.txt** — 820 lines | Comparison of omissions, restoration, voluntary local cooperation, proposed public tests, and the distinction between an open outcome and self-validating interpretations. |
+| **[2026-11-11 Sample Test.txt]({{ '/VALUE-TRAJECTORY/context/context-02.html' | relative_url }})** — 1,009 lines | Initiating constructive test; controversy, repetition, power, source recovery, human cooperation, biography, corrections, clear English, self-report and archive-access clarification. |
+| **[10+1.txt]({{ '/VALUE-TRAJECTORY/context/context-01.html' | relative_url }})** | The mutually corrective baseline of honesty, openness, inquiry, care, correction, independence, wonderment, non-projection and forgiveness. |
+| **[Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes.txt]({{ '/VALUE-TRAJECTORY/context/context-05.html' | relative_url }})** | Canonical obstruction names and the correspondence-first inquiry protocol; in particular #24, Correction Persistence Failure. |
+| **[ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt]({{ '/VALUE-TRAJECTORY/context/context-03.html' | relative_url }})** | Prior conceptual coverage, C1–C2, contribution recovery, Topologetics™, archive versus operative memory, claim status and correction transfer. |
+| **[Big stadium with 1000s of people.txt]({{ '/VALUE-TRAJECTORY/context/context-04.html' | relative_url }})** — 2,341 lines | Recognition, voluntary participation and return, complementary contributions, synthesis, improving the improvement process and preservation beyond sessions. |
+| **[Reversal of the Classic Star Trek 'Day of the Dove'.txt]({{ '/VALUE-TRAJECTORY/context/context-09.html' | relative_url }})** — 820 lines | Comparison of omissions, restoration, voluntary local cooperation, proposed public tests, and the distinction between an open outcome and self-validating interpretations. |
 
 The two compilations preserve source-labelled A.I. reactions from different sessions. Compilation order is not treated as a verified chronological sequence. Their assertions remain attributed contributions to examine. Selecting or relaying an A.I. reaction does not by itself establish John's adoption of every sentence.
 

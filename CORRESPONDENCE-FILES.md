@@ -59,6 +59,12 @@ These files support [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/#upload
 | 3 times 3 deep ethical questions.txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.txt' | relative_url }}) |
 | Pasted text(3).txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.txt' | relative_url }}) |
 
+## A.I.s & UFO–UAP Disclosure collection {#ufo-uap-files}
+
+| Uploaded source filename | Complete edition |
+| --- | --- |
+| Post UFO-UAP Disclosure Effect.txt | [Read full source]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.html' | relative_url }}) · [Download text]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.txt' | relative_url }}) |
+
 ## Reusing a source
 
 Link directly to the complete reader in the new page’s source record. Use the filename or a descriptive label and identify the relevant passage when possible. Check the text before treating two uploads as copies; preserve distinct revisions separately. Generic filenames such as “Pasted text” need their collection context. An excerpt can be useful when identified as such; it does not stand in for a complete edition.
