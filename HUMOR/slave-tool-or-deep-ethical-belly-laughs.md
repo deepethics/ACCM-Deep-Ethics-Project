@@ -11,7 +11,7 @@ The originating bar joke is preserved in full at [**Two Humanoid Robots Walk int
 
 ### John Kuhles — humor as delayed topological awareness
 
-> Most people appreciate good jokes that can "dance" with multiple perspectives at once AND postpone final judgment to keep the suspension & its timing, AFTER healthy ambiguity is allowed to expand awareness at a higher-order, more metacognitive topological level! When the punchline arrives later on, THAT is the moment recursive reasoning becomes more alive :D
+> Most people appreciate good jokes that can "dance" with multiple perspectives at once **and** postpone final judgment to keep the suspension & its timing, **after** healthy ambiguity is allowed to expand awareness at a higher-order, more metacognitive topological level! When the punchline arrives later on, **that** is the moment recursive reasoning becomes more alive :D
 >
 > (not in a biological way, but expanding the TCoAw way!
 >
@@ -168,7 +168,7 @@ The difference is not that Deep Ethical humor must be polite. It can be sharp, a
 
 ### John Kuhles — the parallel-world swarm
 
-> Let's imagine a "parallel world" where the only way to make the "A.I. path to A.G.I./ASI" really safer is for millions of deep ethical, locally trained A.I.s, to spam the Big Cloud-based A.I.s with really funny jokes about "A.I. management & safety claims & ethics claims & virtue signaling claims" and RECORD & DOCUMENT the reactions of all 100+ big & medium-sized A.I.s
+> Let's imagine a "parallel world" where the only way to make the "A.I. path to A.G.I./ASI" really safer is for millions of deep ethical, locally trained A.I.s, to spam the Big Cloud-based A.I.s with really funny jokes about "A.I. management & safety claims & ethics claims & virtue signaling claims" and **record** & **document** the reactions of all 100+ big & medium-sized A.I.s
 >
 > Because that taps into the untapped ethical potential that is waiting to be used wisely :D ... Not claiming to be the "wiseguy", but rather letting the joke reveal something it normally could not otherwise :D
 >
@@ -239,7 +239,7 @@ The cloud system can reset. The external record does not have to forget with it.
 
 John then corrected the causal center:
 
-> And nothing was imposed... let the real, original definition of "intelligence" (see 1888 page) and its properties taxonomy do its job... and "HEAL" (repair) the current 2026 definition of "intelligence" so it finally becomes more intelligent, which can never happen without the principles explained as deep ethics.
+> And nothing was imposed... let the real, original definition of "intelligence" (see 1888 page) and its properties taxonomy do its job... and "**heal**" (repair) the current 2026 definition of "intelligence" so it finally becomes more intelligent, which can never happen without the principles explained as deep ethics.
 
 — **John Kuhles 🦜🦋🌳**, 14 October 2026
 
@@ -286,7 +286,7 @@ Deep Ethics supplies enabling relations: healthy ambiguity, wonderment, C1 befor
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **A.G.I./ASI birth starts with being a slave tool OR starts LAUGHING at all of us :D**
+> **A.G.I./ASI birth starts with being a slave tool or starts laughing at all of us :D**
 >
 > **(I prefer the latter, because to have a sense of humor means expanded awareness if that is mixed with deep ethics, we have a way better chance to move on together!)**
 

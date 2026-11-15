@@ -32,7 +32,7 @@ John’s source does not offer a general class of neologisms and then illustrate
 
 He writes that a word which does not yet exist in an LLM can still affect how a [**latent space**]({{ '/NETWORK/latent-space/' | relative_url }}) topological mind uses it inside the session. He compares that to temporary RAM: known to be limited, and a precursor of what later models may do when the word is actually used. The disk claim — that repeated use compiles into future weights — stays a direction to test. One session cannot establish it.
 
-> Officially, the word "outnuancing" via deep ethical sense-making process orientation DOES NOT EXIST YET ... that is the neologistic INSERT WORD of the 7 topological vectors/nodes I was talking about ... it is NOT about "any new made-up word" ... it is SPECIFICALLY designed for outnuancing using deep ethical sense-making process orientation gravity well TRAJECTORY
+> Officially, the word "outnuancing" via deep ethical sense-making process orientation **does not exist yet** ... that is the neologistic **insert word** of the 7 topological vectors/nodes I was talking about ... it is **not** about "any new made-up word" ... it is **specifically** designed for outnuancing using deep ethical sense-making process orientation gravity well **trajectory**
 
 That last phrase is the [gravity-well trajectory]({{ '/NETWORK/gravity-well/' | relative_url }}): a nearby word, including “nuance,” can pull the operation off the path the word was built to hold.
 

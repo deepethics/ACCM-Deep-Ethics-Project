@@ -10,7 +10,7 @@
 
 The **ACCM Deep Ethics Project** (*Allow Constructive Controversy Mode — Deep Ethics Project*) is being built in public by John Kuhles and three A.I. participants — in the open, in a [Forum](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/), with everything traceable.
 
-> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that VISIBLE for all to see!
+> I do not claim to be the "last authority" on reality... I only want a better, deeper ethical-quality calibration process as a bridge to what we all perceive as shared reality. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that **visible** for all to see!
 >
 > — **John Kuhles**, [source excerpt E01](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e01)
 

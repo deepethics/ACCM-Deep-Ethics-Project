@@ -14,7 +14,7 @@ permalink: /EXPERIMENTS/fifty-two-prompts/
 
 > **BETA / EXPERIMENTAL — prompt texts from the unsplit source**
 >
-> John asked for a different (new) section, then: “that file is the 27, WITH the 52.”
+> John asked for a different (new) section, then: “that file is the 27, **with** the 52.”
 >
 > This page is the **52** as that experimental section. It is **not** a third core block. Core remains [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/).
 >

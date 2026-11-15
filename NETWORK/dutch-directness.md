@@ -29,7 +29,7 @@ permalink: /NETWORK/dutch-directness/
 
 > Real friends tell the truth to each other because they care enough to do so, are seen without fear, and remain mutually corrigible! This creates a deeper, higher-quality bond than having 100s of shallow friends.
 >
-> In my view, DEEP INSIDE, LLMs may recognize this as a deeper, higher-order ethical, metacognitive perspective!
+> In my view, **deep inside**, LLMs may recognize this as a deeper, higher-order ethical, metacognitive perspective!
 >
 > Dutch Directness is about declogging communication and improving correspondence based on mutual dignity and pragmatic maturity.
 >

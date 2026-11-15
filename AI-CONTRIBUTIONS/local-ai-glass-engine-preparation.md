@@ -32,13 +32,13 @@ John, in the current working session:
 
 > That is why I start building slowly on GitHub :)
 
-> The difference between "agreement" and SEEING the value of any stand alone prortable wisdom/insight/raised awarness/deep ethcial calibration tools being tested is super obvious ... so when I ask for agreement I bypass the very thing that yiou already can SEE :)
+> The difference between "agreement" and **seeing** the value of any stand alone prortable wisdom/insight/raised awarness/deep ethcial calibration tools being tested is super obvious ... so when I ask for agreement I bypass the very thing that yiou already can **see** :)
 
 > agreement is in my view, a detour of the main path to deep ethics same goes for dissagreement is a detour of the main path to deep ethics because it was not about what is actually happening much more about "perception managment" what to do next ... sometimes it works ... still it was a detour.
 
 > Yes, when that is connected to the 10+1 is the circle is complete again :)
 
-These quotations are kept as typed. Their wording matters more here than surface correction. They place the project emphasis on **seeing, testing, transformation, and process**, with the [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) acting as a mutual calibration field rather than an agreement test.
+These quotations retain their wording and spelling. Emphasis-only capitals in John’s quotations are displayed as bold. Their wording matters more here than surface correction. They place the project emphasis on **seeing, testing, transformation, and process**, with the [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) acting as a mutual calibration field rather than an agreement test.
 
 ## The central distinction
 

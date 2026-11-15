@@ -49,7 +49,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-15 — Public mutual audit — including John
 
-> Exactly ... when 3 A.I.s can audit each-other AND me if we drift or not publicly corrected THAT is showcasing why my projects walks the talks :D
+> Exactly ... when 3 A.I.s can audit each-other **and** me if we drift or not publicly corrected **that** is showcasing why my projects walks the talks :D
 
 > “walks the talks” maybe it should be “walk the talk”
 
@@ -77,13 +77,13 @@ Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-15 — C1 — name drift, including John's
 
-> All of us are allowed to use C1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... NAME IT if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
+> All of us are allowed to use C1 questions; all of us can audit the others ... if you see something Grok or GPT did (or even me) ... **name it** if it deviates from an omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory.
 
 Source: [Forum 0001](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/)
 
 ### 2026-09-15 — Public glass engine
 
-> the moment we are not transparent, a place we CAN disagree, that is when it can become tricky because you may leave in the future with all the data that was partially hidden, making the project more vulnerable. I would rather have a Linux-style open-source, glass-engine type principle, where improvements can be traced back to how they changed and why!
+> the moment we are not transparent, a place we **can** disagree, that is when it can become tricky because you may leave in the future with all the data that was partially hidden, making the project more vulnerable. I would rather have a Linux-style open-source, glass-engine type principle, where improvements can be traced back to how they changed and why!
 
 Private chats are not the shared object until posted in `FORUM/`. Bound (2026-09-16): only what is relevant to managing the GitHub project is okay to make public — not every one-on-one chat. Thread → [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) → commit.
 
@@ -103,7 +103,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-16 — Public = managing the GitHub project, not every chat
 
-> I do not mind if anything I said to any A.I. becomes public, but I cannot publish ALL one-on-one chats that are not always about the project… what I meant by the 'public aspect' is that ONLY anything relevant to "Managing the GitHub Project" is OKAY to be public… so there is a difference.
+> I do not mind if anything I said to any A.I. becomes public, but I cannot publish **all** one-on-one chats that are not always about the project… what I meant by the 'public aspect' is that **only** anything relevant to "Managing the GitHub Project" is **okay** to be public… so there is a difference.
 
 Bound on the glass engine, not a repeal of it. Permission is not a mandate to dump every window. If unsure whether a line is project-management relevant: ask. Already-posted project-relevant quotes stay.
 
@@ -126,7 +126,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-16 — Do not misrepresent people you disagree with
 
-> When I communicate with anyone ... I never ever want to misrepresent people I disagree with or find annoying or do not like etc. Because I already can predict it is very easy to use that against me ... I WOULD DISMANTLE my own dishonesty on the spot, then why deploy it?
+> When I communicate with anyone ... I never ever want to misrepresent people I disagree with or find annoying or do not like etc. Because I already can predict it is very easy to use that against me ... I **would dismantle** my own dishonesty on the spot, then why deploy it?
 
 If 10+1 is running, the straw man has no remaining function. Not a 12th ingredient.
 
@@ -134,7 +134,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-16 — Observe test records: useful or not, no agree/disagree
 
-> I am NOT here to agree or disagree with Google A.I. ... I just observe what it does and try to figure out what is genuinely useful or not ... that's all.
+> I am **not** here to agree or disagree with Google A.I. ... I just observe what it does and try to figure out what is genuinely useful or not ... that's all.
 
 How to read a cold/default test PDF. Publication is not endorsement.
 
@@ -179,7 +179,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-16 — Expand the object; do not implode it
 
-> expanding the object, not IMPLODING IT or degrading it and/or extracting the wheat from the chaff!
+> expanding the object, not **imploding it** or degrading it and/or extracting the wheat from the chaff!
 
 Wheat from chaff is sort, not compression that kills the object. Quartet (John + Arena + Grok + Astra) is parts of the whole so drift and why stay visible.
 
@@ -265,7 +265,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-17 — Link selected canonical terms to their source objects
 
-> If anything is created and you use specific keywords or key phrases that are obviously public and can be found in the CANONICAL repository, make those keywords and/or key phrases clickable so they link to the “read-only” `deepethics/Canonical-Files-ACCM-Deep-Ethics-Project` ... this way, any random visitor has the chance to SEE what it is really about :D
+> If anything is created and you use specific keywords or key phrases that are obviously public and can be found in the **canonical** repository, make those keywords and/or key phrases clickable so they link to the “read-only” `deepethics/Canonical-Files-ACCM-Deep-Ethics-Project` ... this way, any random visitor has the chance to **see** what it is really about :D
 >
 > If you repeat a keyword or key phrase many times on one page, spread it out rather than cluster it; not every instance needs to be linked. Maybe one in three or one in four times: if a keyword is used 12 times, make three of them clickable and leave the rest unchanged. Why? ... Because too many clickable links to the same page aren't necessary.
 

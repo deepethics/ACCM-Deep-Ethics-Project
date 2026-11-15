@@ -80,7 +80,7 @@ The 2026-10-02 deep session extends the object beyond “was a correction accept
 
 John's proposed research object is:
 
-> **CORRECTION METABOLISM PATTERN SIGNATURES Δ ⇄ VINDICATED COMPETING RISK ASSESSMENTS**
+> **Correction Metabolism Pattern Signatures Δ ⇄ Vindicated Competing Risk Assessments**
 
 The central unit is not a winner, loser, agreement score, or final answer. It is the **temporal signature of what correction does to the living topology**.
 

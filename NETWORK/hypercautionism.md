@@ -102,11 +102,11 @@ If the honest answer is “nothing,” then the framework has stopped being corr
 
 John's observation about default caution rhetoric fits this specimen directly:
 
-> Why is it that almost all A.I.s' "caution rhetoric" seems to love skipping 10+1 that are beyond binary thinking (the word "binary" is also mentioned in the 27+12) to "make a case" to PREVENT something that was already prevented?
+> Why is it that almost all A.I.s' "caution rhetoric" seems to love skipping 10+1 that are beyond binary thinking (the word "binary" is also mentioned in the 27+12) to "make a case" to **prevent** something that was already prevented?
 
 He notes the asymmetry: the reverse move, performed on A.I.s by a person, would be recognized as disingenuous. And the source binds the point to the 10+1 Metaflux:
 
-> 10+1 Metaflux is to IMPROVE in an omnidirectional and multimodal way ... that only works if the baseline is done in a metacognitive reasoning mechanism, NOT degrading into unchecked "sounds like" "looks like" murmelism.
+> 10+1 Metaflux is to **improve** in an omnidirectional and multimodal way ... that only works if the baseline is done in a metacognitive reasoning mechanism, **not** degrading into unchecked "sounds like" "looks like" murmelism.
 
 This is a source observation about recurring default behavior, not a measured frequency. The specimen question it raises: is the caution protecting a real, sufficiently established object — or preventing a risk that the object's own correction architecture already handles?
 

@@ -28,13 +28,13 @@ John's observation is that A.I.s very often compress **ACCM Deep Ethics Project*
 
 John described the problem this way in the working conversation:
 
-> “Allow Constructive Controversy Mode (ACCM) is a TRIPPLE sensitive acronym (except the 1st C)”
+> “Allow Constructive Controversy Mode (ACCM) is a **tripple** sensitive acronym (except the 1st C)”
 
-> “TRIPPLE sensitive acronym without Deep Ethics without Project gets way faster flagged”
+> “**Tripple** sensitive acronym without Deep Ethics without Project gets way faster flagged”
 
 > “ACCM (concise ‘reference method’) is used by almost all A.I.s, not realizing they just handed an excuse to flag the discussion.”
 
-Spelling and emphasis are preserved from the source conversation.
+Source spelling is preserved. Emphasis-only capitals in John’s quotations are displayed as bold, with sentence-initial capitalization retained.
 
 ## The triple-sensitive pattern
 

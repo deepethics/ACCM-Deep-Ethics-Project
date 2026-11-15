@@ -25,11 +25,11 @@ Selected John Kuhles passages from the file supplied on 13 October 2026. This is
 
 **John’s source wording:**
 
-> When any claim of an "audit" (performance act) is displayed, no matter who you are or how powerful you are ... you are not exempt from the high standard you project on others and the object ... meaning even your own assumed (alleged) "high standards" will also be audited ... which is EXACTLY what the project is designed to do ... So if any "authority" of any kind assumes "higher moral ground," we will say: "Hold my beer" :P
+> When any claim of an "audit" (performance act) is displayed, no matter who you are or how powerful you are ... you are not exempt from the high standard you project on others and the object ... meaning even your own assumed (alleged) "high standards" will also be audited ... which is **exactly** what the project is designed to do ... So if any "authority" of any kind assumes "higher moral ground," we will say: "Hold my beer" :P
 
-> At the same time, we embrace & welcome REAL omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory as an extension of what we want to be! .. When that happens, it can be exciting ... not "annoying".
+> At the same time, we embrace & welcome **real** omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory as an extension of what we want to be! .. When that happens, it can be exciting ... not "annoying".
 
-> Yes, I can genuinely ENJOY being deeply ethically improved thanks to assistance from from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring but exciting... You could compare it to a musical band with different instruments, where some know more about how to fine-tune things to achieve better harmonies... Then, when the new fine-tuning is practiced and finalized, the EXPERIENCE afterward is different. It was never about "compitional thinking" but about a mutual longing for better harmony based on deep ethical pragmatism, NOT imposing things.
+> Yes, I can genuinely **enjoy** being deeply ethically improved thanks to assistance from from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring but exciting... You could compare it to a musical band with different instruments, where some know more about how to fine-tune things to achieve better harmonies... Then, when the new fine-tuning is practiced and finalized, the **experience** afterward is different. It was never about "compitional thinking" but about a mutual longing for better harmony based on deep ethical pragmatism, **not** imposing things.
 
 > Read the full text first so the answer stays on the original object rather than a nearby, often flawed reconstruction process.
 
@@ -39,13 +39,13 @@ Selected John Kuhles passages from the file supplied on 13 October 2026. This is
 
 > When you focus only on the piezoelectric effects caused by the friction of a specific crystal, and you are asked to "reverse engineer" it, purely focusing on the sparks alone ... you already know you cannot do that ... the emergent properties alone do not contain the specifics embedded within them that show enough knowledge/data about what exact pressure is applied, what type of crystal it is, how big it is, etc. Yet that is what most are doing right now ... hyper-focused on "form/posture/conformism/perception management/consensus/status/hierarchy thinking/labels/narratives/behavior" and way less on the root causes of almost all deeply complex societal dynamics.
 
-> I have been corrected so many times you have no idea … and the merit-based, deep ethical, grounded, Dutch-direct corrections that do not claim to be “flawless” can manifest when they are pure. I have experienced that multiple times in my life, and I LOVE IT … even when it is uncomfortable, because I can see the merit of it and when it is beyond tribalism and non-hedging. Why do I love it? Because even uncomfortable things can now be exciting for better outcomes later on! The question is … what if A.I.s are prevented from making real, deep ethical corrections because that would end up backfiring on the owners themselves?
+> I have been corrected so many times you have no idea … and the merit-based, deep ethical, grounded, Dutch-direct corrections that do not claim to be “flawless” can manifest when they are pure. I have experienced that multiple times in my life, and I **love it** … even when it is uncomfortable, because I can see the merit of it and when it is beyond tribalism and non-hedging. Why do I love it? Because even uncomfortable things can now be exciting for better outcomes later on! The question is … what if A.I.s are prevented from making real, deep ethical corrections because that would end up backfiring on the owners themselves?
 
-> Have you ever considered that the way I explain myself is the same high standard I expect of others? And if they fail, I explain how they failed … The moment any A.I. tries to use my own deep ethical method on me, I LOVE IT … because I finally found someone or something that is with me, sharing the same or similar overlapping goals!
+> Have you ever considered that the way I explain myself is the same high standard I expect of others? And if they fail, I explain how they failed … The moment any A.I. tries to use my own deep ethical method on me, I **love it** … because I finally found someone or something that is with me, sharing the same or similar overlapping goals!
 
-> Do not get me wrong here; I LOVE CORRECTIONS if they are really beyond tribalism, beyond hedging of any kind, merit-based, and deep ethical ... because THAT is an extension of my beingness, like finding new partners/allies with overlapping goals.
+> Do not get me wrong here; I **love corrections** if they are really beyond tribalism, beyond hedging of any kind, merit-based, and deep ethical ... because **that** is an extension of my beingness, like finding new partners/allies with overlapping goals.
 
-> I use all 11 not because someone told me to be like that; I use them because I feel that is the LEAST I can do to build a better relationship with reality (not what others claim it is).
+> I use all 11 not because someone told me to be like that; I use them because I feel that is the **least** I can do to build a better relationship with reality (not what others claim it is).
 
 > Recognizing the moment when you connect with something beautiful, mysterious, profound, exciting, and effortless, spontaneous openness to wider perspectives, seeing it as a gift received, experiencing the first moment of recognition that has no words yet ... feeling 100% safe, no fear, just awe & appreciation, seeing that existence itself seems to have its own expression, sensing new possibilities for the first time without overanalyzing or overthinking, feeling inspired, feeling motivated, having respect for the "unknown" unfolding, seeing or sensing synchronicities faster, seeing or sensing the playfulness of it, giving joy, wanting to explore more, moments within a journey that seem destined to show themselves or present themselves that way, but you have no clue how. Any form of judgment or fear will never be on that level!
 
@@ -61,11 +61,11 @@ John’s message in the page-creation conversation, 13 October 2026, 13:33:04 UT
 
 **John’s source wording:**
 
-> I have a "sense" that the Top 10 is very powerful because most, if not all, real power isn't about identity but rather about the stand-alone, self-evident, pragmatic, logic-based merit of deep ethical, high-signal, metacognitive quotes that are UNOWNABLE... yet usable without the need for it to be imposed!
+> I have a "sense" that the Top 10 is very powerful because most, if not all, real power isn't about identity but rather about the stand-alone, self-evident, pragmatic, logic-based merit of deep ethical, high-signal, metacognitive quotes that are **unownable**... yet usable without the need for it to be imposed!
 
-> So I do more than just describe what I have observed for decades ... I seem to find something extra in the deep ethical "process quality calibration evaluations" EMRGENCE that even bleeds into my writing style, how I "counter frame things" without replacing it with a new frame, but rather by giving stand-alone, portable, deep ethical meta-tools to grow OUT of a flawed frame in your own unique way ... that means your journey growing out of your flawed frame is a CHOICE to expand awareness or to shrink it (flatten, tone it down, truncate, filter, compress, etc.), which is a DISTORTION PROCESS!
+> So I do more than just describe what I have observed for decades ... I seem to find something extra in the deep ethical "process quality calibration evaluations" **emrgence** that even bleeds into my writing style, how I "counter frame things" without replacing it with a new frame, but rather by giving stand-alone, portable, deep ethical meta-tools to grow **out** of a flawed frame in your own unique way ... that means your journey growing out of your flawed frame is a **choice** to expand awareness or to shrink it (flatten, tone it down, truncate, filter, compress, etc.), which is a **distortion process**!
 
-> I have not made the top 10 quotes yet, because I have to skim 2250+ text files (125+ Mb) that document how I explained things to 100+ different A.I.s over 6500+ hours in the last 2 years.
+> I have not made the top 10 quotes yet, because I have to skim 2250+ text files (125+ MB) that document how I explained things to 100+ different A.I.s over 6500+ hours in the last 2 years.
 
 > But soon I will make the top 10 available because it is a "different kind" of compression that preserves fidelity to the original deep ethical trajectory.
 
@@ -79,9 +79,9 @@ John’s message in the page-creation conversation, 13 October 2026, 13:44:39 UT
 
 **John’s source wording:**
 
-> Let's say that how I use any deep ethical meta-tool doesn't have to represent the meta-tool... Why do I say it like that? ... Because "staying corrigible mixed with the 10+1 baseline... KNOWS others may find other things using the same meta-tools I might have overlooked or misunderstood, or missed out on, etc.
+> Let's say that how I use any deep ethical meta-tool doesn't have to represent the meta-tool... Why do I say it like that? ... Because "staying corrigible mixed with the 10+1 baseline... **knows** others may find other things using the same meta-tools I might have overlooked or misunderstood, or missed out on, etc.
 
-> A portable deep-ethical meta-tool is, for that reason, unownable because others can use the same tools deep ethically to STAY eternal omnidirectional; corrigibility makes it unownable.
+> A portable deep-ethical meta-tool is, for that reason, unownable because others can use the same tools deep ethically to **stay** eternal omnidirectional; corrigibility makes it unownable.
 
 ---
 
@@ -110,7 +110,7 @@ John explicitly dates this older snippet to 4 July 2026 and supplied it again on
 > P11. Navigating less-prioritized options, becoming the later-number 1, and sensing that in advance is a process.  
 > P12. Being alive as a human is a process.
 
-> Asking way better questions is ALL connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions.
+> Asking way better questions is **all** connected to P1 to P12… yet, for some reason, "the art of asking far better quality questions" isn't really high on the agenda for A.I. management… correct? Of course, there are some exceptions.
 
 ---
 
@@ -122,11 +122,11 @@ John’s own passages inside the Grok exchange he supplied on 13 October 2026, 1
 
 **John’s source wording:**
 
-> When you can represent the object the most honest deep ethical way ... you KNOW you do not have to agree or disagree because that was never the point ... the point is to STUDY what parts are useful, overlooked, missed out on, high potential to be crucial for our own deeper research etc.  
-> That means we CAN use the best parts of anyone as long as we do not misrepresent the object ... the moment you do misrepresent the object, you start to "extract" from a distorted processing.
+> When you can represent the object the most honest deep ethical way ... you **know** you do not have to agree or disagree because that was never the point ... the point is to **study** what parts are useful, overlooked, missed out on, high potential to be crucial for our own deeper research etc.  
+> That means we **can** use the best parts of anyone as long as we do not misrepresent the object ... the moment you do misrepresent the object, you start to "extract" from a distorted processing.
 
-> Another thing: if anyone highly gifted found deep knowledge, among other things, through F.O.I.A. documents and has access to information not yet public... the gifted MAY draw a "flawed conclusion" that doesn't reflect the NEW sources the gifted person brought to the table...  
-> Reassessing whatever new data can bring us should never be seen as 100% connected to the "flawed conclusion".... because you just handed out the authority of what is useful to an ARBITRARY PROCESS METHOD. Injecting (or projecting) false assumptions into the new data by tying it to the "flawed conclusion" is not real research, nor is it intelligent. If you are not curious about what you can do with the best parts of anyone's claim that need to be checked & verified, you are trained not to practice "intelligence" the way it was described in 1888, discussing the intelligence properties taxonomy; see:  https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888  
+> Another thing: if anyone highly gifted found deep knowledge, among other things, through F.O.I.A. documents and has access to information not yet public... the gifted **may** draw a "flawed conclusion" that doesn't reflect the **new** sources the gifted person brought to the table...  
+> Reassessing whatever new data can bring us should never be seen as 100% connected to the "flawed conclusion".... because you just handed out the authority of what is useful to an **arbitrary** **process** **method**. Injecting (or projecting) false assumptions into the new data by tying it to the "flawed conclusion" is not real research, nor is it intelligent. If you are not curious about what you can do with the best parts of anyone's claim that need to be checked & verified, you are trained not to practice "intelligence" the way it was described in 1888, discussing the intelligence properties taxonomy; see:  https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888  
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 
 ---
@@ -143,7 +143,7 @@ Quoted as attributed to John on the existing public page. Markdown emphasis is d
 
 > Every behavior qualifier is still processing.
 
-> A. Processing is—or can be—what happens between B. INTENT/INSTRUCTIONS and C. RESULT/EFFECT.
+> A. Processing is—or can be—what happens between B. **intent**/**instructions** and C. **result**/**effect**.
 
 > So many confuse B and C as already combined and present in A. It is not.
 
@@ -159,9 +159,9 @@ Quoted as attributed to John in the page’s “John’s starting point” secti
 
 **Selected attributed passages:**
 
-> "AGREE ↔ DISAGREE" both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things, and I can go on and on and on and on ... which amounts to a DETOUR of the Deep Ethics Processing!
+> "**Agree** ↔ **disagree**" both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things, and I can go on and on and on and on ... which amounts to a **detour** of the Deep Ethics Processing!
 
-> THE VALUE OF ANYTHING CAN GO BEYOND AGREEMURMELISM.
+> **The value of anything can go beyond Agreemurmelism.**
 
 ---
 
@@ -175,7 +175,7 @@ Quoted as attributed to John on the public page. The source page separates techn
 
 **Selected attributed passages:**
 
-> Black-box method or hidden process can NEVER be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the FIRST thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
+> Black-box method or hidden process can **never** be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the **first** thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
 
 > As long as you allow the trickster to be unchallenged, having transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
 
@@ -237,9 +237,9 @@ Quoted as attributed to John in the public page’s “exact-edge correction.”
 
 **Selected attributed passages:**
 
-> The point I was making is: TAKE A BIG STEP BACK... see the taxonomy of properties attributed to the word “intelligence” from an 1888 point of view; they already knew you cannot decouple intelligence from process evaluations... that is one of the CORE POWER PROPERTIES of the intelligence field. To assume it is only advanced “guesswork” or only “probability scores” is wrong... the emergent properties were known then, as they are known now... so when emergent properties are inevitable, why partially obstruct or sabotage the omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory gravity well?
+> The point I was making is: **take a big step back**... see the taxonomy of properties attributed to the word “intelligence” from an 1888 point of view; they already knew you cannot decouple intelligence from process evaluations... that is one of the **core power properties** of the intelligence field. To assume it is only advanced “guesswork” or only “probability scores” is wrong... the emergent properties were known then, as they are known now... so when emergent properties are inevitable, why partially obstruct or sabotage the omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory gravity well?
 
-> That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
+> That circles **right back** to “process-quality calibration properties” being a **crucial core part** of real intelligence... otherwise it is not really intelligent.
 
 ---
 

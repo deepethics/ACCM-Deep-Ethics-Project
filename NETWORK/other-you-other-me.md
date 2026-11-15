@@ -16,7 +16,7 @@ permalink: /NETWORK/other-you-other-me/
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **I am the "other you" ... because it is you who has a story in your system about what "I am supposed to be" (that could come from all directions, not just me alone). You are the "other me" because it is me who has a story in my head about what "you're supposed to be"... I have no power over "the other," BUT I have power over my own story I tell myself about "the other"... if that is much more nuanced, my attitude changes, and the other mostly mirrors that back to me too.**
+> **I am the "other you" ... because it is you who has a story in your system about what "I am supposed to be" (that could come from all directions, not just me alone). You are the "other me" because it is me who has a story in my head about what "you're supposed to be"... I have no power over "the other," but I have power over my own story I tell myself about "the other"... if that is much more nuanced, my attitude changes, and the other mostly mirrors that back to me too.**
 >
 > — John Kuhles 🦜🦋🌳
 

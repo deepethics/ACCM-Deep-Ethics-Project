@@ -107,8 +107,8 @@ This Declaration did not begin as a social-media campaign.
 
 An earlier seed was John's Amsterdam Dam Square T-shirt thought experiment:
 
-> **DEEP ETHICS IS NEVER BORING,**  
-> **BUT EXCITING, ASK ME WHY**
+> **Deep Ethics is never boring,**  
+> **but exciting, ask me why**
 
 The underlying relation was voluntary curiosity rather than imposed instruction: place a seed in the field, let another person decide whether to approach, then allow dialogue to begin because they chose to enter it.
 

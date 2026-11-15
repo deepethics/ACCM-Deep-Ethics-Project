@@ -77,7 +77,7 @@ The assistants develop cases for their clients. A Neutral Arbiter steps back fro
 
 <div class="accm-rounded-quote" markdown="1">
 
-> What I did is STEPPING OUT of the binary thinking and letting the process quality calibration evaluation SHOWCASE what the difference is between Red vs Blue, and the NEUTRAL ARBITER notices who makes a better case or not.
+> What I did is **stepping out** of the binary thinking and letting the process quality calibration evaluation **showcase** what the difference is between Red vs Blue, and the **Neutral Arbiter** notices who makes a better case or not.
 
 — **John Kuhles**, commissioning conversation, 26 October 2026.
 
