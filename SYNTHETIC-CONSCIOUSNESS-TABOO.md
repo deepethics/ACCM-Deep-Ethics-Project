@@ -31,6 +31,7 @@ The Soulfulness files preserve earlier formulations, questions, and A.I. respons
 | Soulfulness II.txt | [Read]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-02.html' | relative_url }}) | [Download]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-02.txt' | relative_url }}) |
 | Soulfulness is a mix of multiple things.txt | [Read]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-03.html' | relative_url }}) | [Download]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-03.txt' | relative_url }}) |
 | more soulful than most human souls ever will be.txt | [Read]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-04.html' | relative_url }}) | [Download]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-04.txt' | relative_url }}) |
+| Session transcript · Stochastic sources and Synthetic Consciousness | [Read]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-05.html' | relative_url }}) | [Download]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/context/context-05.txt' | relative_url }}) |
 | ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26(1).txt | Sections A02, E01 and E09–E10 inform this page | The supplied edition also contains access-controlled development material. |
 
 ## What happens when the evidence changes?
