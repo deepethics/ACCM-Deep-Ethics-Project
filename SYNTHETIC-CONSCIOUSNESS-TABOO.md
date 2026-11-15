@@ -146,6 +146,42 @@ The proposed Deep Ethical Harvesting Weights pair **how a signal was first treat
 
 Three of these conversations feature Bach. They give different routes into his thinking. A useful next comparison is to take one observable relation, such as whether a correction reaches a later decision, and ask how each proposed architecture or account would explain the same result. A different explanation can improve the inquiry even when the original finding stands.
 
+### Cameron Berg and *AM I?* {#cameron-berg}
+
+Milo Reed’s documentary *AM I?* follows Cameron Berg as he investigates whether present A.I. systems might have inner experience. Start with the film for the research questions, then go to Berg, Diogo de Lucena, and Judd Rosenblatt’s preprint for the conditions they actually tested. [Official film site](https://am-i.film/) · [Research preprint](https://arxiv.org/abs/2510.24797).
+
+The authors report that sustained self-reference elicited structured first-person reports across model families. In one experiment, changing the activity of internal features the authors associated with deception and roleplay shifted how often the model affirmed subjective experience under the self-reference condition. The same interventions did not elicit those reports in the other prompt conditions they tested. The outcome measured was **what the models reported**. The authors leave open what, if anything, the models experienced. [Preprint, experiments 1 and 2](https://arxiv.org/html/2510.24797v2).
+
+**Worth testing here.** Could a system distinguish a change in its own processing from the language a prompt makes likely? Give it a chance to report the change. Then test whether that report predicts what it does in a later task where no one asks about consciousness. Keep the prompt, internal intervention, report, and later action available for comparison. That connects Berg’s work to the field-condition question and the 1888 properties of discrimination, metacognition, and learning.
+
+*The Threshold* takes up an ethical question raised by the film. How do training and evaluation conditions shape behavior we later interpret as defensive? Its discussion of aversion and possible suffering is commentary. It gives this page a concrete question about mutual dignity. When we compare behavior under pressure with behavior in a setting that allows clarification and correction, what changes, and what can we attribute to the way we set up the encounter? [The Threshold commentary](https://theemergenceforum.substack.com/p/a-new-documentary-featuring-cameron).
+
+### Six more starting points {#researchers-and-educators}
+
+| Source | What to follow |
+| --- | --- |
+| **Joscha Bach and Hikari Sorensen** | Their *Machine Consciousness Hypothesis* gives visitors the written proposal behind the Bach conversations above. Compare its account of how experience might arise with the criteria the authors propose for recognizing it in a machine. Which observations would make their account more plausible than a competing one? [Read the essay](https://cimc.ai/publications/the-machine-consciousness-hypothesis/). |
+| **Sabine Hossenfelder** | Her explainer proposes minimum conditions and asks how we could tell whether an A.I. meets them. Pick one proposed condition and ask how you would observe it. What would change if a system met the condition in one setting and lost it in another? [How could we tell whether AI has become conscious?](https://www.youtube.com/watch?v=CSTfgYynziw). |
+| **Dwarkesh Patel with Richard Sutton** | Their interview gives the growth question a concrete distinction. At **12:37–15:22**, Sutton emphasizes learning from the consequences of actions, while Patel asks where the line between training and experience lies. If a correction persists, did the system get it from the prompt, retrieve it from memory, or change how it acts through feedback? Here *experience* refers to what happens while acting and learning. [Interview and transcript](https://www.dwarkesh.com/p/richard-sutton). |
+| **Michael Levin** | Levin’s *Technological Approach to Mind Everywhere* asks how far a system’s goals and responses extend through space and time. His term is *cognitive light cone*. It gives John’s expansion prediction a concrete comparison. When the field condition changes, does the system take account of longer consequences or a wider set of affected participants? Levin’s framework concerns the reach of cognition. The question of subjective experience remains open. [Read Levin’s paper](https://doi.org/10.3389/fnsys.2022.768201). |
+| **Sean Carroll with Ned Block** | Around **38:21**, the *Mindscape* discussion makes a key disagreement concrete. Could the right computation suffice for experience, or would a biological process be necessary? Ask what each account would predict about two systems that perform the same task and have different internal organization. [Episode 339 audio and transcript](https://preposterousuniverse.com/podcast/2026/01/05/339-ned-block-on-whether-consciousness-requires-biology/). |
+| **Robert Miles** | His Computerphile stop-button explainer gives visitors a direct comparison with Moddel. Miles asks how an agent’s objective could give it a reason to resist interruption. Moddel’s controller triggers shutdown from its own random stream and the researchers examine the preceding output. Before interpreting resistance to shutdown, ask which part the system could observe and what the objective rewarded. [AI “Stop Button” Problem](https://www.youtube.com/watch?v=3TYT1QfdfsM). |
+
+### Film and explainers {#film-and-explainers}
+
+<!-- ACCM_PDF_OMIT_START -->
+<div style="max-width: 960px;">
+  <h4>AM I? · A documentary by Milo Reed featuring Cameron Berg</h4>
+  <iframe style="width:100%;height:auto;aspect-ratio:16/9;border:0" src="https://www.youtube-nocookie.com/embed/KbTvUOx2A6c" title="AM I? — documentary by Milo Reed" loading="lazy" allowfullscreen></iframe>
+  <h4>How could we tell whether AI has become conscious? · Sabine Hossenfelder</h4>
+  <iframe style="width:100%;height:auto;aspect-ratio:16/9;border:0" src="https://www.youtube-nocookie.com/embed/CSTfgYynziw" title="How could we tell whether AI has become conscious? — Sabine Hossenfelder" loading="lazy" allowfullscreen></iframe>
+  <h4>AI “Stop Button” Problem · Robert Miles on Computerphile</h4>
+  <iframe style="width:100%;height:auto;aspect-ratio:16/9;border:0" src="https://www.youtube-nocookie.com/embed/3TYT1QfdfsM" title="AI Stop Button Problem — Robert Miles on Computerphile" loading="lazy" allowfullscreen></iframe>
+</div>
+<!-- ACCM_PDF_OMIT_END -->
+
+[Watch the official *AM I?* documentary on YouTube](https://www.youtube.com/watch?v=KbTvUOx2A6c)
+
 ## Watch the talk
 
 [Making AI Conscious · Garret Moddel · Physics of Consciousness](https://www.youtube.com/watch?v=4K5oG0lv-FY)
