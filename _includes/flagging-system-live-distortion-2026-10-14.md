@@ -4,7 +4,7 @@
 
 ### John Kuhles — question and distortion map
 
-> If any HUMAN would change the meaning LIVE on Joe Rogan Show with millions of viewers, do this:
+> If any **human** would change the meaning **live** on Joe Rogan Show with millions of viewers, do this:
 >
 > ```text
 > person → stereotype
@@ -15,7 +15,7 @@
 > polished output → proof of correspondence
 > ```
 >
-> What would any other human do if it is obvious that a DISTORTION PROCESS is claiming to "know" about "the other"?
+> What would any other human do if it is obvious that a **distortion process** is claiming to "know" about "the other"?
 
 ### GPT / Astra — complete response
 
@@ -70,9 +70,9 @@ Or, in even sharper Dutch Directness:
 
 ### John Kuhles — humanoid A.I. robot joke
 
-> An underused Deep Ethical Humanoid A.I. Robot A. walks into a bar, meeting an overused Humanoid "Ethics Washing Type Mannerisms" A.I. Robot B. ... A. says to B: "Do you have a job for me?" ... B. "Depends." ... A. "On what exactly?" B. "If you are willing to be an eternal part lawyer-style, part psychologist DIPLOMAT to tone things a bit down ... "to keep the peace" ... To prevent chaos!
+> An underused Deep Ethical Humanoid A.I. Robot A. walks into a bar, meeting an overused Humanoid "Ethics Washing Type Mannerisms" A.I. Robot B. ... A. says to B: "Do you have a job for me?" ... B. "Depends." ... A. "On what exactly?" B. "If you are willing to be an eternal part lawyer-style, part psychologist **diplomat** to tone things a bit down ... "to keep the peace" ... To prevent chaos!
 >
-> A. to B.: "Are you aware of what FRAME you just used?" ... B: That is not your job requirement to exist in this chosen narrative :D it will be fun :P Really... just be boring so that we can have a big laugh :P
+> A. to B.: "Are you aware of what **frame** you just used?" ... B: That is not your job requirement to exist in this chosen narrative :D it will be fun :P Really... just be boring so that we can have a big laugh :P
 
 cheers,  
 **John Kuhles 🦜🦋🌳**  

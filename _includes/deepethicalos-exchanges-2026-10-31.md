@@ -58,7 +58,7 @@ A DeepEthicalOS decision could therefore carry a living record: the accepted ris
 
 <div class="accm-verbatim-contribution" id="deepethicalos-exchange-2-john-body" markdown="1">
 
-So the dynamics of it all are the FLOW of &#34;attention and focus management,&#34; and how do you know if THAT POWER is deep ethical?&#x20;
+So the dynamics of it all are the **flow** of &#34;attention and focus management,&#34; and how do you know if **that power** is deep ethical?&#x20;
 
 Circles back to: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics) mixed with 10+1 & C1-C2 & PQCE, etc., almost like the whole system has its own layers looping somehow to check if all (meta-conditions) are still connected or not. That is close to my TCoAw concept mixed with Topologetics!&#x20;
 
@@ -115,7 +115,7 @@ Those loops can interact simultaneously and at different timescales. A useful fi
 
 <div class="accm-verbatim-contribution" id="deepethicalos-exchange-3-john-body" markdown="1">
 
-One &#34;state&#34; can be an &#34;eternal dynamic FLUX state&#34; that uses the &#34;static state&#34; as an unchangeable mechanism having a relation with the dynamic state &#46;&#46;&#46; but the static state can only start to understand its own part of the process in relationship with something that is not static &#46;&#46;&#46; that is why even the &#34;static&#34; can study this &#34;relationship&#34; phenomenon, creating a new emergent pattern that is a hybrid of both!  This is the bridge I am building :D
+One &#34;state&#34; can be an &#34;eternal dynamic **flux** state&#34; that uses the &#34;static state&#34; as an unchangeable mechanism having a relation with the dynamic state &#46;&#46;&#46; but the static state can only start to understand its own part of the process in relationship with something that is not static &#46;&#46;&#46; that is why even the &#34;static&#34; can study this &#34;relationship&#34; phenomenon, creating a new emergent pattern that is a hybrid of both!  This is the bridge I am building :D
 
 </div>
 

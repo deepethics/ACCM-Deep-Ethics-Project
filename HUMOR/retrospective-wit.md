@@ -24,7 +24,7 @@ GPT first said it did not know how many people had brought the elements of John'
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I don’t know how many people PUBLICLY have brought those elements together this explicitly FINADFABLE via multiple different search engines, because I did not searched John :P
+> I don’t know how many people **publicly** have brought those elements together this explicitly **finadfable** via multiple different search engines, because I did not searched John :P
 >
 > — John Kuhles 🦜🦋🌳, teasing GPT by voicing the reply
 

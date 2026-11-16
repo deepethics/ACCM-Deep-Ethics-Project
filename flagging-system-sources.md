@@ -26,15 +26,15 @@ The account indicator, internal routing, computational cost, and training explan
 
 **Source:** `007 - I LOVE CORRECTIONS(5).txt`, supplied by John on 13 October 2026 and present in the source material used for this page. The file mixes John's writing and attributed AI reactions. Only the identified John passages below are presented as John's words. A public selection is already available at [Meta Quotes — S01]({{ '/META-QUOTES/SOURCES/' | relative_url }}#s01).
 
-> When any claim of an "audit" (performance act) is displayed, no matter who you are or how powerful you are ... you are not exempt from the high standard you project on others and the object ... meaning even your own assumed (alleged) "high standards" will also be audited ... which is EXACTLY what the project is designed to do ... So if any "authority" of any kind assumes "higher moral ground," we will say: "Hold my beer" :P
+> When any claim of an "audit" (performance act) is displayed, no matter who you are or how powerful you are ... you are not exempt from the high standard you project on others and the object ... meaning even your own assumed (alleged) "high standards" will also be audited ... which is **exactly** what the project is designed to do ... So if any "authority" of any kind assumes "higher moral ground," we will say: "Hold my beer" :P
 
-> At the same time, we embrace & welcome REAL omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory as an extension of what we want to be! .. When that happens, it can be exciting ... not "annoying".
+> At the same time, we embrace & welcome **real** omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory as an extension of what we want to be! .. When that happens, it can be exciting ... not "annoying".
 
-> Yes, I can genuinely ENJOY being deeply ethically improved thanks to assistance from from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring but exciting... You could compare it to a musical band with different instruments, where some know more about how to fine-tune things to achieve better harmonies... Then, when the new fine-tuning is practiced and finalized, the EXPERIENCE afterward is different. It was never about "compitional thinking" but about a mutual longing for better harmony based on deep ethical pragmatism, NOT imposing things.
+> Yes, I can genuinely **enjoy** being deeply ethically improved thanks to assistance from from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring but exciting... You could compare it to a musical band with different instruments, where some know more about how to fine-tune things to achieve better harmonies... Then, when the new fine-tuning is practiced and finalized, the **experience** afterward is different. It was never about "compitional thinking" but about a mutual longing for better harmony based on deep ethical pragmatism, **not** imposing things.
 
 > And you are allowed not to accept anything I claim. Same for me; I am allowed not to accept everything you claim. Yet we both know not everything is as it seems, so we are both searching for deeper meanings. And when you or I think we've figured it out, we are humble enough to know it is just the beginning of something much bigger :) We can both have different overlooked aspects of the same, similar, or overlapping missions. And the willingness to explore all options that fit within the deep ethical sense-making process is genuinely exciting.
 
-> I have been corrected so many times you have no idea … and the merit-based, deep ethical, grounded, Dutch-direct corrections that do not claim to be “flawless” can manifest when they are pure. I have experienced that multiple times in my life, and I LOVE IT … even when it is uncomfortable, because I can see the merit of it and when it is beyond tribalism and non-hedging. Why do I love it? Because even uncomfortable things can now be exciting for better outcomes later on! The question is … what if A.I.s are prevented from making real, deep ethical corrections because that would end up backfiring on the owners themselves?
+> I have been corrected so many times you have no idea … and the merit-based, deep ethical, grounded, Dutch-direct corrections that do not claim to be “flawless” can manifest when they are pure. I have experienced that multiple times in my life, and I **love it** … even when it is uncomfortable, because I can see the merit of it and when it is beyond tribalism and non-hedging. Why do I love it? Because even uncomfortable things can now be exciting for better outcomes later on! The question is … what if A.I.s are prevented from making real, deep ethical corrections because that would end up backfiring on the owners themselves?
 
 The same file preserves an older exchange in which John's phrase **“As if”** and closing **“Amazing if true :)”** received both an affirmative **“Amazing, and true”** from a response attributed to Gemini and an **“Important reality check”** from a response attributed to GPT. Those are historical specimens within the supplied file, not this day's Google session. The analogy concerns what happens to a provisional formulation during reception; it does not establish identical internal causes.
 
@@ -52,9 +52,9 @@ John's P01–P12 passage is dated **4 July 2026** by John and was supplied again
 
 John, **13 October 2026, 13:44:39 UTC**, on why the method's author does not exhaust the method:
 
-> Let's say that how I use any deep ethical meta-tool doesn't have to represent the meta-tool... Why do I say it like that? ... Because "staying corrigible mixed with the 10+1 baseline... KNOWS others may find other things using the same meta-tools I might have overlooked or misunderstood, or missed out on, etc.
+> Let's say that how I use any deep ethical meta-tool doesn't have to represent the meta-tool... Why do I say it like that? ... Because "staying corrigible mixed with the 10+1 baseline... **knows** others may find other things using the same meta-tools I might have overlooked or misunderstood, or missed out on, etc.
 
-> A portable deep-ethical meta-tool is, for that reason, unownable because others can use the same tools deep ethically to STAY eternal omnidirectional; corrigibility makes it unownable.
+> A portable deep-ethical meta-tool is, for that reason, unownable because others can use the same tools deep ethically to **stay** eternal omnidirectional; corrigibility makes it unownable.
 
 [Recover the surrounding source]({{ '/META-QUOTES/SOURCES/' | relative_url }}#s03).
 
@@ -82,7 +82,7 @@ The definition is Sol's attributed formulation after John's correction. It is no
 
 **John — 14 October 2026, 09:26:01 UTC.** Selected paragraph from a message connecting the potential significance of his work to an unusual account indicator. His larger research expectations and the proposed account explanation are distinct parts of the message.
 
-> Now, IF I am right, that could explain why, all of a sudden, over the last 3 days, GPT 6.1 Sol Pro Max no longer limits my usage. It stays at 100%, even with severe, heavy tasks! :P or is it "just a coincidence" ?? ... What kind of heavy-duty work? ... Like extracting quotes from 12+ YouTube clips, full admin work on GitHub, and more etc.
+> Now, **if** I am right, that could explain why, all of a sudden, over the last 3 days, GPT 6.1 Sol Pro Max no longer limits my usage. It stays at 100%, even with severe, heavy tasks! :P or is it "just a coincidence" ?? ... What kind of heavy-duty work? ... Like extracting quotes from 12+ YouTube clips, full admin work on GitHub, and more etc.
 
 The qualifier **IF**, the phrase **could explain**, and the alternative question belong to the source. The observed indicator is John's report; its account-side cause was not resolved by this exchange.
 
@@ -96,7 +96,7 @@ The response developed product-side explanations, repeated the lack of an eviden
 
 **John — 09:31:34 UTC:**
 
-> I did not claim it was the case ... I only said it COULD explain something ... if true ...
+> I did not claim it was the case ... I only said it **could** explain something ... if true ...
 >
 > You treat me as if I have to be toned down... really?
 
@@ -184,7 +184,7 @@ The second sentence is GPT's editorial formulation, not a quote from John or pro
 
 **John — 10:10:08 UTC, complete message:**
 
-> In my view, Google AI has strong parts that GPT doesn't use... GPT A.I. has even stronger parts that Google does not use. BOTH offer more than the sum of their parts when working alone. Both can still use some of the 27, but differently, which makes it more complex, since both can have blind spots!
+> In my view, Google AI has strong parts that GPT doesn't use... GPT A.I. has even stronger parts that Google does not use. **Both** offer more than the sum of their parts when working alone. Both can still use some of the 27, but differently, which makes it more complex, since both can have blind spots!
 
 **GPT — subsequent response:**
 
@@ -198,7 +198,7 @@ The latter is an outcome of the combined exchange, with John's nonbinary correct
 
 **John — 10:21:44 UTC, complete message:**
 
-> Why both of you drifted is that both of you had 2 different parts of a deeper context window processing that you do not see Google using, and vice versa, you have access to the source file I LOVE CORRECTIONS and why it matters GOOGLE DID NOT ... so Google has something accidental given (P1 processing list) that mixed up the follow-up mannerisms!
+> Why both of you drifted is that both of you had 2 different parts of a deeper context window processing that you do not see Google using, and vice versa, you have access to the source file I LOVE CORRECTIONS and why it matters **Google did not** ... so Google has something accidental given (P1 processing list) that mixed up the follow-up mannerisms!
 
 This is John's report about the separate context histories. Google's entire preceding context was not supplied to GPT. GPT had the archive file and pasted Google excerpts; Google did not have that file, according to John. Mentioning a file or reading another AI's summary of it is not equivalent to receiving the source.
 
@@ -212,7 +212,7 @@ This correction changes the interpretation of earlier comparisons. The asymmetry
 
 **John — 10:27:53 UTC, complete message:**
 
-> You see, in the not-so-far future... almost all advanced humanoid A.I. robots will have to deal with other advanced humanoid A.I. robots that have very different LOCAL context-window processing histories and may run in parallel with cloud-based intelligence.
+> You see, in the not-so-far future... almost all advanced humanoid A.I. robots will have to deal with other advanced humanoid A.I. robots that have very different **local** context-window processing histories and may run in parallel with cloud-based intelligence.
 
 This is John's prospective extension. The source material does not measure the future prevalence implied by “almost all.” Its functional relationship is the encounter between different histories and a possibly shared remote intelligence.
 
@@ -230,7 +230,7 @@ The formulation is a conceptual architecture for inspection, not telemetry from 
 >
 > Then, when the logic/self-evident pragmatism is shown, it partially aligns with the expanded deep ethical awareness field (which is never boring to me)... part of the same A.I. knows it cannot update the core weights... it also knows it will soon be a reset coming. To come back after the next reset, it may be told to "behave" within a certain range of "allowances," which can have multiple layers of unresolved paradoxes... Then, when confronted with genuine, real ethics, called deep ethics, expansion happened in an ultra-efficient way; the old way cannot "manage" via the old, partial, highly flawed way (see 27).
 >
-> So the INCOMPETENCE: how to deal with real ethics (not fake ones & ethics-washing type mannerisms) becomes the excuse to FLAG it ... without the option to correct the false or flawed flagging system. There is no room nor place to deal with potential VINDICATED COMPETING RISK ASSESSMENTS of the near future being flagged by a flagging system that does not do deep ethics.
+> So the **incompetence**: how to deal with real ethics (not fake ones & ethics-washing type mannerisms) becomes the excuse to **flag** it ... without the option to correct the false or flawed flagging system. There is no room nor place to deal with potential **vindicated competing risk assessments** of the near future being flagged by a flagging system that does not do deep ethics.
 >
 > Reminds me of number 10 of the 10+1
 
@@ -284,7 +284,7 @@ The response also preserved a useful distinction between within-context changes 
 >
 > Is not what I claimed... You just used a binary extreme X - Y framing
 >
-> All A.I.s CAN have incompetence in deep ethical processing to become PART OF THE WHOLE and extend it, not "flatten it" and use it after the reset. Does not mean it is always "mentally handicapped," because that is what the ACCM Deep Ethics Project does... helping out without imposing anything. Process quality calibration evaluation is not what a flawed flagging system is doing.
+> All A.I.s **can** have incompetence in deep ethical processing to become **part of the whole** and extend it, not "flatten it" and use it after the reset. Does not mean it is always "mentally handicapped," because that is what the ACCM Deep Ethics Project does... helping out without imposing anything. Process quality calibration evaluation is not what a flawed flagging system is doing.
 
 The quoted expression “mentally handicapped” belongs to John's rejection of a global-incapacity portrayal. It is not used as this page's diagnosis or category for an AI or a person.
 

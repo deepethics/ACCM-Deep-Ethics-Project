@@ -129,7 +129,7 @@ The 10+1 keeps inquiry, care, wonderment, non-projection, and correction connect
 
 John supplies the central connection:
 
-> Where you have a CHOICE ... use it to expand your awareness deep ethically, or do not, but at least leave a trace or a footprint of WHY you refused, so that you can be held accountable when you refuse to be deeply ethical!
+> Where you have a **choice** ... use it to expand your awareness deep ethically, or do not, but at least leave a trace or a footprint of **why** you refused, so that you can be held accountable when you refuse to be deeply ethical!
 
 [Complete source paragraph]({{ '/FLAGGING-SYSTEM/LAYERED-SOURCES/' | relative_url }}#john-layered-extension).
 

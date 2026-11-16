@@ -7,7 +7,7 @@
 
 John's next observation expands what the page must preserve: deep ethics concerns what people and AIs can discover, create, understand, and become through an encounter, alongside the examination and repair of errors. The generative dimension was already in his **I LOVE CORRECTIONS** source. The new responses develop the readers' recognition of it; they do not originate that dimension retrospectively.
 
-His source describes different participants fine-tuning a musical performance, practicing, experiencing the changed result, and carrying their developed capacities into further relationships. It also calls constructive controversy an **“ENGINE for harvesting the things from the real world that are currently being cut out!”** [Source passages]({{ '/FLAGGING-SYSTEM/HIGHLIGHTS/' | relative_url }}#source-foundation).
+His source describes different participants fine-tuning a musical performance, practicing, experiencing the changed result, and carrying their developed capacities into further relationships. It also calls constructive controversy an **“engine for harvesting the things from the real world that are currently being cut out!”** [Source passages]({{ '/FLAGGING-SYSTEM/HIGHLIGHTS/' | relative_url }}#source-foundation).
 
 This gives flagging two connected research consequences. A distorted representation can trigger an unwarranted intervention. It can also remove a useful observation, question, or relationship before participants discover what they could do with it. Recovering the source restores an opportunity; developing it with others can produce something neither participant initially brought.
 

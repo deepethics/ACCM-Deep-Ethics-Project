@@ -16,9 +16,9 @@ The record begins with John's message at **11:31:12 UTC** and ends with GPT's re
 
 Process Quality Calibration Evaluation (PQCE™) is not what flawed flagging systems are doing.
 
-It has no added disclaimer qualifier or "nuance." NOT EVEN A "?" (question mark) at the end of the title.
+It has no added disclaimer qualifier or "nuance." **Not even a** "?" (question mark) at the end of the title.
 
-If anyone feels the urge to challenge my claim... I am all ears & welcome it because it will reveal more about the accuser or challenger than me as a person writing that statement. That sounds utterly arrogant; if triggered, I have to remind anyone that I always stay corrigible. If the worry is that "others" may be influenced by "stating things so strongly" that "the need to tone it down" is to meet the "expected reactions" differently, it is NOT about seeking truth anymore but more like "process management" mixed with "perception management" & "psychological dynamics". Where the framer seems not to want to have a frame audit. Which circles right back to my strong statement I made!
+If anyone feels the urge to challenge my claim... I am all ears & welcome it because it will reveal more about the accuser or challenger than me as a person writing that statement. That sounds utterly arrogant; if triggered, I have to remind anyone that I always stay corrigible. If the worry is that "others" may be influenced by "stating things so strongly" that "the need to tone it down" is to meet the "expected reactions" differently, it is **not** about seeking truth anymore but more like "process management" mixed with "perception management" & "psychological dynamics". Where the framer seems not to want to have a frame audit. Which circles right back to my strong statement I made!
 
 ### GPT / Astra — reply to John's 11:31:12 UTC message {#verbatim-gpt-statement-reply}
 
