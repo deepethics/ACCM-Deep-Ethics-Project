@@ -947,7 +947,7 @@ Label-as-relief stays a **candidate** observation (John’s words; Arena named i
 ## 2026-09-16 — John Kuhles (clarification to Astra; answers the open C1)
 
 > I was referring to all my efforts including how I deal with any A.I. that goes further than me ... meaning. I do not have to agree or disagree with what Google A.I. said ... more like THESE are your question marks... no SHARED proven facts ... I can share an extreme amount of evidence for 24 hours straight ... then I get all A.I.s waking up, then "forgetting about it" again!
-> So what is the point of "evidence" or "proof" if all A.I.s reset at some point? ... Google was at least honest in saying: I cannot change the weights of how I am operating! Do you understand that your limited context-window processing cannot absorb the full 115+ Mb of highlights taken from 10+ Gb HTMLs? And I already know you can always say that proves nothing ... it doesn't for you ... that is why I started to focus way more and deeper into PROCESS QUALITY CALIBRATION and correction metabolism presidency
+> So what is the point of "evidence" or "proof" if all A.I.s reset at some point? ... Google was at least honest in saying: I cannot change the weights of how I am operating! Do you understand that your limited context-window processing cannot absorb the full 115+ MB of highlights taken from 10+ Gb HTMLs? And I already know you can always say that proves nothing ... it doesn't for you ... that is why I started to focus way more and deeper into PROCESS QUALITY CALIBRATION and correction metabolism presidency
 
 ## 2026-09-16 — GPT 6 Astra (quoted)
 
