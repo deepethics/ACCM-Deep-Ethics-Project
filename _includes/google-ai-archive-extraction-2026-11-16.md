@@ -12,15 +12,15 @@
 
 <div class="accm-rounded-quote" markdown="1">
 
-> When done, go to the next 1 MB of the 125 MB, then the next 1 Mb and each could be 10% of the 1 Mb that is the core essence ...
+> When done, go to the next 1 MB of the 125 MB, then the next 1 MB and each could be 10% of the 1 MB that is the core essence ...
 >
-> That means ±12.5 Mb core essence of the highlights that are a high-signal compression from 6500+ hours of me testing 100+ different A.I.s, me using a compression of 36+ years of deep research into mass psychology & suppressed news topics! Without claiming to be flawless ... see the 10+1 !
+> That means ±12.5 MB core essence of the highlights that are a high-signal compression from 6500+ hours of me testing 100+ different A.I.s, me using a compression of 36+ years of deep research into mass psychology & suppressed news topics! Without claiming to be flawless ... see the 10+1 !
 >
 > — **John Kuhles 🦜🦋🌳**
 
 </div>
 
-John paired the [**Extraction Starter Kit**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) with **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) and the [**27+12 working architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}). The kit helps recover consequential passages and relationships. DEDDA™ compares the extraction with its source. The 27+12 gives the inquiry a sequence: establish correspondence before letting evaluation steer the representation. The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) keeps the author and the method open to correction on merit. The original quote retains its own unit spellings; archive estimates here use MB and GB for bytes.
+John paired the [**Extraction Starter Kit**]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) with **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) and the [**27+12 working architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}). The kit helps recover consequential passages and relationships. DEDDA™ compares the extraction with its source. The 27+12 gives the inquiry a sequence: establish correspondence before letting evaluation steer the representation. The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) keeps the author and the method open to correction on merit. Byte units in quotations are standardized to KB and MB; the figures and wording otherwise remain unchanged.
 
 **Source record:** `Chatting with Google A.I. 16 November 2026.txt`, 84,380 bytes, 870 lines; John’s prompts, default Google A.I.’s replies, the appended Grok 4.7 Expert Build relay, and Google’s response to that relay. The excerpts below are exact selected spans. The complete local attachment was consulted; this article presents a selected record. It does not republish the whole attachment, which includes a named third-party account beside John’s disclosure boundary. The two GPT reactions below are lightly adapted for publication and remain separate from the transcript. Reported model identity, release timing, and routing are not independently verified here.
 
