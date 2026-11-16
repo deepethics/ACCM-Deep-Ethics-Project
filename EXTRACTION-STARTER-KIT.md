@@ -15,6 +15,8 @@ last_modified_at: 2026-10-26
 
 # Extraction Starter Kit
 
+[**Upcoming archive extraction — worked 83 KB case**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) follows the proposed path from 125+ MB of highlights to a recoverable core. Its [pilot checks]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) show how the Starter Kit, DEDDA™ and the 27+12 can preserve correction sequences, disclosure boundaries and links across batches. The 10% target and session count remain planning estimates.
+
 ## Useful quotations, recoverable relationships, open futures
 
 This kit helps a human or an **[A.I.](#terms)** (artificial intelligence) extract useful, relevant and valuable passages from a long video about the path toward **[AGI](#terms)** (artificial general intelligence) and **[ASI](#terms)** (artificial superintelligence). Its reference field is the **ACCM Deep Ethics Project**, publicly developed on [GitHub](https://github.com/deepethics/ACCM-Deep-Ethics-Project), and the direction of [DeepEthical.ai](https://deepethical.ai).

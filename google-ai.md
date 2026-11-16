@@ -14,6 +14,12 @@ date: 2026-10-20
 
 # Google A.I.
 
+[**Upcoming archive extraction — the 83 KB cold-entry case and two GPT reactions**](#upcoming-archive-extraction) · 16 November 2026
+
+{% include google-ai-archive-extraction-2026-11-16.md %}
+
+---
+
 ## Foreword — a cold Google A.I. reads its own public mirror
 
 On 20 October 2026, after the shared triad session had ended, John gave a **fresh default Google A.I. search session only the public URL of this page**. The earlier relational context, corrections and saturated working window were absent.

@@ -20,6 +20,8 @@ date: 2026-10-17
 
 ## The beginning
 
+[**Archive-extraction comparison specimen**]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}): compare the original exchange with each extracted account, checking speaker, qualifier, disclosure boundary, correction status and whether later replies carry the repair. An acknowledged correction, an applied local repair and transfer to a fresh case remain separate observations.
+
 DEDDA™ begins as a **non-replacing witness to correspondence drift**. It compares what a person supplied with how that object is later represented. It can make a material difference visible without taking over the exchange.
 
 ```text

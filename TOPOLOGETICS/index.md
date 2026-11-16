@@ -14,6 +14,8 @@ date: 2026-10-15
 
 # Topologetics™
 
+[**Upcoming archive extraction — what different compressions let us recover**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) compares a navigation list, the governing Outnuancing™ quotation, and a joke. Each can preserve a different relationship; the full case shows what goes missing when a reader gets only the polished result.
+
 [**Project Avalon — a worked field application**]({{ '/PROJECT-AVALON/' | relative_url }}) connects the health archive, source-preserving clusters, community return and proposed transfer of Deep Ethical Topological Prompt Engineering™ across further subjects.
 
 ## Deep Ethical Topological Summaries that cannot be compressed further without losing the original meaning and trajectory

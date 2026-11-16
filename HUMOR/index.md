@@ -12,6 +12,8 @@ permalink: /HUMOR/
 
 [**Retrospective wit — the mutual joy of improving**](#retrospective-wit) · 14 November 2026
 
+[**Two live turns — returning Google’s template and correcting Grok with “AND, AND, AND”**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) · 16 November 2026. One joke restores the object of a memorial discussion; the other lets humor be fun, a diagnostic and a recovery route at the same time. The full case preserves the setup, correction and relay.
+
 [**New playable exchange — Six digits, an ape, a hungry cat, and technical support from the future :P**](#same-states-mathematical-menagerie) · 2 November 2026
 
 [**🐈 🦍 Verbatim reply — Mathematical uses, topology and a possible Wikipedia contribution**](#same-states-mathematical-uses) · 2 November 2026
