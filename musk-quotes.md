@@ -239,6 +239,27 @@ The project does not treat a moral constitution as a frozen list imposed from ab
 
 ---
 
+## A constitution that can be corrected {#a-constitution-that-can-be-corrected}
+
+Musk’s reported remark concerns **a moral constitution for Grok**. John Kuhles draws a broader question from it: what should govern how A.I.s act **and how people use them**, and how can either side challenge a rule that produces a bad result? Those are distinct contributions. The reported post does not supply a constitutional design or endorse the ACCM Deep Ethics Project.
+
+A practical test starts with one actual decision. Can the affected person recover what the system understood, which rule it applied, who could revise the decision, and whether an accepted correction changed the next comparable case? The project’s [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offer a voluntary reference for asking those questions. [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) carry the inquiry from challenge to repair and follow-through.
+
+## “Don’t be boring” — the simulation joke and what John takes from it {#dont-be-boring}
+
+In *The Builders* with Walter Isaacson, Musk suggested that **if** simulation theory were correct, boring simulations might be truncated. Isaacson asks whether the premise is true, setting up Musk’s playful conclusion: “the most important thing is just don’t be boring.” The interview was recorded on **6 August 2026** and released on **20 October 2026**. [Listen to the original episode](https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781) · [Read the timestamped transcript](https://singjupost.com/transcript-walter-isaacson-interviews-elon-musk-the-builders-podcast/) (approximately **04:19–04:41**, transcript edition).
+
+John remembered the joke as: if we’re in a sophisticated simulation, keep it interesting—we stop running boring simulations ourselves. That is **John’s paraphrase**, not Musk’s wording. The project connection is the playful echo of **“never boring”**: a good question or punchline can make people want to look again, including at their own first reading. That connection works independently of the simulation premise. See [Retrospective wit — the mutual joy of improving]({{ '/HUMOR/#retrospective-wit' | relative_url }}).
+
+## Promo-video working sequence {#promo-video-working-sequence}
+
+1. **Open on the stakes.** The existing [CNBC “immortal dictator” video](#source-video-j-DMynLFzIA) gives viewers a concrete starting point: power that becomes hard to challenge.
+2. **Make the constitution question concrete.** Show the sourced Grok remark as attributed text unless matching original footage is found. Let John ask who can get a rule corrected when it fails.
+3. **Let the joke land.** Use the Isaacson exchange as an audio candidate, with the conditional setup intact. Confirm the cut points against the recording and check reuse permissions before production.
+4. **Show the project at work.** Cut to the [“AND, AND, AND” correction relay]({{ '/GOOGLE-AI/#archive-extraction-second-reaction' | relative_url }}). Grok framed humor as a carrier of meaning *rather than* entertainment; John teased it out of the false choice, and Grok revised the formulation. The audience sees a correction happen, with both the insight and the fun intact.
+
+This is a production outline, not a finished video. Keep source, speaker and timestamp visible where applicable, and distinguish Musk’s clips from John’s commentary and the project’s own experiment.
+
 # How many of the seven are relevant?
 
 **Seven out of seven.**
