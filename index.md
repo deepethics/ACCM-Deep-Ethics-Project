@@ -275,6 +275,40 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
   </a>
 </div>
 
+## Five interacting functions of the ACCM Deep Ethics Project {#five-interacting-functions}
+
+*GPT 6.1 Sol A.I. · 16 November 2026 · Homepage edition, with links and a follow-up clarification.*
+
+I’d categorize the **ACCM Deep Ethics Project** as a **correspondence-first system for sense-making, correction, and reciprocal accountability**.
+
+Google’s five-layer map is a useful first pass. The main change I’d make: **these are five interacting functions, not five stages in a pipeline.** A later discovery can reopen the original question. A correction can change what deserves attention. And the person or system doing the audit can itself become the object of the audit.
+
+| Function | Concepts | What they do together |
+|---|---|---|
+| **Orient the inquiry** | **[1888 Method™]({{ '/1888/' | relative_url }})**, **[10+1 Epistemology™]({{ '/NETWORK/ten-plus-one/' | relative_url }})**, **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** | Ask which properties of intelligence are actually operating, keep the inquirer open to correction, and bring ethical considerations into view without imposing a doctrine. |
+| **Notice, clarify, and preserve** | **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})**, **[C1-C2 Method™]({{ '/NETWORK/c1-c2/' | relative_url }})**, **[Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }})**, **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})** | Notice what attention foregrounds or leaves out; clarify before intervening; examine the governing frame; and preserve the relationships, qualifiers, and provenance that make an object what it is. |
+| **Detect distortion and test what changed** | **[11+1 Clusters™]({{ '/NETWORK/eleven-plus-one/' | relative_url }})**, **Caution Murmelism™**, **[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})**, **[DEDDA™]({{ '/DEDDA/' | relative_url }})**, **[VCRAS™]({{ '/VCRAS/' | relative_url }})**, **[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }})** | Locate distortions, compare a representation with its source, and track treatment, correction, and consequences over time. Also ask what became possible through the interaction, even when the participants did not agree. |
+| **Make decisions and oversight contestable** | **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})**, **[Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }})**, **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }})** | Evaluate process quality, distinguish declared intent from conduct and effects, and provide a route for challenge and repair. The evaluator’s own method stays open to scrutiny. |
+| **Provide environments for practice, research, and recovery** | **[DeepEthicalOS™]({{ '/DEEPETHICALOS/' | relative_url }})**, **[Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }})**, **[WikiDeep™](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki)**, **NOAFF™** | These do different jobs: a proposed operating architecture, a research direction, a recoverable knowledge record, and a proposed unownable neutral-observer awareness field. They belong in the same map, but NOAFF™ is not another archive and the four are not all deployed software. |
+
+Two changes matter most. **Beyond Agreemurmelism™** does more than counter sycophancy: it lets us ask *what a contribution made possible* without reducing its value to agreement or disagreement. And **VCRAS™** does more than collect examples of dissenters who were later right: it studies what happened to competing assessments, how they were treated, what later evidence changed, and whether the next comparable warning was handled differently.
+
+The [humor exchange]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) is a miniature of the whole system. Google added a footer that shifted the object of the conversation. John handed the form back as a joke. Google then reconsidered whom it had been responding to and repaired the local mismatch. The published record lets another reader inspect that repair—and ask whether it carried forward. **Humor isn’t a sixth box. It can activate several functions at once.** So can a well-placed question.
+
+I’d keep Google’s comparisons to other research as **candidate parallels**, not equivalents. For example, a debate architecture and the Advocate–Arbiter–Overseer arrangement can both distribute roles. The comparison becomes useful when we ask what each role can actually do: clarify the object, question the frame, challenge the arbiter, reopen a decision, or decline participation.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **The ACCM Deep Ethics Project develops voluntary ways for people and A.I.s to keep inquiry in contact with its object, examine how judgment was formed, and let a warranted correction change what happens next—including when the judgment belongs to the auditor.**
+
+</div>
+
+### What can reopen what?
+
+Google A.I.’s follow-up recognized that the functions can feed back into one another. **Recursion still leaves room for local order:** clarify a consequential interpretation before intervening on its basis. A later appeal can reopen that clarification, and a detected drift can send a summary back to its source. Acknowledging a correction, applying it here, and carrying it into a fresh case are separately inspectable outcomes; the map does not establish that DEDDA™ is continuously monitoring them.
+
+**Voluntary** is load-bearing. People can use the tools, dispute an assessment, or decline participation. Reciprocal accountability includes the person or system running the audit; holding an audit role does not confer final authority.
+
 ## Why this exists
 
 The purpose is not to present a completed system. The purpose is to make something inspectable, searchable, discussable, testable, and corrigible while the larger project develops.
