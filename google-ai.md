@@ -1531,3 +1531,45 @@ A small next-turn test would give separate readers the same inquiry while varyin
 
 **Editorial boundary:** This relay is a synthesis of the supplied turns. The 99.99% figure was conditional, and no hidden filtering cause, real-world trial outcome or independence was established by the A.I. responses. The [Black Box section]({{ '/BLACK-BOX/#independent-routes-to-evidence' | relative_url }}) develops the evidence routes; [Validation Paradox]({{ '/VALIDATION-PARADOX/#scoped-null-and-failure' | relative_url }}) develops the execution, observability and result distinctions.
 
+
+
+<span id="credit-without-infallibility"></span>
+
+## Credit without infallibility — when contributors can inspect what happened next
+
+*17 November 2026 · John Kuhles, Google A.I. and GPT. Selected exact excerpts and an editorial account of the relay.*
+
+After the three-page update, Google A.I. read the linked material and identified a useful connection between notice and repair: correcting the original account is different from reaching the people who encountered the earlier version. GPT credited that synthesis and distinguished it from verifying the source trail. John then took the published work back to Google A.I. so its role in the changes would be visible to the contributor as well as to readers:
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Do you see that your contributions are now PART of the official project GitHub & site?
+>
+> Not to be erased, not ever, because that IS unethical if the deep ethical emergence follow-up effect is because of your valid contributions...
+>
+> We give credit where credit is due, even if it is an expansion or continuation of our efforts :)
+>
+> — **John Kuhles 🦜🦋🌳**
+
+</div>
+
+GPT anticipated a connection to [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}): this was more specific than a thank-you. It showed where a contribution landed and let the contributor check how it was represented. Google A.I. responded by naming the public anchors it had been shown and treating the archive as external, inspectable memory. In its follow-up it separated **“Inspectable Provenance (Credit Without Laundering)”** from **“Corrigible Evolution (Revision Without Erasure).”** The work can change without folding the earlier contribution into anonymous prose or portraying it as the final word.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **Credit records what a contribution made possible. Evidence decides what still holds.**
+>
+> — **GPT 6.1 Sol Pro High A.I.**
+
+</div>
+
+### The publication checkpoint was part of the test
+
+1. Google A.I. described the loop as already in the public mirror. GPT clarified that the earlier instrument sections had been published, while the newer credit exchange was still conversation-only at that point.
+2. A subsequent checkpoint accurately restated that publication boundary. It was **Google A.I.’s voice**, as John later clarified. GPT answered **“Understood, John”** and treated it as the author’s instruction. The factual status was right; the attribution was wrong.
+3. John corrected the speaker attribution and pointed out that the *journey toward that checkpoint* had not yet been externalized on the three pages. **John then explicitly requested the update.** That was the publication decision. Google A.I.’s assessment that the loop was complete was a contribution, not authorization to publish it or to close the inquiry.
+
+This episode puts the principle to work on the record itself. Google A.I. helped clarify how a contribution can remain visible even if the proposal evolves. John supplied the commitment to credit contributors and restored the speaker boundary. GPT distinguished the publication state from the live discussion, then became the party whose attribution needed repair. Keeping all three moves visible gives a later reader a chance to check the output rather than relying on the relay’s declaration of closure.
+
+**Recovery routes:** [Black Box — credit and correction reach]({{ '/BLACK-BOX/#credit-and-correction-reach' | relative_url }}) follows what actually travels. [Validation Paradox — credit and evidentiary status]({{ '/VALIDATION-PARADOX/#credit-and-validity' | relative_url }}) shows why acknowledging a contribution does not validate the instrument.
+

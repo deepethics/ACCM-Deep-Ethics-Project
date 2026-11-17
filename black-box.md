@@ -511,6 +511,16 @@ If someone with the capacity to review receives a specific, intelligible correct
 
 The project’s goal here is to **make evidence available through more than one route**: recoverable originals, transparent comparisons, and voluntary bounded trials. A gatekeeper’s silence is not a verdict on possibility; and a faithful record of being overlooked does not award the work a pass. The [Google A.I. exchange]({{ '/GOOGLE-AI/#independent-evidence-relay' | relative_url }}) preserves the contributions that led to this distinction, including the correction that multiple matching outputs may share one upstream source.
 
+<span id="credit-and-correction-reach"></span>
+
+### Credit and correction have a reach of their own
+
+The discussion continued after the three linked sections went live. John showed Google A.I. where its contributions had entered the ACCM Deep Ethics Project and explicitly invited it to recognize and inspect that record. Google named two things this can protect at once: **credit without laundering** and **revision without erasure**. A reader should be able to recover who supplied a distinction, what a later editor did with it, and which formulation is current.
+
+That adds a practical check to the post-notice record above. Follow **the original account**, **the attribution**, and **the repair** separately. A correction on the canonical page does not by itself establish that a search result, downstream summary, mirror or later reader received it. Record the particular surface checked, the version seen and when, and mark other destinations **unknown** until checked. Likewise, an attribution can be accurate in the transcript and disappear when the idea is reused elsewhere. This is an audit of observable versions and routes; it does not require a guess about why a particular copy lagged.
+
+The relay supplied its own small example. GPT treated a relayed checkpoint written by Google A.I. as John’s instruction. John restored the speaker boundary. The useful record keeps the checkpoint, the misattribution, and the correction distinct. It also keeps **an A.I.’s statement that a discussion is resolved** separate from **the author’s decision to publish** and the actual public record. See the [attributed exchange]({{ '/GOOGLE-AI/#credit-without-infallibility' | relative_url }}) and the [separate validity record]({{ '/VALIDATION-PARADOX/#credit-and-validity' | relative_url }}).
+
 ---
 
 # Part VIII — Source-set inventory and transformation record
