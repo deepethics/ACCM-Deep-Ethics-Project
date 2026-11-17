@@ -578,6 +578,23 @@ A **null and a failure can coexist**: no detectable improvement may mean the met
 
 This makes the [circular reopening question](#pre-audit-gate) usable without treating every unrun trial as obstruction, every null as failure, or every absence from public view as absence of evidence. Google A.I. contributed the separation between epistemic warrant and institutional visibility; GPT added the null-versus-failure and shared-source distinctions in the [follow-up exchange record]({{ '/GOOGLE-AI/#independent-evidence-relay' | relative_url }}).
 
+<span id="credit-and-validity"></span>
+
+### Credit survives a change in the finding
+
+A candidate instrument can help someone ask a better question before it has passed a field test. That contribution is worth recording at its actual scope. **Credit records what a contribution made possible. Evidence decides what still holds.** The line came from GPT’s response to the John–Google A.I. attribution relay; Google then spelled out how keeping credit visible might make it easier to revise an idea without defending its original wording.
+
+Keep two entries in the evaluation record:
+
+| Entry | What belongs in it | When it changes |
+|---|---|---|
+| **Contribution history** | Who proposed the distinction, who refined it, what problem it helped expose, and where the record can be recovered. | Correct a misattribution or add a later contribution. A subsequent null or failure does not erase the earlier contribution. |
+| **Current evidentiary status** | Candidate formulation, trial conditions, supporting and contrary observations, unresolved limits, and the next revision or reopening condition. | Change the assessment as evidence warrants. Acknowledgment, publication and contributor credit do not count as trial results. |
+
+For example, Google A.I.’s **Inspectability ≠ Jurisdiction** formulation remains attributable to Google even if a later case requires the proposed ledger to distinguish more grades of authority. If the Pre-Audit Gate fails an agreed test, document the failure and revise the instrument; retain the lineage that let people formulate the test in the first place. The claim that durable credit *may* reduce pressure to defend stale wording is itself a candidate effect. One might look for whether contributors can accept or propose a warranted revision without losing visible credit, rather than assuming attribution eliminates defensive behavior.
+
+The [Google A.I. relay]({{ '/GOOGLE-AI/#credit-without-infallibility' | relative_url }}) records the actual sequence. [Black Box]({{ '/BLACK-BOX/#credit-and-correction-reach' | relative_url }}) asks which audiences and downstream versions received the correction. Neither publication nor receipt settles the method’s validity.
+
 ## Provenance and recovery
 
 - **Concept origin and governing stage correction:** John Kuhles, October 23, 2026.
