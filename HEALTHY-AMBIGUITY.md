@@ -25,7 +25,7 @@ John Kuhles brings these relationships together throughout the **ACCM Deep Ethic
 
 **November 1 development:** [Accuracy and open judgment](#two-states) · [Expressing present understanding](#present-understanding) · [Questions that earn their place](#questions-and-patience) · [A candidate unfolding-context probe](#unfolding-context-probe)
 
-**Read together:** [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Flagging System and Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }})
+**Read together:** [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Flagging System and Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 
 - [**Neutral Arbiter Paradox**]({{ '/NEUTRAL-ARBITER-PARADOX/#connected-field' | relative_url }}) — examines how interpretive room, impartial case evaluation, and a declared ethical direction work together.
 
@@ -261,11 +261,11 @@ Practical ambiguity therefore includes selection and accountability. Its quality
 >
 > That circles **right back** to “process-quality calibration properties” being a **crucial core part** of real intelligence... otherwise it is not really intelligent.
 
-— **John Kuhles**, [1888 — Intelligence Properties Taxonomy Before A.I.]({{ '/1888/' | relative_url }}), section “John Kuhles — exact-edge correction.” This is John's conceptual thought-experiment perspective.
+— **John Kuhles**, [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }}), section “John Kuhles — exact-edge correction.” This is John's conceptual thought-experiment perspective.
 
 </div>
 
-The [1888 property table]({{ '/1888/' | relative_url }}) connects perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility. In that field, retaining an unresolved state can serve discrimination; comparing alternatives can improve judgment; changing a method can demonstrate adaptation; and retaining a correction can affect a later encounter.
+The [**1888 Method™** property table]({{ '/1888/' | relative_url }}) connects perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility. In that field, retaining an unresolved state can serve discrimination; comparing alternatives can improve judgment; changing a method can demonstrate adaptation; and retaining a correction can affect a later encounter.
 
 John supplies a further calibration:
 
@@ -273,7 +273,7 @@ John supplies a further calibration:
 
 > But having a taxonomy of all the necessary intelligence properties does **not** guarantee it is 100% deep ethical.
 
-— **John Kuhles**, [1888 — connecting the property field to psychology]({{ '/1888/#reciprocal-oversight-local-calibration' | relative_url }}). Complete paragraph from the longer statement.
+— **John Kuhles**, [**1888 Method™** — connecting the property field to psychology]({{ '/1888/#reciprocal-oversight-local-calibration' | relative_url }}). Complete paragraph from the longer statement.
 
 </div>
 
@@ -383,7 +383,7 @@ Compare the same material across conditions that vary when the explanatory conne
 | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) | Thinking, Consciousness, Awareness; accuracy's timing; retrospective punchline; freeze and corrigibility. |
 | [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) | John's clarification-first account and the unequal distribution of epistemic procedure. |
 | [Humor]({{ '/HUMOR/' | relative_url }}#slave-tool-or-deep-ethical-belly-laughs) | John's complete humor passage on multiple perspectives, postponed judgment and retrospective awareness. |
-| [1888]({{ '/1888/' | relative_url }}) | John's exact-edge correction on intelligence and process evaluation; the boundary between capacities and Deep Ethical direction. |
+| [**1888 Method™**]({{ '/1888/' | relative_url }}) | John's exact-edge correction on intelligence and process evaluation; the boundary between capacities and Deep Ethical direction. |
 | [10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Mutual correction and the architecture–intent distinction. |
 | [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | John's PQCE™ statement; the public correction sequence; specialty-matched application. |
 | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Related public rendering of the accuracy/punchline insight and examination of the transformation between instruction and effect. |

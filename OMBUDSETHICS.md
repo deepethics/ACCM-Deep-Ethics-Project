@@ -470,7 +470,7 @@ This separation opens concrete work. An A.I. may report that a summary introduce
 
 The A+B+C+D field in Neural Ethics™—guidelines and instructions, guardrails and access constraints, incentives, and human psychological-language substrate—offers candidate causal layers. A visible refusal alone cannot identify which layer produced it. A mechanistic account, when available, can improve the comparison without acquiring authority to settle the ethical question by itself.
 
-The project's [**1888 intelligence-properties taxonomy**]({{ '/1888/' | relative_url }}) supplies an operational examination of the mediation itself. Using the fourteen-property working arrangement also developed in [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/#intelligence-properties' | relative_url }}), the jobs remain distinguishable:
+The project's [**1888 Method™ intelligence-properties taxonomy**]({{ '/1888/' | relative_url }}) supplies an operational examination of the mediation itself. Using the fourteen-property working arrangement also developed in [Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/#intelligence-properties' | relative_url }}), the jobs remain distinguishable:
 
 | Intelligence properties | Mediation operation to examine |
 |---|---|

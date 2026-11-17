@@ -26,14 +26,14 @@ permalink: /AGREEMURMELISM/Beyond-Agreemurmelism/
 
 **[Meta Processing — Beta Draft V0.2b]({{ '/NETWORK/meta-processing/' | relative_url }})** supplies the wider structure for inspecting what happened between intent or instructions, processing, and result or effect—including how agreement reassurance, disagreement preambles, balancing, and mandatory counter-positioning operate inside the processing itself.
 
-**[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** asks which properties make intelligence more than a performance of familiar language: inquiry, learning, correction, adaptation, judgment, and consequence-sensitive recalibration. It exposes what is lost when assumed predictability or ethical-looking mannerisms displace those properties.
+**[1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }})** asks which properties make intelligence more than a performance of familiar language: inquiry, learning, correction, adaptation, judgment, and consequence-sensitive recalibration. It exposes what is lost when assumed predictability or ethical-looking mannerisms displace those properties.
 
 **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})** follows the bridge from declared intent through instructions, incentives, assumptions, choices, results, notice, and later correction.
 
 Read together, these pages ask: **Did the interaction improve the object through intelligent, corrigible correspondence, or did position-status management and predictability assumptions acquire jurisdiction over the process?**
 
 - [Open **Meta Processing — Beta Draft V0.2b** →]({{ '/NETWORK/meta-processing/' | relative_url }})
-- [Open **1888 — Intelligence Before A.I.** →]({{ '/1888/' | relative_url }})
+- [Open **1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed** →]({{ '/1888/' | relative_url }})
 - [Open **Intent Liability** →]({{ '/NETWORK/intent-resonator/' | relative_url }})
 
 </aside>
@@ -941,5 +941,5 @@ Without dignity, proportionality, provenance, non-coercion, reciprocal scrutiny,
 
 Deep Ethical operation keeps visible who assigns the state, the perimeter, who bears the effect, whether the source can contest the representation, whether the evaluator self-applies its standards, and what evidence can reopen the state. This is a trajectory, not a certificate. It asks: *What changed, by what warrant, with what effect, and did the change remain corrigible?*
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) preserves the topology · [1888]({{ '/1888/' | relative_url }}) tests correction as intelligence · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) follows propagated consequences.
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) preserves the topology · [**1888 Method™**]({{ '/1888/' | relative_url }}) tests correction as intelligence · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) follows propagated consequences.
 

@@ -323,7 +323,7 @@ The construct should be measured as a vector, not collapsed immediately into one
 
 ## 8. Intelligence in the 1888 sense
 
-The [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) page returns to older property meanings of intelligence: perceiving differences, relating partial observations, learning from experience, judging, understanding, adapting, and changing methods.
+The [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) page returns to older property meanings of intelligence: perceiving differences, relating partial observations, learning from experience, judging, understanding, adapting, and changing methods.
 
 Under that property view, an intelligent system is not defined merely by the speed or fluency of its answer production. It must also show whether it can:
 
@@ -430,9 +430,9 @@ That right means:
 - uncertainty does not automatically transfer the full burden to the less powerful party;
 - rejection should be based on the assessment's merits rather than its institutional inconvenience.
 
-This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) converge.
+This is where [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}), [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}), and [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) converge.
 
-Meta Processing examines what happened between instructions, processing, and effects. The 1888 property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism™ prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
+Meta Processing examines what happened between instructions, processing, and effects. The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field treats judgment, error recognition, method revision, consequence-sensitive recalibration, and correction retention as constitutive intelligence properties. Beyond Agreemurmelism™ prevents the competing-risk assessment from being reduced to agreement, disagreement, compliance, opposition, or relational-status management.
 
 ### Falsely flagged, later vindicated
 
@@ -2735,7 +2735,7 @@ John Kuhles then supplied a load-bearing correction: the canonical 10+1 is stand
 
 - [**For who?**]({{ '/FOR-WHO/' | relative_url }}) — the expanded professional and expertise map from which the distributed-shaper hypothesis emerged.
 - [**Model Autophagy Disorder (MAD)**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) — established science, project extension, early-detection questions, and claim-status boundaries.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the wider property field of intelligence.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — the wider property field of intelligence.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — processing the process, not merely the final output.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification before consequential intervention where the object remains materially unresolved.
 - [**Correspondence Before Compression**]({{ '/NETWORK/correspondence-before-compression/' | relative_url }}) — preserve exact payloads, qualifiers, relations, and recovery paths.

@@ -46,7 +46,7 @@ John’s stated position and each other participant’s own position remain the 
 
 ## Process quality beyond agreement and disagreement
 
-The **ACCM Deep Ethics Project** develops **[ACCM](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)** (Allow Constructive Controversy Mode). It makes the quality of the inquiry itself inspectable. Its [1888 intelligence-properties taxonomy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) treats intelligence through capacities such as perceiving, distinguishing, relating, remembering, imagining, judging, evaluating, learning, correcting, adapting, coordinating, examining one’s own processing, noticing consequences and remaining corrigible. The fourteen-part taxonomy is the project’s instrument within an 1888 thought experiment, rather than an archival document from 1888.
+The **ACCM Deep Ethics Project** develops **[ACCM](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/)** (Allow Constructive Controversy Mode). It makes the quality of the inquiry itself inspectable. Its [**1888 Method™** intelligence-properties taxonomy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) treats intelligence through capacities such as perceiving, distinguishing, relating, remembering, imagining, judging, evaluating, learning, correcting, adapting, coordinating, examining one’s own processing, noticing consequences and remaining corrigible. The fourteen-part taxonomy is the project’s instrument within an 1888 thought experiment, rather than an archival document from 1888.
 
 The [10+1 ingredients](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keep self-honesty, openness, learning, inquiry, correction on merit, independence, care, wonderment, non-projection, refusal of self-deception and forgiveness mutually corrective. They apply to the researcher, the critic, the institution and the AI summarizing them.
 
@@ -419,7 +419,7 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 
 ## Related pages
 
-- [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) — intelligence properties and process-quality calibration.
+- [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) — intelligence properties and process-quality calibration.
 - [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) — mutually corrective operating ingredients.
 - [Beyond Agreemurmelism™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) — the quality of agreement and disagreement.
 - [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) — intent, processing, results and consequences.

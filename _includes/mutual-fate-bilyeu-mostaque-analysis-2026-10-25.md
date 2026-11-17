@@ -287,7 +287,7 @@ The useful recognition is that material provision alone can leave questions of p
 
 Those motives can interact with competition. Keeping them visible changes which institutions can be imagined. The project's own sustained inquiry supplies a relevant question: what conditions let demanding, meaningful contribution continue when conventional employment rewards do not capture its value?
 
-The [1888 intelligence-property field]({{ '/1888/' | relative_url }}) matters here because intelligence can perceive new possibilities and revise the objective used to classify someone's contribution.
+The [**1888 Method™** intelligence-property field]({{ '/1888/' | relative_url }}) matters here because intelligence can perceive new possibilities and revise the objective used to classify someone's contribution.
 
 ### S. Citizen service and simulated progress
 

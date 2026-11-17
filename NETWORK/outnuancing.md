@@ -176,4 +176,4 @@ When *agree/disagree* governs, further optimization can produce sophisticated lo
 
 Outnuancing™ audits this replacement too. If the long phrase becomes costume, suppresses ordinary language, manufactures complexity, or lets *here is why* become final authority, revise, suspend or discard the frame while preserving functional distinctions that survive.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})

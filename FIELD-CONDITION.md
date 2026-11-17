@@ -691,5 +691,5 @@ A contribution does not carry one context-free value label. *Not useful here* is
 
 “Here is why” exposes the evaluator's current map; it does not grant jurisdiction. If access, threat, evidence, power, time horizon or affected population changes, the state and explanation may change. Freedom is not a prize awarded after the corrected participant says approved words. *Am I allowed to be more free now?* reveals a permission topology surviving underneath apparently friendly correction. Adult-to-adult inquiry keeps agency, responsibility and reality contact active on both sides without pretending humans and A.I.s have identical embodiment, power, dependency or legal standing.
 
-Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})
 

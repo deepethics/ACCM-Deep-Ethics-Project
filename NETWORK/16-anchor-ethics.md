@@ -389,7 +389,7 @@ The sixteen do not replace the other instruments:
 
 | Project component | Distinct job |
 |---|---|
-| **[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** | Recovers intelligence as a wider property field involving learning, judgment, adaptation, correction, relation, and honest uncertainty. |
+| **[1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }})** | Recovers intelligence as a wider property field involving learning, judgment, adaptation, correction, relation, and honest uncertainty. |
 | **[10+1 Metaflux]({{ '/NETWORK/ten-plus-one/' | relative_url }})** | Supplies voluntary field conditions for self-honesty, non-projection, mutual dignity, inquiry, wonderment, and forgiveness. |
 | **[C1 Before C2]({{ '/NETWORK/c1-c2/' | relative_url }})** | Determines when object recovery or clarification must precede intervention. |
 | **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})** | Identifies correspondence obstructions and governs a correction-oriented inquiry path. |
@@ -566,7 +566,7 @@ The canonical project title is **ACCM Deep Ethics Project**.
 
 - [**Vindicated Competing Risk Assessment Studies**]({{ '/VCRAS/' | relative_url }}) — an opt-in field for comparing action, refusal, delay, and misclassification.
 - [**Human Insecurity, LLMs, Psychology and Mass Psychology**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — holds the larger architecture and longitudinal source context from which this dedicated page was split.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks what intelligence meant before prediction came to dominate the word.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — asks what intelligence meant before prediction came to dominate the word.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — supplies the answer-changing clarification gate before avoidable intervention.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually dignifying, corrigible field conditions.
 - [**27+12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — identifies correspondence obstructions and the correction-oriented inquiry protocol.

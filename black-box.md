@@ -594,4 +594,4 @@ A **Deep Ethical Contribution State Grammar Vector Trajectory** separates:
 
 This prevents two substitutions: polished output as proof of sound processing, and observed distortion as proof of one hidden motive. Opacity does not make evaluation impossible. It makes claim status, matched tests, provenance and reopening conditions more important.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})

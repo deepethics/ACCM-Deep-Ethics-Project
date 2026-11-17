@@ -222,7 +222,7 @@ Test the next comparable mixed contribution before its eventual outcome is known
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — the same correction standard when the roles are reversed.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — which correction is worth keeping, and which was only tone.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — makes the correction receivable instead of a status loss.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — treats what happens after notice as a property already inside the older meaning of intelligence, not a courtesy added later.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — treats what happens after notice as a property already inside the older meaning of intelligence, not a courtesy added later.
 
 ---
 
@@ -295,5 +295,5 @@ John describes meritorious correction as something he can genuinely enjoy: diffe
 
 Both participants can be altered, then carry the repair—or a flattened version—into later conversations, prompts, pages, models and decisions. A **Deep Ethical Contribution State Grammar Vector Trajectory** asks what survived, which relation changed, which dependencies moved, whether transfer occurred, and whether the correction remained corrigible. Success is not spotless processing. It is visible, metabolized, transferable correction that can still be reopened.
 
-Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})
 

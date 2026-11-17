@@ -180,7 +180,7 @@ John also suggested [Ground News Blindspot](https://ground.news/blindspot). Its 
 
 ## The fourteen intelligence properties have work to do {#1888-in-practice}
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies the project's broader field of capacities. The following is a **page-specific application of that existing field**, rather than an addition to its count.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies the project's broader field of capacities. The following is a **page-specific application of that existing field**, rather than an addition to its count.
 
 | Property | Work in this inquiry | Observable result |
 |---|---|---|
@@ -228,7 +228,7 @@ The uploaded *Pasted text(20261101-141408).txt* supplies the initial links and G
 ## Related pages
 
 - [**Ethics Washing — Declaration, Process, and Correction**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — follows ethical declarations into conduct, challenge and later behavior.
-- [**1888**]({{ '/1888/' | relative_url }}) — the wider intelligence-property field used in the operational table.
+- [**1888 Method™**]({{ '/1888/' | relative_url }}) — the wider intelligence-property field used in the operational table.
 - [**Truth Distortion and the Trickster Magician**]({{ '/CORE/Truth-Distortion-and-the-Trickster-Magician/' | relative_url }}) — the information, carrier, receiver and mechanism relationships behind the metaphor.
 - [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — attention, influence and the surrounding institutional field.
 - [**Search Engine Bias**]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) — searches, source selection and the transformations between query and answer.

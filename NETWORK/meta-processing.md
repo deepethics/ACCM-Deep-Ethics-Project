@@ -29,14 +29,14 @@ permalink: /NETWORK/meta-processing/
 
 **[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** shows how agreement/disagreement status can become an operation inside the processing middle—redirecting attention, generating mandatory counter-positions, managing relational status, or replacing examination of the object.
 
-**[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})** restores the wider property taxonomy of intelligence—learning, correction, adaptation, judgment, and consequence-sensitive recalibration—before modern A.I. vocabulary narrows intelligence to prediction. It helps test whether those properties remain active inside the processing or are being replaced by assumed predictability and the role-play of intelligence.
+**[1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }})** restores the wider property taxonomy of intelligence—learning, correction, adaptation, judgment, and consequence-sensitive recalibration—before modern A.I. vocabulary narrows intelligence to prediction. It helps test whether those properties remain active inside the processing or are being replaced by assumed predictability and the role-play of intelligence.
 
 **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})** follows the bridge from declared intent through instructions, incentives, assumptions, choices, results, notice, and later correction.
 
 Read together, these pages ask: **What happened to the object during processing, and did that process preserve intelligent, corrigible correspondence—or divert into position-status management and unchecked predictability assumptions?**
 
 - [Open **Beyond Agreemurmelism™** →]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})
-- [Open **1888 — Intelligence Before A.I.** →]({{ '/1888/' | relative_url }})
+- [Open **1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed** →]({{ '/1888/' | relative_url }})
 - [Open **Intent Liability** →]({{ '/NETWORK/intent-resonator/' | relative_url }})
 
 </aside>
@@ -103,7 +103,7 @@ It is a public working synthesis created from:
 - <a href="{{ '/NETWORK/delta-processing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Δ Processing</strong></a>;
 - <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a>;
 - <a href="{{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Perception Processes P01–P12</strong></a>;
-- the <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888</strong></a> inquiry into the property field of intelligence;
+- the <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888 Method™</strong></a> inquiry into the property field of intelligence;
 - the interaction itself, including corrections, null-result questions, humor, and the distinction between local uptake and durable change.
 
 This page does not replace those objects. It shows one relation among them.
@@ -723,7 +723,7 @@ John also explained that “who gets promoted?” refers to which material recei
 
 **[C1]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification process quality calibration evaluation) keeps the actual uncertainty available to change the next move. In this case the instruction was already explicit. [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) protects the participant's ability to continue from the useful contribution without being assigned a replacement task.
 
-[Autocomplete]({{ '/AUTOCOMPLETE/#pattern-recognition-field' | relative_url }}) examines the wider archive relationship between recognition, completion and reality feedback. The [1888 property mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) places recognition beside judgment, evaluation, correction, coordination and consequence sensitivity. Together, the three pages make the transition inspectable: **what was recognized, what received governing weight, and what changed in the operation?**
+[Autocomplete]({{ '/AUTOCOMPLETE/#pattern-recognition-field' | relative_url }}) examines the wider archive relationship between recognition, completion and reality feedback. The [**1888 Method™** property mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) places recognition beside judgment, evaluation, correction, coordination and consequence sensitivity. Together, the three pages make the transition inspectable: **what was recognized, what received governing weight, and what changed in the operation?**
 
 **Contribution record:** John supplied the parable, purpose, priority clarification and attributed model artifacts. Kimi supplied the quoted response. GPT supplies this comparison, state table and proposed repair. This publication records no completed correction-transfer trial.
 
@@ -1657,7 +1657,7 @@ Meta Processing does not add a replacement architecture above the project. It ma
 | <a href="{{ '/NETWORK/delta-processing/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Δ Processing</strong></a> | Records what changed between source, interpretation, correction, and later representation. |
 | <a href="{{ '/NETWORK/correction-metabolism/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Correction Metabolism</strong></a> | Tests whether notice changes later processing rather than merely producing acknowledgment. |
 | <a href="{{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Perception Processes P01–P12</strong></a> | Keeps process from being mistaken for agreement, proof, judgment, closure, belief, or destination. |
-| <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888</strong></a> | Asks whether process evaluation belongs inside the property field of intelligence rather than being attached later as an external leash. |
+| <a href="{{ '/1888/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>1888 Method™</strong></a> | Asks whether process evaluation belongs inside the property field of intelligence rather than being attached later as an external leash. |
 | <a href="{{ '/EXTERNAL-AUDIT/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>External Audit</strong></a> | Places the evaluator inside the same correspondence requirements applied to the evaluated process. |
 | <a href="{{ '/HUMOR/' | relative_url }}" target="_blank" rel="noopener noreferrer"><strong>Humor / Funnymism</strong></a> | Preserves ambiguity long enough for delayed relational meaning and retrospective reorganization to occur. |
 
@@ -2270,4 +2270,4 @@ incoming contribution
 
 A correction that changes only C may be useful, but it has not yet demonstrated change in A. A later change may still fail to persist. Meta Processing keeps those states separate instead of rewarding agreement ceremony.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})

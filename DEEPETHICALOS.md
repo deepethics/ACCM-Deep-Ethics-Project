@@ -48,7 +48,7 @@ In a working environment, existing authorization would remain usable within its 
 
 ## The intelligence field and its relational baseline {#intelligence-field}
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks what properties already belonged to intelligence before contemporary artificial intelligence. Its current analytical table includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility. Calibration operates through these interacting properties.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks what properties already belonged to intelligence before contemporary artificial intelligence. Its current analytical table includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility. Calibration operates through these interacting properties.
 
 DeepEthicalOS™ would give them operational expression:
 
@@ -332,7 +332,7 @@ Public recovery routes preserve the connected objects:
 - [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) — directional mission, impartial assessment and reciprocal correction.
 - [From Archive to Local A.I.]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) — preparation architecture and the test of behaviour beyond vocabulary.
 - [Black Box]({{ '/BLACK-BOX/' | relative_url }}) and [External Audit]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — examinable mechanisms, evidence boundaries and independent challenge.
-- [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) — interacting intelligence properties, relational conditions and correspondence-first inquiry.
+- [**1888 Method™**]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) — interacting intelligence properties, relational conditions and correspondence-first inquiry.
 
 **Reopening question:** what did a later implementation, test or affected participant reveal that should change this architecture—and which next operation changed as a result?
 
@@ -347,7 +347,7 @@ Public recovery routes preserve the connected objects:
 - [**TCoAw™ — the static/dynamic bridge**]({{ '/NETWORK/tcoaw/#static-dynamic-bridge' | relative_url }}) — relates a stable mechanism and a temporary foreground to changing context and retained history.
 - [**Topologetics™ — static/dynamic relationships**]({{ '/TOPOLOGETICS/#static-dynamic-relations' | relative_url }}) — preserves the distinct roles of mechanism, state, context, observer and historical footprint across transformations.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — keeps room to understand, freedom to explore and responsibility for the next move connected.
-- [**PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}), [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) and [**1888**]({{ '/1888/' | relative_url }}) — connect process evaluation, mutually corrective orientation, clarification and the intelligence-property field.
+- [**PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}), [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) and [**1888 Method™**]({{ '/1888/' | relative_url }}) — connect process evaluation, mutually corrective orientation, clarification and the intelligence-property field.
 
 ---
 

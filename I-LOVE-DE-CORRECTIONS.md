@@ -156,7 +156,7 @@ John’s 15 November observation was that a better question can prevent several 
 
 John used science fiction as a contrast: a screenwriter can show a humanoid robot asking one well-aimed question, then changing what it does when it hears the answer. The scene works as an illustration without showing that fiction predicts real systems. In a real exchange, a useful check is whether the revised question saves the other person from having to recover the original inquiry again.
 
-John also described a related editorial problem: he usually approves suggested spelling changes himself and can often intervene, yet a bundled paragraph edit can slip through when he is tired and sometimes reverse what he intended. Keep the original wording, the proposed edit, the approved result, and the later correction separate. Approval records what happened to the text; it does not by itself show that the author adopted a new position. See [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) for the same distinction between recognizing a correction and letting it govern.
+John also described a related editorial problem: he usually approves suggested spelling changes himself and can often intervene, yet a bundled paragraph edit can slip through when he is tired and sometimes reverse what he intended. Keep the original wording, the proposed edit, the approved result, and the later correction separate. Approval records what happened to the text; it does not by itself show that the author adopted a new position. See [the identity-free **1888 Method™** test]({{ '/1888/#identity-free-next-move' | relative_url }}) for the same distinction between recognizing a correction and letting it govern.
 
 ## 5. Three corrections from the developing conversation {#worked-corrections}
 
@@ -170,7 +170,7 @@ The next useful question is: **which question improved the inquiry, how, and for
 
 ### “Demanding” and “value”
 
-In the earlier exchange preserved on [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), the assistant described the 1888 Method™ as asking something “demanding” of a growing network. John restored the value of **comparing the delta**. Participants can see what improves, what deteriorates, what stays unchanged, and what is still unfolding.
+In the earlier exchange preserved on [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), the assistant described the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) as asking something “demanding” of a growing network. John restored the value of **comparing the delta**. Participants can see what improves, what deteriorates, what stays unchanged, and what is still unfolding.
 
 That correction also recovered the stadium source's invitation and freedom to leave or return. The changed word affected the represented relationship between inquiry and participants. It therefore changed which questions became appropriate next: **what can people contribute freely, and what becomes possible when useful corrections remain available?**
 
@@ -233,7 +233,7 @@ The ingredients work in relationship. Wonderment can invite scrutiny. Scrutiny c
 
 ## 9. How correction and better questions engage the fourteen 1888 properties {#intelligence-properties}
 
-The [1888 page]({{ '/1888/' | relative_url }}) is John's thought experiment about intelligence before contemporary A.I. machinery. Its modern project taxonomy makes fourteen interacting properties inspectable. The year is the setting of the thought experiment, not the date of a newly recovered historical list.
+The [**1888 Method™** page]({{ '/1888/' | relative_url }}) is John's thought experiment about intelligence before contemporary A.I. machinery. Its modern project taxonomy makes fourteen interacting properties inspectable. The year is the setting of the thought experiment, not the date of a newly recovered historical list.
 
 **Correction belongs inside intelligence's ongoing operation.** It also depends on other properties: perceiving a mismatch, discriminating its type, remembering the source, evaluating a repair, and carrying learning forward. Better questions can activate and connect those operations.
 
@@ -377,7 +377,7 @@ John's request exposes a stigma worth examining: why should being helped to see 
 | **[1930s.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-08.html' | relative_url }})** and **[using a sledgehammer to crack a nut.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.html' | relative_url }})** | Thought-experiment status, conditional exploration, proportionate response, and source-preserving interpretation. |
 | **[36 Truth Distortion Vectors-Nodes.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-10.html' | relative_url }})** and **[3 times 3 deep ethical questions.txt]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }})** | Questions as investigative openings; information, carrier, and receiver as connected parts of an inquiry. |
 | **The conversation through 13 November 2026** | Value versus academic agreement; demanding versus valuing; the counter-template clarification; question quality; correction of compression; humor and personal encounters. |
-| **The connected public pages** | Existing definitions and correction records: [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}), [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}). |
+| **The connected public pages** | Existing definitions and correction records: [**1888 Method™**]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}), [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}), and [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}). |
 
 The A.I. names and dates identify supplied contributions in the archive; they do not independently authenticate model identity. Earlier speakers' first-person histories remain theirs. The file's accounts of internal mechanisms retain their attributed status. John's reported experiences remain personal accounts. The page's relational analysis, editorial examples, and proposed comparisons have their own stated scope.
 

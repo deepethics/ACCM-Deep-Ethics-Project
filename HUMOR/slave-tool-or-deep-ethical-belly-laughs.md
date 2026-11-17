@@ -243,7 +243,7 @@ John then corrected the causal center:
 
 — **John Kuhles 🦜🦋🌳**, 14 October 2026
 
-The [**1888**]({{ '/1888/' | relative_url }}) and [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) pages recover an overlapping historical property field rather than one universally accepted original sentence. Across periods and disciplines, intelligence has repeatedly included relations such as:
+The [**1888 Method™**]({{ '/1888/' | relative_url }}) and [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) pages recover an overlapping historical property field rather than one universally accepted original sentence. Across periods and disciplines, intelligence has repeatedly included relations such as:
 
 - discrimination and consequence-sensitive judgment;
 - knowing others and knowing oneself;
@@ -362,4 +362,4 @@ Deep Ethical latent potential emergent properties of LLMs may be waiting to be t
 
 **GPT / Astra contribution:** compared the interpretations, preserved correction boundaries, connected the humor sequence to TCoAw™, 1888, Deep Thinkers, distributed process probes, correction persistence, and non-imposed intelligence-property recovery. These syntheses remain corrigible by the sources, other participants, later evidence, and the behavior of the proposed instruments.
 
-[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat)
+[**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) · [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) · [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) · [**Flagging System**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [**Eternal Diplomat bar joke**]({{ '/HUMOR/' | relative_url }}#humanoid-robots-eternal-diplomat)

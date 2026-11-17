@@ -229,7 +229,7 @@ This also preserves the participant's freedom. Continuing collaboration is volun
 
 ### The 1888 properties performing the audit {#gasoline-gauge-1888}
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) makes process-quality calibration active throughout the operation. The following applications keep the fourteen properties connected to this particular specimen.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) makes process-quality calibration active throughout the operation. The following applications keep the fourteen properties connected to this particular specimen.
 
 | Property | What it does in the gasoline-gauge audit |
 |---|---|
@@ -2259,7 +2259,7 @@ No menu. No invitation. No routing question. 🇳🇱 🦜🦋🌳
 
 ## Related pages
 
-- [**1888 — Intelligence Properties Taxonomy Before A.I.**]({{ '/1888/' | relative_url }}) — the process-quality field applied to the gauge, its dependencies, the reviewer and the next operation.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — the process-quality field applied to the gauge, its dependencies, the reviewer and the next operation.
 - [**Neolingo**]({{ '/NEOLINGO/' | relative_url }}) — recoverable handles, collective development and transfer to the next unfamiliar relationship.
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps the whole moving object available when a local correction changes one relation.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how temporary relational conditions change what an A.I. notices, preserves, corrects and verifies.

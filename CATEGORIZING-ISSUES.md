@@ -59,7 +59,7 @@ Suppose the crew uses the investigator's background to dismiss the proposal. Lat
 
 The word *yet* makes the difficulty open to investigation. An evaluator may lack a category for what the combination could produce. People can also understand a proposal and continue to disagree about evidence, risks, values or consequences. The inquiry can distinguish those sources of friction by following the particular disagreement.
 
-John proposed treating the word as if it had a personality, in the spirit of the [1888 intelligence-properties thought experiment]({{ '/1888/' | relative_url }}). His phrase *sole purpose* refers to what the word does within the personification. Here is one provisional description of its operations.
+John proposed treating the word as if it had a personality, in the spirit of the [**1888 Method™** intelligence-properties thought experiment]({{ '/1888/' | relative_url }}). His phrase *sole purpose* refers to what the word does within the personification. Here is one provisional description of its operations.
 
 | Property | What the word can do in an exchange |
 |---|---|

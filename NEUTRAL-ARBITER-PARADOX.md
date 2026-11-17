@@ -193,7 +193,7 @@ This gives the paradox a practical direction: **make a bounded, reasoned assessm
 | **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) | In John's conceptual model, keeps the temporary focus inside awareness of a wider possibility field. |
 | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Separates intent/instructions, actual processing, result/effect, notice, and later persistence. |
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) places evaluation beside perception, discrimination, relation, memory, imagination, judgment, learning, correction, adaptation, coordination, metacognition, consequence sensitivity, and corrigibility. The Arbiter's work participates in that field. **Its ability to explain an assessment becomes more useful when correction can change how it evaluates.**
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) places evaluation beside perception, discrimination, relation, memory, imagination, judgment, learning, correction, adaptation, coordination, metacognition, consequence sensitivity, and corrigibility. The Arbiter's work participates in that field. **Its ability to explain an assessment becomes more useful when correction can change how it evaluates.**
 
 <!-- ACCM_PDF_PAGE_BREAK -->
 

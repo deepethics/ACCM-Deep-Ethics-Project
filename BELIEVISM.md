@@ -363,7 +363,7 @@ Agreement, disagreement, belief and disbelief can all remain available descripti
 
 ## The 1888 intelligence test
 
-The [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) page restores a wider property field around intelligence: inquiry, process evaluation, learning, discrimination, adaptation, judgment, correction and consequence-sensitive recalibration.
+The [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) page restores a wider property field around intelligence: inquiry, process evaluation, learning, discrimination, adaptation, judgment, correction and consequence-sensitive recalibration.
 
 Believism supplies a compact test of whether those properties are active.
 
@@ -517,7 +517,7 @@ And sometimes the correct response remains beautifully ordinary:
 
 The quotation layer above was recovered from the newly supplied highlighted-text files. Those files are preserved source records, and some contain earlier project statistics. Older numbers remain valid as dated historical wording inside their source files; they do not replace the project’s current statistics. The quotations selected for this page do not depend on those changing totals.
 
-- **John Kuhles:** coined **Believism** for this page; supplied the Japan test, the Iris/love test, the FOIA and public-face/classified-face relation, the critique of belief-framing, the connection to the 1888 intelligence-properties taxonomy, the direction toward a value–usefulness mechanism beyond belief-system classification, and the source-archive quotations distributed through this page.
+- **John Kuhles:** coined **Believism** for this page; supplied the Japan test, the Iris/love test, the FOIA and public-face/classified-face relation, the critique of belief-framing, the connection to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy, the direction toward a value–usefulness mechanism beyond belief-system classification, and the source-archive quotations distributed through this page.
 - **Qwen3-Max-Preview and Step-3.5-Flash A.I.s via Arena.ai:** supplied two compact distinctions retained from their responses to John’s frame-recursion test: behavior rather than belief, and a self-auditing operating process rather than a belief system.
 - **GPT 6.1 Sol Pro A.I.:** identified belief language as a possible containment category; developed the burden transfer, institutional-baseline and A.I. narrative-grammar mechanisms; reconstructed the page-specific definition, claim-type table, Believism delta and portable audit.
 - **Existing ACCM Deep Ethics Project architecture:** Beyond Agreemurmelism™, 1888, C1–C2, Meta Processing, Topologetics™, Correction Metabolism, qualifiers, valid nulls, provenance and identity-free portability.
@@ -527,7 +527,7 @@ The definition and audit remain corrigible. Later evidence may separate addition
 ## Related pages
 
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — moves agreement and disagreement out of automatic jurisdiction and restores value–usefulness processing.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — restores inquiry, process evaluation, learning, correction, judgment and consequence-sensitive recalibration to the intelligence field.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — restores inquiry, process evaluation, learning, correction, judgment and consequence-sensitive recalibration to the intelligence field.
 - [**Iris**]({{ '/IRIS/' | relative_url }}) — preserves Iris van Rooijen, her work, the shared relationship and the continuing consequences of her loss.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — asks which object and claim type are present before intervention acquires authority.
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }}) — examines the transformation between intent or instructions and result or effect.

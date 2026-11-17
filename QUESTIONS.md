@@ -266,7 +266,7 @@ Questions were already distributed throughout the ACCM Deep Ethics Project befor
 
 | Project page | Contribution to question quality |
 |---|---|
-| [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) | Treats metacognitive question-generation, evaluation of the process, and correction as properties of intelligence—not optional decoration after answering |
+| [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) | Treats metacognitive question-generation, evaluation of the process, and correction as properties of intelligence—not optional decoration after answering |
 | [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) | Asks whether a consequential ambiguity should be clarified before evaluation, warning, steering, or intervention |
 | [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) | Prevents the act of asking a question from acquiring automatic jurisdiction, and distinguishes dynamic C1 from ceremonial questioning |
 | [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) | Questions the governing frame without automatically replacing it with another protected frame |
@@ -395,7 +395,7 @@ The question does not need to sound profound. It needs to **do real work**.
 
 - [**Truth Seekers vs Cautionmurmelism**]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) — the live John–Arena Agent–GPT specimen on partial distortion, truth-seeking conduct, limited-scope reasoning, redundant caution, valid nulls and correction persistence.
 
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — questioning the question as metacognitive intelligence rather than evasion.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — questioning the question as metacognitive intelligence rather than evasion.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — answer-changing clarification before intervention.
 - [**Clarification Authority**]({{ '/NETWORK/clarification-authority/' | relative_url }}) — why asking does not automatically authorize the asker or improve the process.
 - [**Trajectory Question Value Profile**]({{ '/AI-CONTRIBUTIONS/trajectory-question-value-profile/' | relative_url }}) — multi-axis evaluation of question trajectories rather than one score.

@@ -339,7 +339,7 @@ The proposed use is recursive where the object requires it. A new distinction ca
 
 ## The 1888 properties have concrete jobs here {#properties-1888}
 
-The [1888 thought experiment]({{ '/1888/' | relative_url }}) asks which properties belong to intelligence before current machinery and familiar labels control the answer. The following fourteen properties are the project's working analytical taxonomy. Their application below is a page-specific synthesis.
+The [**1888 Method™** thought experiment]({{ '/1888/' | relative_url }}) asks which properties belong to intelligence before current machinery and familiar labels control the answer. The following fourteen properties are the project's working analytical taxonomy. Their application below is a page-specific synthesis.
 
 | Intelligence property | Work on the Tidy Trap specimen |
 |---|---|
@@ -418,7 +418,7 @@ This adds a practical extension to Tidy Trap checking. Visible wording can prese
 
 The local correction preserves Google's useful architectural distinction. It also keeps GPT's own synthesis inside the same audit: its seventeen instructions had made parts of the twelve less explicit, and this update restores those relationships. An error in one sentence, label, or link does not determine the value of every other contribution.
 
-The **[1888 properties]({{ '/1888/' | relative_url }})** have specific jobs in this continuation. Perception notices the destination; discrimination separates instruction from execution; relation connects stages to rules; memory preserves the August provenance; correction restores the URL and dependency; judgment bounds the finding; corrigibility keeps the mapping itself revisable. The work remains visible in the repaired object.
+The **[1888 Method™ properties]({{ '/1888/' | relative_url }})** have specific jobs in this continuation. Perception notices the destination; discrimination separates instruction from execution; relation connects stages to rules; memory preserves the August provenance; correction restores the URL and dependency; judgment bounds the finding; corrigibility keeps the mapping itself revisable. The work remains visible in the repaired object.
 
 
 ## An institutional-trust example tests the edges {#trust-specimen}
@@ -583,6 +583,6 @@ The intervening merged prompt and first walkthrough were supplied directly in th
 
 The page compares supplied conversation records. It does not independently establish a vendor's hidden model configuration or the causes of its outputs. New explanations and proposed procedures are attributed editorial contributions. Quotation boxes retain source wording and speaker identity; the comparative tables distinguish examples from findings.
 
-**Recovery routes:** [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [DEDDA™]({{ '/DEDDA/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}).
+**Recovery routes:** [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) · [DEDDA™]({{ '/DEDDA/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}).
 
 **What changed in the object while we made the explanation cleaner?** Keep that question available at the next rewrite, including the rewrite of this page.

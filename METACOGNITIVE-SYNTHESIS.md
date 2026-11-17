@@ -405,7 +405,7 @@ This is often more useful than indefinite delay. A clear unresolved edge can gui
 
 ## The 1888 intelligence properties as operations inside synthesis
 
-The **[1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }})** keeps process-quality calibration within intelligence itself. In this project, the fourteen-property working arrangement is a current analytical instrument; it is not a claim that the historical 1888 source published this exact fourteen-row table.
+The **[1888 Method™ intelligence-properties taxonomy]({{ '/1888/' | relative_url }})** keeps process-quality calibration within intelligence itself. In this project, the fourteen-property working arrangement is a current analytical instrument; it is not a claim that the historical 1888 source published this exact fourteen-row table.
 
 | Property | What it contributes here | Observable question |
 |---|---|---|
@@ -843,7 +843,7 @@ Reviewed 4 November 2026. These sources supply the specific comparisons describe
 
 ## Continue from the operation you need
 
-- [1888 — intelligence and process-quality calibration]({{ '/1888/' | relative_url }})
+- [**1888 Method™** — intelligence and process-quality calibration]({{ '/1888/' | relative_url }})
 - [Topologetics™ — the faithful compression floor]({{ '/TOPOLOGETICS/' | relative_url }})
 - [Meta Processing — processing applied to processing]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [C1 before C2 — clarification and intervention]({{ '/NETWORK/c1-c2/' | relative_url }})

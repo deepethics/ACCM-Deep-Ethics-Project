@@ -38,7 +38,7 @@ Begin with the strongest distinct contributions. There is no fixed quota: retain
 
 ## Why the 1888 approach changes extraction {#property-first}
 
-The [**1888 — Intelligence Properties Taxonomy Before A.I.**]({{ '/1888/' | relative_url }}) thought experiment steps back from present machinery to examine the properties attached to intelligence: perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility.
+The [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) thought experiment steps back from present machinery to examine the properties attached to intelligence: perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility.
 
 Process-quality calibration operates throughout that field. It affects what is noticed, how possibilities are represented, what memory retains and whether correction changes later conduct. The page's fourteen-part table is its analytical instrument; the thought experiment asks what functions were already conceptually available before contemporary A.I.
 
@@ -160,7 +160,7 @@ The [trolley correction below](#trolley-full-source) supplies a worked case. An 
 
 ### Follow a correction into its next applicable use {#correction-transfer-record}
 
-A stored record, an available record and a relation that governs later processing are different states. The [1888 correction-persistence discussion]({{ '/1888/' | relative_url }}) makes that distinction observable. For a consequential repair, retain:
+A stored record, an available record and a relation that governs later processing are different states. The [**1888 Method™** correction-persistence discussion]({{ '/1888/' | relative_url }}) makes that distinction observable. For a consequential repair, retain:
 
 | Field | Observation to preserve |
 |---|---|
@@ -466,7 +466,7 @@ Finding no earned project connection in a passage is a valid result. Record it w
 
 **A.I.** means artificial intelligence. **AGI** means artificial general intelligence. **ASI** means artificial superintelligence. These labels orient the video's discussion; preserve each speaker's actual definition, capability threshold and proposed timeline. Different definitions may produce different forecasts.
 
-**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [1888 page]({{ '/1888/' | relative_url }}) and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) provide the fuller inquiry.
+**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [**1888 Method™** page]({{ '/1888/' | relative_url }}) and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) provide the fuller inquiry.
 
 ## Origin, authorship and correction route {#provenance}
 
@@ -476,13 +476,13 @@ Finding no earned project connection in a passage is a valid result. Record it w
 
 The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-starter-kit) preserves the immediate formulation. This page develops it into a usable method. The interview and historical archive are initiating specimens, not a claim that the method has already been validated across videos. Future use should record what was recovered, missed, overconnected or improved and let that finding change the kit.
 
-**October 26, 2026 reciprocal integration:** John requested a comparison with the reorganized cold-start continuity kit and authorized the useful additions in both directions. This page now applies the existing [Human Insecurity reporting-effect and relational-qualifier instruments]({{ '/HUMAN-INSECURITY/' | relative_url }}), [1888 correction-persistence distinctions]({{ '/1888/' | relative_url }}) and [Cold Edge-Swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) to quotation extraction and the optional Beta comparison. The continuity kit receives this page's discovery pass, coverage and quote-record formats, complete trolley correction case, separate-affordance comparison and service-feedback workflow. The source relations retain their existing provenance; the extraction-specific adaptations are corrigible A.I.-assisted operational proposals. This records an integration, not a completed validation experiment.
+**October 26, 2026 reciprocal integration:** John requested a comparison with the reorganized cold-start continuity kit and authorized the useful additions in both directions. This page now applies the existing [Human Insecurity reporting-effect and relational-qualifier instruments]({{ '/HUMAN-INSECURITY/' | relative_url }}), [**1888 Method™** correction-persistence distinctions]({{ '/1888/' | relative_url }}) and [Cold Edge-Swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) to quotation extraction and the optional Beta comparison. The continuity kit receives this page's discovery pass, coverage and quote-record formats, complete trolley correction case, separate-affordance comparison and service-feedback workflow. The source relations retain their existing provenance; the extraction-specific adaptations are corrigible A.I.-assisted operational proposals. This records an integration, not a completed validation experiment.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
 ## Further reading
 
-- [**1888**]({{ '/1888/' | relative_url }}) — the property-field method that initiated this kit.
+- [**1888 Method™**]({{ '/1888/' | relative_url }}) — the property-field method that initiated this kit.
 - [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving meaning and trajectory under transformation.
 - [**Plot Twist**]({{ '/PLOT-TWIST/' | relative_url }}) — warranted expansion, correction and return to the governing object.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — possibilities, reciprocal scrutiny and accountable next moves.

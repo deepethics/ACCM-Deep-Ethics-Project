@@ -6,7 +6,7 @@ The most consequential relationship in this presentation is between **an obstruc
 
 The Qwen example gives that distinction a concrete research object. The original work reports substantial gains after a narrowly targeted edit, while a follow-up on another model provides a useful negative result. The researchers' released [Experiment 8 documentation](https://github.com/RikiyaT/lm_understand-logs/blob/main/exp8_math/README.md) makes the conditions, alternative budgets, resulting scores, and repair recoverable. That is a productive starting point for asking what changed and why it mattered.
 
-The ACCM Deep Ethics Project already approaches conversational obstruction through the [1888 intelligence-properties field]({{ '/1888/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). A conversation can improve when a lost qualifier is restored, a false assumption is removed, or the evaluator recovers the right object. Here, the intervention changes numerical parameters in a network. **The functional comparison concerns obstruction, recovery, and transfer; the two interventions operate through different mechanisms.**
+The ACCM Deep Ethics Project already approaches conversational obstruction through the [**1888 Method™** intelligence-properties field]({{ '/1888/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). A conversation can improve when a lost qualifier is restored, a false assumption is removed, or the evaluator recovers the right object. Here, the intervention changes numerical parameters in a network. **The functional comparison concerns obstruction, recovery, and transfer; the two interventions operate through different mechanisms.**
 
 That comparison opens useful research. Which failures can be repaired through context, sampling settings, tools, training, weight edits, or combinations of these? Which repair persists, which introduces another defect, and which works only on the original example? An effective method should help select among those routes rather than assume that the most technically dramatic route is always the best.
 
@@ -56,7 +56,7 @@ The technical contrast also gives the [gasoline-gauge principle]({{ '/PLOT-TWIST
 
 #### The 1888 properties become jobs inside the investigation {#weights-1888}
 
-The project's [1888 taxonomy]({{ '/1888/' | relative_url }}) places process-quality calibration inside the interacting properties of intelligence. It offers a useful way to inspect the complete investigation, including the editor, tools, evaluator, and human decisions:
+The project's [**1888 Method™** taxonomy]({{ '/1888/' | relative_url }}) places process-quality calibration inside the interacting properties of intelligence. It offers a useful way to inspect the complete investigation, including the editor, tools, evaluator, and human decisions:
 
 | Intelligence properties | Practical operation in this case |
 |---|---|

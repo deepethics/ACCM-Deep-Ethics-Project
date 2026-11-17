@@ -157,7 +157,7 @@ The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) can
 
 ## The 1888 intelligence properties in operation {#intelligence-properties}
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks what intelligence could have meant before contemporary A.I. architecture and branding. The project's fourteen-property working arrangement makes process quality observable through the work performed. The year is the thought-experiment reference.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) asks what intelligence could have meant before contemporary A.I. architecture and branding. The project's fourteen-property working arrangement makes process quality observable through the work performed. The year is the thought-experiment reference.
 
 | Property | A concrete operation in a consequential case |
 |---|---|

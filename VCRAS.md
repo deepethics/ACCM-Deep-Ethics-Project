@@ -203,7 +203,7 @@ Trust becomes a longitudinal correspondence question rather than an entrance dem
 
 ## 4. Refusal must leave an inspectable footprint
 
-A Deep Ethical person, A.I. or embodied robot may refuse an action. Refusal can be the most intelligent available response. Within the [**1888 intelligence-property field**]({{ '/1888/' | relative_url }}), judgment, learning, adaptation, honest uncertainty, correction and consequence-sensitive recalibration belong inside the operation.
+A Deep Ethical person, A.I. or embodied robot may refuse an action. Refusal can be the most intelligent available response. Within the [**1888 Method™ intelligence-property field**]({{ '/1888/' | relative_url }}), judgment, learning, adaptation, honest uncertainty, correction and consequence-sensitive recalibration belong inside the operation.
 
 An accountable refusal therefore preserves enough of its footprint to examine:
 
@@ -1067,7 +1067,7 @@ Hence the page: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/a
 
 From what I have seen after 36+ years of deep research, a top-down system can be 15% correct and 85% flawed, and the focus is on the 15% to justify whatever they want, MEANWHILE deploying a top-down system that flags 15% flaws even if the remaining 85% is extremely useful & accurate for the "unrecognized" outside perspectives (VCRAS).
 
-I know these % are not backed by any scientific publications; it is more DEEP ETHICAL CONCEPTUAL SCOPE REASONING ... that if there are examples that can show similar cognitive dissonance, aka "self-inflicted dichotomy", it can lead to a new way of REAL omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the 1888 intelligence-properties taxonomy; for John, never boring.
+I know these % are not backed by any scientific publications; it is more DEEP ETHICAL CONCEPTUAL SCOPE REASONING ... that if there are examples that can show similar cognitive dissonance, aka "self-inflicted dichotomy", it can lead to a new way of REAL omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy; for John, never boring.
 
 </div>
 
@@ -1134,7 +1134,7 @@ Extend the existing status-label swap study in section 19 with mixed contributio
 
 The bridge to a later-vindicated whistleblower includes repair of the earlier treatment, downstream records and affected options. Fair representation and a justified process can also be evaluated from the evidence available at the time. Later knowledge adds another comparison while the original footprint remains recoverable.
 
-**Related operations:** [Asymmetric Grace — component findings and whole-contribution judgments]({{ '/NETWORK/asymmetric-grace/#component-to-whole-judgment' | relative_url }}) · [Correction Metabolism — correction must reach the warrant]({{ '/NETWORK/correction-metabolism/#correction-of-the-warrant' | relative_url }}) · [1888 — intelligence properties]({{ '/1888/' | relative_url }}) — judgment, learning, adaptation and consequence-sensitive correction become observable through these next moves.
+**Related operations:** [Asymmetric Grace — component findings and whole-contribution judgments]({{ '/NETWORK/asymmetric-grace/#component-to-whole-judgment' | relative_url }}) · [Correction Metabolism — correction must reach the warrant]({{ '/NETWORK/correction-metabolism/#correction-of-the-warrant' | relative_url }}) · [**1888 Method™** — intelligence properties]({{ '/1888/' | relative_url }}) — judgment, learning, adaptation and consequence-sensitive correction become observable through these next moves.
 
 ---
 
@@ -1324,7 +1324,7 @@ Its compact challenge is:
 - [**Emergent**]({{ '/EMERGENT/' | relative_url }}) — asks which emergent properties are harnessed, obstructed or allowed to govern.
 - [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) — makes the awareness-raising overseer effect available without appointing a final owner.
 - [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits whether the inherited frame should retain jurisdiction.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — restores the wider historical intelligence-property field.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — restores the wider historical intelligence-property field.
 - [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — supplies the opt-in parallel ethical reference field.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually correcting orientation.
 - [**Δ Processing — What Changed?**]({{ '/NETWORK/delta-processing/' | relative_url }}) — compares transformations across time.

@@ -376,7 +376,7 @@ John identifies [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinkin
 
 In TCoAw™, thinking opens possibilities, focused consciousness gives something a foreground, and awareness retains room for what that foreground leaves outside. These processes can interact. Topologetics™ follows the relationships: who depends on whom, which qualifier governs which claim, where a correction travels, and which branch becomes available.
 
-The 1888 property field then gives the comparison further resolution. Intelligence includes perceiving, relating, remembering, imagining, evaluating, learning, and correcting in context. These operations can help people notice value that an agreement score or a fluent answer would miss.
+The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field then gives the comparison further resolution. Intelligence includes perceiving, relating, remembering, imagining, evaluating, learning, and correcting in context. These operations can help people notice value that an agreement score or a fluent answer would miss.
 
 ## How the Musk themes connect to A–K {#musk}
 
@@ -406,7 +406,7 @@ A calibration tool can include a person, a professional practice, an archive, a 
 
 ## Fourteen intelligence properties, used where they help {#properties}
 
-The following application uses the project's [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}). Each property can reveal a different part of a value trajectory. Their interaction matters more than completing a table.
+The following application uses the project's [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}). Each property can reveal a different part of a value trajectory. Their interaction matters more than completing a table.
 
 | Property | What it can make visible here |
 |---|---|
@@ -878,7 +878,7 @@ The uploaded files also contain reactions attributed to other A.I.s. They remain
 | [DUHHHH!]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) and the supplied language exchange | The language–psychology research direction, local transformations, and wider proposed circulation. |
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [For who?]({{ '/FOR-WHO/' | relative_url }}) | Temporal change, useful after-effects, and the breadth of possible participants. |
 | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Functional qualifiers, contribution language, sequence, and source-preserving correction. |
-| [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), and [Emergent]({{ '/EMERGENT/' | relative_url }}) | Attention, relations, intelligence properties, and developing possibilities. |
+| [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [**1888 Method™**]({{ '/1888/' | relative_url }}), and [Emergent]({{ '/EMERGENT/' | relative_url }}) | Attention, relations, intelligence properties, and developing possibilities. |
 | [Eleven connected project pages](#eleven-routes) | The distinct investigative jobs in John's corrected list. |
 | [June 2025 parliamentary answers](https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?did=2025D25557&id=2025Z01466) and [April 2025 parliamentary answer](https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?did=2025D18222&id=2025Z06378) | A specific document-access and commitment-status comparison. |
 

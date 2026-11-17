@@ -22,7 +22,7 @@ John Kuhles commissioned the same contribution-preserving scope work developed o
 
 The thread brings together observations, professional testimony, personal experiences, source releases, scientific proposals, public-policy developments, older investigations and disagreements among participants. A contribution can supply an important question, an access route, a practical method or a missing relationship before its explanation is settled.
 
-This is a living inquiry of the **ACCM Deep Ethics Project**, on an **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory**, using the **[1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }})**. Each topic remains recoverable and revisable as the work develops.
+This is a living inquiry of the **ACCM Deep Ethics Project**, on an **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory**, using the **[1888 Method™ intelligence-properties taxonomy]({{ '/1888/' | relative_url }})**. Each topic remains recoverable and revisable as the work develops.
 
 ## Vocabulary and the object of inquiry {#vocabulary}
 
@@ -40,7 +40,7 @@ The **67 topics and 248 memberships in 18 clusters are editorial inquiry objects
 
 ## John’s files add a wider research field {#source-files}
 
-The three research files were read alongside the thread. The two supplied continuity files were consulted for the project’s orientation, 1888 property field, source-status distinctions and mutually corrective 10+1. The table below is **GPT’s page-specific synthesis** of their useful contributions; it identifies the source layer so a later reader can recover the distinction.
+The three research files were read alongside the thread. The two supplied continuity files were consulted for the project’s orientation, [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field, source-status distinctions and mutually corrective 10+1. The table below is **GPT’s page-specific synthesis** of their useful contributions; it identifies the source layer so a later reader can recover the distinction.
 
 | Supplied file / source layer | Useful contribution | What it changes in this inquiry |
 |---|---|---|
@@ -211,7 +211,7 @@ Cultural context can help recover what a witness meant. It can also affect where
 
 #### Apply the 1888 properties to this A.I. too
 
-The **[1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }})** asks whether process evaluation actually changes the work. Here is its concrete application:
+The **[1888 Method™ intelligence-properties taxonomy]({{ '/1888/' | relative_url }})** asks whether process evaluation actually changes the work. Here is its concrete application:
 
 | Interacting properties | Work in this encounter |
 |---|---|

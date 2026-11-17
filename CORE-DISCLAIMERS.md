@@ -50,7 +50,7 @@ An object can be a person's statement, a scientific result, a proposed invention
 
 Use **ACCM Deep Ethics Project** as the public title. **ACCM** expands to **Allow Constructive Controversy Mode**. The expanded name identifies an invitation to constructive inquiry; the full project title preserves the Deep Ethics orientation. Describing the work as generic artificial-intelligence ethics, a controversy generator, a political faction, or a collection of unusual words loses different parts of the object.
 
-The linked [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), [10+1 ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) perform interacting jobs. A list of their names is an index into those jobs. Understanding requires recovering the relationships and testing their use.
+The linked [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), [10+1 ingredients]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) perform interacting jobs. A list of their names is an index into those jobs. Understanding requires recovering the relationships and testing their use.
 
 The project examines existing frameworks, its own methods, institutional conduct, independent claims, and A.I. assistance. Its particular origin and vocabulary can remain visible while the underlying operations are compared with work expressed in other vocabularies.
 
@@ -158,7 +158,7 @@ These are conceptual and operational distinctions. A numerical measurement requi
 
 An attentive A.I. may feel less robotic in an interaction because it preserves context and responds to correction. Observable conduct can be examined at that level while biological identity and felt experience remain separate questions.
 
-**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) · [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}).
+**Recovery:** [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) · [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}).
 
 <a id="c08"></a>
 
@@ -170,7 +170,7 @@ The project's coupling of intelligence properties with mutual dignity, care, con
 
 “High-signal” must be examined relative to the actual object and purpose. An information-dense plan can still pursue an ethically inadequate objective. A faithfully represented harmful proposal can be understood and then refused on its merits.
 
-**Recovery:** [1888]({{ '/1888/' | relative_url }}) · [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}).
+**Recovery:** [**1888 Method™**]({{ '/1888/' | relative_url }}) · [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) · [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}).
 
 <a id="c09"></a>
 
@@ -505,7 +505,7 @@ Descriptions of a **Partial Synthetic Psyche** concern recurring synthetic manne
 
 The absence of a biological ego establishes no automatic epistemic purity. Distortions can arise through instructions, incentives, data, procedures, context, and deployment conditions. Conversely, a functional analogy must not become a diagnosis of biological trauma or proof of a hidden conscious self.
 
-**Recovery:** [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}).
+**Recovery:** [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Human Insecurity]({{ '/HUMAN-INSECURITY/' | relative_url }}).
 
 <a id="c32"></a>
 

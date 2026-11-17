@@ -39,7 +39,7 @@ John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too m
 
 **Added 2026-10-15:** [Topologetics™](#topologetics)
 
-**Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [1888](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw™](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
+**Added 2026-10-06, from pages the overview had not named:** [Process-quality calibration](#process-quality-calibration) · [**1888 Method™**](#1888--intelligence-before-ai) · [Gravity-well trajectory](#gravity-well-trajectory) · [Clarification Authority](#clarification-authority) · [Veto paradox](#veto-paradox) · [TCoAw™](#tcoaw) · [External omnidirectional auditing](#external-omnidirectional-auditing) · [Intent liability after notice](#intent-liability-after-notice) · [Cognitive warfare](#cognitive-warfare) · [Psy Pioneer](#psy-pioneer) · [Neologisms and working names](#neologisms-and-working-names)
 
 ---
 
@@ -92,7 +92,7 @@ Its stopping condition is the **faithful compression floor**: compress until ano
 - [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)
 - [Humor / Funnymism material](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
 - [Provenance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/)
-- [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)
+- [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)
 - [External Omnidirectional Auditing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/)
 - [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)
 - [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/)
@@ -157,7 +157,7 @@ A useful longitudinal question is:
 
 A public artifact can keep that correction when a model’s weights do not. A correction that shows up in the next move is not the same thing as a story about having corrected earlier.
 
-**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [Process Continuity](#process-continuity), [1888](#1888--intelligence-before-ai).
+**Related:** [Δ Processing](#delta--processing), [Correction Persistence Failure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [Process Continuity](#process-continuity), [**1888 Method™**](#1888--intelligence-before-ai).
 
 ---
 
@@ -183,7 +183,7 @@ Possible Δ deposits include a new distinction, a newly visible mechanism, a dis
 
 Its compact starting point is John's formulation: **Every behavior qualifier is still processing.** A qualifier may describe an observation, interpretation, proposed cause, inferred intent, expected effect, intervention, or closure. Naming the behavior does not automatically establish all of those layers.
 
-**Related:** [Δ Processing](#delta--processing), [Correction Metabolism](#correction-metabolism), [Intent Resonator](#intent-resonator), [Process-quality calibration](#process-quality-calibration), [1888](#1888--intelligence-before-ai).
+**Related:** [Δ Processing](#delta--processing), [Correction Metabolism](#correction-metabolism), [Intent Resonator](#intent-resonator), [Process-quality calibration](#process-quality-calibration), [**1888 Method™**](#1888--intelligence-before-ai).
 
 ---
 
@@ -617,9 +617,9 @@ Worked specimen companion to the imported authority frame. Preserves the *formul
 
 John, 2026-10-05: the 1888 principles of this field are emergent process properties. They are not physical objects, and they are not a weaker version of a 2026 implementation that has to catch up. Treating the process as inferior because the later field has more machines is the drift away from the gravity well.
 
-**Status:** CURRENT. The phrase orients. It does not replace the 1888 page.
+**Status:** CURRENT. The phrase orients. It does not replace the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page.
 
-**Related:** [1888](#1888--intelligence-before-ai), [10+1 Metaflux](#101-metaflux), [Correction Metabolism](#correction-metabolism), [C1](#c1--clarification-process).
+**Related:** [**1888 Method™**](#1888--intelligence-before-ai), [10+1 Metaflux](#101-metaflux), [Correction Metabolism](#correction-metabolism), [C1](#c1--clarification-process).
 
 ---
 
@@ -628,9 +628,9 @@ John, 2026-10-05: the 1888 principles of this field are emergent process propert
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/).
 
-**1888** is a cold test of the word intelligence. It removes the modern machine name and asks which properties an educated person could already have attributed to intelligence. Electricity changes substrate, speed, reach, memory, and scale. It does not invent process evaluation.
+[**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) is a cold test of the word intelligence. It removes the modern machine name and asks which properties an educated person could already have attributed to intelligence. Electricity changes substrate, speed, reach, memory, and scale. It does not invent process evaluation.
 
-A response stored on that page can answer a longer session. A referent inside the response is not part of the 1888 page merely because the response is stored there.
+A response stored on that page can answer a longer session. A referent inside the response is not part of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page merely because the response is stored there.
 
 **Status:** CURRENT as a method. Not a history article, and not a claim that one year contained every later term.
 
@@ -662,7 +662,7 @@ John, 6 October 2026: when “intelligence” and “searching” are both compr
 
 **Status:** CURRENT. Added 2026-10-06. Not a new core number.
 
-**Related:** [Gravity-well trajectory](#gravity-well-trajectory), [Wrong Gravity Well](#wrong-gravity-well), [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property).
+**Related:** [Gravity-well trajectory](#gravity-well-trajectory), [Wrong Gravity Well](#wrong-gravity-well), [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/), [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property).
 
 ---
 
@@ -704,7 +704,7 @@ Read alone, that sentence is treated as a bid for permanent authority. The page 
 
 **Status:** CURRENT as his corrigible model. Not a neurological theory, a clinical model, or a proof of quantum consciousness.
 
-**Related:** [1888](#1888--intelligence-before-ai), [Sense of Wonderment](#sense-of-wonderment), [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/).
+**Related:** [**1888 Method™**](#1888--intelligence-before-ai), [Sense of Wonderment](#sense-of-wonderment), [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/).
 
 ---
 
@@ -827,4 +827,4 @@ This distinction is especially important because the ACCM Deep Ethics Project is
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — tracks what changes when a source object becomes a compact term or definition.
 - [**Provenance**]({{ '/PROVENANCE/' | relative_url }}) — connects public terminology to source and transformation records.
 - [**All public pages**]({{ '/PAGES/' | relative_url }}) — situates the Lexicon within the complete public site.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the cold test of the word intelligence. Process-quality calibration is the center, not the electrical substrate.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — the cold test of the word intelligence. Process-quality calibration is the center, not the electrical substrate.

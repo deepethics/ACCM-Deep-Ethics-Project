@@ -422,7 +422,7 @@ The local A.I. can expose framing changes, salience ranking, qualifier erosion, 
 
 The assistant can preserve minority hypotheses without privileging them automatically, keep null results available, distinguish absence of evidence from evidence of absence, expose when disciplinary conventions have become unquestioned premises, and prevent an early classification from determining every later retrieval step.
 
-The 1888 intelligence-property field is especially visible here. Science requires perception, discrimination, relation, imagination, judgment, evaluation, learning, correction, adaptation, memory, metacognition, consequence sensitivity, coordination, and corrigibility. Probability production is one operation inside intelligence; it does not exhaust the field.
+The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-property field is especially visible here. Science requires perception, discrimination, relation, imagination, judgment, evaluation, learning, correction, adaptation, memory, metacognition, consequence sensitivity, coordination, and corrigibility. Probability production is one operation inside intelligence; it does not exhaust the field.
 
 A local research A.I. can retain the experimental sequence, negative results, changing hypotheses, source documents, methodological corrections, and the order in which discoveries emerged. It can help compare a paper’s stated conclusion with its methods and data while remaining able to say that the present record does not settle the matter.
 
@@ -1002,7 +1002,7 @@ For gifted and neurodivergent learners, a direct adult-to-adult or intelligence-
 
 This assistant would protect the strange, qualified, unfinished creative object from being made warmer, safer, more conventional, and slightly smaller before its value becomes visible. It should help refine a gift without eating it.
 
-Imagination is one of the 1888 intelligence properties. It remains connected to discrimination and evaluation so possibility does not quietly become fact. Humor also needs healthy ambiguity: meaning may arrive later through a changed relation, retrospective recognition, or the realization that the joke includes the person telling it.
+Imagination is one of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties. It remains connected to discrimination and evaluation so possibility does not quietly become fact. Humor also needs healthy ambiguity: meaning may arrive later through a changed relation, retrospective recognition, or the realization that the joke includes the person telling it.
 
 The assistant should be able to challenge the creator directly, preserve the original voice, expose cliché and imitation, remember stylistic corrections, and avoid replacing the work with the average preference profile of an imaginary audience.
 
@@ -1612,7 +1612,7 @@ That is already a highly specialized—and potentially deeply powerful—form of
 
 ## Primary project sources
 
-- [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)
+- [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/)
 - [Meta Processing — Beta Draft V0.2b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/)
 - [Dutch Directness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/dutch-directness/)
 - [C1 Before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/)

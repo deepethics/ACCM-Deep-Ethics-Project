@@ -179,7 +179,7 @@ This creates a bounded research opportunity: **a change in willingness to answer
 | Correspondence | Did it preserve the object, qualifiers, evidence status, sources and competing interpretations? |
 | Correction and consequence | Could a challenge change the assessment, did that change govern a later case, and what followed? |
 
-The narrow intervention provides one concrete mechanism to investigate. Generalization, habitual balancing, attention selection and correction failure require their own observations. The **[1888 intelligence-property field]({{ '/1888/' | relative_url }})** keeps those capacities available for examination together.
+The narrow intervention provides one concrete mechanism to investigate. Generalization, habitual balancing, attention selection and correction failure require their own observations. The **[1888 Method™ intelligence-property field]({{ '/1888/' | relative_url }})** keeps those capacities available for examination together.
 
 ## 16 Anchor Ethics™ as counsel during a tweak {#anchor-counsel}
 
@@ -247,7 +247,7 @@ Records can stay local and proportionate to the task. Participants decide what t
 - [**DeepEthicalOS™**]({{ '/DEEPETHICALOS/' | relative_url }}) — concept architecture and the Omarchy-hosted research path.
 - [**Herdr**]({{ '/HERDR/' | relative_url }}) — agent-runtime continuity, multi-agent field conditions and the distinction between runtime state and correction state.
 - [**Neural Ethics™**]({{ '/NEURAL-ETHICS/' | relative_url }}) — relationships between internal mechanisms and ethical interpretation.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — intelligence properties and process-quality calibration.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — intelligence properties and process-quality calibration.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [**C1–C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) (Clarification Process before Contextual Intervention) — mutually corrective orientation and answer-changing clarification.
 - [**27 obstructions + 12-stage inquiry**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — inspect correspondence losses and the inquiry intended to interrupt them.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — bounded comparisons of sources, representations, permissions and correction return.
