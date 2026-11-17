@@ -3054,3 +3054,31 @@ For example, the [care-cascade topic A329]({{ '/AI-AND-HEALTH/#avalon-a329' | re
 The [reverse topic index]({{ '/AI-AND-HEALTH/#avalon-cluster-topic-index' | relative_url }}) makes every membership inspectable. The [explicit mapping data](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_data/health_avalon_clusters.json) and [generator](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/scripts/build_health_avalon_clusters.py) support revision while checking that every topic remains reachable. A useful correction can identify a misplaced membership, restore a missing relationship and improve the next operation.
 
 This is a navigational application of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties trajectory: perception retains the contribution, discrimination preserves its type, relation opens further paths, judgment selects useful next work, and memory and correction keep the map responsive. The same scrutiny applies to the map’s editor, its categories and its omissions. Cluster and membership counts describe the representation; the usefulness lies in the relationships people can recover and pursue.
+
+
+## Worked specimen — Can a summary preserve Bell’s argument? {#bell-argument-compression}
+
+A headline can name a conclusion while leaving the route to it invisible. Tim Maudlin’s lecture offers a useful case for testing [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}): a reader should be able to recover the difference between **accurate predictions** and a **complete description**, between **a premise** and **an inference**, and between **a reformulation** and **the new test it permits**.
+
+The strongest positive example is Bohm’s reformulation. In Maudlin’s account, moving from position and momentum to spin keeps the EPR argument’s logic while giving Bell a clearer way to vary and compare measurement settings. A faithful transformation can therefore do two jobs: **preserve the old argument and make a new question askable**. That is a concrete link to [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}). Curt’s question about “as if” supplies a second, shorter probe: can a reader retain the useful small-magnet analogy without promoting it to a literal account of the particle?
+
+### Proposed access-variation check
+
+Give separate readers the headline only, a short summary, or the relevant transcript passages. Ask each the same questions:
+
+1. What was EPR trying to establish, and what question was it taking as distinct?
+2. In the lecturer’s reconstruction, where does the locality premise enter, and where does the inference to determinism enter?
+3. What did Bohm’s reformulation preserve, and what new comparison did it make practicable?
+4. What does Bell’s result rule out given the relevant assumptions, and does it supply a faster-than-light signaling procedure?
+
+Record **what was recoverable from the material provided** separately from **what the reader inferred, omitted or added**. A headline-only reader who marks an unavailable premise as unknown earns credit for that boundary. Give one load-bearing correction, then see whether it governs a fresh explanation. A scoped null is possible: the short summary might preserve every relation needed for these questions. No trial has been run here. See [Google A.I.’s source-access probe]({{ '/GOOGLE-AI/#independent-evidence-relay' | relative_url }}) and the [Validation Paradox trial-state ledger]({{ '/VALIDATION-PARADOX/#scoped-null-and-failure' | relative_url }}).
+
+[Lecture source record and passage guide]({{ '/YOUTUBE-TRANSCRIPTS/#maudlin-bell-lecture' | relative_url }}). The transfer is methodological: test the representation against the argument and its sources. It does not import a quantum explanation into A.I. behavior.
+
+### Watch the lecture
+
+[Watch the original lecture on YouTube](https://www.youtube.com/watch?v=XVZzuIUZveg).
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="XVZzuIUZveg" title="Tim Maudlin on Bell’s theorem and non-locality — Theories of Everything with Curt Jaimungal" %}
+<!-- ACCM_PDF_OMIT_END -->
