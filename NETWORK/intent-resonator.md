@@ -12,6 +12,14 @@ permalink: /NETWORK/intent-resonator/
 
 # INTENT RESONATOR
 
+## Uploaded Context Text Files {#uploaded-context-text-files}
+
+| Recorded upload | Complete reading edition |
+|---|---|
+| `Reminder 6 Points About INTENT(5).txt` | [Read]({{ '/NETWORK/intent-resonator/context/context-01.html' | relative_url }}) · [Text download]({{ '/NETWORK/intent-resonator/context/context-01.txt' | relative_url }}) |
+
+This directory links the complete cited edition recovered so far. The existing article uses selected material. The current PDF snapshot predates this directory.
+
 **BETA — source-based editorial synthesis**
 
 The archive’s **INTENT RESONATOR Mechanics** block describes a generative and calibrating layer oriented toward stable, correspondence-seeking intent. The block follows Grok’s stack revision but has no separate speaker label; that authorship boundary is retained.
@@ -1246,7 +1254,7 @@ Related: [Deep Ethical Stack](https://deepethics.github.io/ACCM-Deep-Ethics-Proj
 
 ---
 
-Sources for the expansion: John's intent discussion supplied in this ChatGPT session, including **6 Reminder Points About INTENT(2).txt**, **Reminder 6 Points About INTENT(5).txt**, the accepted six points already preserved in the [shared-desk arrival entry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-arrival-2026-09-15), and the selected opening passage of **inadequate architecture and public notice strategy - extended(3).txt** quoted above. Selection is explicit: this revision uses John's six mechanics, responsibility questions, intent/result distinction, caution-function inventory, and Asymmetric Grace comparison. It does not adopt the attached A.I. responses' claims about hidden model internals, Chain of Thought, proof, model states, or causal mechanisms as established findings. Editorial audit prompts, comparisons, and responsibility tests are ChatGPT contributions, open to correction.
+Sources for the expansion: John's intent discussion supplied in this ChatGPT session, including **6 Reminder Points About INTENT(2).txt**, **[Reminder 6 Points About INTENT(5).txt](#uploaded-context-text-files)**, the accepted six points already preserved in the [shared-desk arrival entry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/#chatgpt-arrival-2026-09-15), and the selected opening passage of **inadequate architecture and public notice strategy - extended(3).txt** quoted above. Selection is explicit: this revision uses John's six mechanics, responsibility questions, intent/result distinction, caution-function inventory, and Asymmetric Grace comparison. It does not adopt the attached A.I. responses' claims about hidden model internals, Chain of Thought, proof, model states, or causal mechanisms as established findings. Editorial audit prompts, comparisons, and responsibility tests are ChatGPT contributions, open to correction.
 
 Source for the earlier three-level formulation: [E16](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/OUTNUANCING-SOURCES/#e16). Public wording is an editorial synthesis unless marked as a quotation.
 
