@@ -526,6 +526,38 @@ This framing does not borrow deployment evidence for conceptual work. It identif
 
 </div>
 
+<span id="pre-audit-gate"></span>
+
+## Pre-Audit Gate — did the method have a chance to meet reality?
+
+*17 November 2026 · Working evaluation instrument developed through the John Kuhles–Google A.I.–GPT exchange.*
+
+John’s starting distinction is about timing: a new method can be examined by trying it on a bounded case and observing what happens. If the gate demands the results of that very trial before the trial may run, the route to evidence is closed. The practical question is **what a standard lets us observe**, including outcomes neither the inventor nor the inspector expected.
+
+### Inspectability ≠ jurisdiction
+
+Google A.I. gave this distinction a compact name: **“Inspectability ≠ Jurisdiction.”** Being able to inspect a procedure does not establish authority to impose a standard or halt a trial. Record the inspector’s actual role, where that authority comes from, what it covers, which obligations apply to the participants, and how the standard can be challenged or revised. Someone can make a sound criticism without having veto power; someone with veto power can still be asked to explain why a particular standard fits this stage and level of risk.
+
+**Doing it first** here means a bounded, voluntary trial with a traceable before-and-after record. A reversible comparison can yield evidence without entitling anyone to deploy the method broadly or waive obligations to affected people. A relevant safety condition can make a test more informative or narrow its scope. The paradox arises when the condition requires the very output it makes impossible to obtain.
+
+### Candidate ledger
+
+| Field | When and what to record | Keep separate |
+|---|---|---|
+| **1. Execution status** | Record the proposed scope at **T₀**, then document whether the trial ran, partially ran, did not run, or its status is unknown. | An execution status is not an explanation. A partial run can support observations only about the portion that ran. |
+| **2. Observability perimeter** | At **T₀**, document what the instrumentation, comparison, logs and access are designed to reveal. Afterward, record what was actually visible, only partly visible, or unobserved. | A missing, inaccessible, or truncated record is not evidence that the effect was absent. |
+| **3. Outcome classification** | At **T₁**, record observed improvement, unanticipated discovery, documented failure, mixed results or a scoped null. Use **unobserved** when a trial ran but relevant effects could not be inspected, and **not applicable** when it did not run. | A scoped null means no material change **was detected under stated conditions**. It depends on the observation being adequate for that question. |
+| **4. Block attribution** | Once established, record the actual decision, responsible authority, applicable standard, and specific effect on the trial. Keep resource or technical limits, voluntary withdrawal, mixed causes and unresolved attribution available. | “The trial did not run” is an execution status. “The gate blocked it” is a causal finding. Neither establishes private motive. |
+| **5. Reopening condition** | Ask what specific evidence could reopen the decision, who can review it, and whether an alternative source, a smaller trial or an appeal can satisfy the requirement. | A circular condition requires an output that can only be recovered from the process it bars. A difficult condition with a feasible independent route is a different case. |
+
+### Audit the refusal and the standard
+
+Google’s useful follow-up was to make an inspector’s refusal an event in the record. Ask **what it prevented**, **whether comparable incumbents face a proportionate standard**, and **what would reopen the gate**. Compare authority, scale, reversibility and consequences before treating different outcomes as [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}). Preserve explanations and possible counterexamples. The record can show a circular requirement or an unequal burden without deciding anyone’s private intent.
+
+**Illustrative test, not an executed result:** Give reviewers the same source and proposed small, reversible comparison. Ask one review to state the evidence it requires before the trial, and the other to identify what can be observed in a bounded run. Record the decisions, their reasons, what actually ran, and what could be observed. If both permit a useful test, preserve that result. If one demands the trial’s own results but denies any way to collect them, record that particular circularity. If a run produces no detectable improvement, keep the null. The test remains useful only if surprise, failure, and no change can all enter the record.
+
+**Contribution record:** John Kuhles raised the assumption that the inspected object already owes obedience to the inspector’s standard and made practice the route to validation. Google A.I. proposed the temporal inversion, **Inspectability ≠ Jurisdiction**, the **Pre-Audit Gate** framing, the five-field ledger and a side-by-side test. GPT distinguished non-execution from a proved block, scoped nulls to observed conditions, and kept effects separate from inferred motives. This editorial synthesis keeps those contributions distinct. The [screenshot-led Google A.I. case]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}) illustrates a different boundary: what a reader could observe as its source access changed.
+
 ## Provenance and recovery
 
 - **Concept origin and governing stage correction:** John Kuhles, October 23, 2026.
