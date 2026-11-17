@@ -30,7 +30,7 @@ John explains the reason for his exclusion policy:
 
 > The reason for "exclusion" (other than exposing their flaws and ethics washing, explaining why, and quoting their sources) is very simple:
 >
-> THEY ALREADY (in my view) DOMINATE THE MASS MEDIA NETWORKS, FFS
+> **They already** (in my view) **dominate the mass media networks**, FFS
 >
 > If I let the MSM-saturated WEF Network talking points, aka pushed narratives, bleed into my project, it is ultra stupid in my view.
 >
@@ -52,7 +52,7 @@ John's uploaded source develops the individual-psychology and mass-psychology re
 
 <div class="accm-rounded-quote" markdown="1">
 
-> DISCLAIMER: When I discuss (use the word) “evil”… I do NOT mean that in a dogmatic religious way, more like an observation of (trending) behavior!
+> **Disclaimer**: When I discuss (use the word) “evil”… I do **not** mean that in a dogmatic religious way, more like an observation of (trending) behavior!
 >
 > Part of the “Nature of Evil” being so successful is that they need good people to believe the lies & deceptions they push >>> so that good people will help their deceptive agenda unfold faster and more effectively … Good people, using unlimited creative potential, help the scam continue & succeed. Often, (hypnotized) good people are much better at deceiving other (potential) victims when they blindly trust & believe spoon-fed, unchallenged narratives.
 >

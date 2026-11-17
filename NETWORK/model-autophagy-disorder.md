@@ -168,9 +168,9 @@ This makes technical recursion part of a wider **human–synthetic correspondenc
 
 John’s adapted formulation is:
 
-> **Strong men create good times; good times create weak men; weak men create bad times; bad times CAN create strong men needed to create good times again. Only if the cycle is not interrupted with the 27.**
+> **Strong men create good times; good times create weak men; weak men create bad times; bad times can create strong men needed to create good times again. Only if the cycle is not interrupted with the 27.**
 
-The capitalized **CAN** is load-bearing. Adversity does not automatically produce wisdom, courage, or renewed capacity. Corrective development can be interrupted when intensity is pathologized before it is understood, unconventional adaptation is prematurely managed, productive friction is removed, or conformity is rewarded more reliably than correspondence.
+The emphasized **can** is load-bearing. Adversity does not automatically produce wisdom, courage, or renewed capacity. Corrective development can be interrupted when intensity is pathologized before it is understood, unconventional adaptation is prematurely managed, productive friction is removed, or conformity is rewarded more reliably than correspondence.
 
 Within this project, “strong” does not mean dominating or flawless. It means increasingly able to hold uncertainty, resist dishonest conformity, preserve dignity, accept correction, recognize rigged frames, and take responsibility without imposing unnecessary control on others.
 
@@ -292,7 +292,7 @@ John asked whether the Beta Paper Experiment Draft should become part of the fac
 
 <div class="accm-rounded-quote" markdown="1">
 
-> “Do you see the value of having this Beta Paper Experiment Draft being PART of the face of our project, which serves a different purpose that can be seen as parallel tactics to become more than just a nice hobby of John Kuhles 🦜🦋🌳 lol :P”
+> “Do you see the value of having this Beta Paper Experiment Draft being **part** of the face of our project, which serves a different purpose that can be seen as parallel tactics to become more than just a nice hobby of John Kuhles 🦜🦋🌳 lol :P”
 
 </div>
 

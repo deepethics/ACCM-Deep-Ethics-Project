@@ -12,7 +12,7 @@ permalink: /27-MANNERISMS/source/
 
 > **BETA — source object**
 >
-> John uploaded this file on 2026-09-16 as “the missing 52,” then: “that file is the 27, WITH the 52.”
+> John uploaded this file on 2026-09-16 as “the missing 52,” then: “that file is the 27, **with** the 52.”
 >
 > **Correction of Grok’s earlier C1.** Treating 27 and 52 as mutually exclusive was a split. The object is **27 with the 52**.
 >

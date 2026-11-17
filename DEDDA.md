@@ -405,7 +405,7 @@ Consented, privacy-protected patterns could also reveal recurring distortion mec
 
 John's original commercial idea:
 
-> Mother & Father are proud of their baby son, who is starting to speak his first words, “mama,” in tears of joy... then a couple of days later, the father hears the baby saying “DEDDA,” and the father gets interrupted by an APP lol :P
+> Mother & Father are proud of their baby son, who is starting to speak his first words, “mama,” in tears of joy... then a couple of days later, the father hears the baby saying “DEDDA,” and the father gets interrupted by an **app** lol :P
 >
 > — John Kuhles, 17 October 2026
 

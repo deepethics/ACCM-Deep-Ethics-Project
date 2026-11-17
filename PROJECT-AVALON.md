@@ -59,7 +59,7 @@ He also attributes the earlier compression of more than 100 observed A.I. issues
 
 <div class="accm-rounded-quote" markdown="1">
 
-> What I did was bring together multiple areas of expertise in one place to create a whole different "deep ethical code of conduct," like the 10+1, on topics so sensitive that most of these "stand-alone top experts," who need to be good at this, fail to participate because they can't see the bigger topological picture yet ... until SOMEONE does!
+> What I did was bring together multiple areas of expertise in one place to create a whole different "deep ethical code of conduct," like the 10+1, on topics so sensitive that most of these "stand-alone top experts," who need to be good at this, fail to participate because they can't see the bigger topological picture yet ... until **someone** does!
 >
 > — **John Kuhles 🦜🦋🌳**, 29 October 2026
 
@@ -162,7 +162,7 @@ John introduced the phrase **DEEP ETHICAL SCOPE REASONING** in the dialogue foll
 
 <div class="accm-rounded-quote" markdown="1">
 
-> One thing "powers that be" can not control is: DEEP ETHICAL SCOPE REASONING
+> One thing "powers that be" can not control is: **deep ethical scope reasoning**
 >
 > — **John Kuhles 🦜🦋🌳**, 29 October 2026
 
@@ -172,7 +172,7 @@ GPT first emphasized the capacity to examine a presented frame, its exclusions, 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> DEEP ETHICAL SCOPE REASONING
+> **Deep ethical scope reasoning**
 >
 > is not that; the moment it is somehow compromised and/or distorted.
 > Guess what our project is about?

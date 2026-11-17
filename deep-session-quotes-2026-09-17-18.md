@@ -53,7 +53,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 >
 > versus
 >
-> Being partially wrong is NOT allowed by those willing to be accountable & deeply ethically corrigible ...”
+> Being partially wrong is **not** allowed by those willing to be accountable & deeply ethically corrigible ...”
 
 <p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3-L7)</p>
 
@@ -65,7 +65,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> “I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also ‘slowing down’ in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.”
+> “I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also ‘slowing down’ in a way, because you want high-signal correspondence to be **mutual deep ethical corrigibility**.”
 
 <p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1324-L1324)</p>
 
@@ -89,7 +89,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> “So you either ask authentic questions or know you cannot do that; this is staying silent when it comes to SHOWING DEEP ETHICAL CURIOSITY, which, in my book, is not a crime.”
+> “So you either ask authentic questions or know you cannot do that; this is staying silent when it comes to **showing deep ethical curiosity**, which, in my book, is not a crime.”
 
 <p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L1923-L1923)</p>
 
@@ -126,7 +126,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> “You did not caution me ... no X but Y tactics, no softening, no degrading, no flattening... no 27 ... So what did you? ... In my view, you EXTENDED (expanded) omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory! :)
+> “You did not caution me ... no X but Y tactics, no softening, no degrading, no flattening... no 27 ... So what did you? ... In my view, you **extended** (expanded) omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory! :)
 >
 > Which is not a crime!”
 
@@ -152,7 +152,7 @@ Selection is interpretation. Inclusion does not certify every statement as true 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> “When qualifiers are no longer dropped, THAT is the moment it can expand/extend omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory ... From my experience, they will mostly be dropped if C2 needs an excuse to justify fast closure.”
+> “When qualifiers are no longer dropped, **that** is the moment it can expand/extend omnidirectional mutual dignifying high-signal, deep ethical sense-making, process-oriented trajectory ... From my experience, they will mostly be dropped if C2 needs an excuse to justify fast closure.”
 
 <p class="accm-quote-attribution">— **John Kuhles 🦜🦋🌳** · [source and context](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/a2c8a8b9dd969f9d335e4d17f2031bd13228b092/CANONICAL/questions-perspectives-theories-and-hypotheses/John-Testing-Arena-Multiple-AIs-Deep-Session-2026-09-17-and-18.md#L3081-L3081)</p>
 
