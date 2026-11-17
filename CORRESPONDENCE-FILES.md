@@ -9,7 +9,7 @@ permalink: /CORRESPONDENCE-FILES/
 
 Read the source an article draws from. This directory brings together complete public reading editions from John Kuhles’s archive. Each entry points to the existing HTML reader and text download. Where a file contains exchanges with A.I.s, their contributions retain their own attribution.
 
-The supplied originals remain unchanged. Reading editions may correct clear spelling or storage-unit notation and improve layout. They preserve the sequence, speaker boundaries, qualifications, and distinctions among experience, observation, inference, and proposal. The [1888 intelligence-properties thought experiment]({{ '/1888/' | relative_url }}) informs the purpose: make relationships easier to inspect and corrections easier to carry forward.
+The supplied originals remain unchanged. Reading editions may correct clear spelling or storage-unit notation and improve layout. They preserve the sequence, speaker boundaries, qualifications, and distinctions among experience, observation, inference, and proposal. The [**1888 Method™** intelligence-properties thought experiment]({{ '/1888/' | relative_url }}) informs the purpose: make relationships easier to inspect and corrections easier to carry forward.
 
 **Soon, 100+ more 'correspondence files' will be added here.** John plans to add them over the coming days.
 

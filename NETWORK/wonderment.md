@@ -97,4 +97,4 @@ Contribution State Grammar protects this through *worth considering*, *test-wort
 
 Wonderment is not proof. Awe can be mistaken, manipulated or retrospectively rewritten. Its contribution state opens inquiry; it does not govern the conclusion. The later trajectory still meets evidence, competing explanations, correction and reality's veto.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Humor]({{ '/HUMOR/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Humor]({{ '/HUMOR/' | relative_url }})

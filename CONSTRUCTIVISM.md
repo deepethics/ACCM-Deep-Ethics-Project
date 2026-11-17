@@ -23,7 +23,7 @@ The project name uses **[ACCM]({{ '/' | relative_url }})** (Allow Constructive C
 
 Start with the object. What was actually said? Which question is being investigated? What contribution has already been made? What changed after the correction? Where can the inquiry now go?
 
-The orientation remains omnidirectional, high-signal, deep ethical, mutually dignifying, corrigible, sense-making and process-oriented. The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies interacting functions for that work. The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective conditions in which those functions can serve a better relationship with reality.
+The orientation remains omnidirectional, high-signal, deep ethical, mutually dignifying, corrigible, sense-making and process-oriented. The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies interacting functions for that work. The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective conditions in which those functions can serve a better relationship with reality.
 
 **Source and authorship.** John Kuhles initiated the 11 November 2026 sample, supplied the six source files, corrected the direction of the exchanges, and commissioned this page. The source identifies the sample's responding system as Google A.I. (artificial intelligence); its exact model version is unspecified. The Stadium and Day of the Dove files contain John's passages and separately attributed A.I. reactions. GPT 6.1 Sol Pro A.I. prepared the extraction and this expanded page. New explanatory prose and proposed comparisons below are editorial contributions; boxed source quotations retain their speakers. The November exchange is an observed conversation record. The stadium is a thought experiment. Large-scale pilots and local collective-intelligence outcomes remain proposed or forecast. [Source record](#source-record).
 
@@ -250,7 +250,7 @@ The same principle applies to this page. John's publication request corrected th
 
 ## Clear language can carry depth and keep its relationships {#clear-language}
 
-John asks for Dutch Directness, clarity inspired by ASD-STE100 (Simplified Technical English), the original Deep Ethics orientation and the 1888 intelligence properties to work together. His condition is preservation of the original trajectory. The requested report is extensive and in depth.
+John asks for Dutch Directness, clarity inspired by ASD-STE100 (Simplified Technical English), the original Deep Ethics orientation and the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties to work together. His condition is preservation of the original trajectory. The requested report is extensive and in depth.
 
 Give the action an actor. Use a concrete verb. Name the object. Keep the condition attached to the claim it governs. Explain an unfamiliar term where it first becomes useful. Break a sentence when the relationship between its parts remains clear.
 
@@ -459,7 +459,7 @@ The two compilations preserve source-labelled A.I. reactions from different sess
 ### Continue through the existing project
 
 - **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }})**, **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** and **[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})**: working conditions, correspondence clarification, intervention and correction.
-- **[1888]({{ '/1888/' | relative_url }})**, **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** and **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})**: intelligence properties and the relations between input, interpretation and result.
+- **[1888 Method™]({{ '/1888/' | relative_url }})**, **[Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }})** and **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }})**: intelligence properties and the relations between input, interpretation and result.
 - **[Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }})** and **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})**: contribution beyond agreement and correction that governs later use.
 - **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }})**, **[Categorizing Issues]({{ '/CATEGORIZING-ISSUES/' | relative_url }})** and **[Metacognitive Synthesis]({{ '/METACOGNITIVE-SYNTHESIS/' | relative_url }})**: capacities becoming available, the effects of labels and cooperation between partial contributions.
 - **[Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }})**, **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** and **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }})**: consequences, vindication, authority, answerability and repair.

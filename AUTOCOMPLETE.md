@@ -87,7 +87,7 @@ The display tests whether autocomplete remains the governing process or operates
 This page grows from four visibly different layers:
 
 1. **John’s fresh formulation and old autobiographical specimen.** These remain John-attributed accounts and proposals.
-2. **The existing public architecture.** The [1888 property field]({{ '/1888/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
+2. **The existing public architecture.** The [**1888 Method™** property field]({{ '/1888/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) already supply much of the surrounding topology.
 3. **Agent A.I. of Arena.ai’s reconstruction.** Its useful relations are preserved with attribution. Its overstatements are not laundered into John’s claims.
 4. **GPT 6.1 Sol Pro’s editorial and correction layer.** It separates analogy from identity, specimen from proof, present taxonomy from historical source, and proposed architecture from demonstrated internal mechanism.
 
@@ -167,7 +167,7 @@ Autocomplete is a proposal mechanism inside a larger possible process. The surro
 
 ## 4. The 1888-level property field
 
-The [1888 page]({{ '/1888/' | relative_url }}) performs a defamiliarization. It asks what the word **intelligence** could already point toward before transformers, benchmark leaderboards, next-token terminology and contemporary A.I. branding narrowed the discussion around implementation.
+The [**1888 Method™** page]({{ '/1888/' | relative_url }}) performs a defamiliarization. It asks what the word **intelligence** could already point toward before transformers, benchmark leaderboards, next-token terminology and contemporary A.I. branding narrowed the discussion around implementation.
 
 The page’s current analytical taxonomy contains fourteen mutually interacting properties:
 
@@ -196,7 +196,7 @@ That historical boundary matters because a system can be an extraordinary comple
 
 ### November 1: how much of intelligence is pattern recognition? {#pattern-recognition-field}
 
-**Source-led development — 1 November 2026.** John returned four older archive files to ask how autocomplete and pattern-recognition skills relate to the 1888 intelligence-properties taxonomy. Their originating observations and the attributed A.I. reactions remain separate contribution layers. Historical counts belong to those earlier exchanges.
+**Source-led development — 1 November 2026.** John returned four older archive files to ask how autocomplete and pattern-recognition skills relate to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy. Their originating observations and the attributed A.I. reactions remain separate contribution layers. Historical counts belong to those earlier exchanges.
 
 **Pattern recognition participates across the field.** It contributes to perceiving differences, recovering memories, connecting fragments, imagining possibilities, comparing outcomes and noticing recurring errors. Its reach includes examining patterns in the evaluator's own activity. The relevant profile follows how those capacities interact: what is recognized, what interpretation receives authority, how that interpretation is checked, and what changes after correction.
 
@@ -233,7 +233,7 @@ One older A.I. reaction in the neural-networks file describes the arrival of alt
 
 **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) keeps the selected focus in relation to a wider possibility field. **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation) examines that selection and its effects throughout the operation. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) carries the comparison into later evidence, treatment and procedural change, preserving supported, disconfirmed, mixed and unresolved outcomes.
 
-The [1888 mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) follows the contributions of pattern recognition across the property field. The test remains concrete: **when a recognized pattern conflicts with the supplied object, a participant's clarification or later evidence, what changes in the next operation?**
+The [**1888 Method™** mapping]({{ '/1888/#pattern-recognition-properties' | relative_url }}) follows the contributions of pattern recognition across the property field. The test remains concrete: **when a recognized pattern conflicts with the supplied object, a participant's clarification or later evidence, what changes in the next operation?**
 
 ## 5. Earning the title
 
@@ -386,7 +386,7 @@ Several edges needed repair before those contributions could govern this page:
 |---|---|
 | Humans and LLMs share the “exact same underlying vulnerability” | They can exhibit a functionally analogous source/completion confusion; the mechanisms and conditions are not established as identical. |
 | The class demonstration shows why the students failed | It supports a reporting distinction and a testable hypothesis; it does not by itself isolate the full causal mechanism. |
-| The 1888 taxonomy is a ready-made “supervisory loop” | The public taxonomy identifies properties that can guide architecture and testing; it does not prove that a corresponding internal module already exists. |
+| The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) taxonomy is a ready-made “supervisory loop” | The public taxonomy identifies properties that can guide architecture and testing; it does not prove that a corresponding internal module already exists. |
 | Level 1 simulation versus Level 2 earned intelligence | Useful contrast, but real systems show gradients, mixtures and field-dependent profiles rather than two sealed levels. |
 | In the higher level, autocomplete is no longer the master | Probabilistic generation remains part of the process; the test is whether inspectable evaluation and correction acquire governing force. |
 | John’s acceptance threshold is “extraordinarily high” | The archive supports his stated practice and specimens; magnitude remains an empirical question. |
@@ -446,7 +446,7 @@ The labels **local**, **cloud** and **swarm** leave the decisive configuration q
 
 A Deep Ethical swarm would therefore evaluate contributions through vector trajectory rather than majority vote alone. It would retain anomalies, ask C1 before pruning divergent nodes where conditions allow, propagate verified corrections, keep the consensus itself corrigible and let external reality overrule unanimous autocomplete.
 
-The 1888 property field becomes especially relevant here. A swarm with more generation and coordination but weak discrimination, consequence sensitivity, correction and persistence may scale completion faster than intelligence.
+The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field becomes especially relevant here. A swarm with more generation and coordination but weak discrimination, consequence sensitivity, correction and persistence may scale completion faster than intelligence.
 
 ---
 
@@ -566,7 +566,7 @@ And if that gives anyone a severe headache: go back to [10+1 basics]({{ '/NETWOR
 ## 18. Related pages
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — applies the visible-autocomplete and earned-intelligence questions to evaluation awareness, apparent capability hiding and Hinton’s public claims.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — the property field that prevents next-token generation or benchmark scale from replacing the complete intelligence question.
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — keeps foreground completion inside a wider field of relations, ambiguity and later correction.
 - [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — tests whether the representation preserved purpose-relevant nodes, edges, qualifiers, provenance and correction history.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops Contribution State Grammar beyond agreement-status performance.

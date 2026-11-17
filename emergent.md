@@ -401,7 +401,7 @@ The [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})
 
 **October 28, 2026 — extension from John's stadium thought experiment.** The [full account on Superintelligence]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) asks participants absorbed in reciprocal fault-finding to notice a specific good thing in another. John explicitly preserves voluntary participation, including people choosing to return after hearing the invitation outside. On this page, the metaphor's distinct job is to identify a change in the conditions from which further contributions can emerge.
 
-The shared activity directs attention toward available strengths. A participant notices a useful distinction; another connects it to a different domain; someone records the combination; a later reader sees a further use. Each step can change what the next participant has available. The 1888 intelligence-properties taxonomy makes that cooperation examinable through perception, discrimination, relation, imagination, judgment, memory and coordination, with clarification and correction active throughout.
+The shared activity directs attention toward available strengths. A participant notices a useful distinction; another connects it to a different domain; someone records the combination; a later reader sees a further use. Each step can change what the next participant has available. The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy makes that cooperation examinable through perception, discrimination, relation, imagination, judgment, memory and coordination, with clarification and correction active throughout.
 
 This develops the existing empowering loop and contribution-state propagation. The question includes **what becomes possible when people have less repeated restoration work and more room to discover, connect and contribute**. Useful outcomes can include a better research question, a recovered option, a more usable artifact or a new collaboration. They may arise from familiar material in a newly useful relation. Novelty, usefulness and correction persistence retain their separate jobs.
 
@@ -615,7 +615,7 @@ A \leftrightarrow B \rightarrow \Delta A + \Delta B
 
 No fused mind is required. The effect can propagate through pages, prompts, institutional habits, model outputs, archives and expectations. Distortion can propagate by the same route. A **Deep Ethical Contribution State Grammar Vector Trajectory** identifies the state, exposes the warrant, locates the directional delta, tests later transfer and keeps the explanation corrigible. Improvement is not guaranteed; altered conditions are multiplied through later relations. This is one mechanism beneath [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}).
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#mutual-retuning' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#mutual-retuning' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})
 
 
 <!-- 2026-10-22 future-self administrative emergence extension -->

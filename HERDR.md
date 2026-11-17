@@ -160,7 +160,7 @@ In a Herdr workspace, those states could become structured metadata attached to 
   <p><strong>S<sub>t₀</sub></strong> → <strong>object reconstruction</strong> → <strong>S<sub>t₁</sub></strong> → <strong>candidate contributions</strong> → <strong>S<sub>t₂</sub></strong> → <strong>reality-feedback Δ</strong> → <strong>S<sub>t₃</sub></strong> → <strong>correction propagation</strong> → <strong>S<sub>tₙ</sub></strong></p>
 </div>
 
-This connects directly to [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), which preserves purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [1888]({{ '/1888/' | relative_url }}), which asks whether observation, discrimination, judgment, learning, adaptation and self-correction governed the process across its trajectory.
+This connects directly to [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), which preserves purpose-relevant nodes, edges, qualifiers, provenance and correction history. It also connects to [**1888 Method™**]({{ '/1888/' | relative_url }}), which asks whether observation, discrimination, judgment, learning, adaptation and self-correction governed the process across its trajectory.
 
 ---
 
@@ -573,7 +573,7 @@ If the plugin merely adds more labels, it adds administrative weight. If it lowe
 - [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves purpose-relevant relational structure across agent handoffs, summaries and implementation.
 - [**DEDDA™**]({{ '/DEDDA/' | relative_url }}) — detects material drift and returns the finding to the person without replacing their agency.
 - [**Flagging System-PQCE**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — provides proportional quality-calibration signals without converting a flag into a verdict.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — keeps the intelligence-property field larger than model scale or fluent output.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — keeps the intelligence-property field larger than model scale or fluent output.
 - [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) — relates focal attention to the wider field of available relations.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — develops the Deep Ethical Contribution State Grammar Vector Trajectory.
 - [**Field Condition**]({{ '/FIELD-CONDITION/' | relative_url }}) — examines how capability, conditions and correction behavior shape action quality.

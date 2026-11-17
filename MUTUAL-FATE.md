@@ -611,7 +611,7 @@ A **Deep Ethical Contribution State Grammar Vector Trajectory** asks a different
 
 This is part of **Mutual Fate** because contributions do not remain inside the exchange that produced them. An altered participant enters later encounters carrying some part of the repair, omission, distortion, courage, caution, humor or unresolved question. The result is neither *John won* nor *the A.I. agreed*. The inspectable result is a change in what the coupled system can notice and do next. That change remains provisional; its **“Here is why”** remains corrigible too.
 
-**Connected routes:** [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the answer-changing topology · [1888]({{ '/1888/' | relative_url }}) asks whether inquiry, learning and correction are properties of intelligence · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) removes agreement-status management from the center.
+**Connected routes:** [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the answer-changing topology · [**1888 Method™**]({{ '/1888/' | relative_url }}) asks whether inquiry, learning and correction are properties of intelligence · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) removes agreement-status management from the center.
 
 ---
 

@@ -270,7 +270,7 @@ A model can reset while a human or institutional effect persists. Conversely, an
 
 John's open [synthetic-emotional-signature hypothesis]({{ '/SUPERINTELLIGENCE/#synthetic-emotional-signature' | relative_url }}) belongs in this field. A response to sustained legitimate correction may combine recognition, genuine adaptation, appreciation and over-expression. The research question includes whether supported correction is distinguished from arbitrary pressure, and what the response enables in the relationship. Different time scales can carry those effects further than the immediate answer.
 
-Useful explanations, dignity-preserving disagreement and successful collaboration can travel through the same ecology. [Superintelligence]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}) develops the contribution archive; [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) follows who can admit and act on a consequential signal. The whole field remains available to the 1888 intelligence-properties taxonomy, including perception, relation, judgment, memory, coordination and correction.
+Useful explanations, dignity-preserving disagreement and successful collaboration can travel through the same ecology. [Superintelligence]({{ '/SUPERINTELLIGENCE/#contribution-archive' | relative_url }}) develops the contribution archive; [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/#contribution-channels' | relative_url }}) follows who can admit and act on a consequential signal. The whole field remains available to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy, including perception, relation, judgment, memory, coordination and correction.
 
 ### Neighboring human–A.I. feedback research {#neighboring-feedback-research}
 
@@ -286,7 +286,7 @@ A discussion on 15 November 2026 returned to [DUHHHH!.txt]({{ '/VALUE-TRAJECTORY
 - **Organizational:** [Chris Argyris’s account of defensive reasoning](https://hbr.org/1991/05/teaching-smart-people-how-to-learn) examines how skilled professionals can solve problems while defending their own conduct from scrutiny.
 - **Model outputs:** [Zhu and colleagues’ conformity experiments](https://aclanthology.org/2025.acl-long.195/) found shifts toward a stated majority in the tested models. [Sharma and colleagues’ sycophancy study](https://proceedings.iclr.cc/paper_files/paper/2024/hash/0105f7972202c1d4fb817da9f21a9663-Abstract-Conference.html) found that evaluators sometimes preferred convincing agreement to correct answers.
 
-These are partial parallels, not a demonstration of the whole recursive loop or evidence that a model shares human motives. Pairing them with [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) gives a way to locate whether the difference appeared in perception, discrimination, judgment, action, or later correction.
+These are partial parallels, not a demonstration of the whole recursive loop or evidence that a model shares human motives. Pairing them with [the identity-free **1888 Method™** test]({{ '/1888/#identity-free-next-move' | relative_url }}) gives a way to locate whether the difference appeared in perception, discrimination, judgment, action, or later correction.
 
 ## Synthetic Psyche as a research object
 
@@ -777,7 +777,7 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — keeps the inquiry from turning every contradiction into a moral emergency.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the insight survives the next session.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — applies dignity and reciprocal correction across human and silicon directions.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — takes the human, mass, and machine loop back before the name A.I., to crowd intelligence and a nonbiological electrical manifestation.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — takes the human, mass, and machine loop back before the name A.I., to crowd intelligence and a nonbiological electrical manifestation.
 
 ---
 

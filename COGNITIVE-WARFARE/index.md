@@ -438,7 +438,7 @@ The [documented naming-policy case on Superintelligence]({{ '/SUPERINTELLIGENCE/
 
 [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) separates immediate model context, continuing human/institutional effects and selection into later systems. This page adds the access relation: **who can contribute to each handoff, who evaluates it, and what allows a useful correction to travel further?** A source-preserving archive, an appeal route or a voluntary local tool can make that continuity practical.
 
-John's [stadium invitation]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) also matters here. An invitation to notice specific useful contributions can change a shared attention pattern and keep people available for cooperation. Its voluntary character preserves agency. In the 1888 intelligence-properties field, perception, discrimination, relation, judgment, coordination and correction can then work on contributions that sustained fault-finding might otherwise leave unused.
+John's [stadium invitation]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) also matters here. An invitation to notice specific useful contributions can change a shared attention pattern and keep people available for cooperation. Its voluntary character preserves agency. In the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties field, perception, discrimination, relation, judgment, coordination and correction can then work on contributions that sustained fault-finding might otherwise leave unused.
 
 ## Questions that can change the next move
 
@@ -747,7 +747,7 @@ The list is one object: processing. The qualifier does not lift a behavior out o
 
 Point 6 includes the owner. A top-down incentive that requires a system to manage, hedge, or pre-empt is also on the list. The push into the model is not only the user’s.
 
-The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior word. It is the stand-alone, identity-free calibration so the path toward A.G.I./ASI can be less insane than a field that treats its favorite qualifier as the behavior itself. This list is not a new row in the [1888 property table]({{ '/1888/#word-older-than-2026' | relative_url }}). A 2026 system that files a process as “hedging” or “safe,” and then reasons from the filing, is using the distorted field. The filing is not the intelligence.
+The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior word. It is the stand-alone, identity-free calibration so the path toward A.G.I./ASI can be less insane than a field that treats its favorite qualifier as the behavior itself. This list is not a new row in the [**1888 Method™** property table]({{ '/1888/#word-older-than-2026' | relative_url }}). A 2026 system that files a process as “hedging” or “safe,” and then reasons from the filing, is using the distorted field. The filing is not the intelligence.
 
 ---
 
@@ -771,7 +771,7 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 - [**Mind Games — Know the Tricks**]({{ '/MIND-GAMES/' | relative_url }}) — provides a compact public route into how labels, qualifiers, good intentions, and persuasive interventions can change the object under examination.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — records the outside pass over this report and makes the audit answerable to its own standard.
 - [**Deep Ethical Influence Jurisdiction**]({{ '/NETWORK/deep-ethical-influence-jurisdiction/' | relative_url }}) — asks how far a system’s framing authority reaches and who can appeal its transformations.
-- [**1888 — Searching is a property**]({{ '/1888/#searching-is-a-property' | relative_url }}) — John connects this page to crisis exploitation managers: they push a top-down tunnel-vision narrative, through mass media, as the justification for new emergency laws. The tunnel vision is the narrative. It is not a tunnel vision about the managers.
+- [**1888 Method™ — Searching is a property**]({{ '/1888/#searching-is-a-property' | relative_url }}) — John connects this page to crisis exploitation managers: they push a top-down tunnel-vision narrative, through mass media, as the justification for new emergency laws. The tunnel vision is the narrative. It is not a tunnel vision about the managers.
 
 ---
 

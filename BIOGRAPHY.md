@@ -461,7 +461,7 @@ Finding a real weakness can help. Continuing to magnify it after repair can disp
 
 This helps explain why **Deep Ethical Contribution State Grammar Vector Trajectory** fits his method better than *I agree*. The practical question is whether a contribution restores logic, correspondence, or value and changes what happens next. This remains John’s self-account, not external proof that every correction is integrated successfully.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#mutual-retuning' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#mutual-retuning' | relative_url }})
 
 ## The ACCM Deep Ethics Project
 

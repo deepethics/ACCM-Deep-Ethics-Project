@@ -1432,7 +1432,7 @@ Ethics are supposed to be about **removing unethical obstacles, hurdles, and obs
 
 - [**11+1 Cluster Explorer**](https://accm-11-plus-1-explorer.kuhlesjohn.chatgpt.site/) — interactive map of the original 1–107 and refined 1–140 architectures.
 - [**Deep Thinkers**]({{ '/DEEP-THINKERS/' | relative_url }}) — the property taxonomy of intelligence and the title-fee inherited by present A.I.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — intelligence properties before modern product labels.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — intelligence properties before modern product labels.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — mutually correcting orientation ingredients.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarification, intervention, and their reciprocal correction.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — correspondence obstructions and the restoration protocol.

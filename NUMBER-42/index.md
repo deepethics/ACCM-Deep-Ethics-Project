@@ -324,7 +324,7 @@ For humans and A.I.s alike, intelligence becomes more useful when it can ask:
 6. What is being given, to whom, and with what consequence?
 7. Can the answer change after correction?
 
-This connects Number 42 to the wider property field explored in [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}): perceiving, distinguishing, relating, imagining, judging, learning, adapting, noticing error, correcting, and examining one’s own processing.
+This connects Number 42 to the wider property field explored in [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}): perceiving, distinguishing, relating, imagining, judging, learning, adapting, noticing error, correcting, and examining one’s own processing.
 
 ---
 
@@ -369,7 +369,7 @@ It is an invitation to participate intelligently.
 ## Related pages
 
 - [**Sense of Humor — Deep Ethics With a Laugh**]({{ '/HUMOR/' | relative_url }})
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }})
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }})
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }})
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 - [**Musk Quotes — Seven A.I. Warning and Direction Themes**]({{ '/MUSK-QUOTES/' | relative_url }})

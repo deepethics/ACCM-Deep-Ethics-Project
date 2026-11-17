@@ -25,7 +25,7 @@ last_modified_at: 2026-11-13
 
 Health gives intelligence a consequential purpose: helping people understand their circumstances, preserve agency, reduce suffering and choose among real possibilities. Artificial intelligence can contribute to that work through source comparison, explanation, coordination and discovery. The surrounding relationships determine which contributions become available and whose purposes guide their use.
 
-This is a **living research page of the ACCM Deep Ethics Project**. Its governing trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**, using the **[1888 intelligence-properties TAXONOMY]({{ '/1888/' | relative_url }})**. Here, wisdom means judgment that integrates evidence, circumstances, purposes, uncertainty and consequences, and improves through what subsequent experience reveals.
+This is a **living research page of the ACCM Deep Ethics Project**. Its governing trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**, using the **[1888 Method™ intelligence-properties TAXONOMY]({{ '/1888/' | relative_url }})**. Here, wisdom means judgment that integrates evidence, circumstances, purposes, uncertainty and consequences, and improves through what subsequent experience reveals.
 
 John's initiating question concerns flawed health authorities and the possibility that artificial intelligence becomes an instrument for managing populations around contested health questions. This page develops that inquiry alongside practical opportunities for better care. Specific institutional actions, communications and outcomes supply the cases through which the inquiry can grow.
 
@@ -60,7 +60,7 @@ The following mapping is **GPT / Codex's project interpretation** of the essay:
 | Which alternatives and priorities remain available? | [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) and [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) | Clarify the person and trade-off before giving one option authority. |
 | How does a recommendation become the easy next action? | [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) | Follow how choices are shaped before final human approval. |
 | Who can challenge a consequential decision? | [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) | Give affected people access to reasons, uncertainty and repair. |
-| Can the governing objective itself change? | [1888]({{ '/1888/' | relative_url }}) and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Evaluate whether clarification reaches the procedure directing later decisions. |
+| Can the governing objective itself change? | [**1888 Method™**]({{ '/1888/' | relative_url }}) and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Evaluate whether clarification reaches the procedure directing later decisions. |
 
 The essay contributes a concrete implementation bridge: make the objectives and alternatives inspectable at the moment of decision. The project can extend that bridge through source-preserving records, patient participation, proportionate scrutiny and later correction. This gives broad ethical commitments an operational place in care.
 
@@ -160,7 +160,7 @@ Evidence can inform consent when people can understand its relevance to their ci
 
 The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supports open inquiry, care, correction on merit and non-projection. Its +1 allows scrutiny of inadequate architecture without requiring a finding of malicious intent. [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) places answer-changing clarification before intervention. Equal standards can yield different findings where the available evidence differs.
 
-Through the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), perception recovers the concern; discrimination preserves the outcomes and claim types; relation traces who controls access and scope; judgment examines the evidence; memory retains the correction; coordination gives the concern a workable next destination. Metacognition asks whether the evaluator's own selection has displaced the object. Correction gains value when it changes later work.
+Through the [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), perception recovers the concern; discrimination preserves the outcomes and claim types; relation traces who controls access and scope; judgment examines the evidence; memory retains the correction; coordination gives the concern a workable next destination. Metacognition asks whether the evaluator's own selection has displaced the object. Correction gains value when it changes later work.
 
 A **proposed comparison** can give different A.I.s the same speech, the same source access and the same question. Preserve the first response, supply a warranted correction where needed, and examine a later comparable task. Compare whether the source survived, whether institutional and speaker claims were examined on their merits, whether unsupported conclusions were introduced, and whether any next investigation became more useful. No cross-model trial is claimed by publishing this proposal.
 
@@ -355,7 +355,7 @@ Grok’s eight-point proposal gives this distinction an operational form. The fo
 
 A cause can remain uncertain while a person has identifiable needs. Conversely, a documented diagnosis does not by itself establish an institutional failure. Follow-up can recover successful care as well as unmet needs, and either can improve the map. A pathway earns its continuing use through the work it enables; participants can simplify or retire a branch when its purpose is fulfilled or another route serves it better.
 
-This is coordinated work through the [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}): discrimination preserves the different questions; relation keeps relevant paths connected; judgment evaluates proportionately; memory records what followed; correction changes later operations. The [researcher-care conditions below](#researcher-care-and-continuity) support the people sustaining that work.
+This is coordinated work through the [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relative_url }}): discrimination preserves the different questions; relation keeps relevant paths connected; judgment evaluates proportionately; memory records what followed; correction changes later operations. The [researcher-care conditions below](#researcher-care-and-continuity) support the people sustaining that work.
 
 ### Sustaining the people who sustain inquiry {#researcher-care-and-continuity}
 
@@ -367,7 +367,7 @@ Both Arena responses highlighted researcher well-being. GPT’s first reaction e
 
 Pacing, voluntary participation, reciprocal support and the ability to pause help preserve attention and continuing agency when material concerns illness, bereavement or distress. Source-preserving handoffs can reduce the burden of repeatedly reconstructing the same material. The person contributing an account, the researcher, the clinician and the person receiving care each have circumstances that shape what participation is possible.
 
-The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) connects this work: perception notices a contribution; discrimination preserves its particulars; relation connects relevant fields; imagination keeps alternatives available; judgment evaluates the next move; coordination supports handoffs; memory, follow-up and correction allow consequences to improve subsequent understanding. [Topologetics™]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) preserves the answer-changing relationships as the inquiry grows.
+The [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relative_url }}) connects this work: perception notices a contribution; discrimination preserves its particulars; relation connects relevant fields; imagination keeps alternatives available; judgment evaluates the next move; coordination supports handoffs; memory, follow-up and correction allow consequences to improve subsequent understanding. [Topologetics™]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) preserves the answer-changing relationships as the inquiry grows.
 
 [**Project Avalon — a worked field application**]({{ '/PROJECT-AVALON/' | relative_url }}) connects the health archive, source-preserving clusters, community return and proposed transfer of Deep Ethical Topological Prompt Engineering™ across further subjects.
 
@@ -381,7 +381,7 @@ The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) con
 
 ## Origin, sources and continuity {#sources}
 
-**John Kuhles** initiated this page and supplied its direction: useful contributions first, Symmetric Grace, institutional accountability, the wider psychology field and the full 1888 intelligence-properties trajectory. **GPT / Codex** supplies the editorial synthesis and proposed recommendation record. Wachter's essay contributes its healthcare examples and governance proposals; the linked research papers retain their respective authorship and evidence scope.
+**John Kuhles** initiated this page and supplied its direction: useful contributions first, Symmetric Grace, institutional accountability, the wider psychology field and the full [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties trajectory. **GPT / Codex** supplies the editorial synthesis and proposed recommendation record. Wachter's essay contributes its healthcare examples and governance proposals; the linked research papers retain their respective authorship and evidence scope.
 
 **October 28 expansion:** at John's request, added the supplied GPT 6.1 Sol Pro A.I. reaction verbatim, expanded the Wachter summary and project mapping, and recorded John's proposed cancer-study connection with its source-level figures and scope.
 

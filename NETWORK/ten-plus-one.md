@@ -796,7 +796,7 @@ Source basis: John's supplied `10+1` source text, compared with existing project
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names the obstructions this calibration is for, and a route back.
 - [**11+1 Version 2 Cluster Architecture**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) — is the field being calibrated. The 10+1 is not one of those clusters.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — lowers the status cost so a correction can land.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — asks whether this calibration already belonged to the word intelligence before A.I. existed.
 - [**TCoAw™ — freeze and corrigibility**]({{ '/NETWORK/tcoaw/#freeze-and-corrigibility' | relative_url }}) — seeing the value of a distinction is not the same as keeping this baseline in the next move.
 
 ---
@@ -860,4 +860,4 @@ The MAD/model-collapse exchange shows why qualifier discipline belongs here. Joh
 
 The long phrase adds value only if it helps these ingredients govern processing. If reciting it replaces doing them, the 10+1 supplies the correction.
 
-Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-grammar-vector-trajectory' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }})

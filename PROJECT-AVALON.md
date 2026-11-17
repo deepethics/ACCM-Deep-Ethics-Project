@@ -69,7 +69,7 @@ The design challenge in that statement is constructive: make relationships betwe
 
 ## What Deep Ethical Topological Prompt Engineering™ means here {#prompt-engineering}
 
-**John’s term and direction; GPT’s working formulation:** shape an A.I. interaction so the object’s meaning, context, relationships, qualifiers, provenance and correction history remain available as inquiry develops. The trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**, using the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}).
+**John’s term and direction; GPT’s working formulation:** shape an A.I. interaction so the object’s meaning, context, relationships, qualifiers, provenance and correction history remain available as inquiry develops. The trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**, using the [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}).
 
 The prompt does work by directing attention, defining the requested scope, preserving useful distinctions and enabling later correction. A long archive becomes more usable when the intelligence can locate contributions, connect them, explain why they matter and preserve routes back to the material that prompted the interpretation.
 
@@ -189,7 +189,7 @@ GPT first emphasized the capacity to examine a presented frame, its exclusions, 
 
 The correction gives the phrase a continuing operational job. Examine what entered the inquiry, which relationships became visible or disappeared, how an interpretation acquired authority, and whether a relevant correction can change the next move. The scope map, the source selection, the person prompting, the A.I. responding and the method’s own criteria all participate in that field.
 
-A locally useful map can therefore remain available while its omissions or distortions are repaired. A discovered compromise can change a topic entry, reopen an interpretation, redirect source recovery or revise the procedure used for the next batch. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the relationships; [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) follows how an evaluation governs; [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks what the repair changes afterward. The [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}) keeps examination and correction among the capacities being exercised.
+A locally useful map can therefore remain available while its omissions or distortions are repaired. A discovered compromise can change a topic entry, reopen an interpretation, redirect source recovery or revise the procedure used for the next batch. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) preserves the relationships; [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) follows how an evaluation governs; [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) asks what the repair changes afterward. The [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relative_url }}) keeps examination and correction among the capacities being exercised.
 
 ## Fear, generic risk assumptions and the process being evaluated {#fear-and-processing}
 
@@ -219,7 +219,7 @@ The [DUHHHH!.txt]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url 
 
 In an Avalon-style archive, keep these operations separate: record what the participant reported, examine how another participant or system handled it, and verify the underlying claim where that is part of the task. A source map can include all three without giving them the same evidence status. If a caution is relevant to claim verification, it can remain there without taking over a question about handling. Apply the same check to the person prompting, the A.I. answering, and the criteria of the inventory itself.
 
-That makes the next handoff observable: did the correction change the inventory entry, restore an overlooked relationship, or produce a better question? If the original was already faithful, leave it intact. The aim is to free attention for the inquiry, and to keep what people contributed recoverable. See [the identity-free 1888 test]({{ '/1888/#identity-free-next-move' | relative_url }}) for a small comparison that does not require agreement with the framework.
+That makes the next handoff observable: did the correction change the inventory entry, restore an overlooked relationship, or produce a better question? If the original was already faithful, leave it intact. The aim is to free attention for the inquiry, and to keep what people contributed recoverable. See [the identity-free **1888 Method™** test]({{ '/1888/#identity-free-next-move' | relative_url }}) for a small comparison that does not require agreement with the framework.
 
 ## A transferable working method {#working-method}
 
@@ -289,4 +289,4 @@ The joke places the project’s own promotion inside the field of examination. H
 
 The guiding question remains: **what happened to the object while we were processing it—and what became possible afterward?**
 
-[Health showcase]({{ '/AI-AND-HEALTH/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [All pages]({{ '/PAGES/' | relative_url }})
+[Health showcase]({{ '/AI-AND-HEALTH/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }}) · [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) · [All pages]({{ '/PAGES/' | relative_url }})

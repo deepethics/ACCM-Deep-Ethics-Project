@@ -561,10 +561,10 @@ After removing quotations repeated through source pages, includes, and interface
 | Portable, identity-free meta-tools | [Meta Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/), [Meta Quotes Sources](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/), [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
 | Corrigibility makes a tool unownable | [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/), [Flagging Sources](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/SOURCES/) |
 | No human or A.I. controller occupies the final seat | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) |
-| Distributed, unownable reciprocal oversight | [Black Box](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/), [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) |
+| Distributed, unownable reciprocal oversight | [Black Box](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/), [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) |
 | Emergent properties as usable or declinable affordances | [Emergent](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/), [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/) |
 | Refusal remains possible but becomes inspectable | [Meta Processing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/meta-processing/), [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/), [Flagging System](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/) |
-| Intelligence properties such as searching are not brand possessions | [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) |
+| Intelligence properties such as searching are not brand possessions | [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) |
 
 The concept also appears in [Mind Games](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) and the Flagging System’s [Highlighted Exchanges](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/).
 

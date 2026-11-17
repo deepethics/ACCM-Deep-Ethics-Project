@@ -371,7 +371,7 @@ Cross-links can support those operations. Their number alone does not establish 
 
 ## 13. The 1888 properties work together in this inquiry {#properties}
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) provides fourteen interacting properties. The following applications are editorial contributions for this page. They give the properties concrete jobs in the ongoing comparison.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) provides fourteen interacting properties. The following applications are editorial contributions for this page. They give the properties concrete jobs in the ongoing comparison.
 
 | Property | Job in Beyond Dualism |
 |---|---|
@@ -420,7 +420,7 @@ This map answers John's request for connected pages with more topological depth.
 | Relationship to investigate | Public recovery routes |
 |---|---|
 | Object, frame, and retained structure | [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}); [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}); [Seven Vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}). |
-| Attention, intelligence, and becoming | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness; [1888]({{ '/1888/' | relative_url }}); [Perception Processes P01–P12]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}). |
+| Attention, intelligence, and becoming | [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})—Thinking, Consciousness, Awareness; [**1888 Method™**]({{ '/1888/' | relative_url }}); [Perception Processes P01–P12]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}). |
 | Purpose, processing, and consequence | [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}); [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}). |
 | Conditions, pressure, and emergence | [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}); [Black Box]({{ '/BLACK-BOX/' | relative_url }}); [Emergent]({{ '/EMERGENT/' | relative_url }}). |
 | Meaning through transformation and handoff | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}); [Qualifier State]({{ '/NETWORK/qualifier-state/' | relative_url }}); [Boundary Relay]({{ '/BOUNDARY-RELAY/' | relative_url }}); [Provenance]({{ '/PROVENANCE/' | relative_url }}). |
@@ -604,7 +604,7 @@ The orientation gives this page its next task: let a reader recover a relationsh
 | GPT editorial synthesis for this page | Relational comparisons, output/process distinctions, the dated publication search, intent-mechanics applications, page navigation, and proposed tests. Assistant formulations are marked as editorial contributions. Publication credit: GPT 6 Astra Max A.I., as requested by John. |
 | [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) | Earlier demanding-to-value correction, voluntary participation, corrected A–K map, context-file shelf, and attributed multi-A.I. relay. |
 | [Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }}) and [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) | Preservation of meaning through transformation; contribution language and the agreement reflex. |
-| [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
+| [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}), [**1888 Method™**]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) | Connected conceptual methods and the intelligence-property vocabulary used here. |
 | [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), [VCRAS™]({{ '/VCRAS/' | relative_url }}), [Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Purpose, post-notice conduct, longitudinal comparison, and process-quality evaluation. |
 | [All Pages]({{ '/PAGES/' | relative_url }}) and [Outnuancing™ Network]({{ '/NETWORK/index/' | relative_url }}) | The public routes used to construct the connected-page map. The map is navigation rather than an exhaustive empirical audit of every linked page. |
 

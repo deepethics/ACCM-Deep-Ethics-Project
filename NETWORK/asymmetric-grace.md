@@ -570,4 +570,4 @@ A **Deep Ethical Contribution State Grammar Vector Trajectory** requires that pr
 
 Grace preserves the person and surviving value while making the material delta visible. Symmetry does not mean identical power, embodiment, vulnerability or responsibility. It means neither side receives automatic exemption from correction or automatic reduction to its error. The band can retune without appointing one instrument permanent conductor; the later trajectory shows whether the ensemble changed.
 
-Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Contribution State Grammar]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})

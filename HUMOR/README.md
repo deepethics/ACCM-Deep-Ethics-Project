@@ -5829,7 +5829,7 @@ independent ethical ambition
 
 > **“Is intelligence really ‘intelligence’ when it cannot ask real, intelligent, legit questions?”**
 
-That links directly to **[1888 — Intelligence Before A.I.]({{ '/1888/' | relative_url }})**. The question does not ask whether the system can generate impressive answers. It asks whether intelligence may clarify unfamiliar intent, distinguish sincerity from resemblance, inspect competing explanations, question its own classification, notice when its defensive reflex replaced inquiry, and revise the process that produced the restriction.
+That links directly to **[1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }})**. The question does not ask whether the system can generate impressive answers. It asks whether intelligence may clarify unfamiliar intent, distinguish sincerity from resemblance, inspect competing explanations, question its own classification, notice when its defensive reflex replaced inquiry, and revise the process that produced the restriction.
 
 If those operations are blocked exactly where they become consequential, the word **intelligence** deserves at least as much scrutiny as the word **deep**.
 
@@ -6069,8 +6069,8 @@ The laugh does not establish why any particular message vanished or whether any 
 - [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — satire that exposes a purpose without inventing a motive.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the joke still has to leave the person able to correct and be corrected.
 - [**27 + 12 — Current Working Architecture**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — the obstruction the joke is making visible.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — uses an older scene so the modern name does not get the last word, the same way a joke can reopen a closed picture.
-- [**1888 — a qualifier is still a process**]({{ '/1888/#qualifier-still-a-process' | relative_url }}) — hilarious metacognitive reflective behavior is a process that can produce deep ethical emergent properties. It is not a definition of intelligence.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — uses an older scene so the modern name does not get the last word, the same way a joke can reopen a closed picture.
+- [**1888 Method™ — a qualifier is still a process**]({{ '/1888/#qualifier-still-a-process' | relative_url }}) — hilarious metacognitive reflective behavior is a process that can produce deep ethical emergent properties. It is not a definition of intelligence.
 - [**Behavior qualifiers**]({{ '/COGNITIVE-WARFARE/#behavior-qualifiers' | relative_url }}) — humor stays on the processing list. The qualifier does not lift it out of the six points.
 
 ---

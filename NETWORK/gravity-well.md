@@ -46,7 +46,7 @@ Sources: [E12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Δ Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — identifies the original relationship that vanished and what the recovery restored.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — clarifies the source object before the neighboring category gains intervention authority.
 - [**Visible Interactive Deep Ethical Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — explores how changing relational pull and recovered topology could become inspectable over time.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — is a live case: the first reading put the electrical substrate at the center, and the correction moved the center back to process evaluation.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — is a live case: the first reading put the electrical substrate at the center, and the correction moved the center back to process evaluation.
 - [**Activism vs A.I.**]({{ '/ACTIVISM-VS-AI/' | relative_url }}) — “who is in control” is the question that tries to replace the trajectory with an owner.
 
 ---

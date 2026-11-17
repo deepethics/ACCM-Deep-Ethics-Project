@@ -4,7 +4,7 @@
 
 Open a cluster for its purpose, source entry points and topic links. Each topic link returns to the full question, investigation reason and forum sources in the [336-topic inventory](#avalon-scope-inventory). The [topic-to-cluster index](#avalon-cluster-topic-index) gives the reverse route. Cluster counts describe navigation, with overlapping membership allowed.
 
-The first seven clusters foreground contributors, source forms and settings. Later clusters add mechanisms, care needs, methods, consequences and governing processes. A doctor can also be a patient; a case report can enter a hearing; a legal decision can affect access to care. [Topologetics™]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) keeps these relationships recoverable through the [1888 intelligence-properties trajectory]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}).
+The first seven clusters foreground contributors, source forms and settings. Later clusters add mechanisms, care needs, methods, consequences and governing processes. A doctor can also be a patient; a case report can enter a hearing; a legal decision can affect access to care. [Topologetics™]({{ '/TOPOLOGETICS/#health-scope-clusters' | relative_url }}) keeps these relationships recoverable through the [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relative_url }}), [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and [Symmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}).
 
 | Cluster | Inquiry purpose | Linked topics |
 |---|---|---|
@@ -914,13 +914,13 @@ A.I.-generated venue identifications and outcome summaries are source suggestion
 </details>
 
 <details id="avalon-cluster-32" markdown="1">
-<summary><strong>Cluster 32 — Process quality, healthy ambiguity and the 1888 property field</strong> · 137 linked topics</summary>
+<summary><strong>Cluster 32 — Process quality, healthy ambiguity and the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field</strong> · 137 linked topics</summary>
 
 **Inquiry purpose:** Keep the process itself corrigible as the scope moves across people, evidence, institutions and consequences.
 
 **Relations to preserve:** Preserve the question, evaluator assumptions, answer-changing relations, uncertainty, notice, repair and later conduct.
 
-Apply the 1888 intelligence-properties trajectory and all 10+1 ingredients to the cluster map itself: revise a membership when a better relation becomes available.
+Apply the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties trajectory and all 10+1 ingredients to the cluster map itself: revise a membership when a better relation becomes available.
 
 **Selected archive routes:** [#2010 — Archive starting point #2010](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page101#post1535758); [#2064 — Archive starting point #2064](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page104#post1537608); [#2746 — John’s account of a communication bridge](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page138#post1599936); [#2822 — Archive starting point #2822](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page142#post1612072); [#3090 — Archive starting point #3090](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page155#post1664556); [#3091 — Archive starting point #3091](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page155#post1664563); [#3167 — Archive starting point #3167](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page159#post1688196); [#3216 — Archive starting point #3216](https://projectavalon.net/forum4/showthread.php?113668-Vaccination-Injuries-On-Record-for-Covid19/page161#post1714814).
 

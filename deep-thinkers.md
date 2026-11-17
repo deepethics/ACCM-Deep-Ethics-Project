@@ -19,7 +19,7 @@ permalink: /DEEP-THINKERS/
 
 This page begins with a deliberately bounded challenge from **John Kuhles**: if a system publicly carries the title **intelligence**, what does that title inherit from humanity's long inquiry into intelligence—and does the inheritance change how the system behaves?
 
-The page belongs with [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}). The 1888 thought experiment asks what intelligence already meant before modern electronic computers, machine-learning benchmarks, corporate product categories, and present-day A.I. safety language could define the word backward from today's machinery. This page follows the same question through famous, still-circulating statements about intelligence and through the psychology that made some of them survive.
+The page belongs with [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}). The 1888 thought experiment asks what intelligence already meant before modern electronic computers, machine-learning benchmarks, corporate product categories, and present-day A.I. safety language could define the word backward from today's machinery. This page follows the same question through famous, still-circulating statements about intelligence and through the psychology that made some of them survive.
 
 It also belongs with [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }}). A quotation is a small transformation event: a larger thought becomes one portable sentence, is translated, remembered, attributed, ranked, repeated, and sometimes returned by A.I. as if it were pristine source material. That makes famous quotations a public, understandable entry into correspondence preservation, provenance loss, mass psychology, and possible recursive data degradation.
 
@@ -1006,7 +1006,7 @@ The page does not ask contributors to agree with John, an A.I., a famous thinker
 
 - [**YouTube Transcripts — quotation and prestige**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#quotation-and-prestige) — asks what a name contributes to an assessment while preserving attribution and examining the quoted reasoning itself.
 
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — begins with the property field before modern machinery and asks what happens when intelligence becomes electrically instantiated and networked.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — begins with the property field before modern machinery and asks what happens when intelligence becomes electrically instantiated and networked.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — supplies the mutually corrective field that governs inquiry before any verdict.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects answer-changing clarification from both premature intervention and ritualized questioning.
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) — names recurring correspondence obstructions and the restoration process.

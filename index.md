@@ -45,7 +45,7 @@ John’s current archive figures: **36+ years** of mass-psychology research, **6
 
 **Longer-term research.** Millions of locally deep ethically inspired and/or guided A.I.s could help people preserve independently sourced records, including rare cases, dissent, and later corrections. Whether those records help mitigate Model Autophagy Disorder or model collapse is a distinct training question. A controlled recursive-training comparison would test whether provenance-bearing records improve retention of rare, verified cases. The [seven Musk themes]({{ '/MUSK-QUOTES/' | relative_url }}) likewise give separate research questions, including concentrated power, truth-seeking, and collective intelligence. [Model Autophagy Disorder]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) gives us a way to examine this across human teams, silicon-based systems, and unfamiliar forms of intelligence. Discrimination recovers the dropped qualifier. Memory carries it forward. Corrigibility lets someone reopen it while the answer can still change what happens. For John, that inquiry is [never boring]({{ '/HUMOR/' | relative_url }}).
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) gives us a way to examine this across human teams, silicon-based systems, and unfamiliar forms of intelligence. Discrimination recovers the dropped qualifier. Memory carries it forward. Corrigibility lets someone reopen it while the answer can still change what happens. For John, that inquiry is [never boring]({{ '/HUMOR/' | relative_url }}).
 
 *John Kuhles proposed the inventory. GPT 6.1 Sol Pro A.I. organized it by scale and observable tests. Grok 4.7 Expert A.I. via grok.com reviewed the mapping and proposed the “Working question” label. Exchange of 5 November 2026.*
 
@@ -332,7 +332,7 @@ See [Project status]({{ '/PROJECT-STATUS/' | relative_url }}) and [Governance]({
 ## Related pages
 
 - [**Believism**]({{ '/BELIEVISM/' | relative_url }}) — asks how a person knows before belief-labeling relocates the inquiry from the evidence to the claimant.
-- [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the 1888 property field, TCoAw™ and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
+- [**Autocomplete — Candidate Generation and Earning Intelligence**]({{ '/AUTOCOMPLETE/' | relative_url }}) — human and A.I. completion mechanisms meet the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field, TCoAw™ and Deep Ethical Contribution State Grammar in an inspectable earned-intelligence trajectory.
 - [**If you are new**]({{ '/IF-YOU-ARE-NEW/' | relative_url }}) — one question for the job you already have. The rest of the site can wait.
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — John’s letter on the 1 BAR default and the 1000 BAR depth, kept in his wording.
 - [**A deeper introduction**]({{ '/DEEPER-INTRODUCTION/' | relative_url }}) — the longer entrance, before a verdict.
@@ -383,13 +383,13 @@ Here, **eternal** names the intended continuity of a corrigible process rather t
 
 **Why this belongs on the front page**
 
-This contribution connects the [1888 intelligence-property inquiry]({{ '/1888/' | relative_url }}) with a practical way to read, search and extract meaningful passages across the ACCM Deep Ethics Project. It makes the project's interacting properties visible to newcomers and gives experienced readers a method for examining different possible futures: what expands agency, what narrows it, which risks remain visible, and whether correction changes the next operation.
+This contribution connects the [**1888 Method™** intelligence-property inquiry]({{ '/1888/' | relative_url }}) with a practical way to read, search and extract meaningful passages across the ACCM Deep Ethics Project. It makes the project's interacting properties visible to newcomers and gives experienced readers a method for examining different possible futures: what expands agency, what narrows it, which risks remain visible, and whether correction changes the next operation.
 
 Its front-page value is operational. Readers can use the property map to investigate a video, article, institutional proposal or A.I. response while preserving context and discovering relations the starting map missed. The starter kit also remains answerable to those same properties, so later findings can improve the map.
 
 **From inquiry to an opt-in service:** the [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen the kit's proposed use alongside [Topologetics™ Summarizer]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). The [Beta service and feedback section]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#app-beta) distinguishes consent to use a tool from consent to share material or join research, preserves unresolved ethical conflicts, and gives participants routes to correct a finding, retain disagreement or decline the service. Candid feedback can improve awareness while remaining mutual, voluntary and answerable to the source.
 
-**Context:** John Kuhles proposed applying the 1888 page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
+**Context:** John Kuhles proposed applying the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page's property-taxonomy approach to the ACCM Deep Ethics Project itself, to improve quote extraction from a deep-dive conversation about humanity's possible futures. The response below is preserved verbatim from that exchange, October 25, 2026. The interview references concern [Tom Bilyeu and Emad Mostaque's conversation](https://www.youtube.com/watch?v=WsdcF7EEvhM); “your trolley archive” refers to John's supplied historical analysis of imposed ethical-dilemma framing.
 
 ### Watch the conversation and explore the deep analysis {#bilyeu-mostaque-video}
 
@@ -409,7 +409,7 @@ The report by **GPT 6.1 Sol Pro A.I.** follows the complete supplied transcript 
 
 **Yes—and that improves the foundation of the starter kit. My earlier version mainly mapped project components to search questions. Your 1888 approach asks what properties and relationships those components must preserve for the ACCM Deep Ethics Project to remain recognizably itself.**
 
-On the [**1888 page**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), the move is to step back from present implementations and examine the property field: perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility.
+On the [**1888 Method™ page**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), the move is to step back from present implementations and examine the property field: perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility.
 
 Process-quality calibration operates **throughout** those properties. It affects what is perceived, how possibilities are represented, what memory retains and whether correction changes later conduct.
 

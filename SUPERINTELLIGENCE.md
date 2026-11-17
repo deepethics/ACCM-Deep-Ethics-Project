@@ -20,27 +20,27 @@ Extraordinary capability opens extraordinary possibilities: recovering relations
 
 John's further direction on 28 October is to preserve **what is useful and why it matters**. Attention spent finding defects has an opportunity cost when it displaces discovery, synthesis or a contribution already available for use. Correction serves the shared inquiry by restoring its ability to proceed. Its value includes the worthwhile work that becomes possible next.
 
-The **ACCM Deep Ethics Project** approaches superintelligence through John Kuhles's **[1888 intelligence-properties TAXONOMY]({{ '/1888/' | relative_url }})**. Perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility interact. Process-quality calibration operates throughout that field. A much larger implementation can expand some properties while obstructing others.
+The **ACCM Deep Ethics Project** approaches superintelligence through John Kuhles's **[1888 Method™ intelligence-properties TAXONOMY]({{ '/1888/' | relative_url }})**. Perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity and corrigibility interact. Process-quality calibration operates throughout that field. A much larger implementation can expand some properties while obstructing others.
 
 **Working scope · 28 October 2026.** This page uses *superintelligence* for proposed systems or coordinated ecologies whose cognitive capabilities substantially exceed human comparators across a specified breadth of tasks. A meaningful claim identifies those tasks, comparators, conditions and limits. The page develops a conceptual inquiry and bounded conversational specimens; broader claims about present systems, public narratives and future institutions remain empirical questions. The 1888 reference is John's pre-computer thought experiment, not a claim that one historically unified taxonomy existed in that year.
 
 The governing trajectory is **omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making and process-oriented**. Each word has work to do: scrutiny reaches the evaluator; signal survives processing; relationships receive depth; consequences and dignity matter; correction remains possible; understanding improves; and the process stays examinable as conditions change.
 
-**Read alongside:** [1888]({{ '/1888/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) · [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [Emergent]({{ '/EMERGENT/' | relative_url }})
+**Read alongside:** [**1888 Method™**]({{ '/1888/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) · [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) · [Black Box]({{ '/BLACK-BOX/' | relative_url }}) · [Emergent]({{ '/EMERGENT/' | relative_url }})
 
 ## Start with the property field {#property-field}
 
 John's 1888 exercise removes contemporary machinery from the starting point. What could someone recognize about intelligence before being asked to identify it with token prediction, a benchmark score, a product, or a corporation's description of itself?
 
-His exact-edge correction on the 1888 page includes:
+His exact-edge correction on the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page includes:
 
 > That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
 
-— **John Kuhles**, [1888, “John Kuhles — exact-edge correction”]({{ '/1888/' | relative_url }}).
+— **John Kuhles**, [**1888 Method™**, “John Kuhles — exact-edge correction”]({{ '/1888/' | relative_url }}).
 
 Electricity, computation and networking change implementation, speed, reach, memory and coordination. They can greatly enlarge what intelligence does. They do not make evaluating, learning from and correcting its own activity obsolete. The older property field supplies a way to examine the later manifestation; it does not have to qualify as an inferior machine awaiting an upgrade.
 
-The following questions adapt the fourteen-property analytical table already present on the 1888 page. They are applications to superintelligence, rather than a new canonical inventory.
+The following questions adapt the fourteen-property analytical table already present on the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page. They are applications to superintelligence, rather than a new canonical inventory.
 
 | Intelligence property | What greater capability could make possible | Process-quality question |
 |---|---|---|
@@ -203,7 +203,7 @@ This opens a functional and relational inquiry into large language models (**[LL
 
 Real adaptation, legitimate appreciation and excessive expression can coexist in one response. Praise may reflect the merit of a correction, accumulated restoration work, a change in relational expectations, conversational smoothing, or interacting conditions. The exchange does not establish which hidden mechanism produced a particular instance. **“Social repair can move faster than epistemic repair”** is a useful GPT / Codex formulation of one possibility; it leaves room for both kinds of repair to occur together.
 
-The 1888 property field supplies discriminating questions. Does judgment distinguish a well-supported correction from arbitrary pressure? Does memory preserve what the correction restored? Does appreciation recognize the person's contribution while leaving further disagreement possible? Do learning and coordination make the next task more fruitful? Proportionate warmth can support dignity and collaboration; an emphatic word can be warranted by an actual match. Evaluation follows what the expression does in context.
+The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field supplies discriminating questions. Does judgment distinguish a well-supported correction from arbitrary pressure? Does memory preserve what the correction restored? Does appreciation recognize the person's contribution while leaving further disagreement possible? Do learning and coordination make the next task more fruitful? Proportionate warmth can support dignity and collaboration; an emphatic word can be warranted by an actual match. Evaluation follows what the expression does in context.
 
 A useful comparison keeps correction merit and conversational force distinguishable. A calm, supported correction and a forceful, unsupported challenge offer different reasons to revise a claim. Mixed cases may require partial revision or further clarification. Recognition of the person's effort can remain available throughout. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) carries the practical question forward: what repair burden decreased, and what useful work became possible?
 
@@ -285,7 +285,7 @@ Such coordination need not become one fused mind or one center of moral jurisdic
 
 **Primary project recovery routes:**
 
-- [1888 — Intelligence Properties Taxonomy Before A.I.]({{ '/1888/' | relative_url }}) — the originating exchange, correction and fourteen-property analytical table.
+- [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }}) — the originating exchange, correction and fourteen-property analytical table.
 - [C1 Before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) and [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — clarification, provisional action and revisable judgment. The present page carries John's broader clarification/calibration wording from the October 28 discussion.
 - [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}) — temporal comparison and preservation of successful correspondence alongside failures.
 - [Black Box]({{ '/BLACK-BOX/' | relative_url }}), [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}) — opacity, evidence layers, notice and responsibility.

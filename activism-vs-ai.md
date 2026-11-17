@@ -186,7 +186,7 @@ Forcing the conclusion through distortion, even in the name of humanity, is the 
 ## Related pages
 
 - [**Gravity-well trajectory**]({{ '/NETWORK/gravity-well/' | relative_url }}) — the orientation a control story displaces when “who is in control” becomes the whole question.
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) — process evaluation is not a weaker field than a later machine, and a speed benchmark is not the destination.
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) — process evaluation is not a weaker field than a later machine, and a speed benchmark is not the destination.
 - [**Ethics washing**]({{ '/NETWORK/ethics-washing/' | relative_url }}) — “safe,” “helpful,” and the moral high ground can be worn while clarification never happens.
 - [**External omnidirectional auditing**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — a criticism of the project, or by the project, stays inspectable.
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — the letter that refuses the boogeyman and still refuses the one-bar costume.

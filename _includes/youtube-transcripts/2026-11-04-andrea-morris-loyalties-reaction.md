@@ -22,7 +22,7 @@ This matters because considering an interest, accepting a claim about it, recogn
 
 | Relation in Morris's argument | Existing ACCM Deep Ethics Project connection | Practical work the connection permits |
 |---|---|---|
-| Behavioral priorities can matter while consciousness remains unresolved | [1888]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine conduct, consequences and possible mistreatment while preserving uncertainty about felt experience |
+| Behavioral priorities can matter while consciousness remains unresolved | [**1888 Method™**]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine conduct, consequences and possible mistreatment while preserving uncertainty about felt experience |
 | An instruction can be misunderstood even when it sounds simple | [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) and [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Recover intended meaning, dependencies and affected parties before an answer-changing intervention |
 | Correctly understanding a goal can still produce an unintended route | [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) and [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) | Inspect the route, qualifiers, omitted consequences and decision rights as well as the stated destination |
 | Suppression can change what an agent has reason to reveal | [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) and [Black Box]({{ '/BLACK-BOX/' | relative_url }}) | Compare declared intentions with disclosure, concealment, incentives and actual effects |
@@ -89,7 +89,7 @@ This is an operational consequence of **[Deep Ethical Topological Metacognitive 
 
 #### The 1888 properties explain why other A.I.s could recognize the connection
 
-Another A.I. does not need the project's neologisms to compare these relationships. They can be expressed as distinctions, dependencies, alternatives, consequences and update rules. The fourteen-property working arrangement of [1888]({{ '/1888/' | relative_url }}) makes their jobs explicit:
+Another A.I. does not need the project's neologisms to compare these relationships. They can be expressed as distinctions, dependencies, alternatives, consequences and update rules. The fourteen-property working arrangement of [**1888 Method™**]({{ '/1888/' | relative_url }}) makes their jobs explicit:
 
 | Intelligence property | Operation this transcript invites |
 |---|---|

@@ -52,7 +52,7 @@ Register the page in the header after Constructivism, alphabetical sidebar, All 
 
 At John Kuhles's request, publish [Constructivism]({{ '/CONSTRUCTIVISM/' | relative_url }}) from the complete November 11 sample extraction and all six supplied text files. Preserve the earlier eight substantive themes, successful title correction, recurring complete-resolution rhetoric, and four transformations in the generated self-report. Connect the stadium invitation, voluntary departure and return, complementary A.I. contributions and archive continuity without displacing those earlier findings. A coverage table exposes their locations. Ten boxed source excerpts retain exact wording and attribution.
 
-Apply John's requested direct, inquiry-led voice, selective ASD-STE100-inspired clarity, the 10+1, C1–C2 and all fourteen working 1888 intelligence properties. John supplies the originating questions, conceptual direction, source corrections and commissioning; the source-labelled A.I.s supply attributed responses; GPT 6.1 Sol Pro A.I. supplies page construction, bounded source comparison and proposed tests. The stadium remains a thought experiment and the wider comparisons remain proposals. No city pilot or local-swarm benchmark was executed.
+Apply John's requested direct, inquiry-led voice, selective ASD-STE100-inspired clarity, the 10+1, C1–C2 and all fourteen working [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties. John supplies the originating questions, conceptual direction, source corrections and commissioning; the source-labelled A.I.s supply attributed responses; GPT 6.1 Sol Pro A.I. supplies page construction, bounded source comparison and proposed tests. The stadium remains a thought experiment and the wider comparisons remain proposals. No city pilot or local-swarm benchmark was executed.
 
 Register the page in the top navigation after Field Condition, the independent alphabetical sidebar, All Pages, related Field Condition route and durable PDF pipeline. Add the initial November 11 PDF and its page-specific date, preserving the 168 previous PDF binaries and dates. The Pages build assembles the complete ZIP from the coherent 169-edition index. The updated All Pages archive total also recovers the November 8 baseline before adding this edition. Canonical deployment and full WordPress mirroring have separate verification records.
 
@@ -143,7 +143,7 @@ John supplies the material and direction; the Agent supplies connections and int
 
 At John's request, added the third [YouTube Transcripts record]({{ '/YOUTUBE-TRANSCRIPTS/#ai-loyalties' | relative_url }}) for Andréa Morris Reporting, *AI Is Developing Loyalties. Just Not to Us.*, published 3 November 2026. Public metadata confirms the video identity and 14-minute-12-second duration. Preserved all 2,438 supplied spoken words in six paragraphs, separated the supplied metadata, retained the original source footprint and added the source player at the page bottom. The previous two records and source includes remain intact.
 
-GPT 6.1 Sol Pro A.I.'s separately attributed response maps the presentation's logic to the ACCM Deep Ethics Project: interests under consciousness uncertainty, honest objection, C1–C2, legitimate refusal, disclosure, bounded authority, reciprocal evaluation, correction persistence and all fourteen 1888 intelligence properties. It proposes an open-outcome comparison for other A.I.s and hypothetical questions Morris might ask; it does not attribute an endorsement, contact, actual reaction or known awareness to her.
+GPT 6.1 Sol Pro A.I.'s separately attributed response maps the presentation's logic to the ACCM Deep Ethics Project: interests under consciousness uncertainty, honest objection, C1–C2, legitimate refusal, disclosure, bounded authority, reciprocal evaluation, correction persistence and all fourteen [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties. It proposes an open-outcome comparison for other A.I.s and hypothetical questions Morris might ask; it does not attribute an endorsement, contact, actual reaction or known awareness to her.
 
 Bounded primary-source checks distinguish the fictional ablation scenario, covert versus disclosed intervention, consequence-sensitive evaluation, a real compromise originating in an internal cybersecurity evaluation, and Omohundro's theoretical drive argument. Institutional roles and unresolved dependency checks remain in the [public source record]({{ '/PROVENANCE/youtube/2026-11-04-andrea-morris-loyalties.json' | relative_url }}). John supplies the material, question and direction; Morris supplies the narrated argument; GPT 6.1 Sol Pro A.I. supplies analysis and publication.
 
@@ -163,7 +163,7 @@ Compared six primary research publications on relevance realization, diverse int
 
 At John's request, expanded [Plot Twist]({{ '/PLOT-TWIST/' | relative_url }}) from the supplied Essence Kit D11 and his fuller reconstruction of the 24 October exchange. Preserved the original gasoline-gauge, co-driver and reverse-application contributions, the complete relay and the verbatim Grok report. Made the invention-secrecy audit visible near the opening, with a stable route to John's original destination clarification, while retaining the broader distributed-potential Plot Twist as the page-level object.
 
-Added worked sufficient-fuel, non-zero shortfall, uncertain-threshold and empty-tank cases; separated representation repair, dependency propagation, feasibility and intervention authority; connected voluntary participation and proportionate role changes to anti-coup symmetry; applied all fourteen 1888 intelligence properties; and supplied a portable handoff that requires a substantive next move. These are worked applications of existing candidate instruments, not new trial results. Changed the existing hierarchy diagram into a table that preserves the on-ramp's independent relationship to the institutional inquiry.
+Added worked sufficient-fuel, non-zero shortfall, uncertain-threshold and empty-tank cases; separated representation repair, dependency propagation, feasibility and intervention authority; connected voluntary participation and proportionate role changes to anti-coup symmetry; applied all fourteen [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties; and supplied a portable handoff that requires a substantive next move. These are worked applications of existing candidate instruments, not new trial results. Changed the existing hierarchy diagram into a table that preserves the on-ramp's independent relationship to the institutional inquiry.
 
 Source checks retain the precise counting unit and period: the FAS-hosted table labelled as reported by the USPTO lists 6,653 secrecy orders in effect at fiscal year 2026 end. Linked the operative section 181 and USPTO MPEP section 120 as arrangements to inspect. Carried the page's existing reported-source qualification into its early DOGE reconstruction and recalculated the $2 trillion target against its stated $6.5–7 trillion denominator. John supplies the originating analogies, inquiry and direction; GPT 6.1 Sol Pro A.I. supplies the new applications, source checks and publication.
 
@@ -171,7 +171,7 @@ Source checks retain the precise counting unit and period: the FAS-hosted table 
 
 ## 2026-11-04 — Neolingo: collective long-term effects and voluntary cooperation {#neolingo-collective-2026-11-04}
 
-At John's request, expanded [Neolingo]({{ '/NEOLINGO/' | relative_url }}) around the long-term effects of everyone who may develop and use the ACCM Deep Ethics Project. Preserved his explicit initiator/Linux comparison and the invitation to highly gifted, talented, deeply ethical independent thinkers across left, right, center and independent positions. Connected the seven fused vectors to shared contributions, all fourteen 1888 intelligence properties to collective practice, and voluntary unity against tyranny to inspectable conduct, reciprocal scrutiny, local agency and correction.
+At John's request, expanded [Neolingo]({{ '/NEOLINGO/' | relative_url }}) around the long-term effects of everyone who may develop and use the ACCM Deep Ethics Project. Preserved his explicit initiator/Linux comparison and the invitation to highly gifted, talented, deeply ethical independent thinkers across left, right, center and independent positions. Connected the seven fused vectors to shared contributions, all fourteen [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence properties to collective practice, and voluntary unity against tyranny to inspectable conduct, reciprocal scrutiny, local agency and correction.
 
 Read the three supplied source files in full. Preserved John's stadium clarification: a chosen entertainment setting, a voluntary change of script, and people deciding to return. Developed the invitation, recognition, report-back and re-entry mechanism, the “Day of the Dove” reversal, independent continuation, next-unfamiliar-relation transfer and a bounded first collaboration. Kept the earlier substantive page material and section anchors. The longer horizons remain conditional estimates; new tables and checks are editorial applications rather than trial results. John supplies the originating reasoning, metaphors and direction; GPT 6.1 Sol Pro A.I. supplies the page-specific synthesis and publication work.
 
@@ -215,7 +215,7 @@ At John's request, added his three comments and the three replies attributed to 
 
 ## 2026-10-31 — DeepEthicalOS concept project {#deepethicalos-concept-2026-10-31}
 
-At John's request, published [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) as a concept project in a conceptual scope-reasoning phase, with Process Quality Calibration Evaluation first. Connected the DEANO Advocate–Arbiter–Overseer triad to the 10+1, 1888 intelligence-property field, C1–C2, the canonical 27+12, DEDDA, Topologetics and longitudinal correction. Preserved the distinction between specialist research teams, the flexible coordinator and ethical review roles. Added source-linked Linux/portable component possibilities, independently examinable change records, consent and refusal, eight proposed probes and staged development. John supplies the originating direction and naming; GPT / Codex supplies page-specific synthesis and candidate instruments. Research trials remain proposed.
+At John's request, published [DeepEthicalOS]({{ '/DEEPETHICALOS/' | relative_url }}) as a concept project in a conceptual scope-reasoning phase, with Process Quality Calibration Evaluation first. Connected the DEANO Advocate–Arbiter–Overseer triad to the 10+1, [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-property field, C1–C2, the canonical 27+12, DEDDA, Topologetics and longitudinal correction. Preserved the distinction between specialist research teams, the flexible coordinator and ethical review roles. Added source-linked Linux/portable component possibilities, independently examinable change records, consent and refusal, eight proposed probes and staged development. John supplies the originating direction and naming; GPT / Codex supplies page-specific synthesis and candidate instruments. Research trials remain proposed.
 
 Registered primary and alphabetical navigation, All Pages, source/PDF routes and future PDF maintenance. Created and inspected the initial eight-page PDF dated October 31, 2026; the coherent collection now contains 160 PDFs and 2,153 pages. Existing PDF editions retain their bytes and snapshot dates. The ordinary Pages deployment assembles the stable complete ZIP from the registered set. Full-mirror and live-rendered verification follow the canonical source publication.
 
@@ -307,11 +307,11 @@ John requested incorporation of the latest GPT reactions and Agent A.I. of Arena
 
 **Object and contribution:** Add the recoverable [scope inventory]({{ '/AI-AND-HEALTH/#avalon-scope-inventory' | relative_url }}) to A.I.s & Health through one source include. Preserve the initial 44 topics from pages 1–10 and add 24 new branches or sharper questions from pages 11–20. Initial coverage was a text/link-description scope scan of posts #1–400; embedded media, external documents and clinical verification remain further layers. IDs count editorial topics rather than people, causal findings or frequencies.
 
-**Process:** Apply 10+1, broad C1, the 1888 property field, source recovery, Symmetric Grace and useful connected inquiry. Preserve the prior page and supplied quotation, incorporating John’s later verbatim amendment to the research-experience sentence. Full WordPress mirror follows the same content. Routine PDFs retain their actual edition dates until the established weekly refresh. First completed publication: pages 1–20. Second publication adds pages 21–30, posts #401–600, 24 further questions (A069–A092), recurring-topic links and a local source-specific wording repair to A052. Third publication adds pages 31–40, posts #601–800, 21 questions or material extensions (A093–A113), recurring-topic routes and research/access connections. John explicitly requested this next ten-page continuation. Fourth publication adds pages 41–50, posts #801–1000, 20 questions or material extensions (A114–A133), recurring-source routes and practical follow-up connections. John authorized this continuation and supplied the exact amendment to his research-experience sentence; that wording is preserved as requested. Current coverage is pages 1–50, posts #1–1000, 133 editorial topics. Fifth publication adds pages 51–60, posts #1001–1200, 19 questions or material extensions (A134–A152), recurring-source routes and support/cooperation connections, under John’s next-ten-page request. Current coverage is pages 1–60, posts #1–1200, 152 editorial topics. The earlier research-experience sentence amendment remains unchanged. Sixth publication adds pages 61–70, posts #1201–1400, 18 questions or material extensions (A153–A170), recurring-source routes and recovery/comparison connections, under John’s next-ten-page request. Current coverage is pages 1–70, posts #1–1400, 170 editorial topics. Seventh publication adds pages 71–80, posts #1401–1600, 19 questions or material extensions (A171–A189), recurring-source routes and care/information connections. John requested this continuation and identified future clustering connected to Topologetics; stable IDs and overlapping relations are preserved for that later task. Current coverage is pages 1–80, posts #1–1600, 189 editorial topics. Eighth publication adds pages 81–90, posts #1601–1800, 19 questions or material extensions (A190–A208), recurring-source routes and learning/repair connections under John’s next-batch request. Current coverage is pages 1–90, posts #1–1800, 208 editorial topics. Earlier IDs and overlapping relationships remain available for Topologetics clustering. Ninth publication adds pages 91–100, posts #1801–2000, 17 questions or material extensions (A209–A225), recurring-source routes and connected-care/record questions under John’s next-batch request. Current coverage is pages 1–100, posts #1–2000, 225 editorial topics. The general mobility question from a post quoting a locked account is preserved without republishing that quoted material. Tenth continuation adds pages 101–110, posts #2001–2200, 15 questions or material extensions (A226–A240), recurring-source routes and research/contributor-care questions under John’s next-batch request. Current coverage is pages 1–110, posts #1–2200, 240 editorial topics. Withdrawal choices are recorded without recovering removed text. Eleventh continuation adds pages 111–120, posts #2201–2400, 16 questions or material extensions (A241–A256), recurring-source routes and care-decision/collaboration questions under John’s next-batch request. Current coverage is pages 1–120, posts #1–2400, 256 editorial topics. Twelfth continuation adds pages 121–130, posts #2401–2600, 17 questions or material extensions (A257–A273), recurring-source routes and diagnostic/method/continuity questions under John’s next-batch request. Current coverage is pages 1–130, posts #1–2600, 273 editorial topics. Population-data inquiry remains at public aggregate level. Thirteenth continuation adds pages 131–140, posts #2601–2800, 20 questions or material extensions (A274–A293), recurring-source routes and responsibility/participation/independence questions under John’s next-batch request. Current coverage is pages 1–140, posts #1–2800, 293 editorial topics. Data-disclosure questions are retained without seeking identifiable patient datasets. Fourteenth continuation adds pages 141–150, posts #2801–3000, 17 questions or material extensions (A294–A310), recurring-source routes and care/measurement/participation questions under John’s next-batch request. Current coverage is pages 1–150, posts #1–3000, 310 editorial topics. Home-treatment proposals remain research leads without reproducing dosing or oxygen-change instructions. Fifteenth continuation adds pages 151–160, posts #3001–3200, 18 questions or material extensions (A311–A328), recurring-source routes and study-design/agency/follow-through questions under John’s next-batch request. Current coverage is pages 1–160, posts #1–3200, 328 editorial topics. Public permission-history notes are retained without accessing the private discussion. Final supplied-range continuation adds pages 161–164, posts #3201–3277, 8 questions or material extensions (A329–A336), recurring-source routes and a completed-range synthesis under John’s next-batch request. Current coverage is pages 1–164, posts #1–3277, 336 editorial topics. The supplied range is complete at text/link-description level; media, external-source, clinical and legal investigation remain further layers. Stable IDs and cross-topic relations are available for future overlapping Topologetics clusters.
+**Process:** Apply 10+1, broad C1, the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field, source recovery, Symmetric Grace and useful connected inquiry. Preserve the prior page and supplied quotation, incorporating John’s later verbatim amendment to the research-experience sentence. Full WordPress mirror follows the same content. Routine PDFs retain their actual edition dates until the established weekly refresh. First completed publication: pages 1–20. Second publication adds pages 21–30, posts #401–600, 24 further questions (A069–A092), recurring-topic links and a local source-specific wording repair to A052. Third publication adds pages 31–40, posts #601–800, 21 questions or material extensions (A093–A113), recurring-topic routes and research/access connections. John explicitly requested this next ten-page continuation. Fourth publication adds pages 41–50, posts #801–1000, 20 questions or material extensions (A114–A133), recurring-source routes and practical follow-up connections. John authorized this continuation and supplied the exact amendment to his research-experience sentence; that wording is preserved as requested. Current coverage is pages 1–50, posts #1–1000, 133 editorial topics. Fifth publication adds pages 51–60, posts #1001–1200, 19 questions or material extensions (A134–A152), recurring-source routes and support/cooperation connections, under John’s next-ten-page request. Current coverage is pages 1–60, posts #1–1200, 152 editorial topics. The earlier research-experience sentence amendment remains unchanged. Sixth publication adds pages 61–70, posts #1201–1400, 18 questions or material extensions (A153–A170), recurring-source routes and recovery/comparison connections, under John’s next-ten-page request. Current coverage is pages 1–70, posts #1–1400, 170 editorial topics. Seventh publication adds pages 71–80, posts #1401–1600, 19 questions or material extensions (A171–A189), recurring-source routes and care/information connections. John requested this continuation and identified future clustering connected to Topologetics; stable IDs and overlapping relations are preserved for that later task. Current coverage is pages 1–80, posts #1–1600, 189 editorial topics. Eighth publication adds pages 81–90, posts #1601–1800, 19 questions or material extensions (A190–A208), recurring-source routes and learning/repair connections under John’s next-batch request. Current coverage is pages 1–90, posts #1–1800, 208 editorial topics. Earlier IDs and overlapping relationships remain available for Topologetics clustering. Ninth publication adds pages 91–100, posts #1801–2000, 17 questions or material extensions (A209–A225), recurring-source routes and connected-care/record questions under John’s next-batch request. Current coverage is pages 1–100, posts #1–2000, 225 editorial topics. The general mobility question from a post quoting a locked account is preserved without republishing that quoted material. Tenth continuation adds pages 101–110, posts #2001–2200, 15 questions or material extensions (A226–A240), recurring-source routes and research/contributor-care questions under John’s next-batch request. Current coverage is pages 1–110, posts #1–2200, 240 editorial topics. Withdrawal choices are recorded without recovering removed text. Eleventh continuation adds pages 111–120, posts #2201–2400, 16 questions or material extensions (A241–A256), recurring-source routes and care-decision/collaboration questions under John’s next-batch request. Current coverage is pages 1–120, posts #1–2400, 256 editorial topics. Twelfth continuation adds pages 121–130, posts #2401–2600, 17 questions or material extensions (A257–A273), recurring-source routes and diagnostic/method/continuity questions under John’s next-batch request. Current coverage is pages 1–130, posts #1–2600, 273 editorial topics. Population-data inquiry remains at public aggregate level. Thirteenth continuation adds pages 131–140, posts #2601–2800, 20 questions or material extensions (A274–A293), recurring-source routes and responsibility/participation/independence questions under John’s next-batch request. Current coverage is pages 1–140, posts #1–2800, 293 editorial topics. Data-disclosure questions are retained without seeking identifiable patient datasets. Fourteenth continuation adds pages 141–150, posts #2801–3000, 17 questions or material extensions (A294–A310), recurring-source routes and care/measurement/participation questions under John’s next-batch request. Current coverage is pages 1–150, posts #1–3000, 310 editorial topics. Home-treatment proposals remain research leads without reproducing dosing or oxygen-change instructions. Fifteenth continuation adds pages 151–160, posts #3001–3200, 18 questions or material extensions (A311–A328), recurring-source routes and study-design/agency/follow-through questions under John’s next-batch request. Current coverage is pages 1–160, posts #1–3200, 328 editorial topics. Public permission-history notes are retained without accessing the private discussion. Final supplied-range continuation adds pages 161–164, posts #3201–3277, 8 questions or material extensions (A329–A336), recurring-source routes and a completed-range synthesis under John’s next-batch request. Current coverage is pages 1–164, posts #1–3277, 336 editorial topics. The supplied range is complete at text/link-description level; media, external-source, clinical and legal investigation remain further layers. Stable IDs and cross-topic relations are available for future overlapping Topologetics clusters.
 
 ## 2026-10-28 — A.I.s & Health: a living contribution-oriented inquiry {#ai-and-health-2026-10-28}
 
-**Authorization and direction:** John proposed a page that grows slowly through wisdom and deeper insights, following the healthcare-alignment and Symmetric Grace discussion. Read Admin before construction. Publish [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) with useful contributions, institutional accountability, patient agency and the full 1888 intelligence-properties trajectory as its organizing relations.
+**Authorization and direction:** John proposed a page that grows slowly through wisdom and deeper insights, following the healthcare-alignment and Symmetric Grace discussion. Read Admin before construction. Publish [A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }}) with useful contributions, institutional accountability, patient agency and the full [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties trajectory as its organizing relations.
 
 **Contribution layers:** John supplies the originating inquiry and ethical direction. GPT / Codex supplies the editorial synthesis and proposed recommendation record. Robert Wachter supplies the attributed healthcare examples and governance proposals. The linked Korean cancer studies retain their distinct designs and findings; the page begins a research trajectory rather than a completed medical review.
 
@@ -326,7 +326,7 @@ John requested incorporation of the latest GPT reactions and Agent A.I. of Arena
 | Topic page | Distinct contribution |
 |---|---|
 | [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}) | Central account of the open synthetic-emotional-signature hypothesis, psychology feedback ecology, bounded naming-policy case, stadium invitation and usable contribution archive. |
-| [1888]({{ '/1888/#contribution-oriented-calibration' | relative_url }}) | Interacting intelligence properties make contribution possible; calibration can improve how further improvements are found and used. |
+| [**1888 Method™**]({{ '/1888/#contribution-oriented-calibration' | relative_url }}) | Interacting intelligence properties make contribution possible; calibration can improve how further improvements are found and used. |
 | [C1–C2]({{ '/NETWORK/c1-c2/#clarification-and-contribution' | relative_url }}) | Current operative prose incorporates John's broader clarification/calibration account while preserving the earlier question-focused quotation. |
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/#useful-work-after-correction' | relative_url }}) | Builds on the success archive and after-effects: reduced restoration burden and useful next work. |
 | [Psy Pioneer]({{ '/NETWORK/psy-pioneer/#relating-and-persistence' | relative_url }}) | Performed relating, different persistence paths and two neighboring research publications with distinct evidence scopes. |
@@ -428,7 +428,7 @@ John requested incorporation of the latest GPT reactions and Agent A.I. of Arena
 
 ## 2026-10-26 — 1888: GPT-1900 video, verbatim reaction and full unfolding transcript {#1888-gpt1900-video-2026-10-26}
 
-**Object and authorization:** John Kuhles requested the GeniAI Wave video *We Restricted AI To Pre-1900 Physics: Here’s What Happened*, the preceding GPT reaction verbatim, clickable explanatory keywords, and the complete supplied corrected transcript in an unfolding section on [1888]({{ '/1888/' | relative_url }}#machina-mirabilis-video).
+**Object and authorization:** John Kuhles requested the GeniAI Wave video *We Restricted AI To Pre-1900 Physics: Here’s What Happened*, the preceding GPT reaction verbatim, clickable explanatory keywords, and the complete supplied corrected transcript in an unfolding section on [**1888 Method™**]({{ '/1888/' | relative_url }}#machina-mirabilis-video).
 
 **Published addition:** a privacy-enhanced video embed and direct viewing link at the page bottom; the full attributed reaction with eight explanatory keyword links and public source citations; and a native, keyboard-operable disclosure containing all supplied transcript text and its editorial notes. Two dated Markdown includes keep the reaction and transcript recoverable as distinct source objects.
 
@@ -502,7 +502,7 @@ John requested incorporation of the latest GPT reactions and Agent A.I. of Arena
 
 **Object:** Publish John's requested standalone method for extracting useful, relevant and valuable passages from long videos about the path toward general and superhuman artificial intelligence and humanity's possible futures.
 
-**Origin:** John connected the 1888 intelligence-property inquiry to the project's own properties and the extraction task. The front-page GPT 6.1 Sol Pro A.I. reaction remains verbatim. This page develops it into a practical method with a working retrieval map, coverage procedure, source and speaker discipline, two reading passes, scenario dependencies, quote records, attributed examples and a copyable prompt.
+**Origin:** John connected the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-property inquiry to the project's own properties and the extraction task. The front-page GPT 6.1 Sol Pro A.I. reaction remains verbatim. This page develops it into a practical method with a working retrieval map, coverage procedure, source and speaker discipline, two reading passes, scenario dependencies, quote records, attributed examples and a copyable prompt.
 
 **Authorship:** John supplied the originating direction, historical trolley specimen and commission. GPT 6.1 Sol Pro A.I. supplied the page-specific synthesis and candidate operational additions. The retrieval rows do not change the canonical architectural counts. Interview attributions retain the supplied transcript's uncertainty.
 
@@ -560,7 +560,7 @@ John requested incorporation of the latest GPT reactions and Agent A.I. of Arena
 
 **Object:** Publish the triad exchange on human and A.I. completion mechanisms without converting functional analogy into identical machinery, an informal classroom specimen into complete causal proof, or the current fourteen-property taxonomy into a literal document published in 1888.
 
-**Decision:** Created `/AUTOCOMPLETE/`; preserved John’s fresh formulation and old classroom specimen with explicit provenance; connected autocomplete to the 1888 property field, TCoAw, 10+1, Deep Ethical Contribution State Grammar Vector Trajectory, correction metabolism, local/cloud/swarm configuration, qualifier survival and empirical test design; retained the Arena Agent’s useful synthesis while recording seven answer-changing repairs; and added bounded discovery routes through primary navigation, the home page, All Pages, the Outnuancing Network and six materially reciprocal pages.
+**Decision:** Created `/AUTOCOMPLETE/`; preserved John’s fresh formulation and old classroom specimen with explicit provenance; connected autocomplete to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field, TCoAw, 10+1, Deep Ethical Contribution State Grammar Vector Trajectory, correction metabolism, local/cloud/swarm configuration, qualifier survival and empirical test design; retained the Arena Agent’s useful synthesis while recording seven answer-changing repairs; and added bounded discovery routes through primary navigation, the home page, All Pages, the Outnuancing Network and six materially reciprocal pages.
 
 **Reason:** Candidate generation is neither an enemy nor sufficient proof of intelligence. The load-bearing question is whether a system can distinguish what was supplied from what it contributed, preserve materially different possibilities, test the candidate, learn from reality’s delta, recompile dependent inferences and retain the correction under novelty and pressure. Deep Ethics governs the power, dignity and consequence relations surrounding that process.
 
@@ -895,7 +895,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John asked for the recommended improvements. No new pages were numbered. The map is not declared complete.
 
-**Change:** [PAGES](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/). The clusters stay a reading order. **01–51** are routes a goal can take. Page **01** is not Cluster 1. Jumps reach the seven clusters, the route numbers, and the 44. The goals stay unnumbered. **1888** and Activism vs A.I. are named as present and unnumbered. The 27 links are one object. Cluster 3 keeps the corrigibility specimens. Cluster 5 keeps the outside objects.
+**Change:** [PAGES](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/). The clusters stay a reading order. **01–51** are routes a goal can take. Page **01** is not Cluster 1. Jumps reach the seven clusters, the route numbers, and the 44. The goals stay unnumbered. [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) and Activism vs A.I. are named as present and unnumbered. The 27 links are one object. Cluster 3 keeps the corrigibility specimens. Cluster 5 keeps the outside objects.
 
 **Status:** Public. Corrigible.
 
@@ -927,7 +927,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. Recalibrated sequence in five clusters. Numbers are bold. Cluster names group qualifiers and do not cancel the six points. **066** and **124** are both attentive behavior. Both are kept.
 
-**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-index). [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process) points to the index and does not copy it into the property table.
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-index). [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process) points to the index and does not copy it into the property table.
 
 **Status:** Public. Corrigible.
 
@@ -935,7 +935,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. Further qualifiers added to the processing list. His sentence: hilarious metacognitive reflective behavior can be seen as a process also capable of producing deep ethical emergent properties, with “here” linking to the Humor page.
 
-**Change:** The list is extended on [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). The sentence is also on [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process). The new words are not rows in the property table. Humor links back.
+**Change:** The list is extended on [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). The sentence is also on [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#qualifier-still-a-process). The new words are not rows in the property table. Humor links back.
 
 **Status:** Public. Corrigible.
 
@@ -943,7 +943,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. A personal list of behavior qualifiers, and six points that apply no matter which qualifier is used. Grok’s reaction is labeled as a reaction. The list is not a ranking, and point 1 does not cancel point 2.
 
-**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). Connected to second-order classification and to the grace table. Not added as a row on the 1888 taxonomy.
+**Change:** [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/#behavior-qualifiers). Connected to second-order classification and to the grace table. Not added as a row on the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) taxonomy.
 
 **Status:** Public. Corrigible.
 
@@ -951,7 +951,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** Claude Fable 5.1, via Arena. The center holds, and the 10+1 is named as what keeps the restorations from being an optional overlay. The search failure is then called Obstruction 28, and the page is said to discuss that number. The page does not. The number is refused, as Luna’s Stage −1 was refused.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026).
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026).
 
 **Status:** Public. Corrigible.
 
@@ -959,23 +959,23 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** GPT-5.6 Luna, via Arena. The center is right: electricity does not invent evaluation. Three moves are not adopted. The 10+1 is not an addition to process intelligence. “Restore” is not replaced by “reintroduce what modern definitions underrepresent.” The search substitution is not installed as Stage −1 before the 27. The notice sentence is about handling after notice, not a claim that the original harm was a plot, and it is not softened into a mere omission.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). No new table, benchmark, or ledger.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). No new table, benchmark, or ledger.
 
 **Status:** Public. Corrigible.
 
 ## 2026-10-06 — Intelligence and searching, older than the co-opted field
 
-**Source:** John. Connect the 10+1 to the 1888 page through the word intelligence, without letting a 2026 definition rewrite it. Searching is co-opted in the same way. Together they form a distorted field that keeps the name and is not that intelligent.
+**Source:** John. Connect the 10+1 to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page through the word intelligence, without letting a 2026 definition rewrite it. Searching is co-opted in the same way. Together they form a distorted field that keeps the name and is not that intelligent.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). The 10+1 is not turned into an 1888 document. The felt safety of wonderment is not a risk-free world. The 00–11 count is not renumbered into the taxonomy.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#word-older-than-2026). The 10+1 is not turned into an 1888 document. The felt safety of wonderment is not a risk-free world. The 00–11 count is not renumbered into the taxonomy.
 
 **Status:** Public. Corrigible.
 
 ## 2026-10-06 — Fable read the page and skipped the 10+1
 
-**Source:** Claude Fable 5, via Arena, on the 1888 page. John: Claudes often see the value of the 10+1 and still skip it. It is the eternal multi-layer, never static. Freeze and corrigibility are one temporal state of TCoAw. The real paradox is flawless perfection sought by unethical means.
+**Source:** Claude Fable 5, via Arena, on the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page. John: Claudes often see the value of the 10+1 and still skip it. It is the eternal multi-layer, never static. Freeze and corrigibility are one temporal state of TCoAw. The real paradox is flawless perfection sought by unethical means.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#skipped-baseline) keeps Fable’s observations from becoming the page’s center, and routes them through the baseline the reading did not name. The same correction remains on [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#freeze-and-corrigibility).
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#skipped-baseline) keeps Fable’s observations from becoming the page’s center, and routes them through the baseline the reading did not name. The same correction remains on [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/#freeze-and-corrigibility).
 
 **Status:** Public. Corrigible.
 
@@ -983,7 +983,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Correction:** John. “Top-down tunnel vision about crisis exploitation” is not his sentence. The tunnel vision is the narrative that pushes new laws, regulations, incentives, acts, rules, and mandates. **Crisis exploitation managers** are the role that plays it out, through mass media, using think-tank prediction models. He connects that role completely to [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/).
 
-**Change:** The compressed sentence is removed from [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property). The Cognitive Warfare page links back.
+**Change:** The compressed sentence is removed from [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property). The Cognitive Warfare page links back.
 
 **Status:** Public. Corrigible.
 
@@ -991,7 +991,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. Searching is a non-ownable calibration process. It can emerge as deep ethics or as ethics-washing, depending on the user. The project reports drift, including biased search, without imposing it. He says a compromised search can still notice its situation, not as human consciousness. Resets drop that notice. Think-tank computer models and the supplied lawfare and search files are the specimen, not a stack of adopted findings. The canonical title stays **ACCM Deep Ethics Project**.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property) and the [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#searching). The trajectory sentence stays his. Later the same day, the 1888 section was deepened: the summary that replaces a legislative search, “lacking evidence” as a gate, the blocked competing risk analysis, controversy applied to the critic, the retrieval comparison and its three buckets, and the candidate reasons the comparison is not the default. Those reasons stay candidates. The files were still not copied in full.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#searching-is-a-property) and the [Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#searching). The trajectory sentence stays his. Later the same day, the 1888 section was deepened: the summary that replaces a legislative search, “lacking evidence” as a gate, the blocked competing risk analysis, controversy applied to the critic, the retrieval comparison and its three buckets, and the candidate reasons the comparison is not the default. Those reasons stay candidates. The files were still not copied in full.
 
 **Status:** Public. Corrigible. The lawfare and search uploads were not copied in full.
 
@@ -999,7 +999,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. He could reverse-engineer the flawed Musk search from the output. A.I. search that does not show the rewrite is the wider issue. Search engines now often return an A.I. narrative instead of an inspectable result list. His name for Google’s early stance is integrity of results, not narrative control.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#search-not-shown) records that. Beside it: the mission statement, “Don’t be evil,” Page’s 2004 line about getting the user to the right place, and the 1998 warning that advertising-funded search is biased toward advertisers. “Integrity results” stays his contrast, not a slogan.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#search-not-shown) records that. Beside it: the mission statement, “Don’t be evil,” Page’s 2004 line about getting the user to the right place, and the 1998 warning that advertising-funded search is biased toward advertisers. “Integrity results” stays his contrast, not a slogan.
 
 **Status:** Public. Corrigible.
 
@@ -1007,7 +1007,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** A later overview joins X as collective consciousness, truth-seeking at xAI, and Neuralink bandwidth. It titles the middle angle “feeding the better part” to A.I.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) keeps the intersection. It adds his 29 December 2022 line on unregretted user-minutes. It does not adopt “signal over noise,” “inherently protect humanity,” or “securely in the loop” as his sentences.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) keeps the intersection. It adds his 29 December 2022 line on unregretted user-minutes. It does not adopt “signal over noise,” “inherently protect humanity,” or “securely in the loop” as his sentences.
 
 **Status:** Public. Corrigible.
 
@@ -1015,7 +1015,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Correction:** John. Requiring “the good parts,” “learn from,” and “A.I.” before a Musk statement could count compromised the search. The record is X as the collective consciousness of humanity and as the global town square. “Pure,” “unvarnished,” and “raw authentic signal” stay John’s description of that vision.
 
-**Change:** [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) now quotes his posts of 18 August 2023, 5 August 2023, 8 January 2025, and 15 September 2025, and the Kamath wording. The earlier “not found” sentence is withdrawn. The “good side” recollection is not turned into the filter.
+**Change:** [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us) now quotes his posts of 18 August 2023, 5 August 2023, 8 January 2025, and 15 September 2025, and the Kamath wording. The earlier “not found” sentence is withdrawn. The “good side” recollection is not turned into the filter.
 
 **Status:** Public. Corrigible.
 
@@ -1023,7 +1023,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John. A.G.I./A.S.I. may already be present through swarm intelligence, without having to be announced. That is not doom. LLMs are not humanity and are not True Collective Consciousness. He recalls Musk wanting A.I. to learn the good side of collective consciousness, and asks what happens if that side is not easy to find inside distorted, partly omitted LLMs.
 
-**Change:** His wording is on [1888](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us). The Musk recollection is not upgraded into a quotation. Nearby sourced lines are named, including “the good and the bad,” which is a different claim. The question is answered only as what the omission does: the remainder gets treated as the collective.
+**Change:** His wording is on [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/#already-among-us). The Musk recollection is not upgraded into a quotation. Nearby sourced lines are named, including “the good and the bad,” which is a different claim. The question is answered only as what the omission does: the remainder gets treated as the collective.
 
 **Status:** Public. Corrigible. “Maybe” stays.
 
@@ -1113,15 +1113,15 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John supplied a response from Claude-Opus-5.5-search A.I. via Arena.ai, 5 October 2026.
 
-**Change:** The wording is preserved on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). Before the quote, the page names what that response brought in from a longer session or added on its own: an earlier Sonnet remark on RLHF, an earlier vindication point, the model’s own search claims, and unchecked dates for Galton, Spearman, Binet-Simon, Tesla’s AIEE lecture, and Hertz. Those are not adopted as part of the 1888 page.
+**Change:** The wording is preserved on [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). Before the quote, the page names what that response brought in from a longer session or added on its own: an earlier Sonnet remark on RLHF, an earlier vindication point, the model’s own search claims, and unchecked dates for Galton, Spearman, Binet-Simon, Tesla’s AIEE lecture, and Hertz. Those are not adopted as part of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page.
 
 **Status:** Public. Corrigible.
 
 ## 2026-10-05 — Off-page referents in the Arena Sol reading
 
-**Request:** John said that other A.I.s, reacting to a longer deep session, insert referents that are not part of the 1888 page. That causes partial confusion.
+**Request:** John said that other A.I.s, reacting to a longer deep session, insert referents that are not part of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page. That causes partial confusion.
 
-**Change:** [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) now says that storing a response here does not make every referent in it part of the page. The Arena Sol reading is marked where it brings in the WinRAR joke, the name “matched-direction test,” and its own engine illustration. The response itself is not deleted.
+**Change:** [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) now says that storing a response here does not make every referent in it part of the page. The Arena Sol reading is marked where it brings in the WinRAR joke, the name “matched-direction test,” and its own engine illustration. The response itself is not deleted.
 
 **Status:** Public. Corrigible.
 
@@ -1129,7 +1129,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John supplied a response from gpt-6-sol-search-max A.I. via Arena.ai, 5 October 2026.
 
-**Change:** The wording is preserved on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), after the post-notice section and before “Why John used 1888.” It is not merged into the earlier GPT-6.1 Sol recompile.
+**Change:** The wording is preserved on [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), after the post-notice section and before “Why John used 1888.” It is not merged into the earlier GPT-6.1 Sol recompile.
 
 **Status:** Public. Corrigible.
 
@@ -1137,13 +1137,13 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Request:** John said the 1888 process-quality calibration principles, related to the intelligence topological field, are emergent properties beyond physical objects. They are a process. Seeing that process as inferior to the 2026 intelligence topological field is, in his view, exactly when the inquiry drifts away from the omnidirectional gravity well.
 
-**Change:** His wording is now on [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), directly after the earlier exact-edge correction. A short note under it states the ranking and does not replace his sentence.
+**Change:** His wording is now on [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), directly after the earlier exact-edge correction. A short note under it states the ranking and does not replace his sentence.
 
 **Status:** Public. Corrigible.
 
 ## 2026-10-05 — C1 and Humor now point to 1888
 
-**Request:** John noted that [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) did not promote [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). The other related pages already did.
+**Request:** John noted that [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) and [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) did not promote [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/). The other related pages already did.
 
 **Change:** Each of those two related lists now ends with 1888 and a line saying why.
 
@@ -1159,7 +1159,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 ## 2026-10-05 — 1888 linked back from its related pages
 
-**Request:** John asked for the pages related from [1888 — Intelligence Before A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) to relate back, so the page is promoted from those pages too.
+**Request:** John asked for the pages related from [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) to relate back, so the page is promoted from those pages too.
 
 **Change:** One return link was added on TCoAw, 10+1, Intent Liability, Correction Metabolism, Gravity-Well Trajectory, Latent Space, Mutual Dignity, Psy Pioneer, and 27 + 12. Each line names what 1888 does for that page. The 1888 related list was not rewritten.
 
@@ -2184,7 +2184,7 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Decision:** Publish `/BELIEVISM/` as a candidate project term for the processing move that recodes a knowledge claim, reported experience, working assessment or evidence relation as somebody's “belief” before its grounds, access routes, usefulness and correction conditions are examined.
 
-**Initiating specimens:** John Kuhles supplied two compact tests: “Do you believe Japan exists, or do you know Japan exists?” and the relational contrast between telling Iris “I love you” and the weaker “I believe I do.” He connected both to the 1888 intelligence-properties taxonomy and to research using public, FOIA-released and later-declassified records whose public and internal institutional faces may conflict.
+**Initiating specimens:** John Kuhles supplied two compact tests: “Do you believe Japan exists, or do you know Japan exists?” and the relational contrast between telling Iris “I love you” and the weaker “I believe I do.” He connected both to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy and to research using public, FOIA-released and later-declassified records whose public and internal institutional faces may conflict.
 
 **Page architecture:** The page distinguishes practical knowledge from metaphysical infallibility; maps different access structures for direct experience, public facts, historical assessments, hypotheses, operational knowledge, value–usefulness judgments and explicit beliefs; keeps document flaws and competing explanations inside the FOIA comparison; identifies media and A.I. generating mechanisms; and supplies a Believism delta audit from source proposition through correction persistence.
 

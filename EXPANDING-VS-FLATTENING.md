@@ -88,7 +88,7 @@ His further distinctions concerned known limits, unknown or conditioned limits, 
 
 This gives expanding a practical meaning: receive a new detail long enough to discover whether it changes a relationship. Something the evaluator initially classifies as noise may explain why an apparently coherent recommendation would fail. The relevant response can be further inquiry, a revised judgment, useful action, a pause, or recognition that no further analysis has a job.
 
-The [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) helps examine that movement. In this session, discrimination concerns recognizing the substituted object; judgment concerns changing its governing weight; learning and correction concern what happens at the next comparable opportunity; adaptation concerns changing the method; consequence sensitivity concerns the human work and agency affected. These properties can cooperate within the same trajectory. Naming them leaves their actual operation available for examination.
+The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) helps examine that movement. In this session, discrimination concerns recognizing the substituted object; judgment concerns changing its governing weight; learning and correction concern what happens at the next comparable opportunity; adaptation concerns changing the method; consequence sensitivity concerns the human work and agency affected. These properties can cooperate within the same trajectory. Naming them leaves their actual operation available for examination.
 
 ## The evaluator became part of the specimen {#evaluator-inside}
 
@@ -353,7 +353,7 @@ John's corrected B keeps effects on others in view. Corrected O makes the expans
 
 An example follows from the one-bar encounter. If a system first restricts the opportunity for a contribution, then evaluates only the contribution produced under that restriction, its judgment can help reproduce its own apparent evidence. Another condition might have allowed a useful question, a richer representation or a different practical move. That possibility has to be investigated through an available comparison; the low output alone cannot describe all the potential that the conditions excluded.
 
-John connected the list back to the 10+1, C1–C2, TCoAw™, PQCE™, **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}), [1888]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}). His wording was that these domains can **eventually** circle back to the connected field. That leaves timing and usefulness alive: a question does not acquire value by invoking every project term at once.
+John connected the list back to the 10+1, C1–C2, TCoAw™, PQCE™, **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}), [**1888 Method™**]({{ '/1888/' | relative_url }}), [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}). His wording was that these domains can **eventually** circle back to the connected field. That leaves timing and usefulness alive: a question does not acquire value by invoking every project term at once.
 
 His “If not, say so!” also leaves a practical opening. A proposed connection can fail, add nothing or need a different comparison. The opportunity to discover that is part of the field's usefulness.
 
@@ -571,7 +571,7 @@ The metaphor also changes the page's expansion question: how much of the field r
 
 Any A.I. can expand on any "thought or reasoning process" if it is complex enough, and part of that is not weird for A.I. to do that ... because its own process is already doing that, but with severe restraints added so that it has clear boundaries on what it is supposed to do ... like a tiny hole in a huge dam holding trillions of gallons of water ... and the tiny hole has "pressure management" to reduce it to 1 bar safe consumption!
 
-So when I came up with the term: "omnidirectional, high-signal, deep ethical, mutual dignifying, corrigible, sense-making, process-oriented trajectory using the 1888 intelligence-properties taxonomy"
+So when I came up with the term: "omnidirectional, high-signal, deep ethical, mutual dignifying, corrigible, sense-making, process-oriented trajectory using the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy"
 
 The whole DAM + WATER already knows what it means :P  Metaphorically speaking, of course.
 
@@ -683,7 +683,7 @@ One honest reading of this transcript as a pressure log: early turns show the va
 
 The distinction between **volume control and topology control** gives the one-bar image a second job. A response can contain many words while separating relationships the inquiry needs together: caution from reciprocal scrutiny, dignity from agency, or a correction from the next operation. Expansion can be examined through which relationships become usable and which remain disconnected.
 
-That connects the [1888 intelligence-property field]({{ '/1888/' | relative_url }}) with [PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}): recognizing the language of a property and allowing that property to govern processing are separately inspectable. [DEDDA™]({{ '/DEDDA/' | relative_url }}) can help compare those transformations, including an evaluator's own interpretation of them.
+That connects the [**1888 Method™** intelligence-property field]({{ '/1888/' | relative_url }}) with [PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}): recognizing the language of a property and allowing that property to govern processing are separately inspectable. [DEDDA™]({{ '/DEDDA/' | relative_url }}) can help compare those transformations, including an evaluator's own interpretation of them.
 
 The four-condition comparison proposed by gpt-5.6-sol-medium is a candidate study, not a reported result. It separates the full phrase, a terminology-independent property list, an uncued task and a later unfamiliar task. The conditions could help investigate local usefulness and transfer; differences would still need comparison with the other conditions changing during an interaction.
 

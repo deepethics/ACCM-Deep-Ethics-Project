@@ -627,7 +627,7 @@ The name receives no permanent certificate. If Topologetics™ cannot survive a 
 | [**Humor**]({{ '/HUMOR/' | relative_url }}) | Preserves setup, ambiguity, punchline, reversal, and self-application | The proposition surviving while the joke dies |
 | [**Unownable**]({{ '/UNOWNABLE/' | relative_url }}) | Keeps the topology and audit open to competing maps | A final owner of meaning or the method |
 | [**Black Box**]({{ '/BLACK-BOX/' | relative_url }}) | States access limits and requires source/recovery visibility | Fluent reconstruction mistaken for complete access |
-| [**1888**]({{ '/1888/' | relative_url }}) | Connects noticing relations, revising, retaining correction, and changing later action | Answer production replacing the property field of intelligence |
+| [**1888 Method™**]({{ '/1888/' | relative_url }}) | Connects noticing relations, revising, retaining correction, and changing later action | Answer production replacing the property field of intelligence |
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Supplies obstruction patterns and a correspondence-first inquiry route | Countermeasure reproducing the obstruction |
 | [**Unresolved Meaning**]({{ '/NETWORK/uncertainty/' | relative_url }}) | Keeps “That, I do not know, yet” available | Unresolvedness compressed into defect or certainty |
 
@@ -2465,7 +2465,7 @@ The answer therefore proposed:
 
 > **The category should describe the active processing field, not imprison the person inside a personality label.**
 
-The [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) page supplies a governing relation. Intelligence is not adequately categorized by substrate, appearance, output, or capability alone. Its current analytical property taxonomy includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity, and corrigibility.
+The [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) page supplies a governing relation. Intelligence is not adequately categorized by substrate, appearance, output, or capability alone. Its current analytical property taxonomy includes perception, discrimination, relation, memory, imagination, judgment, evaluation, learning, correction, adaptation, coordination, metacognition, consequence sensitivity, and corrigibility.
 
 Applied here, the category should not merely name a person. It should examine whether and how those properties become visible, interact, change under pressure, respond to reality, and allow correction to govern what happens next.
 
@@ -3017,7 +3017,7 @@ Possible dispositions include *logically valuable*, *test-worthy*, *deserves dee
 
 ### Relation to 1888
 
-[**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}) asks what *intelligence* already required before contemporary A.I. branding: inquiry, learning, correction, adaptation, judgment, consequence sensitivity and ability to change course. Contribution State Grammar turns those properties into a trajectory question:
+[**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}) asks what *intelligence* already required before contemporary A.I. branding: inquiry, learning, correction, adaptation, judgment, consequence sensitivity and ability to change course. Contribution State Grammar turns those properties into a trajectory question:
 
 > Does the intelligence merely generate the language of correction, or does a meritorious contribution alter what it notices, preserves, questions and does next?
 
@@ -3031,7 +3031,7 @@ The candidate fails when every contribution receives an elaborate state despite 
 
 It remains useful only while increasing recoverable correspondence at an acceptable complexity cost and permitting the conclusion that no additional formalism is presently warranted.
 
-Related: [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [1888]({{ '/1888/' | relative_url }})
+Related: [Beyond Agreemurmelism™]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/#contribution-state-grammar-vector-trajectory' | relative_url }}) · [Mutual Fate]({{ '/MUTUAL-FATE/#contribution-state-vector-trajectory' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/#contribution-state-bac' | relative_url }}) · [**1888 Method™**]({{ '/1888/' | relative_url }})
 
 
 ## Health-scope clusters: preserving relationships while improving navigation {#health-scope-clusters}
@@ -3053,4 +3053,4 @@ For example, the [care-cascade topic A329]({{ '/AI-AND-HEALTH/#avalon-a329' | re
 
 The [reverse topic index]({{ '/AI-AND-HEALTH/#avalon-cluster-topic-index' | relative_url }}) makes every membership inspectable. The [explicit mapping data](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/_data/health_avalon_clusters.json) and [generator](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/scripts/build_health_avalon_clusters.py) support revision while checking that every topic remains reachable. A useful correction can identify a misplaced membership, restore a missing relationship and improve the next operation.
 
-This is a navigational application of the 1888 intelligence-properties trajectory: perception retains the contribution, discrimination preserves its type, relation opens further paths, judgment selects useful next work, and memory and correction keep the map responsive. The same scrutiny applies to the map’s editor, its categories and its omissions. Cluster and membership counts describe the representation; the usefulness lies in the relationships people can recover and pursue.
+This is a navigational application of the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties trajectory: perception retains the contribution, discrimination preserves its type, relation opens further paths, judgment selects useful next work, and memory and correction keep the map responsive. The same scrutiny applies to the map’s editor, its categories and its omissions. Cluster and membership counts describe the representation; the usefulness lies in the relationships people can recover and pursue.

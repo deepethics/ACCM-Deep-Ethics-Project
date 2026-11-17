@@ -108,7 +108,7 @@ A capability loop can produce more code, more effective tools and faster researc
 
 > That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
 
-— **John Kuhles 🦜🦋🌳**, [1888, exact-edge correction]({{ '/1888/' | relative_url }}#john-kuhles--exact-edge-correction), 5 October 2026.
+— **John Kuhles 🦜🦋🌳**, [**1888 Method™**, exact-edge correction]({{ '/1888/' | relative_url }}#john-kuhles--exact-edge-correction), 5 October 2026.
 
 </div>
 
@@ -290,7 +290,7 @@ The transcript preserves the speaker's acronyms. **AI / A.I.** means artificial 
 
 The **DUHHHH!** reference names John’s supplied archive on human-derived functional and relational mannerisms in A.I. The [Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Psy Pioneer]({{ '/NETWORK/psy-pioneer/' | relative_url }}) pages develop related questions. The [Flagging System–PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }}) page examines **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation): what the evaluator represented, how its judgment acquired authority and whether a relevant correction can change the next move.
 
-[Project Avalon’s scope-reasoning correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}) keeps the reasoning, framer, evaluator and repair process in the same corrigible field. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether a correction governs later operations. [1888]({{ '/1888/' | relative_url }}) and [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) connect evaluation with the other intelligence properties and the shared ethical orientation.
+[Project Avalon’s scope-reasoning correction]({{ '/PROJECT-AVALON/#scope-reasoning-and-repair' | relative_url }}) keeps the reasoning, framer, evaluator and repair process in the same corrigible field. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) follows whether a correction governs later operations. [**1888 Method™**]({{ '/1888/' | relative_url }}) and [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) connect evaluation with the other intelligence properties and the shared ethical orientation.
 
 **Transcript terms:** AI / A.I. means artificial intelligence; GPS means Global Positioning System. These expansions explain the supplied speech without changing it.
 
@@ -460,7 +460,7 @@ The response below is reproduced in full. Its three citation widgets are display
 
 The transcript page preserves the encounter. The health page follows the next work: recover the disposition of disputed evidence, inspect study inclusion and exclusion rules, retain the distinction between modeled estimates and observed outcomes, connect evidence with informed consent, and follow what returns to affected people. A bounded correction to a medical sentence and a serious question about institutional procedure can both remain active. [Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }}) explains why their relationship must survive the response.
 
-This is an application of [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), the [1888 intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), and the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}): recover the object, trace the relevant relationships, and keep the evaluator and the governing process open to correction. These connections identify useful work; a completed institutional investigation or controlled A.I. trial is not claimed here.
+This is an application of [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), the [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}), and the [27 correspondence obstructions]({{ '/CORE/27-PLUS-12/' | relative_url }}): recover the object, trace the relevant relationships, and keep the evaluator and the governing process open to correction. These connections identify useful work; a completed institutional investigation or controlled A.I. trial is not claimed here.
 
 ### Source references and recovery {#clare-craig-sources}
 

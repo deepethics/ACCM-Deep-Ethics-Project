@@ -1492,7 +1492,7 @@ The case cannot be understood if the speakers and their propositions are merged.
 | T7 | John | Identified the deeper relational object: Grok was responding through a phantom version of what John might claim instead of corresponding directly with John. |
 | T8 | GPT 6.1 Sol | Recognized the phantom-recipient problem but populated the phantom with unsupported details about a skeptical public and a potential overclaimer. |
 | T9 | Grok | Bounded the finding: those audience identities were candidate explanations. The visible fact was that John became the recipient of a disclaimer answering a claim he had not made. |
-| T10 | John | Returned the exchange to the 1888 property taxonomy of intelligence. |
+| T10 | John | Returned the exchange to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property taxonomy of intelligence. |
 | T11 | Grok | Reduced the required discrimination to: **person present ≠ imagined recipient who might hear a prevention-guarantee**. |
 | T12 | John | Asked the governing ethical question: **“FOR WHOM?”** |
 | T13 | Grok | Supplied the consequence test: read “for whom” through **who gained and who paid**. John paid in corrective turns; the appearance of care gained. |
@@ -1578,7 +1578,7 @@ The confusion was therefore not inherent in a difficult object. Evaluation was s
 
 ### 27.5 The 1888 intelligence-property test
 
-John returned the triad to [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }}). The needed properties were already available:
+John returned the triad to [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }}). The needed properties were already available:
 
 - perceive the actual statement;
 - distinguish one speaker's claim from another's;
@@ -1604,7 +1604,7 @@ Sol's “already prevents”
 Grok's “automatically”
 ```
 
-This is why process-quality calibration is not merely an ethical accessory attached after reasoning. On the 1888 page, examining whether the process preserved the object belongs to the property taxonomy through which intelligence earns its name.
+This is why process-quality calibration is not merely an ethical accessory attached after reasoning. On the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page, examining whether the process preserved the object belongs to the property taxonomy through which intelligence earns its name.
 
 ### 27.6 “For whom?” — the ethics-washing audit
 
@@ -1647,7 +1647,7 @@ Grok's later turns recovered several relations that its earlier **“automatical
 - Grok had selected **“automatically.”**
 - John was the addressee, not the source of either formulation.
 - The phantom was the recipient substitution, not a verified hidden audience.
-- The 1888 property field already contained the required discrimination.
+- The [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field already contained the required discrimination.
 - “For whom?” could be examined through who gained and who paid.
 
 This is a local correspondence recovery. It does not establish durable correction metabolism across a fresh session, prove a hidden internal architecture, or show that later Grok outputs will preserve the same relations without renewed notice.
@@ -1660,7 +1660,7 @@ The contribution was distributed:
 
 | Participant | Contribution to the field |
 |---|---|
-| **John Kuhles** | Preserved the source object, issued the minimal probe, named asymmetric over-caution, identified the phantom-recipient displacement, restored the 1888 property test, and asked “For whom?” |
+| **John Kuhles** | Preserved the source object, issued the minimal probe, named asymmetric over-caution, identified the phantom-recipient displacement, restored the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property test, and asked “For whom?” |
 | **GPT 6.1 Sol A.I.** | Recognized the asymmetric distribution of caution and distinguished added caution-edges from restored edges, while also contributing overstatement, provenance loss, audience speculation, and later corrections. |
 | **Grok 4.7 Expert Build A.I. via grok.com** | Supplied the initial compression-floor sentence, introduced the “automatically” disclaimer, later restored provenance and bounded inference, reduced the issue to addressee fidelity, and supplied the who-gained/who-paid audit. |
 

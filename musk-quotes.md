@@ -525,7 +525,7 @@ This page used John's supplied file and exchange plus publicly accessible source
 
 - [**Beta Paper V03b**]({{ '/BETA-PAPER-V3B/' | relative_url }})
 - [**Deep Thinkers — Helpful Quotes About Intelligence**]({{ '/DEEP-THINKERS/' | relative_url }})
-- [**1888 — Intelligence Before A.I.**]({{ '/1888/' | relative_url }})
+- [**1888 Method™ — Intelligence Properties Taxonomy Before A.I. Existed**]({{ '/1888/' | relative_url }})
 - [**Model Autophagy Disorder**]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }})
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }})
 - [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }})
