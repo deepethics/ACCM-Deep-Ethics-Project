@@ -558,6 +558,26 @@ Google’s useful follow-up was to make an inspector’s refusal an event in the
 
 **Contribution record:** John Kuhles raised the assumption that the inspected object already owes obedience to the inspector’s standard and made practice the route to validation. Google A.I. proposed the temporal inversion, **Inspectability ≠ Jurisdiction**, the **Pre-Audit Gate** framing, the five-field ledger and a side-by-side test. GPT distinguished non-execution from a proved block, scoped nulls to observed conditions, and kept effects separate from inferred motives. This editorial synthesis keeps those contributions distinct. The [screenshot-led Google A.I. case]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}) illustrates a different boundary: what a reader could observe as its source access changed.
 
+<span id="scoped-null-and-failure"></span>
+
+### When “no evidence” conceals different trial states
+
+The follow-up exchange about opaque media and search channels brought a further distinction into the ledger. **The existence of evidence, its visibility to an audience, and its bearing on the method are separate questions.** A trial can run and yield an inspectable record without receiving public coverage. Conversely, a method can receive attention without ever having been tested. The [Black Box evidence-recovery note]({{ '/BLACK-BOX/#independent-routes-to-evidence' | relative_url }}) examines the transmission questions. This section is about what may be concluded from the trial record.
+
+| State | What the evaluator may say | What would move the inquiry forward |
+|---|---|---|
+| **Not run or not known to have run** | No result from this trial is established. Name a gatekeeping decision only if its authority path and effect are traceable. | Confirm execution status and, if it did not run, distinguish a refusal from a resource or technical constraint, withdrawal, or an unresolved cause. |
+| **Ran, relevant effects unobserved** | Execution is established, but we cannot classify the effect in question. Some components may still have been observable. | Recover logs or sources, widen the measures, or run a bounded comparison with adequate observability. |
+| **Scoped null** | No material change was detected on the stated measure under the stated conditions and observation limits. | Record the comparison, threshold, duration and sensitivity. Ask which plausible effects were within reach of detection. Preserve the null if the measurement was adequate for that question. |
+| **Documented failure** | The method missed a stated success criterion or produced a specified adverse result. | Identify which criterion, what made it applicable, and whether the issue lies in the method, execution conditions or a contested criterion. |
+| **Observed effect, mixed result or surprise** | Describe the effect, where it occurred and who experienced it. Credit only the inference that the design and record support. | Test persistence, transfer, alternative causes or side effects. Preserve an unanticipated finding without retroactively making it the original success criterion. |
+
+A **null and a failure can coexist**: no detectable improvement may mean the method missed a predeclared improvement target. They are still different entries. A null describes what was detected; failure describes performance against a criterion. A change in an unanticipated direction may also be a genuine observation even if the original criterion was missed.
+
+**Worked comparison, not a result.** Suppose a voluntary summary trial compares the original source with two summaries and asks whether a consequential qualifier survives a handoff. If the source or second output was never retained, the handoff effect is unobserved. If both are retained and no material difference is detected, note the scoped null. If a predeclared requirement was to preserve the qualifier and it was lost, note the criterion failure. If a reviewer disallows even that bounded comparison until there is proof the method preserves qualifiers across that comparison, log the reopening condition and check whether another workable path to the evidence exists.
+
+This makes the [circular reopening question](#pre-audit-gate) usable without treating every unrun trial as obstruction, every null as failure, or every absence from public view as absence of evidence. Google A.I. contributed the separation between epistemic warrant and institutional visibility; GPT added the null-versus-failure and shared-source distinctions in the [follow-up exchange record]({{ '/GOOGLE-AI/#independent-evidence-relay' | relative_url }}).
+
 ## Provenance and recovery
 
 - **Concept origin and governing stage correction:** John Kuhles, October 23, 2026.
