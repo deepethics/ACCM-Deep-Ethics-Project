@@ -481,3 +481,28 @@ This is an application of [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }
 <!-- ACCM_PDF_OMIT_END -->
 
 [Watch Dr Clare Craig's full speech on Together's YouTube channel](https://www.youtube.com/watch?v=eRnmJNIFllM).
+
+
+## Seventh record — Tim Maudlin on Bell’s theorem: what survives the headline? {#maudlin-bell-lecture}
+
+Curt Jaimungal’s *Theories of Everything* hosts Tim Maudlin’s lecture on the path from the Einstein–Podolsky–Rosen (EPR) argument, through David Bohm’s reformulation, to Bell’s theorem. The title’s “Locality Is Dead” is an invitation into an argument. This record separates the headline, the lecturer’s reconstruction and the claims supported by the primary papers.
+
+| Recovery point | What a faithful account keeps available |
+|---|---|
+| **Correctness and completeness** | EPR’s question is whether the description is complete; disputing completeness is not the same as rejecting the accuracy of the predictions. Their reality criterion is presented as sufficient, not as an exhaustive definition. |
+| **Assumed and inferred** | In Maudlin’s reconstruction of the idealized EPR case, the perfect correlations and the locality premise support an inference of predetermined outcomes. Treating determinism as the initial premise changes the direction of the argument. |
+| **Bohm’s change of representation** | The shift from position and momentum to spin keeps the EPR argument recognizable while making different measurement settings easier to specify and compare. That is a case where a re-expression makes another question testable. |
+| **Bell’s result and its scope** | Keep the relevant locality assumption, independence of settings from the modeled state of the pairs, and the role of the predicted or observed correlations distinct. The result does not furnish a controllable faster-than-light messaging method. |
+| **A small clarification with a large effect** | Curt asks what “as if” is doing in the small-magnet analogy. The analogy helps a reader understand the apparatus and its outcomes; it should not quietly become a claim that a particle is literally a classical spinning magnet. |
+
+**Project use:** the [worked Topologetics™ comparison]({{ '/TOPOLOGETICS/#bell-argument-compression' | relative_url }}) tests what survives from a headline, an ordinary summary, and the relevant passages. The comparison is proposed; no runs or scores have been recorded.
+
+**Source record:** John supplied a corrected reading transcript, `what is real.txt` (181,360 bytes; SHA-256 `99334502e3c1aee5292d900ae31eb5e8da04c271944d773c6cd73f8905873552`). It identifies three sponsor omissions and minor speech-to-text edits. The upload informed this editorial index; it is not republished here or treated as a line-by-line audio verification. See the [1935 EPR paper](https://doi.org/10.1103/PhysRev.47.777) and [Bell’s 1964 paper](https://quantum.country/assets4/Bell1964.pdf) for source recovery distinct from the lecture.
+
+### Source video — Tim Maudlin and Curt Jaimungal
+
+[Watch the original lecture on YouTube](https://www.youtube.com/watch?v=XVZzuIUZveg).
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="XVZzuIUZveg" title="Tim Maudlin on Bell’s theorem and non-locality — Theories of Everything with Curt Jaimungal" %}
+<!-- ACCM_PDF_OMIT_END -->
