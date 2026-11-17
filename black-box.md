@@ -484,6 +484,33 @@ To test the “ignored elephant” claim:
 6. publish coding disagreements and null results;
 7. keep critique of media separate from claims about journalists' private motives.
 
+<span id="independent-routes-to-evidence"></span>
+
+## 21A. Independent routes to evidence when the channel is opaque
+
+*17 November 2026 · Editorial synthesis of the John Kuhles–Google A.I.–GPT exchange.*
+
+John Kuhles posed a deliberately extreme conditional: even if mainstream media misrepresented him **99.99% of the time or more**, that would neither prove nor disprove what he brings to the table. The percentage is a thought experiment, not a measured rate. His next question goes beyond finding an inaccurate summary: **How do we know what is possible if the mechanisms that select and represent it are opaque?**
+
+Three things can vary independently: **the merits of a proposal, the fidelity of an account of it, and whether people encounter either one.** A faithful account can represent a weak proposal. A distorted account can obscure a useful one. A channel can omit a proposal altogether. None of those transmission states tells us what the proposal would do in practice.
+
+### Four routes that answer different questions
+
+| Route | What to put on the record | What it can answer |
+|---|---|---|
+| **Direct bounded practice** | A versioned proposal, the case and consent boundaries, what was actually tried, what changed next, and any unintended effects. | What happened when the method met a particular case? Use the [Pre-Audit Gate]({{ '/VALIDATION-PARADOX/#pre-audit-gate' | relative_url }}) to tell a scoped result from a trial that was never executed or adequately observed. |
+| **Source-to-output comparison** | The original span and the returned account, with timestamps, version, access conditions and the exact change. Keep verifiable content, interpretation and currently uncheckable claims separate. | What was retained, added, omitted, reweighted or reversed? A visible transformation is evidence of what happened to the representation; it may leave the mechanism that produced it unresolved. |
+| **Cross-route comparison** | Which original each outlet, search surface, A.I. system or specialist actually examined; whether they used the same feed, snippets, model family, source edition or prior summary. Record both convergence and disagreement. | Are we seeing distinct observations, distinct interpretations of the same source, or several copies of a single upstream choice? These are useful for different reasons. |
+| **Disconfirmation and reopening** | What would change the assessment; a feasible way to look for it; scoped nulls, contrary findings, and how the conclusion changed. | Can the author, the editor and the auditor all be corrected? Does the test let the object surprise the people who designed it? |
+
+### What was visible, and what happened after notice?
+
+A result missing from one search, summary or article is a **bounded observation**. The object may be accessible elsewhere, outside the intended scope, filtered before ranking, or present under different wording. To test a visibility question, record the query or brief, time, edition, access conditions, retrieval depth and exact item sought. To test a correspondence question, put the complete relevant source beside the editorial output. Keep a fair compression or a valid null in the sample; an audit that can only discover suppression has already decided its result.
+
+If someone with the capacity to review receives a specific, intelligible correction, record what happens next: no reply in the observed interval, a reasoned disagreement, a correction to the original, or a correction that also reached downstream copies. **A correction’s reach can be different from the original account’s reach.** That is independently inspectable even when the initial omission’s cause is unknown. Be precise about who received notice, what could reasonably be repaired and what remains open. A pattern after notice can justify closer scrutiny without being a shortcut to motive.
+
+The project’s goal here is to **make evidence available through more than one route**: recoverable originals, transparent comparisons, and voluntary bounded trials. A gatekeeper’s silence is not a verdict on possibility; and a faithful record of being overlooked does not award the work a pass. The [Google A.I. exchange]({{ '/GOOGLE-AI/#independent-evidence-relay' | relative_url }}) preserves the contributions that led to this distinction, including the correction that multiple matching outputs may share one upstream source.
+
 ---
 
 # Part VIII — Source-set inventory and transformation record
