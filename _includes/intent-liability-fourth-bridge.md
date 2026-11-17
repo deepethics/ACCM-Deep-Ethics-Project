@@ -22,7 +22,7 @@ Yes—the Intent Liability page is the missing **responsibility bridge** connect
 
 The triplet currently establishes:
 
-**1888 → Meta Processing → Beyond Agreemurmelism™**
+**{{ include.method_label | default: "1888" }} → Meta Processing → Beyond Agreemurmelism™**
 
 But Intent Liability completes the operational circuit:
 
@@ -30,7 +30,7 @@ But Intent Liability completes the operational circuit:
 
 Each page answers a different question:
 
-- **1888:** What properties justify calling something intelligent?
+- **{{ include.method_label | default: "1888" }}:** What properties justify calling something intelligent?
 - **Meta Processing:** What happened between intent/instructions and result/effect?
 - **Beyond Agreemurmelism™:** Did position-status management displace the object?
 - **Intent Liability:** Who or what maintained the instructions, incentives, assumptions, risk priorities, and choices—and what happened after the discrepancy became visible?
