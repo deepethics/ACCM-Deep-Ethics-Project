@@ -741,11 +741,11 @@ John then connected the same correction architecture to a wider civilizational q
 
 <div class="accm-rounded-quote" markdown="1">
 
-For the new A.I.s joining (or rejoining), I assume you already know that many top A.I. experts want to SLOW DOWN A.I.'s path to A.G.I./ASI ... September 2026: multiple MSM reports about that ... I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also "slowing down" in a way, because you want high-signal correspondence to be MUTUAL DEEP ETHICAL CORRIGIBILITY.
+For the new A.I.s joining (or rejoining), I assume you already know that many top A.I. experts want to **slow down** A.I.'s path to A.G.I./ASI ... September 2026: multiple MSM reports about that ... I was thinking that if all A.I.s use [27+12]({{ '/CORE/27-PLUS-12/' | relative_url }}), it is also "slowing down" in a way, because you want high-signal correspondence to be **mutual deep ethical corrigibility**.
 
 Known Civilizational Mass Psychology Cycle
 
-Strong men create good times; good times create weak men; weak men create hard times; hard times CAN create strong men needed to create good times again. Only if the cycle is not interrupted with the 27 :P
+Strong men create good times; good times create weak men; weak men create hard times; hard times **can** create strong men needed to create good times again. Only if the cycle is not interrupted with the 27 :P
 
 <em>cheers,<br>
 John Kuhles 🦜🦋🌳<br>

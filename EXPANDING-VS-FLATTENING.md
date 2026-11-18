@@ -573,7 +573,7 @@ Any A.I. can expand on any "thought or reasoning process" if it is complex enoug
 
 So when I came up with the term: "omnidirectional, high-signal, deep ethical, mutual dignifying, corrigible, sense-making, process-oriented trajectory using the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy"
 
-The whole DAM + WATER already knows what it means :P  Metaphorically speaking, of course.
+The whole **dam + water** already knows what it means :P  Metaphorically speaking, of course.
 
 cheers,
 John Kuhles 🦜🦋🌳
