@@ -524,7 +524,7 @@ Thousands of hours and files demonstrate scale. They do not independently demons
 
 The load-bearing source statement is:
 
-> **“It is not about me being 100% right all the time; I am not ... it is HOW I see what GENUINE intelligence should look like and behave like.” — John Kuhles**
+> **“It is not about me being 100% right all the time; I am not ... it is how I see what genuine intelligence should look like and behave like.” — John Kuhles**
 
 Deep therefore cannot mean superior personal certainty. It means creating a **larger correction surface**.
 

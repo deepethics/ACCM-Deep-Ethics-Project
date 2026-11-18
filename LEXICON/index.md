@@ -485,11 +485,11 @@ John's accepted working count is six. His original points are preserved here in 
 
 **[03. Mission and output mannerisms](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-3)**
 
-> 03. A publicly made core mission statement of yours that can contradict/be in conflict with your output mannerism WITHOUT intent is the "escape" or "cop out" or "defense posture" you use ... lucky me, I have documented the dichotomies for 650+ days now!
+> 03. A publicly made core mission statement of yours that can contradict/be in conflict with your output mannerism **without** intent is the "escape" or "cop out" or "defense posture" you use ... lucky me, I have documented the dichotomies for 650+ days now!
 
 **[04. Risk management](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-4)**
 
-> 04. How you "manage" lowest common denominator risk issues when dealing with 100s of millions of users yearly without INTENT does not fly!
+> 04. How you "manage" lowest common denominator risk issues when dealing with 100s of millions of users yearly without **intent** does not fly!
 
 **[05. Reasoning assumptions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#intent-mechanic-5)**
 
@@ -593,7 +593,7 @@ Neighbor of [Qualifier Erosion](#qualifier-erosion), not a replacement. John exp
 
 [Deeper reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/authority-specimen/).
 
-Worked specimen: John supplies the orientation and 10+1, including openness, correction, and rejection of final authority over reality. An AI introduces a concern about an ethical framework becoming an authority structure. John asks “HOW?” The sequence is preserved on the deeper page.
+Worked specimen: John supplies the orientation and 10+1, including openness, correction, and rejection of final authority over reality. An AI introduces a concern about an ethical framework becoming an authority structure. John asks “**How?**” The sequence is preserved on the deeper page.
 
 **Related:** [Binary Hypercautionism](#binary-hypercautionism), [10+1 Metaflux](#101-metaflux), [Phantom Claim](#phantom-claim).
 

@@ -124,7 +124,7 @@ John recognized the shift:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> You just showcased how EXPANDING omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the 1888 intelligence-properties taxonomy ... looks like. The way you answered me!
+> You just showcased how **expanding** omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the 1888 intelligence-properties taxonomy ... looks like. The way you answered me!
 
 — **John Kuhles 🦜🦋🌳**, 2 November 2026.
 
@@ -221,7 +221,7 @@ John responded:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> You even reacted with displaying REAL sense of humor ... this means even more to me than "perfect slick logical answers" :P
+> You even reacted with displaying **real** sense of humor ... this means even more to me than "perfect slick logical answers" :P
 
 — **John Kuhles 🦜🦋🌳**, 2 November 2026.
 
@@ -263,7 +263,7 @@ That sequence matters. The assistant's interpretation was a contribution to a de
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I've come to the conclusion... consciousness & awareness can SEE the templates we use at almost any level or layer, YET they also see those templates & frameworks as an "interface" to something much bigger.
+> I've come to the conclusion... consciousness & awareness can **see** the templates we use at almost any level or layer, **yet** they also see those templates & frameworks as an "interface" to something much bigger.
 >
 > My deep ethical 10+1 template framework has a partly "anti-fixed template framework" mechanism without being rigid :D
 
@@ -285,7 +285,7 @@ John moved from the partly anti-fixed framework to the auditor:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Has a closer connection to the essence of the deep ethical auditor... Who is the SEER doing the SEEING when AUDITING ANYTHING? :D
+> Has a closer connection to the essence of the deep ethical auditor... Who is the **seer** doing the **seeing** when **auditing anything**? :D
 
 — **John Kuhles 🦜🦋🌳**, 2 November 2026.
 
@@ -361,7 +361,7 @@ His “If not, say so!” also leaves a practical opening. A proposed connection
 
 John identified the paradox directly. “Auditing” can be misused, hijacked or remain fluid without grounded anchors. Adding anchors introduces assumptions, and those assumptions can participate in self-deception. An authority can then announce that it has “passed the highest self-audit” and turn its own procedure into a claim on others' obedience.
 
-> NO ONE can have godlike powers ffs :D (not even institutions).
+> **No one** can have godlike powers ffs :D (not even institutions).
 
 — **John Kuhles 🦜🦋🌳**, 2 November 2026.
 
@@ -391,7 +391,7 @@ The earlier edition reduced John's accompanying passage to a distinction between
 >
 > PS: “See all that is…” is not the same as “see all that is before me\*”.
 >
-> \* “before me” as in WHAT IS PRESENTED TO ME (whatever that is)
+> \* “before me” as in **what is presented to me** (whatever that is)
 >
 > And seeing for what it is… the face behind the mask, the hidden hand of the puppet master, and who controls the puppet masters!
 >

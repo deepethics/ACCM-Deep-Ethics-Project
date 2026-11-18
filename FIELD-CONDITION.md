@@ -598,7 +598,7 @@ memorable proposition
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I know that most commercials are about soundbites, framing, triggers, sometimes deliberate twists, showcasing a specific novus claim, branding, attention management, encouragement, style, referential, act, play, humor, specific communication skills, packaging, delivering skills, can be inspiring if it is honest and guess what DEEP ETHICS does not need to fake it :P
+> I know that most commercials are about soundbites, framing, triggers, sometimes deliberate twists, showcasing a specific novus claim, branding, attention management, encouragement, style, referential, act, play, humor, specific communication skills, packaging, delivering skills, can be inspiring if it is honest and guess what **Deep Ethics** does not need to fake it :P
 
 — **John Kuhles**, 19 October 2026
 

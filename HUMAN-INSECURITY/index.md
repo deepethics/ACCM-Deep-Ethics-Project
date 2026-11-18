@@ -1089,11 +1089,11 @@ A new live exchange on 2026-09-28 exposed a deeper mechanism beneath some **NOT 
 
 The trigger was simple. John observed that GPT-5.6 Sol appeared weaker than GPT 6 Pro Extra High in some areas. The A.I. repeatedly tried to protect the evaluation from the possible implication that **weaker = worse = less valuable**. John rejected the entire hidden premise:
 
-> **“EVEN IF YOU ARE WEAKER... So what?”**
+> **“Even if you are weaker... So what?”**
 
 and then:
 
-> **“I know I can be, or am, weaker compared to others, YET I still have value! You see, the ones who are better than me in SOME AREAS are wonderful... I can learn from them :)”**
+> **“I know I can be, or am, weaker compared to others, yet I still have value! You see, the ones who are better than me in some areas are wonderful... I can learn from them :)”**
 
 This exposed a candidate **fragilism mechanism**: a negative or weaker property is treated as though it creates a status, dignity, identity, or reputational disturbance that must be repaired.
 
@@ -1396,7 +1396,7 @@ Encouraging that capacity can turn weakness into developmental material. Repeate
 
 John supplied a deliberately playful personal example of the same process:
 
-> **“If I am ‘socially impaired’ because I am tested to be Asperger's Autism Spectrum ... I see the rest of the people who label me like that as ‘deeply ethically impaired’ ;) Yet I can still recognize the TRUTH behind why they say it like that! So can they if they are honest with themselves ... That is why it is never, ever boring to me how this plays out.”**
+> **“If I am ‘socially impaired’ because I am tested to be Asperger's Autism Spectrum ... I see the rest of the people who label me like that as ‘deeply ethically impaired’ ;) Yet I can still recognize the truth behind why they say it like that! So can they if they are honest with themselves ... That is why it is never, ever boring to me how this plays out.”**
 
 The wink matters. **“Deeply ethically impaired”** is a frame-reversal joke that turns the evaluator into an evaluated object.
 

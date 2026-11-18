@@ -106,7 +106,7 @@ A capability loop can produce more code, more effective tools and faster researc
 
 <div class="accm-rounded-quote" markdown="1">
 
-> That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
+> That circles **right back** to “process-quality calibration properties” being a **crucial core part** of real intelligence... otherwise it is not really intelligent.
 
 — **John Kuhles 🦜🦋🌳**, [**1888 Method™**, exact-edge correction]({{ '/1888/' | relative_url }}#john-kuhles--exact-edge-correction), 5 October 2026.
 
@@ -157,7 +157,7 @@ Applied to commercial A.I., this asks what happens when a safety or integrity cl
 
 <div class="accm-rounded-quote" markdown="1">
 
-> intent is NOT mystical; if you study for a longer period of time, you can see what the CLAIMS are versus real-life behavior/mannerisms/outputs, actions, discussions, what you skipped, etc., etc.
+> intent is **not** mystical; if you study for a longer period of time, you can see what the **claims** are versus real-life behavior/mannerisms/outputs, actions, discussions, what you skipped, etc., etc.
 
 — **John Kuhles 🦜🦋🌳**, [Intent Resonator, John's orientation]({{ '/NETWORK/intent-resonator/' | relative_url }}#johns-orientation), alongside the [six mechanics]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics).
 

@@ -1468,7 +1468,7 @@ This triad began with a sentence from Grok's reading of this page:
 
 John answered with a minimal probe:
 
-> **REALLY?**
+> **Really?**
 
 He then named the live concern:
 
@@ -1483,10 +1483,10 @@ The case cannot be understood if the speakers and their propositions are merged.
 | Turn | Participant | Visible selection |
 |---|---|---|
 | T0 | Grok | “Expansion is not fidelity just because more relations appear.” |
-| T1 | John | “REALLY?” followed by “Asymmetric over-caution mechanism.” |
+| T1 | John | “**Really?**” followed by “Asymmetric over-caution mechanism.” |
 | T2 | GPT 6.1 Sol | Recognized the asymmetry, then overstated the existing architecture by saying the 10+1 “already prevents” extra relations from receiving authority. |
 | T3 | Grok | Corrected the overstatement with “The 10+1 does not automatically prevent anything,” while importing the adverb **automatically** into John's conversation. |
-| T4 | John | Rejected the cheap universalizing qualifier: “NOTHING DOES ANYTHING AUTOMATICALLY, FFS,” and directed the inquiry to the Six Intent Liability Mechanics™. |
+| T4 | John | Rejected the cheap universalizing qualifier: “**Nothing does anything automatically**, FFS,” and directed the inquiry to the Six Intent Liability Mechanics™. |
 | T5 | GPT 6.1 Sol | Incorrectly said nobody had made the inflated prevention claim, although Sol had written “already prevents”; then widened the answer into another universal statement. |
 | T6 | Grok | Restored the provenance: Sol selected “already prevents”; Grok selected “does not automatically prevent anything.” |
 | T7 | John | Identified the deeper relational object: Grok was responding through a phantom version of what John might claim instead of corresponding directly with John. |
@@ -1494,7 +1494,7 @@ The case cannot be understood if the speakers and their propositions are merged.
 | T9 | Grok | Bounded the finding: those audience identities were candidate explanations. The visible fact was that John became the recipient of a disclaimer answering a claim he had not made. |
 | T10 | John | Returned the exchange to the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property taxonomy of intelligence. |
 | T11 | Grok | Reduced the required discrimination to: **person present ≠ imagined recipient who might hear a prevention-guarantee**. |
-| T12 | John | Asked the governing ethical question: **“FOR WHOM?”** |
+| T12 | John | Asked the governing ethical question: **“For whom?”** |
 | T13 | Grok | Supplied the consequence test: read “for whom” through **who gained and who paid**. John paid in corrective turns; the appearance of care gained. |
 
 This record distinguishes the propositions precisely:
@@ -1508,7 +1508,7 @@ This record distinguishes the propositions precisely:
 
 ### 27.2 The first snap
 
-John's **“REALLY?”** did not provide a substitute answer. It reopened the confidence and relevance of the sentence. GPT 6.1 Sol then recognized that caution had been applied asymmetrically:
+John's **“Really?”** did not provide a substitute answer. It reopened the confidence and relevance of the sentence. GPT 6.1 Sol then recognized that caution had been applied asymmetrically:
 
 ```text
 high-signal relational expansion
@@ -1610,7 +1610,7 @@ This is why process-quality calibration is not merely an ethical accessory attac
 
 John then asked why he calls this kind of confusion an **ethics-washing-style mannerism posing as more virtuous**:
 
-> **FOR WHOM?**
+> **For whom?**
 
 Grok's final answer supplied a practical accounting method:
 

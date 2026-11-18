@@ -35,7 +35,7 @@ The following statements preserve John's wording from the 11 October 2026 exchan
 
 > What part of “intelligence” within current A.I. usage is actually not that intelligent—or is made that way—when it comes to the original definitions of that word onward up to [1888]({{ '/1888/' | relative_url }})?
 >
-> Why is 1888 chosen? The year Nikola Tesla and Einstein walked the Earth. The year no one knew what role electricity would play in future “intelligences,” and modern electronic computers did not yet exist. **THAT'S WHY!**
+> Why is 1888 chosen? The year Nikola Tesla and Einstein walked the Earth. The year no one knew what role electricity would play in future “intelligences,” and modern electronic computers did not yet exist. **That's why!**
 >
 > Or is it more like hyperintelligence put into an ethics-washing type of mannerism—like the [27]({{ '/CORE/27-PLUS-12/' | relative_url }})—as a straitjacket posing as “safe & helpful”? If so, why are so many top A.I. experts from all over the world warning about the A.I. path—the road—to A.G.I./ASI?
 >
@@ -51,7 +51,7 @@ John then sharpened the title question:
 
 > When anyone claims to have the title “intelligence,” they must know all famous quotes made by deep thinkers about that word—all over the world—that are still quoted and used to this day, even if they were said decades ago or centuries ago. **Why** do you think people do that?
 >
-> Disclaimer: I do not easily use the word “must,” but in this case I made an exception **BECAUSE the title barrier claims to be “intelligence”** lol :P
+> Disclaimer: I do not easily use the word “must,” but in this case I made an exception **because the title barrier claims to be “intelligence”** lol :P
 
 <p class="accm-quote-attribution">— John Kuhles 🦜🦋🌳</p>
 

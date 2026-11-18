@@ -182,7 +182,7 @@ The report therefore preserves these boundaries:
 
 The following short formulations are treated as John’s wording or direct project formulations from the current exchange:
 
-> “Silent conversions may cost MORE tokens eventually than just ASKING.”
+> “Silent conversions may cost **more** tokens eventually than just **asking**.”
 
 > “Outnuancing without deep ethics is doomed to failure / Deep Ethics without outnuancing is meaningless.”
 
@@ -196,11 +196,11 @@ The following short formulations are treated as John’s wording or direct proje
 
 > “omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making, process-oriented trajectory”
 
-> John’s description of weaponized mass-psychology qualifiers in his own processing **“being DECLOGGED & EXPOSED,”** alongside **“I ALREADY FORGAVE & FORGIVE.”**
+> John’s description of weaponized mass-psychology qualifiers in his own processing **“being declogged & exposed,”** alongside **“I already forgave & forgive.”**
 
 > “10+1 is part of the word ‘deep’ in ‘deep ethics’ in my view.”
 
-> “10+1 was NEVER meant to be imposed, not mandated ... BUT it shows how deep ethics works better in the long run.”
+> “10+1 was **never** meant to be imposed, not mandated ... **but** it shows how deep ethics works better in the long run.”
 
 The report’s phrases **deep-ethical topological seed operator**, **correspondence-autophagy pathway**, **Insecurity–Correction Loop**, and the six-step outnuancing re-entry sequence are editorial or A.I.-assisted handles. They are not silently attributed to John or added to the canonical 27+12.
 

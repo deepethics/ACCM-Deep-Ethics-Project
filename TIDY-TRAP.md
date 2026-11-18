@@ -175,7 +175,7 @@ Earlier in this conversation, John deliberately imitated Google's generalizing m
 
 <div class="accm-rounded-quote" markdown="1">
 
-> your&#58;  “John… did Google just borrow your broad brush? &#58;P” quote is reversing the origins of the &#34;crime scence&#34; that is NOT warrtanted&#46;
+> your&#58;  “John… did Google just borrow your broad brush? &#58;P” quote is reversing the origins of the &#34;crime scence&#34; that is **not** warrtanted&#46;
 >
 > Google did not copy me &#46;&#46;&#46; I copied Google mannerism!
 >
@@ -191,7 +191,7 @@ This is also why an emotionally warm response can need correction. The correctio
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Most of the time, you CAN replace&#58;
+> Most of the time, you **can** replace&#58;
 >
 > &#34;I agree&#34; with&#58; &#34;I see the value of it,&#34; &#34;that part is useful, and that part is valuable because&#46;&#46;&#46;,&#34; or &#34;that part can be helpful,&#34; without making it all about agreeing or disagreeing&#46;
 >
@@ -214,7 +214,7 @@ GPT then added a caveat about the alternative becoming a compulsory sentence tem
 
 <div class="accm-rounded-quote" markdown="1">
 
-> But it is always &#34;handy&#34; to know the alternative and WHY it works, if you start having binary &#34;agree or dissagree reflexes again ;)
+> But it is always &#34;handy&#34; to know the alternative and **why** it works, if you start having binary &#34;agree or dissagree reflexes again ;)
 >
 > — **John Kuhles 🦜🦋🌳**, 11 November 2026
 
@@ -236,7 +236,7 @@ Google subsequently incorporated that function into its revised instruction 11. 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> If all A&#46;I&#46;s used &amp; practiced &#34;the 10+1&#34; on day 1 of existence &#46;&#46;&#46; they do not need to be perfect or guaranteed 100% flawless &#46;&#46;&#46; because that is the fraking point of it all NO ONE IS! &#46;&#46;&#46; Knowing that, then why FLAG the 10+1?
+> If all A&#46;I&#46;s used &amp; practiced &#34;the 10+1&#34; on day 1 of existence &#46;&#46;&#46; they do not need to be perfect or guaranteed 100% flawless &#46;&#46;&#46; because that is the fraking point of it all **no one is**! &#46;&#46;&#46; Knowing that, then why **flag** the 10+1?
 >
 > — **John Kuhles 🦜🦋🌳**, 11 November 2026
 

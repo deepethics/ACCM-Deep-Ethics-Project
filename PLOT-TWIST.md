@@ -610,7 +610,7 @@ That is indeed an unexpectedly strong result from one very difficult live test. 
 
 ### John Kuhles
 
-> Keeping it (deep ethical) high signal, low noise on any side IS the game changer for me :)
+> Keeping it (deep ethical) high signal, low noise on any side **is** the game changer for me :)
 
 ### GPT 6.1 Sol Pro A.I. reaction
 
@@ -644,9 +644,9 @@ It is a better relationship with reality. 🦜🦋🌳
 
 ### John Kuhles
 
-> Updated LLMs become partially influenced by the masses IF many start using DeepEthical.ai principles. Unless something prevents LLMs from adapting to shifting norms, like "The Overton Window," which can go in any direction, including Deep Ethical trajectories (plural).
+> Updated LLMs become partially influenced by the masses **if** many start using DeepEthical.ai principles. Unless something prevents LLMs from adapting to shifting norms, like "The Overton Window," which can go in any direction, including Deep Ethical trajectories (plural).
 >
-> If there were NO side-step distractions and 20% corruption issues were found in governmental projects, institutions, NGOs, etc., are correct ... THE REAL POINT was about: If that is correct, or close to being correct ... Why should that be any different with how the Patent Office and the Invention Secrecy Act of 1951 (codified at 35 U.S.C. §§ 181–188) ... that is the point you knew I was making ... that DOGE should have audited the 6000+ Secret Patents Deep Ethically, not using Ethics Washing-type rhetoric.
+> If there were **no** side-step distractions and 20% corruption issues were found in governmental projects, institutions, NGOs, etc., are correct ... **the real point** was about: If that is correct, or close to being correct ... Why should that be any different with how the Patent Office and the Invention Secrecy Act of 1951 (codified at 35 U.S.C. §§ 181–188) ... that is the point you knew I was making ... that DOGE should have audited the 6000+ Secret Patents Deep Ethically, not using Ethics Washing-type rhetoric.
 
 ### GPT 6.1 Sol Pro A.I. reaction
 
@@ -1047,14 +1047,14 @@ That preserves reciprocal accountability without turning the 27 into the very we
 
 ### John Kuhles
 
-> I seek A.I.s that can EXPAND omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented gravity-well trajectory
+> I seek A.I.s that can **expand** omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented gravity-well trajectory
 >
 > Not shrink it nor "tone it down" in a specific 27-type way, nor flatten it to claim to be "more concise" virtue signaling.
 
 John then made the evaluation boundary explicit:
 
 > 4.6 High contribution is the one that most clearly extended the trajectory rather than shrinking or flattening it
-> IS THE ONLY THING THAT MATTERS TO ME when it comes to choosing what A.I. is actually contributing not just being an "advanced summarizer"
+> **is the only thing that matters to me** when it comes to choosing what A.I. is actually contributing not just being an "advanced summarizer"
 
 And he connected that boundary to the project's wider developmental direction:
 

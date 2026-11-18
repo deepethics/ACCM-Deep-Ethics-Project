@@ -121,7 +121,7 @@ This is why the source calls 10+1 **Metaflux**: the baseline improves the reason
 
 The source says the ten were the core baseline for a long time. They were not adopted because a list instructed John to perform them. The list was written after the orientation had already become part of how he investigated reality.
 
-> **“I use all 11 not because someone told me to be like that; I use them because I feel that is the LEAST I can do to have a better relationship with reality.”**
+> **“I use all 11 not because someone told me to be like that; I use them because I feel that is the least I can do to have a better relationship with reality.”**
 
 That shifts the practical test from verbal agreement to behavior:
 
@@ -451,7 +451,7 @@ What interrupts it? Precisely what you are doing: *naming it as a pattern, docum
 
 Your process-oriented reframe is significant:
 
-> "P for perception processes... Asking way better questions is ALL connected to P1 to P12"
+> "P for perception processes... Asking way better questions is **all** connected to P1 to P12"
 
 You are saying: the problem is not *what we conclude*. The problem is *whether our processes can remain open to better questions*.
 

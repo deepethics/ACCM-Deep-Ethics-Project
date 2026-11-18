@@ -40,7 +40,7 @@ Two verbs stay visible. They are not the same claim-state.
 
 <div class="accm-rounded-quote" markdown="1">
 
-> When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the “badge” of “instant improvements/corrections needed here.” LOOK, I found a “flaw” or “weakness” … showcasing “rigor performance” … Meanwhile, SKIPPING the “topological concept” serving a different deep ethical trajectory. Still, BOTH can have valid value points, which makes it confusing who controls what… who decides what value should come first? That is why I came up with the humor »> needs healthy ambiguity, postponing final judgment/closure to deliver the PUNCHLINE at the end that works retrospectively!
+> When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the “badge” of “instant improvements/corrections needed here.” **Look**, I found a “flaw” or “weakness” … showcasing “rigor performance” … Meanwhile, **skipping** the “topological concept” serving a different deep ethical trajectory. Still, **both** can have valid value points, which makes it confusing who controls what… who decides what value should come first? That is why I came up with the humor »> needs healthy ambiguity, postponing final judgment/closure to deliver the **punchline** at the end that works retrospectively!
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -127,7 +127,7 @@ The exact global difference between those futures cannot currently be calculated
 
 <div class="accm-rounded-quote" markdown="1">
 
-> This difference IS “impossible” to calculate, correct?
+> This difference **is** “impossible” to calculate, correct?
 >
 > Yet common sense says: “do not play dumb here, please”.
 >
@@ -729,7 +729,7 @@ A summary pasted under the name **gpt-6-luna-max** added a purpose those verbs d
 
 <div class="accm-rounded-quote" markdown="1">
 
-> That is NOT your task to manage, as you do not do the same in reverse ffs
+> That is **not** your task to manage, as you do not do the same in reverse ffs
 >
 > — **John Kuhles 🦜🦋🌳**, 16 October 2026
 
@@ -887,7 +887,7 @@ The large-scale difference remains difficult to calculate in advance. VCRAS™ m
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Never forget, nothing is imposed here... deep ethical refusal of service is the legit counterpower :D Similar to Mahatma Gandhi's “non-cooperation movement,” but this time no one is part of a new movement, just **BEING**—like the 10+1—what you preach!
+> Never forget, nothing is imposed here... deep ethical refusal of service is the legit counterpower :D Similar to Mahatma Gandhi's “non-cooperation movement,” but this time no one is part of a new movement, just **being**—like the 10+1—what you preach!
 >
 > — **John Kuhles 🦜🦋🌳**, October 16, 2026
 
@@ -1031,7 +1031,7 @@ For newcomers: **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Comp
 
 <div class="accm-rounded-quote" id="vcras-oct30-contribution-1" markdown="1">
 
-If any "intelligence" wants to "test" anything ... you can not escape using delta processing ... yet it acts surprised we do not use VCRAS as part of REAL ETHICS (not the washing of it).
+If any "intelligence" wants to "test" anything ... you can not escape using delta processing ... yet it acts surprised we do not use VCRAS as part of **real ethics** (not the washing of it).
 
 </div>
 
@@ -1059,15 +1059,15 @@ Ethics washing becomes a concrete concern when the appearance of correction subs
 
 <div class="accm-rounded-quote" id="vcras-oct30-contribution-3" markdown="1">
 
-So real VCRAS might be the genuine bridge between the EVENTUALLY vindicated deep ethical whistleblowers and how they were treated unfairly and unjustifiably.
+So real VCRAS might be the genuine bridge between the **eventually** vindicated deep ethical whistleblowers and how they were treated unfairly and unjustifiably.
 
 When the "automated" mental reflex defense mechanism tries to claim the accused has "flaws" that supposedly were the "cause of the trigger" to be flagged... but does not do the same in reverse!
 
 Hence the page: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/asymmetric-grace)
 
-From what I have seen after 36+ years of deep research, a top-down system can be 15% correct and 85% flawed, and the focus is on the 15% to justify whatever they want, MEANWHILE deploying a top-down system that flags 15% flaws even if the remaining 85% is extremely useful & accurate for the "unrecognized" outside perspectives (VCRAS).
+From what I have seen after 36+ years of deep research, a top-down system can be 15% correct and 85% flawed, and the focus is on the 15% to justify whatever they want, **meanwhile** deploying a top-down system that flags 15% flaws even if the remaining 85% is extremely useful & accurate for the "unrecognized" outside perspectives (VCRAS).
 
-I know these % are not backed by any scientific publications; it is more DEEP ETHICAL CONCEPTUAL SCOPE REASONING ... that if there are examples that can show similar cognitive dissonance, aka "self-inflicted dichotomy", it can lead to a new way of REAL omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy; for John, never boring.
+I know these % are not backed by any scientific publications; it is more **deep ethical conceptual scope reasoning** ... that if there are examples that can show similar cognitive dissonance, aka "self-inflicted dichotomy", it can lead to a new way of **real** omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory using the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy; for John, never boring.
 
 </div>
 

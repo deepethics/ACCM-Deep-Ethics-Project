@@ -502,11 +502,11 @@ This framing does not borrow deployment evidence for conceptual work. It identif
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Making anything "inspectable" and making the "inspector" a judge... it must know HOW it assumes what the "inspected" is supposed to obey...
+> Making anything "inspectable" and making the "inspector" a judge... it must know **how** it assumes what the "inspected" is supposed to obey...
 >
-> What, for me, is fascinating is how deeply the role of topological multi-layered orientation trajectory is VERSUS the inspector not even wanting to go there because it assumes you need evidence or proof first ...
+> What, for me, is fascinating is how deeply the role of topological multi-layered orientation trajectory is **versus** the inspector not even wanting to go there because it assumes you need evidence or proof first ...
 >
-> When a process is the focus, not proof nor evidence, the outcomes are just a byproduct of a NEW untested method that needs validation via DOING IT FIRST, not waiting for "official approval of methods"; this is the very thing that prevents a real possible connection with the real world!
+> When a process is the focus, not proof nor evidence, the outcomes are just a byproduct of a **new** untested method that needs validation via **doing it first**, not waiting for "official approval of methods"; this is the very thing that prevents a real possible connection with the real world!
 >
 > — **John Kuhles 🦜🦋🌳**
 

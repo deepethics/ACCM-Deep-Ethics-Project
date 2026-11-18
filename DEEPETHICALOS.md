@@ -20,7 +20,7 @@ DeepEthicalOSâ„¢ explores an operating system (OS) environment in which **[PQCEâ
 
 <div class="accm-rounded-quote" markdown="1">
 
-> A CONCEPT PROJECT that needs testing
+> A **concept project** that needs testing
 
 > focussing first on Process Quality Calibration Evaluation (PQCE) before anything else.
 

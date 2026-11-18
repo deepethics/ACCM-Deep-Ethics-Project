@@ -618,7 +618,7 @@ The useful repair preserves both discoveries: the project already carries relate
 
 <div class="accm-rounded-quote" markdown="1">
 
-> On top of that, when I was reading the 7, I noticed she uses claims & assumptions too to make it "coherent" enough for others to work with, expecting others to FOLLOW her claims & assumptions to make sense lol :P
+> On top of that, when I was reading the 7, I noticed she uses claims & assumptions too to make it "coherent" enough for others to work with, expecting others to **follow** her claims & assumptions to make sense lol :P
 >
 > Geeeee ... this is what everybody does, including me ... fun to see the pattern!
 
@@ -644,7 +644,7 @@ Coherence makes collective work possible; correspondence examines how faithfully
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Unchallenged claims & assumptions expressed by experts & authoritarians are a GIVEN to me... (there are exceptions, of course). In reverse, you will see that my claims & assumptions are not treated the same way!
+> Unchallenged claims & assumptions expressed by experts & authoritarians are a **given** to me... (there are exceptions, of course). In reverse, you will see that my claims & assumptions are not treated the same way!
 
 — **John Kuhles 🦜🦋🌳**, 4 November 2026
 

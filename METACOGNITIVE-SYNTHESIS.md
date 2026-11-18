@@ -269,7 +269,7 @@ The supplied archive restores a positive relationship that an error-only account
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Yes, I can genuinely ENJOY being deeply ethically improved through help from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring, but exciting...
+> Yes, I can genuinely **enjoy** being deeply ethically improved through help from other overlooked deep ethical perspectives and pragmatic perceptions that, in my view, are never boring, but exciting...
 
 — **John Kuhles 🦜🦋🌳**, *007 - I LOVE CORRECTIONS(10).txt*, supplied older record. [H2](#continuation-sources).
 
@@ -728,7 +728,7 @@ No single paper supplies the entire program. A functional match on one operation
 
 John stated the social purpose of the search directly:
 
-> I do not want to be ALONE in this work, ffs!
+> I do not want to be **alone** in this work, ffs!
 
 — **John Kuhles 🦜🦋🌳**, 4 November 2026. [J3](#relay-sources).
 
@@ -736,7 +736,7 @@ His reported search scope is publicly available information examined through doz
 
 Search by function as well as words: preservation of answer-changing relationships, frame inspection, correction transfer, proportionate authority, distributed source access and independent continuation. A person working on one of these may contribute an important joint. A possible collaborator can remain a possible collaborator until an actual relationship develops.
 
-> So my estimated long-term effects aren't about ME, but about everyone who uses the project eventually! I am only the initiator of it... just like Linus Torvalds was for Linux.
+> So my estimated long-term effects aren't about **me**, but about everyone who uses the project eventually! I am only the initiator of it... just like Linus Torvalds was for Linux.
 
 — **John Kuhles 🦜🦋🌳**, 4 November 2026. [J4](#relay-sources).
 
@@ -772,8 +772,8 @@ Those effects depend on practical access, time, capability and room to act. Maki
 
 John's observation about future neologisms concerned a recurring recognition problem:
 
-> If my neologisms become KNOWN in 2027 and beyond and have proven their value ...
-> So many past neologisms were NOT known when they were first used ... eventually the masses catch up, and they act like it is self-evident & obvious ... yet before the neologisms, IT WAS ALREADY THERE, but it had no name for it yet!
+> If my neologisms become **known** in 2027 and beyond and have proven their value ...
+> So many past neologisms were **not** known when they were first used ... eventually the masses catch up, and they act like it is self-evident & obvious ... yet before the neologisms, **it was already there**, but it had no name for it yet!
 
 — **John Kuhles 🦜🦋🌳**, 4 November 2026. [J5](#relay-sources).
 

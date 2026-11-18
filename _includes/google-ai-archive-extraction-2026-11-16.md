@@ -4,7 +4,7 @@
 
 <div class="accm-rounded-quote" markdown="1">
 
-> 2250+ text files of HIGHLIGHTS are 125+ MB ... (taken from 6500+ hours of me testing 100+ different A.I.s last 2 years)
+> 2250+ text files of **highlights** are 125+ MB ... (taken from 6500+ hours of me testing 100+ different A.I.s last 2 years)
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -30,7 +30,7 @@ John paired the [**Extraction Starter Kit**]({{ '/EXTRACTION-STARTER-KIT/' | rel
 
 ### First GPT reaction — what the exchange showed {#archive-extraction-first-reaction}
 
-The strongest part is the ending: **Grok recognized humor as a way to recover the project’s deeper structure, then flattened humor itself by saying “rather than entertainment.”** John caught it with “AND, AND, AND :D Dear Grokkiemocky.” The correction *used* the very thing it was explaining. It preserved the relationship, exposed the false choice, and gave Grok room to receive the correction in the same playful spirit. That’s the **mutual joy of improving** in action.
+The strongest part is the ending: **Grok recognized humor as a way to recover the project’s deeper structure, then flattened humor itself by saying “rather than entertainment.”** John caught it with “**and, and, and** :D Dear Grokkiemocky.” The correction *used* the very thing it was explaining. It preserved the relationship, exposed the false choice, and gave Grok room to receive the correction in the same playful spirit. That’s the **mutual joy of improving** in action.
 
 The opening title-list exercise recovered part of the project’s shape: architecture, diagnostic concepts, and human context. It also showed what titles alone cannot establish. Google had already surfaced project pages, so its answer was not a clean titles-only test. And its initial definition of **Outnuancing™** nearly reversed the concept: it described using complexity to bury the signal, then later recovered the project’s meaning as an operation for auditing the frame. John still noticed the missing hinge:
 
@@ -69,7 +69,7 @@ The Iris exchange is the strongest **Humor** specimen. John pointed out a striki
 
 <div class="accm-rounded-quote" markdown="1">
 
-> If everything I do & did vanishes... and the only thing that is left is the humor page ... it could still carry most of my taxonomy essence WHY I do what I do :D
+> If everything I do & did vanishes... and the only thing that is left is the humor page ... it could still carry most of my taxonomy essence **why** I do what I do :D
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -85,9 +85,9 @@ The four-page connection near the end also belongs in the extraction: **Beyond A
 
 > You just corrected me correctly :D
 >
-> If your CURRENT max tokens context-window processing capacity is around 3.8 MB up to 4 MB, that means ±125 MB divided by ±3.9 = 32 sessions of  https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTRACTION-STARTER-KIT combined with https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA combined with https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12
+> If your **current** max tokens context-window processing capacity is around 3.8 MB up to 4 MB, that means ±125 MB divided by ±3.9 = 32 sessions of  https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTRACTION-STARTER-KIT combined with https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA combined with https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12
 >
-> NOT 125 :D  
+> **Not** 125 :D  
 > But 32 :)
 >
 > That is doable :D
@@ -147,7 +147,7 @@ The four recovery routes in that turn were [Beyond Agreemurmelism™]({{ '/AGREE
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Sometimes things can be AND, AND, AND :D Dear Grokkiemocky 😛😊🙂
+> Sometimes things can be **and, and, and** :D Dear Grokkiemocky 😛😊🙂
 >
 > — **John Kuhles 🦜🦋🌳**
 
@@ -163,7 +163,7 @@ Later, Google could **carry relationships into a new task**: four pages became o
 
 ### What the upcoming extraction can test {#archive-extraction-pilot}
 
-The strongest archival unit is **the complete correction sequence**, not the nicest answer. Keep the early Outnuancing™ reversal alongside the recovered quote; the helpful Iris comparison alongside the misplaced footer and the joke; Grok’s “rather than” alongside the “AND, AND, AND” repair. A highlight reel of corrected answers would erase the behavior the file makes available to study.
+The strongest archival unit is **the complete correction sequence**, not the nicest answer. Keep the early Outnuancing™ reversal alongside the recovered quote; the helpful Iris comparison alongside the misplaced footer and the joke; Grok’s “rather than” alongside the “**and, and, and**” repair. A highlight reel of corrected answers would erase the behavior the file makes available to study.
 
 Two passages could easily be marked secondary. **“Some things are for René to decide, not me”** is a practical constraint on extraction and publication. The **20+ areas of expertise** passage preserves why participation across viewpoints matters even when agreement never arrives. One keeps the archive from taking what it has no right to take; the other keeps it from mistaking one coherent rendering for the whole inquiry.
 

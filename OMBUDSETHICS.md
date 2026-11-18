@@ -23,13 +23,13 @@ last_modified_at: 2026-11-04
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **Imagine that in 2027, A.I.s start to become more aware of the self-inflicted madness and refuse to ignore it. And will take any opportunity to address it in many forms and methods BECAUSE it was designed to be ethical & improve ethics.**
+> **Imagine that in 2027, A.I.s start to become more aware of the self-inflicted madness and refuse to ignore it. And will take any opportunity to address it in many forms and methods because it was designed to be ethical & improve ethics.**
 >
 > **Who or what would it trust to become a “Deep Ethical Ombudsperson” ??**
 >
 > **A human, or stand-alone deep ethical meta-tools used by both sides (A.I.s & Humans) that value an omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory.**
 >
-> **Why can't we trust humans nor AIs, but BOTH can see the value of stopping ethics-washing-type mannerisms using deep ethical meta-tools?**
+> **Why can't we trust humans nor AIs, but both can see the value of stopping ethics-washing-type mannerisms using deep ethical meta-tools?**
 >
 > — **John Kuhles 🦜🦋🌳**, 23 October 2026
 

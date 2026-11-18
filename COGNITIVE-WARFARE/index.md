@@ -563,13 +563,13 @@ The report therefore ends where the **ACCM Deep Ethics Project** begins: not wit
 
 John Kuhles, 6 October 2026. Personal perspective. Spelling in the source line “OFF COURSE NOT” is corrected here to “Of course not.” The list and the six points are his.
 
-> EVERYTHING BELOW IS RELATED TO PROCESSING
+> **Everything below is related to processing**
 >
 > addressed behavior, observed behavior, preferred behavior, assumed behavior, managed behavior, inferred behavior, explained behavior, expected behavior, distorted behavior, omitted behavior, induced behavior, informal behavior, hedging behavior, submissive behavior, dominating behavior, neutral behavior, deeply curious behavior, protective behavior, aggressive behavior, defensive behavior, diverting behavior, fearful behavior, irrational behavior, distracting behavior, spoiled behavior, recalcitrant behavior, provocative behavior, sabotaging behavior, attacking behavior, disruptive behavior, constructive behavior, empowering behavior, creative behavior, pragmatic behavior — and dozens more.
 >
 > Added later the same day: projected behavior, recursive behavior, estimated behavior, dignifying behavior, regulated behavior, forced behavior, apathetic behavior, imposing behavior, latent behavior, being intense behavior, dormant behavior, reactionary behavior, avenging behavior, perfectionistic behavior, intrusive behavior, deceptive behavior, disingenuous behavior, shallow behavior, relaxed behavior, corrigible but not naive behavior, valuable behavior, looping behavior (“groundhog day effect”).
 >
-> NO MATTER WHAT QUALIFIER YOU USE, all of them:
+> **No matter what qualifier you use**, all of them:
 >
 > 1. Could be seen as truthful from a particular perspective.
 > 2. Can be biased by unchecked (distorted and/or incomplete) assumptions.
@@ -584,7 +584,7 @@ John Kuhles, 6 October 2026. Personal perspective. Spelling in the source line �
 >
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 >
-> Even “hilarious metacognitive reflective behavior” can be seen as a PROCESS also capable of producing deep ethical emergent properties; see [here]({{ '/HUMOR/' | relative_url }}).
+> Even “hilarious metacognitive reflective behavior” can be seen as a **process** also capable of producing deep ethical emergent properties; see [here]({{ '/HUMOR/' | relative_url }}).
 
 ### Master index, recalibrated sequence 001 to 124 {#behavior-index}
 
