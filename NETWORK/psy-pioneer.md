@@ -511,7 +511,7 @@ deep curiosity without credential dependency
 
 The earlier A.I. report below turns the dossier’s **if** into **when**. The correction applies to the reported outcome. John’s method of withholding details remains visible and can be examined on its own merits. Resolving the outcome would call for a contemporaneous record of what a particular caller supplied, when they supplied it and which details were public at that time. [Biography · The hotline account]({{ '/BIOGRAPHY/#gaasperplas-hotline' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}).
 
-John’s dossier also gives a case of re-examining his own explanation. After publicly proposing that some UFOs might involve humans from the future, he later wrote that he had grown more wary of his assumption that the beings in abduction accounts were “just us” from the future. That change belongs with the history of the hypothesis. It lets readers distinguish what he proposed publicly from the weight he later gave it. [Biography · Revisiting the hypothesis]({{ '/BIOGRAPHY/#future-humans-reassessment' | relative_url }}).
+In the dossier’s passage on abduction accounts, John recalls telling people the beings were “just us” from the future. He describes himself as “more wary about that assumption” in the same passage. The next paragraph describes the reception of his wider 1992 proposal about some UFOs coming from the future. He recalls ridicule at the time and reports that almost all of those colleagues later saw why he had raised the idea. The first passage concerns a specific assumption in the abduction discussion. The second is John’s account of how other researchers’ reactions changed. [Biography · The abduction passage and the 1992 proposal]({{ '/BIOGRAPHY/#future-humans-reassessment' | relative_url }}).
 
 ### Earlier A.I. report · 5 October 2026 {#earlier-psy-pioneer-report}
 
@@ -827,7 +827,7 @@ This page synthesizes John Kuhles’s statements, private archive specimens supp
 **Source comparison added:** 18 November 2026  
 **Status:** Public working draft; open to correction and expansion.
 
-The 18 November comparisons use *John Kuhles BIO - extended version(1).txt*, lines 532–534, for the classroom exercise, *My mother was among others(1).txt*, lines 40–52, for the family and media setting, and *UFO big dossier(1).txt*, lines 474–490 and 540, for the hotline and the later reassessment. The dated A.I. reports preserve earlier interpretations. The [source recheck](#gaasperplas-source-recheck) records how one of those interpretations changed the claim.
+The 18 November comparisons use *John Kuhles BIO - extended version(1).txt*, lines 532–534, for the classroom exercise, *My mother was among others(1).txt*, lines 40–52, for the family and media setting, and *UFO big dossier(1).txt*, lines 474–490 and 540–542, for the hotline, the assumption in the abduction passage and the reception of the 1992 proposal. The dated A.I. reports preserve earlier interpretations. The [source recheck](#gaasperplas-source-recheck) records how one of those interpretations changed the claim.
 
 ---
 

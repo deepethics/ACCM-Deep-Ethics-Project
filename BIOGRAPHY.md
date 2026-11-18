@@ -16,7 +16,7 @@ permalink: /BIOGRAPHY/
 > **Public working biography · expanded 18 November 2026**  
 > Written in the first person from source material supplied by John Kuhles. Personal experiences, interpretations, documented activities, research hypotheses, and project proposals are kept distinguishable. This is a living biography rather than a claim of personal infallibility.
 
-**Read the source comparisons** · [What my mother made possible](#what-my-mother-made-possible) · [Recognizing a name from incomplete letters](#recognizing-a-name) · [The Gaasperplas hotline](#gaasperplas-hotline) · [Revisiting an early hypothesis](#future-humans-reassessment).
+**Read the source comparisons** · [What my mother made possible](#what-my-mother-made-possible) · [Recognizing a name from incomplete letters](#recognizing-a-name) · [The Gaasperplas hotline](#gaasperplas-hotline) · [The abduction passage and the 1992 proposal](#future-humans-reassessment).
 
 
 
@@ -201,9 +201,11 @@ I was laughed at and ridiculed for proposing possibilities of this kind, includi
 
 The terminology itself also has a longer history than many contemporary discussions imply. I was already familiar with **UAP** through the work of Dr. Richard F. Haines and NARCAP, whose aviation-focused research documented thousands of pilot-related anomalous-phenomena cases. For me, “UAP” did not suddenly create a new subject; it became another term within a much longer research trajectory.
 
-### Revisiting the future-humans hypothesis {#future-humans-reassessment}
+### The abduction passage and the 1992 proposal {#future-humans-reassessment}
 
-In a later account in my dossier, I described how I had initially been skeptical of more troubling interpretations of abduction reports. I had told people the beings described were “just us” from the future. I also wrote that I had become more wary of that assumption. The possibility I raised in public and the weight I was willing to give it as an explanation are both part of the record.
+In the dossier’s passage about abduction accounts, I recalled being skeptical of negative interpretations and telling people that the beings described were “just us” from the future. In that passage I wrote that I was “more wary about that assumption” by then.
+
+The next paragraph describes how fellow researchers received the proposal I made publicly in 1992 about some UFOs coming from the future. I recalled being ridiculed for raising it. I also wrote that almost all of those colleagues later saw why I had raised the idea.
 
 ### Later resonance without retroactive proof
 
@@ -602,7 +604,7 @@ The editorial operation was: preserve the causal trajectory, correct spelling an
 |---|---|
 | *My mother was among others(1).txt* | Lines 40–52 give the purpose of the crèche, the connection through Radio 100, and the farm’s capacity, duration and invitation to bring creative talents. |
 | *John Kuhles BIO - extended version(1).txt* | Lines 105–109 place the public hypothesis in 1992 and 1996. Lines 532–534 describe the classroom name and the follow-up question. |
-| *UFO big dossier(1).txt* | Lines 474–490 supply the newspaper and hotline sequence, the withheld details, the conditional criterion and the separate mention of a caller. Line 540 records my later wariness about the future-humans assumption. |
+| *UFO big dossier(1).txt* | Lines 474–490 supply the newspaper and hotline sequence, the withheld details, the conditional criterion and the separate mention of a caller. Lines 540–542 record my wording about the assumption in the abduction passage and how I recall fellow researchers receiving the public proposal. |
 
 Line numbers identify the inspected copies. Follow the [Psy Pioneer source recheck]({{ '/NETWORK/psy-pioneer/#gaasperplas-source-recheck' | relative_url }}) to see how the public account was corrected.
 
