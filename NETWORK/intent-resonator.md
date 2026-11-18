@@ -17,8 +17,9 @@ permalink: /NETWORK/intent-resonator/
 | Recorded upload | Complete reading edition |
 |---|---|
 | `Reminder 6 Points About INTENT(5).txt` | [Read]({{ '/NETWORK/intent-resonator/context/context-01.html' | relative_url }}) · [Text download]({{ '/NETWORK/intent-resonator/context/context-01.txt' | relative_url }}) |
+| `6 Reminder Points About INTENT(2).txt` | [Read]({{ '/NETWORK/intent-resonator/context/context-02.html' | relative_url }}) · [Text download]({{ '/NETWORK/intent-resonator/context/context-02.txt' | relative_url }}) |
 
-This directory links the complete cited edition recovered so far. The existing article uses selected material. The current PDF snapshot predates this directory.
+This directory links the complete cited editions recovered so far; the two reminder files preserve distinct exchanges. The existing article uses selected material. The current PDF snapshot predates this directory.
 
 **BETA — source-based editorial synthesis**
 

@@ -14,6 +14,15 @@ date: 2026-10-29
 
 # A.I.s & UFO–UAP Disclosure
 
+## Uploaded Context Text Files {#uploaded-context-text-files}
+
+| Recorded upload | Complete reading edition |
+|---|---|
+| `cold starters kit(2).txt` | [Read]({{ '/AI-AND-UFO-UAP/context/context-01.html' | relative_url }}) · [Text download]({{ '/AI-AND-UFO-UAP/context/context-01.txt' | relative_url }}) |
+| `Post UFO-UAP Disclosure Effect.txt` | [Read existing edition]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.html' | relative_url }}) · [Text download]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.txt' | relative_url }}) |
+
+These are complete archival reading editions. The footage, dossier and reorganized cold-start-kit uploads cited [below](#source-files) remain edition- and coverage-unverified; no partial extract is presented as their complete text. The current article PDF predates this directory; the linked context files remain separate downloads.
+
 **Deep Ethical Topological Prompt Engineering™ — second domain application, first published batch.**
 
 [Explore 67 investigation topics](#ufo-scope-inventory) · [Follow 18 overlapping clusters](#ufo-clusters) · [Read what John’s files contribute](#source-files) · [Recover the coverage and next batch](#ufo-coverage)
