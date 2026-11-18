@@ -81,7 +81,7 @@ The historical displacement is the test. The principle can be understood without
 
 John’s explanation of the bridge is worth preserving verbatim:
 
-> **“Nobody wrote that in the 1930s; I wrote it in 2026 to make the case that IF it had been written then, it would have made sense in a non-computer world. Then A.I. sees the connection; the quote works across all levels of intelligence, whether biological, silicon-based, or otherwise.**
+> **“Nobody wrote that in the 1930s; I wrote it in 2026 to make the case that if it had been written then, it would have made sense in a non-computer world. Then A.I. sees the connection; the quote works across all levels of intelligence, whether biological, silicon-based, or otherwise.**
 >
 > **That is the bridge I am making. It is a universal deep ethical principle.”**
 

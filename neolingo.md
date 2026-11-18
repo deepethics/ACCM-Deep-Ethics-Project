@@ -23,7 +23,7 @@ John’s estimated long-term effects concern that expanding field of participant
 
 <div class="accm-rounded-quote" markdown="1">
 
-> So my estimated long-term effects aren't about ME, but about everyone who uses the project eventually! I am only the initiator of it... just like Linus Torvalds was for Linux.
+> So my estimated long-term effects aren't about **me**, but about everyone who uses the project eventually! I am only the initiator of it... just like Linus Torvalds was for Linux.
 >
 > — **John Kuhles 🦜🦋🌳**, 4 November 2026
 
