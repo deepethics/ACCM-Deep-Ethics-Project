@@ -842,7 +842,7 @@ The transcript is an attributed interaction record. Its comparisons with other p
 ### 15.8. Cross-field contributions and visible misrepresentation
 
 <div class="accm-rounded-quote">
-<blockquote><p>It feels like I can represent the toplogetics of 20+ different expertise &amp; specialized professions that each have a &quot;small percentage&quot; that is already close to what I am doing, YET only a &quot;small percentage&quot; not able to connect the dots with OTHER  &quot;small percentage&quot; in 1 or more of teh 20+ different expertise &amp; specialized professions.</p>
+<blockquote><p>It feels like I can represent the Topologetics™ of 20+ different fields of expertise &amp; specialized professions that each have a &quot;small percentage&quot; that is already close to what I am doing, YET only a &quot;small percentage&quot; are not able to connect the dots with another &quot;small percentage&quot; in 1 or more of those 20+ fields of expertise &amp; specialized professions.</p>
 <p>https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS</p>
 <p>And even if they all find each other doing already essential parts close to my ACCM Deep Ethics Project (Deep Ethical Topological Prompt Engineering™), it does not guarantee they can come to a mutual overall &quot;agreed&quot; conclusion. That is why I gave birth (neologisms) page:  https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism</p>
 <p>Now, if I can represent the overall deep ethical potential of it all (keeping the 10+1 active) ... ANY misrepresentation of what I am actually doing becomes super obvious really fast.</p>
