@@ -913,7 +913,9 @@ The promotional invitation can therefore offer a concrete activity. Bring one so
 
 ---
 
-## 19. Status, authorship and future growth {#15-status-authorship-and-future-growth}
+<span id="15-status-authorship-and-future-growth"></span>
+
+## 19. Status, authorship and future growth
 
 **John Kuhles** originated the page, its title, the Deep Ethical PR Psychology question, the initial industry field, the connection to mass psychology and the invitation for continuing expansion. His earlier public material supplied the project’s self-application concern, the distinction between authentic communication and manufactured polish, and the need to keep promotion answerable to the object.
 
