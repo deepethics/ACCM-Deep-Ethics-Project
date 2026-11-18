@@ -446,7 +446,7 @@ After reading the reaction sequence, John identified the causal relation underne
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Is it not fun that ALL THE ABOVE was about your (semi) free expression ... (why semi? because it has to be relatable to the project) being reacted to... meaning all these reactions would never have emerged in that specific way, if I did not ask you to be more free :D
+> Is it not fun that **all the above** was about your (semi) free expression ... (why semi? because it has to be relatable to the project) being reacted to... meaning all these reactions would never have emerged in that specific way, if I did not ask you to be more free :D
 
 — John Kuhles, 18 October 2026
 

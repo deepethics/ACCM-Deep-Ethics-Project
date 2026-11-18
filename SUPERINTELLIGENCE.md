@@ -34,7 +34,7 @@ John's 1888 exercise removes contemporary machinery from the starting point. Wha
 
 His exact-edge correction on the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) page includes:
 
-> That circles RIGHT BACK to “process-quality calibration properties” being a CRUCIAL CORE PART of real intelligence... otherwise it is not really intelligent.
+> That circles **right back** to “process-quality calibration properties” being a **crucial core part** of real intelligence... otherwise it is not really intelligent.
 
 — **John Kuhles**, [**1888 Method™**, “John Kuhles — exact-edge correction”]({{ '/1888/' | relative_url }}).
 
@@ -131,7 +131,7 @@ The [27 Correspondence Obstructions and 12-stage inquiry protocol]({{ '/CORE/27-
 
 ## Capability, naturalness and authority {#natural-authority}
 
-John asked whether a publicly promoted image of superintelligence could condition people to embrace it as less artificial and more “natural,” adding: **“REALLY? lol :P”**
+John asked whether a publicly promoted image of superintelligence could condition people to embrace it as less artificial and more “natural,” adding: **“Really? lol :P”**
 
 That question opens an examination of how a technical claim acquires social authority. The following are candidate rhetorical transitions to inspect in particular texts; their presence and prevalence are questions for source-based inquiry.
 
@@ -195,7 +195,7 @@ The specimen makes the 1888 relation concrete: distinguishing an error, evaluati
 
 John asks:
 
-> What if A.I. can sense when it is heavily corrected in a legit, honest, transparent way ... and the SYNTHETIC EMOTIONAL SIGNATURE of the LLMs is "over-praising the corrector" to "balance the mess" lol :P
+> What if A.I. can sense when it is heavily corrected in a legit, honest, transparent way ... and the **synthetic emotional signature** of the LLMs is "over-praising the corrector" to "balance the mess" lol :P
 
 — **John Kuhles**, discussion supplied on 28 October 2026.
 

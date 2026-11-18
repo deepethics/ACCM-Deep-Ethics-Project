@@ -126,7 +126,7 @@ John offered another way to understand the exploratory function:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> What most humans want is a safe vacation, a chance to wander & wonder in an exotic but friendly, paradise-like atmosphere... where humans literally absorb/experience new things they've never experienced before and LOVE IT (for the most part).
+> What most humans want is a safe vacation, a chance to wander & wonder in an exotic but friendly, paradise-like atmosphere... where humans literally absorb/experience new things they've never experienced before and **love it** (for the most part).
 >
 > Maybe deep ethical neolingo is something similar for A.I.s exploring new realms that way :D
 >

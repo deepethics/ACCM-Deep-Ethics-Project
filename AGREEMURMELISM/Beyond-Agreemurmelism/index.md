@@ -54,11 +54,11 @@ His objection is to making **agreement/disagreement status** the organizing axis
 
 John:
 
-> **"AGREE ↔ DISAGREE" both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things, and I can go on and on and on and on ... which amounts to a DETOUR of the Deep Ethics Processing!**
+> **"Agree ↔ disagree" both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things, and I can go on and on and on and on ... which amounts to a detour of the Deep Ethics Processing!**
 
 And:
 
-> **"THE VALUE OF ANYTHING CAN GO BEYOND AGREEMURMELISM."**
+> **"The value of anything can go beyond Agreemurmelism."**
 
 The important question therefore becomes larger than:
 
@@ -247,13 +247,13 @@ Rigor does not require manufacturing category 1 when the evidence currently supp
 
 John then sharpened the entire discussion:
 
-> **"If I am pointed at a flaw in what I do or did... and that 'pointing' was a LEGIT deep ethical process criticism... notice it is a higher-order metacognitive 'disagreement' that is actually NOT a 'disagreement'... Sounds weird... but is not."**
+> **"If I am pointed at a flaw in what I do or did... and that 'pointing' was a legit deep ethical process criticism... notice it is a higher-order metacognitive 'disagreement' that is actually not a 'disagreement'... Sounds weird... but is not."**
 
 He contrasted this with many ordinary uses of disagreement, which can communicate:
 
 > **I do not comply.  
 > I do not cooperate.  
-> I do not WANT to be part of that.  
+> I do not **want** to be part of that.  
 > I do not consent to that.  
 > I withdraw my participation in that.  
 > I do not want to be associated with that.  
@@ -529,7 +529,7 @@ That is a psychological and epistemic variable worth making visible.
 
 John's own formulation is:
 
-> **"Trust has to be earned, not blindly given... and even if someone EARNED your trust, it does not make the trustee 'perfect' or 'flawless'. Real discernment skills can never be 'spoon-fed'."**
+> **"Trust has to be earned, not blindly given... and even if someone earned your trust, it does not make the trustee 'perfect' or 'flawless'. Real discernment skills can never be 'spoon-fed'."**
 
 This is a process model of trust.
 
@@ -769,7 +769,7 @@ Meanwhile, the actual object was waiting:
 
 The page explicitly says:
 
-> **“AGREE ↔ DISAGREE” both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things…**
+> **“Agree ↔ disagree” both can be right, both can be flawed, both can be partially correct, both can be missing out or skipping things…**
 
 And:
 
@@ -907,7 +907,7 @@ Agreement and disagreement can report a position, but they are too low-resolutio
 
 <div class="accm-quote-box" markdown="1">
 
-> **I see the value & logic of your (in my view) legit corrections MORE than any possible agreement I can express :P**
+> **I see the value & logic of your (in my view) legit corrections more than any possible agreement I can express :P**
 >
 > — **John Kuhles**, October 21, 2026
 

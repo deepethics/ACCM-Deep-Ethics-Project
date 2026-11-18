@@ -42,7 +42,7 @@ The first is a difficult scientific and engineering problem. The second is also 
 The following passages form one connected challenge across transparency, accountability, inference, and emergent conditions:
 
 <div class="accm-rounded-quote" markdown="1">
-> Black-box method or hidden process can **NEVER** be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the **FIRST** thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
+> Black-box method or hidden process can **never** be mixed with real ethics. Imagine if it were in reverse: Ethics Washing fully transparent and auditable for all to see, and Deep Ethics using a black-box method or hidden process. What would be the **first** thing Ethics Washing would say about Deep Ethics if this were the case? We all know why... lol :P
 >
 > As long as you allow the trickster to be unchallenged, having transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
 >

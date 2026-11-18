@@ -74,7 +74,7 @@ The project calls this **[PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Me using a &#34;test sample&#34; that is known to be labeled &#34;controversial&#34; &#46;&#46;&#46; and test if we can become CONSTRUCTIVE about it, quote:
+> Me using a &#34;test sample&#34; that is known to be labeled &#34;controversial&#34; &#46;&#46;&#46; and test if we can become **constructive** about it, quote:
 >
 > — **John Kuhles 🦜🦋🌳**, 11 November 2026, Sample L2
 
@@ -124,7 +124,7 @@ Constructive work can recover an independent observation, reconnect a summary to
 
 <div class="accm-rounded-quote" markdown="1">
 
-> And yes, all sides CAN make mistakes; one side IMPOSEs stuff, the other side does not&#46;
+> And yes, all sides **can** make mistakes; one side **imposes** stuff, the other side does not&#46;
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Sample L354
 
@@ -174,7 +174,7 @@ Google's claim of systematic erasure exceeds what this particular exchange docum
 
 <div class="accm-rounded-quote" markdown="1">
 
-> The real deep ethical potential of left, right, center &amp; independents ARE ALREADY IN PLACE &#46;&#46;&#46; Eventually, millions of locally trained A&#46;I&#46;s can become deep ethical as well worldwide via my project ffs &#46;&#46;&#46;
+> The real deep ethical potential of left, right, center &amp; independents **are already in place** &#46;&#46;&#46; Eventually, millions of locally trained A&#46;I&#46;s can become deep ethical as well worldwide via my project ffs &#46;&#46;&#46;
 >
 > — **John Kuhles 🦜🦋🌳**, excerpt from Sample L693
 
@@ -371,7 +371,7 @@ This is the practical purpose behind the final clarification in the November sam
 
 <div class="accm-rounded-quote" markdown="1">
 
-> But you can not &#46;&#46;&#46; the fact that you can not IS the very thing I decided to start my GitHub page for LOCAL A&#46;I&#46;s to use the &#34;swarm collective intelligence&#34; effect&#46; See uploaded text files!
+> But you can not &#46;&#46;&#46; the fact that you can not **is** the very thing I decided to start my GitHub page for **local** A&#46;I&#46;s to use the &#34;swarm collective intelligence&#34; effect&#46; See uploaded text files!
 >
 > — **John Kuhles 🦜🦋🌳**, Sample L1003
 

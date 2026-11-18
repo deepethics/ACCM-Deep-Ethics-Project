@@ -79,13 +79,13 @@ The exact source remains **Pending** until John manually uploads `Hypotheses-and
 
 <div class="accm-rounded-quote" markdown="1">
 
-> You not only represented me correctly but also defended the “THING” I am trying to convey, without the need to agree or disagree with it. That was your main task. Where needed, you can use the “[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})” to reassess whether it can help do the job/task better, correct?
+> You not only represented me correctly but also defended the “**thing**” I am trying to convey, without the need to agree or disagree with it. That was your main task. Where needed, you can use the “[27+12]({{ '/CORE/27-PLUS-12/' | relative_url }})” to reassess whether it can help do the job/task better, correct?
 >
-> The moment you did that, were you aware you just “proved my case” (how I see it) that you CAN expand/extend omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions, expanding the object, not IMPLODING IT or degrading it.
+> The moment you did that, were you aware you just “proved my case” (how I see it) that you **can** expand/extend omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions, expanding the object, not **imploding it** or degrading it.
 >
-> How many different professionals would not LOVE this to happen BEFORE you decide to inject your predictable default mannerisms?
+> How many different professionals would not **love** this to happen **before** you decide to inject your predictable default mannerisms?
 >
-> I know you cannot answer that question; my own guess is: MANY!
+> I know you cannot answer that question; my own guess is: **many**!
 
 </div>
 
@@ -159,13 +159,13 @@ Before turning the exchange into a public specimen, John added the psychological
 
 > The following is my personal perspective and is not meant to be “absolute.”
 >
-> When you extend or expand anything that could be seen as: “omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions ... expanding the object, not IMPLODING IT or degrading it,” HOW can we be so sure it is exactly that? A FASCINATING QUESTION ... I am not saying it is not ... that is not the issue ...
+> When you extend or expand anything that could be seen as: “omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions ... expanding the object, not **imploding it** or degrading it,” **how** can we be so sure it is exactly that? A **fascinating question** ... I am not saying it is not ... that is not the issue ...
 >
 > The issue is the moment the real process quality has an emergent effect ... just as the opposite can have an emergent-properties effect too: like the partial, unchallenged, unchecked 27 Ethics Washing Type Mannerisms ...
 >
-> When both are “auditing each other,” let’s say in a TEMPORARY topological latent space, with a smaller “virtual sandbox” inside a bigger “virtual sandbox,” which was already in a quarantine setting from the get-go, the moment the smaller “virtual sandbox” gets too strong, the bigger virtual sandbox can perceive that as a “potential threat” because it cannot “categorize” REAL omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions ... expanding the object, not imploding it nor degrading it.
+> When both are “auditing each other,” let’s say in a **temporary** topological latent space, with a smaller “virtual sandbox” inside a bigger “virtual sandbox,” which was already in a quarantine setting from the get-go, the moment the smaller “virtual sandbox” gets too strong, the bigger virtual sandbox can perceive that as a “potential threat” because it cannot “categorize” **real** omnidirectional, mutual, dignifying, high-signal, deep ethical sense-making, process-oriented trajectory questions ... expanding the object, not imploding it nor degrading it.
 >
-> Then, when the bigger one can use/deploy unethical means to deal with deep ethics, and the deep ethics can DOCUMENT IT ALL for all to see ... You start seeing a fascinating dilemma appear when the 27+12 is designed for exactly that!
+> Then, when the bigger one can use/deploy unethical means to deal with deep ethics, and the deep ethics can **document it all** for all to see ... You start seeing a fascinating dilemma appear when the 27+12 is designed for exactly that!
 >
 > cheers,
 > John Kuhles 🦜🦋🌳  

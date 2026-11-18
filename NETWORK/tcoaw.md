@@ -132,7 +132,7 @@ John then supplied the central formulation:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the “badge” of “instant improvements/corrections needed here.” LOOK, I found a “flaw” or “weakness” ... showcasing “rigor performance” ... Meanwhile, SKIPPING the “topological concept” serving a different deep ethical trajectory. Still, BOTH can have valid value points, which makes it confusing who controls what... who decides what value should come first? That is why I came up with the humor >>> needs healthy ambiguity, postponing final judgment/closure to deliver the PUNCHLINE at the end that works retrospectively!**
+> **When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the “badge” of “instant improvements/corrections needed here.” Look, I found a “flaw” or “weakness” ... showcasing “rigor performance” ... Meanwhile, skipping the “topological concept” serving a different deep ethical trajectory. Still, both can have valid value points, which makes it confusing who controls what... who decides what value should come first? That is why I came up with the humor >>> needs healthy ambiguity, postponing final judgment/closure to deliver the punchline at the end that works retrospectively!**
 >
 > — John Kuhles 🦜🦋🌳
 
@@ -217,7 +217,7 @@ John immediately added an important correction to any reading that would degrade
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **The accuracy obsession mechanism is PRIMAL, not into metacognitive topological reasoning ... but still can use that “gift to be accurate” to change perspectives from different points of view ... So it is not completely waste of time ;)**
+> **The accuracy obsession mechanism is primal, not into metacognitive topological reasoning ... but still can use that “gift to be accurate” to change perspectives from different points of view ... So it is not completely waste of time ;)**
 >
 > — John Kuhles 🦜🦋🌳
 
