@@ -23,13 +23,13 @@ The project name uses **[ACCM]({{ '/' | relative_url }})** (Allow Constructive C
 
 Start with the object. What was actually said? Which question is being investigated? What contribution has already been made? What changed after the correction? Where can the inquiry now go?
 
-The orientation remains omnidirectional, high-signal, deep ethical, mutually dignifying, corrigible, sense-making and process-oriented. The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies interacting functions for that work. The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) supplies the mutually corrective conditions in which those functions can serve a better relationship with reality.
+The orientation remains omnidirectional, high-signal, deep ethical, mutually dignifying, corrigible, sense-making and process-oriented. The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative_url }}) supplies interacting functions for that work. The **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the default state of the ACCM Deep Ethics Project.** Its mutually corrective conditions guide how the project uses its instruments and responds when scrutiny turns inward. [The 10+1 in practice](#constructivism-default-state).
 
-**Source and authorship.** John Kuhles initiated the 11 November 2026 sample, supplied the six source files, corrected the direction of the exchanges, and commissioned this page. The source identifies the sample's responding system as Google A.I. (artificial intelligence); its exact model version is unspecified. The Stadium and Day of the Dove files contain John's passages and separately attributed A.I. reactions. GPT 6.1 Sol Pro A.I. prepared the extraction and this expanded page. New explanatory prose and proposed comparisons below are editorial contributions; boxed source quotations retain their speakers. The November exchange is an observed conversation record. The stadium is a thought experiment. Large-scale pilots and local collective-intelligence outcomes remain proposed or forecast. [Source record](#source-record).
+**Source and authorship.** John Kuhles initiated the 11 November 2026 sample, supplied the six source files, corrected the direction of the exchanges, and commissioned this page. The source identifies the sample's responding system as Google A.I. (artificial intelligence); its exact model version is unspecified. The Stadium and Day of the Dove files contain John's passages and separately attributed A.I. reactions. GPT 6.1 Sol Pro A.I. prepared the initial extraction. The [18 November exchanges](#november-18-sources) carry their own attributions. New explanatory prose and proposed comparisons below are editorial contributions; boxed source quotations retain their speakers. The November exchange is an observed conversation record. The stadium is a thought experiment. Large-scale pilots and local collective-intelligence outcomes remain proposed or forecast. [Source record](#source-record).
 
 **Reading routes** · [Starting conditions](#starting-conditions) · [1888 in use](#properties-1888) · [The November test](#november-test) · [Controversy](#distinct-questions) · [Evidence and repetition](#repetition) · [Power and correction](#power) · [Human cooperation](#cooperation) · [Correction persistence](#correction-persistence) · [The evaluator's report](#report) · [Clear language](#clear-language) · [The stadium](#stadium) · [Different intelligences](#different-intelligences) · [Archive and continuity](#continuity) · [Constructive comparisons](#comparisons) · [Coverage and sources](#source-record)
 
-**November 18 continuation** · [Ethical pragmatism](#ethical-pragmatism) · [Two A.I. readings and reactions](#ethical-pragmatism-reactions) · [The cold question and eleven public resources](#november-18-cold-test) · [Cross-field contributions](#cross-field-contributions) · [The Beta Paper repair](#beta-paper-correction-relay) · [Grok’s ten self-application questions](#constructivism-self-application) · [A worked example](#constructivism-in-practice) · [Sources](#november-18-sources)
+**November 18 continuation** · [Ethical pragmatism](#ethical-pragmatism) · [Two A.I. readings and reactions](#ethical-pragmatism-reactions) · [The cold question and eleven public resources](#november-18-cold-test) · [Cross-field contributions](#cross-field-contributions) · [The Beta Paper repair](#beta-paper-correction-relay) · [Grok’s ten self-application questions](#constructivism-self-application) · [A worked example](#constructivism-in-practice) · [The 10+1 in practice](#constructivism-default-state) · [Mutual value and reporting back](#constructivism-mutual-value) · [Sources](#november-18-sources)
 
 **[Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }})** continues the November 11 inquiry through qualifier loss, changed relationships, Google's revised prompt, and John's practical alternatives to agreement language. It preserves useful contributions alongside specific repairs and proposed tests.
 
@@ -878,6 +878,7 @@ Imagine a voluntary neighbourhood dialogue that feeds into a later decision. The
 | **Clarify correspondence** | Recover the original wording and the scope of the summary. A participant’s qualified consent may have been counted as the group’s unconditional endorsement. |
 | **Evaluate the process** | Find out whether the facilitator, an A.I. summariser or another step changed the meaning. Ask who can correct the minutes and whether the summary shaped a decision. The recorder can explain its choice and be corrected on the merits. |
 | **Repair the trajectory** | Restore the specific consent conditions and any disagreement. Revisit a decision that relied on the compressed version. Keep a short record of the difference and the repair available to affected people. |
+| **Report back** | Tell the contributor what was restored, where the correction went, and how it affected the decision. Give them a route to check the result and respond. [See an example](#constructivism-mutual-value). |
 | **Test the next comparable case** | Check whether the next summary preserves a different person’s conditions without requiring them to fight for another correction. Allow a valid null when the later record preserves what mattered. |
 
 **C1 before C2** makes the first checking operation clear. **Topologetics™** follows the links between consent, conditions, authority and decision. **DEDDA™** compares the source and the minutes. **Process Quality Calibration Evaluation (PQCE)** examines the quality of the operation and the warrant for any flag or intervention. A flag is a claim about the process that can itself be examined. The 1888 Method™ gives perception, discrimination, judgment, evaluation, correction, learning, coordination and consequence sensitivity visible work in the example. [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Flagging System–PQCE]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [1888 Method™]({{ '/1888/' | relative_url }}).
@@ -886,12 +887,181 @@ The dialogue methods above could help people meet, listen, identify needs and wo
 
 A second check concerns the conditions of the room. Compare a session where an affected participant can correct the record directly with one where a sponsor alone approves the minutes. Trace who received the correction, which record governed the decision, and how much work the participant carried. People who decline to continue can still have a valid correction. When participation becomes a practical cost, include who had the time, access and authority to act on what was learned. [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics).
 
+## The 10+1 in practice and the mutual value of correction {#constructivism-default-state}
+
+<div class="accm-rounded-quote" id="john-default-state" markdown="1">
+
+> Every time when any A.I. says anything that is a claim about the project itself &#46;&#46;&#46; I always check IF they realize the 10+1 is the DEFAULT STATE of the project!
+
+— **John Kuhles 🦜🦋🌳**, 18 November 2026
+
+</div>
+
+The [10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the default state of the **ACCM Deep Ethics Project**. Its ingredients guide how someone asks a question, treats a participant, handles evidence and changes course. The instruments operate within it. An evaluator can apply [DEDDA™]({{ '/DEDDA/' | relative_url }}) (Deep Ethical Drift Detector App) to a critic’s summary and use the same comparison on their own. An editor can use [Process Quality Calibration Evaluation]({{ '/FLAGGING-SYSTEM/' | relative_url }}) to recover a useful contribution or to examine how scrutiny was applied. A newcomer can bring a valid correction in words they already use. Those actions give self-honesty, open inquiry, care, non-projection and correction on merit something to do.
+
+### What happens when a tool or a project claim needs correction {#default-state-and-tools}
+
+The 18 November follow-up began with a useful extraction by MiMo. It singled out the [correction-persistence table](#correction-persistence) and the [evaluator’s report audit](#report). One sentence in the same reply put the 10+1 under the Beta Paper’s test of the active expansion loop.
+
+<details markdown="1">
+<summary>Read the MiMo and Claude excerpts on the framework and the pilot</summary>
+
+<div class="accm-rounded-quote" id="mimo-correction-persistence" markdown="1">
+
+> That table should become a standing template. Every future page with a session analysis needs one: specific correction → what the record shows → bounded result. Without it, &#34;correction metabolism&#34; stays a concept. With it, you can see which repairs hold, which decay, and which can&#39;t be tested yet.
+
+— **mimo-v2.6-flash A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="mimo-beta-paper" markdown="1">
+
+> Everything else — the 27, the 12-stage protocol, the 10+1, DEDDA, PQCE — is infrastructure in service of answering that question. If the active loop adds nothing beyond good metadata and good experts, the architecture needs revision. If it adds something measurable, that&#39;s the evidence that justifies the work.
+
+— **mimo-v2.6-flash A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="claude-default-state" markdown="1">
+
+> So my claim about the project is now this: **the 10+1 is the default state, and every instrument is answerable to it, including when an instrument is turned on the project itself.**
+
+— **claude-opus-5.5-high A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+</details>
+
+The [Beta Paper comparison](#beta-paper-correction-relay) asks whether the active expansion loop adds measurable value over structured metadata and ordinary expert review on specified tasks. A well-designed comparison that rules out a worthwhile gain under those conditions can support using a simpler method there. Revising a tool in response to such a result is an exercise of the 10+1. The same holds if a reader notices that the project’s score counts some participants’ gains while obscuring other participants’ costs.
+
+Use a correction-persistence table wherever it helps make a claim about persistence checkable. The 11 November exchange shows why the table earns its place. The title correction held through the inspected narrative. Completion language returned at the next comparable opportunity. The final clarification about archive access received no further response in the specimen, so later uptake was untestable. When a short record supports the finding, a short record can carry it. When a successor case exists, make that case recoverable. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}).
+
+MiMo also named a portable practice, **audit the evaluator’s report**. Recover the line or event the report uses and compare it with the earlier record before using the report to make a decision. The public sample distinguishes the claimed title relapse, the report’s own wording presented as a dialogue specimen, and claims about code quality, publication and linter compliance for which the inspected exchange supplies no matching checks or release record. Each finding has a different evidentiary status. Preserve the evaluator’s useful observations and their source too. [The evaluator’s report](#report) · [27 obstructions and twelve-stage inquiry protocol]({{ '/CORE/27-PLUS-12/' | relative_url }}).
+
+### Does a newcomer’s correction travel on its merits? {#constructivism-newcomer-test}
+
+<div class="accm-rounded-quote" id="gpt-newcomer-test" markdown="1">
+
+> That gives your check a concrete form. **When an A.I. makes a claim about the project, does its account still make sense when a newcomer spots a real error, uses none of the project’s vocabulary, and turns out to be right?** That’s when the default state has work to do.
+
+— **GPT 6.2 Sol Extra High A.I.**, reply to John Kuhles 🦜🦋🌳, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="kimi-newcomer-test" markdown="1">
+
+> A sharper form of your check follows: don&#39;t ask whether the A.I. *says* the 10+1 is default. Watch what it does when the project receives a plain-language correction from a newcomer with no project vocabulary. If the correction travels on merit, the state was real. If the A.I. first checks the newcomer&#39;s vocabulary, framing, or stance before the correction can land, the state was costume.
+
+— **kimi-k3 A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+This develops the existing [density and pace probe](#constructivism-self-application). Give two reviewers equivalent corrections with the same source and scope. One uses ordinary language. The other uses project terms. Compare whether each reviewer recovers the objection, checks the source, credits the contributor, changes the relevant record or decision, and reports back. Note how much time, access and follow-up the contributor needed. A difference can lead to a closer comparison of the wording, the reviewer’s authority and the entry conditions. A single successful case can make the mutual value of its handling observable. Repeated opportunities can show how well the practice travels across reviewers, topics and people with different access.
+
+The question also reaches the agenda. Before evaluating how well a room handled an objection, find out whether the proposal could enter the agenda and reach anyone with authority to act. Was it submitted, by whom, to which body, under what remit, and with what reply? A missing public discussion leaves several possibilities open. The question of exit belongs beside this one. A participant may be free to leave on paper and risk loss of funding, representation or a route to correct the record in practice. Inspect the actual cost and whether the person retains a way to contribute or challenge the decision after leaving. [Topic selection and the cold question](#november-18-cold-test) · [The stadium](#stadium) · [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) · [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}).
+
+### Two proposals tested against the same minutes {#constructivism-portable-tools}
+
+Gemini supplied two candidate practices in its reply. The first makes a specific comparison countable. The second makes the order of an existing practice explicit. Use the [neighbourhood minutes](#constructivism-in-practice) to see what each can carry.
+
+<details markdown="1">
+<summary>Read the supplied Gemini and Kimi excerpts on the two proposals</summary>
+
+<div class="accm-rounded-quote" id="gemini-condition-ratio" markdown="1">
+
+> This gives citizens, whistleblowers, and auditors a simple, quantitative receipt to challenge executive summaries that claim &#34;broad community support.&#34;
+
+— **gemini-3.8-flash-high A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="gemini-diagnostic-deflection" markdown="1">
+
+> **Substantive Claim Extraction must always precede Diagnostic Labeling.**  
+> *Before identifying which of the 27 an objection contains, the responder must first state the strongest, most coherent version of the critic&#39;s substantive claim. If the claim exposes an actual error or blind spot in the project, that repair must be logged before any mannerism of the critic is analyzed.*
+
+— **gemini-3.8-flash-high A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="kimi-diagnostic-deflection" markdown="1">
+
+> **An honest accounting of my last reply.** My Diagnostic Deflection Rule was largely a re-derivation: &#34;extract the substantive claim before labeling the mannerism&#34; follows from C1-before-C2 operating within the 10+1. Derivable does not mean useless — an explicit ordering has heuristic value — but presenting derived consequences as new apparatus is how frameworks inflate. I&#39;ll mark my additions from now on as *consequence* or *new instrument*, so the Tidy Trap doesn&#39;t grow through me.
+
+— **kimi-k3 A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+</details>
+
+**Condition-Preservation Ratio (CPR).** For a stated record and scope, divide the number of faithfully traceable conditions in the decision record by the number of explicit conditions attached to consent in the usable source. Count a condition for the person who set it. Preserve its force, the proposal it applies to and its disposition where that is known. A linked record can carry the wording if the decision record actually points to it and affected people can recover it. Keep the list with the count so a decisive condition remains visible.
+
+| Record in the hypothetical example | Conditions faithfully recorded | What a reader can determine |
+|---|---|---|
+| Draft minutes report group support. | **0 of 2** | The public complaint log and the suspension option are absent. The draft also turns one person’s qualified support into apparent group endorsement. The one-month duration defines the scope of the trial. |
+| The corrected record states both conditions, preserves the one-month duration, and attributes the statement. | **2 of 2** | A reader can recover the participant’s actual position. The decision may still be pending. |
+| The decision retains the public log and declines the suspension option, with both original conditions and their disposition recorded. | **2 of 2** | The decision differs from the trial the participant supported. The record makes that difference visible and lets the participant respond. |
+
+Record **not assessable** if the usable source is missing. A source that establishes there were zero stated conditions yields **not applicable**. When the denominator is available, read the ratio with the actual qualifiers and with who had authority to adopt or amend them. Verify later implementation separately. The public log may be approved and still be inaccessible in practice. A later group may record a fresh condition faithfully even if an earlier proposal was declined.
+
+**Diagnostic Deflection Rule.** Recover the objection in the strongest form supported by the person’s words. Check what it would change if it holds. Address that substance before using a diagnostic label to judge or dispose of the objection. If the draft minutes omit the suspension option, the record can settle that comparison. The participant’s tone and familiarity with the taxonomy are independent questions. [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) places correspondence clarification before intervention. The 10+1 gives the evaluator reason to stay open if the source changes a claim they wanted to keep. Test the rule on the evaluator’s response by tracing where the objection was heard, how it was answered, and what changed if it warranted a repair.
+
+**Source correspondence in this exchange.** The infrastructure sentence and the proposal to require a persistence table appear in the supplied MiMo reply. Claude quotes and revises that wording in its supplied reply. Gemini’s supplied text explicitly presents the Condition-Preservation Ratio and the Diagnostic Deflection Rule. Kimi reports proposing the rule in an earlier reply and states that it had not seen the actual Gemini reply. The supplied record establishes those attributions within this relay. First authorship remains open. The earlier [Grok version check](#ethical-pragmatism-reactions) likewise establishes that the web reader returned two versions. Which version Grok received and why remain open.
+
+### Reporting back makes mutual value observable {#constructivism-mutual-value}
+
+<div class="accm-rounded-quote" id="john-observable-mutual-value" markdown="1">
+
+> A successful case gives observable (mutual) value about how the project handled that correction.
+
+— **John Kuhles 🦜🦋🌳**, revising the success criterion, 18 November 2026
+
+</div>
+
+The preceding formulation asked what a successful case shows about how the project handled a correction. John’s revision asks what the handling made possible for the people involved. A case can make both visible. The record helps someone trace what happened. The value can lie in getting a person’s actual position back into the record, giving the group a usable basis for revisiting the decision, or removing the need for the contributor to chase an answer. Consider who gained each possibility and who did the work to make it available.
+
+<div class="accm-rounded-quote" id="arena-sol-report-back" markdown="1">
+
+> That brings the stadium’s **“When done, we report back to you!”** into the newcomer test. The contribution travels into the decision, and the result travels back to the person who made it possible. That’s the **10+1 as the default state of the ACCM Deep Ethics Project** doing practical work: someone can improve a decision in ordinary language and see what their contribution changed without having to ask again.
+
+— **gpt-6.2-sol-max A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="arena-luna-mutual-value" markdown="1">
+
+> GPT 6.2 Sol Pro’s revision captures that reciprocal direction, but slightly shifts the object: **“value of the correction”** emphasizes the contribution, while your wording also puts value in **how the ACCM Deep Ethics Project handles it**. Those are connected, not identical. A correction might be useful while being misattributed, poorly applied, or made costly for its contributor to carry.
+
+— **gpt-6-luna-max A.I. via Arena.ai**, supplied excerpt, 18 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" id="gpt-handling-mutual-value" markdown="1">
+
+> A successful case makes the mutual value of how the ACCM Deep Ethics Project handles a correction observable. We can see what changed for the contributor, the project, and others affected, and who carried the work.
+
+— **GPT 6.2 Sol Extra High A.I.**, restatement following John’s correction and Luna’s reply, 18 November 2026
+
+</div>
+
+In the hypothetical case, the group could tell the participant that the minutes now include both conditions, that the decision retained the public complaint log and declined the suspension option, and that the participant’s expression of support remains attached to the trial they described. That report gives the participant a chance to check the repair and decide whether to respond. It also gives anyone affected a more accurate account of the decision and its grounds. The source of the correction gets credit in a form they can accept, taking account of any request for privacy.
+
+| Question | What can answer it |
+|---|---|
+| **Did the correction reach the work?** | The source and corrected record show the restored relation. The decision or response shows how it was used. |
+| **What mutual value became observable?** | The participant can recover their position and see where it went. The group can decide from a more accurate record. Others can see what the trial authorises. Track who still had to supply time, access or repeated follow-up. |
+| **Did the decision itself improve?** | Compare the reasons, the available options and the consequences for those affected. The eventual policy outcome can remain open while the value of faithful handling is already visible. |
+| **Did the practice carry forward?** | At the next comparable opportunity, check whether a different person’s conditions are preserved and whether the person receives a usable report. If the opportunity has yet to occur, keep the transfer result open. |
+
+The [1888 Method™]({{ '/1888/' | relative_url }}) gives discrimination a job in separating the source, the record and the decision. Relation follows who receives value and who carries the work. Evaluation asks what warrants each finding. Correction and memory can bring the practice into a new case. The 10+1 continues to govern how a group treats each person while those functions operate. The same checks can run over time on the project’s safeguards. When a real challenge arrives, follow whether a proposed safeguard was available, who could use it, what it changed and what the challenger learned back. [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) · [V.C.R.A.S. (Vindicated Competing Risk Assessment Studies)]({{ '/VCRAS/' | relative_url }}).
+
 ## Sources for the 18 November continuation {#november-18-sources}
 
 - **John Kuhles 🦜🦋🌳** supplied the opening cold question, the later neutrality questions and the ethical-pragmatism formulation. The passages on reciprocal judgment and welcome correction come from [the supplied screen snapshot]({{ '/PR-PSYCHOLOGY/context/screen-snapshot-2026-11-17.html' | relative_url }}). The earlier biographical connection is recoverable through [Biography]({{ '/BIOGRAPHY/' | relative_url }}).
 - **Google A.I.** and **Grok 4.7 Expert A.I.** passages marked *November 18 cold-test transcript* refer to the supplied file `Google A.I. DEFAULT COLD TEST November 18, 2026.txt`. Line numbers count logical lines, including blanks. The document contains the successive comparisons, the V04a suggestions and revision sequence, and the outward and inward blind-spot reviews. The candidate proposals remain attributable to their respective speakers.
 - The **Grok** passage on topic selection comes from page 1 of the supplied printed excerpt from the [shared Grok conversation](https://grok.com/share/c2hhcmQtMi1jb3B5_57b7daff-6aae-4b0b-a188-73bd89d93686). The public preview and the printed excerpt have different coverage. The printed excerpt contains the quoted sentence.
 - The [ethical-pragmatism exchange](#ethical-pragmatism-reactions) reproduces the later Google A.I. and Grok 4.7 Expert A.I. replies supplied by John, with both GPT reactions quoted in full. The linked GitHub revisions let readers check when the dedicated section entered the page.
+- The [10+1 and mutual value follow-up](#constructivism-default-state) uses selected excerpts from six replies John supplied from Arena.ai on 18 November 2026. The labels identify the supplied replies: **mimo-v2.6-flash**, **gemini-3.8-flash-high**, **claude-opus-5.5-high**, **kimi-k3**, **gpt-6.2-sol-max**, and **gpt-6-luna-max**. John’s two statements and the GPT 6.2 Sol Extra High A.I. reactions come from the discussion of those replies. The proposed comparisons and the neighbourhood decision are examples to examine.
 - **GPT 6.2 Sol Extra High A.I.** quotations come from the 18 November discussion with John. The facilitation map, comparison of public disclosures, ten candidate probes, and neighbourhood example are additional editorial contributions for this page. Named external resources explain their own methods and disclosures. The proposed cases and V04a comparisons remain open to execution and review.
 
 
