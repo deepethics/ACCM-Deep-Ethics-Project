@@ -13,8 +13,10 @@ permalink: /BIOGRAPHY/
 
 # John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project
 
-> **Public working biography — October 2026**  
+> **Public working biography · expanded 18 November 2026**  
 > Written in the first person from source material supplied by John Kuhles. Personal experiences, interpretations, documented activities, research hypotheses, and project proposals are kept distinguishable. This is a living biography rather than a claim of personal infallibility.
+
+**Read the source comparisons** · [What my mother made possible](#what-my-mother-made-possible) · [Recognizing a name from incomplete letters](#recognizing-a-name) · [The Gaasperplas hotline](#gaasperplas-hotline) · [Revisiting an early hypothesis](#future-humans-reassessment).
 
 
 
@@ -98,20 +100,30 @@ When I was about eight, she asked me how I felt. I answered, “My vocabulary is
 
 Her life brought together psychology, investigation, creativity, broadcasting, publishing, activism, and practical care. Among other things, she:
 
-- helped establish one of the earliest Dutch crèches at a time when organized daycare was still treated by many as socially suspect;
+- helped establish an early Dutch crèche while organized daycare drew criticism. She wanted other mothers to have one, two, or three more days of freedom to do other things in their lives;
 - helped establish a shelter for women experiencing abuse within marriage;
 - worked through the Dutch National Ombudsperson to support divorced fathers seeking access to their children;
 - helped organize a major anti-nuclear demonstration in Amsterdam;
-- hosted programs on Amsterdam’s Radio 100;
+- hosted programs on Amsterdam’s Radio 100, where I later hosted programs on different subjects;
 - co-published a magazine in Leiden;
 - wrote seven books, including philosophical poetry;
 - worked as a private detective in a large store and taught me to observe people and crowds;
-- organized alternative Christmas and Easter gatherings where 60–80 people brought different creative abilities into one shared environment;
+- organized alternative Christmas and Easter gatherings and hired a farm with room for 60 to 80 people to stay for four days. She invited people from across the Netherlands to bring their different creative talents;
 - bought the multivolume *Grote Spectrum Encyclopedie* for me over several years, giving a highly curious child permission to travel across subjects rather than remain inside one curriculum.
+
+### What my mother made possible {#what-my-mother-made-possible}
+
+I remember her attention to what people could do once they had room to do it. The crèche gave mothers time they could use for purposes of their own. At the farm, people could bring abilities that would rarely come together in the same place. Radio 100 is another connection I can trace directly. My mother hosted there, and years later I used the same station to explore other subjects. I count those gatherings among the experiences that shaped me. [Psy Pioneer · From the family setting to inquiry]({{ '/NETWORK/psy-pioneer/#early-perception-source' | relative_url }}).
 
 She did not hand me the **ACCM Deep Ethics Project** as a theory. She helped create the early conditions from which it could eventually emerge: questioning authority without assuming personal infallibility, observing individuals and crowds, combining psychology with public action, treating unusual thought with dignity and humor, and keeping curiosity alive before I had the vocabulary to explain what I was perceiving.
 
 One of the last things she told me before she died was that she had begun to understand why I was so deeply involved in A.I. research. She was using Google A.I. more often on her smartphone, and the global scale of the change finally became tangible to her. She had taught me to observe psychology, crowds, institutions, and authority; decades later, A.I. entered her own daily life and helped her see why I could not simply look away from the emerging human–A.I. relationship.
+
+### Recognizing a name from incomplete letters {#recognizing-a-name}
+
+I remember writing a classmate’s first and last name and cutting small pieces out of the letters. I showed the paper for about two seconds, turned it over, and asked what they had seen. They recognized the name. When I asked what they had actually seen, most could not reproduce the marks on the paper.
+
+The name they recognized and the parts of the letters they could reproduce gave me two different answers to examine. Recognizing someone’s name is useful. Asking about the marks gives us a way to see what the mind supplied. I have wondered how something similar plays out when people make sense of a public story or a controversial report. [Psy Pioneer · The two questions in the classroom]({{ '/NETWORK/psy-pioneer/#early-perception-source' | relative_url }}).
 
 ## Personal experience and the pragmatic boundary
 
@@ -157,6 +169,14 @@ My method has never been “believe everything” or “debunk everything.” A 
 
 That distinction became especially important because media headlines often collapse “a report of a possible UFO” into “a UFO,” then announce that “the UFO” was a balloon, Venus, an aircraft, or something else. The resulting story teaches the public that a mystery was solved when the original object may only have been poorly represented from the beginning.
 
+### The Gaasperplas hotline and the details I held back {#gaasperplas-hotline}
+
+After the 1990 encounter, I shared the time, date and location with a local Sunday newspaper. The article also publicized the hotline. I received calls from people describing sightings, along with some prank calls. My goal was to find people who might have seen what I had seen at Gaasperplas. A caller could have picked up the publicly reported details straight from the newspaper.
+
+I deliberately kept about 20% of my account out of the press. If a caller could describe the part I had held back, I would have a reason to consider whether the account was independent. In my dossier I mention a caller I regarded as a genuine eyewitness who gave me a documentary on videotape. The passage leaves open whether that caller supplied the withheld Gaasperplas details.
+
+The newspaper also told me about a separate account dated the same day. It concerned a photograph taken in daylight at Het IJ. My report concerned a sighting at night at Gaasperplas. The shared date is the link described in that passage. The dossier leaves open whether the two reports concerned the same event. [Psy Pioneer · Source recheck and the earlier A.I. wording]({{ '/NETWORK/psy-pioneer/#gaasperplas-source-recheck' | relative_url }}).
+
 ### Historical continuity: UFO research did not begin with the UAP rebrand
 
 My involvement also gives me a long historical memory of the field. I do not regard the modern prominence of the term **“UAP”** as a reason to discard decades of earlier UFO research and begin again from whichever cases, institutions, or categories are currently considered respectable.
@@ -180,6 +200,10 @@ I also wondered whether this kind of model could provide one possible framework 
 I was laughed at and ridiculed for proposing possibilities of this kind, including by people within UFO research who believed such speculation made serious UFO/UAP research more difficult. I did not regard ridicule as evidence that the hypothesis was false, just as I would not regard later popularity or conceptual resonance as evidence that it is true.
 
 The terminology itself also has a longer history than many contemporary discussions imply. I was already familiar with **UAP** through the work of Dr. Richard F. Haines and NARCAP, whose aviation-focused research documented thousands of pilot-related anomalous-phenomena cases. For me, “UAP” did not suddenly create a new subject; it became another term within a much longer research trajectory.
+
+### Revisiting the future-humans hypothesis {#future-humans-reassessment}
+
+In a later account in my dossier, I described how I had initially been skeptical of more troubling interpretations of abduction reports. I had told people the beings described were “just us” from the future. I also wrote that I had become more wary of that assumption. The possibility I raised in public and the weight I was willing to give it as an explanation are both part of the record.
 
 ### Later resonance without retroactive proof
 
@@ -465,7 +489,7 @@ Related: [Topologetics™]({{ '/TOPOLOGETICS/#deep-ethical-contribution-state-gr
 
 ## The ACCM Deep Ethics Project
 
-The **ACCM Deep Ethics Project** is the practical result of this trajectory. Its purpose is to support omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making that remains process-oriented and corrigible.
+The **ACCM Deep Ethics Project** is the practical result of this trajectory. Its purpose is to support omnidirectional, mutual, dignifying, high-signal, deep-ethical sense-making that remains process-oriented and corrigible. The [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the project’s default state. It guides how the instruments are used and how a correction about the project or its origins is received. [The 10+1 in practice]({{ '/CONSTRUCTIVISM/#constructivism-default-state' | relative_url }}).
 
 It is not a demand that an A.I. or human agree with me. Agreement and disagreement are often downstream metadata. The prior task is to preserve the object well enough that any later evaluation is actually about the object rather than a safer, stronger, weaker, or more familiar reconstruction.
 
@@ -539,7 +563,7 @@ CEO & Founder, DeepEthical.ai
 
 His full-time UFO/UAP research began shortly after his own UFO encounter while he was on duty as a security officer in Gaasperplas, Amsterdam, in 1990. He established a UFO working group and public hotline, co-founded *Exposure Magazine* and *Frontier Magazine*, organized major international conferences in Amsterdam, delivered more than 80 lectures across five countries, appeared 22 times on Dutch national television, and produced or hosted more than 200 local radio and television programs. Willem de Ridder—who interviewed him three times and called him “a walking encyclopedia of suppressed news”—and media pioneer Luc Sala were decisive enabling figures in his early Amsterdam broadcasting work.
 
-Kuhles’s mother studied psychology at the University of Amsterdam and combined social activism, investigation, radio, publishing, writing, and practical care. She taught him to question authority without becoming arrogant, observe individuals and crowds, remain open to correction, and treat unusual thought with dignity and humor. Kuhles regards this early environment as one of the central conditions behind his later work.
+Kuhles’s mother studied psychology at the University of Amsterdam and combined social activism, investigation, radio, publishing, writing, and practical care. She taught him to question authority without becoming arrogant, observe individuals and crowds, remain open to correction, and treat unusual thought with dignity and humor. Her efforts to give other mothers time, host on Radio 100 and bring people with different creative abilities together help explain why Kuhles pays attention to the conditions under which people can contribute. He later hosted on the same station.
 
 During the last two years, he has spent 6,500+ hours conducting deep sessions with over 100 A.I.s. His archive contains 2,250+ highlighted text files totaling 125+ MB of raw text, drawn from 10+ GB of archived HTML interaction records. He studies how models preserve, distort, expand, caution, classify, or correct high-signal material—and whether acknowledged corrections influence later behavior.
 
@@ -571,6 +595,16 @@ This public working biography was synthesized from:
 The editorial operation was: preserve the causal trajectory, correct spelling and grammar, remove unnecessary repetition, separate claim types, organize chronology, retain distinctive examples and humor where they carry meaning, and avoid converting personal interpretation into established public fact.
 
 ---
+
+### Source comparison · 18 November 2026 {#biography-source-comparison}
+
+| Supplied file | Passages used in this update |
+|---|---|
+| *My mother was among others(1).txt* | Lines 40–52 give the purpose of the crèche, the connection through Radio 100, and the farm’s capacity, duration and invitation to bring creative talents. |
+| *John Kuhles BIO - extended version(1).txt* | Lines 105–109 place the public hypothesis in 1992 and 1996. Lines 532–534 describe the classroom name and the follow-up question. |
+| *UFO big dossier(1).txt* | Lines 474–490 supply the newspaper and hotline sequence, the withheld details, the conditional criterion and the separate mention of a caller. Line 540 records my later wariness about the future-humans assumption. |
+
+Line numbers identify the inspected copies. Follow the [Psy Pioneer source recheck]({{ '/NETWORK/psy-pioneer/#gaasperplas-source-recheck' | relative_url }}) to see how the public account was corrected.
 
 ## One person, many giants—and a method designed to travel without me
 

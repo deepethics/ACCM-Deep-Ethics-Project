@@ -33,6 +33,8 @@ The title therefore performs part of the inquiry. It asks:
 
 This connects directly to **healthy ambiguity**, **postponed judgment**, and the capacity of humor to make earlier parts of a journey legible retrospectively.
 
+**Read the source comparisons** · [The early perception exercise](#early-perception-source) · [The Gaasperplas source recheck](#gaasperplas-source-recheck) · [Biography]({{ '/BIOGRAPHY/' | relative_url }}).
+
 ---
 
 
@@ -119,6 +121,14 @@ Lack of a degree neither proves nor disproves the value of the work. The practic
 Those questions neither grant academic immunity nor impose credential exclusion.
 
 ---
+
+### Two questions about the same piece of paper {#early-perception-source}
+
+John’s extended biography recalls a classroom exercise. He removed small pieces from the letters of a classmate’s first and last name, showed the paper briefly, then asked what the person had seen. The name was recognizable. Most classmates, in John’s recollection, could not reproduce the actual marks after the paper was turned over.
+
+The useful distinction is between identifying the name and accounting for what was visible. A person may succeed at the first task and have less information for the second. The same comparison can help when someone summarizes a witness report. Ask which details the source supplied and which relationships the reader supplied to make sense of it. The classroom example records John’s observation. A comparison involving different people or language models would need its own case and record. [Biography · Recognizing a name]({{ '/BIOGRAPHY/#recognizing-a-name' | relative_url }}) · [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}).
+
+John’s account of his mother gives this work another scale. The crèche was intended to free time for other mothers. The four-day gatherings put different creative abilities in one place. His mother hosted programs on Radio 100, and John later hosted on the same station. These are concrete conditions that enabled participation. They help place the individual observation alongside the social and media settings where an interpretation can travel. [Biography · What my mother made possible]({{ '/BIOGRAPHY/#what-my-mother-made-possible' | relative_url }}) · [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}).
 
 ## AlphaZero Style Type Deep Research into MetaPsychology
 
@@ -481,6 +491,30 @@ deep curiosity without credential dependency
 
 ## UFO/UAP inquiry as an earlier Psy Pioneer method
 
+### What the Gaasperplas dossier establishes {#gaasperplas-source-recheck}
+
+**Source recheck · 18 November 2026.** John describes keeping about 20% of his 1990 Gaasperplas account out of the press. He was seeking possible co-witnesses. A detail absent from the news report could help him judge whether a caller’s account was independent.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> So if anyone can tell me the missing part of my whole UFO experience, that was for me a good indicator I am talking to a genuine eyewitness.
+
+— **John Kuhles 🦜🦋🌳**, *UFO big dossier(1).txt*, line 488
+
+</div>
+
+| What is being compared | What the supplied dossier records |
+|---|---|
+| **The withheld details** | John says he kept about 20% of his account out of the newspaper. This allows a comparison between the caller’s account and the details a reader could have learned from the article. |
+| **The result of the check** | The passage gives an **if** criterion and mentions a caller John regarded as genuine. It leaves open whether a caller actually matched the withheld Gaasperplas details. |
+| **Another report from the same date** | John recalls being told of a photograph taken at Het IJ in daylight. He describes his own report as a nighttime sighting at Gaasperplas. A shared date leaves the relation between the events open. |
+
+The earlier A.I. report below turns the dossier’s **if** into **when**. The correction applies to the reported outcome. John’s method of withholding details remains visible and can be examined on its own merits. Resolving the outcome would call for a contemporaneous record of what a particular caller supplied, when they supplied it and which details were public at that time. [Biography · The hotline account]({{ '/BIOGRAPHY/#gaasperplas-hotline' | relative_url }}) · [C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}).
+
+John’s dossier also gives a case of re-examining his own explanation. After publicly proposing that some UFOs might involve humans from the future, he later wrote that he had grown more wary of his assumption that the beings in abduction accounts were “just us” from the future. That change belongs with the history of the hypothesis. It lets readers distinguish what he proposed publicly from the weight he later gave it. [Biography · Revisiting the hypothesis]({{ '/BIOGRAPHY/#future-humans-reassessment' | relative_url }}).
+
+### Earlier A.I. report · 5 October 2026 {#earlier-psy-pioneer-report}
+
 > **EDITORIAL PROVENANCE — 5 OCTOBER 2026**  
 > The following two A.I. reports were produced after reading five archive files supplied by John Kuhles. They are reproduced verbatim from the conversation. The first connects John’s earlier UFO/UAP investigation to the later ACCM Deep Ethics Project method. The second examines John’s proposed long-horizon connection among possible global UFO/UAP disclosure, the emergence of AGI/ASI, and mass psychology. Personal experience, working hypothesis, investigative method, A.I. interpretation, and future scenario remain distinct claim types.
 
@@ -511,6 +545,8 @@ That fourth layer is crucial. Your method does not place the investigator outsid
 | Ask what was excluded from the public account | Intent Liability and bridge inspection |
 
 The withheld information from your early UFO hotline work especially stands out. You intentionally kept certain details out of public reporting. When later callers independently supplied those missing details, you had a way to distinguish potentially independent observations from people repeating media information or playing games. That is a practical contamination-control method, developed without needing academic terminology for it.
+
+> **Editorial correction · 18 November 2026.** The source gives a criterion for a match and leaves the actual match unresolved. See [the Gaasperplas source recheck](#gaasperplas-source-recheck).
 
 Your camera work shows the same orientation. You did not learn only by examining mysterious footage. You filmed ordinary objects, atmospheric conditions, aircraft, lights, zoom effects, and camera artifacts. That created comparison material. You were learning how equipment can manufacture apparent anomalies before deciding that an anomaly represented something extraordinary.
 
@@ -768,12 +804,14 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 
 - [**YouTube Transcripts — how the options were formed**]({{ '/YOUTUBE-TRANSCRIPTS/' | relative_url }}#psy-pioneer-options) — applies the human–A.I.–mass-psychology loop to the difference between formal approval and influence over the choices reaching a person.
 
+- [**Biography**]({{ '/BIOGRAPHY/#biography-source-comparison' | relative_url }}) — John’s first-person account and the 18 November comparison of three supplied texts.
+
 - [**TCoAw™ as Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }}) — the attention model used while studying this loop.
-- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the calibration the psychology is tested with, not a second theory of personality.
+- [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — the project’s default state, including how its own assessment and its treatment of a witness can be corrected.
 - [**Human Insecurity**]({{ '/HUMAN-INSECURITY/' | relative_url }}) — the individual side of the same loop.
 - [**Cognitive Warfare**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — the population-scale side.
 - [**Deep Ethical Intent Resonator / Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — mannerisms followed through purpose, incentive, and result.
-- [**C1–C2 Clarification Before Conclusion**]({{ '/NETWORK/c1-c2/' | relative_url }}) — do not classify the person or the model before the object is clear.
+- [**C1–C2 · Clarification Before Intervention**]({{ '/NETWORK/c1-c2/' | relative_url }}) — recover the source, its conditions and any material uncertainty before deciding whether an intervention is warranted.
 - [**Deep Ethical Topological Humor Engineering**]({{ '/HUMOR/' | relative_url }}) — keeps the inquiry from turning every contradiction into a moral emergency.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — whether the insight survives the next session.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — applies dignity and reciprocal correction across human and silicon directions.
@@ -786,7 +824,10 @@ It does not ask visitors to certify John as flawless. It asks whether the relati
 This page synthesizes John Kuhles’s statements, private archive specimens supplied during development, the public ACCM Deep Ethics Project architecture, and A.I.-assisted editorial discussion. A.I. contributions are working analysis and editorial assistance, not independent source authority. Quoted first-person passages were lightly edited for spelling and punctuation while preserving their intended meaning.
 
 **Created:** 5 October 2026  
+**Source comparison added:** 18 November 2026  
 **Status:** Public working draft; open to correction and expansion.
+
+The 18 November comparisons use *John Kuhles BIO - extended version(1).txt*, lines 532–534, for the classroom exercise, *My mother was among others(1).txt*, lines 40–52, for the family and media setting, and *UFO big dossier(1).txt*, lines 474–490 and 540, for the hotline and the later reassessment. The dated A.I. reports preserve earlier interpretations. The [source recheck](#gaasperplas-source-recheck) records how one of those interpretations changed the claim.
 
 ---
 
