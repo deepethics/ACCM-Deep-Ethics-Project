@@ -16,7 +16,7 @@ permalink: /BIOGRAPHY/
 > **Public working biography · expanded 18 November 2026**  
 > Written in the first person from source material supplied by John Kuhles. Personal experiences, interpretations, documented activities, research hypotheses, and project proposals are kept distinguishable. This is a living biography rather than a claim of personal infallibility.
 
-**Read the source comparisons** · [What my mother made possible](#what-my-mother-made-possible) · [Recognizing a name from incomplete letters](#recognizing-a-name) · [The Gaasperplas hotline](#gaasperplas-hotline) · [The abduction passage and the 1992 proposal](#future-humans-reassessment).
+**Read the source comparisons** · [What my mother made possible](#what-my-mother-made-possible) · [Recognizing a name from incomplete letters](#recognizing-a-name) · [The Gaasperplas hotline](#gaasperplas-hotline) · [The abduction passage and the 1992 proposal](#future-humans-reassessment) · [My 2026 clarification](#future-humans-2026-clarification).
 
 
 
@@ -206,6 +206,20 @@ The terminology itself also has a longer history than many contemporary discussi
 In the dossier’s passage about abduction accounts, I recalled being skeptical of negative interpretations and telling people that the beings described were “just us” from the future. In that passage I wrote that I was “more wary about that assumption” by then.
 
 The next paragraph describes how fellow researchers received the proposal I made publicly in 1992 about some UFOs coming from the future. I recalled being ridiculed for raising it. I also wrote that almost all of those colleagues later saw why I had raised the idea.
+
+#### My 2026 clarification {#future-humans-2026-clarification}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I told everybody **PART** of the real UFOs could be &#34;just us&#34; but from the future &#46;&#46;&#46; Now am more wary about that assumption due to deeper insights what Transhumanism & &#34;Agenda2030&#34; really is about because part of that &#34;us from the future&#34; could be a trajectory timeline that originates from the Transhumanism & &#34;Agenda2030&#34; narratives and part of that could go rogue!
+>
+> Hence the chaos & confusion!
+
+— **John Kuhles 🦜🦋🌳**, 18 November 2026
+
+</div>
+
+**Part** sets the scope of the hypothesis. The update also identifies what makes me more wary. A possible timeline could arise from the narratives I name, and part of that trajectory could go rogue. These possibilities belong to my account of why the picture could be confusing. [Psy Pioneer · John’s 2026 clarification]({{ '/NETWORK/psy-pioneer/#future-humans-2026-clarification' | relative_url }}).
 
 ### Later resonance without retroactive proof
 
@@ -606,7 +620,7 @@ The editorial operation was: preserve the causal trajectory, correct spelling an
 | *John Kuhles BIO - extended version(1).txt* | Lines 105–109 place the public hypothesis in 1992 and 1996. Lines 532–534 describe the classroom name and the follow-up question. |
 | *UFO big dossier(1).txt* | Lines 474–490 supply the newspaper and hotline sequence, the withheld details, the conditional criterion and the separate mention of a caller. Lines 540–542 record my wording about the assumption in the abduction passage and how I recall fellow researchers receiving the public proposal. |
 
-Line numbers identify the inspected copies. Follow the [Psy Pioneer source recheck]({{ '/NETWORK/psy-pioneer/#gaasperplas-source-recheck' | relative_url }}) to see how the public account was corrected.
+Line numbers identify the inspected copies. The [2026 clarification](#future-humans-2026-clarification) is the wording I supplied on 18 November 2026 for revisiting the statement at line 540. Follow the [Psy Pioneer source recheck]({{ '/NETWORK/psy-pioneer/#gaasperplas-source-recheck' | relative_url }}) to see how the public account was corrected.
 
 ## One person, many giants—and a method designed to travel without me
 

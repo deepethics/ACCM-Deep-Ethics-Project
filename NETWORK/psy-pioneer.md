@@ -33,7 +33,7 @@ The title therefore performs part of the inquiry. It asks:
 
 This connects directly to **healthy ambiguity**, **postponed judgment**, and the capacity of humor to make earlier parts of a journey legible retrospectively.
 
-**Read the source comparisons** · [The early perception exercise](#early-perception-source) · [The Gaasperplas source recheck](#gaasperplas-source-recheck) · [Biography]({{ '/BIOGRAPHY/' | relative_url }}).
+**Read the source comparisons** · [The early perception exercise](#early-perception-source) · [The Gaasperplas source recheck](#gaasperplas-source-recheck) · [John’s 2026 clarification](#future-humans-2026-clarification) · [Biography]({{ '/BIOGRAPHY/' | relative_url }}).
 
 ---
 
@@ -513,6 +513,20 @@ The earlier A.I. report below turns the dossier’s **if** into **when**. The co
 
 In the dossier’s passage on abduction accounts, John recalls telling people the beings were “just us” from the future. He describes himself as “more wary about that assumption” in the same passage. The next paragraph describes the reception of his wider 1992 proposal about some UFOs coming from the future. He recalls ridicule at the time and reports that almost all of those colleagues later saw why he had raised the idea. The first passage concerns a specific assumption in the abduction discussion. The second is John’s account of how other researchers’ reactions changed. [Biography · The abduction passage and the 1992 proposal]({{ '/BIOGRAPHY/#future-humans-reassessment' | relative_url }}).
 
+#### John’s 2026 clarification {#future-humans-2026-clarification}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I told everybody **PART** of the real UFOs could be &#34;just us&#34; but from the future &#46;&#46;&#46; Now am more wary about that assumption due to deeper insights what Transhumanism & &#34;Agenda2030&#34; really is about because part of that &#34;us from the future&#34; could be a trajectory timeline that originates from the Transhumanism & &#34;Agenda2030&#34; narratives and part of that could go rogue!
+>
+> Hence the chaos & confusion!
+
+— **John Kuhles 🦜🦋🌳**, 18 November 2026
+
+</div>
+
+This clarification places the wariness inside John’s hypothesis about a possible future trajectory. The hypothesis applies to **part** of what John calls real UFOs. A timeline arising from the narratives he names is itself a possibility, as is a rogue development within that timeline. His wording keeps each possibility conditional. [Biography · My 2026 clarification]({{ '/BIOGRAPHY/#future-humans-2026-clarification' | relative_url }}).
+
 ### Earlier A.I. report · 5 October 2026 {#earlier-psy-pioneer-report}
 
 > **EDITORIAL PROVENANCE — 5 OCTOBER 2026**  
@@ -827,7 +841,7 @@ This page synthesizes John Kuhles’s statements, private archive specimens supp
 **Source comparison added:** 18 November 2026  
 **Status:** Public working draft; open to correction and expansion.
 
-The 18 November comparisons use *John Kuhles BIO - extended version(1).txt*, lines 532–534, for the classroom exercise, *My mother was among others(1).txt*, lines 40–52, for the family and media setting, and *UFO big dossier(1).txt*, lines 474–490 and 540–542, for the hotline, the assumption in the abduction passage and the reception of the 1992 proposal. The dated A.I. reports preserve earlier interpretations. The [source recheck](#gaasperplas-source-recheck) records how one of those interpretations changed the claim.
+The 18 November comparisons use *John Kuhles BIO - extended version(1).txt*, lines 532–534, for the classroom exercise, *My mother was among others(1).txt*, lines 40–52, for the family and media setting, and *UFO big dossier(1).txt*, lines 474–490 and 540–542, for the hotline, the assumption in the abduction passage and the reception of the 1992 proposal. John’s [2026 clarification](#future-humans-2026-clarification), supplied on 18 November, revisits the wording at line 540. The dated A.I. reports preserve earlier interpretations. The [source recheck](#gaasperplas-source-recheck) records how one of those interpretations changed the claim.
 
 ---
 
