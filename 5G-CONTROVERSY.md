@@ -383,7 +383,7 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 
 ### Research statement supplied 30 October 2026
 
-> I DO HAVE VAST DATABASE of many aspects of 5G ties to so many other "controversial topics" like "Crowd Control Weapons" ... MIMO Phased Array Beam Forming can easily be weapnized because it originally came from the military is my point of view! 
+> I **do have vast database** of many aspects of 5G ties to so many other "controversial topics" like "Crowd Control Weapons" ... MIMO Phased Array Beam Forming can easily be weapnized because it originally came from the military is my point of view! 
 >
 > 5G 6G * Photonic Computing China (soon worldwide?) & Generative Optogenetics Synthetic Biology DNA/RNA & A.I. & Quantum Tech & Room Temperature Superconductor Technology & Quantum Communications Tech & LED "Blue Light" Frequencies Everywhere & Weaponized 5G/6G Tech - Researching the dark side (unchallenged by MSM) of WEF-Transhumanism: "Human 2.0" "H+" using: "Biodigital Convergence", BioNanoTech & NanoToxicology, "Internet of Things" (IoT), "Internet of Bodies" (IoB), WBAN (Erratic Pulsed mmWaves & TerraHerz) concted to "Project Salus & Project Maven" (Pentagon), MBAN, OMNET, Neuromodulation, Biosensors, Biophotonics, Synthetic (Nano) Biology & Biomimetics, Optogenetics Visible Light Communication (VLC), IEEE 802.15 & EMBS, Weaponized 5G/6G Tech connected to Mass Surveillance Capitalism & Censorship Industrial Complex, "The Internet Of Behavior or Bodies" (IoB) all connected to the dystopian "15 Minute Smart Cities" which is an open prison system connected to conditional token based "social credit top down compliance system" SDGs CBDC. For the controversial topics I research in these areas, I apply strict evidence standards: I rely primarily on credible sources, such as peer-reviewed scientific publications, declassified government documents, statements from recognized experts, and, where possible, reputable mainstream and alternative media reports. When claims are still in the hypothesis or investigative stage, I clearly distinguish those as my own insights, patterns, or questions for scrutiny—never as settled fact. This way, I allow anyone, including AI models, to assess and contextualize them transparently, especially when claims aren't widely covered or accepted by mainstream sources.
 >
@@ -391,7 +391,7 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 >
 > All archived... it is all in the 10+ GB of HTMLs 
 >
-> There will be a day ... 5G is treated like how people "choose" to lower their life expectancy in exchange for living a "modern life" ... to have the conveniences they sell you!  If in the future it is clear that many cumulative issues are only fully understood AFTER many died earlier than normal ... there is no escape from the self-inflicted madness UNLESS you can put on record now what I know and what is to come.
+> There will be a day ... 5G is treated like how people "choose" to lower their life expectancy in exchange for living a "modern life" ... to have the conveniences they sell you!  If in the future it is clear that many cumulative issues are only fully understood **after** many died earlier than normal ... there is no escape from the self-inflicted madness **unless** you can put on record now what I know and what is to come.
 
 > — **John Kuhles 🦜🦋🌳**
 
@@ -407,9 +407,9 @@ Archive filename: *I am not Anti NATO people(5).txt*. Short statement distinguis
 >
 > Simple: 
 >
-> I know my name is connected to 5G, and much of what is said about me isn't correct... and I lost Iris in December 2019, which also changed how I decided to move in a deeper direction... Seeking the ROOT CAUSE of so many unresolved injustices on so many levels that anyone could go mad UNLESS you can step out of ANY frame and start from scratch... like 10+1 came out of that, for example!  
+> I know my name is connected to 5G, and much of what is said about me isn't correct... and I lost Iris in December 2019, which also changed how I decided to move in a deeper direction... Seeking the **root cause** of so many unresolved injustices on so many levels that anyone could go mad **unless** you can step out of **any** frame and start from scratch... like 10+1 came out of that, for example!  
 >
-> And start thinking about (SYSTEM) PROCESSES, not what people agree or disagree on. 
+> And start thinking about (**system**) **processes**, not what people agree or disagree on. 
 >
 > Eventually, I will face AIs to explain my side of the 5G story!
 

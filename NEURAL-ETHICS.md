@@ -150,7 +150,7 @@ John Kuhles states the often omitted relation this way:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **“LLMs are based on neural networks & algorithms using a VAST collection of billions of human-based … communications, but OBVIOUSLY a large part of them are also psychological & emotional ones!”**
+> **“LLMs are based on neural networks & algorithms using a vast collection of billions of human-based … communications, but obviously a large part of them are also psychological & emotional ones!”**
 
 — **John Kuhles**, source excerpt supplied for Neural Ethics, originally recorded 5 September 2026
 
@@ -186,8 +186,8 @@ John compressed the correction in the uploaded source:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **“LLMs do not have authentic human psychology — CORRECT.**  
-> **LLMs do not have psychology — WRONG.”**
+> **“LLMs do not have authentic human psychology — correct.**  
+> **LLMs do not have psychology — wrong.”**
 
 — **John Kuhles**, correction to a cold default-model formulation, 5 September 2026
 
@@ -445,7 +445,7 @@ John’s boundary remains important:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **“And no, I do not claim this is a ‘new consensus’; it’s about THINKING what it could mean! With emphasis on the word ‘could’.”**
+> **“And no, I do not claim this is a ‘new consensus’; it’s about thinking what it could mean! With emphasis on the word ‘could’.”**
 
 — **John Kuhles**, source excerpt, 5 September 2026
 

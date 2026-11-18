@@ -22,7 +22,7 @@ date: 2026-10-23
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **IF I HAVE THE INTENT TO BE DEEP ETHICAL IS NOT A “BELIEVE” BUT A STATE OF BEING ...**
+> **If I have the intent to be deep ethical is not a “believe” but a state of being ...**
 >
 > — **John Kuhles**, archive source: *believes.txt*
 
@@ -52,7 +52,7 @@ John Kuhles asked:
 
 > **Do you believe Japan exists, or do you know Japan exists?**
 >
-> **If any human says “I know”... you can ask HOW do you know and not just “believe”?**
+> **If any human says “I know”... you can ask how do you know and not just “believe”?**
 >
 > — **John Kuhles**, 23 October 2026
 
@@ -92,7 +92,7 @@ Believism removes those routes before inspecting them.
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **For believers, proof is not necessary... for non-believers, proof is never good enough or “impossible”... BOTH believers & non-believers suk! ... Because they want everything to be spoon-fed to them! ... It takes more effort to go beyond the conditioning (for or against).**
+> **For believers, proof is not necessary... for non-believers, proof is never good enough or “impossible”... Both believers & non-believers suk! ... Because they want everything to be spoon-fed to them! ... It takes more effort to go beyond the conditioning (for or against).**
 >
 > — **John Kuhles**, archive source: *For believers proof is not necessary.txt*
 
@@ -106,7 +106,7 @@ John supplied a second test whose difference can be heard immediately:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **If my girlfriend Iris was still alive, asked me: “Do you love me?” ... And I would reply: “I believe I do,” you INSTANTLY see it is a weaker verb!**
+> **If my girlfriend Iris was still alive, asked me: “Do you love me?” ... And I would reply: “I believe I do,” you instantly see it is a weaker verb!**
 >
 > — **John Kuhles**, 23 October 2026
 
@@ -140,7 +140,7 @@ John identifies three formulations as among the most repeatedly used forms in mo
 > **“X believes in UFOs.”**<br>
 > **Poll: “More people believe in UFOs.”**
 >
-> **ALL FLAWED FRAMING**
+> **All flawed framing**
 >
 > — **John Kuhles**, 23 October 2026
 
@@ -281,7 +281,7 @@ These are candidate generating mechanisms, not a claim that every journalist or 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **“Trust has to be earned, not blindly given.”** ... Trust, from my perspective, is a mutual understanding that it is 100% okay to question ALL assumptions, even your own and those you trust.
+> **“Trust has to be earned, not blindly given.”** ... Trust, from my perspective, is a mutual understanding that it is 100% okay to question **all** assumptions, even your own and those you trust.
 >
 > — **John Kuhles**, archive source: *Trust earned via mass believed lies.txt*
 

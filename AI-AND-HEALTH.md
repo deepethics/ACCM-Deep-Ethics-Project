@@ -19,7 +19,7 @@ last_modified_at: 2026-11-13
 
 ## Growing wisdom through better relationships, evidence and care
 
-> Or we start a page called "A.I.s & Health" and slowly update it with WISDOM & deeper insights!
+> Or we start a page called "A.I.s & Health" and slowly update it with **wisdom** & deeper insights!
 
 — **John Kuhles**, 28 October 2026.
 

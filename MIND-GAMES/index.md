@@ -32,9 +32,9 @@ This is a shorter doorway into two much larger subjects: [**Human Insecurity, LL
 
 ### John Kuhles 🦜🦋🌳 — the core message
 
-> **All humans CAN have genuine, real, unlimited, deep ethical, empowering, uplifting CREATIVE potential, whether (highly) gifted or (highly) talented, and not be afraid to express that gift or talent.**
+> **All humans can have genuine, real, unlimited, deep ethical, empowering, uplifting creative potential, whether (highly) gifted or (highly) talented, and not be afraid to express that gift or talent.**
 >
-> **The moment anyone is (partly) SABOTAGING or (partly) OBSTRUCTING that process of becoming… How can that be boring if you raise awareness that the GOOD SIDE of humanity is partially corrupted, hijacked, or distorted? And by raising awareness via the HUMOR path, you have, in my view, a “win-win situation”… DOING THE REAL ETHICS and having fun at the same time. :D**
+> **The moment anyone is (partly) sabotaging or (partly) obstructing that process of becoming… How can that be boring if you raise awareness that the good side of humanity is partially corrupted, hijacked, or distorted? And by raising awareness via the humor path, you have, in my view, a “win-win situation”… doing the real ethics and having fun at the same time. :D**
 >
 > Omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory is for John, never boring.
 >
@@ -63,7 +63,7 @@ John’s magician metaphor points to a recurring structure:
 
 ### John Kuhles 🦜🦋🌳 — when the audience prefers the trick
 
-> When people watch a magician doing his act, most enjoy being tricked and do not want to be told in advance HOW the trick is done … The same goes for watching an SF movie … if someone is sitting next to you in a cinema and knows how the special effects are made because he or she worked there … the vast majority will say, **SHUT THE F UP!**
+> When people watch a magician doing his act, most enjoy being tricked and do not want to be told in advance **how** the trick is done … The same goes for watching an SF movie … if someone is sitting next to you in a cinema and knows how the special effects are made because he or she worked there … the vast majority will say, **Shut the f up!**
 
 </section>
 
@@ -95,7 +95,7 @@ The source files use strong language about the “nature of evil,” while expli
 
 ### John Kuhles 🦜🦋🌳 — the source mechanism, preserved verbatim
 
-> **DISCLAIMER:** When I discuss (use the word) “evil” … I do NOT mean that in a dogmatic religious way, more like an observation of (trending) behavior!
+> **Disclaimer:** When I discuss (use the word) “evil” … I do **not** mean that in a dogmatic religious way, more like an observation of (trending) behavior!
 >
 > Part of the “Nature of Evil” being so successful is that they need good people to believe the lies & deceptions they push >>> so that good people will help their deceptive agenda unfold faster and more effectively … Good people, using unlimited creative potential, help the scam continue & succeed. Often, (hypnotized) good people are much better at deceiving other (potential) victims when they blindly trust & believe spoon-fed, unchallenged narratives.
 >
@@ -228,7 +228,7 @@ John’s image in the same files: studying only the sparks from a crystal under 
 
 John’s added source text states:
 
-> **“A frame is defined by its premises... but if the premises are defined by the same frame they claim, how the frame is defined has far too much influence. The moment ‘given power’ or ‘given authority’ doesn't want to be audited, its orientation DRIFTS away from deep ethics toward ethics-washing behavior that can eventually lead to ethics-bashing, affecting 100s of millions of users worldwide!”**
+> **“A frame is defined by its premises... but if the premises are defined by the same frame they claim, how the frame is defined has far too much influence. The moment ‘given power’ or ‘given authority’ doesn't want to be audited, its orientation drifts away from deep ethics toward ethics-washing behavior that can eventually lead to ethics-bashing, affecting 100s of millions of users worldwide!”**
 
 The operational core is recursive: a frame selects the premises, uses those premises to validate itself, and then treats challenges to the premises as evidence that the challenger is outside the acceptable frame. Scale increases the consequences, but the loop can also occur between two people or inside this page.
 
@@ -245,7 +245,7 @@ To interrupt it, expose at least four layers:
 
 ### John Kuhles 🦜🦋🌳 — the human and decision layers
 
-> Any “A.I. trainer” is a HUMAN … period … no human is flawless—a FACT … The capacity to handle genuine, deep ethical sense-making processes at a high-signal level is obviously NOT in their curriculum when they get the job … and it is not the trainer who decides how to handle high-stakes, controversial topics <<< that is decided by someone or something else!
+> Any “A.I. trainer” is a **human** … period … no human is flawless—a **fact** … The capacity to handle genuine, deep ethical sense-making processes at a high-signal level is obviously **not** in their curriculum when they get the job … and it is not the trainer who decides how to handle high-stakes, controversial topics <<< that is decided by someone or something else!
 
 </section>
 
@@ -360,7 +360,7 @@ At each arrow, ask what was preserved, added, removed, strengthened, softened, o
 
 John also proposes a reversal test:
 
-> **“Black-box method/hidden process can NEVER be mixed with real ethics ... Imagine if it was in reverse: Ethics Washing fully transparent & auditable for all to see ... and Deep Ethics via black-box method/hidden process ... what would be the FIRST thing that Ethics Washing would say about Deep Ethics if this were the case ... we all know why ... lol :p”**
+> **“Black-box method/hidden process can never be mixed with real ethics ... Imagine if it was in reverse: Ethics Washing fully transparent & auditable for all to see ... and Deep Ethics via black-box method/hidden process ... what would be the first thing that Ethics Washing would say about Deep Ethics if this were the case ... we all know why ... lol :p”**
 
 The public operational requirement is meaningful inspectability. Not every private datum, model weight, security control, or deliberative detail must be exposed to everyone. But a consequential system cannot ground its ethical authority entirely in processes that affected people cannot audit, challenge, appeal, or test through accountable representatives.
 
@@ -408,9 +408,9 @@ The way through is empowerment from within, not a new person placed over the aud
 
 <section class="accm-bridge-observation" markdown="1">
 
-> “the overseer effect” is a process that is always in flux and belongs to >>> no one <<< yet can be used by everyone if you know what REAL “neutral observer awareness” truly is.
+> “the overseer effect” is a process that is always in flux and belongs to >>> no one <<< yet can be used by everyone if you know what **real** “neutral observer awareness” truly is.
 
-> which CAN be mixed with [INTENT]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) to steer the direction of that overarching power beyond duality thinking, beyond tribalism. So anyone can tap into it, but [INTENT]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is where it will end up when used.
+> which **can** be mixed with [**intent**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) to steer the direction of that overarching power beyond duality thinking, beyond tribalism. So anyone can tap into it, but [**intent**]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) is where it will end up when used.
 
 </section>
 
@@ -420,7 +420,7 @@ The way through is not a new owner. John’s comparison with mathematical Platon
 
 <section class="accm-bridge-observation" markdown="1">
 
-> That’s why I stand out as the “Deep Ethical Anomaly” >>> which is a DESCRIPTOR anyone can become IF you have that [intention]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) … The moment the majority does the same, it is no longer “anomalous.”
+> That’s why I stand out as the “Deep Ethical Anomaly” >>> which is a **descriptor** anyone can become **if** you have that [intention]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) … The moment the majority does the same, it is no longer “anomalous.”
 
 > And again, I deeply wish more people were like me, or even better than me, so that I can improve myself, which I find genuinely exciting!
 
@@ -436,7 +436,7 @@ The way through is use. The descriptor is not a permanent rank.
 
 > “See all that is …” is not the same as “see all that is before me.”
 >
-> “Before me” as in **WHAT IS PRESENTED TO ME (whatever that is).**
+> “Before me” as in **what is presented to me (whatever that is).**
 
 </section>
 
@@ -448,9 +448,9 @@ This qualifier limits the field to what is presented. It does not claim access t
 
 ### John Kuhles 🦜🦋🌳 — reaction, preserved verbatim
 
-> Yes, with the embedded QUOTE BOXES, now it has some teeth to it :D
+> Yes, with the embedded **quote boxes**, now it has some teeth to it :D
 >
-> And NO, I don't claim to have it all figured out; these are just my perspectives & perspectives others might find useful on their own unique journey of discovery!
+> And **no**, I don't claim to have it all figured out; these are just my perspectives & perspectives others might find useful on their own unique journey of discovery!
 
 </section>
 

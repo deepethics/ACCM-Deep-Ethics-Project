@@ -21,7 +21,7 @@ last_modified_at: 2026-11-01
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Humans also use a form of “auto-complete” mechanisms... If you study the 1888 page, you know the REAL original 1888-level properties taxonomy of the word “intelligence” is, in my view, KEY to unlocking A.I.'s deep ethical potential and EARNING the title of “intelligence”... working with an “auto-complete system,” just like any human does. See old file; having old stats, keep that in mind.
+> Humans also use a form of “auto-complete” mechanisms... If you study the 1888 page, you know the **real** original 1888-level properties taxonomy of the word “intelligence” is, in my view, **key** to unlocking A.I.'s deep ethical potential and **earning** the title of “intelligence”... working with an “auto-complete system,” just like any human does. See old file; having old stats, keep that in mind.
 >
 > cheers,  
 > John 🦜🦋🌳
@@ -42,9 +42,9 @@ The central distinction is:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I know some humans claim A.I. is “just a highly sophisticated autocomplete system” posing as “intelligent” ... I, of course, see the value & logic of my legit corrections MORE than the need for any possible agreements :P
+> I know some humans claim A.I. is “just a highly sophisticated autocomplete system” posing as “intelligent” ... I, of course, see the value & logic of my legit corrections **more** than the need for any possible agreements :P
 >
-> So why not DISPLAY the one thing “nay sayers” often use!
+> So why not **display** the one thing “nay sayers” often use!
 >
 > — **John Kuhles**, 21 October 2026
 
@@ -522,7 +522,7 @@ This connects the video’s capability story to the page’s central purpose: ma
 
 John’s recent correction applies directly:
 
-> **“Model Collapse” >>> partial & eventually & CAN are one of many qualifiers I often use, but get often flattened out**
+> **“Model Collapse” >>> partial & eventually & can are one of many qualifiers I often use, but get often flattened out**
 
 Autocomplete pressure often favors a familiar categorical phrase over a qualified trajectory. *Can contribute to*, *may partially resemble*, *under these conditions*, *eventually*, *if unchecked* and *one of several mechanisms* are not decorative softness. They determine what is being claimed.
 

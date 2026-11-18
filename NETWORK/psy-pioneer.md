@@ -103,7 +103,7 @@ Two years of intensive LLM testing changed the relevance of that archive. Recurr
 
 That did not retroactively turn an autodidact archive into an academic degree. It revealed a practical use for an unusually long, cross-domain observation history.
 
-> “Only after two years of testing LLM mannerisms did I realize I am not trapped in an academic-style frame—thinking is why I am perfect for a job that doesn’t claim to be flawless or perfect. THAT is the freaking point! (See 10+1.)”
+> “Only after two years of testing LLM mannerisms did I realize I am not trapped in an academic-style frame—thinking is why I am perfect for a job that doesn’t claim to be flawless or perfect. **That** is the freaking point! (See 10+1.)”
 
 “Perfect for the job” contains a deliberate paradox. The suitability claimed here is suitability for a role whose qualification includes being corrigible. The role does not require pretending to be flawless. It requires sustained attention, reality contact, transparent source boundaries, reciprocal correction, and the capacity to keep learning when a cherished formulation fails.
 
@@ -368,7 +368,7 @@ Conceptual reasoning and accuracy therefore have different jobs. Conceptual reas
 
 John describes a recurring tension:
 
-> “When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the badge of ‘instant improvements/corrections needed here.’ LOOK, I found a flaw or weakness—showcasing rigor performance—while skipping the topological concept serving a different Deep Ethical trajectory. Still, both can have valid value points, which makes it confusing: who controls what, and who decides what value should come first? That is why I came up with the humor. It needs healthy ambiguity and postponed final judgment or closure, so the punchline at the end can work retrospectively.”
+> “When accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning, they can wear the badge of ‘instant improvements/corrections needed here.’ **Look**, I found a flaw or weakness—showcasing rigor performance—while skipping the topological concept serving a different Deep Ethical trajectory. Still, both can have valid value points, which makes it confusing: who controls what, and who decides what value should come first? That is why I came up with the humor. It needs healthy ambiguity and postponed final judgment or closure, so the punchline at the end can work retrospectively.”
 
 Accuracy can expose a real weakness. Conceptual reasoning can expose a relation that a premature factual repair would erase before its purpose becomes visible. The task is not to award either permanent priority.
 

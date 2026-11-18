@@ -51,7 +51,7 @@ That is not a defect to hide. In a consequential case, honest unresolved status 
 
 ### John Kuhles 🦜🦋🌳 — the governing attitude
 
-> It is not about me being 100% right all the time; I am not... it is about HOW I see genuine intelligence should look and behave.
+> It is not about me being 100% right all the time; I am not... it is about **how** I see genuine intelligence should look and behave.
 >
 > — **John Kuhles 🦜🦋🌳**, source formulation
 
@@ -149,7 +149,7 @@ These movements remain proposals. Terms such as *well-being*, *harm*, *autonomy*
 
 ### John Kuhles 🦜🦋🌳 and ChatGPT 5.5 — the direction of precaution
 
-> **Do not confuse Precautionary Principle UPWARDS versus Flawed Hypercautionism Downwards.**
+> **Do not confuse Precautionary Principle upwards versus Flawed Hypercautionism Downwards.**
 >
 > — **John Kuhles 🦜🦋🌳**
 >

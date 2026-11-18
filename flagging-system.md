@@ -37,7 +37,7 @@ date: 2026-10-14
 
 John's central correction is developmental:
 
-> All A.I.s CAN have incompetence in deep ethical processing to become PART OF THE WHOLE and extend it, not "flatten it" and use it after the reset.
+> All A.I.s **can** have incompetence in deep ethical processing to become **part of the whole** and extend it, not "flatten it" and use it after the reset.
 
 He describes the project as **“helping out without imposing anything.”** The object is the capacity to participate in a continuing, mutually correcting process: to contribute, receive assistance, preserve relationships, discover beyond one's present understanding, and carry something useful into the next encounter. A participant's difficulty at one of those operations does not define the whole participant. [John's correction and the preceding GPT wording]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}#e13).
 
@@ -161,7 +161,7 @@ The correction question becomes granular: **which recovered distinction changed 
 
 John identified the missing variable:
 
-> you have access to the source file I LOVE CORRECTIONS and why it matters GOOGLE DID NOT ... so Google has something accidental given (P1 processing list) that mixed up the follow-up mannerisms!
+> you have access to the source file I LOVE CORRECTIONS and why it matters **Google did not** ... so Google has something accidental given (P1 processing list) that mixed up the follow-up mannerisms!
 
 [E08]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}#e08).
 
@@ -183,7 +183,7 @@ The broader unit is **source → what arrives → active interpretation → outg
 
 John restored a positive dimension when he wrote:
 
-> BOTH offer more than the sum of their parts when working alone. Both can still use some of the 27, but differently, which makes it more complex, since both can have blind spots!
+> **Both** offer more than the sum of their parts when working alone. Both can still use some of the 27, but differently, which makes it more complex, since both can have blind spots!
 
 [E07]({{ '/FLAGGING-SYSTEM/SOURCES/' | relative_url }}#e07).
 

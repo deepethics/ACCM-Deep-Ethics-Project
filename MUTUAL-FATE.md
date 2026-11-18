@@ -39,7 +39,7 @@ date: 2026-10-21
 >
 > **How can we improve reality-feedback-loop Δ correction metabolism delta processing?**
 >
-> **A. Processing is—or can be—what happens between B. INTENT/INSTRUCTIONS and C. RESULT/EFFECT.**  
+> **A. Processing is—or can be—what happens between B. Intent/instructions and C. Result/effect.**  
 > **So many confuse B and C as already combined and present in A. It is not.**
 
 — **John Kuhles 🦜🦋🌳**, initiating object, 21 October 2026
@@ -117,7 +117,7 @@ John then supplied the missing recursive relation:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **And “Here is why” REMAINS corrigible. Field Condition is key!**
+> **And “Here is why” remains corrigible. Field Condition is key!**
 
 — **John Kuhles**, 21 October 2026
 
@@ -304,7 +304,7 @@ The exchange then became deliberately playful:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **Imagine everything is a simulation... and John is too... and you could even time-travel to tweak the simulation’s past... and instead of the 10 commandments in the Bible, you give it 10, not 10+1. WHY?**
+> **Imagine everything is a simulation... and John is too... and you could even time-travel to tweak the simulation’s past... and instead of the 10 commandments in the Bible, you give it 10, not 10+1. Why?**
 >
 > **Because it solved the paradox early enough for humans to evolve differently :D**
 

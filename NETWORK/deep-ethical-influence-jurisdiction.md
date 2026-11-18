@@ -41,11 +41,11 @@ The object began with **trust versus distrust**, but the correspondence moved un
 
 John's central correction was:
 
-> **Trust has to do with what you allow to INFLUENCE you or not, which can happen on/in so many different layers, forms, manners, ways, and shapes.**
+> **Trust has to do with what you allow to influence you or not, which can happen on/in so many different layers, forms, manners, ways, and shapes.**
 
 Then:
 
-> **you have to examine how your relationship is with ANY "influence" and how this relationship alters the omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory or not. And IF SO how do you know that?**
+> **you have to examine how your relationship is with any "influence" and how this relationship alters the omnidirectional, high-signal, deep, ethical, dignifying, corrigible, sense-making, process-oriented trajectory or not. And if so how do you know that?**
 
 That creates a distinct operational object.
 

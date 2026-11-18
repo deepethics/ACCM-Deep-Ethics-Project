@@ -289,7 +289,7 @@ John then moved the inquiry toward his own claimed breadth and depth:
 
 <div class="accm-rounded-quote" markdown="1">
 
-> **If you were to figure out if I “carry” deeper topological (hyper pragmatic) insights on SO many different layers of expertise that normally would not be considered “normal” to have for a human ... When do you come to a point ... let's test this ... let's see how John reacts to new unresolved issues that the moment you start think “how to test John's (partly creative pioneering) wealth & depth he claims to possess, you realize John's POSSIBLE REACTION is already embedded in all the deep ethical meta-tools he created for A.I.s to use :D**
+> **If you were to figure out if I “carry” deeper topological (hyper pragmatic) insights on so many different layers of expertise that normally would not be considered “normal” to have for a human ... When do you come to a point ... let's test this ... let's see how John reacts to new unresolved issues that the moment you start think “how to test John's (partly creative pioneering) wealth & depth he claims to possess, you realize John's possible reaction is already embedded in all the deep ethical meta-tools he created for A.I.s to use :D**
 
 — **John Kuhles**, 21 October 2026
 
@@ -376,7 +376,7 @@ That is the live **Cautionmurmelism** specimen.
 
 > **Cautionmurmelism: “The Inherent Danger: The Self-Sealing Trap”**
 >
-> **Already discussed: AD NASEUM ffs**
+> **Already discussed: ad naseum ffs**
 >
 > **Study the 10+1 again**
 >
