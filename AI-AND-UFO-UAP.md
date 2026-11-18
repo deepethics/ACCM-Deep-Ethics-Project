@@ -61,15 +61,15 @@ The following compact questions reproduce the original numbered checklist in **U
 
 <div class="accm-rounded-quote" markdown="1">
 
-1. WHO FILMED IT?
-2. WHERE WAS IT FILMED?
-3. WHEN WAS IT FILMED?
-4. ANY OTHER (independent) SOURCES that confirm what we see here ... if not, why not?
-5. ANY LOCAL NEWS REPORTS that conforms what is seen here? ... if not, why not?
-6. WHO UPLOADED THE ORIGINAL? (the first) ... What else does he (or she) upload?
-7. Is there ANYTHING else that can give more "credence" what is seen here? ... if not, why not?
+1. **Who filmed it**?
+2. **Where was it filmed**?
+3. **When was it filmed**?
+4. **Any other** (independent) **sources** that confirm what we see here ... if not, why not?
+5. **Any local news reports** that conforms what is seen here? ... if not, why not?
+6. **Who uploaded the original**? (the first) ... What else does he (or she) upload?
+7. Is there **anything** else that can give more "credence" what is seen here? ... if not, why not?
 8. Are there any skeptical inquiries done by anyone? If yes, always allow all sides to be heard!
-9. Always ask WHY so many people refuse to dig much deeper before spreading it around helping to make it go "viral" that does not do justice to real UFO research! It only will be used as a "showcase" how easy, so many can be fooled.
+9. Always ask **why** so many people refuse to dig much deeper before spreading it around helping to make it go "viral" that does not do justice to real UFO research! It only will be used as a "showcase" how easy, so many can be fooled.
 10. Are there any other cameras recording the same from a different angle?
 11. Any other witnesses? ... if not, why not?
 
