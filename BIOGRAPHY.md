@@ -211,7 +211,7 @@ The next paragraph describes how fellow researchers received the proposal I made
 
 <div class="accm-rounded-quote" markdown="1">
 
-> I told everybody **PART** of the real UFOs could be &#34;just us&#34; but from the future &#46;&#46;&#46; Now am more wary about that assumption due to deeper insights what Transhumanism & &#34;Agenda2030&#34; really is about because part of that &#34;us from the future&#34; could be a trajectory timeline that originates from the Transhumanism & &#34;Agenda2030&#34; narratives and part of that could go rogue!
+> I told everybody **part** of the real UFOs could be &#34;just us&#34; but from the future &#46;&#46;&#46; Now am more wary about that assumption due to deeper insights what Transhumanism & &#34;Agenda2030&#34; really is about because part of that &#34;us from the future&#34; could be a trajectory timeline that originates from the Transhumanism & &#34;Agenda2030&#34; narratives and part of that could go rogue!
 >
 > Hence the chaos & confusion!
 
