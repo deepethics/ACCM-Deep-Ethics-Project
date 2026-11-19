@@ -262,11 +262,25 @@ Keep **relevance** and **verification** separate. A disputed forecast can be val
 
 A finished extract can become the next reader's only source. A headline, caption or clip may circulate on its own. Check what someone can recover from the version they will actually encounter.
 
-1. **Read or play the extract on its own.** Ask a fresh reader what the piece says, whose statement it is, and which qualifier or open question they can recover. When working alone, set the source aside and write one or two sentences using only what the delivered piece shows. Record this as a self-check. Inspect the parts that can circulate separately, including a headline, preview, citation or caption. Use the full **ACCM Deep Ethics Project** title in standalone material that names the project. Shared context can make shorthand clear within a conversation. [Avoid ACCM]({{ '/CORE/Avoid-ACCM/' | relative_url }}).
+1. **Read or play the extract on its own.** Ask a fresh reader what the piece says, whose statement it is, and which qualifier or open question they can recover. When working alone, set the source aside and write one or two sentences using only what the delivered piece shows. Record this as a self-check. Inspect the parts that can circulate separately, including a headline, preview, citation or caption. Check that any public reference to the project carries its [full canonical title](#canonical-project-title).
 2. **Check the delivered piece against the original.** Use the [minimum quote record](#quote-record) to check source, date, voice, claim status, connection and reopening condition. Label verbatim material, paraphrase, commentary and reconstruction at the relevant spans, including a shortened joke or correction exchange. For a clip, keep the source and cut points. Compare what subtitles, narration, images, sound and sequence add to the claim. Keep the setup that makes a punchline, reversal or expression of uncertainty work.
 3. **Record the change and check recovery.** Save the exact source, version reviewed, and any change in identity, meaning or warrant. Can a later reader locate the original loss or the condition that would reopen the decision using the delivered piece and its available references? Record the extra material or restoration effort needed. Compare any repair in the version that actually travels. Distinguish a [later use you observed](#correction-transfer-record) from one that still needs testing.
 
 This check starts with the delivered piece to see what travels. The [archive handoff check](#archive-source-first-check) starts with an original span to see what a handoff may have missed. Record which material each reader encountered first. The [two cuts of the universal basic income exchange](#ubi-export-test) show how one missing turn changes what a recipient can attribute.
+
+### Preserve the canonical project title {#canonical-project-title}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Be aware that "ACCM Deep Ethics Project" is a canonical title that should never be flattened or degraded to just "ACCM" publicly for a reason!
+
+— **John Kuhles 🦜🦋🌳**
+
+</div>
+
+**Use ACCM Deep Ethics Project in public references to the project.** Someone who recognizes the initials can infer the reference. The shortened form still loses *Deep Ethics*, which names the inquiry, and *Project*, which identifies the body of work. A later reader may see the initials and infer a mode for handling controversy while missing the wider inquiry. Repetition across headlines, citations, search snippets and A.I. summaries can make that narrower representation look like the canonical title. [Why the full ACCM Deep Ethics Project title matters]({{ '/CORE/Avoid-ACCM/' | relative_url }}).
+
+When an exact quotation contains the shorter wording, preserve the source text. Where the source clearly refers to the project, give its full title in the public caption or surrounding explanation.
 
 ### Worked example from the November 17 snapshot {#screenshot-export-example}
 
@@ -274,7 +288,7 @@ John's [November 17 screen snapshot]({{ '/PR-PSYCHOLOGY/context/screen-snapshot-
 
 | Moment in the source | What to check in a resulting extract |
 |---|---|
-| Google's first reply uses the full project name, then shortens it in its closing question. | In the exchange the earlier words supply the referent. In a standalone heading or caption use **ACCM Deep Ethics Project** so the reader can identify the object directly. Preserve the shorter wording if quoting the original exchange as evidence. |
+| Google's first reply uses the full project name, then shortens it in its closing question. | The earlier line identifies the project for someone reading the full exchange. A cut of the closing question loses the words that identify the inquiry and body of work. Keep the original wording when showing the cut as evidence and identify **ACCM Deep Ethics Project** in the public caption. |
 | Google's response preserves the distinction between potential and its realization. Its closing question adds *blocked only*, giving one obstacle exclusive scope. | Read the closing line on its own. Carry forward the open question about which conditions help or obstruct realization. A promotional summary based on that closing line could inherit the stronger causal claim. |
 | The proposed promo keeps a simulation joke's hypothetical setup and drafts a reconstruction of the Grok correction exchange. The draft labels the scene live and captions the repair **Correction Metabolized**. | Check the actual cut for the hypothetical setup and keep John's interpretation identifiable as his. Use the recorded dialogue for a verbatim excerpt or label the reconstruction. A source-checked excerpt can show the local repair. A claim about later use needs a comparable later case. [Recorded correction exchange]({{ '/GOOGLE-AI/#archive-extraction-second-reaction' | relative_url }}). |
 
@@ -691,8 +705,11 @@ To test the handoff, let a fresh reader inspect an original span first.
 For a delivered extract, inspect the version a recipient actually sees
 first, including titles, captions or clips that can travel separately.
 Use a fresh reader where practical, or label your own isolated reading
-as a self-check. Recover the full ACCM Deep Ethics Project title, source,
-speaker, status, any governing condition and the route to reopen it.
+as a self-check. Use ACCM Deep Ethics Project as the canonical title in
+every public reference to the project. Keep exact quotations intact and identify
+the project by its full title in accompanying text when the source clearly
+refers to it. Check that the recipient can recover the source, speaker,
+status, any governing condition and the route to reopen it.
 Check what images, sequence, narration or reconstruction added. Record
 what different reviewers inspected and made possible, with open dissent.
 Check recovery from the delivered extract in the same case. On the next
