@@ -19,6 +19,8 @@ A conversation can recover a missed distinction. A correction can improve a meth
 
 On this page, **Constructivism** names that constructive process within the **ACCM Deep Ethics Project**: developing understanding, relationships, inquiries and tools by preserving useful contributions, examining their connections, and allowing better evidence and reasons to change what happens next. This is the page's working use of the title.
 
+**Start with the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/#evidence-for-next-step' | relative_url }}).** Use it to work out what deserves inquiry, what the evidence supports and when a correction should change a decision. [Why the kit is key to ethical pragmatism](#extraction-starter-kit).
+
 The project name uses **[ACCM]({{ '/' | relative_url }})** (Allow Constructive Controversy Mode). The initiating November question puts that invitation into practice.
 
 Start with the object. What was actually said? Which question is being investigated? What contribution has already been made? What changed after the correction? Where can the inquiry now go?
@@ -32,6 +34,20 @@ The orientation remains omnidirectional, high-signal, deep ethical, mutually dig
 **November 18 continuation** · [Ethical pragmatism](#ethical-pragmatism) · [Two A.I. readings and reactions](#ethical-pragmatism-reactions) · [The cold question and eleven public resources](#november-18-cold-test) · [Cross-field contributions](#cross-field-contributions) · [The Beta Paper repair](#beta-paper-correction-relay) · [Grok’s ten self-application questions](#constructivism-self-application) · [A worked example](#constructivism-in-practice) · [The 10+1 in practice](#constructivism-default-state) · [Mutual value and reporting back](#constructivism-mutual-value) · [Sources](#november-18-sources)
 
 **[Tidy Trap]({{ '/TIDY-TRAP/' | relative_url }})** continues the November 11 inquiry through qualifier loss, changed relationships, Google's revised prompt, and John's practical alternatives to agreement language. It preserves useful contributions alongside specific repairs and proposed tests.
+
+## Why the Extraction Starter Kit is key to ethical pragmatism {#extraction-starter-kit}
+
+Ethical pragmatism gives people a way to revise a warranted decision when a better observation or reason arrives. The Starter Kit preserves the relationship between the source, the claim and the decision as material moves through notes, summaries and handoffs. A newcomer can point to the passage that changes an interpretation. A person affected by the decision can show which condition was lost and ask for the decision to be reconsidered. [Ethical pragmatism](#ethical-pragmatism).
+
+| Step | What the kit makes possible |
+|---|---|
+| Hear and investigate | Care gives a person’s observation a hearing. Clarify what they noticed and what can be checked together while the explanation remains open. |
+| Draw a conclusion | Identify the precise claim and compare the source with the version people received. Keep the speaker, qualification and evidence attached so someone else can check what the conclusion rests on. |
+| Decide or act | Match scrutiny to the power exercised and the consequences of the decision. Identify who can act, who bears the cost and how the person who found a problem can get the correction to them in time. |
+
+This puts the 10+1 to work when the correction is unwelcome. A demand for proof or a label such as *unconstructive* can determine whether a contribution is heard. Ask what claim is being judged, what evidence would change the decision and whether a favored account faces the same standard. Let the source correct the extractor’s selection as well as the conclusion. [The Starter Kit’s evidence check]({{ '/EXTRACTION-STARTER-KIT/#evidence-for-next-step' | relative_url }}).
+
+In the neighbourhood trial example, a participant’s support depends on public access to the complaint log and the option to suspend the trial after a serious incident. The minutes carry forward general support. A person can explain why those conditions matter, and an A.I. can help locate the difference and trace which recommendation relied on the minutes. The comparison can warrant restoring the conditions and reconsidering the recommendation while the cause of the omission remains open. To see whether the repair changed the practice, check which version reached the decision and whether the next case preserves a different participant’s conditions. [Worked neighbourhood example](#constructivism-in-practice).
 
 ## The starting conditions can sustain difficult inquiry {#starting-conditions}
 
@@ -460,6 +476,8 @@ An ethical claim can give a flawed frame authority. A host describes a meeting a
 </div>
 
 A participant can deserve immediate practical support while the cause of a reported event remains open. A sponsor can contribute a relevant fact while its power to set the agenda remains open to scrutiny. John’s question applies in every direction, including when he or the project would welcome reassurance. The person carrying the cost may be first to notice a consequence others missed. Give that observation a hearing and find out what it changes. If meeting minutes omitted a condition attached to consent, restore the condition and revisit the decision that depended on the shorter record. An attentive response can help maintain the relationship. Repair has a further job. [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}).
+
+The [Extraction Starter Kit section](#extraction-starter-kit) shows how to carry the evidence, the conditions and the route for correction into the record people use to decide.
 
 ### Correction can be self-owned
 
