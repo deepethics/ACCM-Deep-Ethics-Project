@@ -17,7 +17,7 @@ last_modified_at: 2026-11-19
 
 [**Upcoming archive extraction — worked 83 KB case**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) follows the proposed path from 125+ MB of highlights to a recoverable core. Its [pilot checks]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) show how the Starter Kit, **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) and the [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) can preserve correction sequences, disclosure boundaries and links across batches. The 10% target and session count remain planning estimates.
 
-[Extract from one conversation](#quick-start) · [Run a multi-file archive pass](#archive-workflow) · [Check a batch handoff](#archive-source-first-check) · [See a cross-batch example](#archive-example) · [Copy the starter prompt](#starter-prompt)
+[Extract from one conversation](#quick-start) · [Run a multi-file archive pass](#archive-workflow) · [Check a batch handoff](#archive-source-first-check) · [Check a finished extract](#finished-extract) · [See a cross-batch example](#archive-example) · [Copy the starter prompt](#starter-prompt)
 
 ## Useful quotations, recoverable relationships, open futures
 
@@ -225,6 +225,32 @@ Use the fields that the source supports. An unknown field remains unknown rather
 | Reuse boundary, when relevant | Whether this record is for the present task, private continuity, public sharing or separately authorized research/training |
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
+
+## Check the finished extract before it travels {#finished-extract}
+
+A finished extract can become the next reader's only source. A headline, caption or clip may circulate on its own. Check what someone can recover from the version they will actually encounter.
+
+1. **Read or play the extract on its own.** Where practical, ask someone who has yet to see the source what the piece says, whose statement it is, and which condition or uncertainty still applies. Check the parts that can circulate separately, including the title, preview, citation and caption. Use the full **ACCM Deep Ethics Project** title when identifying the project in standalone material. Shared context can make shorthand clear within a conversation. [Avoid ACCM]({{ '/CORE/Avoid-ACCM/' | relative_url }}).
+2. **Open the original and compare the actual version being shared.** For a clip, keep the source and cut points. Check what subtitles, narration, images, sound and the order of shots add to the apparent claim. Identify quotations, paraphrases, commentary and reconstructions where they appear. Keep a hypothetical setup with its punchline and an answer-changing condition with the claim it governs.
+3. **Record what changes on comparison.** Keep the exact source location, the version received, the claim a reader could recover, and any material change to identity, meaning or status. A comparison can find no material change within the inspected scope. If a repair is warranted, check the affected headline, caption or cut again and record [where the correction reached](#correction-transfer-record).
+
+This check starts with the delivered piece to see what travels. The [archive handoff check](#archive-source-first-check) starts with an original span to see what a handoff may have missed. Record which material each reader encountered first.
+
+### Worked example from the November 17 snapshot {#screenshot-export-example}
+
+John's [November 17 screen snapshot]({{ '/PR-PSYCHOLOGY/context/screen-snapshot-2026-11-17.html' | relative_url }}) records a screenshot-led exchange with Google A.I. The [case study]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}) traces the changing source access and the contributions that followed. Three moments give the finished-piece check something specific to inspect.
+
+| Moment in the source | What to check in a resulting extract |
+|---|---|
+| Google's first reply uses the full project name, then shortens it in its closing question. | In the exchange the earlier words supply the referent. In a standalone heading or caption use **ACCM Deep Ethics Project** so the reader can identify the object directly. Preserve the shorter wording if quoting the original exchange as evidence. |
+| Google's response preserves the distinction between potential and its realization. Its closing question adds *blocked only*, giving one obstacle exclusive scope. | Read the closing line on its own. Carry forward the open question about which conditions help or obstruct realization. A promotional summary based on that closing line could inherit the stronger causal claim. |
+| The proposed promo keeps a simulation joke's hypothetical setup and drafts a reconstruction of the Grok correction exchange. The draft labels the scene live and captions the repair **Correction Metabolized**. | Check the actual cut for the hypothetical setup and keep John's interpretation identifiable as his. Use the recorded dialogue for a verbatim excerpt or label the reconstruction. A source-checked excerpt can show the local repair. A claim about later use needs a comparable later case. [Recorded correction exchange]({{ '/GOOGLE-AI/#archive-extraction-second-reaction' | relative_url }}). |
+
+### Give different specialists the same case {#shared-extract-case}
+
+John's cross-disciplinary proposal has a practical use here. Give an archivist, editor or subject specialist the same source and extract. An archivist can recover the original turn, an editor can locate the cut that changes its scope, and a subject specialist can test what the resulting claim supports. Record what each inspected, what their contribution enabled someone else to do, and any remaining disagreement.
+
+For example, Content Credentials from **[C2PA](https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html)** (Coalition for Content Provenance and Authenticity) can associate recorded provenance assertions with a media asset. A source comparison can show whether a specific condition survived the edit. A shared review can use both findings to answer different questions about the same piece.
 
 ## Run a multi-file archive pass {#archive-workflow}
 
@@ -606,6 +632,15 @@ When testing the handoff, give a fresh reader an original span first,
 then compare what they notice with what the handoff adds or leaves out.
 End with a dated, recoverable handoff and the disposition of the batch.
 
+IF AN EXTRACT WILL BE SHARED
+Inspect the version people will see on its own, then compare it with
+the original. Check any title, preview, caption or clip that can travel
+separately. Preserve the full project title and enough source context to
+recover the speaker, claim and condition. Label quotations, commentary
+and reconstructions. Check what the order, imagery or narration adds.
+Record the version reviewed and where any repair reached. In a shared
+review, record what each person inspected and what it enabled next.
+
 OUTPUT
 Provide source/access notes, a coverage record, distinct quote entries,
 connections relevant to the task and a short account of what the search
@@ -635,6 +670,7 @@ when it materially changes a selected passage's interpretation.
 - Does an omission claim identify the source perimeter and any material selection constraint behind it?
 - Is each consequential condition available at the point of use? Does a repair govern the conclusion and the later comparable use actually checked?
 - Can the next reader recover a cross-batch relationship and use it to reopen a selection without reconstructing the original session?
+- Can someone seeing only the finished extract identify the source, recover its condition and tell which elements are editorial?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
 
@@ -657,6 +693,8 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 **November 19, 2026 archive extension.** John supplied the October 26 Reorganized Cold Start Kit and the public reference pages linked at the relevant steps above. The continuity kit's treatment of claim status, evidence lost in a derived report, correction persistence and handoff informed this revision. Codex developed the multi-file workflow and simulated booking case as practical proposals for the next extraction pilot.
 
 **November 19, 2026 follow-up.** John requested a comparison with DEDDA™, Unforced Move, Provenance, Black Box, Emergent and Dutch Directness, then supplied Google A.I.'s condition-preservation and correction audit. Google's audit prompted the condition record and the 00–11 crosswalk. The expectation check and metabolism gate retain the [Grok-4.6-xhigh A.I. attribution]({{ '/TIDY-TRAP/#sequence-and-gates' | relative_url }}). Codex prepared the archive checks and the editorial map from John's published layer sketch to the reorganized kit. These are proposed ways to run and assess a pilot.
+
+**November 19, 2026 finished-extract check.** John supplied the November 17 screenshot-led exchange and called attention to how partial contributions from different specialties could inform the same case. Google A.I.'s editorial comparison and promo draft supply examples of what can change when the material travels. Codex adapted them into a publication check and worked example, with a link to the fuller [case study]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}).
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
