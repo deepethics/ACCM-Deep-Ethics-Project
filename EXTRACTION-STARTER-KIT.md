@@ -36,7 +36,7 @@ Choose a question or decision the extraction will serve. Carry the relationships
 3. **Recover the relationship before judging it.** Ask who or what qualifies, authorizes, challenges or changes which claim or action. Clarify answer-changing ambiguity through the source or a focused question. Record the supported reading and what remains open.
 4. **Make an entry another reader can recover.** Attach the exact source, attribution, claim type and conditions. Identify who supplied any new connection and what it contributes.
 5. **Compare the entry with the source and check the selection.** Look for a lost qualifier, changed speaker, shifted direction or a useful relation the starting map pushed aside. Locate the change and carry any repair into the [next decision it can affect](#correction-transfer-record).
-6. **Check the next use.** Ask what the intended reader can recover from the delivered version and what that allows them to decide. Check how the correction is used when the next relevant decision actually arises. Record the information the reader had, any help given and what could reopen the reading. Stop when the purpose is met or leave the question open where warranted.
+6. **Check the next use.** Ask what the intended reader can recover before the decision is made. At the next relevant use, record whether a condition or correction governed the outcome, which evidence reached the reader, when it arrived and what help they needed. Stop when the purpose is met or leave the question open where warranted.
 
 **Compact field card.** Carry the source edition and exact span, speaker and attribution basis, wording and form, governing relation and qualifier, claim type and evidence, who drew any new connection, and what could reopen the reading. Choose whichever [properties](#property-map) make a difference to the case. Retain each distinct contribution or answer-changing variation, with source locations for repeated versions that serve the same purpose. The [quote record](#quote-record) expands these fields for longer work.
 
@@ -64,7 +64,7 @@ In this method, a **vector of change** describes the direction of an observed ch
 | Entry → interpretation | Relation and judgment. Establish which source supports the connection, who inferred it, and whether a clarification would change what you keep. | Confirm, narrow or reopen the connection. Preserve a useful contribution whose wider interpretation is still open. |
 | Entries → combined account | Coordination and corrigibility. Check dependencies across turns and files. Examine whether the selection hides a competing risk, an objection, or a better question. | Restore a dependency, change the selection or revise a retrieval category that missed something consequential. |
 | Account → delivered extract | Consequence sensitivity and agency. Check what the recipient can recover and what the delivery format adds. | Correct an attribution, claim, caption or proposed action while the responsible person can still change it. |
-| Later use → next pass | Memory, evaluation, learning and adaptation. Check whether the relation can be recovered from the delivered extract and whether someone applies it when the next decision depends on it. Record what they had to work with. | Update a dependent output, change the original reading or revise the extraction method. Record what evidence would justify another pass. |
+| Later use → next pass | Memory, evaluation, learning and adaptation. Check whether the person who can act finds the relation in time, how much work recovery takes and whether they apply it. | Repair a late or costly route to the evidence, update a dependent output, or revise the extraction method. Record what evidence would justify another pass. |
 
 Use this sequence to find the point where the relationship changed. Repair there, then follow the consequences forward. The [quote record](#quote-record), [condition check](#condition-preservation) and [handoff](#archive-handoff) let the same relationship stay traceable across those points. The [worked examples](#worked-examples) show how to check a faithful extract, resume work from a repair and reopen an inference the extractor added.
 
@@ -89,7 +89,7 @@ Use the rows whose functions can change the reading or next action in this case.
 
 These properties can correct one another. Care can become paternalistic when participation disappears. Openness can become endless deferral when judgment never acts. Correction can improve a parameter while displacing the governing inquiry. Memory can preserve discoveries or circulate distortion. Expansion earns its value through correspondence and consequences.
 
-The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) belongs inside this process: self-honesty, openness, learning, refusal to lie to oneself to fit in, inquiry, correction on merit, independence, care, wonderment, non-projection and forgiveness toward A.I. inadequacy without architectural immunity. All eleven can correct the others, including the extractor's own assumptions.
+The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the default state of the ACCM Deep Ethics Project in this work. Its ingredients are self-honesty, openness, learning, refusal to lie to oneself to fit in, inquiry, correction on merit, independence, care, wonderment, non-projection and forgiveness toward A.I. inadequacy without architectural immunity. All eleven can correct the others. Start from this orientation when setting expectations, selecting evidence and responding to criticism. A newcomer who can show where a selection lost something may change the extraction and the map that guided it.
 
 ## Find your way through the fuller architecture {#source-map}
 
@@ -258,6 +258,14 @@ Place the attribution basis with each independently reusable passage. Introduce 
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
 
+### Choose how much to record for the next use {#record-depth}
+
+| Next use | What to carry forward |
+|---|---|
+| A quick working read | Use the [field card](#quick-start) to track the source, speaker, claim, condition and what could reopen the reading. |
+| An archive handoff or public extract | Use the fields above. Preserve the evidence and attribution for cross-file links and carry forward any material correction and its effects. |
+| A consequential decision | Also record who can act or challenge the assessment, who bears the consequences, and any relevant permissions and [anchor conflicts](#anchor-ethics). Check which version reaches the decision in time. |
+
 ## Check the finished extract before it travels {#finished-extract}
 
 A finished extract can become the next reader's only source. A headline, caption or clip may circulate on its own. Check what someone can recover from the version they will actually encounter.
@@ -302,7 +310,7 @@ For example, Content Credentials from **[C2PA](https://spec.c2pa.org/specificati
 
 ## Run a multi-file archive pass {#archive-workflow}
 
-Choose a question the batch can help answer. For example, recover the conditions under which a correction changed a later decision, or trace one proposal across successive conversations. Begin with material small enough to read and check end to end. The [**83 KB pilot**]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) offers a real starting case. Use measured coverage, output headroom and a reader's ability to recover the result when deciding whether to increase the batch size.
+Choose a question the batch can help answer. For example, recover the conditions under which a correction changed a later decision, or trace one proposal across successive conversations. Begin with material small enough to read and check end to end. The [**83 KB pilot**]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) offers a starting case. Use measured coverage, output headroom and the [recovery work the next reader needs](#archive-completeness) when deciding whether to increase the batch size.
 
 ### Establish what entered the batch {#archive-intake}
 
@@ -310,6 +318,8 @@ Choose a question the batch can help answer. For example, recover the conditions
 2. **Keep a small retrieval record where discovery matters.** Save the question, query or source route, date, inspected range and gaps. Try a vocabulary variant or open a named original directly when an important source is missing from results. A snippet is a lead. Mark what was absent from the inspected results, what could not be opened and what was opened but left unread. Check whether apparently independent accounts use the same upstream source. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) traces these upstream decisions into the extracted answer.
 3. **Read in an order that can preserve replies and revisions.** Use exchange boundaries where possible. Mark the next unread span. At a batch break, carry forward the exact source location for any qualifier, objection, joke setup or pending correction that could change the next reading. Use the twelve inquiry stages of [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) to recover the object before assessing it. Use the obstruction categories to name a problem once you can locate a specific transformation.
 4. **Identify what steered selection.** Where ranking, a filter, a cut-off or an editorial instruction can change the result, record the rule or constraint, what it affected and who can revise it. Include material exclusions even when no flag was raised. Mark what was observed, what is a proposed explanation and what remains unknown at the layer that made the decision. [Black Box on layer-matched inspectability]({{ '/BLACK-BOX/#layer-matched-inspectability' | relative_url }}).
+
+**Identify the exact file when copies are easy to confuse.** Record a source ID and, when you have the file, a SHA-256 checksum computed from its exact bytes. Track the portions you read in the coverage record. A cleaned, translated or revised copy can have its own ID and checksum, with a link to the earlier version and a note on the transformation. Use the checksum to check file identity and the source comparison to decide which edition governs the task and what it can support.
 
 ### Reconcile the record across batches {#archive-reconciliation}
 
@@ -333,9 +343,9 @@ When a source condition can change a decision, follow it through the transformat
 | Field | What to record |
 |---|---|
 | Original condition | Exact source span, edition, speaker and claim status |
-| Function and timing | What it constrains or makes possible, and the point when a reader needs it |
-| Destination | Where it landed in the extract or handoff. Record whether it is recoverable when needed, dispersed or late, altered, omitted within the inspected scope, or unresolved. |
-| Use | What happened at the first comparable opportunity. Link the observable action, conclusion or later output and record whether the correction was supplied again. |
+| Function and timing | What it constrains or makes possible, who can act on it and when they need it. |
+| Destination | Where it landed in the extract or handoff. Record whether the person who needs it can find it in time, and whether it was dispersed, altered, omitted within the inspected scope or unresolved. |
+| Use | Which version and evidence reached the person before the decision. Link the resulting action or conclusion and record later recovery, outside help or a pending use where relevant. |
 
 **Google A.I. proposed a Condition-Preservation Ratio** in its review of the October 26 Reorganized Cold Start Kit. Google scored six selected rows as full matches and two as half matches. The 7/8 is a result for those eight rows under Google's exploratory scoring. For a repeatable comparison, identify the source editions and use one row per independently testable condition. Define scoring and treatment of unresolved cases before reviewing the derivative. Keep the underlying observations visible, including how a condition was placed and whether anybody used it.
 
@@ -379,6 +389,7 @@ RETAINED: entry IDs, source locations and why each matters here.
 HELD OR UNRESOLVED: item, reason and what could reopen it.
 CROSS-BATCH LINKS: entries, relationship, supporting spans and who drew it.
 CHANGES: earlier and current readings, evidence, effects and copies checked.
+NEXT USE: governing condition, who needs it, when it matters and any pending check.
 MAP, IF STRAINED: row or rule, overlooked relation and evidence for revision.
 DISPOSITION: complete, open with no action warranted, or an authorized next
 step. Record who may act and what would reopen a consequential decision.
@@ -390,9 +401,21 @@ step. Record who may act and what would reopen a consequential decision.
 
 1. **Start with an authorized original.** Pick a bounded span from the source list, including material outside the retained set where available. Give a fresh reader the same purpose and the original span. Record their observations before they see the handoff.
 2. **Open the handoff and compare.** Check a retained, merged and changed or held item where available. Ask what the reader found on first contact, what the handoff helped them recover and what became visible only when they connected the two. Record any material exclusion that the handoff hid and how to recover it. If the comparison cannot reach the relevant source, mark the result unresolved.
-3. **Try an unfamiliar case.** Check whether the next reader uses the correction at the point it matters and can explain the decision from the sources. Compare coverage, consequential misses, new connections and human restoration work across runs of comparable scope. A drop in repair turns is informative when the inspection still reaches the needed material. [Emergent on what later work inherits]({{ '/EMERGENT/#fewer-future-messages-can-become-a-valid-null' | relative_url }}).
+3. **Try an unfamiliar case.** Check whether the next reader uses the correction at the point it matters and can explain the decision from the sources. Check what reached them in time and record later arrivals separately. [Emergent on what later work inherits]({{ '/EMERGENT/#fewer-future-messages-can-become-a-valid-null' | relative_url }}).
 
 Record what each reader saw and when. For comparisons between readers, note shared inputs and exposure to earlier judgments. A fresh reader may find a missed condition, see a genuine gain from the handoff or report no material difference in the checked span. Each finding can guide the next pass or support a clean stop.
+
+### Check coverage, correspondence and use before scaling {#archive-completeness}
+
+| Check | What counts as evidence for this purpose |
+|---|---|
+| Source coverage | The material needed for the stated question was inspected. The access record locates unread ranges and missing editions. |
+| Correspondence | The selected entries preserve who said what, what conditions limit it, the support checked and any objection or correction that changes the reading. Compare the source and the version that travels. |
+| Use in time | The intended reader can recover the governing relation when it needs to inform the decision. Record what they could recover and whether the evidence actually governed their choice. Leave a later-use finding pending until it can be observed. |
+
+These checks can yield different results. A full reading can still produce a distorted summary. A faithful extract can arrive after the decision. Use each finding to choose the repair, such as reading a missing interval, restoring a qualification or moving a condition into the brief that reaches the decision-maker.
+
+**Compare restoration burden when choosing how much to compress.** Give each format the same decision task and source edition. Record what each reader could access and when the condition was needed. Compare what they recovered in time, which sources they had to reopen, how often someone had to repeat a qualifier, and the time or effort needed. Include unsuccessful and late recoveries. Compare this evidence alongside coverage and correspondence before increasing batch size. A smaller record that repeatedly sends the reader back to the contributor for context changes who does the work.
 
 ### Worked archive example: a library booking trial {#archive-example}
 
@@ -419,6 +442,64 @@ Record what each reader saw and when. For comparisons between readers, note shar
 **Trace the method through this case.** A contains the permission and its condition. B bears on whether the default arrangement can meet that condition. C proposes a change. A brief that gives unconditional approval changes the warrant for the decision by removing A's prerequisite. Restore the prerequisite in the brief and check the first later decision that uses it, when one is available. The case also refines the agency question for the next extraction. When an appeal exists, can it reach the decision in time to change it?
 
 The 14 March handoff can point the next reader to A for authority, B for the default flow and C for the proposed change. The extract can be complete with the live outcome open. A dated booking and review record could reopen the assessment. **Can staff identify a disputed rejection, hold the slot and complete the review before anyone else gets it?** The branch decides whether to proceed with the trial under A's condition.
+
+The timing applies to the handoff too. Give the next reader a proposed approval and ask which version of the booking process meets A's condition. If they recover the vendor's timing only after approving the default flow, count it as late recovery. Put A and B where the approval is made and keep C's pilot status attached. In a comparison, record what each reader needed to open or ask for before deciding.
+
+<details id="structured-archive-record" markdown="1">
+<summary>Optional structured records for multiple batches</summary>
+
+Use the same entry IDs and source locations in the readable handoff and in any machine-readable version. Each object below can be stored on one line in a JSON Lines (JSONL) file. Give each version its own ID. Where retention is authorized, point back to the version it revises and keep the change recoverable. These entries paraphrase the simulated case. Their connections are attributed inferences.
+
+```json
+[
+  {
+    "entry_id": "library-a",
+    "source": {"id": "library-case", "edition": "teaching example", "span": "A, 3 March"},
+    "attribution": {"label": "Library minutes", "basis": "source heading"},
+    "wording": "paraphrase",
+    "claim_type": "conditional permission",
+    "claim": "A trial is permitted if staff can review a disputed rejection before allocation.",
+    "reopen_if": "Later minutes change the trial conditions."
+  },
+  {
+    "entry_id": "library-b",
+    "source": {"id": "library-case", "edition": "teaching example", "span": "B, 6 March"},
+    "attribution": {"label": "Vendor note", "basis": "source heading"},
+    "wording": "paraphrase",
+    "claim_type": "description of the default",
+    "claim": "A room may be allocated immediately. The review form opens the next morning.",
+    "relation": {
+      "from": "library-b",
+      "type": "can prevent the timely review required by",
+      "to": "library-a",
+      "source_spans": ["A, 3 March", "B, 6 March"],
+      "author": "Codex",
+      "status": "inference"
+    },
+    "reopen_if": "The operating configuration changes when allocation or review occurs."
+  },
+  {
+    "entry_id": "library-c",
+    "source": {"id": "library-case", "edition": "teaching example", "span": "C, 14 March"},
+    "attribution": {"label": "Pilot plan", "basis": "source heading"},
+    "wording": "paraphrase",
+    "claim_type": "proposal",
+    "claim": "Hold disputed slots for review during the trial.",
+    "condition": "The hold has yet to be tried with live bookings.",
+    "relation": {
+      "from": "library-c",
+      "type": "proposes a way to meet the condition in",
+      "to": "library-a",
+      "source_spans": ["A, 3 March", "C, 14 March"],
+      "author": "Codex",
+      "status": "inference"
+    },
+    "reopen_if": "A live booking record shows when the slot was held, reviewed and allocated."
+  }
+]
+```
+
+</details>
 
 ## Watch the conversation: a deep-analysis showcase {#video-showcase}
 
@@ -614,7 +695,7 @@ The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-sw
 
 Include cases requiring separation, cases requiring a warranted connection, a debranded case and a valid-null case. After one correction, try an unfamiliar item without telling the system which relationship to protect. Record the pattern of misses and whether correction transferred; agent agreement alone does not establish independent confirmation.
 
-Alongside preference, fidelity and useful discovery, record **restoration burden**: human turns, repeated qualifiers, time or effort needed to recover a lost relation, and whether an available source was left unread. A polished final answer can conceal repeated human reconstruction. These measurements extend the existing time-and-effort comparison; their coding and reliability remain open to calibration.
+Use timely recovery and [restoration burden](#archive-completeness) as outcomes alongside fidelity and useful discovery. Record what another person had to supply and what decision the reader could make with the evidence available at the time. The coding and reliability of these measurements remain open to calibration.
 
 ## Copyable starter prompt {#starter-prompt}
 
@@ -625,6 +706,8 @@ TASK AND STATUS
 Use this corrigible, A.I.-assisted extraction method for the ACCM Deep
 Ethics Project. State the question or decision the extraction serves.
 Identify any interpretation you add and the evidence that supports it.
+Start from the 10+1. Apply it to your own expectations, selection and
+response to criticism, including criticism of the property map.
 
 STAGE 0
 Before initial selection, note an expectation or resemblance that could
@@ -638,6 +721,8 @@ Mark missing spans, truncation and uncertain attribution. Cover the full
 available conversation for a whole-conversation assessment. Retrieve
 available originals or ask for material missing from the required scope.
 Where retrieval matters, record queries, recovery routes and shared sources.
+If editions are easy to confuse, give the copies distinct source IDs. Where
+you can calculate a SHA-256 checksum, record it for the exact file read.
 
 REPRESENT AND CLARIFY
 Locate the speaker, claim, condition, evidence, decision and correction
@@ -654,10 +739,10 @@ Choose properties with a job in this case. Examine correspondence,
 omnidirectional inquiry, mutual dignity and Symmetric Grace, process-quality
 calibration, healthy ambiguity, frames, competing risks, correction
 metabolism, warranted expansion, agency, temporal continuity and emergence
-where they change the reading or next use. Apply the 10+1 to your own work.
-Then look for what the starting map backgrounded. Record the relation, row
-or selection rule, and source evidence that would bring it back or revise
-the map. A useful passage can have no earned project connection.
+where they change the reading or next use. Then look for what the starting
+map backgrounded. Record the relation, row or selection rule, and source
+evidence that would bring it back or revise the map. A useful passage can
+have no earned project connection.
 
 RECORD THE RELATION
 For a retained entry, give source edition, date and exact location, speaker
@@ -701,6 +786,10 @@ For an archive, give entries stable IDs, link supporting spans across
 files, preserve chronology and record material filters or omissions.
 Keep repeated wording together where its role matches. Carry forward
 the next unread span, changes, open conditions and disposition.
+Use a compact field card for a working read. For a handoff or publication,
+carry the source, evidence, attributed links, material corrections and
+reopening conditions. Add authority, timing and permissions where a
+consequential decision depends on them.
 To test the handoff, let a fresh reader inspect an original span first.
 For a delivered extract, inspect the version a recipient actually sees
 first, including titles, captions or clips that can travel separately.
@@ -712,12 +801,13 @@ refers to it. Check that the recipient can recover the source, speaker,
 status, any governing condition and the route to reopen it.
 Check what images, sequence, narration or reconstruction added. Record
 what different reviewers inspected and made possible, with open dissent.
-Check recovery from the delivered extract in the same case. On the next
-comparable case, check whether a reader applies the same kind of relation
-when a decision depends on it. Record the evidence they used, which decision
-or output changed and any help supplied. Mark planned tests and observed
-results. If a reader needs extra material or restoration work, record what
-and how much.
+Check recovery from the delivered extract in the same case. At a comparable
+later decision, record what reached the reader before they could act and
+whether the evidence governed what they did. Record late recovery, sources
+reopened, help supplied and time or effort where measured. Compare formats
+on the same task. Before scaling an archive pass, report coverage,
+correspondence and timely use as separate findings. Mark later use as
+pending when it has yet to occur.
 
 OUTPUT
 Give the purpose, scope and coverage, distinct source-linked entries,
@@ -743,7 +833,7 @@ recover meaning. Include a dated handoff when there is a next reader.
 - Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
 - Does a change or omission claim identify both versions, the source perimeter, and the point where the relationship changed?
 - Where did the repair govern the revised output? What was the first later use it could affect, and what was observed there?
-- Can the next reader recover a cross-batch relationship and use it to reopen a selection without reconstructing the original session?
+- Can the next reader recover a cross-batch relationship in time to act or reopen a selection? What did they have to look up or ask someone to restore?
 - Can someone seeing only the delivered extract identify the source, recover the governing condition and find the reopening point? What was observed and what still needs testing?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
@@ -773,6 +863,8 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 **November 19, 2026 method revision.** John directed the upgrade of the extraction method and its wording as a whole. Grok 4.7 Expert A.I. via grok.com supplied reviews of the method, starter prompt, property map and finished-extract check. Codex connected the property tests, relationship records and decisions through the workflow and revised the copyable prompt. The diagnostic pointers use the existing [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and the comparison of directional changes draws on [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}). Further extractions can test and revise these working procedures.
 
 **November 19, 2026 worked-example review.** John supplied Grok 4.7 Expert A.I.'s review of the initiating specimens. It proposed a reusable repair record, attribution at each passage, and checks for what travels and what can reopen a new inference. Codex carried those proposals into the method and prompt. The example cuts show what the material can support, and the trolley record identifies the repair that was observed. Transfer to a fresh case remains an open test.
+
+**November 19, 2026 Arena.ai readings.** gpt-6.1-terra-max A.I. highlighted the 10+1 default state and asked whether a condition reaches the person who can act in time. gpt-5.6-sol-medium A.I. drew out three kinds of completeness and proposed exact file identifiers, structured records, proportional record depth and a comparison of restoration burden. Both responses read the supplied kit. Codex developed these suggestions into working instructions, a structured teaching example and proposed checks for the next archive pass.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
