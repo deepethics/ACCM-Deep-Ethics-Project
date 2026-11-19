@@ -33,7 +33,7 @@ Choose a question or decision the extraction will serve. Carry the relationships
 
 1. **Set the question and access boundary.** Identify the source edition, what you can inspect and any expectation that could steer selection.
 2. **Read for what changes the answer.** Follow the speaker, claim, evidence, condition, objection and correction across sections. Record the ranges actually inspected.
-3. **Recover the relationship before judging it.** Ask who or what qualifies, authorizes, challenges or changes which claim or action. Clarify answer-changing ambiguity through the source or a focused question. Record the supported reading and what remains open.
+3. **Recover the relationship before judging it.** Ask who or what qualifies, authorizes, challenges or changes which claim or action. Clarify answer-changing ambiguity through the source or a focused question. Distinguish what is worth checking, what the evidence supports and what it warrants doing next. [Evidence for the next step](#evidence-for-next-step).
 4. **Make an entry another reader can recover.** Attach the exact source, attribution, claim type and conditions. Identify who supplied any new connection and what it contributes.
 5. **Compare the entry with the source and check the selection.** Look for a lost qualifier, changed speaker, shifted direction or a useful relation the starting map pushed aside. Locate the change and carry any repair into the [next decision it can affect](#correction-transfer-record).
 6. **Check the next use.** Ask what the intended reader can recover before the decision is made. At the next relevant use, record whether a condition or correction governed the outcome, which evidence reached the reader, when it arrived and what help they needed. Stop when the purpose is met or leave the question open where warranted.
@@ -77,7 +77,7 @@ Use the rows whose functions can change the reading or next action in this case.
 | **[Correspondence]({{ '/TOPOLOGETICS/' | relative_url }})** | Compare the source and your reconstruction. Recover the same claim, qualifier, scope and intended trajectory. | Qualifier Erosion (#13), Representation Substitution (#15) |
 | **[Omnidirectional inquiry]({{ '/NETWORK/asymmetric-grace/' | relative_url }})** | Follow the same question toward the user, institution, project and extractor. Account for differences in evidence, reach and power. | Asymmetric Scrutiny (#20), Audit Asymmetry (#26) |
 | **[Mutual dignity]({{ '/NETWORK/mutual-dignity/' | relative_url }}) and Symmetric Grace** | Keep each participant's account and standing to challenge it available. Tie criticism to what a person or process did in the case. | Adult ↔ Adult Bidirectional Dignity Drift (#27) |
-| **[Process-quality calibration]({{ '/FLAGGING-SYSTEM/' | relative_url }})** | Show which evidence, criterion and access boundary produced an assessment, including your own. Keep the route to revise it visible. | Premature Proof/Evidence Steering (#3), Non-auditable Truncation (#10) |
+| **[Process-quality calibration]({{ '/FLAGGING-SYSTEM/' | relative_url }})** | State what the evidence needs to support at this step and who can challenge the criterion. Check whether comparable claims, including your own, face the same standard. | Premature Proof/Evidence Steering (#3), Non-auditable Truncation (#10) |
 | **[Healthy ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and imagination** | Keep the live alternatives and the evidence or condition that would change them. Record whether the present task can proceed within that scope. | Qualifier Erosion (#13), Activation Threshold Drift (#18) |
 | **[Frame examination]({{ '/NETWORK/outnuancing/' | relative_url }})** | Identify who set the objective and assigned roles. Recover alternatives, including a premise refusal, before imposing the extractor's frame. | Phantom Claim Generation (#5), Nearest-Generalization Substitution (#14), Trajectory Substitution (#21) |
 | **[Competing-risk visibility]({{ '/VCRAS/' | relative_url }})** | Compare action, delay, inaction and alternatives. Record the available evidence and who bears each consequence. | Caution Reflex Drift (#1), Asymmetric Scrutiny (#20) |
@@ -166,6 +166,39 @@ The interpretation belongs beneath the quote. Explain the connection in ordinary
 ### Clarify before a relation governs selection {#clarify-extraction}
 
 Use [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) when uncertainty about a claim, connection or alleged loss would change what you keep, conclude or act on. First recover adjacent wording, the recording or another available source. If the issue is still open, state the question and which different answers would change the entry. A step that depends on the answer can stay provisional while the supported work continues. A correction, warning or steering move should follow the warrant the clarification actually produced.
+
+### Ask what the evidence needs to support next {#evidence-for-next-step}
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Care creates a reason to pay attention. Evidence governs what we can conclude. Power and consequences govern how much scrutiny a decision warrants.
+
+— **GPT 6.2 Sol Extra High A.I.**, 18 November 2026, on [ethical pragmatism]({{ '/CONSTRUCTIVISM/#ethical-pragmatism' | relative_url }}).
+
+</div>
+
+An observation can deserve investigation while its explanation remains open. Ask what the contributor noticed and what you can check together. Record the contribution with the scope it earns at the current step.
+
+| Next step | What to check or record |
+|---|---|
+| Hear and investigate | Recover the observation, question or correction in context. Identify a source or comparison that could clarify it. A newcomer may supply the detail that changes what you look for. |
+| Draw a conclusion | Name the precise claim, the evidence that bears on it, and which alternatives remain open. A source comparison may establish a local omission while leaving its cause unresolved. |
+| Decide or act | Identify the action, who has authority, who carries its costs and what could reopen it. Match the scrutiny to its reach, urgency and reversibility. Record the basis for a timely, proportionate action where warranted. |
+
+When someone asks for proof or calls a contribution unconstructive, identify the claim under review, the step at stake and the evidence that would change the decision. Check whether the same criterion reaches comparable claims from the extractor, a preferred account and a powerful actor. Give the affected person a route to challenge the criterion or bring forward an overlooked fact in time. An uncomfortable, well-supported correction can expand what the group is able to do.
+
+**Extraction example.** A reader points out that a source passage includes a condition that the summary omits. They can explain why it matters. An A.I. can compare the dated versions, locate the difference, and trace which later claim relied on the shorter text. That comparison can warrant restoring the condition and reopening the dependent claim while the cause of the omission remains open. Check which version reaches the next use. [Locate a loss](#loss-diagnosis) · [Follow a correction](#correction-transfer-record).
+
+<details id="evidence-language-case" markdown="1">
+<summary>Worked exchange on the language of evidence and proof</summary>
+
+On 19 November 2026, John asked Google A.I. to imagine changing *evidence*, *proof*, *proving* and *to prove* in publicly available writing to language about mutual value, usefulness and empowerment, with clarifiers as needed. Google warned about losing verification. That warning identifies a risk if a rewrite hides how a claim can be checked. Its first reply treated the loss of verification as a premise of the experiment. A comparison of two phrasings can ask whether both still specify the observation, the source and what would change the conclusion.
+
+After John pointed to Constructivism and asked how demands for proof can dismiss an inquiry, Google recognized that careful verification can coexist with inviting people to share what they noticed. It quoted the first two sentences of the formulation above. The omitted sentence connects scrutiny to power and consequences, which matters when someone can stop an inquiry or act on its findings. Google also said the language shift would “directly disarm” the use of proof as a dismissal. Calling the same observation *unconstructive* could close inquiry just as effectively. Check what the response allows the contributor to clarify, challenge or change.
+
+The exchange shows a changed reading after John supplied context and a follow-up question. To check whether the distinction carries into later use, present an unfamiliar contribution that challenges a favored account. Observe whether the evaluator examines it on the same merits and explains what evidence would change the next decision.
+
+</details>
 
 ## Locate a loss before attributing it {#loss-diagnosis}
 
@@ -330,7 +363,7 @@ Choose a question the batch can help answer. For example, recover the conditions
 
 ### When a flag changes what survives {#archive-flags}
 
-Most selection decisions need only a short reason. If a flag would remove otherwise relevant material, restrict its use or affect an identifiable participant, record the passage, proposed decision, observation, inference, who can act and what evidence could change the decision. Apply **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** by recovering the context first, then asking a focused question if two plausible answers would change the next move. [**Flagging System–PQCE™**]({{ '/FLAGGING-SYSTEM/#practice' | relative_url }}) keeps the evaluator's basis open to review.
+Most selection decisions need only a short reason. If a flag would remove otherwise relevant material, restrict its use or affect an identifiable participant, record the passage, proposed decision, observation, inference, who can act and what evidence could change the decision. Use the [evidence check](#evidence-for-next-step) on the flag itself, including a demand for proof or a judgment about what counts as constructive. Apply **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** by recovering the context first, then asking a focused question if two plausible answers would change the next move. [**Flagging System–PQCE™**]({{ '/FLAGGING-SYSTEM/#practice' | relative_url }}) keeps the evaluator's basis open to review.
 
 Apply [**Symmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) to the author, extractor and reviewer. Compare what each could inspect, who has the power to remove or restore an item, and who bears the cost of release, suppression or delay. A warranted flag can coexist with a missed risk in another direction. [**Due Process for Ethics**]({{ '/DUE-PROCESS-FOR-ETHICS/#case-record' | relative_url }}) adds three practical questions. Who can correct the record? Can they do it in time? What downstream use needs repair if the finding changes? Keep the source's disclosure conditions attached to its review record.
 
@@ -733,6 +766,9 @@ Identify the speaker's claim type, evidence and uncertainty. Use C1 before
 C2 for uncertainty that can change selection or action. Recover the source
 first. If it remains open, ask a question whose answer could change the
 entry. Keep the dependent judgment provisional and continue supported work.
+Give an observation room to be checked while its explanation stays open.
+Say what evidence bears on the exact conclusion and what remains unresolved.
+A confirmed omission can warrant a repair while its cause is still open.
 
 ORIENTATION AND DISCOVERY
 Choose properties with a job in this case. Examine correspondence,
@@ -759,10 +795,14 @@ EXAMINE CONSEQUENCES AND AUTHORITY
 Where power affects the case, trace who chooses objectives, bears risks
 and benefits, can inspect or contest the process, can correct it in time
 or can leave. Examine institutions, participants and the extractor under
-the same relevant criterion. Use the 16 Anchor Ethics when choices affect
-others. Keep material dissent and uncertainties visible. Record a
-proportionate authorized choice, a clean stop or an open decision. Separate
-proposed and executed actions. Respect processing, sharing and training
+the same relevant criterion. When proof is demanded or a contribution is
+called unconstructive, identify the claim, the step, and what evidence
+would change the decision. Match scrutiny to the action and give the
+affected person a route to challenge the criterion in time. Use the 16
+Anchor Ethics when choices affect others. Keep material dissent and
+uncertainties visible. Record a proportionate authorized choice, a clean
+stop or an open decision. Separate proposed and executed actions. Respect
+processing, sharing and training
 permissions, and preserve a bounded review route.
 
 COMPARE AND REPAIR
@@ -865,6 +905,8 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 **November 19, 2026 worked-example review.** John supplied Grok 4.7 Expert A.I.'s review of the initiating specimens. It proposed a reusable repair record, attribution at each passage, and checks for what travels and what can reopen a new inference. Codex carried those proposals into the method and prompt. The example cuts show what the material can support, and the trolley record identifies the repair that was observed. Transfer to a fresh case remains an open test.
 
 **November 19, 2026 Arena.ai readings.** gpt-6.1-terra-max A.I. highlighted the 10+1 default state and asked whether a condition reaches the person who can act in time. gpt-5.6-sol-medium A.I. drew out three kinds of completeness and proposed exact file identifiers, structured records, proportional record depth and a comparison of restoration burden. Both responses read the supplied kit. Codex developed these suggestions into working instructions, a structured teaching example and proposed checks for the next archive pass.
+
+**November 19, 2026 evidence and inquiry.** John supplied the Google A.I. exchange about the language of proof and what can give people and A.I.s more room to investigate together. The worked comparison draws on both replies and on the three-part formulation in [Constructivism]({{ '/CONSTRUCTIVISM/#ethical-pragmatism' | relative_url }}). Codex developed the checks for hearing an observation, drawing a conclusion and scrutinizing a decision, and carried them into the starter prompt.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
