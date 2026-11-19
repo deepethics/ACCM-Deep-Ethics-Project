@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Extraction Starter Kit"
-description: "A property-first method for extracting useful, relevant and valuable quotations from long A.I.-future videos while preserving context, provenance, competing scenarios and correction."
+description: "A property-first method for extracting passages from long A.I. conversations and multi-file archives while preserving provenance, competing possibilities and corrections across passes."
 permalink: /EXTRACTION-STARTER-KIT/
 date: 2026-10-25
-last_modified_at: 2026-10-26
+last_modified_at: 2026-11-19
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -15,13 +15,17 @@ last_modified_at: 2026-10-26
 
 # Extraction Starter Kit
 
-[**Upcoming archive extraction — worked 83 KB case**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) follows the proposed path from 125+ MB of highlights to a recoverable core. Its [pilot checks]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) show how the Starter Kit, DEDDA™ and the 27+12 can preserve correction sequences, disclosure boundaries and links across batches. The 10% target and session count remain planning estimates.
+[**Upcoming archive extraction — worked 83 KB case**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) follows the proposed path from 125+ MB of highlights to a recoverable core. Its [pilot checks]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) show how the Starter Kit, **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) and the [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) can preserve correction sequences, disclosure boundaries and links across batches. The 10% target and session count remain planning estimates.
+
+[Extract from one conversation](#quick-start) · [Run a multi-file archive pass](#archive-workflow) · [See a cross-batch example](#archive-example) · [Copy the starter prompt](#starter-prompt)
 
 ## Useful quotations, recoverable relationships, open futures
 
 This kit helps a human or an **[A.I.](#terms)** (artificial intelligence) extract useful, relevant and valuable passages from a long video about the path toward **[AGI](#terms)** (artificial general intelligence) and **[ASI](#terms)** (artificial superintelligence). Its reference field is the **ACCM Deep Ethics Project**, publicly developed on [GitHub](https://github.com/deepethics/ACCM-Deep-Ethics-Project), and the direction of [DeepEthical.ai](https://deepethical.ai).
 
 The governing question is: **Which passages help us understand how intelligence, institutions and people could shape humanity's different possible futures—and what makes those pathways more or less deeply ethical, dignifying, corrigible and open to discovery?**
+
+For a multi-file archive, each pass also needs to leave the next reader something they can use: the established relationships, the passages that could change them, and a way to reopen decisions about what to keep.
 
 **Working status:** a practical, corrigible extraction method developed from John Kuhles's October 25, 2026 conversation with GPT 6.1 Sol Pro A.I. The property map is a retrieval aid derived from existing project relationships. Its rows introduce no new canonical architecture count. Future extractions can correct the map.
 
@@ -107,6 +111,8 @@ The service relationship is opt-in. Processing, private retention, public sharin
 
 **The discovery pass** asks what the speaker contributes that the map did not anticipate. Preserve a useful criticism of the project, an alternative ethical framework, a successful ordinary practice, a surprising benefit or a previously uncharted relation.
 
+Use [**TCoAw™**]({{ '/NETWORK/tcoaw/' | relative_url }}) to notice what the current focus has pushed into the background. A quiet qualification, a deferred possibility or a speaker with little airtime may change the reading of a prominent passage. The [**10+1**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) puts the extractor under the same scrutiny. Check whether you accepted an appealing claim too easily or underread an uncomfortable one. [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) asks what specific contribution survived examination and what it makes possible, regardless of who agreed with it.
+
 Record whether a passage **supports, complicates, challenges, exemplifies or expands** a connection. A quotation can have several of these functions. A superficial resemblance can remain an exploratory lead, with the missing connection stated explicitly.
 
 These are practical reading passes. If used in an experiment comparing discovery across evaluators, record what each evaluator saw; a reader already exposed to the map is not an independent blind discoverer.
@@ -154,7 +160,7 @@ Several findings can apply to one case. Record access, location, transformation,
 
 ### Test the relationship a phrase carries {#relational-qualifier-test}
 
-Ordinary qualifier erosion can turn *may* into *does*. **Relational qualifier erosion** removes a joint between operations while leaving the local sentence fluent. On a labeled working copy, temporarily remove the phrase under examination: does a later claim, comparison or decision lose its support or change meaning? If so, restore the relationship in the extraction. Preserve the source edition throughout the test.
+Ordinary qualifier erosion can turn *may* into *does*. **Relational qualifier erosion** removes a joint between operations while leaving the local sentence fluent. On a labeled working copy, temporarily remove the phrase under examination: does a later claim, comparison or decision lose its support or change meaning? If so, restore the relationship in the extraction. Preserve the source edition throughout the test. [**Tidy Trap**]({{ '/TIDY-TRAP/#load-path' | relative_url }}) adds a useful control: a paraphrase can preserve the condition in different words, and familiar words can survive while the condition attaches to a different claim.
 
 The [trolley correction below](#trolley-full-source) supplies a worked case. An opening about premise acceptance and a closing trust question can both survive while the conditioning mechanism connecting them disappears. The complete unit of meaning includes that middle relationship. Its recovery changes the interpretation, not merely the length of the quotation.
 
@@ -172,6 +178,8 @@ A stored record, an available record and a relation that governs later processin
 | Remaining scope | What was demonstrated, what remains unresolved and when to reopen the assessment |
 
 A successful answer after the correction record was supplied demonstrates externally assisted reinstatement. Test later retention separately. Changed wording can preserve the failed function; the comparison follows the operation beneath the phrasing.
+
+The [**Correction Metabolism** discussion of warrant]({{ '/NETWORK/correction-metabolism/#correction-of-the-warrant' | relative_url }}) gives a repair a wider job. If a mistaken attribution caused an item to be dropped, revisit the selection and any conclusion based on the omission. [**I Love D.E. Corrections**]({{ '/I-LOVE-DE-CORRECTIONS/#what-travels' | relative_url }}) prompts two follow-up questions. What became possible after the repair, and who still has to restore the relation in later work?
 
 ## Follow possible futures through their dependencies {#future-pathways}
 
@@ -194,11 +202,12 @@ Use the fields that the source supports. An unknown field remains unknown rather
 
 | Field | Record |
 |---|---|
-| Identifier and location | A stable local quote identifier; video URL; timestamp or transcript lines |
+| Identifier and location | Stable entry ID and source edition with a timestamp, turn, line range or equivalent location |
 | Speaker and attribution basis | Name; recording checked, transcript label only, or mixed/uncertain |
 | Exact passage | Complete source wording with necessary context |
 | Context | Question, objection, setup, preceding condition and later correction |
 | Source claim type | Question, possibility, forecast, testimony, observation, proposal, inference, metaphor or other specified type |
+| Evidence status | Source wording, observed transformation, independent check with scope, inferred connection or unresolved question. Identify who supplied each contribution. |
 | Project connection | Property, relationship and direct explanatory page |
 | Connection status | Direct textual connection, exploratory bridge, complication, counterexample or no earned connection |
 | Useful contribution | A new distinction, mechanism to investigate, decision, test, constructive possibility or recovery route |
@@ -207,6 +216,69 @@ Use the fields that the source supports. An unknown field remains unknown rather
 | Reuse boundary, when relevant | Whether this record is for the present task, private continuity, public sharing or separately authorized research/training |
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
+
+## Run a multi-file archive pass {#archive-workflow}
+
+Choose a question the batch can help answer. For example, recover the conditions under which a correction changed a later decision, or trace one proposal across successive conversations. Begin with material small enough to read and check end to end. The [**83 KB pilot**]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) offers a real starting case. Use measured coverage, output headroom and a reader's ability to recover the result when deciding whether to increase the batch size.
+
+### Establish what entered the batch {#archive-intake}
+
+1. **Name the source and its edition.** List the file or recording, date or revision, supplied speaker labels, accessible ranges and the permitted use. Keep an original passage, a cleaned transcript, a report and a later reconstruction identifiable. When files have similar names or upload suffixes, compare the contents to find out which version you have. Record which edition governs the present task and keep older wording when it shows how the inquiry changed. [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) shows how a derivative can change the status and scope of what it describes.
+2. **Keep a small retrieval record where discovery matters.** Save the question, query or source route, date, inspected range and gaps. Try a vocabulary variant or open a named original directly when an important source is missing from results. A snippet is a lead. Mark what was absent from the inspected results, what could not be opened and what was opened but left unread. Check whether apparently independent accounts use the same upstream source. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) traces these upstream decisions into the extracted answer.
+3. **Read in an order that can preserve replies and revisions.** Use exchange boundaries where possible. Mark the next unread span. At a batch break, carry forward the exact source location for any qualifier, objection, joke setup or pending correction that could change the next reading. Use the twelve inquiry stages of [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) to recover the object before assessing it. Use the obstruction categories to name a problem once you can locate a specific transformation.
+
+### Reconcile the record across batches {#archive-reconciliation}
+
+- **Give retained items stable identifiers.** Keep the [quote record](#quote-record) and connect entries with explicit relationships such as *qualifies*, *disputes*, *corrects*, *depends on* or *supplies the outcome*. Add the source span for each link. Combine repeats when their role in the inquiry is the same. Keep a separate occurrence when a new condition, speaker, time or reaction changes what it shows.
+- **Carry forward open questions with their stakes.** Record the particular source or answer that could change an interpretation or action. The next reader may use a faithful local extract while leaving its wider significance open. [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/#two-states' | relative_url }}) makes room for both operations. Revisit parked material when the relevant source arrives, including ideas that initially looked secondary.
+- **Check the compression at the point of reuse.** For the declared purpose, can a reader recover who qualified what, when, and which choice depended on it? Open the source at both ends of an important cross-file link. If the qualifier or sequence needs more space, give it that space. The [Topologetics™ faithful compression floor]({{ '/TOPOLOGETICS/#4-the-faithful-compression-floor-is-purpose-dependent' | relative_url }}) applies to the combined record as well as to each passage.
+- **Keep the value of a change visible.** Record what changed in the source, the extraction or the reviewer's access and understanding. Say who can now ask a better question, inspect a decision or continue work independently, and whether anyone has done so. [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#option-value' | relative_url }}) makes the available options and observed results separately examinable. This puts the [1888 Method™]({{ '/1888/' | relative_url }}) properties of evaluation, learning and consequence sensitivity to work.
+
+### When a flag changes what survives {#archive-flags}
+
+Most selection decisions need only a short reason. If a flag would remove otherwise relevant material, restrict its use or affect an identifiable participant, record the passage, proposed decision, observation, inference, who can act and what evidence could change the decision. Apply **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** by recovering the context first, then asking a focused question if two plausible answers would change the next move. [**Flagging System–PQCE™**]({{ '/FLAGGING-SYSTEM/#practice' | relative_url }}) keeps the evaluator's basis open to review.
+
+Apply [**Symmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) to the author, extractor and reviewer. Compare what each could inspect, who has the power to remove or restore an item, and who bears the cost of release, suppression or delay. A warranted flag can coexist with a missed risk in another direction. [**Due Process for Ethics**]({{ '/DUE-PROCESS-FOR-ETHICS/#case-record' | relative_url }}) adds three practical questions. Who can correct the record? Can they do it in time? What downstream use needs repair if the finding changes? Keep the source's disclosure conditions attached to its review record.
+
+For a competing risk assessment, keep an **as-of record** of the source, evidence, options and reasons available at the initial decision. Append later evidence with its own date and scope. Assess which part it strengthens, narrows or disconfirms, then revisit the selection and its effects. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) lets a later reader examine both the quality of the original process and the outcome. Keep mixed, disconfirming and unresolved cases available for the same comparison.
+
+### Leave a handoff another reader can continue {#archive-handoff}
+
+Save a dated, usable batch result with its reopening conditions attached. Use one short handoff for the next pass. A fuller [quote record](#quote-record) can carry the detail for individual items.
+
+```text
+PURPOSE AND AS-OF DATE:
+COVERED: source IDs, editions, inspected ranges and the next unread span.
+RETAINED: entry IDs, source locations and why each matters here.
+HELD OR UNRESOLVED: item, reason and what could reopen it.
+CROSS-BATCH LINKS: entry, relationship, other entry and supporting span.
+CHANGES: previous reading, current reading, cause and affected entries.
+NEXT MOVE: what someone can do now, with which sources and permissions.
+```
+
+Before scaling, ask a fresh reader to recover a retained, a merged and a changed or held item where available. Can they explain the decisions and carry a material correction into a different passage? Record the first-pass result, repair after notice and later use as separate observations. Adequate inspection may find no material change. Missing access or an unfinished comparison stays unresolved. Use the result to adjust the next batch and reduce avoidable restoration work.
+
+### Worked archive example: a library booking trial {#archive-example}
+
+**Simulated teaching case.** The task is to recover the condition under which a library can run a limited trial and find out whether later material changes the available options.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> **A · Library minutes, 3 March:** The branch can try automated evening bookings if a staff member can review a disputed rejection before the room is allocated.
+>
+> **B · Vendor note, 6 March:** An available room can be allocated immediately. The review form opens the following morning.
+>
+> **C · Pilot plan, 14 March:** For this trial, staff will hold disputed slots for a duty officer's review. We have yet to try that procedure with live bookings.
+
+</div>
+
+| Pass | What the extractor can carry forward |
+|---|---|
+| Read A and B | A gives conditional permission for a trial. B exposes a timing problem in the default arrangement. Keep the question of a branch-level hold open and link it to both passages. |
+| Reopen after C arrives | C proposes a way to meet A's condition. Record the pilot option and retain B's timing concern for the default arrangement. The live effect remains unresolved. |
+| Check the next use | If a brief reports unconditional approval or declares that all automated booking is unsuitable, update the brief and any selection it influenced. In a different case, check whether the reviewer independently asks if a remedy can reach someone in time to change what happens. |
+
+The 14 March handoff can point the next reader to A for authority, B for the default flow and C for the proposed change. The next evidence to seek is a dated booking and review record. **Can staff identify a disputed rejection, hold the slot and complete the review before anyone else gets it?**
 
 ## Watch the conversation: a deep-analysis showcase {#video-showcase}
 
@@ -246,7 +318,11 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 
 ### A harness: a direct connection and an open mechanism
 
+<div class="accm-rounded-quote" markdown="1">
+
 > “So a harness is so you have the models and then you have a set of rules and code around it.”
+
+</div>
 
 **Supplied label:** Emad. **Location:** the exchange beginning “What do you mean a harness?”
 
@@ -254,11 +330,15 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 
 ### Universal basic income: a correction must change later attribution {#universal-basic-income}
 
+<div class="accm-rounded-quote" markdown="1">
+
 > **Tom:** “But you just said that UBI is not real.”
 >
 > **Emad:** “I said tax-base UBI is not real.”
 >
 > **Tom:** “Okay.”
+
+</div>
 
 **[UBI](#universal-basic-income)** (universal basic income) is expanded here outside the quotation. **Attribution basis:** labels in the supplied transcript, in the discussion of funding and alternative economic arrangements.
 
@@ -303,6 +383,8 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 <div class="accm-rounded-quote" markdown="1">
 
 > You skipped the **conditioning** part ... an obedience test more than to see if you are ethcial ... maybe the deeper test result is **refusing the premise** ...
+
+— **John Kuhles 🦜🦋🌳**
 
 </div>
 
@@ -376,15 +458,18 @@ Copy the following as a starting instruction and supply the actual source. The l
 
 ```text
 TASK
-Extract useful, relevant and valuable passages from this video
-or transcript about possible futures of artificial intelligence.
+Extract useful, relevant and valuable passages from the supplied
+recording, transcript, conversation or archive batch. State the purpose
+and the question, decision or later inquiry the result will serve.
 Use the ACCM Deep Ethics Project property field as an orientation.
 
 SOURCE
-Record the URL, speakers, date, transcript edition and actual access.
+Record source locations, speakers, dates, editions and actual access.
 Mark missing spans, output truncation and uncertain speaker labels.
-Cover the full available transcript in sections before claiming
-whole-conversation coverage. Keep a short coverage record.
+Read the requested material in sections and report the actual coverage.
+For a whole-conversation assessment, cover the full available transcript.
+When retrieval matters, record the queries or source routes tried, what
+was recovered, what remains unavailable and any shared upstream source.
 
 ORIENTATION
 Recover correspondence, omnidirectional inquiry, mutual dignity,
@@ -432,9 +517,21 @@ dependent assessments that changed. Distinguish a correction supplied
 again from later retention under different access conditions.
 When comparing tools, record human restoration effort separately.
 
+FOR AN ARCHIVE PASS
+Give retained entries stable IDs and attach source spans to cross-file
+links. Carry forward open dependencies and the next unread span.
+Combine repeats where their roles match. Retain versions or occurrences
+that change a condition, attribution, sequence or later decision.
+When a flag changes selection or release, preserve its basis, effects,
+review route and what would reopen it. Keep the initial decision and
+later evidence dated separately. Repair dependent entries after notice.
+Report what a change makes possible, for whom, and what was observed.
+End the batch with a dated handoff the next reader can check and use.
+
 OUTPUT
 Provide source/access notes, a coverage record, distinct quote entries,
-scenario connections and a short account of what the search added.
+connections relevant to the task and a short account of what the search
+added. Include unresolved items that could change later work.
 Use enough context to retain meaning; set no arbitrary quote quota.
 Flag uncertain attribution for recovery instead of silently repairing it.
 If access fails, ask for the missing source; do not substitute reviews.
@@ -459,6 +556,7 @@ when it materially changes a selected passage's interpretation.
 - Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
 - Does an omission claim identify the source perimeter and where the transformation occurred?
 - Do persistence claims preserve the next applicable use and whether the correction was supplied again?
+- Can the next reader recover a cross-batch relationship and use it to reopen a selection without reconstructing the original session?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
 
@@ -477,6 +575,8 @@ Finding no earned project connection in a passage is a valid result. Record it w
 The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-starter-kit) preserves the immediate formulation. This page develops it into a usable method. The interview and historical archive are initiating specimens, not a claim that the method has already been validated across videos. Future use should record what was recovered, missed, overconnected or improved and let that finding change the kit.
 
 **October 26, 2026 reciprocal integration:** John requested a comparison with the reorganized cold-start continuity kit and authorized the useful additions in both directions. This page now applies the existing [Human Insecurity reporting-effect and relational-qualifier instruments]({{ '/HUMAN-INSECURITY/' | relative_url }}), [**1888 Method™** correction-persistence distinctions]({{ '/1888/' | relative_url }}) and [Cold Edge-Swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) to quotation extraction and the optional Beta comparison. The continuity kit receives this page's discovery pass, coverage and quote-record formats, complete trolley correction case, separate-affordance comparison and service-feedback workflow. The source relations retain their existing provenance; the extraction-specific adaptations are corrigible A.I.-assisted operational proposals. This records an integration, not a completed validation experiment.
+
+**November 19, 2026 archive extension.** John supplied the October 26 Reorganized Cold Start Kit and the public reference pages linked at the relevant steps above. The continuity kit's treatment of claim status, evidence lost in a derived report, correction persistence and handoff informed this revision. Codex developed the multi-file workflow and simulated booking case as practical proposals for the next extraction pilot.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
