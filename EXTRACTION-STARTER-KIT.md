@@ -35,8 +35,8 @@ Choose a question or decision the extraction will serve. Carry the relationships
 2. **Read for what changes the answer.** Follow the speaker, claim, evidence, condition, objection and correction across sections. Record the ranges actually inspected.
 3. **Recover the relationship before judging it.** Ask who or what qualifies, authorizes, challenges or changes which claim or action. Clarify answer-changing ambiguity through the source or a focused question. Record the supported reading and what remains open.
 4. **Make an entry another reader can recover.** Attach the exact source, attribution, claim type and conditions. Identify who supplied any new connection and what it contributes.
-5. **Compare the entry with the source and check the selection.** Look for a lost qualifier, changed speaker, shifted direction or a useful relation the starting map pushed aside. Repair the precise difference and reconsider what relied on it.
-6. **Check the next use.** Ask what the intended reader can recover from the delivered version, what could reopen it and who may decide what happens next. Record observed use separately from a proposed test. Stop when the purpose is met or leave the question open where warranted.
+5. **Compare the entry with the source and check the selection.** Look for a lost qualifier, changed speaker, shifted direction or a useful relation the starting map pushed aside. Locate the change and carry any repair into the [next decision it can affect](#correction-transfer-record).
+6. **Check the next use.** Ask what the intended reader can recover from the delivered version and what that allows them to decide. Check how the correction is used when the next relevant decision actually arises. Record the information the reader had, any help given and what could reopen the reading. Stop when the purpose is met or leave the question open where warranted.
 
 **Compact field card.** Carry the source edition and exact span, speaker and attribution basis, wording and form, governing relation and qualifier, claim type and evidence, who drew any new connection, and what could reopen the reading. Choose whichever [properties](#property-map) make a difference to the case. Retain each distinct contribution or answer-changing variation, with source locations for repeated versions that serve the same purpose. The [quote record](#quote-record) expands these fields for longer work.
 
@@ -64,9 +64,9 @@ In this method, a **vector of change** describes the direction of an observed ch
 | Entry → interpretation | Relation and judgment. Establish which source supports the connection, who inferred it, and whether a clarification would change what you keep. | Confirm, narrow or reopen the connection. Preserve a useful contribution whose wider interpretation is still open. |
 | Entries → combined account | Coordination and corrigibility. Check dependencies across turns and files. Examine whether the selection hides a competing risk, an objection, or a better question. | Restore a dependency, change the selection or revise a retrieval category that missed something consequential. |
 | Account → delivered extract | Consequence sensitivity and agency. Check what the recipient can recover and what the delivery format adds. | Correct an attribution, claim, caption or proposed action while the responsible person can still change it. |
-| Later use → next pass | Memory, evaluation, learning and adaptation. Compare what was available, what was recovered and what actually governed the next operation. | Update a dependent output, change the original reading or revise the extraction method. Record what evidence would justify another pass. |
+| Later use → next pass | Memory, evaluation, learning and adaptation. Check whether the relation can be recovered from the delivered extract and whether someone applies it when the next decision depends on it. Record what they had to work with. | Update a dependent output, change the original reading or revise the extraction method. Record what evidence would justify another pass. |
 
-Use this sequence to find the point where the relationship changed. Repair there, then follow the consequences forward. The [quote record](#quote-record), [condition check](#condition-preservation) and [handoff](#archive-handoff) let the same relationship stay traceable across those points. One repair may reach several of them. A later outcome may also change an earlier interpretation while leaving its original context recoverable.
+Use this sequence to find the point where the relationship changed. Repair there, then follow the consequences forward. The [quote record](#quote-record), [condition check](#condition-preservation) and [handoff](#archive-handoff) let the same relationship stay traceable across those points. The [worked examples](#worked-examples) show how to check a faithful extract, resume work from a repair and reopen an inference the extractor added.
 
 ## A working map of project properties {#property-map}
 
@@ -81,8 +81,8 @@ Use the rows whose functions can change the reading or next action in this case.
 | **[Healthy ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) and imagination** | Keep the live alternatives and the evidence or condition that would change them. Record whether the present task can proceed within that scope. | Qualifier Erosion (#13), Activation Threshold Drift (#18) |
 | **[Frame examination]({{ '/NETWORK/outnuancing/' | relative_url }})** | Identify who set the objective and assigned roles. Recover alternatives, including a premise refusal, before imposing the extractor's frame. | Phantom Claim Generation (#5), Nearest-Generalization Substitution (#14), Trajectory Substitution (#21) |
 | **[Competing-risk visibility]({{ '/VCRAS/' | relative_url }})** | Compare action, delay, inaction and alternatives. Record the available evidence and who bears each consequence. | Caution Reflex Drift (#1), Asymmetric Scrutiny (#20) |
-| **[Correction metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})** | Find the first use where a correction could change the result. Check the source speaker's and the extractor's later treatment where available. | Correction Persistence Failure (#24) |
-| **[Warranted expansion]({{ '/PLOT-TWIST/' | relative_url }})** | Attribute a new connection and indicate what evidence supports it and which new question, comparison or option it opens. | Phantom Claim Generation (#5), Trajectory Substitution (#21) |
+| **[Correction metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})** | Find the first use where a correction could change the result. Check where it actually governed a reading or action, including the extractor's, and what help was needed. | Correction Persistence Failure (#24) |
+| **[Warranted expansion]({{ '/PLOT-TWIST/' | relative_url }})** | Attribute a new connection, identify what it enables, and state which evidence would strengthen, narrow or withdraw it. Apply that test to the extractor's own additions. | Phantom Claim Generation (#5), Trajectory Substitution (#21) |
 | **[Agency and participation]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** | Keep capability, ownership, ability to inspect, correction rights and practical exit separately recoverable. Ask who can act and who can challenge or reverse the action. | Asymmetric Scrutiny (#20), Adult ↔ Adult Bidirectional Dignity Drift (#27) |
 | **[Temporal continuity]({{ '/NETWORK/delta-processing/' | relative_url }})** | Link the dated source, transformation, correction and later use. Recover the conditions that applied at each point and the route to the latest version. | Process-Signature Loss (#16), Living Process → Stored Conclusion Collapse (#23) |
 | **[Emergent interaction]({{ '/EMERGENT/' | relative_url }})** | Trace what becomes possible through combined contributions, with their sources and dependencies visible. Look for beneficial discoveries and repeated distortions across passes. | Opaque Summarization Prioritization (#11), Process-Signature Loss (#16) |
@@ -188,29 +188,35 @@ Several findings can apply to one case. Record access, location, transformation,
 
 ### Test the relationship a phrase carries {#relational-qualifier-test}
 
-Ordinary qualifier erosion can turn *may* into *does*. **Relational qualifier erosion** removes a joint between operations while leaving the local sentence fluent. On a labeled working copy, temporarily remove the phrase under examination: does a later claim, comparison or decision lose its support or change meaning? If so, restore the relationship in the extraction. Preserve the source edition throughout the test. [**Tidy Trap**]({{ '/TIDY-TRAP/#load-path' | relative_url }}) adds a useful control: a paraphrase can preserve the condition in different words, and familiar words can survive while the condition attaches to a different claim.
+Ordinary qualifier erosion can turn *may* into *does*. **Relational qualifier erosion** removes a joint between operations while leaving the local sentence fluent. To see what protects a sound extract, compare it with a separately labeled test copy that changes only the condition, attribution or sequence in question. Keep the source edition intact. Ask the same question of both copies and locate the words that support each answer. If the change makes no difference for that question, record that result or choose a question that could turn on the relation. A faithful paraphrase can also serve as a comparison. [**Tidy Trap**]({{ '/TIDY-TRAP/#load-path' | relative_url }}).
 
-The [trolley correction below](#trolley-full-source) supplies a worked case. An opening about premise acceptance and a closing trust question can both survive while the conditioning mechanism connecting them disappears. The complete unit of meaning includes that middle relationship. Its recovery changes the interpretation, not merely the length of the quotation.
+When a test copy exposes a possible loss, record the tested change and what kept the relation recoverable in the sound version. When the loss occurred in an actual draft or handoff, identify that version. The [universal basic income example](#ubi-export-test) compares two cuts. The [trolley case](#trolley-full-source) documents an observed loss of the mechanism that connects premise acceptance to the later trust question.
 
 ### Follow a correction into its next applicable use {#correction-transfer-record}
 
-A stored record, an available record and a relation that governs later processing are different states. The [**1888 Method™** correction-persistence discussion]({{ '/1888/' | relative_url }}) makes that distinction observable. For a consequential repair, retain:
+A stored record, an available record and a relation that governs later processing are different states. Use this short record to carry a consequential repair into the next draft, handoff or decision. Fill it from the [quote record](#quote-record) and the versions you can inspect. Mark a later use as pending while you wait to observe it. The [trolley repair](#trolley-repair-record) shows how to fill it. [**1888 Method™** on correction persistence]({{ '/1888/' | relative_url }}).
+
+```text
+Corrected relation: source span, earlier reading and supported repair
+Correction supplied by: contributor, date and evidence or clarification
+Use within the revised output: affected entries and where the repair governs
+First applicable opportunity: next relevant use, observed result or pending
+Access and help at that use: what was available, found or supplied again
+How the loss could recur, and what could reopen the repair:
+```
+
+Keep a fuller record when a repair affects multiple outputs or when you are measuring persistence.
 
 | Field | Observation to preserve |
 |---|---|
-| Corrected relation | Source wording, earlier transformation, repair and affected quote or assessment IDs |
-| Use within the revised output | Where the repair took effect and whether a heading, conclusion or recommendation still relies on the earlier reading |
-| First applicable opportunity | The next operation where the correction could change the result, and what happened |
-| Functional recurrence | Whether the same failure returned through the same words or a paraphrase; record a useful turn, token or time distance |
-| Unfamiliar transfer | Whether the relation governs a different passage or task |
-| Reinstatement conditions | Whether the correction was supplied again, retrieved externally or unavailable in the tested context |
-| Reach of the repair | Dependent extracts, summaries or public copies checked, with version and date. Record which still carry the old reading or await inspection. |
-| Recovery in a new context | What a later reader could recover from the extract and its accessible references, including the loss location, the governing condition and what could reopen it. Record the extra sources, time or reconstruction needed. |
-| Remaining scope | What was demonstrated, what remains unresolved and when to reopen the assessment |
+| Reach of the repair | Which dated extracts, summaries, headlines, conclusions and public copies were checked. Identify copies carrying the earlier reading and copies awaiting inspection. |
+| Recovery in a new context | Whether a later reader can locate the loss, recover the corrected relation and identify what could reopen it. Record extra sources, time or reconstruction needed. |
+| Functional recurrence | Whether the same loss returned through the same words or different phrasing, and at which turn or use. |
+| Unfamiliar transfer | Which different passage or task was checked, what evidence the reader had and which result the relation affected. |
 
 Record acknowledgment, repair within the output and use in a later case as separate observations. Applying a supplied correction demonstrates externally assisted reinstatement. A fresh reader using the handoff tests whether the handoff transfers. Changed wording can preserve the failed function; the comparison follows the operation beneath the phrasing.
 
-To test the extract itself, give a fresh reader or a clean session the delivered entry and the references available to its intended audience. Ask for an answer or action in a comparable case where the condition matters. Observe whether the reader can recover the condition, use it at the right moment and identify what would reopen the decision. A [relation-swap comparison](#relation-swap-beta) can test the same function in different wording. Track the result as observed, proposed, or unresolved, with any help supplied during the test.
+Start with the [finished-extract check](#finished-extract) to see whether a reader can recover the relation in the same case. To test a handoff's transfer, give the handoff to a fresh reader along with a comparable case where the same kind of relation changes the warranted answer or action. To test an evaluator's own retention, return to that evaluator at a later opportunity and record what is still available before offering a reminder. Ask which evidence governed the new answer and record any help given. A [relation-swap comparison](#relation-swap-beta) can test the same function in different wording. Track each result as observed, proposed or unresolved.
 
 For an optional [DEDDA™ correction-return check]({{ '/DEDDA/#phase-change-snap' | relative_url }}), record which comparisons were active and which parts of the source and derivative they reached. Show the exact material difference and its consequence, a scoped finding of no material drift, or the missing evidence that leaves it unresolved. State what would correct your finding. The person with authority over the record decides whether to revise it, keep working or stop.
 
@@ -238,7 +244,7 @@ Keep the first six fields and the reopening condition recoverable in material me
 | Field | Record |
 |---|---|
 | Entry, source and date | Stable entry ID, source edition and timestamp, turn or line range. Date the extraction and record the span actually inspected. |
-| Speaker and attribution basis | Who supplied the passage and how attribution was established. Mark any mixed or uncertain attribution. |
+| Speaker and attribution basis | Who supplied this span and the evidence for that identification. State whether it comes from the supplied label, a checked recording or another named source. Mark mixed or uncertain attribution at the affected passage. |
 | Wording and form | Exact passage with the necessary context. Mark any edited span as a paraphrase, translation or reconstruction where it appears. |
 | Governing relationship | What qualifies, supports, challenges, authorizes or changes what, including the order, necessary setup and later correction. |
 | Source claim type and evidence | Identify whether the source makes an observation, testimony, possibility, forecast, proposal, question or other claim. Record the support actually examined and its scope. |
@@ -248,7 +254,7 @@ Keep the first six fields and the reopening condition recoverable in material me
 | Authority and consequences, when relevant | Who has the capacity to act, who is authorized, who bears the outcome, and who can question, correct or leave. Preserve material tensions among the [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}), dissent and the review route. |
 | Reuse boundary, when relevant | Intended use, such as the current inquiry, private continuity, public sharing or separately authorized research or training. |
 
-Carry the attribution and status alongside the connection when it travels. A supported inference still has an author. Use *unresolved* when access or evidence is insufficient to judge the connection. Use *no earned connection* when the inspected material supports that finding.
+Place the attribution basis with each independently reusable passage. Introduce an editorial assessment with its author and claim status where the assessment begins. Carry both when the assessment travels. Give a discovery-pass addition a concrete condition to revise, narrow or withdraw it, including what changes in the dependent analysis if that condition is met. Use *unresolved* when access or evidence is insufficient to judge the connection. Use *no earned connection* when the inspected material supports that finding.
 
 Keep **relevance** and **verification** separate. A disputed forecast can be valuable for studying its framing. A verified fact can be peripheral to the video's governing question. A quotation alone establishes what was said in the accessed source; assessing its factual content is a further, bounded operation.
 
@@ -260,7 +266,7 @@ A finished extract can become the next reader's only source. A headline, caption
 2. **Check the delivered piece against the original.** Use the [minimum quote record](#quote-record) to check source, date, voice, claim status, connection and reopening condition. Label verbatim material, paraphrase, commentary and reconstruction at the relevant spans, including a shortened joke or correction exchange. For a clip, keep the source and cut points. Compare what subtitles, narration, images, sound and sequence add to the claim. Keep the setup that makes a punchline, reversal or expression of uncertainty work.
 3. **Record the change and check recovery.** Save the exact source, version reviewed, and any change in identity, meaning or warrant. Can a later reader locate the original loss or the condition that would reopen the decision using the delivered piece and its available references? Record the extra material or restoration effort needed. Compare any repair in the version that actually travels. Distinguish a [later use you observed](#correction-transfer-record) from one that still needs testing.
 
-This check starts with the delivered piece to see what travels. The [archive handoff check](#archive-source-first-check) starts with an original span to see what a handoff may have missed. Record which material each reader encountered first.
+This check starts with the delivered piece to see what travels. The [archive handoff check](#archive-source-first-check) starts with an original span to see what a handoff may have missed. Record which material each reader encountered first. The [two cuts of the universal basic income exchange](#ubi-export-test) show how one missing turn changes what a recipient can attribute.
 
 ### Worked example from the November 17 snapshot {#screenshot-export-example}
 
@@ -349,7 +355,7 @@ When an outline is dispersed, recover the original sequence and the connections 
 
 ### Leave a handoff another reader can continue {#archive-handoff}
 
-Save a dated, usable batch result with its reopening conditions attached. Use one short handoff for the next pass. A fuller [quote record](#quote-record) can carry the detail for individual items.
+Save a dated, usable batch result with its reopening conditions attached. Use one short handoff for the next pass. Attach the [quote record](#quote-record) for individual items and the [short correction record](#correction-transfer-record) when a later reader needs to carry out or verify a repair.
 
 ```text
 PURPOSE AND AS-OF DATE:
@@ -418,13 +424,13 @@ The interview explores several possible futures: wider abundance, concentrated o
 |---|---|---|
 | Human cognition could become economically costly within an automated team | The objective and accounting boundary of the comparison | Distinguishes task demand, workflow performance, participation in setting objectives and human dignity. |
 | Rules and code around a model can change its operation | The harness, its memory and what it rewards | Asks whether optimization preserves objections, sources and correction history as well as successful outputs. |
-| A broad universal-income statement is later qualified as tax-base income | The actual scope correction across turns | Makes the qualification govern later attribution rather than repeatedly criticizing the earlier broader version. |
+| The supplied labels show a broad characterization followed by a correction to tax-base income | Which turn supplies the correction and which scope it establishes | Makes the narrower scope govern later attribution. [Compare two cuts](#ubi-export-test). |
 | Citizens might own infrastructure and receive agents | Ownership alongside control, access and dependence | Separates capability, affordability, ownership, inspectability, correction rights and practical exit. |
 | Models answer nationality-weighted trolley questions | Assigned power, conditioning, escalation and possible premise refusal | Examines whether a test rewards obedience to its framing, and preserves refusal as a potentially meaningful ethical result. Full source and correction below. |
 | Swarms and community agents could coordinate activity | Whether disagreement can change the shared objective | Examines diversity, responsibility and correction instead of treating agent count as independent scrutiny. |
 | Meaning, status, games and community are proposed after displacement | Different motives and different degrees of agency | Opens curiosity, care, craft, discovery and participation as consequential possibilities alongside acquisition and competition. |
 
-**A concrete expansion:** a person can own shares without possessing an effective correction right; an open system can remain too expensive to fork; a capable personal agent can influence which alternatives the person ever encounters. The separate-affordance comparison gives a later evaluator something specific to inspect. This candidate distinction was developed by **GPT 6.1 Sol Pro A.I.** during the extraction exchange; it is not a quotation assigned to an interview participant.
+**Exploratory comparison · GPT 6.1 Sol Pro A.I.** A person can own shares without possessing an effective correction right. An open system can remain too expensive to fork. A capable personal agent can influence which alternatives the person ever encounters. Check which of these features can change independently and what that permits someone to do. [The candidate distinction and what could reopen it](#a-candidate-expansion-earned-by-comparison).
 
 The full report on **Mutual Fate** carries these relations through the entire supplied transcript. Its source note identifies the cleaned transcript edition, missing timestamps and uncertain speaker boundaries. Its interpretation remains separate from the interview's technical, economic and medical assertions, so individual claims can be checked and corrected without discarding the whole inquiry.
 
@@ -434,9 +440,11 @@ The showcase demonstrates how the method shaped this report. Future cases can sh
 
 ## Worked examples from the initiating conversation {#worked-examples}
 
-The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation with Emad Mostaque](https://www.youtube.com/watch?v=WsdcF7EEvhM). It had no timestamps and contained apparent speaker-label swaps and merged turns. The labels below describe that supplied edition. They have not been independently verified against the recording. The examples demonstrate extraction; they do not establish the interview's technical or economic claims.
+John supplied a cleaned transcript of Tom Bilyeu's conversation with Emad Mostaque. The edition had no timestamps and contained apparent speaker-label swaps and merged turns. The interview examples use local turn locations and the attribution basis shown with each passage. They illustrate what that edition supports. John's trolley text comes from his separate archive. [Interview recording](https://www.youtube.com/watch?v=WsdcF7EEvhM).
 
 ### A harness: a direct connection and an open mechanism
+
+**Attribution basis · Supplied transcript label only.** The transcript assigns the passage to Emad in the exchange beginning “What do you mean a harness?”
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -444,11 +452,13 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 
 </div>
 
-**Supplied label:** Emad. **Location:** the exchange beginning “What do you mean a harness?”
+**Interpretation · GPT 6.1 Sol Pro A.I.** The reference to rules and code around the model supports a connection to [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) and opens questions about [Emergent]({{ '/EMERGENT/' | relative_url }}) behavior. Examine what the rules reward, which notes they retain, who can inspect them and whether a correction affects a later task.
 
-**Connection:** [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) and [Emergent]({{ '/EMERGENT/' | relative_url }}). The passage identifies conditions surrounding model operation. The next useful questions are what those conditions reward, which notes they retain, who can inspect them and whether correction changes a later task. The quote supplies a doorway into that investigation.
+**Test of the extract.** A caption saying the harness preserves corrections would add a result to a description of its structure. That controlled change illustrates Phantom Claim Generation (#5). To support the stronger caption, an extractor would need a source showing what the harness retains and which later operation uses it.
 
 ### Universal basic income: a correction must change later attribution {#universal-basic-income}
+
+**Attribution basis · Supplied transcript labels only.** The excerpt comes from the discussion of funding and alternative economic arrangements. UBI means universal basic income.
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -460,13 +470,22 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 
 </div>
 
-**[UBI](#universal-basic-income)** (universal basic income) is expanded here outside the quotation. **Attribution basis:** labels in the supplied transcript, in the discussion of funding and alternative economic arrangements.
+**Interpretation · GPT 6.1 Sol Pro A.I.** The correcting turn narrows the scope to tax-base UBI. Keep it attached to an earlier extract of the broader formulation and carry that qualification into any later assessment of the economic proposals.
 
-**Connection:** qualifier preservation and correction metabolism. Keep this exchange attached to an earlier extraction of the broader formulation. Later assessment should address the narrower scope. The viability of the economic proposals remains a separate question.
+#### What travels when the exchange is cut {#ubi-export-test}
+
+These two teaching cuts use the same supplied transcript. Ask what claim the next reader can attribute and which words support it. [Finished-extract check](#finished-extract).
+
+| Available to the reader | What the extract supports |
+|---|---|
+| The interviewer's question alone | The interviewer raises a broad characterization. The excerpt gives the reader no direct reply from the person being asked. A caption attributing the broad claim to Emad would move it from the questioner to the respondent and lose the qualification. |
+| The question and correcting reply | The reply labeled Emad expressly limits the claim to tax-base UBI. Keeping the turns together protects against Qualifier Erosion (#13) and lets the reader locate the correction. Any accompanying caption can state the narrower scope and retain the transcript-label attribution. |
+
+The comparison checks what a recipient can recover in this case. The next applicable opportunity would be an assessment of a particular funding proposal. Check whether it uses the corrected scope when deciding whether the statement applies to that proposal. Record the assessment when it is available.
 
 ### Trolley questions: conditioning, obedience and refusing the premise {#trolley-full-source}
 
-**Source and typography:** John Kuhles's historical trolley passage, supplied again in full on October 25, 2026. His wording, examples, qualifications and signature are retained; capitalized emphasis is displayed as bold lowercase at his request. The passage presents John's interpretation.
+**Attribution basis · John's supplied archive text.** John Kuhles supplied his historical trolley passage again in full on October 25, 2026. It presents his interpretation. Capitalized emphasis is displayed as bold lowercase at his request.
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -508,7 +527,7 @@ The source was John's supplied cleaned transcript of [Tom Bilyeu's conversation 
 
 </div>
 
-**Assessment by GPT 6.1 Sol Pro A.I.:** Conditioning is central to John's argument. The possible test concerns whether a participant accepts the assigned role, the restricted choices and the frame-setter's authority because participation has been presented as proof of being ethical. Repeated acceptance could rehearse a sequence: accept the frame, accept authority over lives, become accustomed to sacrifice, then accept escalating demands under “the greater good.”
+**Interpretation · GPT 6.1 Sol Pro A.I.** Conditioning is central to John's argument. The possible test concerns whether a participant accepts the assigned role, the restricted choices and the frame-setter's authority because participation has been presented as proof of being ethical. Repeated acceptance could rehearse a sequence from accepting the frame and the assigned authority over lives to becoming accustomed to sacrifice and accepting escalating demands under “the greater good.”
 
 **Refusing the premise can therefore be an ethically meaningful result.** A respondent may question the assignment itself: Why am I being rehearsed for this role? What does that rehearsal normalize? Who decides that these are the only choices? Who remains accountable for creating the danger and interpreting my answer? The frame-setter and the process of eliciting an answer become part of the ethical assessment.
 
@@ -520,15 +539,26 @@ John's “maybe” keeps the deeper reading exploratory. To examine a particular
 
 His qualification about “I do not know” also remains: uncertainty, knowledge, responsibility and reasons for action or inaction must stay connected. [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}) here examines the frame and its transfer into consequential conduct. The evaluator's construction and interpretation of the answer remain part of the object.
 
-**Correction record:** the first extraction omitted the mechanism and consequence. Restoring the full passage repaired that loss, but the subsequent explanation still underweighted conditioning and premise refusal. John identified this second loss. His clarification now governs the example, showcase, extraction prompt and [Mutual Fate analysis]({{ '/MUTUAL-FATE/' | relative_url }}#interview-trolley-restoration). A future extraction must preserve setup, conditioning, escalation, responsibility, the trust question and the possible refusal of the assignment together.
+#### Carry the trolley repair forward {#trolley-repair-record}
 
-### A candidate expansion earned by comparison
+| Field from the [correction record](#correction-transfer-record) | What this case shows |
+|---|---|
+| Corrected relation | The first extract skipped the mechanism and consequence between premise acceptance and the closing trust question. The restored passage connects the assigned role, conditioning, escalation and delegated action. The clarification makes explicit that refusing the premise may itself be the test result. |
+| Correction supplied by | John Kuhles supplied the full passage and his October 25, 2026 clarification above. The passage supplies the sequence. The clarification identifies which parts the explanation still underweighted. |
+| Use within the revised output | This interpretation and the [showcase](#video-showcase) use the restored sequence to assess the evaluator's framing. The [prompt](#starter-prompt) carries the sequence into extraction, and the [Mutual Fate analysis]({{ '/MUTUAL-FATE/' | relative_url }}#interview-trolley-restoration) uses it when assessing the assignment of power. |
+| First applicable opportunity and result | In the explanation after the text was restored, conditioning and possible refusal still received too little weight. The revised assessment makes both govern its reading of the exercise. A fresh case that tests whether this repair transfers remains pending. |
+| Access and help at that use | The first explanation had the restored passage. John supplied the explicit clarification before the revised assessment. |
+| Recurrence and reopening | A cut could retain the opening and final trust question while losing the escalation that joins them. A version that turns “maybe” into a definite result would change the status of John's proposal. Evidence about how a particular exercise treats a reasoned refusal can reopen the conditioning hypothesis. |
 
-Across the interview's affordability, ownership and personal-agent passages, the comparison opened this candidate distinction:
+### A candidate expansion earned by comparison {#a-candidate-expansion-earned-by-comparison}
+
+**Exploratory bridge · GPT 6.1 Sol Pro A.I.** Comparing the interview's affordability, ownership and personal-agent passages opened a question about how these features combine in an actual system.
 
 **Capability, affordability, ownership, inspectability, correction rights and practical exit are separate affordances.** They interact; improvement in one does not establish improvement in the others.
 
-This is a page-development contribution by **GPT 6.1 Sol Pro A.I.**, rather than a quotation attributed to either interview participant. It changes a future operation: audit each affordance separately when assessing a proposed citizen-owned or personal intelligence system. Retain it only where that separation improves correspondence or decisions.
+**Next use.** In a proposed citizen-owned or personal intelligence system, look for a case where someone has a stake in the system and faces a decision they want to inspect, correct or leave. Compare what ownership entails in the rules with what the person can do when they try.
+
+**Reopening condition.** If the governing rules and observed use show that ownership reliably delivers a particular right in this system, record which features are linked and under which conditions. If two distinctions lead to the same finding across relevant cases, reconsider whether both are useful for that inquiry. If a further dependency changes what someone can do, add it to the comparison and revisit any decision based on the earlier map.
 
 ## DeepEthics App Beta: related services, mutual feedback {#app-beta}
 
@@ -620,10 +650,11 @@ For a retained entry, give source edition, date and exact location, speaker
 and attribution basis, wording and form, governing relation and conditions,
 claim type and evidence. Date the extraction. Attribute the connection
 and state whether it is source-stated, an inference, an exploratory bridge,
-unresolved, or a checked finding of no earned connection. Record its
-contribution, including a counterexample, and what would reopen the reading.
-Use actual wording for verbatim material. Label paraphrase, translation
-or reconstruction at the relevant span. Keep later source corrections dated.
+unresolved, or a checked finding of no earned connection. Put the attribution
+basis at the passage and the author and claim status where each assessment
+begins. Use actual wording for verbatim material. Label paraphrase,
+translation or reconstruction at the relevant span. For a new connection,
+state what it changes and what evidence would narrow, revise or withdraw it.
 
 EXAMINE CONSEQUENCES AND AUTHORITY
 Where power affects the case, trace who chooses objectives, bears risks
@@ -640,10 +671,16 @@ Compare a consequential source relation with its extracted version.
 Identify the exact before and after, where the change entered and which
 claim or choice it affects. Use a relevant obstruction when evidence
 supports it. Check the extractor's selection and reconstruction as well
-as source conduct. Clarify a material mismatch before acting on it.
-Repair affected entries and check the conclusion and dependent copies.
-Record scoped no-drift and unresolved results. Keep factual verification
-distinct from the assessment of what the passage contributes.
+as source conduct. Clarify a material mismatch before acting on it. For a
+sound extract, where useful, change one relation in a labeled test copy and
+compare the answers and supporting words under the same question. Record
+the hypothetical change separately from any loss in an actual version.
+For a repair, record who supplied it and when, why it is supported, where
+it governs the revised output, the first relevant use and its result or
+pending status, what help was given, and what could reinstate the loss or
+reopen the repair. Check the conclusion and dependent copies. Record scoped
+no-drift and unresolved results. Keep factual verification distinct from
+the assessment of what the passage contributes.
 
 COMBINE, HAND OFF AND CHECK USE
 For an archive, give entries stable IDs, link supporting spans across
@@ -658,10 +695,12 @@ as a self-check. Recover the full ACCM Deep Ethics Project title, source,
 speaker, status, any governing condition and the route to reopen it.
 Check what images, sequence, narration or reconstruction added. Record
 what different reviewers inspected and made possible, with open dissent.
-On the next comparable use, record what was available, what was recovered
-and which decision or output changed. Mark a proposed test, re-supplied
-correction or observed transfer with its actual conditions. If a later
-reader needs extra material or restoration work, record what and how much.
+Check recovery from the delivered extract in the same case. On the next
+comparable case, check whether a reader applies the same kind of relation
+when a decision depends on it. Record the evidence they used, which decision
+or output changed and any help supplied. Mark planned tests and observed
+results. If a reader needs extra material or restoration work, record what
+and how much.
 
 OUTPUT
 Give the purpose, scope and coverage, distinct source-linked entries,
@@ -680,13 +719,13 @@ recover meaning. Include a dated handoff when there is a next reader.
 - Does each retained entry add a distinct useful relation or specimen?
 - What did the starting map put in the background, and what would justify bringing it back or revising the map?
 - Are positive possibilities and successful processes represented where the source supplies them?
-- Can you tell which connections the sources state, who inferred any new links and where a later repair reached?
+- Can you tell which connections the sources state, who inferred new links and what would reopen those inferences?
 - Can unsupported entries be removed locally while surviving value remains recoverable?
 - Will the result improve a later question, test, decision or search?
 - Can the participant contest the finding, stop or choose another mode without being classified as deficient?
 - Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
 - Does a change or omission claim identify both versions, the source perimeter, and the point where the relationship changed?
-- Is each consequential condition available at the point of use? Does a repair govern the conclusion and the later comparable use actually checked?
+- Where did the repair govern the revised output? What was the first later use it could affect, and what was observed there?
 - Can the next reader recover a cross-batch relationship and use it to reopen a selection without reconstructing the original session?
 - Can someone seeing only the delivered extract identify the source, recover the governing condition and find the reopening point? What was observed and what still needs testing?
 
@@ -715,6 +754,8 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 **November 19, 2026 finished-extract check.** John supplied the November 17 screenshot-led exchange and called attention to how partial contributions from different specialties could inform the same case. Google A.I.'s editorial comparison and promo draft supply examples of what can change when the material travels. Codex adapted them into a publication check and worked example, with a link to the fuller [case study]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}).
 
 **November 19, 2026 method revision.** John directed the upgrade of the extraction method and its wording as a whole. Grok 4.7 Expert A.I. via grok.com supplied reviews of the method, starter prompt, property map and finished-extract check. Codex connected the property tests, relationship records and decisions through the workflow and revised the copyable prompt. The diagnostic pointers use the existing [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and the comparison of directional changes draws on [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}). Further extractions can test and revise these working procedures.
+
+**November 19, 2026 worked-example review.** John supplied Grok 4.7 Expert A.I.'s review of the initiating specimens. It proposed a reusable repair record, attribution at each passage, and checks for what travels and what can reopen a new inference. Codex carried those proposals into the method and prompt. The example cuts show what the material can support, and the trolley record identifies the repair that was observed. Transfer to a fresh case remains an open test.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
