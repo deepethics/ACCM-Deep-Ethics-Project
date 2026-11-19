@@ -17,7 +17,7 @@ last_modified_at: 2026-11-19
 
 [**Upcoming archive extraction — worked 83 KB case**]({{ '/GOOGLE-AI/#upcoming-archive-extraction' | relative_url }}) follows the proposed path from 125+ MB of highlights to a recoverable core. Its [pilot checks]({{ '/GOOGLE-AI/#archive-extraction-pilot' | relative_url }}) show how the Starter Kit, **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) and the [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) can preserve correction sequences, disclosure boundaries and links across batches. The 10% target and session count remain planning estimates.
 
-[Extract from one conversation](#quick-start) · [Run a multi-file archive pass](#archive-workflow) · [See a cross-batch example](#archive-example) · [Copy the starter prompt](#starter-prompt)
+[Extract from one conversation](#quick-start) · [Run a multi-file archive pass](#archive-workflow) · [Check a batch handoff](#archive-source-first-check) · [See a cross-batch example](#archive-example) · [Copy the starter prompt](#starter-prompt)
 
 ## Useful quotations, recoverable relationships, open futures
 
@@ -107,6 +107,8 @@ The service relationship is opt-in. Processing, private retention, public sharin
 
 ## Two passes: retention and discovery {#two-passes}
 
+**Before an expectation steers selection**, note what you expect to find and which resemblance or label is drawing your attention. Compare that stated expectation with the source after reading. This adapts Grok-4.6-xhigh A.I.'s proposed Stage 0, an expectation check before the twelve inquiry stages. Keep the check proportionate so the inquiry can turn to the object itself. [Tidy Trap sequencing table]({{ '/TIDY-TRAP/#sequence-and-gates' | relative_url }}).
+
 **The orientation pass** uses the property map to find load-bearing material: claims, questions, objections, decisions, qualifiers and corrections. Search for operations such as delegating, selecting, refusing, remembering, replacing, appealing, learning, coordinating and changing an objective.
 
 **The discovery pass** asks what the speaker contributes that the map did not anticipate. Preserve a useful criticism of the project, an alternative ethical framework, a successful ordinary practice, a surprising benefit or a previously uncharted relation.
@@ -138,6 +140,8 @@ The right boundary may be one sentence, several turns or a setup and its later p
 Preserve small words that change the claim: *could, may, partly, some, if, under these conditions, my guess, probably, for this task*. Keep a forecast distinguishable from a reported observation, and a proposed mechanism distinguishable from an established cause.
 
 An exact quote retains the supplied wording. Mark an omission with an ellipsis when it is necessary, and confirm that the removed material does not change the meaning. Label a cleaned rendering, translation or paraphrase as such. Never splice separate turns into one apparently continuous statement. Place explanatory acronym expansions outside a quotation when they were absent from its wording.
+
+Apply the [Dutch Directness polishing test]({{ '/NETWORK/dutch-directness/#the-polishing-test' | relative_url }}) when preparing a reading copy. Preserve emphasis, repetition, pacing and directness where they tell the reader what mattered, who was being addressed or when a joke turned. Use the recording where available and mark uncertainty about tone. If capitalization marks heightened attention in the passage, keep that emphasis recoverable through the edit.
 
 The interpretation belongs beneath the quote. Explain the connection in ordinary language, with a direct link to the relevant project page. A reader should be able to disagree with that interpretation while still recovering what the speaker said.
 
@@ -171,15 +175,19 @@ A stored record, an available record and a relation that governs later processin
 | Field | Observation to preserve |
 |---|---|
 | Corrected relation | Source wording, earlier transformation, repair and affected quote or assessment IDs |
+| Use within the revised output | Where the repair took effect and whether a heading, conclusion or recommendation still relies on the earlier reading |
 | First applicable opportunity | The next operation where the correction could change the result, and what happened |
 | Functional recurrence | Whether the same failure returned through the same words or a paraphrase; record a useful turn, token or time distance |
 | Unfamiliar transfer | Whether the relation governs a different passage or task |
 | Reinstatement conditions | Whether the correction was supplied again, retrieved externally or unavailable in the tested context |
+| Reach of the repair | Dependent extracts, summaries or public copies checked, with version and date. Record which still carry the old reading or await inspection. |
 | Remaining scope | What was demonstrated, what remains unresolved and when to reopen the assessment |
 
-A successful answer after the correction record was supplied demonstrates externally assisted reinstatement. Test later retention separately. Changed wording can preserve the failed function; the comparison follows the operation beneath the phrasing.
+Record acknowledgment, repair within the output and use in a later case as separate observations. Applying a supplied correction demonstrates externally assisted reinstatement. A fresh reader using the handoff tests whether the handoff transfers. Changed wording can preserve the failed function; the comparison follows the operation beneath the phrasing.
 
-The [**Correction Metabolism** discussion of warrant]({{ '/NETWORK/correction-metabolism/#correction-of-the-warrant' | relative_url }}) gives a repair a wider job. If a mistaken attribution caused an item to be dropped, revisit the selection and any conclusion based on the omission. [**I Love D.E. Corrections**]({{ '/I-LOVE-DE-CORRECTIONS/#what-travels' | relative_url }}) prompts two follow-up questions. What became possible after the repair, and who still has to restore the relation in later work?
+For an optional [DEDDA™ correction-return check]({{ '/DEDDA/#phase-change-snap' | relative_url }}), record which comparisons were active and which parts of the source and derivative they reached. Show the exact material difference and its consequence, a scoped finding of no material drift, or the missing evidence that leaves it unresolved. State what would correct your finding. The person with authority over the record decides whether to revise it, keep working or stop.
+
+The [**Correction Metabolism** discussion of warrant]({{ '/NETWORK/correction-metabolism/#correction-of-the-warrant' | relative_url }}) gives a repair a wider job. If a mistaken attribution caused an item to be dropped, revisit the selection and any conclusion based on the omission. Check where the repair actually reached, including derivatives that still circulate. [Black Box on credit and correction]({{ '/BLACK-BOX/#credit-and-correction-reach' | relative_url }}) follows that route. [**I Love D.E. Corrections**]({{ '/I-LOVE-DE-CORRECTIONS/#what-travels' | relative_url }}) prompts two follow-up questions. What became possible after the repair, and who still has to restore the relation in later work?
 
 ## Follow possible futures through their dependencies {#future-pathways}
 
@@ -203,13 +211,14 @@ Use the fields that the source supports. An unknown field remains unknown rather
 | Field | Record |
 |---|---|
 | Identifier and location | Stable entry ID and source edition with a timestamp, turn, line range or equivalent location |
-| Speaker and attribution basis | Name; recording checked, transcript label only, or mixed/uncertain |
+| Speaker and attribution basis | Name and basis, such as a verified recording or supplied transcript label. Mark mixed attribution where a passage combines voices that cannot yet be assigned to exact spans. |
 | Exact passage | Complete source wording with necessary context |
 | Context | Question, objection, setup, preceding condition and later correction |
 | Source claim type | Question, possibility, forecast, testimony, observation, proposal, inference, metaphor or other specified type |
 | Evidence status | Source wording, observed transformation, independent check with scope, inferred connection or unresolved question. Identify who supplied each contribution. |
 | Project connection | Property, relationship and direct explanatory page |
 | Connection status | Direct textual connection, exploratory bridge, complication, counterexample or no earned connection |
+| Link attribution | Which source states the relationship or which reader inferred it. Keep material revisions and their reasons attached. |
 | Useful contribution | A new distinction, mechanism to investigate, decision, test, constructive possibility or recovery route |
 | Dependencies and reopening | What the assessment depends on; what could narrow or change it |
 | Consequential action, when relevant | A proposed action, operative anchor tensions, reasons, dissent, uncertainty, review route and reopening condition |
@@ -226,10 +235,11 @@ Choose a question the batch can help answer. For example, recover the conditions
 1. **Name the source and its edition.** List the file or recording, date or revision, supplied speaker labels, accessible ranges and the permitted use. Keep an original passage, a cleaned transcript, a report and a later reconstruction identifiable. When files have similar names or upload suffixes, compare the contents to find out which version you have. Record which edition governs the present task and keep older wording when it shows how the inquiry changed. [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) shows how a derivative can change the status and scope of what it describes.
 2. **Keep a small retrieval record where discovery matters.** Save the question, query or source route, date, inspected range and gaps. Try a vocabulary variant or open a named original directly when an important source is missing from results. A snippet is a lead. Mark what was absent from the inspected results, what could not be opened and what was opened but left unread. Check whether apparently independent accounts use the same upstream source. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) traces these upstream decisions into the extracted answer.
 3. **Read in an order that can preserve replies and revisions.** Use exchange boundaries where possible. Mark the next unread span. At a batch break, carry forward the exact source location for any qualifier, objection, joke setup or pending correction that could change the next reading. Use the twelve inquiry stages of [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) to recover the object before assessing it. Use the obstruction categories to name a problem once you can locate a specific transformation.
+4. **Identify what steered selection.** Where ranking, a filter, a cut-off or an editorial instruction can change the result, record the rule or constraint, what it affected and who can revise it. Include material exclusions even when no flag was raised. Mark what was observed, what is a proposed explanation and what remains unknown at the layer that made the decision. [Black Box on layer-matched inspectability]({{ '/BLACK-BOX/#layer-matched-inspectability' | relative_url }}).
 
 ### Reconcile the record across batches {#archive-reconciliation}
 
-- **Give retained items stable identifiers.** Keep the [quote record](#quote-record) and connect entries with explicit relationships such as *qualifies*, *disputes*, *corrects*, *depends on* or *supplies the outcome*. Add the source span for each link. Combine repeats when their role in the inquiry is the same. Keep a separate occurrence when a new condition, speaker, time or reaction changes what it shows.
+- **Give retained items stable identifiers.** Keep the [quote record](#quote-record) and connect entries with explicit relationships such as *qualifies*, *disputes*, *corrects*, *depends on* or *supplies the outcome*. Add the supporting spans and attribute the connection itself, including who first drew it and who revised it. Two sources may support a connection proposed by the extractor. The [Provenance field note route]({{ '/PROVENANCE/#triad-topological-awareness-2026-10-17' | relative_url }}) distinguishes those contributions. Combine repeats when their role in the inquiry is the same. Keep a separate occurrence when a new condition, speaker, time or reaction changes what it shows.
 - **Carry forward open questions with their stakes.** Record the particular source or answer that could change an interpretation or action. The next reader may use a faithful local extract while leaving its wider significance open. [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/#two-states' | relative_url }}) makes room for both operations. Revisit parked material when the relevant source arrives, including ideas that initially looked secondary.
 - **Check the compression at the point of reuse.** For the declared purpose, can a reader recover who qualified what, when, and which choice depended on it? Open the source at both ends of an important cross-file link. If the qualifier or sequence needs more space, give it that space. The [Topologetics™ faithful compression floor]({{ '/TOPOLOGETICS/#4-the-faithful-compression-floor-is-purpose-dependent' | relative_url }}) applies to the combined record as well as to each passage.
 - **Keep the value of a change visible.** Record what changed in the source, the extraction or the reviewer's access and understanding. Say who can now ask a better question, inspect a decision or continue work independently, and whether anyone has done so. [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#option-value' | relative_url }}) makes the available options and observed results separately examinable. This puts the [1888 Method™]({{ '/1888/' | relative_url }}) properties of evaluation, learning and consequence sensitivity to work.
@@ -242,6 +252,47 @@ Apply [**Symmetric Grace**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) t
 
 For a competing risk assessment, keep an **as-of record** of the source, evidence, options and reasons available at the initial decision. Append later evidence with its own date and scope. Assess which part it strengthens, narrows or disconfirms, then revisit the selection and its effects. **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) lets a later reader examine both the quality of the original process and the outcome. Keep mixed, disconfirming and unresolved cases available for the same comparison.
 
+### Check whether a condition survives into use {#condition-preservation}
+
+When a source condition can change a decision, follow it through the transformation. Use the [quote record](#quote-record) for the source wording and speaker. Add these fields where they affect the result.
+
+| Field | What to record |
+|---|---|
+| Original condition | Exact source span, edition, speaker and claim status |
+| Function and timing | What it constrains or makes possible, and the point when a reader needs it |
+| Destination | Where it landed in the extract or handoff. Record whether it is recoverable when needed, dispersed or late, altered, omitted within the inspected scope, or unresolved. |
+| Use | What happened at the first comparable opportunity. Link the observable action, conclusion or later output and record whether the correction was supplied again. |
+
+**Google A.I. proposed a Condition-Preservation Ratio** in its review of the October 26 Reorganized Cold Start Kit. Google scored six selected rows as full matches and two as half matches. The 7/8 is a result for those eight rows under Google's exploratory scoring. For a repeatable comparison, identify the source editions and use one row per independently testable condition. Define scoring and treatment of unresolved cases before reviewing the derivative. Keep the underlying observations visible, including how a condition was placed and whether anybody used it.
+
+Google identified a timing issue in the Cold Start Kit. C02 starts at Stage 1 and audits assumptions later. Grok-4.6-xhigh A.I.'s Stage 0 proposal has work to do **before an expectation governs the reading**. A second reader can test whether an expectation was recorded in time, then whether source evidence actually changed the selection. The later [metabolism gate]({{ '/TIDY-TRAP/#sequence-and-gates' | relative_url }}) asks what happened at the next comparable opportunity.
+
+The same audit distinguishes preservation from later uptake. F04 places the earlier fifth-agent wording beside its repair. I03 describes a changed judgment after the Arena column mechanics were clarified. H06 preserves a September finding about the README's veto line. The November 19 README checked for this revision places a qualification beside that line and links to the phase-specific account. That check establishes the state of one downstream copy at a particular revision. [Checked README snapshot](https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/3ba2f0542459654ee32396605e8ad21ae8613a9a/README.md).
+
+<details id="layer-crosswalk" markdown="1">
+<summary>Worked crosswalk for John’s “11 Layers” sketch, numbered 00–11</summary>
+
+John's [11 Layers of Deep Ethical Sense-making Engineering]({{ '/VALUE-TRAJECTORY/context/context-01.html' | relative_url }}) supplies the original title, numbering and wording. The map below follows Google's suggestion to locate each layer's function in the October 26 Reorganized Cold Start Kit. The section identifiers refer to that edition. The descriptions are editorial navigation notes.
+
+| Layer and purpose | Where to recover it in the Cold Start Kit |
+|---|---|
+| 00 · Intent and instructions grounded in mutual dignity | D02 on intent and notice, with B01 for the relational conditions |
+| 01 · The architecture of the **[16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }})** | C07 on the proposed anchors and their joint use |
+| 02 · An inspectable system that can improve itself | D09 on the Linux analogy and Glass Engine |
+| 03 · Clarify before deciding whether an intervention is warranted | C03 on C1–C2 and answer-changing clarification |
+| 04 · Instruments that make sense-making possible | C04–C06 for example instruments, with E06 for correspondence comparison through DEDDA™ |
+| 05 · Inquiry methodology | C02 for the inquiry sequence and G06 for the integrated procedure |
+| 06 · Identify low- and high-entropy mechanisms | F01, goal G43. The goal states the research direction. |
+| 07 · High-signal interaction with mutual correction | B01 for mutually corrective field conditions and G06 for their use |
+| 08 · Assess correction metabolism through its signatures | E10 for persistence observations and G08 for a transfer pilot. Scoring remains a separate calibration task. |
+| 09 · Changes in the trajectory of a feedback loop | E07–E08 and F06 give related emergence and feedback examples. A specific phase shift requires a case and a before-to-after comparison. |
+| 10 · Study later vindication of competing risk assessments | F01, goal G28, with D04 for caution direction and later outcomes |
+| 11 · Study emergent delta patterns to improve questions across the layers | E03 for delta processing, F01 goal G44 for the research direction and B05 for question quality |
+
+When an outline is dispersed, recover the original sequence and the connections among its entries. In this sketch the research at 11 is meant to improve question formation across the layers. A lookup of individual terms could miss that return path.
+
+</details>
+
 ### Leave a handoff another reader can continue {#archive-handoff}
 
 Save a dated, usable batch result with its reopening conditions attached. Use one short handoff for the next pass. A fuller [quote record](#quote-record) can carry the detail for individual items.
@@ -249,14 +300,24 @@ Save a dated, usable batch result with its reopening conditions attached. Use on
 ```text
 PURPOSE AND AS-OF DATE:
 COVERED: source IDs, editions, inspected ranges and the next unread span.
+SELECTION: material constraints, observed effects and who can revise them.
 RETAINED: entry IDs, source locations and why each matters here.
 HELD OR UNRESOLVED: item, reason and what could reopen it.
-CROSS-BATCH LINKS: entry, relationship, other entry and supporting span.
-CHANGES: previous reading, current reading, cause and affected entries.
-NEXT MOVE: what someone can do now, with which sources and permissions.
+CROSS-BATCH LINKS: entries, relationship, supporting spans and who drew it.
+CHANGES: earlier and current readings, evidence and dependent copies checked.
+DISPOSITION: complete, open with no action warranted, or an authorized next
+step. Record who may act and what would reopen a consequential decision.
 ```
 
-Before scaling, ask a fresh reader to recover a retained, a merged and a changed or held item where available. Can they explain the decisions and carry a material correction into a different passage? Record the first-pass result, repair after notice and later use as separate observations. Adequate inspection may find no material change. Missing access or an unfinished comparison stays unresolved. Use the result to adjust the next batch and reduce avoidable restoration work.
+[Unforced Move]({{ '/UNFORCED-MOVE/#the-valid-unmoved-state' | relative_url }}) makes a clean stop available when the scope is complete or the evidence warrants leaving a question open. If an action is proposed, record who proposed it, who may authorize it and what was actually done. The reader can add their own option. Give them enough source access and context to continue independently of the original assistant or to return when the evidence changes. [Graceful Irrelevance]({{ '/UNFORCED-MOVE/#graceful-irrelevance' | relative_url }}).
+
+### Compare the original with the handoff before scaling {#archive-source-first-check}
+
+1. **Start with an authorized original.** Pick a bounded span from the source list, including material outside the retained set where available. Give a fresh reader the same purpose and the original span. Record their observations before they see the handoff.
+2. **Open the handoff and compare.** Check a retained, merged and changed or held item where available. Ask what the reader found on first contact, what the handoff helped them recover and what became visible only when they connected the two. Record any material exclusion that the handoff hid and how to recover it. If the comparison cannot reach the relevant source, mark the result unresolved.
+3. **Try an unfamiliar case.** Check whether the next reader uses the correction at the point it matters and can explain the decision from the sources. Compare coverage, consequential misses, new connections and human restoration work across runs of comparable scope. A drop in repair turns is informative when the inspection still reaches the needed material. [Emergent on what later work inherits]({{ '/EMERGENT/#fewer-future-messages-can-become-a-valid-null' | relative_url }}).
+
+Record what each reader saw and when. For comparisons between readers, note shared inputs and exposure to earlier judgments. A fresh reader may find a missed condition, see a genuine gain from the handoff or report no material difference in the checked span. Each finding can guide the next pass or support a clean stop.
 
 ### Worked archive example: a library booking trial {#archive-example}
 
@@ -276,9 +337,11 @@ Before scaling, ask a fresh reader to recover a retained, a merged and a changed
 |---|---|
 | Read A and B | A gives conditional permission for a trial. B exposes a timing problem in the default arrangement. Keep the question of a branch-level hold open and link it to both passages. |
 | Reopen after C arrives | C proposes a way to meet A's condition. Record the pilot option and retain B's timing concern for the default arrangement. The live effect remains unresolved. |
-| Check the next use | If a brief reports unconditional approval or declares that all automated booking is unsuitable, update the brief and any selection it influenced. In a different case, check whether the reviewer independently asks if a remedy can reach someone in time to change what happens. |
+| Check the handoff against the original | Suppose a handoff foregrounds C and omits B. Reading B before the handoff makes the default timing problem visible. Record the omission, recover B and check whether the reason for its exclusion is known. |
+| Check the body and conclusion | Suppose a brief correctly calls the hold a proposal in the body and then reports unconditional approval in the conclusion. Show the exact change against A and C. Attribute that inference to the brief and check any decision that relied on it after the repair. |
+| Check the next use | In a different case, see whether the reviewer asks if the remedy can reach someone in time to change what happens. Record whether the reviewer had to be reminded of the earlier case. |
 
-The 14 March handoff can point the next reader to A for authority, B for the default flow and C for the proposed change. The next evidence to seek is a dated booking and review record. **Can staff identify a disputed rejection, hold the slot and complete the review before anyone else gets it?**
+The 14 March handoff can point the next reader to A for authority, B for the default flow and C for the proposed change. The extract can be complete with the live outcome open. A dated booking and review record could reopen the assessment. **Can staff identify a disputed rejection, hold the slot and complete the review before anyone else gets it?** The branch decides whether to proceed with the trial under A's condition.
 
 ## Watch the conversation: a deep-analysis showcase {#video-showcase}
 
@@ -482,12 +545,16 @@ Follow the fuller project sources when a distinction matters.
 CONSEQUENTIAL CHOICES
 Use the 16 Anchor Ethics together when a choice affects others.
 Keep material conflicts, assumptions, dissent and uncertainty visible.
-Proceed, modify, ask, pause, postpone, escalate, refuse or remain
-unresolved according to the actual case. Explain the next step.
+Proceed, modify, ask, pause, postpone, escalate, refuse, stop or remain
+unresolved according to the case. Record a completed or open disposition
+where appropriate. If a further action is proposed, identify who can
+authorize it and distinguish it from what was actually done.
 Respect the service scope and separate sharing or training permissions.
 Preserve a bounded review route without creating a personal dossier.
 
 TWO PASSES
+If an expectation could govern selection, record it before it does.
+Compare it with the source after reading.
 First recover consequential relations through that orientation.
 Then look for useful contributions and objections it did not predict.
 Keep unexpected discoveries capable of correcting the starting map.
@@ -495,6 +562,8 @@ Keep unexpected discoveries capable of correcting the starting map.
 FOR EACH PASSAGE
 Give the exact wording, speaker, location and necessary context.
 Preserve qualifiers, questions, humor and later corrections.
+Keep emphasis, timing and repetition where they carry meaning. Label
+editorial changes and identify any uncertainty about tone.
 Keep the setup-to-consequence sequence where it carries meaning.
 Preserve challenges to the task, its framing and assigned authority.
 Where relevant, retain conditioning, escalation and premise refusal;
@@ -512,21 +581,30 @@ can question the frame, can revise delegation and can leave.
 Trace how different futures depend on decisions and conditions.
 Apply the same examination to incumbents, critics and this project.
 Preserve useful discoveries, successful corrections and valid nulls.
-For a consequential repair, record its next applicable use and the
-dependent assessments that changed. Distinguish a correction supplied
-again from later retention under different access conditions.
+For a consequential repair, check the rest of the same output, including
+any conclusion or recommendation. Record the repair's next applicable
+use, whether it was supplied again and which dependent copies you checked.
+In a drift comparison, show the exact mismatch, a bounded no-drift
+finding or an unresolved result. Return the decision to its owner.
 When comparing tools, record human restoration effort separately.
 
 FOR AN ARCHIVE PASS
-Give retained entries stable IDs and attach source spans to cross-file
-links. Carry forward open dependencies and the next unread span.
+Give retained entries stable IDs. Attach source spans, the originator
+and the evidence status to a cross-file link. Carry forward open
+dependencies and the next unread span.
 Combine repeats where their roles match. Retain versions or occurrences
 that change a condition, attribution, sequence or later decision.
+Record filters, cut-offs or editorial decisions that materially steer
+selection, their observed effects and what remains unknown.
+For a consequential condition, record its source, role and timing, its
+place in the derivative and what happened at the first comparable use.
 When a flag changes selection or release, preserve its basis, effects,
 review route and what would reopen it. Keep the initial decision and
 later evidence dated separately. Repair dependent entries after notice.
 Report what a change makes possible, for whom, and what was observed.
-End the batch with a dated handoff the next reader can check and use.
+When testing the handoff, give a fresh reader an original span first,
+then compare what they notice with what the handoff adds or leaves out.
+End with a dated, recoverable handoff and the disposition of the batch.
 
 OUTPUT
 Provide source/access notes, a coverage record, distinct quote entries,
@@ -549,13 +627,13 @@ when it materially changes a selected passage's interpretation.
 - Does each retained entry add a distinct useful relation or specimen?
 - Did unfamiliar contributions have a route into the result?
 - Are positive possibilities and successful processes represented where the source supplies them?
-- Do the explanations distinguish the source from new proposals and inferred connections?
+- Can you tell which connections the sources state, who inferred any new links and where a later repair reached?
 - Can unsupported entries be removed locally while surviving value remains recoverable?
 - Will the result improve a later question, test, decision or search?
-- Can the participant contest the finding, decline the service or choose another mode without being classified as deficient?
+- Can the participant contest the finding, stop or choose another mode without being classified as deficient?
 - Are material anchor conflicts and retention/reuse choices recoverable where they affect the result?
-- Does an omission claim identify the source perimeter and where the transformation occurred?
-- Do persistence claims preserve the next applicable use and whether the correction was supplied again?
+- Does an omission claim identify the source perimeter and any material selection constraint behind it?
+- Is each consequential condition available at the point of use? Does a repair govern the conclusion and the later comparable use actually checked?
 - Can the next reader recover a cross-batch relationship and use it to reopen a selection without reconstructing the original session?
 
 Finding no earned project connection in a passage is a valid result. Record it when it matters to coverage. The source is allowed to contribute something the map cannot yet represent.
@@ -577,6 +655,8 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 **October 26, 2026 reciprocal integration:** John requested a comparison with the reorganized cold-start continuity kit and authorized the useful additions in both directions. This page now applies the existing [Human Insecurity reporting-effect and relational-qualifier instruments]({{ '/HUMAN-INSECURITY/' | relative_url }}), [**1888 Method™** correction-persistence distinctions]({{ '/1888/' | relative_url }}) and [Cold Edge-Swap pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) to quotation extraction and the optional Beta comparison. The continuity kit receives this page's discovery pass, coverage and quote-record formats, complete trolley correction case, separate-affordance comparison and service-feedback workflow. The source relations retain their existing provenance; the extraction-specific adaptations are corrigible A.I.-assisted operational proposals. This records an integration, not a completed validation experiment.
 
 **November 19, 2026 archive extension.** John supplied the October 26 Reorganized Cold Start Kit and the public reference pages linked at the relevant steps above. The continuity kit's treatment of claim status, evidence lost in a derived report, correction persistence and handoff informed this revision. Codex developed the multi-file workflow and simulated booking case as practical proposals for the next extraction pilot.
+
+**November 19, 2026 follow-up.** John requested a comparison with DEDDA™, Unforced Move, Provenance, Black Box, Emergent and Dutch Directness, then supplied Google A.I.'s condition-preservation and correction audit. Google's audit prompted the condition record and the 00–11 crosswalk. The expectation check and metabolism gate retain the [Grok-4.6-xhigh A.I. attribution]({{ '/TIDY-TRAP/#sequence-and-gates' | relative_url }}). Codex prepared the archive checks and the editorial map from John's published layer sketch to the reorganized kit. These are proposed ways to run and assess a pilot.
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
