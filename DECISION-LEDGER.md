@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-20 — Deep Ethical RSI {#deep-ethical-rsi-2026-11-20}
+
+At John Kuhles’s request, publish [Deep Ethical RSI]({{ '/DEEP-ETHICAL-RSI/' | relative_url }}). The page preserves John’s originating exchange and the project GPT A.I. replies. It extends the city thought experiment with an interactive, fictional audit of a ballot, the transfer of a repair to a second office, and the timing and authority of an appeal. The case includes a valid local null and a record too incomplete to decide. It is a proposed exercise for which empirical results would require later cases.
+
+Publish four supplied texts in complete, linked reading editions and as original text downloads. Add the article to All Pages and the alphabetical sidebar, link it from Suggested Recursive Improvement Mechanics, and register its first PDF with a 20 November snapshot date in the centralized archive.
+
 ## 2026-11-13 — I Love D.E. Corrections: complete uploaded context {#i-love-de-corrections-context-2026-11-13}
 
 At John Kuhles's request, add an [Uploaded Context Text Files directory]({{ '/I-LOVE-DE-CORRECTIONS/#uploaded-context-text-files' | relative_url }}) near the top of the subpage. Publish twelve additional related files as complete HTML reading editions and text downloads, with an optional combined ZIP; link the already-published Value Trajectory collection. Preserve source order, attribution, qualifiers, claim status and raw originals. Apply John-only emphasis typography in identified passages; retain mixed or unresolved speaker spans. Keep the existing article PDF clearly identified as the edition from before this directory; use the normal change-aware refresh.

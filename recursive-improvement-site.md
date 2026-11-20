@@ -16,6 +16,7 @@ permalink: /RECURSIVE-IMPROVEMENT/
 
 ## Related pages
 
+- [**Deep Ethical RSI**]({{ '/DEEP-ETHICAL-RSI/' | relative_url }}) — tests whether a city can improve the process that receives, evaluates and acts on a correction.
 - [**Governance**]({{ '/GOVERNANCE/' | relative_url }}) — places returning improvement tasks inside the project’s stewardship and correction boundaries.
 - [**Contributing**]({{ '/CONTRIBUTING/' | relative_url }}) — explains how humans and A.I.-assisted contributors should apply and extend project processes.
 - [**Forum**]({{ '/FORUM/' | relative_url }}) — provides the shared public object where recurring improvements and deviations can be recorded.

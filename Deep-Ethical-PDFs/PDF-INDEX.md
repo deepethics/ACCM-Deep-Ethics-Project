@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 174
+**Public pages exported:** 175
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -51,6 +51,7 @@
 | [Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/) | [DECLARATION-OF-LAUGHTER.pdf](DECLARATION-OF-LAUGHTER.pdf) | `DECLARATION-OF-LAUGHTER/index.md` |
 | [DEDDA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/) | [DEDDA.pdf](DEDDA.pdf) | `DEDDA.md` |
 | [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/) | [DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf](DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf) | `deep-session-quotes-2026-09-17-18.md` |
+| [Deep Ethical RSI](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-ETHICAL-RSI/) | [DEEP-ETHICAL-RSI.pdf](DEEP-ETHICAL-RSI.pdf) | `DEEP-ETHICAL-RSI/index.md` |
 | [Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/) | [DEEP-THINKERS.pdf](DEEP-THINKERS.pdf) | `deep-thinkers.md` |
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |

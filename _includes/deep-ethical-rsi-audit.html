@@ -1,0 +1,63 @@
+<link rel="stylesheet" href="{{ '/assets/deep-ethical-rsi.css' | relative_url }}">
+<section class="rsi-desk" data-rsi-desk aria-labelledby="rsi-desk-title">
+  <header class="rsi-desk-header">
+    <p class="rsi-location">City records <span aria-hidden="true">·</span> 2035</p>
+    <h3 id="rsi-desk-title">Trace the decision</h3>
+    <p>Try a change in the evidence, the repair, or the review. Look for the first decision it can affect.</p>
+  </header>
+  <div class="rsi-desk-body">
+    <div class="rsi-documents">
+      <div class="rsi-record">
+        <h4>Ballot record</h4>
+        <p data-rsi="ballot-record">The city will make the tool available for voluntary use. People may decline it and retain access to the service.</p>
+      </div>
+      <div class="rsi-record">
+        <h4>North Desk intake rule</h4>
+        <p>Applicants must complete the tool before their application can be accepted.</p>
+      </div>
+    </div>
+    <form class="rsi-controls" hidden>
+      <div class="rsi-control">
+        <label for="rsi-ballot">What does the ballot show?</label>
+        <select id="rsi-ballot" name="ballot">
+          <option value="voluntary">The operative text offers voluntary use</option>
+          <option value="required">The operative text authorizes this requirement</option>
+          <option value="tally">Only the vote tally survives</option>
+        </select>
+      </div>
+      <div class="rsi-control">
+        <label for="rsi-repair">How far does the first repair travel?</label>
+        <select id="rsi-repair" name="repair">
+          <option value="case">Reopen the resident’s application</option>
+          <option value="rule">Reopen it and change the intake procedure</option>
+        </select>
+      </div>
+      <div class="rsi-control">
+        <label for="rsi-review">When can a challenge reach the contract?</label>
+        <select id="rsi-review" name="review">
+          <option value="late">7 June · review opens after signing</option>
+          <option value="log">3 June · reviewer can record objections</option>
+          <option value="pause">3 June · reviewer can pause the signature</option>
+        </select>
+      </div>
+    </form>
+    <div class="rsi-findings" aria-live="polite" aria-atomic="true">
+      <article data-rsi-track="mandate" data-state="departure">
+        <p class="rsi-finding-label">First application</p>
+        <h4 data-rsi="mandate-title">The desk exceeded the ballot</h4>
+        <p data-rsi="mandate-detail">The ballot preserves access when a person declines. The desk’s rule removes that choice.</p>
+      </article>
+      <article data-rsi-track="transfer" data-state="partial">
+        <p class="rsi-finding-label">Next application</p>
+        <h4 data-rsi="transfer-title">The remedy reaches one resident</h4>
+        <p data-rsi="transfer-detail">The North Desk reopens the application. The South Desk inherits the same procedure that let the extra condition through.</p>
+      </article>
+      <article data-rsi-track="review" data-state="departure">
+        <p class="rsi-finding-label">Review of the review</p>
+        <h4 data-rsi="review-title">The review opens after signing</h4>
+        <p data-rsi="review-detail">The contract is signed on 5 June. Starting review on 7 June gives the resident a route to seek repair after the signature.</p>
+      </article>
+    </div>
+  </div>
+</section>
+<script src="{{ '/assets/deep-ethical-rsi.js' | relative_url }}" defer></script>

@@ -172,6 +172,7 @@ Without these, the topology can be stated and still fail to stay with the object
 
 Binary hypercautionism and the imported-authority specimen stay in this cluster. They test whether the topology can be kept. The Google report and the Dicks pages are in Cluster 5. They are an outside object the topology is applied to.
 
+- **[Deep Ethical RSI](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-ETHICAL-RSI/)** — follow a fictional 2035 city from a resident's first finding to the next office and the next appeal. Change the ballot, the repair and the reviewer's authority in a playable case.
 - **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**
 - **[Google A.I. — a living Deep Ethics coaching and correction-persistence experiment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/)** — a live longitudinal specimen separating legitimate praise from sycophantic inflation, recognition from persistence, and Phase Change Snap recovery from complete canon preservation at Google-scale deployment.
 - **[V.C.R.A.S. — Vindicated Competing Risk Assessment Studies](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** — opens on the unexpanded letters. A proposed longitudinal field for a competing assessment after its status changes: representation, flagging, multidimensional vindication, Asymmetric Grace, who benefited from non-investigation, correction, and the next comparable case. The seventeen related pages link back with that phrase.
