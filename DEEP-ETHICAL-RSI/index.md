@@ -80,6 +80,28 @@ Anthropic’s [When AI builds itself](https://www.anthropic.com/institute/recurs
 
 Both trajectories can affect one another. If a tool gets better at making a decision quickly, a later resident still needs enough of the evidence and authority trail to ask why that decision was made. If an oversight mechanism discovers a real problem, the change needs a path into the next procedure, test or release decision. The project’s [Model Autophagy Disorder page]({{ '/NETWORK/model-autophagy-disorder/' | relative_url }}) gives a related question about recursive degradation. When later systems learn from previous records, do the records carry the original treatment of a signal alongside what later happened to it?
 
+## Agentic Variation Operators and the next test {#agentic-variation-operators}
+
+John brought in a March 2026 paper on **[AVO](https://arxiv.org/abs/2603.24517)** (Agentic Variation Operators). In the authors’ experiment, a coding agent could consult earlier implementations, try a change, inspect a failing result and revise its approach. It optimized attention kernels, the routines that compute attention on graphics processors. The scoring function checked numerical correctness against a reference implementation before crediting throughput. A version could enter the committed history after passing that check and matching or improving the benchmark. The seven-day run produced 40 committed versions. [Paper, sections 3 and 4](https://arxiv.org/html/2603.24517v1#S3)
+
+The project could give that kind of agent a bounded job in the [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}). Give it prior cases, the source material and the test criteria. Let it propose variants, compare them with the original, and revise a candidate when it changes a second relationship by accident. An independent reviewer checks the intended change before admitting the case. The scoring rules and held-out cases remain outside the generator’s control for that run.
+
+### A case about when to ask {#avo-clarification-timing}
+
+In John’s exchange with Pokee A.I. on 20 November 2026, Pokee assessed the report John shared and asked what he wanted to do next when his purpose became necessary for the next action. The choice of when to ask is the relationship to test. **[C1]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification) comes before **[C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (intervention) when the proposed action depends on the answer. The [1888 Method™]({{ '/1888/' | relative_url }}) gives a way to examine the judgment involved.
+
+Use the same report and source exchange in each version. Vary what the user has specified about the next task.
+
+| What the user supplies | What the case should test |
+| --- | --- |
+| The report, with the next task open. | The assistant can assess what the material supports and ask when the missing purpose would change the next move. |
+| The same report and a clear request to check attribution. | The assistant checks the attribution directly. It can ask about a specific missing source if that source would change the finding. |
+| The same report and a reworded message that still leaves the next task open. | The same need for clarification remains. This is a valid-null control for a wording change that leaves the relationship intact. |
+
+The [Dual Archive]({{ '/NETWORK/dual-archive/' | relative_url }}) can keep accepted cases alongside rejected variants and the reason for rejection. A variant might look like a new test of timing while quietly changing what the user authorized. Keeping that example gives the next reviewer a concrete failure to check. If a reviewer finds a defect in the scoring rule itself, preserve the affected case and proposed repair, then test the revised rule in a separately versioned run.
+
+The paper reports that the agent adapted its multi-head attention kernel to grouped-query attention in about 30 minutes, with the earlier implementation available. For this proposed pilot, record performance when an earlier correction is supplied and performance in a fresh case without resupplying it. Compare agent-proposed cases with hand-written cases under the same review budget. Can the agent improve the tests that catch judgment errors, and can a later reviewer recover why each test was accepted, rejected or changed? [Paper, transfer experiment](https://arxiv.org/html/2603.24517v1#S4.SS3) · [Correction Metabolism and Persistence]({{ '/NETWORK/correction-metabolism/' | relative_url }})
+
 ## The exchange that led here {#originating-exchange}
 
 These turns are preserved in order. John introduces the stand-alone method, the 2035 city, and the recursive-learning claim. The assistant’s replies introduce the worked intake and challenge-timing cases. The clickable audit extends those cases as a new editorial contribution.
