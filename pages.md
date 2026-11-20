@@ -35,10 +35,12 @@ Jump: [Current development routes](#current-development-routes) · [Check a cold
 
 ## Current development routes {#current-development-routes}
 
-**Updated 18 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+**Updated 20 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| When can a correction change the next decision? | [Deep Ethical RSI’s 2035 audit desk]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }}) follows a finding from the first application to the next office and the review of the review. Use [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) to examine who can act and when a challenge can still reach the decision. |
+| How could an agent improve the tests for its own judgments? | [Agentic Variation Operators and the clarification-timing case]({{ '/DEEP-ETHICAL-RSI/#agentic-variation-operators' | relative_url }}) connects reported kernel research to a proposed test. The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) supplies independent scoring and fresh-case checks. |
 | What can the project do with a correction from a newcomer? | [Constructivism and the 10+1 default state]({{ '/CONSTRUCTIVISM/#constructivism-default-state' | relative_url }}) → [the plain-language newcomer comparison]({{ '/CONSTRUCTIVISM/#constructivism-newcomer-test' | relative_url }}) → [mutual value and reporting back]({{ '/CONSTRUCTIVISM/#constructivism-mutual-value' | relative_url }}). Follow an objection into the record and decision, then see what the person who raised it learns back. |
 | How can a group disagree constructively and still revise a decision? | [Ethical pragmatism]({{ '/CONSTRUCTIVISM/#ethical-pragmatism' | relative_url }}) → [eleven public resources]({{ '/CONSTRUCTIVISM/#november-18-cold-test' | relative_url }}) → [the neighbourhood minutes]({{ '/CONSTRUCTIVISM/#constructivism-in-practice' | relative_url }}). Check the remit, conditions of consent, authority and how the decision can be reopened. |
 | Where can I read the complete source files? | [Correspondence Files]({{ '/CORRESPONDENCE-FILES/' | relative_url }}) gathers public source readers and text downloads, with reusable links for other pages. |
@@ -172,7 +174,7 @@ Without these, the topology can be stated and still fail to stay with the object
 
 Binary hypercautionism and the imported-authority specimen stay in this cluster. They test whether the topology can be kept. The Google report and the Dicks pages are in Cluster 5. They are an outside object the topology is applied to.
 
-- **[Deep Ethical RSI](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-ETHICAL-RSI/)** — follow a fictional 2035 city from a resident's first finding to the next office and the next appeal. Change the ballot, the repair and the reviewer's authority in a playable case.
+- **[Deep Ethical RSI]({{ '/DEEP-ETHICAL-RSI/' | relative_url }})** — follow a fictional 2035 city from its ballot and intake rule to the next office and the next appeal. The [playable audit]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }}) lets you vary the mandate, repair and review authority. The [proposed variation test]({{ '/DEEP-ETHICAL-RSI/#agentic-variation-operators' | relative_url }}) asks whether a generator can improve the cases while independent reviewers control scoring.
 - **[Correction Metabolism and Persistence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/)**
 - **[Google A.I. — a living Deep Ethics coaching and correction-persistence experiment](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/)** — a live longitudinal specimen separating legitimate praise from sycophantic inflation, recognition from persistence, and Phase Change Snap recovery from complete canon preservation at Google-scale deployment.
 - **[V.C.R.A.S. — Vindicated Competing Risk Assessment Studies](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/)** — opens on the unexpanded letters. A proposed longitudinal field for a competing assessment after its status changes: representation, flagging, multidimensional vindication, Asymmetric Grace, who benefited from non-investigation, correction, and the next comparable case. The seventeen related pages link back with that phrase.
