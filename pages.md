@@ -39,6 +39,7 @@ Jump: [Current development routes](#current-development-routes) · [Check a cold
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| How can several ethics traditions work on the same case? | [Grokipedia Ethics Taxonomy]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/' | relative_url }}) maps twenty entries to project methods. Use the [co-driver example]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/#the-same-detour' | relative_url }}) to compare the fuel constraint, the shared detour and who may change the destination. |
 | When can a correction change the next decision? | [Deep Ethical RSI’s 2035 audit desk]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }}) follows a finding from the first application to the next office and the review of the review. Use [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) to examine who can act and when a challenge can still reach the decision. |
 | How could an agent improve the tests for its own judgments? | [Agentic Variation Operators and the clarification-timing case]({{ '/DEEP-ETHICAL-RSI/#agentic-variation-operators' | relative_url }}) trace the path from reported kernel research to a proposed test. The [Cold Edge-Swap and Correction-Transfer Pilot]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }}) supplies independent scoring and fresh-case checks. |
 | What can the project do with a correction from a newcomer? | [Constructivism and the 10+1 default state]({{ '/CONSTRUCTIVISM/#constructivism-default-state' | relative_url }}) → [the plain-language newcomer comparison]({{ '/CONSTRUCTIVISM/#constructivism-newcomer-test' | relative_url }}) → [mutual value and reporting back]({{ '/CONSTRUCTIVISM/#constructivism-mutual-value' | relative_url }}). Follow an objection into the record and decision, then see what the person who raised it learns back. |
@@ -243,6 +244,8 @@ John’s own records. The public pages above are not a substitute for these.
 - **[44 Project Goals — public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)**
 
 ## 5. The topology applied {#topology-applied}
+
+- **[Grokipedia Ethics Taxonomy]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/' | relative_url }})** — twenty ranked Grokipedia entries mapped to project methods, four ways to combine them, and a worked example that keeps the detour fixed while examining who can change the destination.
 
 - **[A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }})** — a living inquiry into healthcare decisions, institutional incentives, Symmetric Grace, long-term outcomes and useful correction through the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy.
 - **[5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }})** — John Kuhles’s Anti-Unsafe-5G research, RF health and historical records, military dual use, public agency, and process-quality evaluation across agreement and disagreement.

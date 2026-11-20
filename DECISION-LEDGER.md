@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-20 — Grokipedia Ethics Taxonomy {#grokipedia-ethics-taxonomy-2026-11-20}
+
+At John Kuhles’s request, publish [Grokipedia Ethics Taxonomy]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/' | relative_url }}). Preserve the full twenty-entry conversation ranking from the first five search-result pages. John identified their combined potential and supplied the co-driver example. Grokipedia supplied the linked entries. Project GPT A.I. developed the relevance ranking and the proposed comparison, including the handoff into a fresh case.
+
+Register the page in All Pages and the alphabetical sidebar. Add its first PDF edition to the central archive with a 20 November snapshot date. The ranked map and fresh-case comparison are open to correction on merit.
+
 ## 2026-11-20 — Deep Ethical RSI {#deep-ethical-rsi-2026-11-20}
 
 At John Kuhles’s request, publish [Deep Ethical RSI]({{ '/DEEP-ETHICAL-RSI/' | relative_url }}). The page preserves John’s originating exchange and the project GPT A.I. replies. It extends the city thought experiment with an interactive, fictional audit of a ballot, the transfer of a repair to a second office, and the timing and authority of an appeal. The case includes a valid local null and a record too incomplete to decide. It is a proposed exercise for which empirical results would require later cases.

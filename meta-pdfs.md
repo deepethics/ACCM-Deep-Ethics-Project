@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 175 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
+description: "Deep-Ethical-PDFs — 176 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**175 public-page PDF editions · 2,848 pages · exported through November 20, 2026**
+**176 public-page PDF editions · 2,852 pages · exported through November 20, 2026**
 
-Deep Ethical RSI adds its first 6-page edition on November 20, 2026. The complete case can be followed on paper, and the live edition has the interactive choices.
+Deep Ethical RSI adds its first 6-page edition on November 20, 2026. The complete case can be followed on paper, and the live edition has the interactive choices. Grokipedia Ethics Taxonomy adds its first 4-page edition on the same date, including the twenty source links and the worked comparison.
 
 This public archive provides stable, downloadable PDF snapshots of ACCM Deep Ethics Project public pages. The 124-page October 16 export is extended here with eight October 17 editions, four October 18 editions—Questions, Unforced Move, Arena A.I.s, and Boundary Relay—four October 19 editions—Academia, Field Condition, PR Psychology, and Neural Ethics™—Google A.I. on October 20, Truth Seekers vs Cautionmurmelism, Mutual Fate, Autocomplete, and Godfather of A.I. on October 21, Believism and OmbudsEthics™ on October 23, and Plot Twist on October 24. Healthy Ambiguity adds its initial page edition on October 25. Extraction Starter Kit adds its initial nine-page edition on October 25. Neutral Arbiter Paradox adds its seven-page edition on October 26. YouTube Transcripts adds a twelve-page initial edition on October 27, including the complete supplied transcript with the sponsor passage removed. Superintelligence adds its initial ten-page edition on October 28. A.I.s & Health adds its initial 4-page edition on October 28. Project Avalon adds its initial nine-page edition on October 29. A.I.s & UFO–UAP Disclosure adds its initial 23-page edition on October 29. Search Engine Bias adds its initial eight-page edition on October 29. 5G Controversy adds its initial 16-page edition on October 30. DeepEthicalOS™ adds its initial eight-page concept edition on October 31. Tweaking Tools adds its initial nine-page catalogue and proposed-comparison edition on November 1. Herdr receives its previously missing initial seventeen-page edition on November 1. Ethical Blind Spots adds its initial nine-page inquiry and source-check edition on November 1. Expanding vs Flattening adds its initial six-page live-session edition on November 2. Metacognitive Synthesis adds its initial 23-page edition on November 4, preserving source-linked relay quotations, a worked specimen and proposed operational tests. Core Disclaimers adds its initial nineteen-page source-linked clarification edition on November 4. Due Process for Ethics adds its initial 12-page edition on November 4, preserving John’s legal-procedure connection, innocence clarification, project instruments, worked specimen and proposed comparisons. Categorizing Issues adds its initial five-page edition on November 5, with the island example, properties of controversy and proposed cold comparisons. Constructivism adds its initial 15-page edition on November 11, preserving the full November sample extraction together with the two later contextual sources, the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) property field and proposed comparisons. The 168 existing editions retain their bytes and page-specific dates. Tidy Trap adds its initial 14-page edition on November 11, 2026. Its examples, correction record, source links, 1888 property applications and candidate working prompt are preserved. The 169 prior editions retain their bytes and snapshot dates. Value Trajectory™ adds its initial 18-page edition on November 12, 2026. It preserves the complete corrected A–K source, voluntary participation, the +1, continuity, the 1888 applications, and optional comparisons. The 170 prior editions retain their bytes and snapshot dates. Value Trajectory™ is refreshed later on November 12 to a complete 33-page edition, including the context directory, Art of Becoming continuation, and ten supplied multi-A.I. contributions. The other 170 PDF editions remain unchanged. Beyond Dualism adds its initial 18-page edition on November 13, 2026, including the counter-template correction, expected surprises, intent mechanics, connected-page map, fourteen 1888 properties, and proposed comparisons. The 171 prior PDF editions retain their bytes and snapshot dates. I Love D.E. Corrections adds its initial 13-page edition on November 13, 2026, with the musical-band source, correction and question quality, all fourteen 1888 properties, and proposed persistence comparisons. The 172 prior editions retain their bytes and snapshot dates. Each PDF contains selectable and searchable text with live links.
 
@@ -50,6 +50,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Autocomplete** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AUTOCOMPLETE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AUTOCOMPLETE/) |
 | **Godfather of A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GODFATHER-OF-AI.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) |
 | **Google A.I.** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GOOGLE-AI.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) |
+| **Grokipedia Ethics Taxonomy** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/GROKIPEDIA-ETHICS-TAXONOMY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GROKIPEDIA-ETHICS-TAXONOMY/) |
 | **Mutual Fate** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/MUTUAL-FATE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUTUAL-FATE/) |
 | **PR Psychology** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/PR-PSYCHOLOGY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/) |
 | **Truth Seekers vs Cautionmurmelism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) |
@@ -211,11 +212,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 175
-- **Total pages:** 2,848
+- **PDF files:** 176
+- **Total pages:** 2,852
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 175 successful PDFs; 0 failures
+- **Build result:** 176 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

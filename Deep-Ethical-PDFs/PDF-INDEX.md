@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 175
+**Public pages exported:** 176
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -83,6 +83,7 @@
 | [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/) | [FORUM-0003-arena-catch-up.pdf](FORUM-0003-arena-catch-up.pdf) | `FORUM/0003-arena-catch-up.md` |
 | [Godfather of A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) | [GODFATHER-OF-AI.pdf](GODFATHER-OF-AI.pdf) | `GODFATHER-OF-AI.md` |
 | [Google A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) | [GOOGLE-AI.pdf](GOOGLE-AI.pdf) | `google-ai.md` |
+| [Grokipedia Ethics Taxonomy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GROKIPEDIA-ETHICS-TAXONOMY/) | [GROKIPEDIA-ETHICS-TAXONOMY.pdf](GROKIPEDIA-ETHICS-TAXONOMY.pdf) | `GROKIPEDIA-ETHICS-TAXONOMY.md` |
 | [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) | [GOVERNANCE.pdf](GOVERNANCE.pdf) | `governance-site.md` |
 | [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) | [HEALTHY-AMBIGUITY.pdf](HEALTHY-AMBIGUITY.pdf) | `HEALTHY-AMBIGUITY.md` |
 | [Herdr](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HERDR/) | [HERDR.pdf](HERDR.pdf) | `HERDR.md` |
