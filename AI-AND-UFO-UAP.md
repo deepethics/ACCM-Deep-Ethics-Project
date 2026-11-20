@@ -19,10 +19,11 @@ date: 2026-10-29
 | Recorded upload | Complete reading edition |
 |---|---|
 | `How to Assess alleged UFOs-UAPs FilmFootage(6).txt` | [Read]({{ '/AI-AND-UFO-UAP/context/context-02.html' | relative_url }}) · [Text download]({{ '/AI-AND-UFO-UAP/context/context-02.txt' | relative_url }}) |
+| `ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26(2).txt` — 19 November upload | [Read existing complete edition]({{ '/VALUE-TRAJECTORY/context/context-03.html' | relative_url }}) · [Text download]({{ '/VALUE-TRAJECTORY/context/context-03.txt' | relative_url }}) |
 | `cold starters kit(2).txt` | [Read]({{ '/AI-AND-UFO-UAP/context/context-01.html' | relative_url }}) · [Text download]({{ '/AI-AND-UFO-UAP/context/context-01.txt' | relative_url }}) |
 | `Post UFO-UAP Disclosure Effect.txt` | [Read existing edition]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.html' | relative_url }}) · [Text download]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.txt' | relative_url }}) |
 
-These are complete archival reading editions. The dossier and reorganized cold-start-kit uploads cited [below](#source-files) remain edition- and coverage-unverified; no partial extract is presented as their complete text. The current article PDF predates this directory; the linked context files remain separate downloads.
+These are complete archival reading editions. The 19 November reorganized-kit upload matches the existing Value Trajectory text edition after two storage-unit capitalization corrections; it reuses that complete reader and download. An earlier 29 October upload with the same filename differs in its archive figures and analogy wording and is not substituted by this link. The dossier remains coverage-unverified, and matching the earlier kit to the article’s historical source remains open. The current article PDF predates this directory; the linked context files remain separate downloads.
 
 **Deep Ethical Topological Prompt Engineering™ — second domain application, first published batch.**
 
