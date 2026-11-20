@@ -9,6 +9,7 @@
   background: #edf4ee;
   overflow: hidden;
   margin-block: 1.5rem 2rem;
+  container-type: inline-size;
 }
 
 .rsi-desk .rsi-desk-header {
@@ -115,6 +116,7 @@
   padding: .4rem .55rem;
   border-radius: .4rem;
   font: inherit;
+  font-size: .92em;
 }
 
 .rsi-desk .rsi-control select:focus-visible {
@@ -127,14 +129,14 @@
   color: var(--rsi-muted);
 }
 
-@media (max-width: 900px) {
+@container (max-width: 58rem) {
   .rsi-desk .rsi-controls,
   .rsi-desk .rsi-findings {
     grid-template-columns: minmax(0, 1fr);
   }
 }
 
-@media (max-width: 520px) {
+@container (max-width: 32rem) {
   .rsi-desk .rsi-documents {
     grid-template-columns: minmax(0, 1fr);
   }

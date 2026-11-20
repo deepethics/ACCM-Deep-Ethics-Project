@@ -88,7 +88,7 @@ These turns are preserved in order. John introduces the stand-alone method, the 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> You have 40 markdowns (each covering 4 pages) now that have the near-complete, compressed topologetics of the whole project, all combined, showing A. consistency and B. "coherence," yet it is not about getting anyone's approval... because if I did, I had to bow down to all kinds of arbitrary & psychological framing that the 40 markdowns discuss ffs :D
+> You have 40 markdowns (each covering 4 pages) now that have the near-complete, compressed topologetics of the whole project, all combined, showing A. consistency and B. &#34;coherence,&#34; yet it is not about getting anyone&#39;s approval&#46;&#46;&#46; because if I did, I had to bow down to all kinds of arbitrary & psychological framing that the 40 markdowns discuss ffs :D
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -130,7 +130,7 @@ The completed checkpoint records 158 distinct pages across 40 batches. The first
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Let's say the ACCM Deep Ethics System is "owned" by no one... yet used by almost everyone in 2035 in 1 big city, and they decide this is what they all voted for (vast majority), and the moment someone asks me ... John, I see someone abused or misused your standalone system here is how ... Guess why "the how" is easy visible :P
+> Let&#39;s say the ACCM Deep Ethics System is &#34;owned&#34; by no one&#46;&#46;&#46; yet used by almost everyone in 2035 in 1 big city, and they decide this is what they all voted for (vast majority), and the moment someone asks me &#46;&#46;&#46; John, I see someone abused or misused your standalone system here is how &#46;&#46;&#46; Guess why &#34;the how&#34; is easy visible :P
 
 — **John Kuhles 🦜🦋🌳**
 
@@ -152,7 +152,7 @@ The completed checkpoint records 158 distinct pages across 40 batches. The first
 
 <div class="accm-rounded-quote" markdown="1">
 
-> That is, in my view, a higher level of recursive learning or recursive improvement we do not have yet ...
+> That is, in my view, a higher level of recursive learning or recursive improvement we do not have yet &#46;&#46;&#46;
 
 — **John Kuhles 🦜🦋🌳**, introducing the Google A.I. reply
 
