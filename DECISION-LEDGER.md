@@ -2083,6 +2083,8 @@ The new pages were added to the all-pages index. E10 (canonical-title naming cor
 
 **Boundary:** Verbatim quotations and explicitly identified historical snapshots retain the figures used in their source period. Their preservation records archive growth; nearby notes distinguish those source-time totals from the October 2026 working scale. The figures remain John-reported working estimates rather than an independently audited corpus inventory.
 
+**20 November 2026 follow-up:** Rechecked the published sources and displayed the current **6,500+ hours** beside historical figures in Healthy Ambiguity, the relevant HTML source readers, and the Canonical Sources and Cold Tests portals. The original passages and downloadable source texts retain their source-period figures.
+
 ---
 
 <a id="field-condition-working-concept-2026-10-19"></a>

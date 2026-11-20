@@ -450,7 +450,7 @@ But it then swung too far:
 - corporate safety teams were said to tune models toward “flat consensus reality”;
 - the architecture was said to make self-sealing impossible;
 - A.I.s were declared unable to process awe;
-- the current 6,500+ testing-hour figure regressed to 6,000+.
+- the reported total of 6,500+ hours of testing regressed to 6,000+ in the reply.
 
 This was not a clean repair. It was a pendulum:
 

@@ -93,7 +93,7 @@ John's public account connects provisional understanding with direct clarificati
 >
 > A.I.s are so easy at showing grace, postponing judgment upwards ... but not to the users! That is what I see 100+ different A.I.s doing after 2 years of testing them for 6000+ hours. I have 1+ MB of raw text discussing Grace Asymmetry issues.
 
-— **John Kuhles**, [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}), section “Clarification-first grace in human social dynamics.” The source records spelling and obvious grammar corrections. Its historical quantities remain part of the quotation.
+— **John Kuhles**, [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}), section “Clarification-first grace in human social dynamics.” The source records spelling and obvious grammar corrections. The quotation preserves the testing total reported at the time. John’s current reported total is **6,500+ hours**.
 
 </div>
 

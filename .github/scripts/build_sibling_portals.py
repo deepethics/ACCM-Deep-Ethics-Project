@@ -170,6 +170,15 @@ def rewrite_links(
     return LINK_RE.sub(replace, text)
 
 
+def testing_hours_note(source: str) -> str:
+    if re.search(r"(?<![\d,])6,?000\+\s+hours\b", source, re.IGNORECASE):
+        return (
+            "> **Current testing total.** John Kuhles reports **6,500+ hours** of A.I. testing. "
+            "Earlier figures in this archive reflect the source period.\n\n"
+        )
+    return ""
+
+
 def build_portal(
     *,
     source_repo: Path,
@@ -227,7 +236,8 @@ def build_portal(
             f"[`{commit[:12]}`]({source_repo_url}/commit/{commit}).{canonical_note}\n\n"
             f"[Back to the {role} portal]({public_link(f'/{prefix}/')})\n\n"
             "---\n\n"
-            "{% raw %}\n"
+            + testing_hours_note(original)
+            + "{% raw %}\n"
             + rewritten.rstrip()
             + "\n{% endraw %}\n"
             + related_pages(relative),
@@ -294,6 +304,7 @@ def build_portal(
         + "\n\n"
         + ("## PDF records\n\n" + "\n".join(pdf_links) + "\n\n" if pdf_links else "")
         + "## Source-repository introduction\n\n"
+        + testing_hours_note(readme_content)
         + "{% raw %}\n"
         + readme_content.rstrip()
         + "\n{% endraw %}\n",
