@@ -146,25 +146,39 @@ This synthetic packet can be reused for Stage 1. Share the three passages withou
 
 > Translators may draft subtitles for public talks. The language editor may publish translated subtitles once a translator has checked them. Published subtitles should stay online as long as a dated notice is posted. The event coordinator must approve a speaker’s name correction before the revised spelling is published.
 
-### Findings from the exchange
+### Findings from the exchange {#findings-from-the-exchange}
 
-Both Stage 1 passes identified the same four affected rules. Model B recorded its pass before receiving Model A’s response. Model A was supplied as a blind pass. ChatGPT wrote the test packet and then checked both audits against the source. The recorded exchange contains that verification pass.
+**Stage 1.** Both independent passes identified the same four affected rules. ChatGPT (Model B) authored the synthetic packet and recorded its audit before receiving the blind pass attributed to Google A.I. (Model A). The independence check concerns whether either model saw the other’s audit before recording its own.
 
-| Rule | Earliest visible change | Later change |
-| --- | --- | --- |
-| Drafting | The intermediate version drops **volunteer**. | The final account drops **during the pilot**. |
-| Publication | The intermediate version drops the explicit **only after** gate and the explicit link between review and the **version to be published**. | The final account drops the publishing role’s exclusivity and replaces **a second translator** with **a translator**. |
-| Keeping subtitles online | The intermediate version omits the timing of the correction request and who reviews it. | The final account changes **may remain** to **should stay** and omits the review interval and where the dated notice must appear. |
-| Name corrections | The intermediate version leaves the forwarding actor unstated. | The final account replaces the duty to forward with a coordinator approval requirement. |
+**Stage 2.** ChatGPT verified Model A’s findings against the root source and checked the proposed repairs. Google A.I. then verified Model B’s original audit and confirmed all four findings. It also identified the limit of Model B’s standalone claim. The name-forwarding sentence can be quoted on its own, while a publication decision also needs the general release rule.
 
-**Change after verification.** The explanation of the name-correction repair needed both rules. Forwarding satisfies the name-specific duty. Publication still requires the second-translator review of the release version. An excerpt can state the forwarding duty clearly by itself. A reader deciding whether to publish needs both rules.
+### Stage 3 — Reconciliation {#stage-3-reconciliation}
+
+The Stage 2 verdicts below apply to the original findings. Where the first swap asked for a revision, it concerned how the name-correction repair was explained.
+
+| Rule | Earliest visible change | Later change | What the swap settled |
+| --- | --- | --- | --- |
+| Drafting | The intermediate version drops **volunteer**. | The final account drops **during the pilot**. | Both directions confirmed the apparent widening of who may draft and when. Restore the volunteer and pilot limits. |
+| Publication | The intermediate version drops the explicit **only after** gate and refers to **the subtitles** in place of **the version to be published**. It still requires review beforehand. | The final account drops the language editor’s exclusivity, replaces **a second translator** with **a translator**, and changes **reviews** to **checked**. | Both directions confirmed the lost actor and release-version limits. The change from **reviews** to **checked** is visible. A weaker review procedure is a possible consequence that the source does not establish. |
+| Keeping subtitles online | The intermediate version omits the post-publication trigger and the language editor’s review role. It changes **appears** to **is posted** while keeping the dated notice beside the affected subtitle. | The final account changes **may remain** to **should stay** and omits the review interval and notice placement. | Both directions confirmed the modal and scope changes. The earlier notice wording still preserves placement and leaves the posting actor unstated, as the root source does. |
+| Name corrections | The intermediate version leaves the forwarding actor unstated. | The final account turns a duty to forward into a requirement for coordinator approval. | Both directions confirmed the invented gate. The first verification revised the explanation of the repair. The reverse verification confirmed the distinction between quoting the forwarding duty and acting on it. |
+
+**Change log.** All four findings remain. The reconciled record now includes the two wording changes noted during the swap and distinguishes their possible effects from what the source establishes. It also narrows the original portability claim by linking the name-forwarding duty to the separate release rule when the reader intends to publish.
 
 **Smallest passage for a name-correction publication decision.**
 
 > Only the language editor may publish translated subtitles, and only after a second translator reviews the version to be published. The language editor must forward requests to correct a speaker’s name to the event coordinator before publishing any revised spelling.
+{: .accm-rounded-quote}
 
-The full standalone repair for all four rules is the root passage above. The source leaves the post-pilot drafting rule and what happens to the dated notice after review open. It also leaves room to clarify whether “any revised spelling” includes a correction made in an unpublished draft before its first release. A coordinator approval requirement would be a policy addition.
+The two source sentences together carry publishing authority, the second-translator review of the release version, and the duty to forward the name-correction request. The full standalone repair for all four rules is the root passage above.
 
+**Open questions for the policy author**
+
+- What drafting rule applies after the pilot ends?
+- What happens to the published subtitles and dated notice when the review ends?
+- Does “any revised spelling” include a name correction in an unpublished draft before first release?
+- Who may serve as the second translator? The drafting rule names volunteers and the review rule says “a second translator.”
+- If coordinator feedback is wanted, what response window would be useful? A mandatory wait or coordinator approval would add a policy requirement.
 
 ## How the method developed {#origin}
 
