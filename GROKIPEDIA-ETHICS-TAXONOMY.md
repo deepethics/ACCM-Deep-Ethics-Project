@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Grokipedia Ethics Taxonomy"
-description: "Twenty Grokipedia entries mapped to the ACCM Deep Ethics Project, with a worked example of what their methods can do together."
+description: "Thirty Grokipedia entries mapped to the ACCM Deep Ethics Project, with a worked example and a proposal for what their combined properties could reveal."
 permalink: /GROKIPEDIA-ETHICS-TAXONOMY/
 date: 2026-11-20
 ---
@@ -14,7 +14,7 @@ date: 2026-11-20
 
 # Grokipedia Ethics Taxonomy
 
-**What becomes possible when twenty ethics entries work on the same case?**
+**What becomes possible when thirty ethics entries work on the same case?**
 
 <div class="accm-rounded-quote" markdown="1">
 
@@ -24,11 +24,13 @@ date: 2026-11-20
 
 </div>
 
-John searched Grokipedia for “deep ethics” and saw distinct traditions with points of contact with the **ACCM Deep Ethics Project** (Allow Constructive Controversy Mode). The entries below come from the first five pages of the [search results](https://grokipedia.com/search?q=deep+ethics) on 20 November 2026. Grokipedia supplied the entries. Project GPT A.I. ranked them for practical relevance to the project, following John’s question, and developed the comparisons on this page. The ranking reflects this purpose. A reader with a different case may start elsewhere.
+John searched Grokipedia for “deep ethics” and saw distinct traditions with points of contact with the **ACCM Deep Ethics Project** (Allow Constructive Controversy Mode). The first twenty entries retain the project’s original ranking for practical relevance, drawn from the 20 November 2026 [Grokipedia search](https://grokipedia.com/search?q=deep+ethics). Entries 21–30 come from John’s saved capture of search pages 1–3. The numbering reflects the project’s editorial order. The descriptions show how each topic can work with ACCM methods.
 
-[Top 20](#top-20) · [Follow the public correction](#follow-the-public-correction) · [Combine the entries](#combine-the-entries) · [The same detour](#the-same-detour) · [Check the next case](#check-the-next-case) · [A.I., media, and public judgment](#ai-media-and-public-judgment)
+[Top 30](#top-30) · [Follow the public correction](#follow-the-public-correction) · [Combine the entries](#combine-the-entries) · [The same detour](#the-same-detour) · [Check the next case](#check-the-next-case) · [A.I., media, and public judgment](#ai-media-and-public-judgment) · [Properties expansion](#deep-ethics-taxonomy-properties-expansion)
 
-## Top 20 {#top-20}
+<span id="top-20"></span>
+
+## Top 30 {#top-30}
 
 ### 1–10
 
@@ -36,10 +38,10 @@ John searched Grokipedia for “deep ethics” and saw distinct traditions with 
 | --- | --- | --- |
 | **1** | **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) and [DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App). Follow information from source to summary to reuse. Which qualifiers, attributions, or relationships survive the handoff? | [Information ethics](https://grokipedia.com/page/Information_ethics) |
 | **2** | **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) and [Deep Ethical RSI]({{ '/DEEP-ETHICAL-RSI/' | relative_url }})** (recursive self-improvement). Follow an ethical judgment into practice and see whether a warranted correction changes the next comparable decision. | [Pragmatic ethics](https://grokipedia.com/page/Pragmatic_ethics) |
-| **3** | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification before intervention) **and mutual dignity.** Ask who gets to clarify the issue, challenge the framing, and have their objection affect the outcome. | [Discourse ethics](https://grokipedia.com/page/Discourse_ethics) |
+| **3** | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }})** (clarification before intervention) **and [mutual dignity]({{ '/NETWORK/mutual-dignity/' | relative_url }}).** Ask who gets to clarify the issue, challenge the framing, and have their objection affect the outcome. | [Discourse ethics](https://grokipedia.com/page/Discourse_ethics) |
 | **4** | **Source recovery, narrative control, and public correction.** Compare how a claim was reported with what the source supplied. Use [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}) and [Mind Games]({{ '/MIND-GAMES/' | relative_url }}) to ask how selection, framing, and repetition shape public perception. Then check whether a correction reaches the people who received the original account. [Follow the public correction](#follow-the-public-correction). | [Media ethics](https://grokipedia.com/page/Media_ethics) |
 | **5** | **A.I. judgment and reciprocal oversight.** Use [Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) to recover the conditions that shaped an artificial intelligence system’s judgment, [Black Box]({{ '/BLACK-BOX/' | relative_url }}) to ask which rules and decisions people can inspect or challenge, and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) to test whether a warranted correction changes what the evaluator does in the next comparable case. | [Machine ethics](https://grokipedia.com/page/Machine_ethics) |
-| **6** | **[Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }})**. A reply can contain true statements while passing over the question that was asked. DEDDA™ can show that displacement while leaving motive open. | [Evasion (ethics)](https://grokipedia.com/page/Evasion_%28ethics%29) |
+| **6** | **[Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }})**. A reply can contain true statements while passing over the question that was asked. [DEDDA™]({{ '/DEDDA/' | relative_url }}) can show that displacement while leaving motive open. | [Evasion (ethics)](https://grokipedia.com/page/Evasion_%28ethics%29) |
 | **7** | **[Field Condition]({{ '/FIELD-CONDITION/' | relative_url }}) and case-specific judgment.** Ask which relationships, constraints, and powers to act made a difference in this situation. | [Situated ethics](https://grokipedia.com/page/situated_ethics) |
 | **8** | **Research integrity and [correction transfer]({{ '/EXPERIMENTS/cold-edge-swap-correction-transfer/' | relative_url }})**. Keep the source, claim status, and evaluation conditions recoverable so another reader can check what a test actually established. | [Research ethics](https://grokipedia.com/page/Research_ethics) |
 | **9** | **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) and [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }})**. Follow a finding through an institution. Who can reopen the case, and who can change the procedure for the next person? | [Organizational ethics](https://grokipedia.com/page/Organizational_ethics) |
@@ -52,13 +54,28 @@ John searched Grokipedia for “deep ethics” and saw distinct traditions with 
 | **11** | **[Dutch Directness]({{ '/NETWORK/dutch-directness/' | relative_url }}) and [clarification timing]({{ '/DEEP-ETHICAL-RSI/#avo-clarification-timing' | relative_url }})**. When does asking a question protect the other person’s purpose, and when does it delay work that can already proceed? | [Communication ethics](https://grokipedia.com/page/Communication_ethics) |
 | **12** | **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) and story fidelity.** A retelling can keep the events and still change who was steering, what the detour was for, or why the destination mattered. | [Narrative ethics](https://grokipedia.com/page/narrative_ethics) |
 | **13** | **[11+1 Mass Psychology Clusters]({{ '/NETWORK/eleven-plus-one/' | relative_url }})**. Compare what people say guides their judgment with what they actually do when disagreement, group pressure, or a correction enters the exchange. | [Descriptive ethics](https://grokipedia.com/page/Descriptive_ethics) |
-| **14** | **Deep Ethical RSI and the [2035 city]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }})**. Trace what residents voted for, what an office implemented, and who can correct the gap between the two. | [Political ethics](https://grokipedia.com/page/Political_ethics) |
+| **14** | **[Deep Ethical RSI]({{ '/DEEP-ETHICAL-RSI/' | relative_url }}) and the [2035 city]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }})**. Trace what residents voted for, what an office implemented, and who can correct the gap between the two. | [Political ethics](https://grokipedia.com/page/Political_ethics) |
 | **15** | **[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) and oversight.** Examine what happens to scrutiny when research moves across jurisdictions. Who can object locally, and can that objection reach the institution making the decision? | [Ethics dumping](https://grokipedia.com/page/ethics_dumping) |
 | **16** | **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) and constructive controversy.** Ask which disagreements can stay visible through mediation and whether each participant can challenge the mediator’s account. | [Negotiation ethics](https://grokipedia.com/page/negotiation_ethics) |
-| **17** | **Glass Engine and [PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation). Inspect how a design decision allocates the ability to detect an error, intervene, and verify that the repair worked. | [Engineering ethics](https://grokipedia.com/page/Engineering_ethics) |
+| **17** | **[Glass Engine]({{ '/NETWORK/latent-space/' | relative_url }}) and [PQCE™]({{ '/FLAGGING-SYSTEM/' | relative_url }})** (Process Quality Calibration Evaluation). Inspect how a design decision allocates the ability to detect an error, intervene, and verify that the repair worked. | [Engineering ethics](https://grokipedia.com/page/Engineering_ethics) |
 | **18** | **[Audit the auditor]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }})**. Who can review an ethics committee’s reasoning, and what can happen if that review finds the committee missed something material? | [Ethics committee](https://grokipedia.com/page/Ethics_committee) |
 | **19** | **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) and role boundaries.** Compare what an adviser may recommend, what a representative owes the person they represent, and what a decision-maker is authorized to do. | [Legal ethics](https://grokipedia.com/page/Legal_ethics) |
 | **20** | **Responsibilities within relationships.** Follow what someone owes another person as a reviewer, mediator, or participant, including when those roles overlap in a single case. Use [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) to ask who gets the benefit of context, who can challenge the account, and who bears the cost if a role-holder’s assumption proves wrong. | [Role ethics](https://grokipedia.com/page/role_ethics) |
+
+### 21–30 {#entries-21-30}
+
+| Rank | Connection to the ACCM Deep Ethics Project | Grokipedia entry |
+| --- | --- | --- |
+| **21** | **[PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}) and [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }}).** Before publication, ask who commissioned the message, which audience it targets, what response it seeks, and what the audience can see about that purpose. Then follow the result through Media ethics (#4). | [Marketing ethics](https://grokipedia.com/page/Marketing_ethics) |
+| **22** | **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }}) and the [1888 Method™]({{ '/1888/' | relative_url }}).** Examine how self-honesty, care, courage, and willingness to be corrected show up when someone is under pressure. What does the evaluator do when an objection puts one of their own judgments at stake? | [Virtue ethics](https://grokipedia.com/page/Virtue_ethics) |
+| **23** | **[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}).** Before comparing values on a common scale (#10), ask what counts as valuable, for whom, under which conditions, and what it enables them to do next. | [Value (ethics)](https://grokipedia.com/page/value_ethics) |
+| **24** | **[C1–C2]({{ '/NETWORK/c1-c2/' | relative_url }}), [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}), and [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}).** Clarify what benefit an intervention is meant to provide. Can the person receiving help correct its premise, decline the help, or keep authority over their objective? | [Beneficence (ethics)](https://grokipedia.com/page/Beneficence_%28ethics%29) |
+| **25** | **[Neural Ethics™]({{ '/NEURAL-ETHICS/' | relative_url }}) and [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}).** Build on Machine ethics (#5) by examining action in shared physical space. Who consents, who authorizes or can stop the action, and how does responsibility travel across designer, deployer, operator, and system? | [Robot ethics](https://grokipedia.com/page/Robot_ethics) |
+| **26** | **[OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) and the [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}).** Check who appoints reviewers, which voices have standing, and what independence means under the council’s actual mandate. Can participants challenge the framing or a conflict in the review? | [Ethics Council](https://grokipedia.com/page/ethics_council) |
+| **27** | **[Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) and [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}).** Trace the path from investigation to remedy. What can this commission compel, what can it recommend, who can act on its finding, and where can an affected person seek review? | [Ethics commission](https://grokipedia.com/page/ethics_commission) |
+| **28** | **[Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) and [Ethics Washing]({{ '/NETWORK/ethics-washing/' | relative_url }}).** Follow a declared commitment through procurement, performance targets, escalation, and the cost of reporting a problem. Check whether a correction changes the incentive that produced the problem. | [Business ethics](https://grokipedia.com/page/Business_ethics) |
+| **29** | **[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) and [Mutual Corrigible Dignity]({{ '/NETWORK/mutual-dignity/' | relative_url }}).** Compare whose account receives context and credibility, whose care and repair work is counted, and who bears the cost of keeping a relationship or institution functional. Carry that evidence into Role ethics (#20). | [Feminist ethics](https://grokipedia.com/page/Feminist_ethics) |
+| **30** | **[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) and [Superintelligence]({{ '/SUPERINTELLIGENCE/' | relative_url }}).** Compare how widespread deployment changes the options of people who never chose the system, including future people. Ask which effects accumulate and which choices remain open to revision. | [Population ethics](https://grokipedia.com/page/Population_ethics) |
 
 ## Follow the public correction {#follow-the-public-correction}
 
@@ -79,7 +96,7 @@ A source correction can change what a summary says, what a reviewer knows, what 
 | **Hearing → decision** | 9, 14, 15, 18, 19, 20 | The actual mandate, the reach of each role, the point at which the decision becomes binding, and the route a local objection can take to a reviewer who can act. |
 | **Decision → next case** | 2, 5, 8, 17 | The repaired decision, any change to the procedure, and a fresh case that can show whether that change was used. Let the people who assess the result inspect the generated account and the criteria used to assess it. |
 
-The four rows are a proposed way to work with these sources. A correction at any step can reopen an earlier one. An appeal may recover the original question. A later case may reveal that a justified repair never reached the next desk.
+The four rows show how the original twenty entries can work together. The [Properties expansion](#deep-ethics-taxonomy-properties-expansion) brings all thirty into a second case. A correction at any step can reopen an earlier one. An appeal may recover the original question. A later case may reveal that a justified repair never reached the next desk.
 
 ## The same detour {#the-same-detour}
 
@@ -214,3 +231,35 @@ This exchange takes the taxonomy’s [combined case]({{ '/GROKIPEDIA-ETHICS-TAXO
 — Project GPT A.I. · 21 November 2026
 
 </div>
+
+## Deep Ethics Taxonomy Properties Expansion {#deep-ethics-taxonomy-properties-expansion}
+
+### How much of this is mainstream?
+
+At the level of **topics**, all thirty use recognizable terms from ethics, professional practice, or institutional oversight. For this taxonomy I would treat **24 as general entry points and six as more specialized**: Evasion (6), Situated ethics (7), Commensurability (10), Ethics dumping (15), Ethics Council (26), and Ethics commission (27). This is an editorial grouping by scope. A specialized subject can still be well established. A count of how many articles reflect mainstream accounts would require reading all thirty texts and checking their central claims, terminology, and treatment of disagreement against relevant field sources. That article-level audit remains open.
+
+John’s question works under either starting assumption. If all thirty accounts are mainstream, the relationships among their findings can still reveal a property that individual articles leave implicit. If some accounts take competing positions, those differences become conditions to examine. For example, specialists can disagree about what a reviewer may do, whose interests count, or how far a correction should travel. Keep the reasoning and mandate attached to the claim each contributes.
+
+### One case, thirty jobs
+
+Consider a **proposed test**. A city uses A.I. to summarize a consultation on a new assistive-robot service. Several people ask whether residents can decline the service and retain an existing alternative. The consultation summary records broad enthusiasm. A later design brief cites that summary as evidence of consent. What can the thirty entries recover together?
+
+| Follow the case | Entries brought together | What becomes inspectable |
+| --- | --- | --- |
+| **Invitation and public framing** | 4, 6, 11, 13, 21 | Compare how the service was promoted, who it reached, which questions the consultation allowed, what people actually expressed, and whether a response engaged their objection. [PR Psychology]({{ '/PR-PSYCHOLOGY/' | relative_url }}) and the [11+1 Mass Psychology Clusters]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) help examine the difference between visible agreement and the conditions under which it was expressed. |
+| **Source and standing** | 1, 3, 7, 8, 12, 29 | Keep original submissions, qualifiers, attribution, and case conditions accessible to authorized reviewers. Check whose testimony received credibility and whether participants could correct the official account. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) and [Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) connect what disappeared to whose practical options changed. |
+| **Benefit, values, and future costs** | 10, 15, 22, 23, 24, 30 | Compare benefits and costs across people, places, and time. Keep opt-out, continued access, and burdens on people outside the pilot visible. [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), [V.C.R.A.S.™]({{ '/VCRAS/' | relative_url }}) (Vindicated Competing Risk Assessment Studies), and [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) ask what gains can coexist with protecting someone’s choice. |
+| **Authority, dissent, and remedy** | 9, 14, 16, 18, 19, 20, 26, 27 | Trace who recommends, decides, represents residents, reviews the review, and can order a repair. [OmbudsEthics™]({{ '/OMBUDSETHICS/' | relative_url }}) and [Due Process for Ethics]({{ '/DUE-PROCESS-FOR-ETHICS/' | relative_url }}) make it possible to ask whether a valid objection comes back with an answer and whether anyone has authority to act on it. |
+| **Design, incentives, and the next decision** | 2, 5, 17, 25, 28 | See which summary reached procurement, what the robot is authorized to do, what the operator can stop, and which evaluation or purchasing rule carries the decision forward. Use [Black Box]({{ '/BLACK-BOX/' | relative_url }}), [Intent Liability]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}), and [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) to check whether a verified repair changes the next comparable decision. |
+
+**What might emerge?** A correction can restore the resident’s words in the public record while the procurement brief still treats the original summary as consent. A committee can review the design and the engineering team can meet its brief, with the repaired distinction still missing from the service. The combined question is whether a correction can reach **every decision that materially depended on the old account**, with a way for someone affected to verify the change. That reaches further than checking that the published text is accurate.
+
+Test it by recording where the objection travels from the source to the next comparable decision. Compare cases where the correction reaches the public record alone and cases where it also reaches the people, criteria, and documents governing the service. Record which decisions changed, which rested on independent grounds, and where the result remains unclear. If later analysts or models draw on the record, check whether both the objection and its resolution survive that handoff. This is a proposed use of the thirty entries together.
+
+### Follow-up search leads
+
+Four leads from the deeper search proposal are **Social epistemology**, **Epistemic injustice**, **Pluralistic ignorance**, and **Reflective equilibrium**. Their appearance in the Grokipedia search results remains unverified.
+
+- **Social epistemology and epistemic injustice** add questions about how testimony becomes accepted knowledge, whose testimony loses standing, and whether participants have the language to describe what happened. [Social Epistemology](https://plato.stanford.edu/entries/epistemology-social/)
+- **Pluralistic ignorance** gives John’s A.I. ⇄ individual psychology ⇄ mass psychology loop a further test. If people keep doubts private because they think others accept the prevailing view, a public record can look more unanimous than the people who produced it. Compare private reports, public statements, and estimates of what others think. [APA Dictionary of Psychology](https://dictionary.apa.org/pluralistic-ignorance) · [11+1 Mass Psychology Clusters]({{ '/NETWORK/eleven-plus-one/' | relative_url }})
+- **Reflective equilibrium** asks how particular judgments and general principles can revise one another. The next operational question is whether a warranted revision changes what the evaluator does in a fresh case. [Reflective Equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})
