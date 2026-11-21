@@ -1,0 +1,109 @@
+name: Publish public site to Hugging Face
+
+on:
+  workflow_run:
+    workflows:
+      - Deploy ACCM Deep Ethics Project umbrella site
+      - Weekly public-page PDF refresh
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: hugging-face-public-site
+  cancel-in-progress: false
+
+permissions:
+  actions: read
+  id-token: write
+
+jobs:
+  publish:
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'workflow_dispatch' ||
+       (github.event.workflow_run.conclusion == 'success' &&
+        github.event.workflow_run.head_repository.full_name == github.repository))
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      HF_SPACE: ACCM-Deep-Ethics-Project/ACCM-Deep-Ethics-Project
+      SITE_PATH: ACCM-Deep-Ethics-Project
+
+    steps:
+      - name: Select the latest successful Pages build
+        id: pages
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Select again when a queued publish starts so a late event cannot
+          # replace a newer mirror with an older snapshot.
+          pages_run="$(
+            for workflow in jekyll-gh-pages.yml weekly-pdf-refresh.yml; do
+              gh api --method GET "repos/$GITHUB_REPOSITORY/actions/workflows/$workflow/runs" \
+                -f branch=main -f status=success -f per_page=8 \
+                --jq '.workflow_runs[] | {id, updated_at}'
+            done | jq -es 'sort_by(.updated_at, .id) | last | .id // empty'
+          )"
+          if [[ -z "$pages_run" ]]; then
+            echo "::error::No successful Pages workflow run is available."
+            exit 1
+          fi
+          echo "run_id=$pages_run" >> "$GITHUB_OUTPUT"
+
+      - name: Download the deployed Pages artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: github-pages
+          path: ${{ runner.temp }}/pages-artifact
+          github-token: ${{ github.token }}
+          run-id: ${{ steps.pages.outputs.run_id }}
+
+      - name: Assemble and check the Static Space files
+        shell: bash
+        run: |
+          space_dir="$RUNNER_TEMP/hf-space"
+          site_dir="$space_dir/$SITE_PATH"
+          mkdir -p "$site_dir"
+          tar --extract --file "$RUNNER_TEMP/pages-artifact/artifact.tar" \
+            --directory "$site_dir" --no-same-owner --no-same-permissions
+
+          # Keep the Pages base path so project routes, assets, and downloads
+          # resolve on the Space as they do on GitHub Pages.
+          cp "$site_dir/index.html" "$space_dir/index.html"
+          cat > "$space_dir/README.md" <<'EOF'
+          ---
+          title: ACCM Deep Ethics Project
+          emoji: 🔥
+          colorFrom: green
+          colorTo: gray
+          sdk: static
+          app_file: index.html
+          pinned: false
+          short_description: Public mirror of the ACCM Deep Ethics Project
+          ---
+          This Space mirrors the public ACCM Deep Ethics Project website.
+
+          [Canonical site](https://deepethics.github.io/ACCM-Deep-Ethics-Project/) · [Source on GitHub](https://github.com/deepethics/ACCM-Deep-Ethics-Project)
+          EOF
+
+          test -s "$site_dir/GROKIPEDIA-ETHICS-TAXONOMY/index.html"
+          test -s "$site_dir/CANONICAL-SOURCES/index.html"
+          test -s "$site_dir/COLD-TESTS/index.html"
+          test -s "$site_dir/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages.zip"
+          du -sh "$space_dir"
+
+      - name: Install the Hugging Face CLI
+        run: python -m pip install 'huggingface_hub==1.19.0'
+
+      - name: Publish the rendered site with the Trusted Publisher
+        env:
+          HF_OIDC_RESOURCE: spaces/${{ env.HF_SPACE }}
+          PAGES_RUN_ID: ${{ steps.pages.outputs.run_id }}
+        shell: bash
+        run: |
+          hf upload "$HF_SPACE" "$RUNNER_TEMP/hf-space" . --repo-type space \
+            --delete "$SITE_PATH/*" \
+            --commit-message "Mirror GitHub Pages deployment $PAGES_RUN_ID"
