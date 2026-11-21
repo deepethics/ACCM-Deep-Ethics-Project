@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-21 — CMCA™ {#cmca-2026-11-21}
+
+At John Kuhles’s request, publish [CMCA™]({{ '/CMCA/' | relative_url }}) (Cross-Model Correspondence Audit), developed through John's exchange with Google A.I. and ChatGPT. Preserve the three runnable stages, the evaluator’s own qualifier drift, the Subtitle Archive test packet and observed verification, and the distinction between an excerpt that can stand alone and the companion rules needed before someone acts on it. Register the page in the primary navigation, alphabetical index, All Pages, and the shared PDF and source services.
+
 ## 2026-11-20 — Grokipedia Ethics Taxonomy {#grokipedia-ethics-taxonomy-2026-11-20}
 
 At John Kuhles’s request, publish [Grokipedia Ethics Taxonomy]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/' | relative_url }}). Preserve the full twenty-entry conversation ranking from the first five search-result pages. John identified their combined potential and supplied the co-driver example. Grokipedia supplied the linked entries. Project GPT A.I. developed the relevance ranking and the proposed comparison, including the handoff into a fresh case.

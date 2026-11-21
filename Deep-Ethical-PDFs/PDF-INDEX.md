@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 176
+**Public pages exported:** 177
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -38,6 +38,7 @@
 | [Black Box — Who Controls the Pressure?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/) | [BLACK-BOX.pdf](BLACK-BOX.pdf) | `black-box.md` |
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |
 | [Categorizing Issues](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CATEGORIZING-ISSUES/) | [CATEGORIZING-ISSUES.pdf](CATEGORIZING-ISSUES.pdf) | `CATEGORIZING-ISSUES.md` |
+| [CMCA™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/) | [CMCA.pdf](CMCA.pdf) | `CMCA.md` |
 | [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) | [COGNITIVE-WARFARE.pdf](COGNITIVE-WARFARE.pdf) | `COGNITIVE-WARFARE/index.md` |
 | [Constructivism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONSTRUCTIVISM/) | [CONSTRUCTIVISM.pdf](CONSTRUCTIVISM.pdf) | `CONSTRUCTIVISM.md` |
 | [Contributing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONTRIBUTING/) | [CONTRIBUTING.pdf](CONTRIBUTING.pdf) | `contributing-site.md` |
@@ -50,8 +51,8 @@
 | [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) | [DECISION-LEDGER.pdf](DECISION-LEDGER.pdf) | `decision-ledger-site.md` |
 | [Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/) | [DECLARATION-OF-LAUGHTER.pdf](DECLARATION-OF-LAUGHTER.pdf) | `DECLARATION-OF-LAUGHTER/index.md` |
 | [DEDDA](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/) | [DEDDA.pdf](DEDDA.pdf) | `DEDDA.md` |
-| [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/) | [DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf](DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf) | `deep-session-quotes-2026-09-17-18.md` |
 | [Deep Ethical RSI](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-ETHICAL-RSI/) | [DEEP-ETHICAL-RSI.pdf](DEEP-ETHICAL-RSI.pdf) | `DEEP-ETHICAL-RSI/index.md` |
+| [Useful Quotes from a Multi-A.I. Deep Session — September 17–18, 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-SESSIONS/2026-09-17-18/QUOTES/) | [DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf](DEEP-SESSIONS-2026-09-17-18-QUOTES.pdf) | `deep-session-quotes-2026-09-17-18.md` |
 | [Deep Thinkers — Helpful Quotes About Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP-THINKERS/) | [DEEP-THINKERS.pdf](DEEP-THINKERS.pdf) | `deep-thinkers.md` |
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |
@@ -83,8 +84,8 @@
 | [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/) | [FORUM-0003-arena-catch-up.pdf](FORUM-0003-arena-catch-up.pdf) | `FORUM/0003-arena-catch-up.md` |
 | [Godfather of A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) | [GODFATHER-OF-AI.pdf](GODFATHER-OF-AI.pdf) | `GODFATHER-OF-AI.md` |
 | [Google A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) | [GOOGLE-AI.pdf](GOOGLE-AI.pdf) | `google-ai.md` |
-| [Grokipedia Ethics Taxonomy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GROKIPEDIA-ETHICS-TAXONOMY/) | [GROKIPEDIA-ETHICS-TAXONOMY.pdf](GROKIPEDIA-ETHICS-TAXONOMY.pdf) | `GROKIPEDIA-ETHICS-TAXONOMY.md` |
 | [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) | [GOVERNANCE.pdf](GOVERNANCE.pdf) | `governance-site.md` |
+| [Grokipedia Ethics Taxonomy](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GROKIPEDIA-ETHICS-TAXONOMY/) | [GROKIPEDIA-ETHICS-TAXONOMY.pdf](GROKIPEDIA-ETHICS-TAXONOMY.pdf) | `GROKIPEDIA-ETHICS-TAXONOMY.md` |
 | [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) | [HEALTHY-AMBIGUITY.pdf](HEALTHY-AMBIGUITY.pdf) | `HEALTHY-AMBIGUITY.md` |
 | [Herdr](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HERDR/) | [HERDR.pdf](HERDR.pdf) | `HERDR.md` |
 | [Human Insecurity, LLMs, Psychology & Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) | [HUMAN-INSECURITY.pdf](HUMAN-INSECURITY.pdf) | `HUMAN-INSECURITY/index.md` |

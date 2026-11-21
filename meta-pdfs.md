@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 176 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
+description: "Deep-Ethical-PDFs — 177 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,7 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**176 public-page PDF editions · 2,852 pages · exported through November 20, 2026**
+**177 public-page PDF editions · 2,858 pages · exported through November 21, 2026**
+
+CMCA™ adds its first 6-page edition on November 21, 2026. It includes the three runnable prompts, the Subtitle Archive test, and the verification that connects the name-forwarding and publication rules.
 
 Deep Ethical RSI adds its first 6-page edition on November 20, 2026. The complete case can be followed on paper, and the live edition has the interactive choices. Grokipedia Ethics Taxonomy adds its first 4-page edition on the same date, including the twenty source links and the worked comparison.
 
@@ -34,6 +36,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **I Love D.E. Corrections** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/I-LOVE-DE-CORRECTIONS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/I-LOVE-DE-CORRECTIONS/) |
 | **Beyond Dualism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BEYOND-DUALISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/) |
 | **Value Trajectory™** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VALUE-TRAJECTORY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) |
+| **CMCA™** (Cross-Model Correspondence Audit) | [Open / download PDF]({{ '/Deep-Ethical-PDFs/CMCA.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/) |
 | **Tidy Trap** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/TIDY-TRAP.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TIDY-TRAP/) |
 | **Constructivism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/CONSTRUCTIVISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONSTRUCTIVISM/) |
 | Categorizing Issues | [PDF]({{ '/Deep-Ethical-PDFs/CATEGORIZING-ISSUES.pdf' | relative_url }}) | [Live page]({{ '/CATEGORIZING-ISSUES/' | relative_url }}) |
@@ -212,11 +215,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 176
-- **Total pages:** 2,852
+- **PDF files:** 177
+- **Total pages:** 2,858
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 176 successful PDFs; 0 failures
+- **Build result:** 177 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)
