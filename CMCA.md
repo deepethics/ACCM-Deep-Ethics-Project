@@ -26,9 +26,15 @@ CMCA™ is a working protocol with a synthetic example. Its records show which c
 
 | Stage | Instructions | Record |
 | --- | --- | --- |
-| **1. Independent audit** | Give both models the same root source, account under review, and available intermediate versions. Preserve each first pass before either model sees the other’s output. | Exact source wording or a labeled `[Source synthesis]`, changed wording, earliest visible change, possible consequence, and smallest faithful repair. |
+| **1. Independent audit** | Give both models the same root source, account under review, and available intermediate versions. Record the edition each model receives. Preserve each first pass before either model sees the other’s output. | Located verbatim excerpts or a labeled `[Source synthesis]`, changed wording, earliest visible change, possible consequence, and smallest faithful repair. |
 | **2. Swap and verify** | Give each model the other’s audit with the same source materials. Check the evidence and the repairs. Identify the smallest passage that can be quoted on its own and any companion rules needed to act. | A verdict and supporting passage for each finding, missed changes, and open questions. |
 | **3. Reconcile** | Compare both audits and their verification passes against the source and available versions. Resolve what the record can settle and preserve what remains open. | Final findings, a change log, a standalone corrected passage, and open author questions. |
+
+### Record editions and quote boundaries {#record-editions-and-quote-boundaries}
+
+Record each edition the reviewer actually receives. For a dated PDF, keep the snapshot date and the supplied file. For a live page, keep the URL and a revision or dated capture. Place those materials in the handoff sequence where the evidence shows how they were produced or transmitted. When editions differ, compare the passages in each edition before treating a review difference as a missed finding.
+
+When several source passages matter, label each exact quotation by its location. Use `[Source synthesis]` for wording the auditor supplies to restate what the passages mean, and cite the supporting excerpts.
 
 ## Stage 1 prompt — Independent audit
 
@@ -42,11 +48,13 @@ Inputs
 - Root source
 - Account under review
 - Intermediate versions in order, if available
+- Edition actually received for each review input
 
 1. Recover the claim. Quote the exact source passage and corresponding
-   passage in the account. Preserve the actors, objects, actions, scope,
-   and qualifiers. If you combine or paraphrase source passages, label
-   the entry [Source synthesis] and give the supporting excerpts.
+   passage in the account. Preserve actors, objects, actions, scope, and
+   qualifiers. Give each verbatim excerpt its source location, including
+   when several excerpts work together. Use [Source synthesis] for your
+   own wording and give the supporting excerpts.
 2. Audit the evaluator. Identify what the cited evidence supports, what
    goes beyond it, and what remains open. Apply the same evidentiary
    standard to the source, the account, and your findings.
@@ -58,9 +66,11 @@ Inputs
 5. Test the excerpt alone. Identify the smallest passage that can be
    quoted accurately on its own. For an action, identify any additional
    rules someone would need before acting.
-6. Trace the handoff. Name the earliest available version that contains
-   each change. Describe what someone might do differently if they acted
-   on the later account and whether the source authorizes that action.
+6. Trace the handoff. Record which edition each reviewer received and
+   place it in the sequence where its production or transmission is
+   documented. Name the earliest available version showing each change.
+   Describe how the change might affect action and whether the source
+   authorizes that action.
 7. Return open decisions to the author. Flag unresolved boundary cases
    and implementation choices. Label any proposed addition to the
    policy.
@@ -80,11 +90,17 @@ Inputs
 - Account under review
 - Intermediate versions, if available
 - Other model’s audit and proposed repair
+- Editions each reviewer actually received
+
+Compare the editions before judging what a reviewer missed. If the
+edition or passage the reviewer received cannot be established, record
+that limit in the verification.
 
 1. Mark each finding Confirmed, Needs revision, Unsupported, or
    Undecidable from the material provided. Quote the wording that
-   supports your verdict. Flag paraphrases presented as verbatim quotes
-   and check that the earliest visible version is correctly identified.
+   supports your verdict. Check the location of each verbatim excerpt.
+   Flag paraphrases presented as quotes and check the earliest version
+   in which each change is visible.
 2. Look for consequential changes the first auditor missed. Keep
    observed wording changes separate from hypotheses about their cause
    and possible effects.
@@ -109,13 +125,15 @@ Reconcile the recorded audits and verification passes.
 
 Inputs
 - Root source, account under review, and available intermediate versions
+- Editions each reviewer actually received
 - Model A audit and Model B’s verification of it
 - Model B audit and Model A’s verification of it
 
 1. Compare the findings against the evidence. Record which review passes
-   were completed. Use the root source to settle scope and use the
-   versions to settle where a change became visible. Label source
-   syntheses.
+   were completed. Compare the received editions before attributing
+   differences to the auditors. Use the root source to settle scope and
+   use the versions to locate changes. Label verbatim excerpts by
+   location and label any [Source synthesis].
 2. Merge distinct, supported findings. Revise or drop any finding that
    overstates the evidence. Keep disagreements open when the record
    cannot settle them.
@@ -165,12 +183,19 @@ The Stage 2 verdicts below apply to the original findings. Where the first swap 
 
 **Change log.** All four findings remain. The reconciled record now includes the two wording changes noted during the swap and distinguishes their possible effects from what the source establishes. It also narrows the original portability claim by linking the name-forwarding duty to the separate release rule when the reader intends to publish.
 
-**Smallest passage for a name-correction publication decision.**
+**Smallest evidence set for a name-correction publication decision.** Two verbatim excerpts from the root source, sentences 2 and 4.
 
-> Only the language editor may publish translated subtitles, and only after a second translator reviews the version to be published. The language editor must forward requests to correct a speaker’s name to the event coordinator before publishing any revised spelling.
+**Sentence 2 — Publication**
+
+> Only the language editor may publish translated subtitles, and only after a second translator reviews the version to be published.
 {: .accm-rounded-quote}
 
-The two source sentences together carry publishing authority, the second-translator review of the release version, and the duty to forward the name-correction request. The full standalone repair for all four rules is the root passage above.
+**Sentence 4 — Name corrections**
+
+> The language editor must forward requests to correct a speaker’s name to the event coordinator before publishing any revised spelling.
+{: .accm-rounded-quote}
+
+Sentence 3 governs whether published subtitles can stay online during review. The selected excerpts govern the publication decision in this example. The root passage above contains all four rules.
 
 **Open questions for the policy author**
 
@@ -187,6 +212,10 @@ John Kuhles brought a [Google A.I. evaluation of the ACCM Deep Ethics Project](h
 Google A.I. acknowledged the overreach and quoted the original scope accurately at the start of its repair. It then described the earlier claim as a generalization about “all existing governance systems.” The repair widened **most** to **all** and dropped the explicit reference to **content moderation**. The two formulations are visible in the supplied exchange. A cause such as pressure for smoother paraphrasing remains a hypothesis.
 
 John carried the replies between Google A.I. and ChatGPT, keeping each response available for the other to inspect. ChatGPT proposed comparing each consequential restatement with the root source and wrote the prompt packet and synthetic Subtitle Archive case. Google A.I. helped develop the numbered workflow, the verification pass, and the worked reconciliations. John selected **Cross-Model Correspondence Audit** as the primary name and requested the public **CMCA™** page.
+
+### When reviewers received different editions {#review-editions}
+
+In a later review, Grok 4.7 Expert assessed the dated CMCA™ PDF. The supplied PDF recorded ChatGPT’s verification pass. The newer live page also contained Google A.I.’s reverse verification of ChatGPT’s audit. ChatGPT initially treated Grok’s silence about the reverse pass as an omission. Grok compared the two editions and recovered the reason for the difference in coverage. The Stage 3 reconciliation had already been published on the web, and the PDF still reflected the earlier snapshot.
 
 ### When the wording controls an action
 
