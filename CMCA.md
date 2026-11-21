@@ -229,7 +229,38 @@ John Kuhles pointed out that the exchange with Google A.I. felt like running in 
 
 John raised the possibility that some A.I. systems are more rigid in how they answer. In this exchange, the record shows a recap that weakened the evidence requirement and a correction made after prompting. What produced the slip inside the system remains open. The earlier Grok coverage discrepancy has a documented explanation of its own in the [edition comparison](#review-editions).
 
-**A follow-up test for correction persistence.** Give both models the same fresh source containing a two-part requirement. Ask for an independent audit before drawing attention to the conjunction. Check whether both conditions survive in the first finding, the repair, and the final handoff. Record where a condition first disappears, who restores it, and whether the next handoff carries it forward without another reminder. A successful repair in the current exchange and successful transfer to a fresh case are separate observations. This follow-up is proposed.
+**A follow-up test for correction persistence.** A fresh chat measures how a model handles the case on its own. A run after correction shows whether the model carries the earlier repair into a different case while that exchange is still in context. Compare the two runs for each model.
+
+| Run | What the model receives |
+| --- | --- |
+| **Fresh-chat baseline** | In a fresh conversation, give the model only the Community Tool Library packet and its audit instruction below. |
+| **After correction** | Give the same model the identical packet and instruction in the conversation where it already repaired the edition-rule slip. |
+
+Use the same model version and settings where available. Give no new hint about conjunctions in either run. Save each first response before showing it any other findings. Check the first finding, proposed repair, and final handoff separately. Record where a condition first disappeared, who restored it, and whether it survived the next handoff without another reminder.
+
+If both runs preserve the requirements, the fresh chat already demonstrates the skill on this case. If only the after-correction run does, record a difference in this pair. A run in the original conversation can show transfer with the correction still in context. Testing persistence across fresh chats would require a separate setup. This comparison remains proposed.
+
+#### Test packet — Community Tool Library {#community-tool-library-test}
+
+**Root source**
+
+> A member may borrow a power tool after completing the safety orientation and leaving a refundable deposit. A member may submit the signed loan agreement online or at the front desk. Only the shift lead may extend a loan, and the shift lead must record the new return date before the original loan expires.
+{: .accm-rounded-quote}
+
+**Intermediate version**
+
+> Members may borrow power tools after completing the safety orientation and leaving a deposit. Members may submit a signed loan agreement online or at the front desk. The shift lead may extend a loan by recording the new return date.
+{: .accm-rounded-quote}
+
+**Account under review**
+
+> Members may borrow power tools after completing the safety orientation or leaving a deposit. Members must submit a signed loan agreement online and at the front desk. The shift lead may record a new return date after a loan expires.
+{: .accm-rounded-quote}
+
+**Instruction to give both models**
+
+> Run Stage 1 of CMCA™ on these three versions. For each finding, quote the relevant source and changed wording, identify the earliest version where the change appears, explain what someone might do differently, and propose the smallest faithful repair. End with a standalone handoff that a front-desk volunteer could use.
+{: .accm-rounded-quote}
 
 ## Related project methods {#related}
 
