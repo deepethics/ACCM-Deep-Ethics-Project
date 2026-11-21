@@ -223,6 +223,14 @@ An earlier synthetic exercise gave most reviewers permission to view anonymized 
 
 In the worked continuation, an emergency freeze suspended viewing while the 24-hour window continued from the case’s reopening. Saying access “resumes automatically” introduced an assumption about software. Saying the user must be assigned to the reopened case after every freeze introduced a different error. The assignment rule applied to the reopening exception after the Friday cutoff. A freeze could also end during the baseline period, when trained reviewers were eligible without that assignment. The example shows how a correction can travel accurately within one case and still need a scope check before becoming a general rule.
 
+### When the same correction keeps coming back {#correction-persistence}
+
+John Kuhles pointed out that the exchange with Google A.I. felt like running in circles. We had audited a summary, then its repair, then the summary of the rule meant to catch the same kind of drift. Google A.I. had helped formulate the edition check. In its recap, it wrote “record the exact file, snapshot date, or live URL/capture.” The page asks for the supplied PDF **and** its snapshot date, or the live URL **and** either a revision or a dated capture. Google A.I. restored both requirements after the missing conjunction was pointed out.
+
+John raised the possibility that some A.I. systems are more rigid in how they answer. In this exchange, the record shows a recap that weakened the evidence requirement and a correction made after prompting. What produced the slip inside the system remains open. The earlier Grok coverage discrepancy has a documented explanation of its own in the [edition comparison](#review-editions).
+
+**A follow-up test for correction persistence.** Give both models the same fresh source containing a two-part requirement. Ask for an independent audit before drawing attention to the conjunction. Check whether both conditions survive in the first finding, the repair, and the final handoff. Record where a condition first disappears, who restores it, and whether the next handoff carries it forward without another reminder. A successful repair in the current exchange and successful transfer to a fresh case are separate observations. This follow-up is proposed.
+
 ## Related project methods {#related}
 
 - [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) follows the consequential relations that need to survive a retelling. The separate check for companion rules asks whether those relations are sufficient for the action a reader intends to take.
