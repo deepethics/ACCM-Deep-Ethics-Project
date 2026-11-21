@@ -87,16 +87,16 @@ John Kuhles points to mass media’s capacity for “full spectrum” mass perce
 
 ## Combine the entries {#combine-the-entries}
 
-A source correction can change what a summary says, what a reviewer knows, what an office may do, and what the next person inherits. Each step can succeed or fail separately. The untapped potential is in carrying what one inquiry finds into the next, where somebody can act on it or show why it needs revision.
+A source correction can change what a summary says, what a reviewer knows, what an office may do, and what the next person inherits. Each step can succeed or fail separately. The thirty entries work together when the finding at each step reaches someone who can act on it or show why it needs revision.
 
 | Follow the object through | Entries to bring together | What to carry forward |
 | --- | --- | --- |
-| **Source → account** | 1, 4, 6, 12 | The original wording and a record of any change to the question, speaker, qualifier, or purpose. The evasion entry concerns deception. The source comparison can establish that a question was displaced while the reason remains open. |
-| **Account → hearing** | 3, 7, 10, 11, 13, 16 | The affected person’s own clarification, the circumstances that matter, and the disagreements the hearing needs to keep open. Preserve the separate risks when a single score would erase an answer-changing difference. |
-| **Hearing → decision** | 9, 14, 15, 18, 19, 20 | The actual mandate, the reach of each role, the point at which the decision becomes binding, and the route a local objection can take to a reviewer who can act. |
-| **Decision → next case** | 2, 5, 8, 17 | The repaired decision, any change to the procedure, and a fresh case that can show whether that change was used. Let the people who assess the result inspect the generated account and the criteria used to assess it. |
+| **Source → account** | 1, 4, 6, 12, 21 | Keep the original wording and record any change to the question, speaker, qualifier, or purpose. For a commissioned message, carry forward who commissioned it, whom it targeted, and what response they sought. A source comparison can show that a question was displaced. Evidence of deception requires a separate finding. |
+| **Account → hearing** | 3, 7, 10, 11, 13, 16, 22, 23, 29 | Bring the affected person’s own clarification, the circumstances that matter, and the disagreements the hearing needs to keep open. Ask whose account gets credibility, whose care or repair work is counted, what each person values, and how the reviewer responds when challenged. Keep risks visible when one score would erase a difference that could change the decision. |
+| **Hearing → decision** | 9, 14, 15, 18, 19, 20, 24, 26, 27, 30 | Record the mandate, who can recommend or impose an action, when the decision becomes binding, and where an objection can reach a reviewer empowered to act. If an intervention is proposed as help, record who defines the benefit and who can decline it. Include effects on people outside the hearing and on future people whose options the decision may change. |
+| **Decision → next case** | 2, 5, 8, 17, 25, 28 | Carry the repaired decision and any change to the procedure into a comparable case. Let reviewers inspect the generated account, the evaluation criteria, the incentives that shaped the choice, and whether an operator or affected person can stop a system’s action. Check whether the correction changed the next decision or the conditions that produced it. |
 
-The four rows show how the original twenty entries can work together. The [Properties expansion](#deep-ethics-taxonomy-properties-expansion) brings all thirty into a second case. A correction at any step can reopen an earlier one. An appeal may recover the original question. A later case may reveal that a justified repair never reached the next desk.
+A correction at any step can reopen an earlier one. An appeal may recover the original question. A later case may reveal that a justified repair never reached the next desk. The [Properties expansion](#deep-ethics-taxonomy-properties-expansion) carries these stages into the assistive-robot consultation case.
 
 ## The same detour {#the-same-detour}
 
