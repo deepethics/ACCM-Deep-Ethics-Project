@@ -74,11 +74,11 @@ clear trajectory efforts
 
 ALL to do 1 job:
 
-Seek the partially hidden (covert) and overt deep ethical potential of humanity ... not wasting time that is not working well ...
+Seek the partially hidden (covert) and overt deep ethical potential of humanity &#46;&#46;&#46; not wasting time that is not working well &#46;&#46;&#46;
 
-And imagine it has NO CLUE about what my project is all about ...
+And imagine it has NO CLUE about what my project is all about &#46;&#46;&#46;
 
-Is it possible that A.G.I. (or A.S.I.) ... does things close to what our project is doing?
+Is it possible that A.G.I. (or A.S.I.) &#46;&#46;&#46; does things close to what our project is doing?
 
 <p class="accm-quote-attribution">— <strong>John Kuhles 🦜🦋🌳</strong></p>
 
