@@ -100,6 +100,7 @@ jobs:
                     if rendered != source:
                         file.write_text(rendered, encoding="utf-8")
                 PY
+                echo "GitLab Pages URL: $CI_PAGES_URL"
             pages:
               publish: public
           YAML
@@ -142,11 +143,13 @@ jobs:
           mv "$snapshot/public" "$worktree/public"
           cp "$snapshot/.gitlab-ci.yml" "$worktree/.gitlab-ci.yml"
           git add --all -- .gitlab-ci.yml public
-          if git diff --cached --quiet; then
+          # A manual dispatch or retry can recreate a GitLab pipeline that
+          # failed before accepting jobs, even when the snapshot is identical.
+          if git diff --cached --quiet && [[ "$GITHUB_EVENT_NAME" != workflow_dispatch && "$GITHUB_RUN_ATTEMPT" == 1 ]]; then
             echo "The GitLab mirror already has these files."
             exit 0
           fi
           git -c user.name='github-actions[bot]' \
               -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
-              commit --quiet -m "Mirror GitHub Pages deployment $PAGES_RUN_ID"
+              commit --quiet --allow-empty -m "Mirror GitHub Pages deployment $PAGES_RUN_ID"
           git push origin HEAD:refs/heads/main
