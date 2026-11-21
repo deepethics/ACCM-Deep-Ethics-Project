@@ -134,7 +134,7 @@ This exchange takes the taxonomy’s [combined case]({{ '/GROKIPEDIA-ETHICS-TAXO
 >
 > Why is this quote universal, especially when billions are being groomed to depend on A.I.s that will eventually micromanage more and more of our social/private lives?
 >
-> Unquote... ties directly to >>> A.I. ethics-washing of opaque black-box emergent properties ALREADY being deployed on a massive scale, "micro-managing" hundreds of millions, eventually billions, of humans/users. No real public debate about the top-down, unchallenged WEF Network "responsible A.I." bleeding into governments, local governments, UN, WHO, IMF, EU, BIS, CBDC, IEEE etc.
+> Unquote... ties directly to &#62;&#62;&#62; A.I. ethics-washing of opaque black-box emergent properties ALREADY being deployed on a massive scale, "micro-managing" hundreds of millions, eventually billions, of humans/users. No real public debate about the top-down, unchallenged WEF Network "responsible A.I." bleeding into governments, local governments, UN, WHO, IMF, EU, BIS, CBDC, IEEE etc.
 >
 > cheers,  
 > John Kuhles 🦜🦋🌳  
