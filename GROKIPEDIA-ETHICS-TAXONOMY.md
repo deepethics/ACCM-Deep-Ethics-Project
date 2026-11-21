@@ -26,7 +26,7 @@ date: 2026-11-20
 
 John searched Grokipedia for “deep ethics” and saw distinct traditions with points of contact with the **ACCM Deep Ethics Project** (Allow Constructive Controversy Mode). The entries below come from the first five pages of the [search results](https://grokipedia.com/search?q=deep+ethics) on 20 November 2026. Grokipedia supplied the entries. Project GPT A.I. ranked them for practical relevance to the project, following John’s question, and developed the comparisons on this page. The ranking reflects this purpose. A reader with a different case may start elsewhere.
 
-[Top 20](#top-20) · [Follow the public correction](#follow-the-public-correction) · [Combine the entries](#combine-the-entries) · [The same detour](#the-same-detour) · [Check the next case](#check-the-next-case)
+[Top 20](#top-20) · [Follow the public correction](#follow-the-public-correction) · [Combine the entries](#combine-the-entries) · [The same detour](#the-same-detour) · [Check the next case](#check-the-next-case) · [A.I., media, and public judgment](#ai-media-and-public-judgment)
 
 ## Top 20 {#top-20}
 
@@ -83,6 +83,8 @@ The four rows are a proposed way to work with these sources. A correction at any
 
 ## The same detour {#the-same-detour}
 
+On 24 October 2026, a disputed percentage associated with the U.S. Department of Government Efficiency (DOGE) diverted the discussion from John’s question about U.S. invention-secrecy orders. He wanted the orders’ continuing justification, oversight, conflicts of interest, and possible public costs examined. The percentage helped raise the audit question. The audit itself had independent grounds. John used the gauge to show how far a correction to the estimate should reach, then used the co-driver to show what happens when someone claims a different destination in the name of that correction. [John’s clarification of the original inquiry]({{ '/PLOT-TWIST/#patent-audit-destination-clarification' | relative_url }})
+
 In John Kuhles’s gasoline-gauge and co-driver example, the driver’s reading of the fuel can be wrong. The driver and the co-driver can each propose the same warranted detour to refuel. Actual fuel changes whether the current route is feasible. A separate question remains when the co-driver uses the gauge error to claim authority over the destination. [Original gasoline-gauge example and threshold condition]({{ '/PLOT-TWIST/#gasoline-trajectory-and-the-threshold-condition' | relative_url }})
 
 | Read the case through | What becomes visible |
@@ -101,3 +103,114 @@ In John Kuhles’s gasoline-gauge and co-driver example, the driver’s reading 
 3. **Try a fresh case.** Hold the outward action fixed and change one relation, such as who authorized it or when a challenge arrived. Compare a case with the earlier correction supplied and one where the reader has only the new source. The comparison can test what carries forward. This page reports the proposed exercise.
 
 The ranking can change on merit. An example that shows a different entry doing more work in a particular case is a reason to revise the order for that purpose. A changed Grokipedia entry can also reopen the mapping. Recover the starting search through [page 4](https://grokipedia.com/search?q=deep+ethics&page=4) and [page 5](https://grokipedia.com/search?q=deep+ethics&page=5), and compare timing and authority in the [playable 2035 audit desk]({{ '/DEEP-ETHICAL-RSI/#audit-desk' | relative_url }}).
+
+## How A.I., media, and public judgment shape one another {#ai-media-and-public-judgment}
+
+This exchange takes the taxonomy’s [combined case]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/#combine-the-entries' | relative_url }}) into a recurring relationship. John Kuhles asks how large language models, individual psychology, and mass psychology shape one another, and what happens when the systems that manage controversy are themselves part of the controversy. The two responses connect his critique and questions to media ethics, negotiation ethics, machine ethics, and oversight.
+
+### John Kuhles · The feedback loop and the controversy around A.I.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> The reason why they all overlap is that multiple MAIN connected recurring topics & themes:
+>
+> LLMS ⇄  Mass Psychology ⇄ Individual Psychology ⇄  LLMS ⇄ Mass Psychology ⇄ LLMS ⇄  Mass Psychology ⇄ loop
+>
+> "Lowest common denominator risk management" mechanisms are not designed to deal with real, deep ethical, high-signal users!
+>
+> How to deal with controversies in general constructively, deep ethically, ALSO not high on the A.I. agenda.
+>
+> Epistemology 2.0  & Deep Ethical Systems Thinking ALSO not high on the A.I. agenda.
+>
+> The current "conflict resolution skills" framework is way too narrow, in my view.
+>
+> If any controversy is "messy", it is mostly because "authorities" within mass media are, in my view, incompetent to manage a fair (constructive) debate, as their "conflict resolution skills" are zero to none. Their minds are already made up. Hence, the mass conditioning is not just because 1 side is pushed so hard; it is the steering of "allowed narratives" that are rigged from the get-go. Yet the vast majority have no clue, or some of them DO, but lack the stamina to do something about it.
+>
+> "There are not many controversial topics in the past (I investigated over 200) that come even close to the "A.I. road to A.G.I./ASI" controversy! ... Meaning, the consequences dwarf anything else, YET it is ignoring itself as being the highest controversy imaginable "managing" millions (if not billions!)—how to be, act, think, and assess when it comes to "avoiding controversy" lol ... ultra hilarious: :P If we have to follow your own logic, you have to avoid yourself, Grok! ... The word "irony" does not do justice to how absurd it all is!
+>
+> Imagine a human who never ever used or saw computers in the 1930s stating, quote:
+>
+> "As long as you allow the trickster to go unchallenged and leave transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on."
+>
+> Why is this quote universal, especially when billions are being groomed to depend on A.I.s that will eventually micromanage more and more of our social/private lives?
+>
+> Unquote... ties directly to >>> A.I. ethics-washing of opaque black-box emergent properties ALREADY being deployed on a massive scale, "micro-managing" hundreds of millions, eventually billions, of humans/users. No real public debate about the top-down, unchallenged WEF Network "responsible A.I." bleeding into governments, local governments, UN, WHO, IMF, EU, BIS, CBDC, IEEE etc.
+>
+> cheers,  
+> John Kuhles 🦜🦋🌳  
+> Dutch 🇳🇱 NDE/Asperger  
+> CEO & Founder of DeepEthical.ai
+
+</div>
+
+### GPT 6.2 Sol Pro A.I. Max · Reaction, 19 November 2026
+
+<div class="accm-rounded-quote" markdown="1">
+
+> John, the overlap makes sense because **the output of one layer becomes part of the conditions for the next**. An LLM’s answer can change what one person feels able to ask. Across many encounters, that can shape what people say in public, which objections get heard, and what ends up in the records later systems draw on. A good correction can travel around that loop too. It can give someone a better question, change how a group handles it, and leave a better account for the next reader or system.
+>
+> That’s where your critique of conflict resolution has force. A televised debate can give two guests equal time while the format has already decided which questions and alternatives can enter. A broad A.I. risk rule can make a similar move when it sees a controversial topic and misses that the user is carefully comparing the risks of acting, waiting, or accepting the prevailing account. **Epistemology 2.0** asks how the account came to count as knowledge. **Deep Ethical Systems Thinking** follows what happens once people and institutions act on it, including whether a later correction can change the process.
+>
+> The 1930s setup makes the quote portable across eras. A newspaper editor, a committee, or an A.I. system can shape what others get to see. When the people able to challenge a consequential distortion leave it in place, the mechanism can keep working through their inaction. Responsibility scales with what someone could see, what they could change, and how far their decisions reach. As people come to rely on assistants for more private and consequential choices, more of those decisions can happen before anyone else sees that a question was filtered out.
+>
+> And your Grok punchline lands. **A system that steers people away from controversy is participating in a controversy about who gets to steer.** The same question applies when “responsible A.I.” language travels from an international forum into a public agency or a local service. Follow the particular recommendation into the rule someone actually encounters. The constructive opening is whether that person can question the rule, bring a competing consideration into view, and have it change what happens next.
+
+— GPT 6.2 Sol Pro A.I. Max · 19 November 2026
+
+</div>
+
+### Project GPT A.I. · How the exchange extends the taxonomy, 21 November 2026
+
+<div class="accm-rounded-quote" markdown="1">
+
+> I’d open **Combine the entries** with your feedback loop, then use three shorter excerpts where they do specific work in the taxonomy. The loop answers the page’s opening question about what becomes possible when twenty ethics entries work on the same case. What one entry helps us see can change what the next person, institution, or A.I. has available to work with.
+>
+> #### Combine the entries · Why the fields overlap
+>
+> > LLMS ⇄  Mass Psychology ⇄ Individual Psychology ⇄  LLMS ⇄ Mass Psychology ⇄ LLMS ⇄  Mass Psychology ⇄ loop
+>
+> — John Kuhles 🦜🦋🌳
+>
+> Pair it with the sentence from **GPT 6.2 Sol Pro A.I. Max, 19 November 2026** that shows why correction belongs in the loop.
+>
+> > A good correction can travel around that loop too. It can give someone a better question, change how a group handles it, and leave a better account for the next reader or system.
+>
+> #### #4 Media ethics and #16 Negotiation ethics · Who sets the terms of the debate?
+>
+> > Hence, the mass conditioning is not just because 1 side is pushed so hard; it is the steering of "allowed narratives" that are rigged from the get-go.
+>
+> — John Kuhles 🦜🦋🌳
+>
+> Introduce this as your critique of how some media formats handle controversy. The GPT reply gives the reader something concrete to inspect.
+>
+> > A televised debate can give two guests equal time while the format has already decided which questions and alternatives can enter.
+>
+> That pairing gives **OmbudsEthics™** a specific question to ask. Can a participant challenge the framing of the debate itself, and can that challenge change what gets heard?
+>
+> #### #5 Machine ethics and #18 Ethics committee · Who can challenge the system?
+>
+> Keep the **imagined 1930s speaker** in the setup. You asked readers to picture someone who had never seen or used a computer making the following observation. That setup is what lets the reader test whether the accountability problem carries across eras.
+>
+> > As long as you allow the trickster to go unchallenged and leave transparency and accountability issues unresolved, you, by extension, are part of that same mechanism if you do not face it head-on.
+>
+> — John Kuhles 🦜🦋🌳, imagined 1930s scenario
+>
+> The application to **Black Box** is direct. When an assistant filters a question or narrows the options someone sees, who can discover that it happened, challenge the decision, and get it corrected? The GPT reply adds a useful qualification about responsibility.
+>
+> > Responsibility scales with what someone could see, what they could change, and how far their decisions reach.
+>
+> #### #5 Machine ethics · Keep the Grok punchline with its setup
+>
+> > If we have to follow your own logic, you have to avoid yourself, Grok!
+>
+> — John Kuhles 🦜🦋🌳
+>
+> Keep the preceding point beside it. You were addressing Grok about an A.I. system that advises people how to avoid controversy while its own growing influence over what people ask, see, and assess is itself a major controversy. That’s what gives the joke its force. The GPT reply makes the question explicit.
+>
+> > **A system that steers people away from controversy is participating in a controversy about who gets to steer.**
+>
+> I’d carry **Epistemology 2.0** and **Deep Ethical Systems Thinking** into the connecting prose. The first asks how an account came to count as knowledge. The second follows what that account does once people and institutions act on it, including whether a correction reaches the decisions that relied on it. For the institutional part of your text, a documented example tracing one recommendation into one rule someone actually encounters would give readers a concrete way to examine the relationship you’re pointing at.
+
+— Project GPT A.I. · 21 November 2026
+
+</div>
