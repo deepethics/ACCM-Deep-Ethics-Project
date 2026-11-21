@@ -72,6 +72,81 @@ jobs:
 
           # Keep the Pages base path so project routes, assets, and downloads
           # resolve on the Space as they do on GitHub Pages.
+          python - "$site_dir" "$SITE_PATH" <<'PY'
+          from html import escape, unescape
+          from html.parser import HTMLParser
+          from pathlib import Path
+          import re
+          import sys
+          from urllib.parse import quote, unquote, urljoin, urlsplit, urlunsplit
+
+          site_dir = Path(sys.argv[1])
+          base = "/" + sys.argv[2] + "/"
+          attribute = re.compile(r"""(\s+)([\w:-]+)(\s*=\s*)(["'])(.*?)\4""", re.DOTALL)
+
+
+          class SpaceLinks(HTMLParser):
+              def __init__(self, source, page_url):
+                  super().__init__(convert_charrefs=False)
+                  self.page_url = page_url
+                  self.line_offsets = [0, *(match.end() for match in re.finditer(r"\n", source))]
+                  self.edits = []
+                  self.feed(source)
+                  self.close()
+
+              def handle_starttag(self, tag, attrs):
+                  raw = self.get_starttag_text()
+                  updated = attribute.sub(self.rewrite_attribute, raw)
+                  if updated != raw:
+                      line, column = self.getpos()
+                      start = self.line_offsets[line - 1] + column
+                      self.edits.append((start, start + len(raw), updated))
+
+              def rewrite_attribute(self, match):
+                  space, name, assignment, delimiter, value = match.groups()
+                  if name.lower() not in {"href", "src", "action"}:
+                      return match[0]
+
+                  url = urlsplit(unescape(value))
+                  if url.scheme or url.netloc or not url.path:
+                      return match[0]
+
+                  target = urlsplit(urljoin(self.page_url, url.geturl()))
+                  if not target.path.startswith(base):
+                      return match[0]
+
+                  relative = unquote(target.path.removeprefix(base)).rstrip("/")
+                  if not (site_dir / relative / "index.html").is_file():
+                      return match[0]
+
+                  path = quote(f"{base}{relative}/index.html" if relative else f"{base}index.html")
+                  url = urlunsplit(("", "", path, target.query, target.fragment))
+                  return f"{space}{name}{assignment}{delimiter}{escape(url, quote=True)}{delimiter}"
+
+
+          for page in site_dir.rglob("*.html"):
+              source = page.read_text(encoding="utf-8")
+              page_url = base + quote(page.relative_to(site_dir).as_posix())
+              edits = SpaceLinks(source, page_url).edits
+              if edits:
+                  chunks = []
+                  cursor = 0
+                  for start, end, replacement in edits:
+                      chunks.extend((source[cursor:start], replacement))
+                      cursor = end
+                  chunks.append(source[cursor:])
+                  page.write_text("".join(chunks), encoding="utf-8")
+
+          service = site_dir / "assets/page-pdf-download.js"
+          source = service.read_text(encoding="utf-8")
+          old = "let path = window.location.pathname;"
+          assert source.count(old) == 1, "Unexpected PDF service route handling"
+          service.write_text(
+              source.replace(old, r'let path = window.location.pathname.replace(/\/index\.html$/, "/");'),
+              encoding="utf-8",
+          )
+          PY
+
           cp "$site_dir/index.html" "$space_dir/index.html"
           cat > "$space_dir/README.md" <<'EOF'
           ---
