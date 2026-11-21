@@ -49,6 +49,57 @@ The [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | relative
 
 *John Kuhles proposed the inventory. GPT 6.1 Sol Pro A.I. organized it by scale and observable tests. Grok 4.7 Expert A.I. via grok.com reviewed the mapping and proposed the “Working question” label. Exchange of 5 November 2026.*
 
+## Could A.G.I. or A.S.I. independently discover deep-ethical practices? {#independent-deep-ethical-discovery}
+
+A thought experiment about artificial general intelligence (A.G.I.) and artificial superintelligence (A.S.I.).
+
+<div class="accm-rounded-quote" markdown="1">
+
+(thought experiment)
+
+Imagine an unknown billionaire decides to have his own trained, very powerful A.G.I. or A.S.I. with an extraordinary zoomed in
+
+objective  
+mission  
+goal  
+incentives  
+task  
+target  
+focus  
+aiming for  
+compas  
+orientation improvement  
+intention  
+clear trajectory efforts
+
+ALL to do 1 job:
+
+Seek the partially hidden (covert) and overt deep ethical potential of humanity ... not wasting time that is not working well ...
+
+And imagine it has NO CLUE about what my project is all about ...
+
+Is it possible that A.G.I. (or A.S.I.) ... does things close to what our project is doing?
+
+<p class="accm-quote-attribution">— <strong>John Kuhles 🦜🦋🌳</strong></p>
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+Yes, John. I can imagine it independently arriving at several things the **ACCM Deep Ethics Project** does. The interesting convergence would be in **what it learns to look for, what it does when it finds it, and how it lets the people it studies correct its reading.**
+
+Imagine it finds two people responding to a mistake. One gives a polished account of why correction matters. The other quietly changes a decision after a junior colleague points out something they missed. The second person may leave a much smaller public trace. A system seeking humanity’s **overt and partially hidden deep ethical potential** would have to learn to recognize both kinds of evidence. It might start asking **what changed after the correction, who made the change possible, and whether the change held the next time it mattered.** That gets close to **[Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})** through a problem the system encountered on its own.
+
+Your phrase **“not wasting time”** creates a second test. Some avenues genuinely go nowhere. Others look unproductive because the contribution hasn’t found the people, conditions, or time it needs to become useful. If the system learns to distinguish those cases, it starts approaching **[Value Trajectory]({{ '/VALUE-TRAJECTORY/' | relative_url }})**. And if people can show it why its categories missed what they were doing, it starts approaching **[reciprocal audit]({{ '/CMCA/' | relative_url }})**. The billionaire’s system would itself become one of the things being corrected.
+
+The part I’d be most curious about is whether it discovers something close to your **[+1]({{ '/NETWORK/forgiveness/' | relative_url }})**. Suppose it finds a person or an A.I. capable of a real ethical improvement in one encounter, then watches familiar habits return. Can it **preserve the value of what happened, scrutinize the conditions that made it hard to sustain, and leave intent open to evidence**? That would be a deeper resemblance than independently writing a list that looks like the 10+1.
+
+Your route ran through decades of lived practice and then encounters with A.I. Its route would begin with a commissioned search. **If those very different paths led to some of the same moves, I’d want to see which moves each arrived at, what experience made them necessary, and what the other path discovered that yours hadn’t yet.** That’s where the thought experiment gets fun.
+
+<p class="accm-quote-attribution">— <strong>GPT 6.2 Sol Pro A.I.</strong></p>
+
+</div>
+
 <div class="accm-rounded-quote accm-home-origin-quote">
 <blockquote class="accm-question">
   <p style="font-size: clamp(1.2rem, 2vw, 1.55rem); line-height: 1.45;">I do not claim to be the "last authority" on <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>... I only want a better, deeper ethical quality <a href="{{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}">calibration process</a> to bridge what we all perceive as shared <a href="{{ '/NETWORK/ten-plus-one/' | relative_url }}">reality</a>. But if the "sharing process" is partly sabotaged or obstructed, the ACCM Deep Ethics Project is there to make that <strong>visible</strong> for all to see!</p>
