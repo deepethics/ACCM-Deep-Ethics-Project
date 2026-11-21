@@ -1,0 +1,152 @@
+name: Publish public site to GitLab Pages
+
+on:
+  workflow_run:
+    workflows:
+      - Deploy ACCM Deep Ethics Project umbrella site
+      - Weekly public-page PDF refresh
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: gitlab-public-site
+  cancel-in-progress: false
+
+permissions:
+  actions: read
+
+jobs:
+  publish:
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'workflow_dispatch' ||
+       (github.event.workflow_run.conclusion == 'success' &&
+        github.event.workflow_run.head_repository.full_name == github.repository))
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      GITLAB_REPOSITORY: git@gitlab.com:deepethics/accm-deep-ethics-project.git
+
+    steps:
+      - name: Select the latest successful Pages build
+        id: pages
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Select again when a queued publish starts so a late event cannot
+          # replace a newer mirror with an older snapshot.
+          pages_run="$(
+            for workflow in jekyll-gh-pages.yml weekly-pdf-refresh.yml; do
+              gh api --method GET "repos/$GITHUB_REPOSITORY/actions/workflows/$workflow/runs" \
+                -f branch=main -f status=success -f per_page=8 \
+                --jq '.workflow_runs[] | {id, updated_at}'
+            done | jq -es 'sort_by(.updated_at, .id) | last | .id // empty'
+          )"
+          if [[ -z "$pages_run" ]]; then
+            echo "::error::No successful Pages workflow run is available."
+            exit 1
+          fi
+          echo "run_id=$pages_run" >> "$GITHUB_OUTPUT"
+
+      - name: Download the deployed Pages artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: github-pages
+          path: ${{ runner.temp }}/pages-artifact
+          github-token: ${{ github.token }}
+          run-id: ${{ steps.pages.outputs.run_id }}
+
+      - name: Assemble the public GitLab Pages snapshot
+        shell: bash
+        run: |
+          snapshot="$RUNNER_TEMP/gitlab-snapshot"
+          mkdir -p "$snapshot/public"
+          tar --extract --file "$RUNNER_TEMP/pages-artifact/artifact.tar" \
+            --directory "$snapshot/public" --no-same-owner --no-same-permissions
+          test -s "$snapshot/public/index.html"
+          test -s "$snapshot/public/GROKIPEDIA-ETHICS-TAXONOMY/index.html"
+          test -s "$snapshot/public/CANONICAL-SOURCES/index.html"
+          test -s "$snapshot/public/COLD-TESTS/index.html"
+          test -s "$snapshot/public/Deep-Ethical-PDFs/ACCM-Deep-Ethics-Project-All-Public-Pages.zip"
+
+          cat > "$snapshot/.gitlab-ci.yml" <<'YAML'
+          publish_pages:
+            image: python:3.12-slim
+            timeout: 5 minutes
+            variables:
+              GIT_DEPTH: "1"
+            rules:
+              - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+            script:
+              - |
+                python - <<'PY'
+                import os
+                from pathlib import Path
+                import re
+                from urllib.parse import urlsplit
+
+                # Unique Pages domains are served at /, and namespace domains
+                # serve a project below its slug. Keep canonical absolute URLs.
+                path = urlsplit(os.environ["CI_PAGES_URL"]).path.rstrip("/")
+                github_base = re.compile(r"""(?<![\w./~%:-])/ACCM-Deep-Ethics-Project(?=/|['"\x60\s<]|$)""")
+                for file in Path("public").rglob("*"):
+                    if file.suffix.lower() not in {".html", ".css", ".js", ".json", ".xml", ".webmanifest", ".svg"}:
+                        continue
+                    source = file.read_text(encoding="utf-8")
+                    rendered = github_base.sub(path, source)
+                    if rendered != source:
+                        file.write_text(rendered, encoding="utf-8")
+                PY
+            pages:
+              publish: public
+          YAML
+
+      - name: Commit and push the snapshot to GitLab
+        shell: bash
+        env:
+          DEPLOY_KEY: ${{ secrets.GITLAB_PAGES_DEPLOY_KEY }}
+          PAGES_RUN_ID: ${{ steps.pages.outputs.run_id }}
+        run: |
+          if [[ -z "$DEPLOY_KEY" ]]; then
+            echo "::error::Missing GitLab Pages deploy key secret."
+            exit 1
+          fi
+          umask 077
+          ssh_dir="$(mktemp -d)"
+          trap 'rm -rf -- "$ssh_dir"' EXIT
+          printf '%s\n' "$DEPLOY_KEY" | tr -d '\r' > "$ssh_dir/key"
+          printf '%s\n' 'gitlab.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAfuCHKVTjquxvt6CM6tdG4SLp1Btn/nOeHHE5UOzRdf' > "$ssh_dir/known_hosts"
+          export GIT_SSH_COMMAND="ssh -i $ssh_dir/key -o IdentitiesOnly=yes -o BatchMode=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile=$ssh_dir/known_hosts"
+          unset DEPLOY_KEY
+
+          snapshot="$RUNNER_TEMP/gitlab-snapshot"
+          worktree="$RUNNER_TEMP/gitlab-publish"
+          git init --quiet --initial-branch=main "$worktree"
+          cd "$worktree"
+          git remote add origin "$GITLAB_REPOSITORY"
+          if git ls-remote --exit-code --heads origin refs/heads/main >/dev/null; then
+            git fetch --no-tags --depth=1 origin refs/heads/main
+            git switch --detach FETCH_HEAD
+          else
+            status=$?
+            if [[ "$status" != 2 ]]; then
+              exit "$status"
+            fi
+          fi
+
+          # Update only the two paths owned by this publisher.
+          rm -rf -- "$worktree/public"
+          mv "$snapshot/public" "$worktree/public"
+          cp "$snapshot/.gitlab-ci.yml" "$worktree/.gitlab-ci.yml"
+          git add --all -- .gitlab-ci.yml public
+          if git diff --cached --quiet; then
+            echo "The GitLab mirror already has these files."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit --quiet -m "Mirror GitHub Pages deployment $PAGES_RUN_ID"
+          git push origin HEAD:refs/heads/main
