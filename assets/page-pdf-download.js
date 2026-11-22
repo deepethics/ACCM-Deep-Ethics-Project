@@ -42,7 +42,7 @@
     return link;
   }
 
-  const defaultSnapshotDate = "November 15, 2026";
+  const defaultSnapshotDate = "November 22, 2026";
   const snapshotDateByPage = {
     "/CMCA/": "November 21, 2026",
     "/GROKIPEDIA-ETHICS-TAXONOMY/": "November 20, 2026",

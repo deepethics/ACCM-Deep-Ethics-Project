@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**177 public-page PDF editions · 2,858 pages · exported through November 21, 2026**
+**177 public-page PDF editions · 2,971 pages · exported through November 22, 2026**
 
 CMCA™ adds its first 6-page edition on November 21, 2026. It includes the three runnable prompts, the Subtitle Archive test, and the verification that connects the name-forwarding and publication rules.
 
@@ -216,7 +216,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 ## Archive record
 
 - **PDF files:** 177
-- **Total pages:** 2,858
+- **Total pages:** 2,971
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
 - **Build result:** 177 successful PDFs; 0 failures
