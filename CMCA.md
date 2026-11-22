@@ -13,6 +13,14 @@ permalink: /CMCA/
 
 **[CMCA™](#reference-card)** (Cross-Model Correspondence Audit) gives two artificial intelligence (A.I.) systems the same source and account. The two systems independently audit the same account, verify each other’s findings and repairs, then reconcile against the root source. CMCA is the cross-model form of **Reciprocal Correspondence Audit**, which also supports human and mixed review.
 
+## Uploaded Context Text Files {#uploaded-context-text-files}
+
+**CMCA-Correspondence-Audit-Dossier-2026-11-22.txt**
+
+<a href="{{ '/CMCA/context/CMCA-Correspondence-Audit-Dossier-2026-11-22.html' | relative_url }}">Read the HTML edition</a> · <a href="{{ '/CMCA/context/CMCA-Correspondence-Audit-Dossier-2026-11-22.txt' | relative_url }}" download="CMCA-Correspondence-Audit-Dossier-2026-11-22.txt">Download the plain-text dossier (.txt)</a>
+
+The dossier follows the contributions, corrections, and source checks that shaped CMCA™. It includes the proposed newsroom pilot and identifies where earlier turns were reconstructed.
+
 ## The reference card {#reference-card}
 
 > **Core rule.** Check what an excerpt says on its own, then check what someone would need to know before acting on it.
