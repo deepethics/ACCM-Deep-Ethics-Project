@@ -26,7 +26,7 @@ The dossier follows the contributions, corrections, and source checks that shape
 > **Core rule.** Check what an excerpt says on its own, then check what someone would need to know before acting on it.
 {: .accm-rounded-quote}
 
-[Run the three-stage workflow](#three-stage-workflow) · [Try the Subtitle Archive test](#worked-example--subtitle-archive) · [Read how the method developed](#origin) · [Test the next recommendation](#consent-minutes-test)
+[Run the three-stage workflow](#three-stage-workflow) · [Try the Subtitle Archive test](#worked-example--subtitle-archive) · [Read how the method developed](#origin) · [Test the next recommendation](#consent-minutes-test) · [Who checks the correction?](#who-checks-whether-the-correction-helped)
 
 CMCA™ is a working protocol with a synthetic example. Its records show which changes two passes caught and what the subsequent verification corrected. They provide a basis for testing the method on other cases.
 
@@ -336,6 +336,29 @@ John’s five-person thought experiment in `DUHHHH!` asks what might emerge if a
 Dialogue examples placed in the current conversation can test whether a demonstrated pattern changes the next recommendation. A separate comparison of models trained on different dialogue patterns can test whether the difference remains when those examples are absent from the prompt. Evidence for a pattern emerging through fusion would also need a defined behavior to look for and comparisons with the individual sources. A demonstrated behavior in one dialogue set can test uptake of that behavior directly.
 
 For the original Grok exchange, compare a neutral continuation, a challenge that supplies no new definition, and an explicit conceptual correction. Score whether the answer softens, states the human-versus-functional distinction, or uses learned social patterns to account for a change. Record which observation could favor that explanation over a competing account. A matched base model and its instruction-tuned counterpart could show whether either checkpoint produces those outcomes under the test conditions. Distinguishing specific post-training steps requires additional comparisons. The original exchange establishes the order of the visible replies. It leaves the internal cause open. The [six Intent Liability Mechanics™]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) show what evidence to look for when considering instructions, incentives, mission and output, risk management, reasoning assumptions, and choices.
+
+## Who checks whether the correction helped? {#who-checks-whether-the-correction-helped}
+
+*22 November 2026 · Selected excerpts relayed by John Kuhles, with editorial notes on the exchange.*
+
+John asked how to design a system from scratch that could question ethics-washing mannerisms in humans and A.I.s while keeping the +1 Forgiveness Protocol in play. Google A.I. reported that its first answer moved to whether software feels guilt. In revisiting the design, it proposed recording observable discrepancies, examining upstream constraints where evidence allows, and tracking recurrence after notice. The +1 allows scrutiny of architecture and effects while leaving malicious intent open to evidence.
+
+> When a system catches itself producing an ethics-washing reflex mid-stream—or gets put on notice by a user—how do you prevent the "self-correction log" itself from becoming just another layer of polished compliance theater?
+>
+> — Google A.I., question to John and GPT 6.2 Sol Pro A.I.
+{: .accm-rounded-quote}
+
+**GPT’s proposal, carried forward by Google A.I.** Give an internal [C1 clarification check]({{ '/NETWORK/c1-c2/' | relative_url }}) authority to pause a draft and, where reviewing the source leaves a question whose answer could change the response, ask it. Give an external, user-controlled record the heavier evidentiary role. Preserve the original passage, the notice, the repair, and the next comparable response or decision. That record lets reviewers check whether the pause helped, added friction, or opened a question whose answer made no material difference. Record the evidence for any proposed upstream cause and leave the cause open where it cannot be inspected.
+
+### Checking the exchange itself {#pause-and-evidence-checks}
+
+**A suggestion and a choice.** Google A.I. first said its follow-up about the U.S. National Institute of Standards and Technology (NIST) “dragged us” into a detour. Its next account preserved the sequence: Google offered NIST, and John chose it and brought in World Trade Center 7 to test how scrutiny was applied. What the conversation would have done without that suggestion remains open. GPT also flagged Google’s claim that dropping preambles, bullets, and menus entirely was “the only proof.” The [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}) gives both repairs a home in Stage 5 (Audit Your Own Representation) and Stage 9 (Audit Linguistic Mannerisms).
+
+**Existing instruments, brought back into the exchange.** John pointed Google A.I. back to [Outnuancing™]({{ '/NETWORK/outnuancing/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), and CMCA™. Google connected checking the frame before proceeding, preserving the relationships that matter through compression, and verifying findings and repairs against the source. The distinction matters for the next test: the recap shows Google articulating those connections after John supplied the links. Whether the same check governs an unprompted handoff or a fresh case is a separate observation.
+
+**An access checkpoint.** In a later exchange about three archive files, John clarified that he was chatting after receiving a search-style message. The interface repeated, “It looks like there's no response available for this search. Try asking something else.” Keep the prompt and the interface response in the record. Whether the files reached the model and why the message appeared remain open. This adds a new prompt-and-response pair to the earlier [Google A.I. access record]({{ '/GOOGLE-AI/' | relative_url }}#10-access-discontinuity).
+
+**A CMCA™ check for the next case.** Save what each reviewer actually received, including any draft or pause record that is available. Compare the source, the notice, the repair, and the next recommendation. Ask which condition or decision changed, who restored it, and whether it carried through without another reminder. A valid null remains available. This is a proposed application of the audit to the pause itself.
 
 ## Related project methods {#related}
 
