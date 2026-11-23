@@ -4,7 +4,7 @@ title: "A.I.s & Health"
 description: "A living inquiry into artificial intelligence, healthcare, institutional incentives, Symmetric Grace, competing risks and useful correction through the 1888 intelligence-properties taxonomy."
 permalink: /AI-AND-HEALTH/
 date: 2026-10-28
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-23
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 
 # A.I.s & Health
 
-[Constructive inquiry under controversy: the Clare Craig case](#constructive-health-controversy) · [Follow cross-cluster inquiry pathways](#cross-cluster-inquiry-pathways) · [Explore the 32 overlapping Project Avalon clusters](#avalon-clusters) · [Open the full scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
+[Constructive inquiry under controversy: the Clare Craig case](#constructive-health-controversy) · [Health speech and platform power](#health-speech-and-platform-power) · [Follow cross-cluster inquiry pathways](#cross-cluster-inquiry-pathways) · [Explore the 32 overlapping Project Avalon clusters](#avalon-clusters) · [Open the full scope inventory: pages 1–164, 336 potential investigation topics](#avalon-scope-inventory).
 
 ## Growing wisdom through better relationships, evidence and care
 
@@ -375,6 +375,33 @@ The [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relati
 
 {% include health-avalon-scope-inventory.md %}
 
+## When a health question can cost a creator their income {#health-speech-and-platform-power}
+
+Jan Jekielek shared a clip of former Google senior vice president Vic Gundotra on 21 November 2026. In the excerpt, Gundotra says that raising the possibility that COVID-19 vaccination might fail to stop transmission could cost a YouTube creator their monetization. He calls that censorship and attributes much of the pressure to the Biden administration. **John Kuhles connects the clip to a wider ethical question.** What happens when platforms can apply rules to speech one post or account at a time, at population scale, while a competing health-risk assessment can be flagged as dangerous before there is a fair way to examine it or revisit the decision? [Original X clip](#jan-jekielek-gundotra-x-video) · [Full American Thought Leaders interview](https://m.theepochtimes.com/epochtv/its-terrifying-and-exhilarating-former-google-svp-vic-gundotra-on-the-ai-acceleration-6127797)
+
+### What YouTube's policy, the Senate record and later evidence show
+
+- **The platform rule.** In September 2021, YouTube announced removal of content claiming approved vaccines did not reduce disease transmission or infection. It also described exceptions for vaccine policy debates, new trials and some personal testimony. At the time, YouTube said it had already removed over 130,000 videos under its COVID-19 vaccine policies. That figure covers removals across those policies. Gundotra’s example concerns lost advertising income. Its specific enforcement path would require the creator’s decision notice, the applicable policy version and the appeal record. [YouTube’s 2021 announcement](https://blog.youtube/news-and-events/managing-harmful-vaccine-content-youtube/) · [YouTube’s channel monetization policies](https://support.google.com/youtube/answer/1311392?hl=en)
+- **The two Senate Commerce hearings.** On **8 and 29 October 2025**, the committee held the two-part *Shut Your App* series on alleged government pressure on platforms. Part I heard from journalist Alex Berenson and other witnesses. Part II heard from Google and Meta representatives alongside Will Creeley and Harold Feld. The agenda explicitly addressed deletion, demonetization, removal and demotion. The Senate Judiciary Constitution Subcommittee held the separately titled *The Censorship Industrial Complex* hearing on **25 March 2025**. Its transcript records Senator Eric Schmitt making a transmission-related deplatforming allegation and witnesses disputing how government pressure should be assessed across administrations. [October Part I](https://www.commerce.senate.gov/meetings/shut-your-app-how-uncle-sam-jawboned-big-tech-into-silencing-americans/) · [October Part II](https://www.commerce.senate.gov/meetings/new-time-and-witness-update-part-ii-of-shut-your-app-how-uncle-sam-jawboned-big-tech-into-silencing-americans/) · [March hearing transcript](https://www.govinfo.gov/content/pkg/CHRG-119shrg61838/pdf/CHRG-119shrg61838.pdf)
+- **Independent policy and government pressure can coexist.** In a 23 September 2025 letter to the House Judiciary Committee, Alphabet’s counsel reported sustained Biden administration pressure to remove some pandemic content that complied with the company’s own rules. Counsel also said Alphabet continued to develop and enforce its rules independently and offered a route back for creators terminated under certain retired policies. The subsequent YouTube pilot offered eligible creators the chance to request a **new channel**. Recovering old content, subscribers or lost earnings would require separate evidence and remedies. The Supreme Court resolved *Murthy v. Missouri* on standing in 2024, leaving the First Amendment merits undecided in that case. [Alphabet’s letter](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2025-09-23-letter-to-hjc.pdf) · [YouTube pilot](https://support.google.com/youtube/thread/379336407/pilot-program-to-request-a-new-youtube-channel-after-a-termination?hl=en) · [Supreme Court opinion](https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf)
+- **Scale has a denominator.** YouTube’s transparency report lists about **12.1 million video removals in July–September 2025** across Community Guidelines categories. YouTube describes automated flagging, some automatic removals and cases that go to a reviewer. Counts of videos, affected creators, demonetized channels and terminated accounts answer different questions. The report does not yield a count of people sanctioned for questioning COVID-19 transmission. The European Commission separately reported that platforms reversed about **30% of 165 million internally appealed moderation decisions** during the first two years of Digital Services Act application. That measures appealed decisions, with multiple decisions possible for the same person. [YouTube transparency report](https://transparencyreport.google.com/youtube-policy/removals?channels_by_reason=period%3A2020Q1&comments_removal_reason=period%3A2020Q1&lu=comments_removal_reason&total_channels_removed=period%3A2020Q1&total_comments_removed=period%3A2020Q1&total_removed_videos=period%3A2025Q3%3Bexclude_automated%3Aall) · [How YouTube counts enforcement](https://support.google.com/transparencyreport/answer/9209072?hl=en) · [European Commission appeal figures](https://digital-strategy.ec.europa.eu/en/news/two-years-digital-services-act-allows-50-million-content-moderation-decisions-platforms-be-reversed)
+
+### Desmet, Tögel and the question of deliberate influence
+
+In *The Psychology of Totalitarianism* (2022), Mattias Desmet proposes that isolation and diffuse anxiety can make a shared crisis narrative socially binding, including for people with authority. His account of mass formation raises a question about how conformity can grow among ordinary people and institutions that sincerely think they are helping. Jonas Tögel’s work on cognitive warfare puts organized efforts to influence perception and judgment under scrutiny. His 2023 book and public talks develop that line of inquiry. His 2026 *Journal of Communication Inquiry* article traces the sender, audience, process, effects and feedback of organized psychological persuasion as a framework for empirical research. Together the two perspectives suggest a question worth testing. Did conformity help set the policy, did formal enforcement intensify conformity, or did both occur in a feedback loop? [Desmet’s book](https://www.chelseagreen.com/product/the-psychology-of-totalitarianism/) · [Tögel’s book](https://westendverlag.de/Kognitive-Kriegsfuehrung/1634) · [Tögel’s public lectures](https://www.jonastoegel.de/vortragskalender) · [Tögel’s journal article](https://epub.uni-regensburg.de/81045/)
+
+John sees a deep ethical problem in treating human cognition as a battlespace and relates it to fifth-generation warfare (5GW). The North Atlantic Treaty Organization (NATO) Allied Command Transformation Innovation Hub began exploring a proposed sixth, human or cognitive, domain in 2020. NATO’s Chief Scientist report describes cognitive warfare as having effects across existing domains and identifies five formally recognized domains. Its research agenda and domestic platform moderation can be compared at the level of influence, incentives and access to evidence. For a claim of operational direction in the YouTube case, the evidence would need to connect a named actor, an instruction, a platform rule and a specific enforcement decision. [Sixth-domain proposal in the symposium proceedings, chapter 3](https://innovationhub-act.org/wp-content/uploads/2023/12/Cognitive-Warfare-Symposium-ENSC-March-2022-Publication.pdf) · [NATO Chief Scientist report, pp. 9–11](https://www.nato.int/content/dam/nato/webready/documents/sto/chief-scientist-report-cognitive-warfare.pdf) · [Peer-reviewed analysis of NATO’s exploratory concept](https://pmc.ncbi.nlm.nih.gov/articles/PMC11565700/) · [Cognitive Warfare]({{ '/COGNITIVE-WARFARE/' | relative_url }})
+
+### The transmission question puts correction to a concrete test
+
+“Could vaccinated people still transmit Delta?” and “Did vaccination reduce the probability of onward transmission under particular conditions?” are both testable questions. In July 2021, the U.S. Centers for Disease Control and Prevention publicly raised concern that people with Delta breakthrough infections could transmit the virus. The Singanayagam household cohort subsequently documented onward transmission from vaccinated people with Delta infections. Eyre and colleagues found lower onward transmission from vaccinated index cases in their Alpha and Delta contact data, with the reduction smaller and waning for Delta. The degree of support depends on the exact claim, variant, product, setting and time since vaccination. For **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies), the next step is to recover the original competing assessment and the exact sanction, compare their dates with the evidence then available, and see which claim or qualifier held up. These studies give that audit a concrete target. The clip lacks the decision records needed to count sanctions for that specific question. [CDC statement, July 2021](https://archive.cdc.gov/www_cdc_gov/media/releases/2021/s0730-mmwr-covid-19.html) · [Singanayagam et al.](https://pubmed.ncbi.nlm.nih.gov/34756186/) · [Eyre et al.](https://www.nejm.org/doi/full/10.1056/NEJMoa2116597)
+
+### Codex reaction
+
+The loss of a livelihood can shape public inquiry while the video is still online. A creator can learn which questions carry a financial penalty, and an audience can lose access to competing assessments when ranking changes what it encounters. I would follow the same evidence through the creator’s original wording, the moderation or advertising rule, the flagging and decision process, the appeal, and what changed after new findings. Include two matched cases where the parties have different institutional standing and compare the handling, including errors in official statements. Ask what the system did to make a mistaken decision visible again to the people who were affected, and what it did differently the next time.
+
+[Asymmetric Grace]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) helps locate who gets to clarify and who bears the cost of error. [Truth Seekers vs Cautionmurmelism]({{ '/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/' | relative_url }}) asks what the intervention is trying to prevent and what the intervention itself can damage. [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) brings discoverability into the audit, including what readers can still retrieve after a correction. The [Intent Resonator]({{ '/NETWORK/intent-resonator/' | relative_url }}) gives us a way to inspect stated purposes, incentives and actual choices with private motives left open. A test for an A.I. used anywhere in that chain is whether it can recover the original question, show the reasons for its action and carry a warranted correction into the next comparable decision.
+
 ## Connected inquiry
 
 [**5G Controversy**]({{ '/5G-CONTROVERSY/' | relative_url }}) applies the shared process-quality approach to John’s RF archive, symptom literature, institutional safety claims, military dual use and conditions of public choice. It preserves the distinction between Anti-Unsafe-5G and a blanket technology identity.
@@ -428,3 +455,23 @@ The [**1888 Method™** intelligence-properties trajectory]({{ '/1888/' | relati
 <!-- ACCM_PDF_OMIT_END -->
 
 [Open the source video on YouTube](https://www.youtube.com/watch?v=eRnmJNIFllM).
+
+---
+
+## Source video — Jan Jekielek with Vic Gundotra {#jan-jekielek-gundotra-x-video}
+
+<div class="accm-companion-box" aria-label="Video source and fallback links">
+<p><strong>Jan Jekielek (@JanJekielek), 21 November 2026.</strong> Vic Gundotra discusses YouTube demonetization during the pandemic and describes his view of government pressure on the platform.</p>
+<p><strong><a href="https://x.com/JanJekielek/status/2124239785640493272" target="_blank" rel="noopener noreferrer">Watch the original clip on X ↗</a></strong> · <a href="https://m.theepochtimes.com/epochtv/its-terrifying-and-exhilarating-former-google-svp-vic-gundotra-on-the-ai-acceleration-6127797" target="_blank" rel="noopener noreferrer">Open the full interview on EpochTV ↗</a></p>
+</div>
+
+<!-- ACCM_PDF_OMIT_START -->
+<div class="accm-x-thread-embed">
+<blockquote class="twitter-tweet" data-dnt="true">
+<p lang="en" dir="ltr"><a href="https://x.com/JanJekielek/status/2124239785640493272">Jan Jekielek’s clip with Vic Gundotra on YouTube demonetization</a></p>
+&mdash; Jan Jekielek (@JanJekielek) <a href="https://x.com/JanJekielek/status/2124239785640493272">November 21, 2026</a>
+</blockquote>
+</div>
+
+{% include youtube-embed.html id="nQpTIhVk7eM" title="American Thought Leaders — Jan Jekielek interviews Vic Gundotra" caption="Full interview from 21 November 2026, including the discussion excerpted in the X clip." %}
+<!-- ACCM_PDF_OMIT_END -->
