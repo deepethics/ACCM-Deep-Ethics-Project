@@ -289,6 +289,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 - **[AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/)**
 - **[AI Trend Watch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/)**
 - **[YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/)** — four supplied reading-transcript records, including sponsor-removed reading editions, with embedded source videos, attributed reactions and source-check boundaries: corporate governance, learning to judge, A.I. objections and compaction, and weight-space programming. The fourth compares the narration with primary reports and logs; proposed project tests retain their status.
+- **[A.I. Docus](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-DOCUS/)** — artificial intelligence documentaries with complete supplied transcripts, sources, and correspondence. The first entry follows Drift Theory’s film on superintelligence, goals, and conscious experience, then traces how an omission and its correction opened further inquiry.
 - **[AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/)**
 
 ## 6. Doors and the record {#doors-and-the-record}

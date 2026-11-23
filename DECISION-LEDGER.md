@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-24 — A.I. Docus {#ai-docus-2026-11-24}
+
+Published [A.I. Docus]({{ '/AI-DOCUS/' | relative_url }}) to pair Drift Theory’s *What Would a Superintelligence Want?* with the complete supplied transcript, ten timestamped chapters, twenty-one bibliography entries, the GPT 6.2 Sol Pro A.I. reaction, and the attributed John–GPT exchange.
+
+The exchange preserves the CoinRun comparison, the missing and restored invention-secrecy purpose of John’s gasoline-gauge analogy, and the subsequent inquiry into how correction leaves footprints. The entry links the original metaphor and the earlier musical-band context. The initial PDF was produced from the same expanded text. The supplied transcript file is retained byte-for-byte.
+
 ## 2026-11-21 — CMCA™ {#cmca-2026-11-21}
 
 At John Kuhles’s request, publish [CMCA™]({{ '/CMCA/' | relative_url }}) (Cross-Model Correspondence Audit), developed through John's exchange with Google A.I. and ChatGPT. Preserve the three runnable stages, the evaluator’s own qualifier drift, the Subtitle Archive test packet and observed verification, and the distinction between an excerpt that can stand alone and the companion rules needed before someone acts on it. Register the page in the primary navigation, alphabetical index, All Pages, and the shared PDF and source services.

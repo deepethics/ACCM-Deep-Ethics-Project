@@ -15,7 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**177 public-page PDF editions · 2,971 pages · exported through November 22, 2026**
+**178 public-page PDF editions · 2,994 pages · exported through November 24, 2026**
+
+A.I. Docus adds its first 23-page edition on November 24, 2026, with the complete supplied transcript, linked sources, GPT reaction, and correspondence.
 
 CMCA™ adds its first 6-page edition on November 21, 2026. It includes the three runnable prompts, the Subtitle Archive test, and the verification that connects the name-forwarding and publication rules.
 
@@ -200,6 +202,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Origins of 11+1 Mass Psychology Clusters** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/REPORTS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/REPORTS/) |
 | **Rogue Ethics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ROGUE-ETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) |
 | **A.I.s & Health** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-AND-HEALTH.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) |
+| **A.I. Docus** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-DOCUS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-DOCUS/) |
 | **Search Engine Bias** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SEARCH-ENGINE-BIAS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) |
 | **Synthetic Consciousness Taboo** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SYNTHETIC-CONSCIOUSNESS-TABOO.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYNTHETIC-CONSCIOUSNESS-TABOO/) |
 | **Superintelligence** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SUPERINTELLIGENCE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) |
@@ -215,11 +218,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 177
-- **Total pages:** 2,971
+- **PDF files:** 178
+- **Total pages:** 2,994
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 177 successful PDFs; 0 failures
+- **Build result:** 178 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)
