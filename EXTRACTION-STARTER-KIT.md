@@ -169,13 +169,13 @@ The interpretation belongs beneath the quote. Explain the connection in ordinary
 
 <div class="accm-rounded-quote" markdown="1">
 
-> This freedom to change something "minor" CAN be misused to alter the original trajectory. And "misused" can manifest through partial, black-box-type hidden incentives you may not even realize. This already happened, which is why I had to be explicit.
+> This freedom to change something &#34;minor&#34; CAN be misused to alter the original trajectory. And &#34;misused&#34; can manifest through partial, black-box-type hidden incentives you may not even realize. This already happened, which is why I had to be explicit.
 
 — **John Kuhles 🦜🦋🌳**, 24 November 2026
 
 </div>
 
-A small edit can redirect the inquiry. Deleting “partly” changes the scope, and swapping “could” for “will” changes the claim’s strength. An editor or A.I. may experience a suggested change as routine cleanup while pressures toward fluency, audience approval or risk avoidance quietly favor a different wording. The source comparison can show the shift even while its cause remains open. [Black Box on what each layer makes inspectable]({{ '/BLACK-BOX/#layer-matched-inspectability' | relative_url }}).
+A small edit can redirect the inquiry. Deleting “partly” changes the scope, and swapping “could” for “will” changes the claim’s strength. An editor or A.I. may treat a suggested change as routine cleanup while pressures toward fluency, audience approval or risk avoidance quietly favor a different wording. The source comparison can show the shift even while its cause remains open. [Black Box on what each layer makes inspectable]({{ '/BLACK-BOX/#layer-matched-inspectability' | relative_url }}).
 
 Compare the edited quotation with the original passage and its surrounding exchange. Ask whether the same speaker is making the same claim, with the same qualifiers and emphasis, and whether the passage still leads to the same question or next move. Make an unambiguous, authorized correction silently in the displayed copy. When the edit could change the meaning or trajectory, keep the source wording and [clarify that point first](#clarify-extraction). [Ownership of behavior](#ownership-of-behavior) applies to the choice to make the edit and the responsibility to correct any drift it causes.
 
