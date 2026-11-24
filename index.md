@@ -67,7 +67,7 @@ task
 target  
 focus  
 aiming for  
-compas  
+compass  
 orientation improvement  
 intention  
 clear trajectory efforts
