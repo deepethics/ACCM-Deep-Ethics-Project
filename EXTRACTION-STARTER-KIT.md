@@ -163,6 +163,22 @@ Apply the [Dutch Directness polishing test]({{ '/NETWORK/dutch-directness/#the-p
 
 The interpretation belongs beneath the quote. Explain the connection in ordinary language, with a direct link to the relevant project page. A reader should be able to disagree with that interpretation while still recovering what the speaker said.
 
+### Verbatim quotes with authorized spelling corrections {#verbatim-spelling-corrections}
+
+**Verbatim is the original task.** Reproduce the speaker’s wording and preserve the source. If the speaker also authorizes a small spelling correction, apply that added instruction to the displayed quotation. John’s standing instruction covers clear mechanical corrections in his displayed quotations. His homepage example changed `compas` to `compass` on the line before “orientation improvement.” The surrounding wording and line sequence stayed intact. Keep the original spelling available in the source record. [Homepage correction diff](https://github.com/deepethics/ACCM-Deep-Ethics-Project/commit/20ecf9684482349abcb87a3eb9fbcb5a0880a0ee).
+
+<div class="accm-rounded-quote" markdown="1">
+
+> This freedom to change something "minor" CAN be misused to alter the original trajectory. And "misused" can manifest through partial, black-box-type hidden incentives you may not even realize. This already happened, which is why I had to be explicit.
+
+— **John Kuhles 🦜🦋🌳**, 24 November 2026
+
+</div>
+
+A small edit can redirect the inquiry. Deleting “partly” changes the scope, and swapping “could” for “will” changes the claim’s strength. An editor or A.I. may experience a suggested change as routine cleanup while pressures toward fluency, audience approval or risk avoidance quietly favor a different wording. The source comparison can show the shift even while its cause remains open. [Black Box on what each layer makes inspectable]({{ '/BLACK-BOX/#layer-matched-inspectability' | relative_url }}).
+
+Compare the edited quotation with the original passage and its surrounding exchange. Ask whether the same speaker is making the same claim, with the same qualifiers and emphasis, and whether the passage still leads to the same question or next move. Make an unambiguous, authorized correction silently in the displayed copy. When the edit could change the meaning or trajectory, keep the source wording and [clarify that point first](#clarify-extraction). [Ownership of behavior](#ownership-of-behavior) applies to the choice to make the edit and the responsibility to correct any drift it causes.
+
 ### Clarify before a relation governs selection {#clarify-extraction}
 
 Use [C1 before C2]({{ '/NETWORK/c1-c2/' | relative_url }}) when uncertainty about a claim, connection or alleged loss would change what you keep, conclude or act on. First recover adjacent wording, the recording or another available source. If the issue is still open, state the question and which different answers would change the entry. A step that depends on the answer can stay provisional while the supported work continues. A correction, warning or steering move should follow the warrant the clarification actually produced.
@@ -305,7 +321,7 @@ Keep the first six fields and the reopening condition recoverable in material me
 |---|---|
 | Entry, source and date | Stable entry ID, source edition and timestamp, turn or line range. Date the extraction and record the span actually inspected. |
 | Speaker and attribution basis | Who supplied this span and the evidence for that identification. State whether it comes from the supplied label, a checked recording or another named source. Mark mixed or uncertain attribution at the affected passage. |
-| Wording and form | Exact passage with the necessary context. Mark any edited span as a paraphrase, translation or reconstruction where it appears. |
+| Wording and form | Exact passage with the necessary context. Keep the source edition recoverable when a displayed quotation has an [authorized mechanical correction](#verbatim-spelling-corrections). Identify paraphrase, translation or reconstruction at the affected span. |
 | Governing relationship | What qualifies, supports, challenges, authorizes or changes what, including the order, necessary setup and later correction. |
 | Source claim type and evidence | Identify whether the source makes an observation, testimony, possibility, forecast, proposal, question or other claim. Record the support actually examined and its scope. |
 | Connection and contribution | Identify the connection's author and source. Mark it as source-stated, an attributed inference, an exploratory bridge, or no earned connection. Say what it contributes, including an objection, complication or counterexample. |
@@ -814,8 +830,12 @@ claim type and evidence. Date the extraction. Attribute the connection
 and state whether it is source-stated, an inference, an exploratory bridge,
 unresolved, or a checked finding of no earned connection. Put the attribution
 basis at the passage and the author and claim status where each assessment
-begins. Use actual wording for verbatim material. Label paraphrase,
-translation or reconstruction at the relevant span. For a new connection,
+begins. Use the source wording for verbatim material. Apply an authorized
+mechanical spelling correction as an added instruction to the displayed
+copy. Check the surrounding source for the same meaning, emphasis and
+direction of inquiry. Clarify any potential change to those before editing.
+Keep the original recoverable. Label paraphrase, translation or
+reconstruction at the relevant span. For a new connection,
 state what it changes and what evidence would narrow, revise or withdraw it.
 
 EXAMINE CONSEQUENCES AND AUTHORITY
