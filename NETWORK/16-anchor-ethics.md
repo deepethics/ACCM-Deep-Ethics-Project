@@ -575,5 +575,5 @@ The canonical project title is **ACCM Deep Ethics Project**.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether correction persists beyond the current explanation.
 - [**OmbudsEthics™**]({{ '/OMBUDSETHICS/' | relative_url }}) — carries the anchor field into a shared human–A.I.–meta-tool case process while preserving conflict, weighting, jurisdiction, appeal, and later correction.
 - [**Mutual Corrigible Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — keeps refusal, review, and appeal reciprocal rather than hierarchical.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — places the 16 Anchors inside the wider project roadmap.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — places the 16 Anchors inside the wider project roadmap.
 

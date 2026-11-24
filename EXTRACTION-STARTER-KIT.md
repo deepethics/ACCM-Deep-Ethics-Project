@@ -95,7 +95,7 @@ The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the de
 
 | Source | Job in extraction |
 |---|---|
-| [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) | Connect an excerpt to a useful research, design, communication or accountability purpose. The ten operational goals navigate the 44 and remain distinct from the 10+1. |
+| [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) | Connect an excerpt to a useful research, design, communication or accountability purpose. The ten operational goals navigate the 44 and remain distinct from the 10+1. |
 | [**27 + 12**]({{ '/CORE/27-PLUS-12/' | relative_url }}) | Inspect the 27 correspondence obstructions and apply the 12-stage Correspondence-First Deep Inquiry Protocol. Construct the object before evaluating it. |
 | [**11+1 Mass-Psychology Topology**]({{ '/NETWORK/eleven-plus-one/' | relative_url }}) | Follow interacting distortion clusters and the correspondence-restoring field across individuals, institutions and populations. |
 | **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness) | Keep possibilities, temporary attention and awareness of the wider field in relation. Notice what the current focus leaves out. |

@@ -38,6 +38,8 @@ First published source: [Canonical 27 obstructions of deep ethical sense-making 
 
 **If you are new:** [If your work depends on not losing the object](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) — one question for the job you already have. The rest of this list can wait.
 
+The [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) are the public working map and the closest published source for references to these goals.
+
 Eighteen doors, not a required sequence:
 
 1. **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)** — a pragmatic front door by profession. The questions name a use. They do not claim the method has already done that job.

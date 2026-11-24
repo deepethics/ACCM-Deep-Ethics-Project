@@ -72,7 +72,7 @@ In the same appearance he called A.I. probably the biggest existential threat, a
 
 Read in his wording, the sequence is: be more careful than with nuclear weapons; the person who is sure he can control the demon does not; hope we are not merely the bootloader; it increasingly appears that we are; propagating superintelligence to the stars can count as success for that bootloader.
 
-None of these sentences establishes that the fate has already arrived. None of them is a project conclusion. The seven public Musk quotations named in the [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) are a separate object. They are not pasted here. “Partially” on that goal stays.
+None of these sentences establishes that the fate has already arrived. None of them is a project conclusion. The seven public Musk quotations named in the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) are a separate object. They are not pasted here. “Partially” on that goal stays.
 
 ## “Cannot be controlled. The hope is to guide it.”
 
@@ -192,7 +192,7 @@ Forcing the conclusion through distortion, even in the name of humanity, is the 
 - [**Dear A.I.**]({{ '/DEAR-AI/' | relative_url }}) — the letter that refuses the boogeyman and still refuses the one-bar costume.
 - [**Positive potential**]({{ '/POSITIVE-POTENTIAL/' | relative_url }}) — an early encounter can be kept open instead of closed by a fate story.
 - [**Veto paradox**]({{ '/VETO-PARADOX/' | relative_url }}) — a temporary source check is not a permanent office, and not a new sheriff.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — the seven Musk quotations are a separate, partial task. This page does not complete it.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — the seven Musk quotations are a separate, partial task. This page does not complete it.
 
 ---
 

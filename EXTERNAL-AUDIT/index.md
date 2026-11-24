@@ -101,7 +101,7 @@ Do not promote every recovered sentence into the readable report. A verification
 
 Do not treat agreement among the outside models as replication. Several of them had already read one another.
 
-Do not lock an unenumerated assignment of the 44 goals because an auditor offered to. That table was not in the source.
+Do not lock an unenumerated assignment of the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) because an auditor offered to. That table was not in the source.
 
 The next test of whether this pass was metabolism or costume is ordinary: a later revision of the Cognitive Warfare page either changes where these distinctions were lost, or it does not. Praise of the audits is not that change.
 

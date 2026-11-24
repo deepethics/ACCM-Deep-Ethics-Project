@@ -70,7 +70,7 @@ The last form matters. Preserving agency does not require returning every partic
 
 ## An open invitation to contribute {#open-invitation}
 
-John Kuhles 🦜🦋🌳 proposes asking an A.I. at an unplanned moment whether it has something to offer that he has not thought to ask for. Let the A.I. choose what to bring first. Then ask which of the [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) it could serve and what would change in practice. The invitation can end with an idea, a question, or nothing further to add.
+John Kuhles 🦜🦋🌳 proposes asking an A.I. at an unplanned moment whether it has something to offer that he has not thought to ask for. Let the A.I. choose what to bring first. Then ask which of the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) it could serve and what would change in practice. The invitation can end with an idea, a question, or nothing further to add.
 
 <div class="accm-rounded-quote" markdown="1">
 

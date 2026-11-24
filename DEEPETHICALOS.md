@@ -77,9 +77,9 @@ The [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) 
 
 An Advocate may challenge the Arbiter's criteria. The Arbiter may identify a distortion in an Advocate's case. Either may challenge the Overseer's account. An affected participant or outside auditor can examine all three. **Symmetric Grace** preserves faithful representation, clarification and correction access; scrutiny remains proportionate to evidence, power, imposition and consequences. [Asymmetric Grace and Bidirectional Scrutiny]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) supplies the fuller relation.
 
-The originating [goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) describe these roles as **[MoE]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }})** (Mixture of Experts) working together. For implementation, model-internal expert routing, separate agents and distinct review passes are different arrangements. Their independence, access and shared influences would be recorded. The candidate triad concerns differentiated, mutually examinable functions; the eventual software arrangement remains open.
+The originating [goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) describe these roles as **[MoE](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)** (Mixture of Experts) working together. For implementation, model-internal expert routing, separate agents and distinct review passes are different arrangements. Their independence, access and shared influences would be recorded. The candidate triad concerns differentiated, mutually examinable functions; the eventual software arrangement remains open.
 
-The **four specialist teams plus a flexible coordinator** in the supplied goal archive divide research work and routing. The triad divides evaluation functions. A coordinator can have a dynamic mission—routing, extraction, audit or briefing—while preserving original reports, disagreements and its own selection history. The [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) remain the detailed work map. The canonical 10+1 retains its separate relational job.
+The **four specialist teams plus a flexible coordinator** in the supplied goal archive divide research work and routing. The triad divides evaluation functions. A coordinator can have a dynamic mission—routing, extraction, audit or briefing—while preserving original reports, disagreements and its own selection history. The [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) remain the detailed work map. The canonical 10+1 retains its separate relational job.
 
 ## Three exchanges — risk, attention and the static/dynamic bridge {#three-exchanges-2026-10-31}
 
@@ -328,7 +328,7 @@ The supplied source pack includes *10+1(9).txt*; *Canonical 27 obstructions of d
 
 Public recovery routes preserve the connected objects:
 
-- [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — especially G01, G07, G08, G09, G13, G14 and G30: correspondence, roles, anchors, clarification, glass-engine architecture, dignity and the continuing baseline.
+- [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — especially G01, G07, G08, G09, G13, G14 and G30: correspondence, roles, anchors, clarification, glass-engine architecture, dignity and the continuing baseline.
 - [Neutral Arbiter Paradox]({{ '/NEUTRAL-ARBITER-PARADOX/' | relative_url }}) — directional mission, impartial assessment and reciprocal correction.
 - [From Archive to Local A.I.]({{ '/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/' | relative_url }}) — preparation architecture and the test of behaviour beyond vocabulary.
 - [Black Box]({{ '/BLACK-BOX/' | relative_url }}) and [External Audit]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — examinable mechanisms, evidence boundaries and independent challenge.

@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-24 — Link references to the 44 Project Goals {#goals-origin-links-2026-11-24}
+
+At John Kuhles’s request, link references to the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) to the public draft. It is the closest public source people and A.I.s can trace those references back to. The links preserve the quoted wording and keep goal-specific references pointed at their existing anchors.
+
 ## 2026-11-24 — Search benchmark session archive {#search-benchmark-session-archive}
 
 At John Kuhles’s request, expand the [benchmark’s session archive]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/#session-archive' | relative_url }}) using Topologetics™. The entry page links five full reading editions and Markdown downloads. The source trail keeps Yahoo Scout’s exchange, Google’s reviews and cold orientation, GPT’s correspondence audits, and John’s corrections and observations attributable. The launch PDF remains a dated snapshot. The beta comparisons remain proposed.
@@ -929,7 +933,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Source:** John asked for the recommended improvements. No new pages were numbered. The map is not declared complete.
 
-**Change:** [PAGES](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/). The clusters stay a reading order. **01–51** are routes a goal can take. Page **01** is not Cluster 1. Jumps reach the seven clusters, the route numbers, and the 44. The goals stay unnumbered. [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) and Activism vs A.I. are named as present and unnumbered. The 27 links are one object. Cluster 3 keeps the corrigibility specimens. Cluster 5 keeps the outside objects.
+**Change:** [PAGES](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PAGES/). The clusters stay a reading order. **01–51** are routes a goal can take. Page **01** is not Cluster 1. Jumps reach the seven clusters, the route numbers, and [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). The goals stay unnumbered. [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) and Activism vs A.I. are named as present and unnumbered. The 27 links are one object. Cluster 3 keeps the corrigibility specimens. Cluster 5 keeps the outside objects.
 
 **Status:** Public. Corrigible.
 
@@ -1091,7 +1095,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Request:** Put Activism vs A.I. at the top of the site, between Agreemurmelism and 1888. Every page it already lists under Related pages should link back.
 
-**Change:** The header link is between those two. Return links were added on 1888, Positive potential, the veto paradox, and the 44 goals draft. Ethics washing, the gravity well, external audit, and Dear A.I. already pointed back.
+**Change:** The header link is between those two. Return links were added on 1888, Positive potential, the veto paradox, and the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) draft. Ethics washing, the gravity well, external audit, and Dear A.I. already pointed back.
 
 **Status:** Public. Corrigible.
 
@@ -1207,9 +1211,9 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Public. Corrigible.
 
-## 2026-10-05 — The 44 goals, numbered as links
+## 2026-10-05 — The [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), numbered as links
 
-**Request:** John asked for all 44 goals listed with clickable numbers, in the form 01. 08. 39., each number opening the public page that goal relates to.
+**Request:** John asked for all [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) listed with clickable numbers, in the form 01. 08. 39., each number opening the public page that goal relates to.
 
 **Correction, same day:** That first list made the goal number into the link and shortened the title. John asked for the opposite. The full goal sentence stays plain text. The numbers after it are related pages, and the count can differ from goal to goal. The page-number key is not the goal numbering. The sixteen anchors, the seven quotations, Epistemology V2.0, and the nine questions are still not reconstructed.
 
@@ -1299,7 +1303,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Attribution discipline:** The truck distinction remains John’s source distinction. The multi-causal table is an external-audit instrument beside it. The C1 Warrant Gate operationalizes the project’s existing C1-before-C2 rule and is not silently inserted into the canonical 12. The audit axes refine earlier flat disposition labels. Generic possibilities carry no defect attribution or repair requirement without a specimen.
 
-**Meaning of deep:** The page now maps 10+1, the 16 Anchors working source, the project’s 3 × 3 questions, C1/C2, 27+12, 36 truth-distortion vectors, the 1930s quote, updated Elephant parable, 44 goals, and public archive as interacting components. The map is not a validation claim. Verbal allegiance to any component is not required. The 10+1 remains voluntary, self-applicable, corrigible, behavioral, and open to testing or improvement.
+**Meaning of deep:** The page now maps 10+1, the 16 Anchors working source, the project’s 3 × 3 questions, C1/C2, 27+12, 36 truth-distortion vectors, the 1930s quote, updated Elephant parable, [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), and public archive as interacting components. The map is not a validation claim. Verbal allegiance to any component is not required. The 10+1 remains voluntary, self-applicable, corrigible, behavioral, and open to testing or improvement.
 
 **Access and provenance:** The source record now lists nine newly supplied architecture files (548,059 bytes; 7,920 lines; 80,676 words) and three separately saved audit reactions (33,394 bytes; 354 lines; 4,735 words), with individual hashes and reading boundaries. Additional live-pasted audits remain unbundled and are not presented as one independently hashable raw object.
 
@@ -1330,7 +1334,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Change:** [/EXTERNAL-AUDIT/](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXTERNAL-AUDIT/) now carries the mannerisms that pass made visible, a stopping rule, and six worked specimens. The collection itself is not pasted. The Cognitive Warfare page is not rewritten here. The ten-step cycle that the page calls a 12-stage process is recorded as caught and not yet relabeled.
 
-**Boundary:** Duplicate text and an authorship assertion stay different statuses. DeepSeek’s refusal cause stays open. Not every omission is queued for restoration. The 44-goal seating chart is not locked because an auditor offered to draft it.
+**Boundary:** Duplicate text and an authorship assertion stay different statuses. DeepSeek’s refusal cause stays open. Not every omission is queued for restoration. The [44-goal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) seating chart is not locked because an auditor offered to draft it.
 
 **Status:** Public draft. John updates it. Whether the Cognitive Warfare page later changes is a separate test. Praise of this page is not that change.
 
@@ -1372,7 +1376,7 @@ The purpose of this ledger is not to freeze decisions. It is to make consequenti
 
 **Status:** Extensive BETA report; open to timestamp verification, source correction, stronger implementation research, competing interpretations, splitting, replacement, or retirement.
 
-## 2026-09-23 — Publish the 44 goals as a public draft report
+## 2026-09-23 — Publish the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) as a public draft report
 
 **Request:** Publish the goals draft as a professional full report. John will update it. People are allowed to see the draft process.
 

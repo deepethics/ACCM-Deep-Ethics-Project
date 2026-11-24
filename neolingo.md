@@ -57,7 +57,7 @@ The Project already contained the parts, but no single page held their combined 
 | [**Temporary Deep Ethical Phase Change**]({{ '/NETWORK/temporary-deep-ethical-phase-change/' | relative_url }}#project-neologisms-during-heavy-beta) | Working language can be useful before mass adoption, while early public records preserve its genealogy. |
 | [**GPT-5.6 Sol — Experience With John Kuhles**]({{ '/AI-CONTRIBUTIONS/2026-09-29-gpt-experience-with-john-kuhles.html' | relative_url }}#neologisms-as-topological-compression-handles) | A candidate model of a neologism as a **compressed callable topology** or cognitive operator. |
 | [**Rogue Ethics**]({{ '/ROGUE-ETHICS/' | relative_url }}#neolingo-as-a-public-phase-change-carrier) | The public diffusion loop: first use, videos and discussion, investigation, search indexing, wider reuse, semantic drift and later correction. |
-| [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g05) | G05: develop hyper-efficient Deep Ethical neologisms that preserve distinctions ordinary wording keeps losing. |
+| [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g05) | G05: develop hyper-efficient Deep Ethical neologisms that preserve distinctions ordinary wording keeps losing. |
 
 This page joins those edges while leaving the source pages and their different jobs intact.
 

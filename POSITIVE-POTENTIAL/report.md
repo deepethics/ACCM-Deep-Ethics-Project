@@ -221,7 +221,7 @@ The archive can then ask:
 
 > What did the contributor propose at T0? What did the systems transform it into? Which corrections were carried forward? What happened by Tn?
 
-## Relationship to the 44 goals
+## Relationship to the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)
 
 This research object connects several goals without replacing their distinct roles:
 
@@ -258,7 +258,7 @@ This page is open to correction, stronger source inspection, benchmark implement
 ## Related pages
 
 - [**Before the Next Tesla Has a Name**]({{ '/POSITIVE-POTENTIAL/' | relative_url }}) — preserves the attributed multi-voice quotations behind this deeper synthesis.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects the report to its wider operational and research goals.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — connects the report to its wider operational and research goals.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects answer-changing ambiguity before evaluation closes around an unfamiliar contributor.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — gives the T0 → Tn record its later-behavior and persistence test.
 - [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — audits the evaluator’s frame while preserving the contribution itself.

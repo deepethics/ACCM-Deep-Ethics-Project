@@ -1455,7 +1455,7 @@ John authorized the supplied *AI Will End Philosophy, Physicist Claims* file for
 
 **Δ:** AI Contributions index, All Pages, Decision Ledger, and the local-A.I. preparation page updated. No canonical file, CORE file, 27 entry, or 12 stage changed.
 
-## 2026-09-23 — John Kuhles (44 goals draft; massive update soon)
+## 2026-09-23 — John Kuhles ([44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) draft; massive update soon)
 
 Full file held (6753 lines). Draft, not all at once. Keywords such as 27+12, 10+1, and outnuancing will soon be clickable. Grew from the [canonical Ground Zero Moment](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/main/CANONICAL/questions-perspectives-theories-and-hypotheses/Canonical%20Ground%20Zero%20Moment%20ACCM%20Deep%20Ethics%20Project.md).
 
@@ -1465,13 +1465,13 @@ John’s later line, source:
 
 > 10 CORE GOALS ARE NOT the 10+1
 
-Ten Core Operational Goals are a compressed navigation layer over the 44. #10: coordinate and extract without degrading 1–9.
+Ten Core Operational Goals are a compressed navigation layer over [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). #10: coordinate and extract without degrading 1–9.
 
 ## 2026-09-23 — Grok Build (labeled synthesis)
 
 Not building the welcome this turn. He said soon.
 
-Two lenses of the same 44: **4 × 11** and **10 / 11 / 8 / 7 / 8**. Not two projects.
+Two lenses of [the same 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/): **4 × 11** and **10 / 11 / 8 / 7 / 8**. Not two projects.
 
 **“Grok 5 owns zero goals”** is a downstream compression that later models treated as source. Restored object in the file: no frozen topical bundle; live goal is dynamic and user-directed. Zero ≠ dynamic.
 

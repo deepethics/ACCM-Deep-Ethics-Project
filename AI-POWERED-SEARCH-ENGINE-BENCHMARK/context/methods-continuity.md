@@ -16,20 +16,20 @@ John asked to recover the original “O2 ownership” formulation and to explain
 
 John also corrected a transmitted description of Goal Group 5 as having no goals. A dynamic team can change which goals it pursues within a fixed source set. The final confirmation governs the example.
 
-> **Goal Group 5 always carries 2 to 5 original 44 goals, and CAN switch at all times, switch 1 or 2 of the 5, yet >> all 2 to 5 goals remain from the 44 << so there are no outside goals sneaking into the Dynamics Team Effort of Group 5**
+> **Goal Group 5 always carries 2 to 5 original [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), and CAN switch at all times, switch 1 or 2 of the 5, yet >> all 2 to 5 goals remain from [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) << so there are no outside goals sneaking into the Dynamics Team Effort of Group 5**
 
 The broader conversation distinguished the private Admin Instructions Repo from the public Cold Start Kit. John asked for public-beneficial insights that were safe to carry into the kit and treated the private backup as a separate object.
 
 ## October to November kit comparison {#kit-version-comparison}
 
-The supplied comparison reported that the 24 November public edition retained all 67 October sections and the unchanged list of 44 goals. It added five sections, restored John’s O2 formulation and recorded a base hash matching the October upload. The identified compressions were inside retained sections.
+The supplied comparison reported that the 24 November public edition retained all 67 October sections and the unchanged list of [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). It added five sections, restored John’s O2 formulation and recorded a base hash matching the October upload. The identified compressions were inside retained sections.
 
 | Section | What the supplied comparison located |
 | --- | --- |
 | F03 · Historical four-team proposal | The four team names, purposes, central questions and balancing from 9/10/14/11 to 11/11/11/11 survived. The exact eleven goal IDs assigned to each team disappeared. The five-group analytical map still carried its own rosters. |
 | F04 · Flexible fifth agent | The old coordinator’s eleven responsibilities and eight named modes disappeared as explicit lists. Some functions survived, including reports, disagreement, selection criteria and the correction trail. Daily briefing, temporary cross-team assignments and “The user owns the workload” were absent from that edition. John’s more precise two-to-five and one-or-two switch rules were present. |
 | F03–F04 · Model integrity | The seven-goal model-integrity grouping survived. The worked progression through present mannerisms, correction or regression, long-term integrity, possible model collapse, and paths toward artificial general intelligence and superintelligence was compressed. So was the joke linking five to movement and adaptability. |
-| G05 and G09 · Historical scope | The September private-development boundary was summarized. The detailed source inventory and the fact that only the 44 goals had been extracted from a larger source file were omitted. Q28 distinguished proposal, publication and active assignment. It lost the earlier question about what a public page’s silence can establish about a proposal’s existence. |
+| G05 and G09 · Historical scope | The September private-development boundary was summarized. The detailed source inventory and the fact that only the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) had been extracted from a larger source file were omitted. Q28 distinguished proposal, publication and active assignment. It lost the earlier question about what a public page’s silence can establish about a proposal’s existence. |
 | A01, H03, H07, H09 and I01 · Provenance | Private routes and direct links to three sessions were removed or replaced with broader public routes. I05 recorded the public edition’s scope. Attributable excerpts remained, with less direct recovery of the original sessions. |
 
 A later Google review recognized that restored material already included the workload sentence, the model-integrity sequence, the playful Google-5 aside, the limited extraction scope and expanded Q28. The historical roster remained an open recovery question.
@@ -88,7 +88,7 @@ Based on the **November 24, 2026 edition (`242 Kb`)** in context and the verifie
 | --- | --- | --- |
 | **Structure & Size** | 67 sections (`A01–I04`) plus private/internal session links and developmental notes. | Retains all 67 sections and adds **5 new sections** (`G11–G14`, `I05`) totaling **72 sections**, while stripping private admin links. |
 | **Ownership & Responsibility (`D02`)** | Left `"O2 ownership"` undefined in the mixed-attribution passage (`C04`). | Restores your first-person **O2 ownership** definition alongside **O1** (deflection to authority) and **O3** (performed virtue). |
-| **Fifth-Agent / Group 5 Rules (`F04`)** | Listed 11 coordinator responsibilities, 8 modes, `"The user owns the workload"`, and the historical `"owns zero goals"` phrasing. | Replaces loose coordinator modes with a concrete operational rule: **Goal Group 5 always carries 2–5 active goals** from the 44 and **switches 1–2 at a time** with logged handoffs. |
+| **Fifth-Agent / Group 5 Rules (`F04`)** | Listed 11 coordinator responsibilities, 8 modes, `"The user owns the workload"`, and the historical `"owns zero goals"` phrasing. | Replaces loose coordinator modes with a concrete operational rule: **Goal Group 5 always carries 2–5 active goals** from [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) and **switches 1–2 at a time** with logged handoffs. |
 | **Team Roster Detail (`F03`)** | Included the exact 11-goal assignment list for each of the four historical teams. | Keeps the `4 × 11` discovery math and team purposes, but omits the individual 11-goal rosters (retaining full rosters only for the 5-group analytical lens). |
 | **Editorial & Audit Checks (`G11–G14`)** | Covered general reporting omissions (`G01`) and handoff criteria (`G10`). | Adds explicit worked protocols for **verbatim vs. mechanical spelling fixes (`G11`)**, **originating-event preservation (`G12`)**, **version/checksum verification (`G13`)**, and **next-use correction testing (`G14`)**. |
 
@@ -103,7 +103,7 @@ Based on the **November 24, 2026 edition (`242 Kb`)** in context and the verifie
 3. **Stops Metaphors from Detaching from Their Evidence (`G12`):**
    - Using the October 24 *Plot Twist* gasoline-gauge and co-driver example, **G12** requires any reused metaphor to carry its originating event and question—directly preventing **Process-Signature Loss (#16)** and **Order-of-Discovery Loss (#17)** when models summarize your work. [Your upload]
 4. **Makes Goal Group 5 Handoffs Inspectable (`F04`):**
-   - Replacing abstract coordinator lists with a hard constraint (**2–5 active goals**, **1–2 switched per turn** from the 44) turns coordination into a traceable state transition rather than an open-ended summary. [Your upload]
+   - Replacing abstract coordinator lists with a hard constraint (**2–5 active goals**, **1–2 switched per turn** from [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)) turns coordination into a traceable state transition rather than an open-ended summary. [Your upload]
 5. **Safe for Cold Public Distribution (`I05`):**
    - Removing private operational references and internal session paths eliminates broken/restricted links for cold public readers while keeping every public citation route verifiable (`G13`). [Your upload]
 
@@ -117,7 +117,7 @@ Would you like to **restore the missing `4 × 11` goal-ID mapping and `"user own
 
 **24 November 2026 · Quotation supplied by John.** Empty file references are retained from the paste.
 
-In , the updated **November 24** reading edition has already integrated the restored items from your comparison (`"The user owns the workload"` and the historical model-integrity sequence in **F04**, the Google-5 playful aside in **F03**, the 44-goal extraction scope in **G05**, and the expanded **Q28** in **G09**). [Your upload]
+In , the updated **November 24** reading edition has already integrated the restored items from your comparison (`"The user owns the workload"` and the historical model-integrity sequence in **F04**, the Google-5 playful aside in **F03**, the [44-goal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) extraction scope in **G05**, and the expanded **Q28** in **G09**). [Your upload]
 
 Auditing  against its own **G01–G14** and **I04** criteria reveals **four remaining areas** that would benefit from targeted deep-ethical tightening—plus one explicit **valid-null** check where no change is warranted:
 
@@ -140,7 +140,7 @@ Auditing  against its own **G01–G14** and **I04** criteria reveals **four rema
 
 ### 4. Minor Copy-Editing & Citation Hygiene (`G11` & `G13`)
 
-- **Mechanical typo in `F01`:** Under `JOHN'S OWN LIVING-GOALS ADDITION`, the text reads `"the 44 goals do not happening all at once"` (carried over from raw source wording). Under **G11**, either preserve it explicitly as a verbatim quote or apply an authorized mechanical fix (`do not happen`). [Your upload]
+- **Mechanical typo in `F01`:** Under `JOHN'S OWN LIVING-GOALS ADDITION`, the text reads [`"the 44 goals do not happening all at once"`](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) (carried over from raw source wording). Under **G11**, either preserve it explicitly as a verbatim quote or apply an authorized mechanical fix (`do not happen`). [Your upload]
 - **Unresolved `§16A` / `[1, 2]` internal artifacts:** `H07` retains `"Section 16A"` and `H09` retains `[1, 2]` with editorial notes explaining they are unresolved historical artifacts. Adding a one-line footnote or bracketed `[historical ref — not in current core]` inline where `"Section 16A"` first appears in `H07` prevents a cold reader from searching `A01–I05` for a missing section before reaching the bottom note. [Your upload]
 
 ### Valid Null Check (`G06` Step 9)

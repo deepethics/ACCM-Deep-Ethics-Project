@@ -54,7 +54,7 @@ The linked [**1888 Method™** intelligence-properties taxonomy]({{ '/1888/' | r
 
 The project examines existing frameworks, its own methods, institutional conduct, independent claims, and A.I. assistance. Its particular origin and vocabulary can remain visible while the underlying operations are compared with work expressed in other vocabularies.
 
-Keep the project's numbered objects distinct. The **10+1** ingredients, **11+1** mass-psychology clusters, **14-property** working arrangement, **16** proposed ethical anchors, **27** obstructions, **12** recovery stages, and **44** project goals name different objects. A count attached to one cannot explain another. Their source pages carry the definitions and revision histories.
+Keep the project's numbered objects distinct. The **10+1** ingredients, **11+1** mass-psychology clusters, **14-property** working arrangement, **16** proposed ethical anchors, **27** obstructions, **12** recovery stages, and [**44** project goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) name different objects. A count attached to one cannot explain another. Their source pages carry the definitions and revision histories.
 
 **Recovery:** [About]({{ '/ABOUT/' | relative_url }}) · [Avoid flattening the project title]({{ '/CORE/Avoid-ACCM/' | relative_url }}) · [If you are new]({{ '/IF-YOU-ARE-NEW/' | relative_url }}).
 

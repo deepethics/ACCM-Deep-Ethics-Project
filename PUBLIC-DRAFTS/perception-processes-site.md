@@ -19,7 +19,7 @@ permalink: /PUBLIC-DRAFTS/Perception-Processes-P01-P12/
 - [**Meta Processing — Beta Draft V0.2b**]({{ '/NETWORK/meta-processing/' | relative_url }}) — separates intent and instructions, processing, results and effects, notice, and persistence without turning the process into a verdict.
 
 - [**Public Drafts**]({{ '/PUBLIC-DRAFTS/' | relative_url }}) — gives the source-preserving publication context for this early process object.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects the process orientation to the project’s wider public goals.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — connects the process orientation to the project’s wider public goals.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — shows when an answer-changing clarification belongs before intervention or closure.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether learning and correction change later participation.
 - [**Unresolved Meaning and Beyond-Binary Inquiry**]({{ '/NETWORK/uncertainty/' | relative_url }}) — keeps possibilities open without treating uncertainty as proof or destination.

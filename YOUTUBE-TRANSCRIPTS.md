@@ -198,7 +198,7 @@ Keep evidential status and practical usefulness as separate fields. A source-sup
 
 ### Where this page sits in the goals
 
-The [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) distinguish a flexible work map from the ten operational navigation goals and the separate 10+1. This record particularly connects:
+The [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) distinguish a flexible work map from the ten operational navigation goals and the separate 10+1. This record particularly connects:
 
 - **G02–G03:** archive correction metabolism and investigate persistent Deep Ethics properties;
 - **G07–G08:** distinct Advocate, Arbiter and Overseer functions alongside the 16 Anchor Ethics™;

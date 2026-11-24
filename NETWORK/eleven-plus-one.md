@@ -218,7 +218,7 @@ Do not complete the architecture rhetorically.
 - [**Outnuancing™**]({{ '/NETWORK/outnuancing/' | relative_url }}) — keeps the topology open to frame examination rather than treating its current organization as final.
 - [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) — remains a distinct mutually corrective calibration process rather than another mass-psychology cluster.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tracks whether later evidence changes item placement, claim status, or the governing map.
-- [**G42 — Visualize the 11+1 Mass-Psychology Clusters**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}#g42) — preserves the interactive visualization goal for nodes, vectors, clusters, time, context, and legend.
+- [**G42 — Visualize the 11+1 Mass-Psychology Clusters**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/#g42) — preserves the interactive visualization goal for nodes, vectors, clusters, time, context, and legend.
 - [**Visible Interactive Deep Ethical Topology Flux Scores**]({{ '/NETWORK/deep-ethical-topology-flux/' | relative_url }}) — explores how the architecture and its corrections could become visibly inspectable over time.
 
 ---

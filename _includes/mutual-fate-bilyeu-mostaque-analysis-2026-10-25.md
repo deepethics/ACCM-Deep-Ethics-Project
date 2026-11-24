@@ -116,7 +116,7 @@ The good process specimen is the opening for examination. Its value should survi
 
 The “plankton” analogy points to a dependency: entry-level work can feed later expertise. An assessment of replacement should examine tasks, hiring, apprenticeship, independent judgment, ownership and participation separately.
 
-The [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) add a constructive question: what arrangements preserve routes through which people can acquire the understanding needed to oversee, improve and challenge automated systems?
+The [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) add a constructive question: what arrangements preserve routes through which people can acquire the understanding needed to oversee, improve and challenge automated systems?
 
 Avoid treating a profession as a single task. Its visible output may depend on relationships, tacit checks, exceptions and responsibility that are absent from the proposed input-output test. Those elements can themselves be investigated and redesigned.
 

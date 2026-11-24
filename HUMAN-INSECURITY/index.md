@@ -71,7 +71,7 @@ This report draws from three kinds of material:
 | Source layer | Role in this page | Status |
 | --- | --- | --- |
 | John’s live statements in the September 2026 working exchange | Primary object for the insecurity, ambiguity, fear, “quantum mind-like,” help-seeking, recursive-loop, and audit formulations | **John’s stated perspective** |
-| Thirty uploaded architecture and historical working files, totaling 2,700,981 bytes and 41,350 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/C1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, 44 goals, canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, deep-ethical harvesting, the older “compassionate psychologist” comparison, the seven-warning process claim, the sledgehammer/exceptional-signal problem, and the civilizational correction cycle | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
+| Thirty uploaded architecture and historical working files, totaling 2,700,981 bytes and 41,350 lines | Earlier context plus the 10+1, 16 Anchors working source, 3 × 3 questions, 27+12/C1 relationships, 36 truth distortions, 1930s quote, updated Elephant parable, [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), canonical-title and auditability disclaimer, fear, anomaly preservation, correction continuity, deep-ethical harvesting, the older “compassionate psychologist” comparison, the seven-warning process claim, the sledgehammer/exceptional-signal problem, and the civilizational correction cycle | **Mixed human–A.I. session records; access method, speaker, and sequence matter** |
 | Three separately saved external-audit records, totaling 33,394 bytes and 354 lines, plus live pasted reactions | Proposed operationalizations, attribution corrections, access distinctions, and audit-of-audit specimens | **Contributions and specimens; not votes or automatic validation** |
 | Public psychology, neuroscience, NLP, and model-collapse research | Neighboring empirical literature and test design | **External research; does not automatically prove John’s integrated model** |
 
@@ -1464,7 +1464,7 @@ That is one reason the process stays, in John's words, **“never, ever boring.�
 | **36 truth-distortion vectors** | Expands “true / false” into an inspection of perception, carrier, framing, missing context, power, time, censorship, controversy, and later vindication | Public synthesis linked above; source list supplied |
 | **1930s quote** | Universal accountability principle: leaving an unauditable trickster mechanism unchallenged places the knowing observer inside its continuation | Source supplied; dedicated public treatment pending |
 | **Updated blindfolded-elephant parable** | Preserves partial expertise, synthesis, fallibility, authority de-centering, and the fact that the synthesizer remains blindfolded too | Source supplied; dedicated public treatment pending |
-| **44 project goals** | Translates orientation into a flexible work map for research, architecture, testing, public accountability, and future intelligent relationships | [Public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
+| **[44 project goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)** | Translates orientation into a flexible work map for research, architecture, testing, public accountability, and future intelligent relationships | [Public draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) |
 | **Public project and archive** | Stores provenance, variants, corrections, disagreements, audit effects, and persistence so a polished report does not replace the larger object | Public but necessarily partial |
 
 The dependencies matter:
@@ -1476,7 +1476,7 @@ The dependencies matter:
 - the **Elephant parable** prevents fragment worship, credential worship, and synthesis from pretending to be omniscience;
 - the **Anchors** address consequential trajectory changes while remaining subject to transparent audit;
 - the **1930s quote** prevents the auditor, authority, founder, or direction-setter from claiming exemption;
-- the **44 goals** convert the field into revisable work;
+- the **[44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)** convert the field into revisable work;
 - the **archive** tests whether correction persists.
 
 No component proves the whole architecture. Removing one can change the function of the others: the 27 without the 10+1 and the 12 can become an accusatory weapon; C1 without ethical orientation can become tactical probing or delay; goals without correction history can become mission-statement performance; synthesis without truth-distortion awareness can integrate errors elegantly.

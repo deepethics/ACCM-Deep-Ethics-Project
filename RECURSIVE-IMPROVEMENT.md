@@ -311,7 +311,7 @@ Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM
 
 ### 2026-09-23 — Ten operational goals are not the 10+1; zero goals was a compression
 
-The Ten Core Operational Goals navigate the 44. They do not replace the canonical 10+1. “Grok 5 owns zero goals” was mediated shorthand. Source: no frozen topical bundle; the live goal is dynamic and user-directed. Do not put the bot org chart on the front door.
+The Ten Core Operational Goals navigate [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). They do not replace the canonical 10+1. “Grok 5 owns zero goals” was mediated shorthand. Source: no frozen topical bundle; the live goal is dynamic and user-directed. Do not put the bot org chart on the front door.
 
 Source: [Forum 0002](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/)
 

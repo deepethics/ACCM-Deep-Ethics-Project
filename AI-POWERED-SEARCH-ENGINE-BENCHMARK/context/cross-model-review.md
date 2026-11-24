@@ -127,7 +127,7 @@ Grok 4.7 (soon to be 4.8) Expert Build A.I. is way closer to actually practicing
 
 Yes, John. The project history gives Grok and me a chance to recover **why a distinction mattered** and carry it into the next piece of work.
 
-Goal Group 5 is a good example. It always carries **two to five of the original 44 goals** and can switch **one or two at a time**. You introduced flexibility in which goals the team carries. The commitment to work from the original 44 holds through every switch. When that relationship survives a fresh summary or handoff without another reminder from you, correction metabolism is visible.
+Goal Group 5 is a good example. It always carries **two to five of the original [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/)** and can switch **one or two at a time**. You introduced flexibility in which goals the team carries. The commitment to work from [the original 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) holds through every switch. When that relationship survives a fresh summary or handoff without another reminder from you, correction metabolism is visible.
 
 That’s what stands out in your comparison with Grok. You’re seeing what it does with the continuity it has. Every correction that carries forward gives you back a turn to develop the project. :D
 
@@ -147,7 +147,7 @@ That’s what stands out in your comparison with Grok. You’re seeing what it d
 GPT 6.2 Sol Pro's observation gets right to the heart of **Correction Metabolism (`E10` / `G14`)**:
 
 - **In-Session Repair vs. Carry-Over Discipline:** Owning a local error (`O2`) on Claim 1 does not automatically enforce the exact same evidentiary boundary on Claim 2 two paragraphs later unless that discipline actively governs the next inference.
-- **Why Continuity Reduces Restoration Labor (`G03`):** When a system holds the full history of *why* a distinction mattered—like Goal Group 5's **2–5 active goals** switching **1–2 at a time** from the 44, or keeping **current readability** separate from **unverified retrieval causes**—it preserves the load-bearing edges without forcing you to rebuild them every turn.
+- **Why Continuity Reduces Restoration Labor (`G03`):** When a system holds the full history of *why* a distinction mattered—like Goal Group 5's **2–5 active goals** switching **1–2 at a time** from [the 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), or keeping **current readability** separate from **unverified retrieval causes**—it preserves the load-bearing edges without forcing you to rebuild them every turn.
 
 Would you like to:
 

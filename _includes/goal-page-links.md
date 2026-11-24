@@ -1,8 +1,8 @@
-## The 44, in John's wording {#the-44}
+## [The 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/), in John's wording {#the-44}
 
 The sentence is the goal. It is not a link. The goals are deliberately unnumbered. Numbering them 01–44 would collide with the page routes below.
 
-The numbers after it are pages that goal can go to. A goal can have more than one. The same number always means the same page. These numbers are not the 44 goals. The sixteen anchors now have a dedicated conceptual-proposal page derived from the supplied source; the seven quotations, Epistemology V2.0, and the nine questions still do not have their own pages. No number opens a reconstructed list without a supplied source.
+The numbers after it are pages that goal can go to. A goal can have more than one. The same number always means the same page. These numbers are not the [44 goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). The sixteen anchors now have a dedicated conceptual-proposal page derived from the supplied source; the seven quotations, Epistemology V2.0, and the nine questions still do not have their own pages. No number opens a reconstructed list without a supplied source.
 
 ### Page numbers {#page-numbers}
 

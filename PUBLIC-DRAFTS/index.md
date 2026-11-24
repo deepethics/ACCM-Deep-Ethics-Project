@@ -17,7 +17,7 @@ permalink: /PUBLIC-DRAFTS/
 ## Related pages
 
 - [**Perception Processes P01–P12**]({{ '/PUBLIC-DRAFTS/Perception-Processes-P01-P12/' | relative_url }}) — presents a process-oriented tool without turning process into verdict, proof, or closure.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — organizes the project’s public goals while retaining draft status.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — organizes the project’s public goals while retaining draft status.
 - [**External Audit**]({{ '/EXTERNAL-AUDIT/' | relative_url }}) — demonstrates a portable draft whose audit is examined by the same standard.
 - [**Delta Processing**]({{ '/NETWORK/delta-processing/' | relative_url }}) — makes source-to-draft transformations and losses visible.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — separates readable public synthesis from the record required to inspect it.

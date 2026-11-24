@@ -195,7 +195,7 @@ This companion follows a correction through three participants. John Kuhles brou
 
 Two prompted repairs are recorded. The remaining G14 test is whether Google independently applies the same evidence boundary on a new claim. For instance, on a later engine’s answer, can the reviewer establish what was displayed, distinguish that from what the engine may have accessed, and leave the cause open when the record supports several possibilities? Record any reminder or further evidence John has to supply under G03. Status as of this specimen is **local repair observed, independent next-use transfer untested**.
 
-The Goal Group 5 example in the correspondence illustrates the same distinction in a different task. A later summary must preserve all parts of the rule together. The group always carries **two to five** of the **original 44** goals. It can switch **one or two at a time**, with each incoming goal drawn from the same 44.
+The Goal Group 5 example in the correspondence illustrates the same distinction in a different task. A later summary must preserve all parts of the rule together. The group always carries **two to five** of the [**original 44** goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/). It can switch **one or two at a time**, with each incoming goal drawn from [the same 44](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/).
 
 ### Recovery links
 

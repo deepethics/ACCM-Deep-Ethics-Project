@@ -128,7 +128,7 @@ These quotations do not establish that every unfamiliar idea is valuable, that e
 
 - [**Godfather of A.I.**]({{ '/GODFATHER-OF-AI/' | relative_url }}) — holds healthcare, education and wider beneficial potential in the same field as displacement, misuse, loss-of-control and governance risks.
 - [**Emerging Human Potential — Deeper Report**]({{ '/POSITIVE-POTENTIAL/REPORT/' | relative_url }}) — develops the T0 → Tn record, risk ledgers, research footholds, and benchmark questions.
-- [**44 Project Goals**]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) — connects this research direction to the wider project goals.
+- [**44 Project Goals**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) — connects this research direction to the wider project goals.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — protects unfamiliar contributions from classification before consequential ambiguity is clarified.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — links early treatment with later vindication, disconfirmation, or revision.
 - [**Mutual Dignity**]({{ '/NETWORK/mutual-dignity/' | relative_url }}) — preserves the contributor’s agency during bounded testing and correction.

@@ -366,7 +366,7 @@ CEO &amp; Founder of <a href="https://deepethical.ai" target="_blank" rel="noope
     <strong>External auditing mannerisms</strong>
     <span>A portable method: audit the audit with the same standard, in the same pass. Outside sessions are not invented here.</span>
   </a>
-  <a class="accm-door" href="{{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}">
+  <a class="accm-door" href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/">
     <span class="accm-door-kicker">Public draft</span>
     <strong>44 project goals</strong>
     <span>Draft work map, ten operational doors (not the 10+1), two lenses. John will update it. The draft is public on purpose.</span>
