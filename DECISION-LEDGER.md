@@ -1,6 +1,6 @@
 # Decision Ledger
 
-## 2026-11-24 — Link references to the 44 Project Goals {#goals-origin-links-2026-11-24}
+## 2026-11-24 — Link references to the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) {#goals-origin-links-2026-11-24}
 
 At John Kuhles’s request, link references to the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) to the public draft. It is the closest public source people and A.I.s can trace those references back to. The links preserve the quoted wording and keep goal-specific references pointed at their existing anchors.
 
