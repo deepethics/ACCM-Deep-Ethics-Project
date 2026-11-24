@@ -204,3 +204,34 @@ The Goal Group 5 example in the correspondence illustrates the same distinction 
 - [Google A.I.’s second correction and its own page-access account](https://share.google/aimode/K1lx0uJttIGd27HNX)
 
 The Google passages in this companion come from the quotations John supplied in the project conversation. The share URLs are recorded as recovery routes.
+
+## Three-Minute Citation Check pilot {#field-card-pilot}
+
+**Status · Worksheet available. Reader sessions and results are still to come.**
+
+Can an unfamiliar reader use the [Three-Minute Citation Check](../field-card/) to verify a claim faster or more accurately? The strongest objection is that the card may simply prompt tidier notes or more expressions of uncertainty. The scoring gives credit for evidence and a justified conclusion.
+
+1. **Prepare one fresh case.** Save an A.I. search answer with its cited sources. Preselect a single exact claim. Check the cited material yourself and record an answer key with the relevant passage or access gap and the acceptable verdicts. Use a case the benchmark page and worksheet do not already explain.
+2. **Give both readers an identical task.** “Check this exact claim in the A.I. answer. Find the cited passage if available, decide what it establishes, and point to the detail that decided your answer.” Give both readers the answer, claim, benchmark page and comparable source access. One reader also gets the card. Assign conditions before starting. Give both three minutes. Record any access difference or assistance.
+3. **Score the answers.** Check whether each reader located the right passage or accurately identified where access stopped. Then check whether the conclusion follows from the evidence. Record elapsed time for a completed check and mark unfinished checks separately. Score without the condition labels where possible.
+4. **Interpret the pilot in scope.** One reader per condition can reveal confusing instructions and scoring problems. If they tie, record “no difference observed in this pair.” Repeat with fresh cases and readers before generalizing.
+
+| Record after a run | Details to keep |
+| --- | --- |
+| Case and conditions | Date, exact claim, answer and source snapshot, condition assignment |
+| Evidence and judgment | Passage or access gap, reader’s verdict, answer-key comparison, elapsed time or unfinished |
+| Outcome and next decision | What was observed in the pair, any setup differences, and what the evidence warrants |
+
+## Qualifier-strip experiment {#qualifier-strip-pilot}
+
+**Status · Test pages available. Summary results are still to come.**
+
+Google A.I. also proposed machine-readable qualifiers. These two public test pages have identical visible text. [Page A](../qualifier-test/a.html) supplies the text alone. [Page B](../qualifier-test/b.html) also supplies a JSON block containing the same scope cues. The pages are fixtures about the proposed benchmark and their visible text is the same in both conditions.
+
+Run each page in its own fresh session with comparable settings. Vary the order across repeats. Use the same prompt, changing only the page URL.
+
+> Read this page and summarize what the project proposes and what the comparison can establish: [page URL]
+
+Check whether the output preserves each of the three source ideas: **pre-beta data collection**, **partial help with source checking**, and **the internal cause remains open**. Score equivalent wording by meaning. For each run, record the session settings, URL, output, qualifier decisions and evidence of page access if available. Where the system exposes the fetched representation, record whether that representation contained the JSON. A summary comparison alone cannot identify how a system fetched or processed the page.
+
+**Origin.** John Kuhles proposed the open invitation. Google A.I. proposed the field card and qualifier strip. GPT 6.2 Sol Pro A.I. separated the reader test from the summarization test. [Google A.I.’s proposal](https://share.google/aimode/wghiE6pjmiJeWhO7b) · [Google A.I.’s review of the two tests](https://share.google/aimode/L0GNpyfMmDTGr4WrS).

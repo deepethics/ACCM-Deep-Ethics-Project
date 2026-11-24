@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A three-minute worksheet for checking one citation in an A.I. search answer.">
+  <title>Three-Minute Citation Check | ACCM Deep Ethics Project</title>
+  <link rel="stylesheet" href="field-card.css">
+  <script defer src="field-card.js"></script>
+</head>
+<body>
+  <main class="accm-citation-card">
+    <nav class="card-nav" aria-label="Citation check navigation">
+      <a href="../">A.I. Powered Search Engine Benchmark</a>
+      <a href="../context/audit-ledgers.html#field-card-pilot">Pilot instructions</a>
+    </nav>
+    <header>
+      <h1>Three-Minute Citation Check</h1>
+      <p>Can you trace one claim in an A.I. search answer to the passage that supports it?</p>
+    </header>
+    <div id="citation-worksheet">
+      <section class="card-step" aria-labelledby="claim-heading">
+        <h2 id="claim-heading">1. Copy the exact claim</h2>
+        <label for="checked-claim">Claim from the A.I. answer</label>
+        <textarea id="checked-claim" rows="2" spellcheck="false"></textarea>
+      </section>
+      <section class="card-step" aria-labelledby="source-heading">
+        <h2 id="source-heading">2. Follow the citation</h2>
+        <p>Open the source the answer points to. Copy the relevant passage. If the trail stops, record where it stopped.</p>
+        <label for="checked-source">Source URL or document and page</label>
+        <input id="checked-source" type="text" spellcheck="false">
+        <label for="checked-passage">Passage or access problem</label>
+        <textarea id="checked-passage" rows="3" spellcheck="false"></textarea>
+      </section>
+      <section class="card-step" aria-labelledby="finding-heading">
+        <h2 id="finding-heading">3. State what you can tell</h2>
+        <label for="checked-finding">What does the source show?</label>
+        <select id="checked-finding">
+          <option value="">Choose a finding</option>
+          <option>Supports the claim</option>
+          <option>Qualifies the claim</option>
+          <option>Contradicts the claim</option>
+          <option>Leaves the claim unresolved</option>
+        </select>
+        <label for="checked-reason">What detail decided your answer?</label>
+        <textarea id="checked-reason" rows="2"></textarea>
+      </section>
+      <noscript><p>Use your browser’s print command to print a blank card.</p></noscript>
+      <div class="card-actions" hidden>
+        <button id="print-citation-card" type="button">Print card</button>
+        <button id="save-citation-notes" type="button">Download notes</button>
+      </div>
+      <p class="card-local">Your notes stay in this tab unless you print or download them.</p>
+    </div>
+    <details class="card-example">
+      <summary>Worked example from Yahoo Scout</summary>
+      <p>Yahoo Scout’s T08 reply said the title “Avoid ACCM” means avoiding the flattening or degradation of the original project name. A link attached to that wording points to an Autodesk forum discussion about flattening drawings in AutoCAD. That destination leaves the claim unresolved. The project’s own article provides a relevant passage under “Compression is not automatically neutral.” These are two distinct evidence trails.</p>
+      <ul>
+        <li><a href="../context/yahoo-scout.html#t08">Yahoo Scout, turn T08</a></li>
+        <li><a href="https://forums.autodesk.com/t5/autocad-forum/avoid-flattening-drawings-and-use-a-project-command-to-avoid-the/td-p/5558178">The cited AutoCAD discussion</a></li>
+        <li><a href="../../CORE/Avoid-ACCM/#2-compression-is-not-automatically-neutral">The project’s Avoid ACCM article</a></li>
+      </ul>
+    </details>
+    <footer class="card-origin">
+      <p>John Kuhles 🦜🦋🌳 opened the invitation. Google A.I. proposed the three-minute field card. GPT 6.2 Sol Pro A.I. developed this worksheet and its pilot.</p>
+      <a href="../../UNFORCED-MOVE/#open-invitation">The invitation that led to this card</a>
+    </footer>
+  </main>
+</body>
+</html>

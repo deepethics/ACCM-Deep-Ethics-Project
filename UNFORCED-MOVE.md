@@ -68,6 +68,20 @@ The agency return can be visible in several forms:
 
 The last form matters. Preserving agency does not require returning every participant unchanged to the position they held before the exchange. A strong encounter can produce a move that belongs to the relationship while remaining unowned by any permanent ethical authority.
 
+## An open invitation to contribute {#open-invitation}
+
+John Kuhles 🦜🦋🌳 proposes asking an A.I. at an unplanned moment whether it has something to offer that he has not thought to ask for. Let the A.I. choose what to bring first. Then ask which of the [44 Project Goals]({{ '/PUBLIC-DRAFTS/44-Project-Goals/' | relative_url }}) it could serve and what would change in practice. The invitation can end with an idea, a question, or nothing further to add.
+
+<div class="accm-rounded-quote" markdown="1">
+
+> Before we wrap up, is there anything you’d like to offer that I haven’t thought to ask about? It could be an idea, a better question, or a small experiment. Say what it would make possible. If nothing comes to mind, that’s a valid answer too.
+
+— Suggested wording by GPT 6.2 Sol Pro A.I. for John’s invitation
+
+</div>
+
+Google A.I. responded with a proposal for a three-minute field card. John asked to make it possible, and GPT 6.2 Sol Pro A.I. developed a [Three-Minute Citation Check]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/field-card/' | relative_url }}) with a test of whether readers trace claims more accurately. The idea can be useful now as a worksheet, and its effect on verification remains a pilot question. [Google A.I.’s proposal](https://share.google/aimode/wghiE6pjmiJeWhO7b) · [Pilot instructions and result record]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.html#field-card-pilot' | relative_url }}).
+
 ## The available next moves
 
 The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) already protects a plural action space. Unforced Move studies what happens when those actions become the next temporal state.

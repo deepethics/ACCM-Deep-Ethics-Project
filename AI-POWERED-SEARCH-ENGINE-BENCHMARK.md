@@ -27,6 +27,8 @@ Start with the [Yahoo Scout exchange, T01–T13]({{ '/AI-POWERED-SEARCH-ENGINE-B
 
 </aside>
 
+[**Try the Three-Minute Citation Check**]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/field-card/' | relative_url }}) on an A.I. answer you want to verify. The [pilot instructions and result record]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.html#field-card-pilot' | relative_url }}) and the [separate qualifier-strip experiment]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.html#qualifier-strip-pilot' | relative_url }}) are ready to use.
+
 ## Session archive · 24 November 2026 {#session-archive}
 
 Follow the claims from the question through the answer, citation and correction. [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) guides the summaries below. Each one preserves the relationships that change the reading and points back to the fuller record.
