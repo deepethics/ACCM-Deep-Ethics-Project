@@ -23,4 +23,6 @@ permalink: /AI-DOCUS/
 
 {% include ai-docus/correspondence.md %}
 
+{% include ai-docus/model-review.md %}
+
 {% include ai-docus/documentary-transcript.md %}

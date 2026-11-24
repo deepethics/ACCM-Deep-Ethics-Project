@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-24 — A.I. Docus follow-up readings {#ai-docus-model-review-2026-11-24}
+
+Expanded [A.I. Docus]({{ '/AI-DOCUS/#model-review' | relative_url }}) with the complete supplied Luna, MiMo, Gemini, Terra, and Grok contributions and their GPT replies. Added the provenance sequence and three proposed comparisons: the reach of a correction, unprompted recovery with and without source access, and whether a refusal can correct its own record. The proposed comparisons remain unrun.
+
 ## 2026-11-24 — A.I. Docus {#ai-docus-2026-11-24}
 
 Published [A.I. Docus]({{ '/AI-DOCUS/' | relative_url }}) to pair Drift Theory’s *What Would a Superintelligence Want?* with the complete supplied transcript, ten timestamped chapters, twenty-one bibliography entries, the GPT 6.2 Sol Pro A.I. reaction, and the attributed John–GPT exchange.

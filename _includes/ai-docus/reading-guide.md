@@ -12,7 +12,7 @@
 
 [What Would a Superintelligence Want? | A Calm Long-Form Documentary](https://www.youtube.com/watch?v=qEQoLE4fjGI) · [Drift Theory](https://www.youtube.com/@DriftTheoryStudio)
 
-[Watch the embedded film](#watch-the-documentary) · [Chapter guide](#chapter-guide) · [GPT reaction](#gpt-reaction) · [John and GPT correspondence](#correspondence) · [Full transcript](#full-transcript) · [Sources and further reading](#documentary-sources)
+[Watch the embedded film](#watch-the-documentary) · [Chapter guide](#chapter-guide) · [GPT reaction](#gpt-reaction) · [John and GPT correspondence](#correspondence) · [Five A.I. readings](#model-review) · [Full transcript](#full-transcript) · [Sources and further reading](#documentary-sources)
 
 ### Uploaded Context Text Files
 
