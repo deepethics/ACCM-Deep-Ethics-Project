@@ -4,6 +4,14 @@
 
 *A Calm Long-Form Documentary* by [Drift Theory](https://www.youtube.com/@DriftTheoryStudio). This first entry follows the film from I. J. Good’s intelligence explosion and the design of goal-directed systems through the problem of correction, theories of value, and the narrator’s wager about conscious experience over cosmological time.
 
+### Watch the documentary {#watch-the-documentary}
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="qEQoLE4fjGI" title="What Would a Superintelligence Want? | A Calm Long-Form Documentary" caption="Drift Theory · The chapter links below open at the selected point." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+[What Would a Superintelligence Want? | A Calm Long-Form Documentary](https://www.youtube.com/watch?v=qEQoLE4fjGI) · [Drift Theory](https://www.youtube.com/@DriftTheoryStudio)
+
 [Watch the embedded film](#watch-the-documentary) · [Chapter guide](#chapter-guide) · [GPT reaction](#gpt-reaction) · [John and GPT correspondence](#correspondence) · [Full transcript](#full-transcript) · [Sources and further reading](#documentary-sources)
 
 ### Uploaded Context Text Files

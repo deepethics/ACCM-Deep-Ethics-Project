@@ -24,11 +24,3 @@ permalink: /AI-DOCUS/
 {% include ai-docus/correspondence.md %}
 
 {% include ai-docus/documentary-transcript.md %}
-
-### Watch the documentary {#watch-the-documentary}
-
-[What Would a Superintelligence Want? | A Calm Long-Form Documentary](https://www.youtube.com/watch?v=qEQoLE4fjGI) · [Drift Theory](https://www.youtube.com/@DriftTheoryStudio)
-
-<!-- ACCM_PDF_OMIT_START -->
-{% include youtube-embed.html id="qEQoLE4fjGI" title="What Would a Superintelligence Want? | A Calm Long-Form Documentary" caption="Drift Theory · The chapter links above open at the selected point." %}
-<!-- ACCM_PDF_OMIT_END -->
