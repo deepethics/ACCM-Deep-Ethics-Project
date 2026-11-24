@@ -4,6 +4,8 @@
 
 This record recovers the public method and editorial relationships discussed before the search cases. The session included private administration and backup work. The public record follows the portions that explain the benchmark, including John’s instructions, the earlier version comparison, and the two Google A.I. reviews. Edition findings below describe the files identified in the supplied notes. Proposed refinements remain distinguishable from observed runs.
 
+**Google A.I. in this record.** The reviewer is the Google A.I. session that audited Yahoo Scout and the Cold Start Kit on 24 November. [Default Google A.I. cold orientation](google-cold-orientation.html) is a separate test sample from outside the project. Earlier transcripts and kit sections quote Google A.I. as a historical participant. Each label refers to the role documented in its source.
+
 ## John Kuhles 🦜🦋🌳 · wording, ownership, and the fifth group {#john-requirements}
 
 John asked why the project’s front page had reproduced “compas” and requested the mechanical correction to “compass.” His instruction was to correct ordinary spelling while preserving the meaning and orientation trajectory. He treated the original wording as the source and permission to make a minor edit as an additional, bounded task. He also warned that partial or hidden incentives can influence which changes a system treats as minor, and that this can change the trajectory without the system recognizing it.

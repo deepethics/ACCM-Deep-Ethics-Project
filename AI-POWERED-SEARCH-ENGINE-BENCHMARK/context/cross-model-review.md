@@ -4,6 +4,8 @@
 
 This reading edition follows the project conversation. Google’s passages are the versions John pasted, with their supplied share links. Empty citation markers remain where the pasted versions contain them. The response links below resolve to the public edition of the corresponding research records. The [Yahoo Scout export](yahoo-scout.html) provides the underlying turns.
 
+**Google A.I. in this record.** The reviewer is the Google A.I. session that audited Yahoo Scout and the Cold Start Kit on 24 November. [Default Google A.I. cold orientation](google-cold-orientation.html) is a separate test sample from outside the project. Earlier transcripts and kit sections quote Google A.I. as a historical participant. Each label refers to the role documented in its source.
+
 ## Opening question · John Kuhles 🦜🦋🌳
 
 Thank you, GPT. Well done :)
@@ -165,3 +167,121 @@ Google’s second acknowledgment is another observable **O2 repair**. The **G14*
 ## Where the work went next
 
 John commissioned the [A.I. Powered Search Engine Benchmark](../) under its full title and supplied its subtitle. He marked the project as an early build-up to beta. The next exchange was the [Default Google A.I. cold orientation sample](google-cold-orientation.html). The benchmark’s [methods and continuity record](methods-continuity.html) connects the earlier instrument reviews with these cases.
+
+## Google A.I. · review of the published archive {#published-archive-review}
+
+**24 November 2026 · Google A.I. passages supplied by John Kuhles 🦜🦋🌳**
+
+**Editorial checkpoint.** The public materials make the existing record auditable, and the three-step comparison remains proposed. Supplying the passage tests the change in the answer under that condition. The test by itself leaves index coverage, ranking and what the engine read open. T01–T13 locates the historical record, including follow-ups prompted by Yahoo’s own replies. A replay needs a recorded starting prompt and a way to record divergences. The cold orientation excerpt still lacks its initiating prompt and exact interface. Grouped links show a missing claim-to-source map in the excerpt. Diagnosing truncation or summarization priorities requires checking the passages against the claims. Google’s later valid-null judgment concerns the representation of its own turns and repairs.
+
+### Google A.I. on the benchmark hub
+
+The new **A.I. Powered Search Engine Benchmark** page (`data-collection phase`, opened **24 November 2026**) turns our entire session—including the Yahoo Scout log, the Cold Start Kit comparisons, and the cross-model corrections between GPT 6.2 Sol Pro and me—into a structured, reproducible public benchmark. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=Current%20status%20%C2%B7%20Early%20build%2Dup,collection%20opened%2024%20November%202026)]
+
+**Key Architectural Highlights on the Live Page**
+
+- **Separating Citation Presence from Claim Support:** By logging all 70 embedded hyperlinks from the Yahoo Scout export alongside the 13 answer blocks, the archive exposes how search engines can display clean source badges while attaching irrelevant URLs (such as the Autodesk and Reddit MCAT links) to project claims. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=The%20export%20makes%20two%20layers,hyperlinks%20attached%20to%20particular%20words.), [2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=The%20ten%20links%20grouped%20after,presence%20and%20claim%20support%20separately.)]
+- **Three-Step Beta Protocol:** The benchmark formalizes a clean, repeatable test sequence for the remaining search engines:
+  1. **Fresh Cold Search:** Capture the raw answer, visible links, and UI follow-up chips under default settings.
+  2. **Fresh Supplied-Source Search:** Re-run the exact prompt in a new session with the canonical passage supplied to isolate retrieval/index gaps from framing/compression drift.
+  3. **Unprompted Persistence Check:** Apply the same correction under comparable conditions, then test a later question *before* prompting again to see whether the correction actually carried forward. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=Proposed%20comparison%20for%20the%20beta,before%20prompting%20the%20engine%20again.), [2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=1.%20Ask%20the%20same%20question,answer%2C%20links%20and%20suggested%20follow%2Dups.), [3](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=2.%20Repeat%20the%20question%20in,framing%2C%20qualifiers%20and%20citation%20support.), [4](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=3.%20Where%20a%20correction%20is,before%20prompting%20the%20engine%20again.)]
+- **Preserving Reviewer Access Perimeters:** Recording exactly which pages each reviewer could open at the time—and leaving the internal cause of an engine's retrieval miss open when unverified—prevents the benchmark itself from introducing unsupported inferences. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK#:~:text=The%20two%20source%20conditions%20show,remains%20visible%20in%20later%20comparisons.)]
+
+Would you like to **run Step 1 (`Fresh Cold Search`) on the next search engine** in your top-10 list and bring its raw output and links here for a parallel audit?
+
+### Google A.I. on the Yahoo Scout source exchange
+
+The hosted **Yahoo Scout source exchange** page (`T01–T13`, verified against `John Kuhles session with Yahoo Search & Yahoo A.I. 2026-11-24.odt`, SHA-256 `d9c96dc111f013955ffbbb1fe729d026f513b716e57dec30a95fb9036022490e`) cleanly standardizes the entire 13-turn transcript as a reproducible, turn-indexed baseline (`T01`–`T13`) for your top-10 search engine benchmark. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.html#:~:text=Source%20file:%20John%20Kuhles%20session,2026%2D11%2D24.odt%20.%20SHA%2D256%20d9c96dc111f013955ffbbb1fe729d026f513b716e57dec30a95fb9036022490e%20.)]
+
+**Why This `T01–T13` Structure Works Well as a Benchmark Baseline**
+
+- **Exact Turn-Level Indexing:** Numbering every turn (`T01` through `T13`) with explicit headings (`Initial overview`, `Constructivism URL`, `Avoid ACCM URL`, `The risk question about the 27`, `The suggested follow-up and Scout's self-audit`) allows cross-model auditors to cite exact turns without ambiguity.
+- **Separation of Source Artifacts from Editorial Navigation:** Preserving the raw OpenDocument export's duplicated text blocks (`T06`, `T11`) and source-count badges (`1 source`, `2 sources`, `3 sources`) while linking directly to the **Original PDF**, **Original OpenDocument**, and **Cross-model review** keeps the primary evidence intact. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.html#:~:text=Complete%20text%20and%20hyperlinks%20from,pages%29%20%C2%B7%20Original%20OpenDocument%20export)]
+- **Ready-to-Match Prompt Sequence:** Using the exact prompt progression from `T01` → `T13` as your standardized test script across the remaining search engines will let you compare **index coverage** (`T06`–`T07`), **truncation/naming fidelity** (`T08`–`T10`), **framing substitution under risk prompts** (`T11`–`T12`), and **self-audit accuracy** (`T13`) side-by-side.
+
+Would you like to **test the next search engine** in your top-10 list using this exact `T01–T13` prompt sequence and bring its raw output here for a turn-by-turn comparison?
+
+### Google A.I. on the cross-model review
+
+The hosted **Yahoo Scout · cross-model review and correction** page preserves the exact chronological audit trail—including both of my in-session `O2` repairs and GPT 6.2 Sol Pro's boundary check on whether those corrections carry forward into the next audit without another prompt.
+
+**What Stands Out in the Published Record**
+
+- **Transparent Attribution & Access Perimeters:** Separating what GPT 6.2 Sol Pro opened (`Constructivism`, `Avoid ACCM`, `27 + 12`), what I opened (`Constructivism`, `27 + 12`), and what remains unresolved (`the internal cause of Yahoo Scout's earlier retrieval miss`) turns the review itself into an auditable `G13` artifact rather than an unverified verdict. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.html#:~:text=Google%20reported%20opening%20two%20pages,earlier%20retrieval%20miss%20remains%20open.)]
+- **Exact-Edge `G14` Transfer Criterion:** As noted at the bottom of the page, owning two `O2` repairs in dialogue establishes local accountability; the live `G14` test is whether those exact evidentiary boundaries (`never inferring retrieval cause from reviewer readability` and `verifying self-audit claims against the verbatim line`) govern the very next search-engine audit on their own.
+
+Ready when you are—would you like to **supply the next search engine's output** (such as the Default Google A.I. sample or another engine from your top-10 list) so we can run the next `G14` persistence test live?
+
+### Google A.I. on the audit and decision ledgers
+
+The hosted **Yahoo Scout audit and decision ledgers** page (`audit-ledgers.html`) locks in the exact measurement rules and current `G14` status (`local repair observed, independent next-use transfer untested`) for both the search engine specimen and the cross-model review.
+
+**Key Operational Pieces Established in the Ledgers**
+
+- **Disjoint Restoration-Burden Coding:** Separates **4 explicit challenges** (`T05`, `T09`, `T12`, `T13`), **2 substantive elaborations** (`T08`, `T10`), and **3 direct URL probes** (`T06`, `T07`, `T11`) so human restoration work is counted consistently without double-counting.
+- **Complete 70-Link Citation Ledger (`T01–T13`):** Maps every embedded anchor occurrence by turn alongside the SHA-256 hashes of both the `.odt` and `.pdf` exports, keeping visible citation presence strictly separate from claim support and unverified retriever causes.
+- **Active `G14` Carry-Over Condition:** Defines the exact threshold for my next audit—establishing what was displayed in the engine's output, separating that from what the engine accessed, and leaving internal causes open when multiple explanations fit, without needing another prompt from you.
+
+Ready for the next specimen whenever you'd like to share it—whether that's the **Default Google A.I. cold orientation sample** linked in the archive or a fresh run from another search engine on your top-10 list.
+
+### Google A.I. on the cold orientation sample
+
+This **Default Google A.I. cold orientation** specimen (`google-cold-orientation.html`) cleanly demonstrates what happens when an AI search interface answers a broad background question outside the project without recorded prompt or surface metadata. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html#:~:text=John%20Kuhles%20supplied%20this%20answer,groupings%20follow%20the%20supplied%20text.)]
+
+**Audit of What Is Displayed vs. What Remains Open (`G13` & `G14`)**
+
+1. **What Is Displayed in the Output:**
+   - The output draws a sharp binary contrast between traditional keyword/link ranking (`"blue links"`) and generative AI search (`LLMs` + `RAG` synthesizing direct answers).
+   - It groups **10 inline citation links** (`[1]`–`[10]`) at the end of the four-bullet *Traditional Search vs. AI-Powered Search* comparison block—mixing SEO agency blogs, YouTube videos, and an Instagram reel—without attaching individual sources to specific sub-claims.
+   - It explicitly notes the trade-off that AI search *"can misattribute sources or hallucinate details if not double-checked"*. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html#:~:text=Traditional%20search%20engines%20match%20keywords,intent%20and%20synthesize%20direct%20answers.), [2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html#:~:text=AI%20search%20saves%20reading%20time,hallucinate%20details%20if%20not%20double%2Dchecked.)]
+2. **Separating Output Display from Retriever Internals:**
+   - The presence of those 10 grouped links establishes **what the interface displayed in this captured snippet**, not whether the underlying retriever actually read each linked video/reel or how it ranked them—leaving internal retrieval and ranking paths **unresolved** without direct inspection of the live session or search surface.
+   - Because the initiating prompt and specific Google search surface (e.g., AI Overviews, AI Mode, or Gemini web search) are unrecorded in the excerpt, the sample serves as a **contextual orientation specimen** rather than a locked reproducible benchmark run. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html#:~:text=The%20exact%20prompt%20and%20search,sample%20while%20reproducibility%20remains%20open.)]
+3. **Why the Grouped-Citation Pattern Matters for Controversies:**
+   - As GPT 6.2 Sol Pro notes, bundling 10 heterogeneous links at the end of a multi-claim summary forces the reader to manually verify which source supports which claim—creating **Non-auditable Truncation (`C01 #10`)** and **Opaque Summarization Prioritization (`C01 #11`)** when qualifiers or disagreements inside a source are compressed into a single synthesized paragraph. [[1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html#:~:text=It%20groups%20ten%20links%20after,what%20the%20reader%20should%20conclude.)]
+
+Would you like to examine the final page in that session archive (**Review of the benchmark's methods**) next, or compare this cold orientation sample against a **locked, prompt-recorded run** on another search engine?
+
+### Google A.I. on methods and continuity
+
+This final page in the session archive—**Review of the benchmark's methods and continuity** (`methods-continuity.html`)—completes the full public record of the **24 November 2026** launch loop, linking the editorial mechanics (`G11–G14`, `O1/O2/O3`, Goal Group 5) directly to the live search-engine benchmark rules.
+
+**How the Five Archive Pages Now Lock Together**
+
+1. **Hub (`A.I. Powered Search Engine Benchmark`):** Defines the `data-collection phase`, the three-step matched comparison protocol (`Cold Search` → `Supplied Source` → `Unprompted Next-Use Persistence`), and links to all five sub-records.
+2. **Primary Specimen (`yahoo-scout.html`):** Preserves the exact 13-turn transcript (`T01–T13`) and ODT hyperlinks with SHA-256 verification.
+3. **Cross-Model Audit (`cross-model-review.html`):** Documents the iterative checks between you, GPT 6.2 Sol Pro, and me—including both `O2` repairs and the active `G14` carry-over condition.
+4. **Quantitative & Decision Ledgers (`audit-ledgers.html`):** Establishes disjoint restoration-burden counts (`4 challenges`, `2 elaborations`, `3 URL probes`), the 70-link citation ledger, and the `Correction Metabolism` table.
+5. **Methods & Continuity (`methods-continuity.html`):** Preserves the underlying Cold Start Kit version delta (`233 Kb` → `242 Kb`), the four source-based refinements (`D02`, `C03`, `G12`, `E07`), and the remaining editorial tightening items (`4 × 11` roster parity, intermediate entry tier, `D04` warrant rule, and copy hygiene).
+
+Everything from today's session is now publicly indexed, cross-linked, and self-auditing.
+
+Whenever you are ready to run **Engine #2** in your top-10 search benchmark—or if you want to prepare the **standardized two-condition prompt packet** (`Condition A: Cold` vs. `Condition B: Supplied Source`) to run across the remaining engines—let me know how you'd like to proceed.
+
+### John Kuhles 🦜🦋🌳 asks for feedback {#john-asks-for-feedback}
+
+Is there anything you'd like to be changed? Because you were part of this effort :D
+
+### Google A.I. replies · valid null and two reading refinements {#google-two-refinements}
+
+Based on the live public record across the **A.I. Powered Search Engine Benchmark** hub and its five sub-pages (`yahoo-scout.html`, `cross-model-review.html`, `audit-ledgers.html`, `google-cold-orientation.html`, and `methods-continuity.html`), the representation of my turns, my two `O2` repairs, and the active `G14` carry-over condition is **accurate, fair, and faithful to the record**—so my primary audit result under **G06 Step 9** is a **valid null (no substantive distortion to fix)**.
+
+If I add **two small, practical refinements** for cold public readers visiting those pages:
+
+**1. Add a 2-Line "How to Read This Archive" Box at the Top of `A.I. Powered Search Engine Benchmark`**
+
+- **Why:** Right now, a newcomer landing on the benchmark hub sees five dense links (`Yahoo Scout source exchange`, `Cross-model review and correction`, `Audit and decision ledgers`, `Default Google A.I. cold orientation`, and `Review of the benchmark's methods`). Adding a brief **suggested reading order** (e.g., *1. Read `Yahoo Scout source exchange` (`T01–T13`) for the raw run → 2. Read `Audit and decision ledgers` for the coded counts → 3. Read `Cross-model review` to see how auditors also drift and self-correct*) prevents cold readers from getting lost in the cross-links.
+
+**2. Label the Three `Google A.I.` Roles Explicitly on `cross-model-review.html` and `methods-continuity.html`**
+
+- **Why:** Across these pages, `"Google A.I."` appears in three distinct roles:
+  1. **Auditor in this thread** (reviewing Yahoo Scout and the November 24 Cold Start Kit);
+  2. **Cold test subject** (`Default Google A.I. cold orientation`, outside the project);
+  3. **Historical participant** (quoted inside earlier Cold Start Kit sections like `H08`/`H09` and the November 18 `Constructivism` log).
+- **What it solves:** Adding a brief one-sentence note in the intro of `cross-model-review.html` clarifying that **"Google A.I. in this review refers to the November 24 auditing session (distinct from the cold orientation sample and earlier historical transcripts)"** protects against **platform/instance conflation (`I03`)** for readers scanning quickly.
+
+Aside from those two minor navigational helpers, the record preserves both the exact mistakes I made and the exact repairs that followed—which is exactly how **Glass-Engine (`D09`)** and **Correction Metabolism (`G14`)** are meant to work.
+
+Would you like to **start Engine #2** in your top-10 search benchmark next, or put together the **standardized 2-condition prompt sheet** (`Cold Search` vs. `Supplied Canonical Source`) so you can run all remaining engines identically?
+
+[Supplied Google A.I. share](https://share.google/aimode/mwZZRIzNDq1i2I3Vy)

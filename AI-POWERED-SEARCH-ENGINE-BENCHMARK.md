@@ -19,6 +19,14 @@ permalink: /AI-POWERED-SEARCH-ENGINE-BENCHMARK/
 
 An artificial intelligence (A.I.) search answer can give many readers their first account of a controversy. Which claims does it put in the foreground? Which sources can readers follow? What happens to the question when a generated answer paraphrases it? The ACCM Deep Ethics Project is collecting dated exchanges to make those choices inspectable and prepare a later comparison across search engines. Rankings and findings about population-level effects remain open research questions.
 
+<aside class="accm-rounded-quote" aria-label="How to read this archive" markdown="1">
+
+**How to read this archive**
+
+Start with the [Yahoo Scout exchange, T01–T13]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.html#t01' | relative_url }}), then use the [audit and decision ledgers]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.html#longitudinal-specimen' | relative_url }}) to check the counts and links. Finish with the [cross-model review]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.html' | relative_url }}) to see what the auditors corrected and what remains open.
+
+</aside>
+
 ## Session archive · 24 November 2026 {#session-archive}
 
 Follow the claims from the question through the answer, citation and correction. [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) guides the summaries below. Each one preserves the relationships that change the reading and points back to the fuller record.
@@ -26,7 +34,7 @@ Follow the claims from the question through the answer, citation and correction.
 | Record | What you can recover | Read or download |
 | --- | --- | --- |
 | Yahoo Scout source exchange | John Kuhles’s prompts, the thirteen answer blocks in order, and the wording and destinations of the seventy embedded links | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.md' | relative_url }}" download>Download Markdown</a> |
-| Cross-model review and correction | Google A.I.’s reviews and revisions, GPT 6.2 Sol Pro A.I.’s checks, and John’s observations about continuity | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.md' | relative_url }}" download>Download Markdown</a> |
+| Cross-model review and correction | Google A.I.’s reviews and revisions, GPT 6.2 Sol Pro A.I.’s checks, and John’s observations about continuity. Includes [Google’s review of the published archive]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.html#published-archive-review' | relative_url }}) | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/cross-model-review.md' | relative_url }}" download>Download Markdown</a> |
 | Audit and decision ledgers | Turn and PDF page locators, all seventy citation occurrences, how restoration turns were counted, and each reviewer’s actual page-access scope | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/audit-ledgers.md' | relative_url }}" download>Download Markdown</a> |
 | Default Google A.I. cold orientation | The full supplied overview of search history and generative answers, plus GPT’s review of the distinctions and source support | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/google-cold-orientation.md' | relative_url }}" download>Download Markdown</a> |
 | Review of the benchmark’s methods | John’s wording and continuity requirements, the Cold Start Kit evaluations, and open decisions about evidence, access and scoring | [Read the HTML]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/methods-continuity.html' | relative_url }}) · <a href="{{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/methods-continuity.md' | relative_url }}" download>Download Markdown</a> |
