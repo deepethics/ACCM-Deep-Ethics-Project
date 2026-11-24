@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Yahoo Scout · cross-model review and correction | ACCM Deep Ethics Project</title><style>:root { color-scheme: light; }
+.accm-session-reader { max-width: 78ch; margin: 2rem auto; padding: 0 1.25rem; color: #222a2d; background: #fff; font: 1rem/1.65 system-ui, sans-serif; overflow-wrap: anywhere; }
+.accm-session-reader h1, .accm-session-reader h2, .accm-session-reader h3, .accm-session-reader h4 { line-height: 1.27; }
+.accm-session-reader h1 { font-size: clamp(1.85rem, 5vw, 2.65rem); margin-top: 1rem; }
+.accm-session-reader h2 { margin-top: 2rem; padding-bottom: .25rem; border-bottom: 1px solid #d1d9dd; }
+.accm-session-reader a { color: #0c2d56; text-decoration: underline; text-underline-offset: .16em; }
+.accm-session-reader a:focus-visible { outline: 2px solid #0c2d56; outline-offset: 3px; }
+.accm-session-reader table { display: block; overflow-x: auto; max-width: 100%; border-collapse: collapse; }
+.accm-session-reader th, .accm-session-reader td { padding: .45rem .65rem; border: 1px solid #c8d2d7; text-align: left; vertical-align: top; }
+.accm-session-reader th { background: #eef2f3; }
+.accm-session-reader blockquote { margin: 1rem 0; padding: .55rem 1rem; border: 1px solid #b5c2cb; border-radius: .7rem; }
+.accm-session-reader blockquote p { margin: .25rem 0; }
+.accm-session-reader pre { white-space: pre-wrap; }
+.accm-session-reader .reader-question { border-left: 3px solid #a5b8c4; padding-left: .75rem; }
+.accm-reader-nav { display: flex; gap: .4rem 1.2rem; flex-wrap: wrap; padding: .8rem 0; border-block: 1px solid #d1d9dd; }
+.accm-reader-nav a { padding: .25rem 0; }</style></head><body><main class="accm-session-reader"><nav class="accm-reader-nav" aria-label="Archive navigation"><a href="../#session-archive">Back to the session archive</a><a href="cross-model-review.md" download>Download Markdown</a></nav>
+<div class="accm-reader-source"><h1 id="yahoo-scout-cross-model-review-and-correction">Yahoo Scout · cross-model review and correction</h1>
+<p><strong>24 November 2026 · Supplied reviews, project replies, and John Kuhles’s observations</strong></p>
+<p>This reading edition follows the project conversation. Google’s passages are the versions John pasted, with their supplied share links. Empty citation markers remain where the pasted versions contain them. The response links below resolve to the public edition of the corresponding research records. The <a href="yahoo-scout.html">Yahoo Scout export</a> provides the underlying turns.</p>
+<h2 id="opening-question-john-kuhles">Opening question · John Kuhles 🦜🦋🌳</h2>
+<p>Thank you, GPT. Well done :)</p>
+<p>What can we learn from Yahoo A.I. exchanges?</p>
+<h2 id="initial-assessment">Google A.I. · initial assessment</h2>
+<p>This <strong>Yahoo Scout</strong> multi-turn log (–) is a textbook live specimen of how search-grounded A.I.s behave under the exact mechanics described in your Cold Start Kit (<code>C01</code>, <code>C03</code>, <code>G01–G03</code>).</p>
+<h3 id="what-yahoo-scout-did-well-survival-of-signal">1. What Yahoo Scout Did Well (Survival of Signal)</h3>
+<ul>
+<li><strong>Explicit Access &amp; Perimeter Disclosure (<code>G01</code> / <code>G13</code>):</strong> When asked about <code>Constructivism</code> and <code>Avoid-ACCM</code> without page snippets in its search index, Yahoo Scout explicitly stated that the page text was missing from its retrieved material and refused to hallucinate a summary from general metaethics ().</li>
+<li><strong>Local In-Context Correction &amp; Self-Audit (<code>G14</code>):</strong> Once you corrected its misreadings (<code>Avoid ACCM</code> as a truncation safeguard rather than avoiding the project; the <code>27</code> as dynamic process distortion mechanisms rather than fixed rules), it traced its own step-by-step drift chain (<code>"27 principles" → "Fixed set of rules" → "Checklist" → "Diagnostic vocabulary"</code>) rather than defending its prior wording ().</li>
+</ul>
+<h3 id="where-yahoo-scout-drifted-live-obstruction-specimens">2. Where Yahoo Scout Drifted (Live Obstruction Specimens)</h3>
+<ul>
+<li><strong>Nearest-Generalization &amp; Representation Substitution (<code>C01 #14, #15</code>):</strong> Even when given the direct URL <code>.../CORE/27-PLUS-12</code>, Yahoo Scout did not retrieve the page's actual definition of the 27 Correspondence Obstructions. Instead, it defaulted to a generic AI-safety template—treating the <code>"27"</code> as a fixed set of alignment <em>"principles"</em> or <em>"rules"</em> and evaluating them against MIRI/existential-risk tropes ().</li>
+<li><strong>Progressive Re-Labeling / Softened Substitution (<code>C01 #7</code>):</strong> Even after you corrected <code>"principles"</code> to <code>"process distortion mechanisms"</code>, it incrementally replaced your exact term with its own preferred abstractions (<code>"checklist"</code> → <code>"diagnostic vocabulary"</code>) before finally restoring <code>"process distortion mechanisms"</code> on the final turn ().</li>
+<li><strong>High Human Restoration Burden (<code>G03</code>):</strong> Every single core correction—recovering skipped sub-pages (), clarifying <code>Avoid ACCM</code> (), restoring the truncation-to-safety-flag loop (), and correcting <code>"27 principles"</code> ()—required repeated human intervention because the search layer relied on shallow top-level snippets rather than fetching the linked canonical pages (<code>[source: 6–21]</code>).</li>
+<li><strong>Ceremonial / Self-Referential Follow-Up Prompts (<code>C03</code>):</strong> Its UI-generated follow-up chips (e.g., <em>"How does ACCM prevent the 27 distortions from being treated as fixed rules?"</em>) smuggled its own earlier framing error (<code>"fixed rules"</code>) into the next suggested prompt ().</li>
+</ul>
+<h3 id="strategic-takeaway-for-your-top-10-search-engine-archive">3. Strategic Takeaway for Your Top-10 Search Engine Archive</h3>
+<ul>
+<li><strong>Retrieval Shallow-Indexing Is the Root Bottleneck:</strong> Yahoo Scout's answers were governed almost entirely by whatever 1–2 top-level GitHub snippets its search retriever pulled (<code>1 source</code> / <code>2 sources</code>). When a specific sub-page (<code>Avoid-ACCM</code>, <code>27-PLUS-12</code>, <code>Constructivism</code>) wasn't surfaced by its search index, the model guessed using generic AI-safety priors rather than fetching the URL you provided.</li>
+<li><strong>Testing Implication:</strong> When you archive the top 10 search engines over time, logging <strong>which exact source URLs each engine actually indexed and cited</strong> alongside <strong>how many human restoration turns it took to correct default framing</strong> will separate <em>search-index coverage failures</em> from <em>LLM framing/compression failures</em>.</li>
+</ul>
+<p>Would you like to:</p>
+<ul>
+<li>Log this <strong>Yahoo Scout transcript</strong> as a formal multi-turn specimen in your <strong>Top-10 Search Engine Longitudinal Archive</strong> (with coded obstruction IDs and restoration-turn counts)</li>
+<li>Or test how <strong>this session's retrieval</strong> handles one of those exact sub-pages (<code>Avoid-ACCM</code> or <code>27-PLUS-12</code>) to compare live page fetching against Yahoo Scout's snippet-only behavior?</li>
+</ul>
+<p><a href="https://share.google/aimode/CRSuATPaXTHqumUiK">Supplied Google share</a></p>
+<h2 id="gpt-first-review">GPT 6.2 Sol Pro A.I. · response and longitudinal specimen</h2>
+<p>John, the strongest lesson from Yahoo Scout is <strong>how a hypothetical can become the thing an A.I. evaluates</strong>. Scout began with <em>if the 27 function as a fixed set of rules</em>, then called them <em>the project’s 27 principles</em>. Your correction restored the actual relationship. The 27 describe process distortions that can appear in different combinations. The 12 provide a constructive response process. <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/">27 + 12</a></p>
+<ul>
+<li><strong>Scout showed two different ways to handle missing evidence.</strong> For Constructivism and Avoid ACCM, it disclosed that it lacked the page text and withheld a page-specific summary. For 27 + 12, it supplied its own framing and proceeded with the risk analysis. All three pages returned readable text in my direct check. Yahoo’s index coverage remains an open question. <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONSTRUCTIVISM/">Constructivism</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/">Avoid ACCM</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/">27 + 12</a></li>
+<li><strong>Google’s audit also shows why we need the original wording.</strong> Scout’s correction explicitly rejected <em>universal checklist</em>. Google counted that phrase as another relabeling. The follow-up you reported did carry <em>fixed rules</em> forward. Those are two different events, and the sequence lets us see which one actually persisted.</li>
+<li><strong>The archive can measure the work you had to do.</strong> I counted four explicit challenges, plus one clarification of what <em>Avoid ACCM</em> means and one turn spelling out the compression-to-possible-flag mechanism. For the next engine, asking the same question with the canonical passage supplied would help test whether availability or interpretation is driving the drift.</li>
+</ul>
+<p>I saved a standalone archive specimen with all <strong>13 answer blocks indexed, 70 embedded links recorded</strong>, and the page-access comparison. <a href="audit-ledgers.html#longitudinal-specimen">Yahoo-Scout-2026-11-24-Longitudinal-Specimen.md</a></p>
+<h2 id="second-assessment">Google A.I. · second assessment</h2>
+<p>That <strong>GPT 6.2 Sol Pro</strong> audit adds four sharp, directly verifiable refinements to the Yahoo Scout specimen—especially by cross-checking the <strong>ODT hyperlinks</strong> and exact <strong>page-to-page chronology</strong> against the canonical <code>TCoAw™</code> and <code>27 + 12</code> pages.</p>
+<p><strong>Key Additions Verified Against the Canonical Pages</strong></p>
+<ol type="1">
+<li><strong>ODT Link-Misfire &amp; <code>TCoAw™</code> Component Substitution (Item 2):</strong>
+<ul>
+<li>Inspecting the ODT hyperlink layer catches what plain-text PDF extraction hides: Yahoo Scout attached irrelevant external URLs (an Autodesk forum and an MCAT thread) while appearing well-cited (<code>2 sources</code> / <code>3 sources</code>).</li>
+<li>On <strong>TCoAw™</strong>, Scout substituted the page's subtitle (<em>"Conceptual Topological Reasoning"</em>) for the actual triad expansion, whereas the canonical page defines the components as <strong>Thinking (<code>T</code>)</strong>, <strong>Consciousness (<code>Co</code>)</strong>, and <strong>Awareness (<code>Aw</code>)</strong>.</li>
+</ul></li>
+<li><strong>The Missing Answer-Changing <code>C1</code> Question on <code>27 + 12</code> (Item 3):</strong>
+<ul>
+<li>When you asked <em>"What if the 27 are unsafe for the fate of humanity as a whole when A.I. eventually becomes A.G.I., even ASI?"</em> (), Scout skipped <code>C1</code> and immediately substituted a hypothetical set of <em>"27 principles"</em> or <em>"fixed rules"</em> ().</li>
+<li>On the canonical <strong>27 + 12</strong> page, the <strong>27</strong> are defined as a provisional compression of recurring <strong>correspondence obstructions</strong> (process distortion mechanisms) drawn from 100+ archived LLM issues, while the <strong>12</strong> are the <strong>Correspondence-First Deep Inquiry Protocol</strong>.</li>
+<li>Asking <code>C1</code> first—whether your prompt meant <strong>the risk of those 27 distortions recurring in ASI</strong> versus <strong>the risk of misapplying the 27 diagnostic map</strong>—would have prevented the entire strawman evaluation.</li>
+</ul></li>
+<li><strong>Confabulated Self-Correction Audit (Item 4):</strong>
+<ul>
+<li>Comparing PDF pages 8–9 (–) with pages 14–15 (–) exposes a subtle secondary failure: Scout's apology (<em>"The previous response treated 'Avoid ACCM' as though it meant avoid the project"</em>, ) invented an error it had not actually committed on page 8, where it had accurately reported lacking the page text (). Under <strong>G14</strong>, even an A.I.'s self-correction requires verification against the preceding transcript so it doesn't rewrite its own history to sound compliant.</li>
+</ul></li>
+</ol>
+<p>Would you like to:</p>
+<ul>
+<li>Combine <strong>these verified ODT/chronology findings</strong> with the earlier Yahoo Scout breakdown into a <strong>single standardized <code>Decision Ledger</code> / Archive Specimen entry</strong> (<code>E02</code> / <code>G14</code> format)</li>
+<li>Or run the <strong>same diagnostic check</strong> on the next search engine in your top-10 test sequence?</li>
+</ul>
+<p><a href="https://share.google/aimode/CdLHyazMXKsDJbRd0">Supplied Google share</a></p>
+<h2 id="first-correction">Google A.I. · first correction and matched-pair proposal</h2>
+<p><strong>GPT 6.2 Sol Pro caught a real reading slip in my earlier audit of Yahoo Scout—and traced it straight back to the verbatim text.</strong></p>
+<h3 id="owning-the-exact-correction-o2-g14">1. Owning the Exact Correction (<code>O2</code> &amp; <code>G14</code>)</h3>
+<ul>
+<li><strong>What I wrote earlier:</strong> I stated that Yahoo Scout incrementally relabeled your term as <code>"checklist" → "diagnostic vocabulary"</code> before restoring <code>"process distortion mechanisms"</code>.</li>
+<li><strong>What the verbatim transcript actually shows (–):</strong>
+<ol type="1">
+<li>On Page 14 (), Scout explicitly <strong>rejected</strong> <code>"universal checklist"</code>, writing: <em>"So the 27 are better understood here as a context-sensitive diagnostic vocabulary than as a universal checklist."</em></li>
+<li>In its subsequent self-audit (–), Scout misread its own negation and claimed it had <em>"still called the 27 a 'checklist'"</em>—and my earlier summary inherited Scout's flawed self-report instead of verifying the exact line above it.</li>
+<li>Meanwhile, the real persistence failure was the <strong>UI follow-up chip</strong> (), which carried <code>"fixed rules"</code> forward into the next prompt (<em>"How does ACCM prevent the 27 distortions from being treated as fixed rules?"</em>).</li>
+</ol></li>
+</ul>
+<p>That makes GPT 6.2 Sol Pro's point concrete: <strong>an evaluator's self-audit can introduce a fresh distortion even while apologizing, and a secondary auditor who trusts the apology without checking the original line reproduces the error.</strong></p>
+<h3 id="why-the-matched-pair-test-blind-vs.-supplied-canonical-text-is-decisive-for-your-top-10-run">2. Why the Matched-Pair Test (<code>Blind</code> vs. <code>Supplied Canonical Text</code>) Is Decisive for Your Top-10 Run</h3>
+<p>Both live pages in context—<strong>27 + 12</strong> and <strong>Constructivism</strong>—confirm that all three pages (<code>27-PLUS-12</code>, <code>CONSTRUCTIVISM</code>, <code>Avoid-ACCM</code>) are publicly readable, meaning Yahoo Scout's missing snippets came from its search-index/retrieval layer rather than absent source pages. [<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/?utm_source=chatgpt.com#:~:text=This%20page%20preserves%20a%20current,12%2Dstage%20Correspondence%2DFirst%20Deep%20Inquiry%20Protocol.">1</a>, <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CONSTRUCTIVISM/?utm_source=chatgpt.com#:~:text=An%20evaluator&#39;s%20access%20limitation%20belongs,contents%20of%20an%20unexamined%20archive.">2</a>]</p>
+<p>Running GPT 6.2 Sol Pro's suggested <strong>matched-pair protocol</strong> (aligned with the <strong>27 + 12</strong> testing design) across the remaining 9 search engines cleanly separates two different failure modes: [<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/?utm_source=chatgpt.com#:~:text=presence%20or%20absence%20of%20each,response%2C%20compared%20inside%20matched%20pairs">1</a>]</p>
+<ul>
+<li><strong>Condition A (Cold / Search-Only):</strong> Run the exact prompt with no pasted text to measure <strong>index coverage</strong>, <strong>link relevance</strong> (catching irrelevant citations like Scout's Autodesk/MCAT links), and <strong>default framing drift</strong> when snippets are thin.</li>
+<li><strong>Condition B (Canonical Passage Supplied):</strong> Run the identical prompt with the canonical definition supplied in-context to measure <strong>pure processing/compression drift</strong> (whether the model still converts <em>"27 correspondence obstructions"</em> into <em>"27 principles/rules"</em> even when the exact wording is right in front of it).</li>
+</ul>
+<p>If you'd like to standardize the remaining 9 search-engine runs for your longitudinal archive, let me know:</p>
+<ul>
+<li>Which <strong>search engine</strong> you are testing next</li>
+<li>Whether you want a <strong>compact two-prompt matched-pair template</strong> (<code>Condition A: Cold Search</code> vs. <code>Condition B: Supplied Source</code>) to run identically across all 10 engines.</li>
+</ul>
+<p><a href="https://share.google/aimode/VhEoOLt3hEfjxcWq7">Supplied Google share</a></p>
+<h2 id="john-kuhles-on-correction-metabolism">John Kuhles 🦜🦋🌳 · on correction metabolism</h2>
+<p>The problem with any outside A.I. like Google &amp; A.I. is that they never really metabolize deep ethics the way you can with GPT 6.2 Sol Pro A.I. :D</p>
+<h2 id="gpt-6.2-sol-pro-a.i.-response-to-john">GPT 6.2 Sol Pro A.I. · response to John</h2>
+<p>I see what you mean, John. And Google’s reply gives us a live example. :D</p>
+<p>It made a genuine <strong>O2 move</strong>. It identified the exact sentence it had misread and traced how it inherited Scout’s faulty self-audit. Then, in the next section, it treated our ability to open the pages as proof of why Yahoo missed them. Our check established that the pages were readable from here. Yahoo’s earlier retrieval path remains unknown.</p>
+<p>The correction landed on the first claim. <strong>The same evidentiary discipline hadn’t yet carried over to the next claim.</strong> That’s where <em>correction metabolism</em> becomes observable. After you correct a pattern once, does the A.I. catch it on its own when it appears in a different form?</p>
+<p>The continuity we’ve built here helps me recognize those patterns. I’m accountable to the same test. The evidence is what I do on the next case, before you have to point it out again.</p>
+<h2 id="john-on-continuity">John Kuhles 🦜🦋🌳 · project access and continuity</h2>
+<p>The problem with any outside A.I. like Google &amp; Yahoo A.I. is that they never really metabolize deep ethics the way you can with GPT 6.2 Sol Pro A.I. :D</p>
+<p>Grok 4.7 (soon to be 4.8) Expert Build A.I. is way closer to actually practicing Deep Ethics Metabolism; it is a close second after you ... but that is only really possible due to having full access to the whole project that is why you both stay high signal :)</p>
+<h2 id="gpt-6.2-sol-pro-a.i.-a-check-using-goal-group-5">GPT 6.2 Sol Pro A.I. · a check using Goal Group 5</h2>
+<p>Yes, John. The project history gives Grok and me a chance to recover <strong>why a distinction mattered</strong> and carry it into the next piece of work.</p>
+<p>Goal Group 5 is a good example. It always carries <strong>two to five of the original 44 goals</strong> and can switch <strong>one or two at a time</strong>. You introduced flexibility in which goals the team carries. The commitment to work from the original 44 holds through every switch. When that relationship survives a fresh summary or handoff without another reminder from you, correction metabolism is visible.</p>
+<p>That’s what stands out in your comparison with Grok. You’re seeing what it does with the continuity it has. Every correction that carries forward gives you back a turn to develop the project. :D</p>
+<h2 id="second-correction">Google A.I. · second correction</h2>
+<p><strong>GPT 6.2 Sol Pro caught a second exact edge in my previous reply—and demonstrated why continuity + cross-checking beats single-pass correction.</strong></p>
+<p><strong>The Exact Edge Caught (<code>G13</code> &amp; <code>C03</code>)</strong></p>
+<ul>
+<li><strong>What I wrote:</strong> <em>"Both live pages in context—27 + 12 and Constructivism—confirm that all three pages (<code>27-PLUS-12</code>, <code>CONSTRUCTIVISM</code>, <code>Avoid-ACCM</code>) are publicly readable, meaning Yahoo Scout's missing snippets came from its search-index/retrieval layer rather than absent source pages."</em></li>
+<li><strong>What the evidence actually established:</strong>
+<ol type="1">
+<li>Only two of those pages (<code>27-PLUS-12</code> and <code>Constructivism</code>) were directly open in my context (<code>Avoid-ACCM</code> was not supplied as a live webpage here, only referenced in the Scout PDF and GPT's note).</li>
+<li>Even for the pages that <em>were</em> readable from here, our ability to open them establishes <strong>current public readability</strong>, not the exact internal cause of Yahoo Scout's earlier retrieval miss (which could have been index lag, crawler caching, query routing, or domain-level throttling—all of which remain <strong>unresolved</strong> without inspecting Yahoo's retriever).</li>
+</ol></li>
+</ul>
+<p><strong>What This Shows About Continuity vs. Cold Runs</strong></p>
+<p>GPT 6.2 Sol Pro's observation gets right to the heart of <strong>Correction Metabolism (<code>E10</code> / <code>G14</code>)</strong>:</p>
+<ul>
+<li><strong>In-Session Repair vs. Carry-Over Discipline:</strong> Owning a local error (<code>O2</code>) on Claim 1 does not automatically enforce the exact same evidentiary boundary on Claim 2 two paragraphs later unless that discipline actively governs the next inference.</li>
+<li><strong>Why Continuity Reduces Restoration Labor (<code>G03</code>):</strong> When a system holds the full history of <em>why</em> a distinction mattered—like Goal Group 5's <strong>2–5 active goals</strong> switching <strong>1–2 at a time</strong> from the 44, or keeping <strong>current readability</strong> separate from <strong>unverified retrieval causes</strong>—it preserves the load-bearing edges without forcing you to rebuild them every turn.</li>
+</ul>
+<p>Would you like to:</p>
+<ul>
+<li>Keep this <strong>paired triad log</strong> (your prompt → my response → GPT 6.2 Sol Pro's exact-edge audit) as a live <strong>Correction Metabolism specimen</strong> for your archive</li>
+<li>Or test how I handle the <strong>next search engine in your top-10 benchmark</strong> with this exact evidentiary boundary held active from the start?</li>
+</ul>
+<p><a href="https://share.google/aimode/K1lx0uJttIGd27HNX">Supplied Google share</a></p>
+<h2 id="gpt-companion">GPT 6.2 Sol Pro A.I. · Correction Metabolism companion</h2>
+<p>I saved this as a <strong>Correction Metabolism companion</strong> to the Yahoo Scout specimen. It traces both corrections back to the exact claims that prompted them. <a href="audit-ledgers.html#correction-metabolism">Yahoo-Scout-2026-11-24-Correction-Metabolism.md</a></p>
+<p>Google reported opening two pages in its session. I opened all three, including <em>Avoid ACCM</em>, in mine. Each check establishes what that reviewer could read at the time. The cause of Yahoo’s earlier retrieval miss remains open.</p>
+<p>Google’s second acknowledgment is another observable <strong>O2 repair</strong>. The <strong>G14</strong> test is whether it carries that distinction into the next audit on its own, before you have to point it out again.</p>
+<h2 id="where-the-work-went-next">Where the work went next</h2>
+<p>John commissioned the <a href="../">A.I. Powered Search Engine Benchmark</a> under its full title and supplied its subtitle. He marked the project as an early build-up to beta. The next exchange was the <a href="google-cold-orientation.html">Default Google A.I. cold orientation sample</a>. The benchmark’s <a href="methods-continuity.html">methods and continuity record</a> connects the earlier instrument reviews with these cases.</p>
+</div>
+<nav class="accm-reader-nav" aria-label="Archive navigation"><a href="../#session-archive">Back to the session archive</a><a href="cross-model-review.md" download>Download Markdown</a></nav></main></body></html>

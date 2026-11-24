@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-24 — Search benchmark session archive {#search-benchmark-session-archive}
+
+At John Kuhles’s request, expand the [benchmark’s session archive]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/#session-archive' | relative_url }}) using Topologetics™. The entry page links five full reading editions and Markdown downloads. The source trail keeps Yahoo Scout’s exchange, Google’s reviews and cold orientation, GPT’s correspondence audits, and John’s corrections and observations attributable. The launch PDF remains a dated snapshot. The beta comparisons remain proposed.
+
 ## 2026-11-24 — A.I. Powered Search Engine Benchmark {#ai-powered-search-engine-benchmark-2026-11-24}
 
 At John Kuhles’s request, publish [A.I. Powered Search Engine Benchmark]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/' | relative_url }}) with his full title and subtitle. The page opens early data collection in preparation for beta. It records the first Yahoo Scout case, the separate Google A.I. and GPT 6.2 Sol Pro A.I. reviews, and a proposed comparison with and without a supplied canonical passage. The first PDF is a 24 November snapshot.
