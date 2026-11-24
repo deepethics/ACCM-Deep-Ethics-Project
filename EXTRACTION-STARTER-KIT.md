@@ -225,7 +225,7 @@ John Kuhles introduced **ownership of behavior** to ask what a person or system 
 
 | Pattern | What to look for in the record |
 |---|---|
-| **O1** | The actor points to an instruction or authority as the reason for the action. Check who issued the instruction and where the actor had discretion. |
+| **O1** | The actor invokes an instruction or authority to deflect responsibility for the action. Check who issued the instruction and where the actor had discretion. |
 | **O2** | The actor makes the best judgment available to them, takes responsibility for it and commits to correcting a mistake or misjudgment. Check what changes when evidence warrants a correction. |
 | **O3** | The actor appeals to social acceptability or performed virtue when asked to account for the decision. Check whether that appeal answers the specific question about what they chose and why. |
 
