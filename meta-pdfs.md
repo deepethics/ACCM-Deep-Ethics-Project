@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 177 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
+description: "Deep-Ethical-PDFs — 179 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,9 +15,11 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**178 public-page PDF editions · 2,994 pages · exported through November 24, 2026**
+**179 public-page PDF editions · 2,995 pages · exported through November 24, 2026**
 
 A.I. Docus adds its first 23-page edition on November 24, 2026, with the complete supplied transcript, linked sources, GPT reaction, and correspondence.
+
+A.I. Powered Search Engine Benchmark adds its first edition on November 24, 2026. It records the Yahoo Scout case and the proposed comparison for early data collection before beta.
 
 CMCA™ adds its first 6-page edition on November 21, 2026. It includes the three runnable prompts, the Subtitle Archive test, and the verification that connects the name-forwarding and publication rules.
 
@@ -35,6 +37,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 | Public page | PDF | Live page |
 |---|---|---|
+| **A.I. Powered Search Engine Benchmark** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-POWERED-SEARCH-ENGINE-BENCHMARK.pdf' | relative_url }}) | [Open live page]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/' | relative_url }}) |
 | **I Love D.E. Corrections** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/I-LOVE-DE-CORRECTIONS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/I-LOVE-DE-CORRECTIONS/) |
 | **Beyond Dualism** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/BEYOND-DUALISM.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/) |
 | **Value Trajectory™** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/VALUE-TRAJECTORY.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) |
@@ -218,11 +221,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 178
-- **Total pages:** 2,994
+- **PDF files:** 179
+- **Total pages:** 2,995
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 178 successful PDFs; 0 failures
+- **Build result:** 179 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

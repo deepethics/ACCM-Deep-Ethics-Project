@@ -165,6 +165,7 @@ Field, phase, flux, and jurisdiction. These pages describe what the core does wh
 - **[Human Insecurity, LLMs, Psychology and Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/)**
 - **[Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/)**
 - **[Search Engine Bias](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/)** — queries, ranking, source reputation, fact-checking, A.I. reuse and correction persistence; original Google records and a bounded Firecrawl comparison proposal.
+- **[A.I. Powered Search Engine Benchmark]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/' | relative_url }})** — early data collection before beta, beginning with a dated Yahoo Scout case and a proposed comparison of source use, framing and correction across engines.
 - **[Mind Games — Know the Tricks](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/)** — a shorter public bridge for recognizing how frames, labels, incentives, sincere intentions, and helpful rewrites can redirect creative potential.
 - **[PR Psychology — Deep Ethical PR Psychology Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/)** — public influence across marketing, media, politics, polling, lobbying, creators and campaigns, with sponsorship, psychological leverage, agency, correction and downstream effects kept inspectable. The complete November snapshot and correction relay are available from the page.
 

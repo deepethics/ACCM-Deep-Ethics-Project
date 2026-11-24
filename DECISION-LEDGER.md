@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-24 — A.I. Powered Search Engine Benchmark {#ai-powered-search-engine-benchmark-2026-11-24}
+
+At John Kuhles’s request, publish [A.I. Powered Search Engine Benchmark]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/' | relative_url }}) with his full title and subtitle. The page opens early data collection in preparation for beta. It records the first Yahoo Scout case, the separate Google A.I. and GPT 6.2 Sol Pro A.I. reviews, and a proposed comparison with and without a supplied canonical passage. The first PDF is a 24 November snapshot.
+
 ## 2026-11-24 — A.I. Docus follow-up readings {#ai-docus-model-review-2026-11-24}
 
 Expanded [A.I. Docus]({{ '/AI-DOCUS/#model-review' | relative_url }}) with the complete supplied Luna, MiMo, Gemini, Terra, and Grok contributions and their GPT replies. Added the provenance sequence and three proposed comparisons: the reach of a correction, unprompted recovery with and without source access, and whether a refusal can correct its own record. The proposed comparisons remain unrun.

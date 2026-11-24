@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 178
+**Public pages exported:** 179
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -16,13 +16,14 @@
 | [Activism vs A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ACTIVISM-VS-AI/) | [ACTIVISM-VS-AI.pdf](ACTIVISM-VS-AI.pdf) | `activism-vs-ai.md` |
 | [Beyond Agreemurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AGREEMURMELISM/Beyond-Agreemurmelism/) | [AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf](AGREEMURMELISM-HIGHER-ORDER-DISAGREEMENT.pdf) | `AGREEMURMELISM/Beyond-Agreemurmelism/index.md` |
 | [A.I.s & Health](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) | [AI-AND-HEALTH.pdf](AI-AND-HEALTH.pdf) | `AI-AND-HEALTH.md` |
-| [A.I. Docus](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-DOCUS/) | [AI-DOCUS.pdf](AI-DOCUS.pdf) | `AI-DOCUS.md` |
 | [A.I.s & UFO–UAP Disclosure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-UFO-UAP/) | [AI-AND-UFO-UAP.pdf](AI-AND-UFO-UAP.pdf) | `AI-AND-UFO-UAP.md` |
 | [AI Contributions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/) | [AI-CONTRIBUTIONS.pdf](AI-CONTRIBUTIONS.pdf) | `AI-CONTRIBUTIONS/index.md` |
 | [The October 17 Triad Event — Interlocked Topological Awareness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/) | [AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf](AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf) | `AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md` |
 | [From Archive to Local A.I. — Glass-Engine Preparation and the Vocabulary Costume Test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/local-ai-glass-engine-preparation/) | [AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf](AI-CONTRIBUTIONS-local-ai-glass-engine-preparation.pdf) | `AI-CONTRIBUTIONS/local-ai-glass-engine-preparation.md` |
 | [Beyond the Winning Theory — Trajectory Question Value Profile](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-CONTRIBUTIONS/trajectory-question-value-profile/) | [AI-CONTRIBUTIONS-trajectory-question-value-profile.pdf](AI-CONTRIBUTIONS-trajectory-question-value-profile.pdf) | `AI-CONTRIBUTIONS/trajectory-question-value-profile.md` |
+| [A.I. Docus](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-DOCUS/) | [AI-DOCUS.pdf](AI-DOCUS.pdf) | `AI-DOCUS.md` |
 | [A.I. Insiders Reports](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-INSIDERS-REPORTS/) | [AI-INSIDERS-REPORTS.pdf](AI-INSIDERS-REPORTS.pdf) | `AI-INSIDERS-REPORTS/index.md` |
+| [A.I. Powered Search Engine Benchmark](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-POWERED-SEARCH-ENGINE-BENCHMARK/) | [AI-POWERED-SEARCH-ENGINE-BENCHMARK.pdf](AI-POWERED-SEARCH-ENGINE-BENCHMARK.pdf) | `AI-POWERED-SEARCH-ENGINE-BENCHMARK.md` |
 | [AI Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/) | [AI-REACTIONS.pdf](AI-REACTIONS.pdf) | `AI-REACTIONS/index.md` |
 | [AI Trend Watch — Viral Expert Reports and ACCM Deep Ethics Project Reactions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/) | [AI-TREND-WATCH.pdf](AI-TREND-WATCH.pdf) | `AI-TREND-WATCH/index.md` |
 | [AI Trend Watch — Selection Methodology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-TREND-WATCH/methodology/) | [AI-TREND-WATCH-methodology.pdf](AI-TREND-WATCH-methodology.pdf) | `AI-TREND-WATCH/methodology.md` |

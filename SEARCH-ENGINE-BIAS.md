@@ -214,6 +214,8 @@ For search, an adequate answer includes what became easy to see, what became har
 
 ## Related pages
 
+- **[A.I. Powered Search Engine Benchmark]({{ '/AI-POWERED-SEARCH-ENGINE-BENCHMARK/' | relative_url }})** — follows dated A.I. search exchanges and prepares a cross-engine comparison of source use and correction.
+
 - [5G Controversy]({{ '/5G-CONTROVERSY/' | relative_url }}) — conditional safety objections, cumulative exposure, historical records, dual use and process quality.
 - [Before Summarizing]({{ '/BEFORE-SUMMARIZING/' | relative_url }}) — source identity, qualifiers, claim status and correction sequences.
 - [Deep]({{ '/DEEP/' | relative_url }}) — layered search fingerprints, relationships and operational depth.
