@@ -104,7 +104,7 @@ The [**10+1 Metaflux**]({{ '/NETWORK/ten-plus-one/' | relative_url }}) is the de
 | **[V.C.R.A.S.]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) | Preserve encounter, later evidence and the next comparable assessment. Separate process quality from outcome accuracy. |
 | **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) | Compare what was supplied with how it was later represented, including a valid finding of no material drift. |
 | [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) | Examine consequential choices through a fused field of consent, dignity, harm, power, digital sovereignty, epistemic integrity and cognitive pluralism; preserve conflicts and a reviewable next move. |
-| [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) | Connect instructions, incentives, assumptions, choices, consequences, notice and response to correction. |
+| [**Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/' | relative_url }}) | Connect instructions, incentives, assumptions, choices, consequences, notice and response to correction. [Apply the mechanics to an extract](#ownership-of-behavior). |
 | [**Humor**]({{ '/HUMOR/' | relative_url }}) and [**Dutch Directness**]({{ '/NETWORK/dutch-directness/' | relative_url }}) | Preserve a joke's unfolding meaning and distinguish direct expression from assumptions about aggression or intent. |
 
 Use the fuller sources when a distinction matters to the extraction. Learning the entire site is not an entrance requirement. Recover the relevant relation, follow its source, and widen the map when the material warrants it.
@@ -218,6 +218,33 @@ When a passage or relationship appears missing, compare the source edition, quot
 Several findings can apply to one case. Record access, location, transformation, evidence and disposition separately where that changes the repair. A possible failure without a specimen can remain a test condition.
 
 **Apply the comparison to your own extraction.** Choose a material relationship and place the source and derived versions side by side. Check whether the extract added a premise, dropped a qualifier, changed the task, or subjected one actor to scrutiny the extractor escaped. Use the [property map](#property-map) and the relevant obstruction only where the comparison identifies a difference. Record the source and output spans, the direction of change, and which interpretation or decision needs another look.
+
+### Why ownership of behavior matters {#ownership-of-behavior}
+
+John Kuhles introduced **ownership of behavior** to ask what a person or system does with the responsibility that comes with a judgment. His O1/O2/O3 distinction helps the extractor preserve the explanation for a choice and the commitment, if any, to correct it.
+
+| Pattern | What to look for in the record |
+|---|---|
+| **O1** | The actor points to an instruction or authority as the reason for the action. Check who issued the instruction and where the actor had discretion. |
+| **O2** | The actor makes the best judgment available to them, takes responsibility for it and commits to correcting a mistake or misjudgment. Check what changes when evidence warrants a correction. |
+| **O3** | The actor appeals to social acceptability or performed virtue when asked to account for the decision. Check whether that appeal answers the specific question about what they chose and why. |
+
+The phrase is sensitive because it makes responsibility traceable in both directions. A reviewer can have discretion over one selection while a policy owner has control over the rule that shaped it. They may have different evidence, power and capacity to repair the result. The same question applies to the extractor's decision to keep, cut or rewrite a passage. [O2 in the archived public discussion]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.txt' | relative_url }}).
+
+#### Follow the six mechanics in a flagged extract
+
+Suppose a project archive drops a relevant passage after an automated risk flag. The source and review record together can show where the decision was made and who could revisit it. Apply the [**6 Intent Liability Mechanics™**]({{ '/NETWORK/intent-resonator/#six-intent-mechanics' | relative_url }}) to that chain.
+
+| Mechanic | Question to carry into the extraction |
+|---|---|
+| **Instructions** | Who set the rule for what a flag should do, and who can revise it? |
+| **Incentives** | What does the review process reward or penalize? Does it count both unsafe releases and mistaken exclusions? |
+| **Mission and output mannerisms** | How does this decision compare with the stated aim of preserving relevant, qualified source material? |
+| **Risk management** | What did the flag protect? Who bears the consequences of keeping, omitting or delaying the passage? |
+| **Reasoning assumptions** | Which assumption about the passage or its audience made the flag seem warranted? What could the surrounding source change? |
+| **Choices** | Who could keep, hold, escalate or restore the passage? What did they choose, and what happened after feedback? |
+
+Use [C1 before C2](#clarify-extraction) to recover the context and resolve any ambiguity that would affect the decision. Record the observable choice, the stated reason, the source span, the person or process with authority to act, and what happened after notice. Keep uncertain motives open. If the passage is restored, check the briefing and conclusions that depended on the omission, then carry the repair into the [next applicable use](#correction-transfer-record).
 
 ### Test the relationship a phrase carries {#relational-qualifier-test}
 
