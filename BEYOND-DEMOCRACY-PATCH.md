@@ -1299,6 +1299,10 @@ Read alongside [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics
 **Source status:** The late-2024 encounter is John's recollection; no original Grok 2 transcript was supplied in this exchange. The 2035 scenario is a possibility, not an established forecast. The three turns and corresponding GPT responses are preserved in sequence, with minor spelling/formatting adjustments to John's text and the chat diagram reconstructed as a static SVG. No private administrative material is included.
 
 
+## 20. The shared frame of red and blue teaming {#red-blue-framing}
+
+[Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/' | relative_url }}) continues the November 25 session through the Google A.I. AND correction, informational, experiential and generative fidelity, the five-capability constructive discovery benchmark and John's 1999 Matrix recollection. The [cross-model relay]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/#cross-model-relay' | relative_url }}) records the sequence, and the [benchmark]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/#constructive-benchmark' | relative_url }}) restores the visual dimensions in text. This gives the shared-frame question a separate research object.
+
 ## Related pages
 
 [Intent Liability Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics) · [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) · [Field Condition](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FIELD-CONDITION/) · [Positive Potential](https://deepethics.github.io/ACCM-Deep-Ethics-Project/POSITIVE-POTENTIAL/) · [1888 Method™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) · [Value Trajectory](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) · [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) · [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) · [**16 Anchor Ethics**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)

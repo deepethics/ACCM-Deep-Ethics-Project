@@ -47,6 +47,7 @@ ADDITIONS = [
     ("Extraction Starter Kit", f"{BASE}/EXTRACTION-STARTER-KIT/", "EXTRACTION-STARTER-KIT.pdf", "EXTRACTION-STARTER-KIT.md"),
     ("Healthy Ambiguity", f"{BASE}/HEALTHY-AMBIGUITY/", "HEALTHY-AMBIGUITY.pdf", "HEALTHY-AMBIGUITY.md"),
     ("Beyond Democracy Patch", f"{BASE}/BEYOND-DEMOCRACY-PATCH/", "BEYOND-DEMOCRACY-PATCH.pdf", "BEYOND-DEMOCRACY-PATCH.md"),
+    ("Flawed Red & Blue Team Framing", f"{BASE}/FLAWED-RED-BLUE-TEAM-FRAMING/", "FLAWED-RED-BLUE-TEAM-FRAMING.pdf", "FLAWED-RED-BLUE-TEAM-FRAMING.md"),
     ("Believism", f"{BASE}/BELIEVISM/", "BELIEVISM.pdf", "BELIEVISM.md"),
     ("Autocomplete", f"{BASE}/AUTOCOMPLETE/", "AUTOCOMPLETE.pdf", "AUTOCOMPLETE.md"),
     ("Academia", f"{BASE}/ACADEMIA/", "ACADEMIA.pdf", "academia.md"),

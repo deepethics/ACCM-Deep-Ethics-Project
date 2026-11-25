@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — Flawed Red & Blue Team Framing
+
+At John's request create [Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/' | relative_url }}) from the Matrix recollection, shared-frame question, selection asymmetry and constructive benchmark. Preserve selected attributed exchanges, separate cinematic and symbolic leads from established findings, include the supplied video and two static illustrations with textual equivalents. Register navigation and future PDF export; initial PDF, live verification and mirror remain separate.
+
 ## 2026-11-25 — Beyond Democracy Patch and Humor: retrospective punchline
 
 At John's request add three sequential exchanges on the possible 2035 default processes, the late-2024 Grok 2 humor recollection and retrospective metacognitive Topologetics™. Preserve GPT-6.2 responses, reconstruct the 2035 diagram, and place John's final quotation near the top of [Humor]({{ '/HUMOR/#retrospective-punchline' | relative_url }}) with the full exchange recovery link. Scenario and recollection retain their status. Existing pages are preserved; live rendering and PDF/mirror updates are separate.
