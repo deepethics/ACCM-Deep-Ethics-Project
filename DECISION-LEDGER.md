@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — Mo Bitar on Superintelligence and sarcasm {#superintelligence-mo-bitar-2026-11-25}
+
+At John Kuhles’s request, add both Mo Bitar videos to [Superintelligence]({{ '/SUPERINTELLIGENCE/#mo-bitar-sarcasm' | relative_url }}) with the complete supplied corrected reading texts, downloads, John’s reactions and the attributed GPT reaction. The passage-linked editorial count records 22 and 19 distinct beats under the published coding rule. The count uses the supplied transcript text. The first reading edition omits the closing sponsor segment. Selected primary records calibrate the discussion of persistence, evaluation results and release claims.
+
 ## 2026-11-25 — School Systems {#school-systems-2026-11-25}
 
 At John Kuhles’s request, publish [School Systems]({{ '/SCHOOL-SYSTEMS/' | relative_url }}) and its [turn-indexed education and A.I. exchange]({{ '/SCHOOL-SYSTEMS/context/education-ai-exchange.html' | relative_url }}) with text and Markdown downloads. Recover Bauschard’s original thought experiment, the boundary of the cold Google session, the fictional Maya and Leo scenes, Gatto’s checked lesson names, the 10+1, John’s complete supplied spoken 3 × 3, and the individual–mass psychology–A.I. loop. Record where the recovered archive lacks first-party wording. Attribute the Elm Street access-route corrections and preserve the grade and the testimony as separate outcomes.
