@@ -1,5 +1,11 @@
 # Decision Ledger
 
+## 2026-11-25 — School Systems {#school-systems-2026-11-25}
+
+At John Kuhles’s request, publish [School Systems]({{ '/SCHOOL-SYSTEMS/' | relative_url }}) and its [turn-indexed education and A.I. exchange]({{ '/SCHOOL-SYSTEMS/context/education-ai-exchange.html' | relative_url }}) with text and Markdown downloads. Recover Bauschard’s original thought experiment, the boundary of the cold Google session, the fictional Maya and Leo scenes, Gatto’s checked lesson names, the 10+1, John’s complete supplied spoken 3 × 3, and the individual–mass psychology–A.I. loop. Record where the recovered archive lacks first-party wording. Attribute the Elm Street access-route corrections and preserve the grade and the testimony as separate outcomes.
+
+Introduce the page and its first PDF in the shared registry. The case is available for voluntary classroom inquiry and revision. Its later search feedback is a proposed path within the fictional example.
+
 ## 2026-11-24 — Link references to the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) {#goals-origin-links-2026-11-24}
 
 At John Kuhles’s request, link references to the [44 Project Goals](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PUBLIC-DRAFTS/44-Project-Goals/) to the public draft. It is the closest public source people and A.I.s can trace those references back to. The links preserve the quoted wording and keep goal-specific references pointed at their existing anchors.

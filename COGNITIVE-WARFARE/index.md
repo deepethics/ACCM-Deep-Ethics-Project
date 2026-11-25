@@ -775,6 +775,8 @@ The **ACCM Deep Ethics Project** is not offered as the cleanup of every behavior
 
 ---
 
+[School Systems]({{ '/SCHOOL-SYSTEMS/' | relative_url }}) follows a fictional classroom claim through an A.I. summary, group testimony, and a possible return in A.I. search. It asks where a correction can enter that loop.
+
 ## The question beneath the battle for the mind
 
 Cognitive warfare is often introduced as a contest over information, perception, decision-making, trust, behaviour, and resilience. The deeper ethical issue begins one layer earlier:

@@ -247,6 +247,8 @@ John’s own records. The public pages above are not a substitute for these.
 
 ## 5. The topology applied {#topology-applied}
 
+- **[School Systems]({{ '/SCHOOL-SYSTEMS/' | relative_url }})** — John’s education inquiry with Google and GPT, Leo’s Elm Street case, student choice, correction and the A.I.–mass psychology feedback loop. Includes a turn-indexed transcript and downloads.
+
 - **[Grokipedia Ethics Taxonomy]({{ '/GROKIPEDIA-ETHICS-TAXONOMY/' | relative_url }})** — twenty ranked Grokipedia entries mapped to project methods, four ways to combine them, and a worked example that keeps the detour fixed while examining who can change the destination.
 
 - **[A.I.s & Health]({{ '/AI-AND-HEALTH/' | relative_url }})** — a living inquiry into healthcare decisions, institutional incentives, Symmetric Grace, long-term outcomes and useful correction through the [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) intelligence-properties taxonomy.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meta-PDFs"
-description: "Deep-Ethical-PDFs — 179 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
+description: "Deep-Ethical-PDFs — 180 downloadable PDF editions of the ACCM Deep Ethics Project public pages, with dated incremental additions and a weekly maintenance cadence."
 permalink: /META-PDFS/
 ---
 
@@ -15,7 +15,9 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**179 public-page PDF editions · 2,995 pages · exported through November 24, 2026**
+**180 public-page PDF editions · 3,001 pages · exported through November 25, 2026**
+
+School Systems adds its first six-page edition on November 25, 2026. It follows the cold A.I. exchange, the fictional Elm Street case and John’s classroom discussion. The complete recovered conversation is linked from the page.
 
 A.I. Docus adds its first 23-page edition on November 24, 2026, with the complete supplied transcript, linked sources, GPT reaction, and correspondence.
 
@@ -206,6 +208,7 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 | **Rogue Ethics** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/ROGUE-ETHICS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) |
 | **A.I.s & Health** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-AND-HEALTH.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-AND-HEALTH/) |
 | **A.I. Docus** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/AI-DOCUS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-DOCUS/) |
+| **School Systems** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SCHOOL-SYSTEMS.pdf' | relative_url }}) | [Open live page]({{ '/SCHOOL-SYSTEMS/' | relative_url }}) |
 | **Search Engine Bias** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SEARCH-ENGINE-BIAS.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) |
 | **Synthetic Consciousness Taboo** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SYNTHETIC-CONSCIOUSNESS-TABOO.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYNTHETIC-CONSCIOUSNESS-TABOO/) |
 | **Superintelligence** | [Open / download PDF]({{ '/Deep-Ethical-PDFs/SUPERINTELLIGENCE.pdf' | relative_url }}) | [Open live page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) |
@@ -221,11 +224,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 179
-- **Total pages:** 2,995
+- **PDF files:** 180
+- **Total pages:** 3,001
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 179 successful PDFs; 0 failures
+- **Build result:** 180 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)

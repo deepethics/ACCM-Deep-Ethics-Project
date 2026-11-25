@@ -36,6 +36,7 @@ ADDITIONS = [
     ("Tweaking Tools", f"{BASE}/TWEAKING-TOOLS/", "TWEAKING-TOOLS.pdf", "TWEAKING-TOOLS.md"),
     ("DeepEthicalOS", f"{BASE}/DEEPETHICALOS/", "DEEPETHICALOS.pdf", "DEEPETHICALOS.md"),
     ("5G Controversy", f"{BASE}/5G-CONTROVERSY/", "5G-CONTROVERSY.pdf", "5G-CONTROVERSY.md"),
+    ("School Systems", f"{BASE}/SCHOOL-SYSTEMS/", "SCHOOL-SYSTEMS.pdf", "SCHOOL-SYSTEMS.md"),
     ("Search Engine Bias", f"{BASE}/SEARCH-ENGINE-BIAS/", "SEARCH-ENGINE-BIAS.pdf", "SEARCH-ENGINE-BIAS.md"),
     ("A.I.s & UFO–UAP Disclosure", f"{BASE}/AI-AND-UFO-UAP/", "AI-AND-UFO-UAP.pdf", "AI-AND-UFO-UAP.md"),
     ("Project Avalon", f"{BASE}/PROJECT-AVALON/", "PROJECT-AVALON.pdf", "PROJECT-AVALON.md"),

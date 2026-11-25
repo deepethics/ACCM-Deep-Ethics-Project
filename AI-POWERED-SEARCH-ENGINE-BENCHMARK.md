@@ -82,4 +82,6 @@ In a separate sample labeled cold and outside the project, Google gave a history
 
 The two source conditions show how an answer changes when the passage is supplied. Establishing why an engine missed or misused it requires further evidence. Record that uncertainty with the run so it remains visible in later comparisons.
 
+[School Systems]({{ '/SCHOOL-SYSTEMS/' | relative_url }}) follows a fictional classroom claim through an A.I. summary, group testimony, and a possible return in A.I. search. It asks where a correction can enter that loop.
+
 **Related reading** · [Search Engine Bias]({{ '/SEARCH-ENGINE-BIAS/' | relative_url }}) · [Google A.I.]({{ '/GOOGLE-AI/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }})
