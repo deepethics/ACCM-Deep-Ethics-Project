@@ -733,3 +733,6 @@ The six conceptual pages supply complementary checks: Unownable keeps the anchor
 **Edition boundary:** the first edition, the footprint-pattern sentence correction and this same-day continuation remain recoverable through the source history and ledger. The PDF card identifies the retained first-edition snapshot; this expanded live page proceeds beyond it. Changed-page PDFs follow the project's weekly refresh schedule.
 
 Later editions can extend this record when another encounter adds a distinct relation, counterexample, observed recurrence or useful correction. The Decision Ledger records the [first publication]({{ '/DECISION-LEDGER/#expanding-vs-flattening-2026-11-02' | relative_url }}) and the [same-day continuation]({{ '/DECISION-LEDGER/#expanding-vs-flattening-continuation-2026-11-02' | relative_url }}).
+
+
+**November 25, 2026 — [Beyond Democracy Patch: fused report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#fused-report).** The live session extends the restoration-cost and generative-continuation questions into an outward correspondence-fidelity ripple. See the [fidelity record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#fidelity-ripple) for attributed estimates and a proposed way to inspect actual propagation without assuming it.

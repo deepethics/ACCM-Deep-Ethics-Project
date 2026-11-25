@@ -437,6 +437,10 @@ The same examination applies when the ACCM Deep Ethics Project invokes due proce
 
 A correction should identify the exact passage, source relationship, consequential difference and proposed repair. A material correction can change the relevant summary, case interpretation, suggested remedy or test. The purpose is to improve what the process can justifiably do.
 
+
+
+**November 25, 2026 — [Beyond Democracy Patch: fused report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#fused-report).** The [foreclosed-emergence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#foreclosed-emergence) analysis places developmental opportunity costs alongside action and inaction risks. The [jurisdiction section](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#fused-jurisdiction) preserves the distinction between a warranted finding and authority to impose a consequence.
+
 ## Related pages
 
 - [**Categorizing Issues**]({{ '/CATEGORIZING-ISSUES/' | relative_url }}) — how a flag can shape which combinations people get to try and what evidence becomes available.
