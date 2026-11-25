@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — All Pages navigation refresh
+
+Refresh [Current development routes]({{ '/PAGES/#current-development-routes' | relative_url }}) with five source-linked inquiry paths for Beyond Democracy Patch, Anchor Ethics, cross-model correspondence, School Systems and Patchmageddon. Update the existing cluster descriptions while retaining the seven clusters and separate numbered goal routes. The Wiki remains a separate repository and requires its own publication and backup.
+
 ## 2026-11-25 — Beyond Democracy Patch continuation
 
 Add John's compact Ethics/Deep Ethics formulation, the universal applicability without universal jurisdiction distinction, selected attributed Google A.I. correspondence specimens, original anti-capture design clarification, and a proposed matched anti-capture probe to [Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/#ethics-recovering-its-function' | relative_url }}). Add the reciprocal jurisdiction link to 16 Anchor Ethics. Preserve the earlier page and claim-status distinctions. PDF and mirror verification remain separate.
