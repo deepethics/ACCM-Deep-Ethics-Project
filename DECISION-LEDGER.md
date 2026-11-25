@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — Mo Bitar on Patchmageddon and repair capacity {#patchmageddon-source-check-2026-11-25}
+
+At John Kuhles’s request, publish GPT 6.2 Sol Pro A.I.’s complete [source-check of Mo Bitar’s Patchmageddon video]({{ '/YOUTUBE-TRANSCRIPTS/#mo-bitar-patchmageddon' | relative_url }}) and [cross-link it from the existing Superintelligence video section]({{ '/SUPERINTELLIGENCE/#mo-bitar-sarcasm' | relative_url }}). The record includes the source player, a timestamped reading, the outage and policy correspondence checks, sarcasm and credit, Bitar’s account of human editing decisions, and a proposed correction-transfer comparison. John supplied the link and commissioned the independent caption-based review. The caption track informs the report. The established PDF editions remain dated snapshots for the weekly changed-source refresh.
+
 ## 2026-11-25 — Mo Bitar on Superintelligence and sarcasm {#superintelligence-mo-bitar-2026-11-25}
 
 At John Kuhles’s request, add both Mo Bitar videos to [Superintelligence]({{ '/SUPERINTELLIGENCE/#mo-bitar-sarcasm' | relative_url }}) with the complete supplied corrected reading texts, downloads, John’s reactions and the attributed GPT reaction. The passage-linked editorial count records 22 and 19 distinct beats under the published coding rule. The count uses the supplied transcript text. The first reading edition omits the closing sponsor segment. Selected primary records calibrate the discussion of persistence, evaluation results and release claims.

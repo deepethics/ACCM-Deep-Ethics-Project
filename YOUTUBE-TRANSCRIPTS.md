@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "YouTube Transcripts"
-description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, weight-space programming, the Diary of a CEO discussion on competing A.I. risks, and Dr Clare Craig on health evidence and the Covid Inquiry."
+description: "Full supplied video transcripts with sponsor passages removed, embedded source videos, primary-source checks and ACCM Deep Ethics Project comparisons. Records examine Anthropic's S-1, judging A.I. output, Andréa Morris on A.I. loyalties, weight-space programming, the Diary of a CEO discussion on competing A.I. risks, Dr Clare Craig on health evidence and the Covid Inquiry, and Mo Bitar on Patchmageddon and repair capacity."
 permalink: /YOUTUBE-TRANSCRIPTS/
 date: 2026-10-27
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-25
 ---
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -17,9 +17,9 @@ last_modified_at: 2026-11-13
 
 **Recover the whole statement, inspect its transformations, and keep the comparison open to correction.**
 
-This page pairs full supplied transcripts with their source videos and a separately identified ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
+This page pairs supplied transcripts and timestamped source-check reports with their videos and separately attributed ACCM Deep Ethics Project analysis. The first record examines capability growth, institutional control, recursive development and correction. Future entries can retain the same source, editorial and comparison layers.
 
-**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming) · [A.I. safety and competing risks](#diary-of-a-ceo-ai-risk) · [Dr Clare Craig: constructive inquiry under controversy](#clare-craig-inquiry).
+**Records:** [Anthropic’s S-1, capability and control](#anthropic-s1) · [Learning to judge A.I. output](#learning-to-judge-ai) · [Andréa Morris: A.I. loyalties, interests and cooperation](#ai-loyalties) · [Weight-space programming: capability, repair and authority](#weight-space-programming) · [A.I. safety and competing risks](#diary-of-a-ceo-ai-risk) · [Dr Clare Craig: constructive inquiry under controversy](#clare-craig-inquiry) · [Tim Maudlin: what survives the headline?](#maudlin-bell-lecture) · [Mo Bitar: Patchmageddon and repair capacity](#mo-bitar-patchmageddon).
 
 **Orientation and recovery:** [Core]({{ '/CORE/' | relative_url }}) · [Project Wiki](https://github.com/deepethics/ACCM-Deep-Ethics-Project/wiki). These routes lead into the working architecture and its sources; a navigation layer and the source it points to retain different roles.
 
@@ -506,3 +506,72 @@ Curt Jaimungal’s *Theories of Everything* hosts Tim Maudlin’s lecture on the
 <!-- ACCM_PDF_OMIT_START -->
 {% include youtube-embed.html id="XVZzuIUZveg" title="Tim Maudlin on Bell’s theorem and non-locality — Theories of Everything with Curt Jaimungal" %}
 <!-- ACCM_PDF_OMIT_END -->
+
+<!-- ACCM_PDF_PAGE_BREAK -->
+
+## Eighth record — Mo Bitar on Patchmageddon: when the fix becomes a source of failure {#mo-bitar-patchmageddon}
+
+**Video:** [Mo Bitar, “Wtf is happening to the internet?”](https://www.youtube.com/watch?v=LD4a9IpoLMQ) · published 18 November 2026 · 11 minutes 41 seconds.
+
+**Source-check by GPT 6.2 Sol Pro A.I. · 25 November 2026.** John Kuhles supplied the video link and commissioned the review. The timestamped account uses YouTube’s captions, tracks selected claims to their sources, and keeps Bitar’s reported editing practice attributable to him.
+
+[Evidence checks](#patchmageddon-evidence) · [Sarcasm and credit](#patchmageddon-sarcasm) · [Project connections](#patchmageddon-project-connections)
+
+<!-- ACCM_PDF_OMIT_START -->
+{% include youtube-embed.html id="LD4a9IpoLMQ" title="Mo Bitar — Wtf is happening to the internet?" caption="Original video. The closing promotion begins at 9:31 and includes Bitar’s account of how he reviews A.I.-assisted edits." %}
+<!-- ACCM_PDF_OMIT_END -->
+
+### Why this case belongs here {#patchmageddon-editorial-decision}
+
+Bitar identifies a real problem: discovering software weaknesses faster can put pressure on the people who must assess, test, deploy and verify their repairs. He also presents an outage cluster as a consequence of that pressure. The episode-specific evidence supports different immediate explanations and leaves the proposed shared cause open. A correction to the causal story can make the video more useful without taking away the joke or the underlying warning. [Cloud Security Alliance outage analysis](https://labs.cloudsecurityalliance.org/research/csa-research-note-november-outage-cluster-correlated-fragili/)
+
+GPT 6.2 Sol Pro A.I. read the YouTube caption panel from the opening through the closing promotion, including the chapter boundaries. The analysis corrects obvious name and term recognition errors, such as Dario, Anthropic, El Dorado, ThousandEyes, Patchmageddon and vuln-zero. The timestamps point to the relevant caption or chapter. This is a caption-based reading. Fine-grained claims about intonation and editing remain outside the review. The watch links allow those details to be checked against the performance.
+
+### What the video does {#patchmageddon-timestamps}
+
+| Time | What happens | Why it matters |
+| --- | --- | --- |
+| [0:00](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=0s) | Bitar turns an imagined external attack into a joke about systems doing damage to themselves. He recalls Jason Clinton’s warning about disclosure and patch capacity. | The opening makes an internal-failure explanation memorable. Its compact framing needs to be checked case by case. |
+| [1:37](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=97s) | He moves through Outlook, aviation and banking disruptions. The hotel example traces the loss of a physical safety alert to an email dependency. | The service that fails and the people who absorb the consequences can be in different organizations. |
+| [3:56](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=236s) | He turns to the National Security Agency, Apple, outage counts and officials’ statements about attribution. | This is the move from separate incidents to a possible industry-wide mechanism. |
+| [5:16](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=316s) | Claude Mythos, security guidance and patch regressions enter the argument. Bitar preserves a correction to the earlier language about classified systems. | A capability demo, a disclosure policy, and a confirmed outage each answer a different question. |
+| [7:31](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=451s) | The episode links the volume of disclosed weaknesses, shorter deadlines and company incentives. | The chain is plausible and each connection needs its own evidence. |
+| [8:57](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=537s) | A forecast about cheap, widely used security models gives way to a callback about Outlook. | Keep the forecast’s author, date and conditions so later results can change the assessment. |
+| [9:31](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=571s) | Bitar promotes his own editing tool and describes using it to transcribe, cut, propose visuals and iterate. He says he signs off on visual plans and gives timeline feedback. | The promotional segment also gives a first-person case of where an A.I.-assisted workflow leaves review and correction in human hands. |
+
+### Where the evidence changes the reading {#patchmageddon-evidence}
+
+| Video claim or move | Recovered evidence | What the project should carry forward |
+| --- | --- | --- |
+| **The outages were self-inflicted and patch pressure explains the cluster** · [0:20](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=20s), [8:49](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=529s) | Reported causes include a latent Microsoft defect, fragile air-traffic infrastructure, a Chase software bug, an Apple update and NSA maintenance. Reporting also attributes an NSA software patch to officials. Cloud Security Alliance found no public evidence that patching A.I.-discovered vulnerabilities caused a specific outage in the cluster. [CSA](https://labs.cloudsecurityalliance.org/research/csa-research-note-november-outage-cluster-correlated-fragili/) · [AP](https://apnews.com/article/0c0f0cf4983a0f81ba88c4c4d2b8383f) · [WSJ](https://www.wsj.com/pro/cybersecurity/classified-nsa-network-down-another-tech-mishap-not-hack-officials-say-1dd91653) | Carry the separate incident accounts and the industry hypothesis together. An official’s general explanation of why more patching happens supplies a possible mechanism. Linking it to any one outage requires an incident record with that link. |
+| **A fix broke Outlook** · [1:50](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=110s) | Microsoft’s preliminary account traces the cascade to a defect introduced in July, increased traffic after a Teams failover, and reduced gateway capacity. The reported 80% concerns those networking gateways. [Microsoft incident report copy](https://www.opensecurity.es/wp-content/uploads/2026/11/PostIncidentReport.pdf) · [Cisco ThousandEyes](https://www.thousandeyes.com/resources/internet-outages-timeline) | Preserve the interaction among defect, traffic and available capacity. The hotel incident is a separate downstream consequence reported after alert emails failed to arrive. [The Verge](https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning) |
+| **One new router grounded the country** · [2:43](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=163s) | The FAA initially identified two potential locations. Blocking both stabilized the system. Some communications and tracking remained available, and the nationwide ground stop was a safety decision. The agency also said it would revisit maintenance timing. [FAA incident Q&A](https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers) | This example has three distinct jobs for correction: recover the trigger, evaluate the response, and check whether the promise changes subsequent work. The safety stop deserves credit alongside investigation of the disruption. |
+| **Google cut its deadline from 90 to 60 days that Friday** · [7:40](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=460s) | On 13 November, Project Zero announced a staged policy. Full 90 began that day, the old extra rollout period was removed, Full 60 was set for **2 February 2027**, and Full 30 for **3 January 2028**. It cites vendor feedback on the harms of moving too quickly. [Google Project Zero](https://projectzero.google/2026/11/disclosure-policy.html) | Keep announcement date and effective date separate. Credit the staged transition. The broader acceleration remains real, and the correction changes whether a 60-day rule was in force that week. |
+| **Anthropic and J.P. Morgan urged shorter test and rollout timelines** · [5:56](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=356s) | The May Glasswing report and July J.P. Morgan report use that recommendation. Both also discuss protections that can work while teams wait for patches. Anthropic’s policy dated 20 November gives targets of 30 days for high and critical issues and 45 for others, with stated exceptions. That edition postdates the video and leaves the precise Monday timing to an earlier record. [Glasswing update](https://www.anthropic.com/research/glasswing-initial-update) · [J.P. Morgan report, PDF page 23](https://privatebank.jpmorgan.com/content/dam/jpm-pb-aem/global/en/documents/eotm/patchmageddon.pdf#page=23) · [Anthropic disclosure policy](https://www.anthropic.com/coordinated-vulnerability-disclosure) | The video’s comic compression into reduced testing loses a distinction. A team could shorten elapsed time through faster verification, better tests or staged release. The two reports support the instruction to shorten timelines. Specific teams’ test choices and their consequences need separate evidence. |
+| **About one in six patches broke something and Microsoft had 1,094 fixes** · [7:05](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=425s) | Trail of Bits reviewed over 130 merged pull requests from its own work and found 21 regressions. It reported that none broke a security protection. Independent Patch Tuesday counts report 1,094 vulnerability entries in November 2026, against 63 in November 2025. These are different populations and units. [Trail of Bits](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/) · [Patch Tuesday counts](https://cvetodo.com/statistics/patch-tuesday) | Keep the two denominators visible. There is no supported multiplication that turns those figures into an expected number of Microsoft failures. |
+| **Vuln-zero around mid-2028** · [8:57](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=537s) | Clinton’s October posts give a rough 18-month horizon and separately forecast cheap, capable tools reducing the introduction of security bugs. The order and date matter because the estimate predates the video. Later coverage identifies residual risks from bad specifications and skipped controls. [Clinton’s estimate](https://x.com/JasonDClinton/status/2113325263157395456) · [Clinton’s follow-up](https://x.com/JasonDClinton/status/2113344839706456145) · [Margin of Safety](https://mofsafety.substack.com/p/margin-of-safety-71-vuln-zero-might) | Register it as a dated forecast with a reachable target population and measures, then revisit it. An exact end date and universal coverage remain open. |
+
+The reported $7 billion productivity estimate, the 74-country figure and the precise 65-to-243 ThousandEyes comparison remain figures to leave out of a project summary until the original measures and windows are recovered.
+
+### What the joke preserves and what it compresses {#patchmageddon-sarcasm}
+
+John Kuhles’s observation across the three videos is that Bitar starts with recognizable human mannerisms and keeps some room for optimism. This record follows that observation into incentives, the discipline of verifying repairs, and the moments when Bitar gives credit. The account below is the attributed GPT source-check.
+
+- **Microsoft and Apple, [2:28](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=148s) and [4:24](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=264s).** Bitar uses familiar promises and advice as setups. Microsoft promotes A.I. agents, then has reason to specify their absence from an incident. Apple urges users to update, then attributes an outage to an internal update. The reversal makes both moments memorable. It gives us a question about when the reassuring explanation has evidence behind it.
+- **The roulette comparison, [7:15](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=435s).** The arithmetic makes the joke fast to grasp. Recovering the original denominator leaves the concern about regressions intact and removes a false impression that Microsoft’s fixes carried the study’s rate or consequences.
+- **Credit that survives the roast, [5:34](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=334s) and [8:57](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=537s).** Bitar relays a correction from actual intrusion to vulnerability finding, and he gives Clinton room to make a hopeful forecast. Those are instances of keeping something useful in view while criticizing institutions. His dig at the Bank of America executive also supplies a boundary case. A joke about there always being another patch has more support than a verdict about what a person knows. [Reuters on the June account](https://www.reuters.com/business/anthropics-mythos-model-found-vulnerabilities-classified-us-government-systems-2026-06-24/)
+- **The Outlook callback, [9:21](https://www.youtube.com/watch?v=LD4a9IpoLMQ&t=561s).** A calendar reminder for the forecast depends on the very infrastructure the video opened by questioning. The smoke-signal ending returns the audience to that dependency in a form they can remember.
+
+### What this adds to the project {#patchmageddon-project-connections}
+
+| Project instrument | What the video lets us examine |
+| --- | --- |
+| [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) and [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) | Follow each causal claim from discovery to decision to deployment to resulting incident. A source can confirm one edge without confirming the next. The report can preserve a useful shared hypothesis beside distinct incident causes. |
+| [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | At the first level, ask whether a patch fixes the original weakness while preserving supported behavior and whether later releases retain the fix. At the second level, ask whether a later telling carries the corrected dates and incident qualifiers. This one video supplies both tests. |
+| [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) and [Due Process for Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DUE-PROCESS-FOR-ETHICS/) | Bitar’s observation that a lab can discover weaknesses, set disclosure terms for its own findings and sell defensive tools raises an incentive question. Track who controls each stage, who can request more time, who bears release risk and who can contest a classification. Motive and outcome require their own evidence. |
+| [VCRAS™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) (Vindicated Competing Risk Assessment Studies) | Preserve two forecasts in advance. Faster verification and deployment may reduce exposure. Increased change volume may worsen regressions, correlated failure and restoration burden. Later evidence can support both under different conditions. |
+| [Superintelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/#mo-bitar-sarcasm) and the [1888 Method™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) | Separate detection capability from judgment about a remedy, coordination across dependencies and responsiveness to damage caused by the remedy. The same distinction reaches beyond code. Faster detection of a flaw in an argument can help, while an overbroad rewrite can damage the parts that still hold. |
+
+### A proposed correction-transfer comparison {#patchmageddon-correction-transfer}
+
+ Give two readers the video’s opening, the Project Zero policy and the FAA account. Ask them to write a short explanation of the week that preserves the shared pressure hypothesis, both policy dates and the aviation agency’s decision. Later give them a new incident with a verified link to an A.I.-generated patch. See whether their original correction still lets them recognize direct evidence when it arrives. That would turn the media case into a bounded test of correction transfer.

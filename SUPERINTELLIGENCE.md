@@ -320,6 +320,8 @@ The toddler, the paperclip machine and the reluctant printer ask the viewer to c
 
 [Watch on YouTube](https://www.youtube.com/watch?v=kNN7FqVsO3k) · [Read the corrected transcript]({{ '/SUPERINTELLIGENCE/context/mo-bitar-openai-anthropic-done-with-ai.html' | relative_url }}) · <a href="{{ '/SUPERINTELLIGENCE/context/mo-bitar-openai-anthropic-done-with-ai.txt' | relative_url }}" download>Download text</a>
 
+**A third Mo Bitar case:** [Patchmageddon and repair capacity]({{ '/YOUTUBE-TRANSCRIPTS/#mo-bitar-patchmageddon' | relative_url }}) follows his sarcasm into software outages, disclosure deadlines and the human decisions that shape what gets fixed and when. The source-check keeps the evidence for each outage distinct from the proposed industry-wide pressure, and follows Bitar’s own A.I.-assisted editing process through its human review points.
+
 ### John Kuhles’s reaction {#john-on-sarcasm}
 
 > I watched 2 videos discussing “superintelligence” dropping sarcasm bombs nonstop, coming from an AI expert. When I listen & watch him say it, I GET IT instantly, and sometimes I can laugh at the joke without having to agree with all the premises because nobody is 100% perfect. Yet I can LAUGH with him. If he sat next to me in those 2 videos, I would correct him without claiming to be all-knowing, and the corrected parts aren’t the main issue being discussed... meaning the punchline still works!
