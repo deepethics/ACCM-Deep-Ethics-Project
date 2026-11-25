@@ -81,6 +81,8 @@ These are John's formulations and questions for examination. They make the purpo
 
 **[Beyond Dualism]({{ '/BEYOND-DUALISM/#intent-liability' | relative_url }})** applies the six mechanics to John’s whistleblower-learning challenge: what happens when a declared improvement mission encounters learning that could also reveal the authority’s own recurring failures? The account retains the hypothetical, bounded search result, and choices after notice.
 
+**[Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/#six-intent-mechanics' | relative_url }})** applies all six mechanics to democratic representation, preference formation, rule-making and correction after notice.
+
 ## Why liability belongs beside intent {#why-intent-liability}
 
 John's newer source texts sharpen the governing question:

@@ -129,6 +129,7 @@ The several 27 links below are layers of one object. They are not five cores.
 
 ## 2. How the topology moves {#how-it-moves}
 
+- **[Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/' | relative_url }})** — democratic representation, field conditions, omnidirectional rule improvement and the six intent mechanics; includes proposed premise-contestability and correction-transfer tests.
 - **[Beyond Dualism]({{ '/BEYOND-DUALISM/' | relative_url }})** — preserves relationships that a two-state judgment can erase, connecting expected surprises, the 10+1, output/process comparison, six intent mechanics, vindication, density and navigable coherence. Includes attributed quotations, the linked page family, all fourteen 1888 properties, and ten proposed comparisons.
 
 - **[Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }})** — follows useful contributions, their conditions, their beneficiaries, and their development. Includes John's complete corrected eleven-link A–K map, the earlier stadium and *Day of the Dove* sources, the +1, a bounded parliamentary-source check, all fourteen 1888 properties, and optional comparisons.

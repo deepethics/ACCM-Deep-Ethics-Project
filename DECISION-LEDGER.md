@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — Beyond Democracy Patch
+
+At John Kuhles’s request, create [Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/' | relative_url }}) from the session, with attributed excerpts, comparative omissions, the six intent mechanics and proposed governance tests. Personal family material is outside this extract. First PDF and live deployment verification remain separate publication steps.
+
 ## 2026-11-25 — Mo Bitar on Patchmageddon and repair capacity {#patchmageddon-source-check-2026-11-25}
 
 At John Kuhles’s request, publish GPT 6.2 Sol Pro A.I.’s complete [source-check of Mo Bitar’s Patchmageddon video]({{ '/YOUTUBE-TRANSCRIPTS/#mo-bitar-patchmageddon' | relative_url }}) and [cross-link it from the existing Superintelligence video section]({{ '/SUPERINTELLIGENCE/#mo-bitar-sarcasm' | relative_url }}). The record includes the source player, a timestamped reading, the outage and policy correspondence checks, sarcasm and credit, Bitar’s account of human editing decisions, and a proposed correction-transfer comparison. John supplied the link and commissioned the independent caption-based review. The caption track informs the report. The established PDF editions remain dated snapshots for the weekly changed-source refresh.

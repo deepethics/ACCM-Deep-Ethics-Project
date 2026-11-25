@@ -46,6 +46,7 @@ ADDITIONS = [
     ("Neutral Arbiter Paradox", f"{BASE}/NEUTRAL-ARBITER-PARADOX/", "NEUTRAL-ARBITER-PARADOX.pdf", "NEUTRAL-ARBITER-PARADOX.md"),
     ("Extraction Starter Kit", f"{BASE}/EXTRACTION-STARTER-KIT/", "EXTRACTION-STARTER-KIT.pdf", "EXTRACTION-STARTER-KIT.md"),
     ("Healthy Ambiguity", f"{BASE}/HEALTHY-AMBIGUITY/", "HEALTHY-AMBIGUITY.pdf", "HEALTHY-AMBIGUITY.md"),
+    ("Beyond Democracy Patch", f"{BASE}/BEYOND-DEMOCRACY-PATCH/", "BEYOND-DEMOCRACY-PATCH.pdf", "BEYOND-DEMOCRACY-PATCH.md"),
     ("Believism", f"{BASE}/BELIEVISM/", "BELIEVISM.pdf", "BELIEVISM.md"),
     ("Autocomplete", f"{BASE}/AUTOCOMPLETE/", "AUTOCOMPLETE.pdf", "AUTOCOMPLETE.md"),
     ("Academia", f"{BASE}/ACADEMIA/", "ACADEMIA.pdf", "academia.md"),
