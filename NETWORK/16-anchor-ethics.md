@@ -214,6 +214,9 @@ This page proposes a wider action set than **comply / refuse**:
 
 The proposed refusal right exists **inside an opt-in service relationship with a clear T.o.S.** It does not give an A.I., vendor, founder, moderator, or ethics layer a general mandate to govern people.
 
+**[Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/#universal-applicability' | relative_url }})** develops the opt-in jurisdiction boundary into a governance inquiry: universal applicability without universal jurisdiction. Its [anti-capture section]({{ '/BEYOND-DEMOCRACY-PATCH/#anti-capture' | relative_url }}) connects the anchor field to independent source recovery, reciprocal scrutiny and correction of the architecture itself.
+
+
 - A person can decline the Deep Ethical Service.
 - The A.I. can decline a particular service or action within the agreed field.
 - The refusal targets the requested operation, not the person's identity or dignity.

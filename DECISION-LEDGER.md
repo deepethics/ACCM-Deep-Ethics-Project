@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-25 — Beyond Democracy Patch continuation
+
+Add John's compact Ethics/Deep Ethics formulation, the universal applicability without universal jurisdiction distinction, selected attributed Google A.I. correspondence specimens, original anti-capture design clarification, and a proposed matched anti-capture probe to [Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/#ethics-recovering-its-function' | relative_url }}). Add the reciprocal jurisdiction link to 16 Anchor Ethics. Preserve the earlier page and claim-status distinctions. PDF and mirror verification remain separate.
+
 ## 2026-11-25 — Beyond Democracy Patch
 
 At John Kuhles’s request, create [Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/' | relative_url }}) from the session, with attributed excerpts, comparative omissions, the six intent mechanics and proposed governance tests. Personal family material is outside this extract. First PDF and live deployment verification remain separate publication steps.
