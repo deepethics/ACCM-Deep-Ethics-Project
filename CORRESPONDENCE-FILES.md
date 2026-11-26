@@ -299,12 +299,12 @@ Existing public text records, including complete supplied files and separately i
 | Secret US patents | [Read HTML]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-03.html' | relative_url }}) | [Updated]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-03-current.txt' | relative_url }}) | [Original]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-03.txt' | relative_url }}) |
 | Sledgehammer | [Read HTML]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-04.html' | relative_url }}) | [Updated]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-04-current.txt' | relative_url }}) | [Original]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-04.txt' | relative_url }}) |
 
-## ʘ∞ΔR source correspondence {#canon-uncertainty-delta-recovery}
+## ʘ∞ΔR™ source correspondence {#canon-uncertainty-delta-recovery}
 
-[**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }})
+[**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }})
 
-- [ʘ∞ΔR.txt]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-01.html' | relative_url }}) · [TXT]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-01.txt' | relative_url }})
-- [🦜🦋🌳 signature ʘ∞ΔR coherence-vs-correspondence distinction.txt]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-02.html' | relative_url }}) · [TXT]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-02.txt' | relative_url }})
+- [ʘ∞ΔR™.txt]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-01.html' | relative_url }}) · [TXT]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-01.txt' | relative_url }})
+- [🦜🦋🌳 signature ʘ∞ΔR™ coherence-vs-correspondence distinction.txt]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-02.html' | relative_url }}) · [TXT]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/context/context-02.txt' | relative_url }})
 
 ## Reusing a source
 

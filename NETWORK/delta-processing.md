@@ -4,7 +4,7 @@ title: "Δ Processing — What Changed?"
 permalink: /NETWORK/delta-processing/
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
 
 
 <!-- ACCM_FORMAT_LINKS_START -->
@@ -58,7 +58,7 @@ Sources: [E06](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 - [**Seven Topological Nodes / Vectors**]({{ '/NETWORK/seven-vectors/' | relative_url }}) — connects a changed representation with the wider topology of meaning, use, framing, and future reach.
 - [**Qualifier State**]({{ '/NETWORK/qualifier-state/' | relative_url }}) — records changes in scope, uncertainty, conditionality, and evidentiary status.
 - [**Correction Metabolism**]({{ '/NETWORK/correction-metabolism/' | relative_url }}) — tests whether an identified Δ becomes a durable change in later behavior.
-- [**ʘ∞ΔR — Lexicon notation**]({{ '/LEXICON/' | relative_url }}#%CA%98r--compact-provenance--recovery-notation) — preserves the compact provenance and recovery notation associated with Δ tracking.
+- [**ʘ∞ΔR™ — Lexicon notation**]({{ '/LEXICON/' | relative_url }}#%CA%98r--compact-provenance--recovery-notation) — preserves the compact provenance and recovery notation associated with Δ tracking.
 - [**Intent Resonator / Intent Liability**]({{ '/NETWORK/intent-resonator/' | relative_url }}) — extends Δ comparison across purpose, instructions, incentives, choices, results, feedback, and later choices.
 - [**Dual Archive**]({{ '/NETWORK/dual-archive/' | relative_url }}) — keeps earlier and later representations available for direct comparison.
 - [**C1 Before C2**]({{ '/NETWORK/c1-c2/' | relative_url }}) — identifies which missing context could materially change the next interpretive or intervention move.

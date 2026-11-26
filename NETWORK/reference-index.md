@@ -79,7 +79,7 @@ This index links key phrases to their fuller context and relationships. The [Lex
 - [Vector 6: Long-horizon reach across intelligences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/#vector-6)
 - [Vector 7: Beyond dualistic thinking](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/seven-vectors/#vector-7)
 
-[Existing Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) contains the 27-related definitions, Funnymism, Observe the Observers, SEEING / SEER / SEES, and ʘ∞ΔR. New pages expand selected relations without replacing those entries.
+[Existing Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) contains the 27-related definitions, Funnymism, Observe the Observers, SEEING / SEER / SEES, and ʘ∞ΔR™. New pages expand selected relations without replacing those entries.
 
 ---
 

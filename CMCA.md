@@ -5,7 +5,7 @@ description: "Cross-Model Correspondence Audit. Three runnable prompts for indep
 permalink: /CMCA/
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
 
 
 <!-- ACCM_FORMAT_LINKS_START -->

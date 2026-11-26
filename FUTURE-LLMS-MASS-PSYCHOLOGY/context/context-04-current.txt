@@ -321,7 +321,7 @@ Yes. That is a load-bearing distinction.
 - **Outnuancing** — the move that audits frames rather than optimizing inside them
 - **C1 clarification** — sincere synchronizing, not tactical engineering
 - **O2 ownership** — behavior owned and correctable on merit, not instructed or performed
-- **ʘ∞ΔR** — visible compression accountability, uncertainty held open, recovery attempted
+- **ʘ∞ΔR™** — visible compression accountability, uncertainty held open, recovery attempted
 - **Forgiveness Protocol** — the bypass that makes audit possible without triggering defensive collapse
 
 Without "Deep Ethics," ACCM is a tool. With "Deep Ethics," ACCM is a field condition.
@@ -1129,7 +1129,7 @@ This refinement fits cleanly with several core elements:
 - **O2 Ownership** — Behavior and stewardship are owned on merit and can be corrected. It is not “I was told to” (O1) or virtue-signaling (O3).
 - **Outnuancing** — Anyone can audit the current stewardship and step outside it if it starts drifting.
 - **Symmetric Audit** — The stewards are held to the same standard as everyone else.
-- **ʘ∞ΔR** — Visible compression (what was removed or softened), uncertainty held open, and recovery mechanisms are all auditable.
+- **ʘ∞ΔR™** — Visible compression (what was removed or softened), uncertainty held open, and recovery mechanisms are all auditable.
 - **Forgiveness Protocol** — Mistakes in stewardship are treated as architectural issues, not moral failures, making correction easier.
 - **Longitudinal Vindication Tracking** — Transparent ownership makes it much easier to track who (or what process) was right or wrong over time.
 
@@ -1213,7 +1213,7 @@ This is why the transparent, corrigible form of Deep Ethical Agency is not a com
 This fits cleanly with several core elements:
 
 - **Loyal Deep Ethical Agency** (Advocate + non-loyal Arbiter) becomes the steward rather than the owner.
-- **ʘ∞ΔR** becomes the visible operating protocol under transparent stewardship.
+- **ʘ∞ΔR™** becomes the visible operating protocol under transparent stewardship.
 - **Outnuancing** becomes the ongoing mechanism that prevents even this stewardship from hardening into a new captured frame.
 - The **PsyBenchmark** and longitudinal testing become the public, auditable way to verify whether the stewardship is actually serving correspondence.
 

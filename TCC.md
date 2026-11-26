@@ -6,7 +6,7 @@ permalink: /TCC/
 date: 2026-11-26
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
 
 
 **Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#mass-psychology' | relative_url }}).

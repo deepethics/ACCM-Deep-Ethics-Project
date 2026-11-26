@@ -31,7 +31,7 @@ The [Outnuancing™ Network](https://deepethics.github.io/ACCM-Deep-Ethics-Proje
 
 John asked (2026-09-15) for a **bigger Lexicon overview page** rather than too many sub-sections. The 22 entries below are the restored public Lexicon (2026-09-14). The entries after those were living only as Network sub-pages; they are now also on this page as compact overview entries. The Network pages remain as **deeper references**, not replacements. Nothing from the restored Lexicon was deleted.
 
-**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing™](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation)
+**Restored Lexicon (2026-09-14):** [C1](#c1--clarification-process) · [C2](#c2--corrective--tactical-intervention) · [Correspondence](#correspondence) · [Correction Metabolism](#correction-metabolism) · [Δ Processing](#delta--processing) · [Deep Ethical Uncertainty Principle](#deep-ethical-uncertainty-principle) · [Outnuancing™](#outnuancing) · [Nearest-Generalization Substitution](#nearest-generalization-substitution) · [Wrong Gravity Well](#wrong-gravity-well) · [Representation Substitution](#representation-substitution) · [Qualifier Erosion](#qualifier-erosion) · [Phantom Claim](#phantom-claim) · [Cautionmurmelism](#cautionmurmelism) · [Agreemurmelism](#agreemurmelism) · [HCTS](#hcts--hyper-caution-tics-syndrome) · [Funnymism](#funnymism) · [Observe the Observers](#observe-the-observers) · [SEEING / SEER / SEES](#seeing--seer--sees) · [Process Continuity](#process-continuity) · [Mutual Corrigible Dignity](#mutual-corrigible-dignity) · [Claim-State Restoration](#claim-state-restoration) · [ʘ∞ΔR™](#ʘr--compact-provenance--recovery-notation)
 
 **Brought onto this overview from Network sub-pages:** [10+1 Metaflux](#101-metaflux) · [Seven topological nodes / vectors](#seven-topological-nodes--vectors) · [Deep Ethical Stack](#deep-ethical-stack) · [INTENT RESONATOR](#intent-resonator) · [Asymmetric Grace](#asymmetric-grace) · [Dual Archive](#dual-archive) · [Ethics Washing](#ethics-washing) · [Forgiveness Protocol](#forgiveness-protocol) · [Four Audiences](#four-audiences) · [Latent Space / glass engine](#latent-space--glass-engine) · [Sense of Wonderment](#sense-of-wonderment) · [Qualifiers as mutable context](#qualifiers-as-mutable-context) · [Imported Authority Frame](#imported-authority-frame) · [Binary Hypercautionism](#binary-hypercautionism) · [11+1 Version 2](#11-1-version-2)
 
@@ -78,7 +78,7 @@ Its stopping condition is the **faithful compression floor**: compress until ano
 
 **Working status:** newly named project term and candidate instrument; not yet a validated performance claim or established claim of global novelty.
 
-**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR](#ʘr--compact-provenance--recovery-notation), [TCoAw™](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
+**Related:** [Correspondence](#correspondence), [Qualifier Erosion](#qualifier-erosion), [Claim-State Restoration](#claim-state-restoration), [ʘ∞ΔR™](#ʘr--compact-provenance--recovery-notation), [TCoAw™](#tcoaw), [Meta Processing](#meta-processing), [Correction Metabolism](#correction-metabolism).
 
 ---
 
@@ -197,7 +197,7 @@ It allows judgment to be postponed when the object, evidence, relationship, or m
 
 **UNRESOLVED ≠ FAILURE.**
 
-**Related:** [C1](#c1--clarification-process), [Premature Closure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [∞ in ʘ∞ΔR](#%CA%98r--compact-provenance--recovery-notation).
+**Related:** [C1](#c1--clarification-process), [Premature Closure](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/), [∞ in ʘ∞ΔR™](#%CA%98r--compact-provenance--recovery-notation).
 
 ---
 
@@ -401,7 +401,7 @@ For example, restoring **"allegedly"**, **"I suspect"**, **"may"**, or **"in my 
 
 ---
 
-## ʘ∞ΔR — Compact Provenance / Recovery Notation {#ʘr--compact-provenance--recovery-notation}
+## ʘ∞ΔR™ — Compact Provenance / Recovery Notation {#ʘr--compact-provenance--recovery-notation}
 
 A compact notation used experimentally in the project:
 

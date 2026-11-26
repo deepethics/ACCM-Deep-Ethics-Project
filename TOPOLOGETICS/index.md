@@ -6,7 +6,7 @@ permalink: /TOPOLOGETICS/
 date: 2026-10-15
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
 
 
 <!-- ACCM_FORMAT_LINKS_START -->

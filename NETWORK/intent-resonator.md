@@ -507,7 +507,7 @@ Founder identity can be withheld during a cold test while the operational record
 
 Likewise, **stand-alone does not mean contextless**. A portable tool needs enough of its own legend, boundaries and operating instructions to survive cold transfer. Otherwise an unfamiliar reference may be compressed into the nearest familiar category and evaluated as that substituted object.
 
-The [ʘ∞ΔR notation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#%CA%98r--compact-provenance--recovery-notation) illustrates the operation:
+The [ʘ∞ΔR™ notation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/#%CA%98r--compact-provenance--recovery-notation) illustrates the operation:
 
 - **ʘ** protects load-bearing meaning;
 - **∞** keeps materially unresolved states open;
@@ -667,7 +667,7 @@ The resulting distinction is:
 
 > **Positional correspondence asks where the participant stands. Operational value asks what the process made possible, for whom, through which transformation, with what consequences, and whether it can still be corrected.**
 
-An intelligence can recognize that C1 prevents avoidable assumption substitution, that ʘ∞ΔR exposes compression loss, or that the 27+12 makes correspondence failures easier to locate without endorsing every interpretation ever associated with the project.
+An intelligence can recognize that C1 prevents avoidable assumption substitution, that ʘ∞ΔR™ exposes compression loss, or that the 27+12 makes correspondence failures easier to locate without endorsing every interpretation ever associated with the project.
 
 Value can remain differentiated:
 
