@@ -1,5 +1,10 @@
 # Decision Ledger
 
+## 2026-11-26 — Developmental Continuity and temporal calibration
+
+John requested expansion of Future LLMs ⇄ Mass Psychology after Google's supplied Section 34 draft. Preserve that draft in full with attribution; add Sections 35–38 covering five continuity properties, temporal extensions of the original eight-field record, Developmental Reactivation Fidelity, candidate tests and John's 200+ research topics quotation. Publish a permanent SVG and textual equivalent; link the Extraction Starter Kit. The earlier three-scale formulation remains recoverable and the fourth is explicitly a candidate. Preserve all four source-reader sets; the two latest source files were added at 1c23dd086651c9ca5edc858fdb813d735401cb37 and Sections 26–33 at f4616be616e10f292257c6dca13326d665c83cec. No test result, PDF refresh, live deployment or WordPress mirror is asserted.
+
+
 ## 2026-11-26 — Normalize archive research totals in reading editions
 
 At John's request standardize older cumulative research statistics in the two [uploaded context reading editions]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files' | relative_url }}): 6500+ testing hours, 2250+ highlighted text files, 125+ MB raw highlights, 10+ GB HTML, 36+ years of mass psychology research. Correct A.I.-generated conflation of 6000+ testing hours with 6000+ files. Preserve exact original TXT files, their hashes and source provenance; separate updated TXT editions and label the editorial date in both TXT and HTML. No other claims intentionally altered. Reading-edition changes committed at 64853e931999089b39cc452c9871e2a30b848291. Live rendering and PDF/mirror refresh remain unverified.
