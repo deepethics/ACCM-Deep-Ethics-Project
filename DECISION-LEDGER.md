@@ -1,5 +1,10 @@
 # Decision Ledger
 
+## 2026-11-26 — Normalize archive research totals in reading editions
+
+At John's request standardize older cumulative research statistics in the two [uploaded context reading editions]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files' | relative_url }}): 6500+ testing hours, 2250+ highlighted text files, 125+ MB raw highlights, 10+ GB HTML, 36+ years of mass psychology research. Correct A.I.-generated conflation of 6000+ testing hours with 6000+ files. Preserve exact original TXT files, their hashes and source provenance; separate updated TXT editions and label the editorial date in both TXT and HTML. No other claims intentionally altered. Reading-edition changes committed at 64853e931999089b39cc452c9871e2a30b848291. Live rendering and PDF/mirror refresh remain unverified.
+
+
 ## 2026-11-26 — May–June archives: continual harnessing and X/Y developmental asymmetry
 
 John authorized publication of the two complete uploaded texts, separate semantic HTML reading editions and substantive reuse in the new pages. Preserve exact original TXT bytes (Git blob IDs d58f4f6b6ef7beacbef4f1a0a73535d23ba98feb and b63d1b93f0195eafdb14aa74bba86927d2319733). Readers and originals committed at 9c779cb4caff231795f431a29641e892e4fc539e. The source shelf and six historical/operational sections on [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) were committed at 9b0ea8f5739fbb181f2d8cc6248d8dcb1f7e3bac. Section 15 of [Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/#archival-continual-diagnostic' | relative_url }}) and companion additions to Emergent, MAD and Musk Quotes were committed at d453cd28953ed9bb3c4e6d81ff2e2a9114761bdb. Link CMCA and Extraction Starter Kit. Preserve criticisms, John's response, earlier Anchor Ethics versions, and source status; no controlled experimental result or independently verified external claim is asserted. PDF refresh, live reader and mirror verification remain separate.
