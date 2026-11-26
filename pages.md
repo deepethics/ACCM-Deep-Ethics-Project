@@ -350,6 +350,8 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 - **[Cold / default testing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/METHODOLOGY/Cold-Default-Testing/)**
 - **[Cold-testing archive on GitHub](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)**
 
+- **[Why bother?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/)** — comparative differentiation and 185 offerings across ten research clusters, including local A.I. and reciprocal accountability.
+
 ## 7. Shelves {#shelves}
 
 Places waiting for a page. Not ranked.
