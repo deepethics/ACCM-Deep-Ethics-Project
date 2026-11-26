@@ -363,7 +363,7 @@ The candidate benefit concerns useful diversity with provenance and independent 
 
 > Crowdsourcing Deep Ethics & Deep Ethical Swarm Intelligence
 >
-> May be the solution to the Musk Quotes :D
+> May be the solution to the [Musk Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES){:target="_blank" rel="noopener noreferrer"} :D
 >
 > Sure, nothing is guaranteed... but the current top-down system already admits it is failing.
 
