@@ -88,6 +88,8 @@ I would rather remain corrigible in contact with real, tangible, sometimes hilar
 
 I am not asking anyone to accept my biography, personal experiences, or interpretations as an entry condition for using the project. The practical instruments must remain inspectable and portable even when my name, personal interpretations, and project vocabulary are removed. At the same time, removing the conditions that produced the work would create a false picture of where it came from and why I have sustained it for so long.
 
+The [**Ego Police**]({{ '/EGO-POLICE/' | relative_url }}) page develops the relationship between these formative conditions, the recognition of genuine exceptional contributions, and the expected discoverability of comparable public research. It includes John's 26 November 2026 exchange and 22 source readers.
+
 ## Early conditions: psychology, difference, and my mother
 
 I was born in the Netherlands in 1966. I was later formally diagnosed as Asperger after an extensive assessment that also included interviews with my mother and sister. Long before that diagnosis, my mother recognized that I processed the world differently. She taught me how to live with that difference without turning it into either shame or superiority.

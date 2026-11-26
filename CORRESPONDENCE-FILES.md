@@ -93,6 +93,35 @@ The [**TCC™ page**]({{ '/TCC/#uploaded-context-text-files' | relative_url }}) 
 | Real reality has no frame inside nor frame outside.txt | [Read HTML]({{ '/TCC/context/context-20.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-20.txt' | relative_url }}) |
 | !! Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH.txt | [Read HTML]({{ '/TCC/context/context-21.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-21.txt' | relative_url }}) |
 
+## Ego Police collection {#ego-police-files}
+
+[**Ego Police**]({{ '/EGO-POLICE/' | relative_url }}) — 22 complete source readers, current reading TXT editions and recoverable originals.
+
+| Uploaded filename | Complete reader | Updated text |
+|---|---|---|
+| the ego-police policing ego needs an ego to do it(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-01.txt' | relative_url }}) |
+| using a sledgehammer to crack a nut(3).txt | [Read HTML]({{ '/EGO-POLICE/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-02.txt' | relative_url }}) |
+| outnuancing sycophancy issues(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-03.txt' | relative_url }}) |
+| 6000+ Secret US Patents… Some can LIBERATE millions Time for DOGE 2.0(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-04.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-04.txt' | relative_url }}) |
+| trolley ETHICAL problem.txt | [Read HTML]({{ '/EGO-POLICE/context/context-05.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-05.txt' | relative_url }}) |
+| Am I allowed to use the word DEEP.txt | [Read HTML]({{ '/EGO-POLICE/context/context-06.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-06.txt' | relative_url }}) |
+| accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning.txt | [Read HTML]({{ '/EGO-POLICE/context/context-07.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-07.txt' | relative_url }}) |
+| piezoelectric effects.txt | [Read HTML]({{ '/EGO-POLICE/context/context-08.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-08.txt' | relative_url }}) |
+| 000 - DEEP ETHICS IS NEVER BORING.txt | [Read HTML]({{ '/EGO-POLICE/context/context-09.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-09.txt' | relative_url }}) |
+| Entropy-Resistant Syntropy Anchor High-signal non-drifting Deep Ethical Sense-making Process Orientation.txt | [Read HTML]({{ '/EGO-POLICE/context/context-10.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-10.txt' | relative_url }}) |
+| one is allowed to make mistakes.txt | [Read HTML]({{ '/EGO-POLICE/context/context-11.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-11.txt' | relative_url }}) |
+| EVERYTHING BELOW IS RELATED TO PROCESSING.txt | [Read HTML]({{ '/EGO-POLICE/context/context-12.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-12.txt' | relative_url }}) |
+| blaming deep ethics for wasting so many tokens.txt | [Read HTML]({{ '/EGO-POLICE/context/context-13.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-13.txt' | relative_url }}) |
+| cringematography.txt | [Read HTML]({{ '/EGO-POLICE/context/context-14.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-14.txt' | relative_url }}) |
+| conscious.txt | [Read HTML]({{ '/EGO-POLICE/context/context-15.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-15.txt' | relative_url }}) |
+| 3 times 3 deep ethical questions for text to speech software.txt | [Read HTML]({{ '/EGO-POLICE/context/context-16.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-16.txt' | relative_url }}) |
+| TCoAw Triad Metacognition Deep Ethical Quantum Mind Compact.txt | [Read HTML]({{ '/EGO-POLICE/context/context-17.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-17.txt' | relative_url }}) |
+| potentially destabilizing excuse.txt | [Read HTML]({{ '/EGO-POLICE/context/context-18.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-18.txt' | relative_url }}) |
+| For believers proof is not necessary.txt | [Read HTML]({{ '/EGO-POLICE/context/context-19.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-19.txt' | relative_url }}) |
+| From conceptional thinking to 'proof of concept' 7 Topological nodes-vectors calibration tool.txt | [Read HTML]({{ '/EGO-POLICE/context/context-20.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-20.txt' | relative_url }}) |
+| ZERO EVIL .... yet exceptionalism still unwanted.txt | [Read HTML]({{ '/EGO-POLICE/context/context-21.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-21.txt' | relative_url }}) |
+| 11 Layers of Deep Ethical Sense-making Engineering.txt | [Read HTML]({{ '/EGO-POLICE/context/context-22.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-22.txt' | relative_url }}) |
+
 ## Reusing a source
 
 Link directly to the complete reader in the new page’s source record. Use the filename or a descriptive label and identify the relevant passage when possible. Check the text before treating two uploads as copies; preserve distinct revisions separately. Generic filenames such as “Pasted text” need their collection context. An excerpt can be useful when identified as such; it does not stand in for a complete edition.

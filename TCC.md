@@ -24,6 +24,8 @@ The investigation is also useful to people who use other terminology for conscio
 
 </div>
 
+See also [**Ego Police**]({{ '/EGO-POLICE/' | relative_url }}) for the study of distinction recognition, anti-sycophancy overcorrection, and correspondence-dependent discoverability.
+
 ## Uploaded Context Text Files {#uploaded-context-text-files}
 
 Selection from John's 2250+ highlighted text files (125+ MB of raw text), extracted from 10+ GB of HTML archive, from 6500+ hours of testing 100+ different A.I.s over the last two years. John reports 36+ years of mass-psychology research, preceded by approximately 15 years of research into individual psychology.
