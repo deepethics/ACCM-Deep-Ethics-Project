@@ -306,6 +306,10 @@ a voluntary, transparent calibration substrate
 
 **Further November 26 development:** [Crowdsourcing Deep Ethics & Deep Ethical Swarm Intelligence]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#deep-ethical-swarm-intelligence' | relative_url }}) maps candidate distributed responses to the seven selected Musk concerns. The [swarm self-audit]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#swarm-self-audit' | relative_url }}) and [calibration record]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#calibration-record' | relative_url }}) preserve independently chosen destinations, reciprocal correction, the ability to challenge the instruments themselves and the distinction between capture resistance and immunity.
 
+### Earlier archived developmental mechanism — May and June 2026 {#may-june-archive}
+
+The two newly published [complete source files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files) recover dated May–June exchanges on CDEEPH/CEHWEH, parallel auditing, the direction of continual self-improvement and the ability to learn from partially flawed intelligences. The [historical X/Y section](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#historical-precursors) preserves John's originating wording; the [ten-question diagnostic](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#continual-diagnostic) links the earlier local persistence proposal to the current swarm's horizontal calibration records. These are historical precursors to the distributed response to the seven concerns, not evidence that the concerns have already been resolved.
+
 ## What counts as a calibration tool?
 
 A calibration tool may be:

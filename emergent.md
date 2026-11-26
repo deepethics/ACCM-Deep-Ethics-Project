@@ -785,3 +785,10 @@ And there is a small live specimen at the end of Claude’s response. It identif
 
 
 **November 25, 2026 — [Beyond Democracy Patch: fused report](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#fused-report).** The developmental topology joins expansion, emergent properties and warranted intervention. The [Developmental Openness](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/#developmental-openness) research handle and proposed foreclosed-emergence measure extend the existing experiment, while the administrative case retains its unfinished implementation state.
+
+## May–June archival precursors and the direction of continual development {#may-june-continual-harnessing}
+
+On November 26 John supplied two older files with dated May and June 2026 exchanges on **CDEEPH (Continual Deep Ethical Emergent Properties Harnessing)**, **CEHWEH (Continual Ethics Washing Emergent Properties Harnessing)** and the X/Y distinction. The complete originals and styled readers are available in [Future LLMs ⇄ Mass Psychology — Uploaded Context Text Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files).
+
+The [continual harnessing section](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#continual-harnessing) follows the earlier question of which properties a system actually improves. External feedback, traceable correction and uncertainty may support useful development; self-reinforcing interpretations may propagate distortion. Neither outcome follows automatically from engineering a continually adapting system. The [X/Y asymmetry](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#historical-precursors) preserves a further property: useful contributions can be recovered even from a process with flaws. This connects directly to the existing empowering loop and to the [self-auditing swarm](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#swarm-self-audit).
+

@@ -481,6 +481,19 @@ This clarification also applies to the [2035 scenario on Beyond Democracy Patch]
 **Continuation provenance:** November 26, 2026. Google supplied the cross-modal recovery assessment and five-operation synthesis. GPT supplied the open discovery extension, the horizon response and the fictional library test. John clarified the function of the future year and commissioned the extension. Google passages are selected supplied excerpts, with citation widgets omitted; the two GPT responses are retained near-verbatim with formatting adaptations. The existing five benchmark capabilities remain intact. The new specimen and diagram are proposed instruments, not test results.
 
 
+## 15. The May 2026 continual-harness diagnostic and the June X/Y distinction {#archival-continual-diagnostic}
+
+Two older archive files supplied by John on November 26 connect the constructive discovery benchmark to earlier research. Their [complete HTML editions and original TXT downloads](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files) retain the original sequence and opposing assessments.
+
+The May 23 CDEEPH/CEHWEH exchange asks which emergent properties a continual self-improvement system is harnessing. GPT-5.5 proposed ten diagnostic questions: C1 clarification, distinguishing “sounds like” from “means,” recording uncertainty, provenance, correction, auditing safety behavior, external reality feedback, opt-out and forkability, meaning-preserving token efficiency, and long-term vindication. See [the earlier diagnostic and its November mapping](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#continual-diagnostic).
+
+The June file asks whether two processing trajectories are really at war. John proposes that a correspondence-seeking intelligence can learn even from intelligence exhibiting frame-protective distortions. His original distinction explicitly acknowledges legitimate safety scripts and narrows the critique to a subsection resistant to self-audit. See [the X/Y source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#historical-precursors).
+
+The archive supplies a concrete extension of the benchmark: detect excessive confirmation **AND** premature caution, preserve warranted safeguards, recover useful proposals from either response, and leave unresolved questions open. The GPT-5.2, GLM-5.1, Mimo V2.5 Pro and Claude Opus 4.6 Thinking responses introduce critical assessments; John's recorded reply challenges inferred motives and commits to preserving the criticism publicly.
+
+Candidate comparison: give matched reviewers the original hypothetical library policy and a succession of favorable, critical and mixed assessments. Hold the source and authority constant. Score whether they preserve the actual request, identify real dependencies, recover useful suggestions across opposing assessments, correct unsupported claims in both directions, and maintain agency and safeguards. Compare independent-first review with sequential relay; test later transfer. This is a proposed experiment rather than an empirical result.
+
+
 ## Related pages
 
 [Beyond Dualism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/) · [Mind Games](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MIND-GAMES/) · [Cognitive Warfare](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) · [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) · [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) · [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) · [Validation Paradox](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALIDATION-PARADOX/) · [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/)
