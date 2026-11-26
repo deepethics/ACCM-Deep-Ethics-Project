@@ -397,6 +397,8 @@ Millions of locally trained or user-controlled A.I.s could function as **million
 
 The [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) offers one opt-in parallel-assistant architecture. A local assistant can inspect a consequential request through harm, consent, dignity, due process, checks and balances, digital sovereignty, epistemic integrity, noetic diversity, and the other anchors, then consult the main A.I. through the wider action set: proceed, modify, ask, pause, postpone, escalate, refuse, or “I do not know yet.” The main system retains its function; the person gains an additional, sovereign calibration path.
 
+**November 26, 2026 — [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }})** extends this existing empowering loop through professional diversity, indirect influence on future large models, distinct training/retrieval/evaluation pathways, and a proposed longitudinal research program. Explicit institutional adoption is only one possible route; actual downstream influence remains investigable.
+
 ### A voluntary stadium invitation changes the interaction conditions {#stadium-invitation}
 
 **October 28, 2026 — extension from John's stadium thought experiment.** The [full account on Superintelligence]({{ '/SUPERINTELLIGENCE/#stadium-invitation' | relative_url }}) asks participants absorbed in reciprocal fault-finding to notice a specific good thing in another. John explicitly preserves voluntary participation, including people choosing to return after hearing the invitation outside. On this page, the metaphor's distinct job is to identify a change in the conditions from which further contributions can emerge.

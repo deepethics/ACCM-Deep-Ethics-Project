@@ -302,6 +302,8 @@ a voluntary, transparent calibration substrate
 → new trajectories become powerful enough to have measurable effects
 ~~~
 
+**November 26 continuation:** [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) develops John's prediction that independent local calibration tools can affect future model environments indirectly through diverse professional and cultural contributions, even without explicit adoption by a large A.I. company. It separates the possible mechanisms and supplies candidate tests.
+
 ## What counts as a calibration tool?
 
 A calibration tool may be:

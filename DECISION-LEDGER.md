@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-26 — Future LLMs ⇄ Mass Psychology
+
+At John's request create [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) from the prediction of distributed deep ethical emergence through millions of independently situated participants, including diverse professionals. Preserve John's initiating quotation and the GPT-6.2 reaction near-verbatim, reconstruct the feedback diagram with its textual equivalent, and develop distinct transmission pathways, non-imposition, selection asymmetry, a longitudinal program and reopening conditions. Link reciprocally from Emergent and Musk Quotes; register navigation and future PDF export. No population-scale experiment, verified training influence, first PDF or WordPress mirror is asserted.
+
 ## 2026-11-26 — Flawed Red & Blue Team Framing: open discovery and conceptual horizon
 
 Extend the page with the supplied Google A.I. cross-modal recovery and five-operation observations, GPT's open discovery extension, John's future-year clarification, a static diagram and a fictional candidate matched-test specimen with controls and scoring. Preserve the original five capabilities, three fidelity axes, video and source sections. Cross-link the clarification from Beyond Democracy Patch. No empirical test, new PDF, live rendering or WordPress verification is asserted.

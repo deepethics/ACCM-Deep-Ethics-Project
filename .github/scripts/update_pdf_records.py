@@ -48,6 +48,7 @@ ADDITIONS = [
     ("Healthy Ambiguity", f"{BASE}/HEALTHY-AMBIGUITY/", "HEALTHY-AMBIGUITY.pdf", "HEALTHY-AMBIGUITY.md"),
     ("Beyond Democracy Patch", f"{BASE}/BEYOND-DEMOCRACY-PATCH/", "BEYOND-DEMOCRACY-PATCH.pdf", "BEYOND-DEMOCRACY-PATCH.md"),
     ("Flawed Red & Blue Team Framing", f"{BASE}/FLAWED-RED-BLUE-TEAM-FRAMING/", "FLAWED-RED-BLUE-TEAM-FRAMING.pdf", "FLAWED-RED-BLUE-TEAM-FRAMING.md"),
+    ("Future LLMs ⇄ Mass Psychology", f"{BASE}/FUTURE-LLMS-MASS-PSYCHOLOGY/", "FUTURE-LLMS-MASS-PSYCHOLOGY.pdf", "FUTURE-LLMS-MASS-PSYCHOLOGY.md"),
     ("Believism", f"{BASE}/BELIEVISM/", "BELIEVISM.pdf", "BELIEVISM.md"),
     ("Autocomplete", f"{BASE}/AUTOCOMPLETE/", "AUTOCOMPLETE.pdf", "AUTOCOMPLETE.md"),
     ("Academia", f"{BASE}/ACADEMIA/", "ACADEMIA.pdf", "academia.md"),
