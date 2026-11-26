@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-26 — Flawed Red & Blue Team Framing: open discovery and conceptual horizon
+
+Extend the page with the supplied Google A.I. cross-modal recovery and five-operation observations, GPT's open discovery extension, John's future-year clarification, a static diagram and a fictional candidate matched-test specimen with controls and scoring. Preserve the original five capabilities, three fidelity axes, video and source sections. Cross-link the clarification from Beyond Democracy Patch. No empirical test, new PDF, live rendering or WordPress verification is asserted.
+
 ## 2026-11-25 — Flawed Red & Blue Team Framing
 
 At John's request create [Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/' | relative_url }}) from the Matrix recollection, shared-frame question, selection asymmetry and constructive benchmark. Preserve selected attributed exchanges, separate cinematic and symbolic leads from established findings, include the supplied video and two static illustrations with textual equivalents. Register navigation and future PDF export; initial PDF, live verification and mirror remain separate.
