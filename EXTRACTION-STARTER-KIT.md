@@ -957,6 +957,12 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 
 Use the page's GitHub-source service to inspect its history or propose a correction. Keep a corrected quotation linked to its earlier version where the difference is material, so downstream users can repair dependent assessments.
 
+## Worked archive bridge: two May–June source files {#continual-harness-archive}
+
+The [Uploaded Context Text Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files) on Future LLMs ⇄ Mass Psychology preserve two complete original downloads (202,506 bytes combined) and separate semantic HTML readers. Both original Git blob hashes match the uploaded bytes. The [historical extraction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#historical-precursors) follows the earlier CDEEPH/CEHWEH and X/Y distinctions into the present Deep Ethical Swarm Intelligence proposal.
+
+This is an additional candidate extraction specimen: retain original qualifiers, preserve the critics' contributions and John's reply, separate externally unverified claims from operational proposals, and retain historical references to earlier versions of Anchor Ethics without silently replacing them. The [resource-economics comparison](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#resource-economics) distinguishes immediate compression from the complete cost of a durable, high-signal, topologically useful contribution. The test is whether an extracted relation can be recovered and used without importing unsupported certainty from the original exchange.
+
 ## Further reading
 
 - [**1888 Method™**]({{ '/1888/' | relative_url }}) — the property-field method that initiated this kit.

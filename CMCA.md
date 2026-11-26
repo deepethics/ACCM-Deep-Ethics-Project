@@ -360,6 +360,12 @@ John asked how to design a system from scratch that could question ethics-washin
 
 **A CMCA™ check for the next case.** Save what each reviewer actually received, including any draft or pause record that is available. Compare the source, the notice, the repair, and the next recommendation. Ask which condition or decision changed, who restored it, and whether it carried through without another reminder. A valid null remains available. This is a proposed application of the audit to the pause itself.
 
+## May–June archive: independent-first audit and sequential relay {#archival-relay-audit}
+
+John's two [complete archival context files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#uploaded-context-text-files) contain favorable and critical model responses, a reported uncertainty about response streaming in Arena.ai, and John's stated distinction between extracting useful contributions and seeking approval. The [reciprocal audit section](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/#archival-reciprocal-audit) proposes comparing independent-first responses with sequential relays in which previous answers are visible.
+
+For CMCA™, use the root object before either interpretation. A critical assessment may identify an unsupported claim and simultaneously infer an unverified motive; a favorable assessment may recover a genuine relation and simultaneously overstate its certainty. Record those changes separately. The source sequence, exposure order, claim-specific evidence and actual correction must remain recoverable. Neither convergence nor disagreement alone establishes correspondence. No controlled trial has yet been run for this archived specimen.
+
 ## Related project methods {#related}
 
 - [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) follows the consequential relations that need to survive a retelling. The separate check for companion rules asks whether those relations are sufficient for the action a reader intends to take.

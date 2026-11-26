@@ -1,5 +1,10 @@
 # Decision Ledger
 
+## 2026-11-26 — May–June archives: continual harnessing and X/Y developmental asymmetry
+
+John authorized publication of the two complete uploaded texts, separate semantic HTML reading editions and substantive reuse in the new pages. Preserve exact original TXT bytes (Git blob IDs d58f4f6b6ef7beacbef4f1a0a73535d23ba98feb and b63d1b93f0195eafdb14aa74bba86927d2319733). Readers and originals committed at 9c779cb4caff231795f431a29641e892e4fc539e. The source shelf and six historical/operational sections on [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) were committed at 9b0ea8f5739fbb181f2d8cc6248d8dcb1f7e3bac. Section 15 of [Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/#archival-continual-diagnostic' | relative_url }}) and companion additions to Emergent, MAD and Musk Quotes were committed at d453cd28953ed9bb3c4e6d81ff2e2a9114761bdb. Link CMCA and Extraction Starter Kit. Preserve criticisms, John's response, earlier Anchor Ethics versions, and source status; no controlled experimental result or independently verified external claim is asserted. PDF refresh, live reader and mirror verification remain separate.
+
+
 ## 2026-11-26 — Future LLMs ⇄ Mass Psychology: crowdsourcing and swarm self-audit
 
 At John's request extend [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) with Google's four field expansions and swarm analysis, GPT's correction-diversity extension and correspondence refinements, John's crowdsourcing/swarm proposal and self-audit joke, the existing eleven-instrument architecture, two static illustrations and a candidate voluntary calibration record and fictional peer test. Cross-link Musk Quotes. Preserve the original eleven sections; distinguish capture resistance from immunity and Herdr from herd psychology. No real swarm deployment, empirical result, PDF refresh or mirror verification is asserted.
