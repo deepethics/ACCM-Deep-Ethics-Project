@@ -6,6 +6,8 @@ permalink: /EGO-POLICE/
 date: 2026-11-26
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#exceptionalism' | relative_url }}).
+
 # Ego Police
 
 **Can an intelligence recognize a genuinely exceptional contribution, examine it on merit, and welcome its correction or improvement without prematurely neutralizing its distinction?**

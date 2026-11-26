@@ -5,6 +5,8 @@ description: "An extensive, source-status-preserving report on cognitive warfare
 permalink: /COGNITIVE-WARFARE/
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#mass-psychology' | relative_url }}).
+
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/COGNITIVE-WARFARE.pdf">📄 PDF edition</a>

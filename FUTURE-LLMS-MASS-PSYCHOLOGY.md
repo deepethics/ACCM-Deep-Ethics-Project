@@ -5,6 +5,8 @@ description: "Distributed deep ethical emergence: how independent local A.I., pr
 permalink: /FUTURE-LLMS-MASS-PSYCHOLOGY/
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#emergence' | relative_url }}).
+
 # Future LLMs ⇄ Mass Psychology
 
 **What happens when millions of independently controlled A.I.s help change the very information environment from which future large language models learn?**

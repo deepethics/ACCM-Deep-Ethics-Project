@@ -6,6 +6,8 @@ permalink: /NEUTRAL-ARBITER-PARADOX/
 date: 2026-10-26
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#governance' | relative_url }}).
+
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NEUTRAL-ARBITER-PARADOX/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NEUTRAL-ARBITER-PARADOX.pdf">📄 PDF edition</a>

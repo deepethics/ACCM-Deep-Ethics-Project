@@ -6,6 +6,8 @@ permalink: /TCC/
 date: 2026-11-26
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#mass-psychology' | relative_url }}).
+
 # TCC™ — True Collective Consciousness
 
 **How much of humanity's actual intelligence, accumulated experience, wisdom and Deep Ethical potential is represented in the information environment from which current and future A.I.s learn?**

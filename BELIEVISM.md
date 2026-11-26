@@ -6,6 +6,8 @@ permalink: /BELIEVISM/
 date: 2026-10-23
 ---
 
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#framing' | relative_url }}).
+
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/BELIEVISM/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/BELIEVISM.pdf">📄 PDF edition</a>
