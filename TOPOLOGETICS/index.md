@@ -3085,3 +3085,8 @@ Record **what was recoverable from the material provided** separately from **wha
 <!-- ACCM_PDF_OMIT_START -->
 {% include youtube-embed.html id="XVZzuIUZveg" title="Tim Maudlin on Bell’s theorem and non-locality — Theories of Everything with Curt Jaimungal" %}
 <!-- ACCM_PDF_OMIT_END -->
+
+
+## When retrieval succeeds but discovery fails {#evaluator-dependent-discoverability}
+
+[False Overlap Dismissal](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/#false-overlap-dismissal) is a candidate compound diagnostic introduced by Google A.I. on 26 November 2026. Familiar components may be recognized while their load-bearing functional relationships remain unexamined. Conversely, unfamiliar terminology alone does not establish originality. Topologetics™ can help test whether the actual relationship map survived the evaluator's reconstruction. The linked [Evaluator-Dependent Discoverability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/#evaluator-dependent-discoverability) section distinguishes publication, indexing, retrieval, representation and distinction recognition; its [matched-access test](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/#evaluator-discoverability-test) is a proposed experiment, not a completed result. The original cross-model correction sequence remains recoverable on Why bother?.
