@@ -37,6 +37,8 @@ Jump: [Current development routes](#current-development-routes) · [Check a cold
 
 **[Ego Police]({{ '/EGO-POLICE/' | relative_url }})** — Deep Ethical Exceptionalism, discoverability, sledgehammer heuristic, anti-sycophancy and 22 complete source readers.
 
+[**ʘ∞ΔR — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original May protocol and November longitudinal calibration.
+
 **[TCC™ — True Collective Consciousness]({{ '/TCC/' | relative_url }})** — individual psychology, mass psychology, LLMs, collective representational recovery and 21 complete source readers with text downloads.
 
 **Updated 25 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
