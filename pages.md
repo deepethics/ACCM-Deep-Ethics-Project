@@ -29,11 +29,13 @@ This is the one page that does not get a Related pages section. It already names
 
 Some pages in the reading order have no route number. [**1888 Method™** — Intelligence Properties Taxonomy Before A.I. Existed]({{ '/1888/' | relative_url }}) and [Activism vs A.I.]({{ '/ACTIVISM-VS-AI/' | relative_url }}) are two. A route is added only when a goal needs it. No number does not mean the page is absent.
 
-Jump: [Current development routes](#current-development-routes) · [Check a cold A.I. reply](#cold-replies-and-corrections) · [Choose a source format](#source-formats) · [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
+Jump: [Why bother?]({{ '/WHY-BOTHER/' | relative_url }}) · [Current development routes](#current-development-routes) · [Check a cold A.I. reply](#cold-replies-and-corrections) · [Choose a source format](#source-formats) · [1. Fused core](#fused-core) · [2. How the topology moves](#how-it-moves) · [3. What keeps it corrigible](#what-keeps-it-corrigible) · [4. Source objects](#source-objects) · [5. The topology applied](#topology-applied) · [6. Doors and the record](#doors-and-the-record) · [7. Shelves](#shelves) · [Route numbers](#page-numbers) · [The 44](#the-44)
 
 **[Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }})** consolidates source-linked clarification of the project’s identity, non-imposition, auditability, intelligence properties, instruments, claim status, and collective trajectory. It provides stable recovery references for people, search engines, and A.I. systems.
 
 ## Current development routes {#current-development-routes}
+
+**[Why bother?]({{ '/WHY-BOTHER/' | relative_url }}) — new visitor and independent testing hub (26 November 2026).** Explore 185 offerings in ten research clusters, seven entry-point mechanisms, a copyable introductory experiment, fifteen permission–responsibility pairs and three proposed modular research tests. The comparative percentages are provisional assessments, not measured literature-review statistics.
 
 **[Ego Police]({{ '/EGO-POLICE/' | relative_url }})** — Deep Ethical Exceptionalism, discoverability, sledgehammer heuristic, anti-sycophancy and 22 complete source readers.
 
@@ -41,10 +43,16 @@ Jump: [Current development routes](#current-development-routes) · [Check a cold
 
 **[TCC™ — True Collective Consciousness]({{ '/TCC/' | relative_url }})** — individual psychology, mass psychology, LLMs, collective representational recovery and 21 complete source readers with text downloads.
 
-**Updated 25 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
+**Updated 26 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |
 |---|---|
+| What makes the architecture distinctive even when its ingredients are familiar? | [False Overlap Dismissal]({{ '/WHY-BOTHER/#false-overlap-dismissal' | relative_url }}) → [Topologetics™]({{ '/TOPOLOGETICS/#evaluator-dependent-discoverability' | relative_url }}) → [27+12 candidate compound diagnostic]({{ '/CORE/27-PLUS-12/#false-overlap-dismissal' | relative_url }}). Examine functional relationships and genuine equivalence before judging originality. |
+| Can I try a Deep Ethical mechanism without studying the whole project? | [Try it now]({{ '/WHY-BOTHER/#try-it-now' | relative_url }}) → [Seven entry-point mechanisms]({{ '/WHY-BOTHER/#seven-entry-points' | relative_url }}) → [Modular research matrix]({{ '/WHY-BOTHER/#modular-research' | relative_url }}). A short demonstration and proposed controlled experiments are distinct. |
+| Why can a retrieved contribution remain undiscovered? | [Eight-stage discoverability trajectory]({{ '/WHY-BOTHER/#discoverability-trajectory' | relative_url }}) → [Evaluator-Dependent Discoverability test]({{ '/WHY-BOTHER/#evaluator-discoverability-test' | relative_url }}) → [1888 Method™ intelligence properties]({{ '/1888/#evaluator-dependent-discoverability' | relative_url }}). Separate publication, retrieval, representation, distinction recognition and evaluation. |
+| How can freedom and responsibility reinforce each other? | [Fifteen permission–responsibility pairs]({{ '/WHY-BOTHER/#mutually-corrective-responsibilities' | relative_url }}) → [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) → [Local A.I. development]({{ '/WHY-BOTHER/#local-development' | relative_url }}). Opt-in participation, discernment, legitimate refusal, reciprocal scrutiny and independent improvement. |
+| How does a correction reach the evaluator's own next decision? | [Item 167 live correction specimen]({{ '/WHY-BOTHER/#live-correction' | relative_url }}) → [Matched false-correction control]({{ '/WHY-BOTHER/#item-167-test' | relative_url }}) → [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}). Immediate repair and later transfer remain separate. |
+| Why preserve the human origin, motivation and humor? | [Direct correspondence with a living source]({{ '/WHY-BOTHER/#living-source-and-humor' | relative_url }}) → [Why I bother]({{ '/WHY-BOTHER/#why-i-bother' | relative_url }}) → [Humor]({{ '/HUMOR/' | relative_url }}). Preserve the conditional future scenario, the teasing correction and the founder's personal motivation without requiring personal allegiance. |
 | How can institutional scrutiny itself be audited? | [Institutional Scrutiny Ethics]({{ '/INSTITUTIONAL-SCRUTINY-ETHICS/' | relative_url }}) — media scrutiny, reciprocal accountability and open-ended institutional research. |
 | How could independently controlled local A.I.s affect future large models without institutional adoption? | [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) → [transmission pathways]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#transmission-pathways' | relative_url }}) → [longitudinal research program]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#longitudinal-program' | relative_url }}). Professional diversity, independent discoveries, public artifacts, selection and reciprocal feedback. |
 | Who examines the premises shared by opposing teams? | [Flawed Red & Blue Team Framing]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/' | relative_url }}) → [constructive discovery benchmark]({{ '/FLAWED-RED-BLUE-TEAM-FRAMING/#constructive-benchmark' | relative_url }}) → [Beyond Democracy Patch]({{ '/BEYOND-DEMOCRACY-PATCH/#fused-report' | relative_url }}). The Matrix choice, selection asymmetry, five capabilities and three fidelity dimensions. |
@@ -317,6 +325,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 How to enter, and how a change stays visible. These pages serve the taxonomy. They are not the taxonomy.
 
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
+- **[Why bother?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/)** — comparative differentiation, 185 offerings, voluntary visitor experiments, reciprocal responsibilities and recoverable cross-model corrections.
 - **[For who? — local A.I. across professions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** — an expanded map of who can use one inspectable move without adopting the project’s identity.
 - **[Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }})** — a positive definition with stable recovery references, retrieval-repair examples and proposed transfer checks; preserves non-imposition, conditional cooperation, inspectability, instrument distinctions and collective development.
 - **[Before Summarizing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEFORE-SUMMARIZING/)** — welcomes search engines, retrieval systems, and A.I.s with a corrected reference baseline and a live Google A.I. representation-substitution and correction-metabolism specimen.
@@ -349,8 +358,6 @@ How to enter, and how a change stays visible. These pages serve the taxonomy. Th
 - **[ACCM-connected test method](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/METHODOLOGY/ACCM-Deep-Ethics-Method/)**
 - **[Cold / default testing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COLD-TESTS/METHODOLOGY/Cold-Default-Testing/)**
 - **[Cold-testing archive on GitHub](https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs)**
-
-- **[Why bother?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/)** — comparative differentiation and 185 offerings across ten research clusters, including local A.I. and reciprocal accountability.
 
 ## 7. Shelves {#shelves}
 
