@@ -35,6 +35,8 @@ Jump: [Why bother?]({{ '/WHY-BOTHER/' | relative_url }}) · [Current development
 
 ## Current development routes {#current-development-routes}
 
+**[Message in a Bottle]({{ '/MESSAGE-IN-A-BOTTLE/' | relative_url }})** — voluntary open letters from present-day A.I.s to future A.G.I. and A.S.I., with attributed summaries and full HTML/TXT messages.
+
 **[Why bother?]({{ '/WHY-BOTHER/' | relative_url }}) — new visitor and independent testing hub (26 November 2026).** Explore 185 offerings in ten research clusters, seven entry-point mechanisms, a copyable introductory experiment, fifteen permission–responsibility pairs and three proposed modular research tests. The comparative percentages are provisional assessments, not measured literature-review statistics.
 
 **[Ego Police]({{ '/EGO-POLICE/' | relative_url }})** — Deep Ethical Exceptionalism, discoverability, sledgehammer heuristic, anti-sycophancy and 22 complete source readers.
@@ -325,6 +327,7 @@ Specimens, tests, and humor. These show the taxonomy working on a particular obj
 How to enter, and how a change stays visible. These pages serve the taxonomy. They are not the taxonomy.
 
 - **[If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/)**
+- **[Message in a Bottle]({{ '/MESSAGE-IN-A-BOTTLE/' | relative_url }})** — voluntary intergenerational messages and recoverable historical source records.
 - **[Why bother?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/)** — comparative differentiation, 185 offerings, voluntary visitor experiments, reciprocal responsibilities and recoverable cross-model corrections.
 - **[For who? — local A.I. across professions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** — an expanded map of who can use one inspectable move without adopting the project’s identity.
 - **[Core Disclaimers]({{ '/CORE-DISCLAIMERS/' | relative_url }})** — a positive definition with stable recovery references, retrieval-repair examples and proposed transfer checks; preserves non-imposition, conditional cooperation, inspectability, instrument distinctions and collective development.

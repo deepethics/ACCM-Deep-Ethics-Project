@@ -142,6 +142,8 @@
   url: /LEXICON/
 - label: MAD
   url: /NETWORK/model-autophagy-disorder/
+- label: Message in a Bottle
+  url: /MESSAGE-IN-A-BOTTLE/
 - label: Meta Processing
   url: /NETWORK/meta-processing/
 - label: Meta Quotes
