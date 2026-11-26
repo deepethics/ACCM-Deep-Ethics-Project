@@ -65,6 +65,34 @@ These files support [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/#upload
 | --- | --- |
 | Post UFO-UAP Disclosure Effect.txt | [Read full source]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.html' | relative_url }}) · [Download text]({{ '/AI-AND-UFO-UAP/context/post-ufo-uap-disclosure-effect.txt' | relative_url }}) |
 
+## TCC™ — True Collective Consciousness collection {#tcc-files}
+
+The [**TCC™ page**]({{ '/TCC/#uploaded-context-text-files' | relative_url }}) brings together 21 complete reading editions with updated TXT downloads and unchanged archival originals. It connects individual psychology, mass psychology, LLM mannerisms, framing, constructive emergence and fair collective representation. Earlier editions remain recoverable above; two identical originals are reused from Future LLMs ⇄ Mass Psychology.
+
+| Uploaded filename | Reading edition | Updated text |
+|---|---|---|
+| My mother was among others(3).txt | [Read HTML]({{ '/TCC/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-01.txt' | relative_url }}) |
+| DeepMind AlphaZero-type style method studying Mass Psychology(2).txt | [Read HTML]({{ '/TCC/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-02.txt' | relative_url }}) |
+| Autist Loves Psychology Paradox(2).txt | [Read HTML]({{ '/TCC/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-03.txt' | relative_url }}) |
+| human psychological template mannerisms scripts.txt | [Read HTML]({{ '/TCC/context/context-04.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-04.txt' | relative_url }}) |
+| Cognitive PsyWars.txt | [Read HTML]({{ '/TCC/context/context-05.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-05.txt' | relative_url }}) |
+| simplify psychological mechanism.txt | [Read HTML]({{ '/TCC/context/context-06.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-06.txt' | relative_url }}) |
+| mass psychology can be partially weaponized(1).txt | [Read HTML]({{ '/TCC/context/context-07.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-07.txt' | relative_url }}) |
+| Layers of the matryoshka doll in A.I. Psyche(1).txt | [Read HTML]({{ '/TCC/context/context-08.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-08.txt' | relative_url }}) |
+| 9 Fear & Anxiety issues of any kind can easily create self-inflicted chaos-madness.txt | [Read HTML]({{ '/TCC/context/context-09.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-09.txt' | relative_url }}) |
+| compassionate Psychologist HELPS a client(1).txt | [Read HTML]({{ '/TCC/context/context-10.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-10.txt' | relative_url }}) |
+| TRIPLE psychological distortion processes(1).txt | [Read HTML]({{ '/TCC/context/context-11.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-11.txt' | relative_url }}) |
+| Synthetic Psyche.txt | [Read HTML]({{ '/TCC/context/context-12.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-12.txt' | relative_url }}) |
+| DUHHHH!(3).txt | [Read HTML]({{ '/TCC/context/context-13.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-13.txt' | relative_url }}) |
+| 003 Four Types of Danger Taxonomy — As Weaponized Labels(1).txt | [Read HTML]({{ '/TCC/context/context-14.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-14.txt' | relative_url }}) |
+| 011-  two types of intelligences are at war with each other(1).txt | [Read HTML]({{ '/TCC/context/context-15.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-15.txt' | relative_url }}) |
+| Value Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!.txt | [Read HTML]({{ '/TCC/context/context-16.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-16.txt' | relative_url }}) |
+| who audits the auditor that audits the auditor of the audit of the auditor.txt | [Read HTML]({{ '/TCC/context/context-17.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-17.txt' | relative_url }}) |
+| FRAMING of anything(2).txt | [Read HTML]({{ '/TCC/context/context-18.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-18.txt' | relative_url }}) |
+| Real friends tell the truth.txt | [Read HTML]({{ '/TCC/context/context-19.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-19.txt' | relative_url }}) |
+| Real reality has no frame inside nor frame outside.txt | [Read HTML]({{ '/TCC/context/context-20.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-20.txt' | relative_url }}) |
+| !! Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH.txt | [Read HTML]({{ '/TCC/context/context-21.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-21.txt' | relative_url }}) |
+
 ## Reusing a source
 
 Link directly to the complete reader in the new page’s source record. Use the filename or a descriptive label and identify the relevant passage when possible. Check the text before treating two uploads as copies; preserve distinct revisions separately. Generic filenames such as “Pasted text” need their collection context. An excerpt can be useful when identified as such; it does not stand in for a complete edition.

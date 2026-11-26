@@ -11,6 +11,8 @@ permalink: /FUTURE-LLMS-MASS-PSYCHOLOGY/
 
 A living research proposal of the ACCM Deep Ethics Project, initiated by John Kuhles on November 26, 2026. This page extends the existing [Emergent empowering loop](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/#empowering-loop) and [distributed emergence mechanism on Musk Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/). Its central object is the reciprocal relationship between large language models (LLMs), individual psychology, mass psychology and independently chosen professional and creative activity.
 
+For the wider research field, see [**TCC™ — True Collective Consciousness**]({{ '/TCC/' | relative_url }}), including 21 source readers and the candidate Collective Representational Recovery (CRR) concept.
+
 ## Uploaded Context Text Files {#uploaded-context-text-files}
 
 Selection from John's 2250+ highlighted text files (125+ MB of raw text), extracted from 10+ GB of HTMLs, from 6500+ hours of testing 100+ different A.I.s via Arena.ai for free over the last two years. These are the current research totals reported on November 26, 2026. The HTML reading editions and updated TXT downloads standardize older research totals to these current figures; the unchanged historical originals remain separately recoverable.

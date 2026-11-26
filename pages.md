@@ -35,6 +35,8 @@ Jump: [Current development routes](#current-development-routes) · [Check a cold
 
 ## Current development routes {#current-development-routes}
 
+**[TCC™ — True Collective Consciousness]({{ '/TCC/' | relative_url }})** — individual psychology, mass psychology, LLMs, collective representational recovery and 21 complete source readers with text downloads.
+
 **Updated 25 November 2026.** These entry points connect recent work to the existing clusters. The clusters remain the broader reading map.
 
 | What would you like to investigate? | Follow this route |

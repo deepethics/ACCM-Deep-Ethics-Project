@@ -133,6 +133,8 @@ John's bridge concerns a recurring model behavior: when a system predicts contro
 
 Collective consciousness becomes useful only if the collective remains capable of noticing what its dominant representations exclude.
 
+[**TCC™ — True Collective Consciousness**]({{ '/TCC/' | relative_url }}) develops John's refinement with 21 complete source editions, connecting individual and mass psychology, LLM mannerisms, reciprocal dignity and the empowering side of the collective feedback loop.
+
 [Primary video](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
