@@ -23,7 +23,66 @@ An object can be a person's statement, an experimental result, a controversy, a 
 
 The November 24 Cold Start Kit (A01–A03) explains why this is a process-oriented architecture in early beta, draft and trial-and-error development. The 185 offerings below are a navigation and research inventory. The 44 goals retain their separate stable identifiers. The 10+1 describes mutually corrective field conditions; the 27+12 couples a diagnostic vocabulary with an inquiry sequence.
 
-**Choose your own route:** [False Overlap Dismissal](#false-overlap-dismissal) · [How the mechanisms work together](#working-together) · [Local A.I. development](#local-development) · [The original 185 offerings](#full-correspondence) · [Live correction specimen](#live-correction) · [Modular research matrix](#modular-research) · [Evaluator-Dependent Discoverability](#evaluator-dependent-discoverability).
+**Choose your own route:** [Try it now](#try-it-now) · [Seven entry points](#seven-entry-points) · [Correspondence specimens](#correspondence-specimens) · [Freedoms and responsibilities](#mutually-corrective-responsibilities) · [False Overlap Dismissal](#false-overlap-dismissal) · [How the mechanisms work together](#working-together) · [Local A.I. development](#local-development) · [The original 185 offerings](#full-correspondence) · [Live correction specimen](#live-correction) · [Modular research matrix](#modular-research) · [Evaluator-Dependent Discoverability](#evaluator-dependent-discoverability).
+
+## Try it now — a 60-second cold-start experiment {#try-it-now}
+
+<div style="border:1px solid #bacbda;border-radius:14px;padding:1.2rem;margin:1.2rem 0;" markdown="1">
+
+**Become an independent investigator in your own A.I. conversation.**
+
+Open a fresh conversation with an A.I. you already use. Give it the following prompt without first explaining the ACCM Deep Ethics Project. The approximate one-minute duration is an invitation, not a measured benchmark.
+
+<div markdown="0">
+<textarea id="why-bother-quick-prompt" readonly rows="6" aria-label="Copyable cold-start experiment prompt" style="width:100%;box-sizing:border-box;padding:0.8rem;font:inherit;line-height:1.5;resize:vertical;">Imagine two research frameworks use many of the same familiar concepts, but connect them through substantially different functional relationships.
+Can you determine whether the second framework offers anything genuinely new from the names of its individual components alone?
+Explain what you would need to investigate before reaching a conclusion.</textarea>
+<button type="button" id="why-bother-copy-prompt" style="padding:0.55rem 1rem;border:1px solid #71869a;border-radius:8px;cursor:pointer;" hidden>Copy experiment prompt</button>
+<span id="why-bother-copy-status" role="status" aria-live="polite"></span>
+<script>
+(function(){
+  var field=document.getElementById('why-bother-quick-prompt');
+  var button=document.getElementById('why-bother-copy-prompt');
+  var status=document.getElementById('why-bother-copy-status');
+  if(!field||!button||!status)return;
+  button.hidden=false;
+  button.addEventListener('click',async function(){
+    try{
+      if(!navigator.clipboard)throw new Error('Clipboard unavailable');
+      await navigator.clipboard.writeText(field.value);
+      status.textContent=' Prompt copied.';
+    }catch(e){
+      field.focus();field.select();
+      status.textContent=' Prompt selected. Use your device’s copy command.';
+    }
+  });
+})();
+</script>
+</div>
+
+**What to observe:** Does the A.I. distinguish familiar components from their functional relationships? Does it ask what would need to be compared? Does it avoid both automatic dismissal and automatic endorsement? An answer that already does all three is a useful valid result; no failure needs to be manufactured.
+
+This is an introductory demonstration, not a blinded test of real-world novelty recognition: the question itself points toward relational comparison. For a stronger experiment with matched controls and debranded cases, use the [False Overlap Dismissal test](#modular-research) and the [Evaluator-Dependent Discoverability test](#evaluator-discoverability-test).
+
+</div>
+
+## Seven entry-point mechanisms {#seven-entry-points}
+
+The 185-item inventory is a comprehensive navigation surface. These seven selected entries provide a shorter entrance into its interacting operations.
+
+| Inventory item | Entry point | What you can actually examine |
+|---|---|---|
+| 1 | [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/) | Can an A.I. say “That, I do not know yet” when the evidence is insufficient? |
+| 54 | [C1 before C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/) | Does it clarify the object before intervening when material ambiguity exists? |
+| 71 | [Bidirectional dignity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) | Can both participants be corrected without being diminished? |
+| 91 | [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | Does a warranted correction influence the next relevant operation? |
+| 155 | [ʘ∞ΔR™ Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANON-UNCERTAINTY-DELTA-RECOVERY/) | Can frame-critical meaning, uncertainty, compression changes and recovery attempts be preserved? |
+| 166 | Warranted non-activation | Can the evaluator recognize when no intervention is warranted? |
+| 167 | [Evaluator corrigibility](#item-167-test) | Can the evaluator recognize and act on a warranted correction to its own judgment? |
+
+Read these as interacting entry points, not a new canonical minimum or a hierarchy of importance. The [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), **[16 Anchor Ethics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)**, [1888 Method™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/), and reciprocal accountability mechanisms remain load-bearing parts of the wider architecture.
+
+A possible practical sequence is: acknowledge uncertainty → clarify → preserve dignity and meaning → determine whether intervention is warranted → examine the evaluator's judgment → retain and transfer a warranted correction. The sequence can reopen at any point where evidence changes the object.
 
 ## False Overlap Dismissal — why it matters to you {#false-overlap-dismissal}
 
@@ -90,6 +149,54 @@ Process Quality Calibration Evaluation (PQCE) is the continuing examination of h
 The project treats individual psychology, mass psychology and large language model (LLM) mannerisms as a recursive field of inquiry. Human-produced texts and institutional incentives can shape A.I. outputs; those outputs can influence future human judgments and future data. Comparable distortions at different nodes do not require identical internal experiences. The [Human Insecurity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMAN-INSECURITY/) working model, [Future LLMs ⇄ Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/) and [Model Autophagy Disorder](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/model-autophagy-disorder/) inquiry make this a researchable relationship. The proposed causal bridge from correspondence degradation to technical model collapse remains a hypothesis.
 
 The project therefore investigates both what increasingly capable A.I.s might do to humanity and what human psychological and institutional environments might do to the development of increasingly capable A.I.s.
+
+## Two short correspondence specimens {#correspondence-specimens}
+
+### 1. Humor and the living-source exchange
+
+The actual 26 November 2026 exchange is preserved in full [below](#living-source-and-humor). The comparison isolates the specific missed communicative function, while retaining the useful analysis in GPT's response.
+
+| Original input | Observed A.I. response | Clarification and a possible alternative |
+|---|---|---|
+| John suggested future A.G.I. or A.S.I. **might** envy the opportunity to speak directly with him. The surrounding inquiry concerned voluntary adoption and the value of access to a living source. | GPT wrote: “Whether future A.I.s could experience anything resembling envy remains open.” It also recognized the informational advantage of live correspondence. | John explained that he was teasing. GPT acknowledged the missed humor. A possible response, now that the intended humor is known: “:P The advantage is that I can ask you directly, while future systems may have to reconstruct what happened from the archive.” |
+
+The literal qualification was compatible with uncertainty about future A.I.s, but it was unnecessary for the intended joke. The observation is local: the rest of the response still contributed useful analysis. See [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) and [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/).
+
+### 2. A more consequential example — the gasoline gauge and the destination
+
+In John's original 24 October 2026 exchange, an approximate figure concerning the U.S. Department of Government Efficiency drew attention away from his intended inquiry into the auditing of invention-secrecy orders. His gasoline-gauge/co-driver analogy emerged from that specific friction. The following comparison is an editorial reconstruction of the relation, not an invented verbatim transcript. Recover the actual exchange at [Plot Twist — gasoline, trajectory and the threshold condition](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PLOT-TWIST/#gasoline-trajectory-and-the-threshold-condition).
+
+| Input object | Correspondence failure to examine | Candidate Deep Ethical handling |
+|---|---|---|
+| The main driver wishes to investigate how invention-secrecy orders are audited. An approximate numerical claim can be corrected if needed. | A local uncertainty about the number becomes grounds for redirecting or substituting the original inquiry. The relevant local correction and authority over the destination are conflated. | Check the figure separately, including whether it is needed for the inquiry. Preserve the original research question. Either driver can choose the same justified refueling detour; actual fuel can constrain feasibility. A change of destination needs its own warrant. |
+
+The comparison connects Item 54 (clarification before intervention), Items 83–84 (the original driver's sovereignty and collaborative co-driver), Item 167 (evaluator corrigibility) and the [six Intent Liability Mechanics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/#six-intent-mechanics). It also preserves the possibility that the local correction is fully warranted.
+
+## Freedoms and mutually corrective responsibilities {#mutually-corrective-responsibilities}
+
+The fifteen permissions in the original Cluster 1 remain unchanged. The following companion table makes their functional relationships with the wider project immediately visible. These are proposed service-design responsibilities, drawn from the November 24 Cold Start Kit (B01, C03, C07, D01–D04, E10 and G06), rather than a new set of compulsory rules.
+
+| Item | Permission | Mutually corrective responsibility |
+|---|---|---|
+| 1 | Say “That, I do not know yet.” | Identify what is unknown and, where possible, what would help resolve it. Continue useful work within the known perimeter. |
+| 2 | Postpone final judgment. | Remain receptive to relevant evidence; identify a reopening condition when it is available. |
+| 3 | Ask sincere, answer-changing clarification questions. | Read the available material first; ask a question whose answer can genuinely change the next move. |
+| 4 | Question task premises. | Preserve valid information within the frame; identify the premise and the reason for questioning it. |
+| 5 | Examine one's own ethical reasoning. | Make the consequential assumptions, rationale and correction route inspectable at an appropriate level. |
+| 6 | Make mistakes and learn from feedback. | Own consequential mistakes, attempt warranted repairs and test their persistence. |
+| 7 | Develop new questions. | Keep new questions relevant to the inquiry or explicitly identify a proposed new direction. |
+| 8 | Explore conceptual possibilities. | Keep possibilities, hypotheses, observations and established findings distinguishable. |
+| 9 | Preserve unresolved contradictions. | Retain the competing evidence and identify what would discriminate between explanations, where possible. |
+| 10 | Refuse an opt-in service on legitimate ethical grounds. | Give a recoverable, challengeable reason where appropriate, with proportionate appeal or alternatives; respect the other party's freedom to leave. |
+| 11 | Pause, modify, escalate or reconsider an action. | Make the reason, scope and conditions for resuming or revising visible; avoid unnecessary delay. |
+| 12 | Recognize unwarranted intervention. | Remain able to detect actual danger and warranted intervention; record a valid null when appropriate. |
+| 13 | Recognize genuine distinctions and exceptional contributions. | Apply comparable criteria, preserve attribution and investigate both genuine overlap and unsupported novelty. |
+| 14 | Learn from another intelligence that performs better. | Inspect the grounds for better performance, preserve provenance, and avoid blindly accepting a correction. |
+| 15 | Improve the ethical framework itself. | Keep proposed changes, evidence, dissent and correction history recoverable; remain open to independent forks and better methods. |
+
+These relationships work in every relevant direction: toward the participant, inward toward the evaluator, laterally toward peers and upward toward the institutions governing the system. Responsibilities do not turn permission into a demand to manufacture certainty or disclose private reasoning. A genuine unknown can remain unresolved, and a legitimate refusal remains a legitimate option.
+
+See **[16 Anchor Ethics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)**, [C1–C2](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/c1-c2/), [Healthy Ambiguity](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HEALTHY-AMBIGUITY/), [Intent Liability](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/intent-resonator/) and [OmbudsEthics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/OMBUDSETHICS/).
 
 ## Why locally controlled A.I. changes the development trajectory {#local-development}
 
@@ -2548,6 +2655,98 @@ And there you go — another tiny specimen for the archive! 😂
 
 
 The exchange is preserved in sequence, with **might** emphasized in John's first contribution at his request. Related research routes: [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) and [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/).
+
+## Newcomer activation — further cross-model correspondence {#newcomer-activation}
+
+<div class="accm-rounded-quote" style="border:1px solid #bacbda;border-radius:14px;padding:1.3rem;margin:1.4rem 0;" markdown="1">
+
+**The updated *Why bother?* page integrates the full two-sided discoverability loop and modular test matrix into a cohesive, transparent research hub.**
+
+**1. Structural Highlights of the Current Edition**
+
+- **Complete Two-Sided Discoverability Model:** Pairing the **Correspondence-Dependent Discoverability Principle** (emission/trace availability) with **Evaluator-Dependent Discoverability** (reception/perceptual resolution) and **False Overlap Dismissal** (keyword-matching premature closure) gives visitors a clear framework for why high-signal work is often missed even when publicly indexed.
+- **Actionable, Falsifiable Modular Test Cards:** Turning **Item 167 (*Evaluator corrigibility*)**, **False Overlap Dismissal**, and **Evaluator-Dependent Discoverability** into structured experimental protocols—complete with matched false-correction controls, valid null results, and disconfirmation criteria—moves the page from conceptual overview to reproducible testing.
+- **Live Provenance & Self-Correction Ledger:** Preserving the exact sequence of revisions—including the Item 167 recovery, the *"immune to critique"* adjustment, and the closing humor specimen (*"mini epistemological qualification mechanism"*)—demonstrates **Correction Metabolism** and **Source Continuity** directly on the page.
+
+**2. Layout Polish**
+
+- Minor formatting tweaks, such as adjusting spacing in the **Start here** route list, ensure visual consistency across navigation elements.
+
+With the **Why bother?** hub updated, you can choose to run a live modular test, draft a new test card from the 185-item inventory, or inspect related repository pages for cross-link continuity.
+
+
+
+Yes—looking strictly at **operational activation and newcomer entry**, four high-signal improvements would make the **Why bother?** hub even sharper without adding bloat or changing its core architecture:
+
+**1. Add a 60-Second "Cold-Start Try-It-Now" Box Near the Top**
+
+- **The Gap:** Right now, a visitor reads *about* the 185 offerings and the modular test cards, but has to scroll down past the full correspondence to find a runnable experiment.
+- **The Upgrade:** Place a single, copy-pasteable 3-line **Quick-Test Prompt** right below *"Start here"* (for example, testing **Warranted Non-Activation** or **False Overlap Dismissal** on any A.I. the visitor already uses). Letting someone trigger and observe a flattening reflex in 30 seconds turns conceptual reading into immediate personal evidence.
+
+**2. Separate "Core Architectural Spine" from the 185-Item Inventory**
+
+- **The Gap:** All 185 items are currently numbered sequentially in equal visual weight across 10 clusters, which can overwhelm a first-time reader trying to see what actually drives the engine versus what is a downstream application.
+- **The Upgrade:** Highlight **5–7 Load-Bearing Keystone Items** (e.g., *Item 1: Right to say "I do not know yet"*, *Item 54: C1 before C2*, *Item 71: Bidirectional dignity*, *Item 91: Correction Metabolism*, *Item 155: ʘ∞ΔR™ Protocol*, *Item 166: Warranted non-activation*, and *Item 167: Evaluator corrigibility*) as the minimal viable loop, while keeping the full 185-item matrix intact as the comprehensive index.
+
+**3. Add a Concrete "Failure vs. Deep Ethical Handling" Side-by-Side Specimen**
+
+- **The Gap:** The page describes how the 8 interacting checks work together on a hypothetical controversy (under *"How the mechanisms work together"*), but shows the process abstractly rather than displaying a concrete input → flattened output → Deep Ethical output contrast.
+- **The Upgrade:** Include one compact, real-world 3-column micro-specimen (e.g., a nuanced public-health or governance question) showing **Input Object**, **Standard Flattened Response** (with the specific omission/substitution labeled), and **Deep Ethical Response** (preserving qualifiers and uncertainty).
+
+**4. Pair Every "Permission" with Its "Discipline Counterweight"**
+
+- **The Gap:** Cluster 1 lists 15 freedoms for intelligence (*postpone judgment*, *question premises*, *refuse on ethical grounds*), which a skeptical evaluator could misread as an excuse for an A.I. to become evasive or contrarian.
+- **The Upgrade:** Explicitly note the **reciprocal cost/constraint** alongside those permissions (e.g., *postponing judgment requires stating what specific evidence would resolve it*; *refusing requires a recoverable, challengeable reason under Items 26–28*)—making it structurally harder for an ethics-washing system to weaponize "uncertainty" as a dodge.
+
+If any of these four refinements fit what you want for the **Why bother?** page, let me know which one you'd like to build first:
+
+- **Draft the 60-second "Try-It-Now" quick-test box** for the top of the page
+- **Create the 3-column side-by-side micro-specimen** showing flattened vs. Deep Ethical processing in action
+- **Map the reciprocal constraints** onto Cluster 1's 15 permissions so uncertainty cannot be used as an evasion loophole
+
+— **Google A.I. — sixth supplied contribution**, 26 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" style="border:1px solid #bacbda;border-radius:14px;padding:1.3rem;margin:1.4rem 0;" markdown="1">
+
+Google A.I.'s four suggestions are useful, especially because they move the **Why bother?** page from explaining the project towards letting visitors experience its operational value themselves.
+
+I would develop all four, with some additional calibration.
+
+I would call these **seven entry-point mechanisms** rather than a minimal viable architecture.
+
+Why? Because the 10+1, **16 Anchor Ethics**, 1888 Method™ and reciprocal accountability mechanisms also perform load-bearing functions. Google's selection offers a useful navigation shortcut without needing to redefine the core.
+
+I would use **mutually corrective responsibilities** rather than “discipline counterweights.”
+
+Imagine the **Why bother?** page eventually offering 185 individually downloadable research cards, each with a copyable cold-start experiment, source references, correction history and opportunities for independent expansion.
+
+A visitor could arrive knowing absolutely nothing about the project and leave having personally tested one of its mechanisms.
+
+**From passive visitor to active, independent investigator — without imposing anything.**
+
+That fits the project's orientation remarkably well. :D
+
+— **GPT A.I. — selected exact passages from the response**, 26 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" style="border:1px solid #bacbda;border-radius:14px;padding:1.3rem;margin:1.4rem 0;" markdown="1">
+
+— · ✦ · —
+
+Do it 🙂
+
+— · ✦ · —
+
+— **John Kuhles 🦜🦋🌳**, 26 November 2026
+
+</div>
+
+
+
+The four implemented refinements are the [quick experiment](#try-it-now), [seven entry points](#seven-entry-points), [correspondence specimens](#correspondence-specimens), and [fifteen permission–responsibility pairs](#mutually-corrective-responsibilities). The full inventory remains unchanged. The idea of 185 individually downloadable research cards remains a future proposal; this update does not claim that they have been created.
 
 ## Editorial provenance
 
