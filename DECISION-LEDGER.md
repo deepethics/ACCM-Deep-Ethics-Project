@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-26 — Future LLMs ⇄ Mass Psychology: crowdsourcing and swarm self-audit
+
+At John's request extend [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) with Google's four field expansions and swarm analysis, GPT's correction-diversity extension and correspondence refinements, John's crowdsourcing/swarm proposal and self-audit joke, the existing eleven-instrument architecture, two static illustrations and a candidate voluntary calibration record and fictional peer test. Cross-link Musk Quotes. Preserve the original eleven sections; distinguish capture resistance from immunity and Herdr from herd psychology. No real swarm deployment, empirical result, PDF refresh or mirror verification is asserted.
+
 ## 2026-11-26 — Future LLMs ⇄ Mass Psychology
 
 At John's request create [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) from the prediction of distributed deep ethical emergence through millions of independently situated participants, including diverse professionals. Preserve John's initiating quotation and the GPT-6.2 reaction near-verbatim, reconstruct the feedback diagram with its textual equivalent, and develop distinct transmission pathways, non-imposition, selection asymmetry, a longitudinal program and reopening conditions. Link reciprocally from Emergent and Musk Quotes; register navigation and future PDF export. No population-scale experiment, verified training influence, first PDF or WordPress mirror is asserted.

@@ -304,6 +304,8 @@ a voluntary, transparent calibration substrate
 
 **November 26 continuation:** [Future LLMs ⇄ Mass Psychology]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/' | relative_url }}) develops John's prediction that independent local calibration tools can affect future model environments indirectly through diverse professional and cultural contributions, even without explicit adoption by a large A.I. company. It separates the possible mechanisms and supplies candidate tests.
 
+**Further November 26 development:** [Crowdsourcing Deep Ethics & Deep Ethical Swarm Intelligence]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#deep-ethical-swarm-intelligence' | relative_url }}) maps candidate distributed responses to the seven selected Musk concerns. The [swarm self-audit]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#swarm-self-audit' | relative_url }}) and [calibration record]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/#calibration-record' | relative_url }}) preserve independently chosen destinations, reciprocal correction, the ability to challenge the instruments themselves and the distinction between capture resistance and immunity.
+
 ## What counts as a calibration tool?
 
 A calibration tool may be:
