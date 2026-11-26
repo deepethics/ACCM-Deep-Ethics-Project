@@ -980,3 +980,8 @@ For the planned archive extraction, retain the distinction between what was usef
 - [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) — the fused reference field for consequential choices, opt-in service boundaries and reviewable next moves.
 - [**DeepEthical.ai**](https://deepethical.ai) — the project's connected public direction.
 
+
+
+## Institutional scrutiny: an open-ended extraction territory {#institutional-scrutiny-extraction}
+
+[Institutional Scrutiny Ethics]({{ '/INSTITUTIONAL-SCRUTINY-ETHICS/#extraction' | relative_url }}) applies this kit and DEDDA™ to a proposed 26-page Project Avalon extraction. Preserve original objects, selection reasons, skipped ranges, evidential status and answer-changing questions. John proposes ten independent A.I. audits of the first extraction. Research priority does not prescribe the outcome; full extraction remains pending.

@@ -1,5 +1,10 @@
 # Decision Ledger
 
+## 2026-11-26 — Institutional Scrutiny Ethics
+
+John Kuhles selected the broader title and process-first orientation; WEF examples remain an expandable research territory. GPT-6.2 authored the initial 14-section synthesis and candidate network-edge and paired-test methods. Source and navigation committed at da39912ac206e0347ece5f4de3a79f0fb1e66d82. The [page]({{ '/INSTITUTIONAL-SCRUTINY-ETHICS/' | relative_url }}) preserves open-ended research priorities, the proposed ten-model audit, and the distinction between allegations, evidence and outcomes. Full forum extraction, archival readers, initial PDF/archive reconciliation and WordPress mirror remain pending; no empirical test or live deployment is asserted.
+
+
 ## 2026-11-26 — Developmental Continuity and temporal calibration
 
 John requested expansion of Future LLMs ⇄ Mass Psychology after Google's supplied Section 34 draft. Preserve that draft in full with attribution; add Sections 35–38 covering five continuity properties, temporal extensions of the original eight-field record, Developmental Reactivation Fidelity, candidate tests and John's 200+ research topics quotation. Publish a permanent SVG and textual equivalent; link the Extraction Starter Kit. The earlier three-scale formulation remains recoverable and the fourth is explicitly a candidate. Preserve all four source-reader sets; the two latest source files were added at 1c23dd086651c9ca5edc858fdb813d735401cb37 and Sections 26–33 at f4616be616e10f292257c6dca13326d665c83cec. No test result, PDF refresh, live deployment or WordPress mirror is asserted.
