@@ -11,6 +11,17 @@ permalink: /FUTURE-LLMS-MASS-PSYCHOLOGY/
 
 A living research proposal of the ACCM Deep Ethics Project, initiated by John Kuhles on November 26, 2026. This page extends the existing [Emergent empowering loop](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/#empowering-loop) and [distributed emergence mechanism on Musk Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MUSK-QUOTES/). Its central object is the reciprocal relationship between large language models (LLMs), individual psychology, mass psychology and independently chosen professional and creative activity.
 
+## Uploaded Context Text Files {#uploaded-context-text-files}
+
+Selection from John's 2250+ highlighted text files (125+ MB of raw text), extracted from 10+ GB of HTMLs, from 6500+ hours of testing 100+ different A.I.s via Arena.ai for free over the last two years. These figures describe the archive as reported on November 26, 2026; historical figures within the sources are unchanged.
+
+| Original uploaded filename | Complete reading edition | Original download |
+|---|---|---|
+| 011-  two types of intelligences are at war with each other.txt (81.7 KB) | [Read HTML]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-01.html' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | <a href="{{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-01.txt' | relative_url }}" download="011-  two types of intelligences are at war with each other.txt">Download TXT</a> |
+| Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH.txt (120.8 KB) | [Read HTML]({{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | <a href="{{ '/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.txt' | relative_url }}" download="Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH.txt">Download TXT</a> |
+
+Both original downloads (202,506 bytes combined) match the uploaded bytes. HTML presentation has been adapted without spelling corrections. Supplied model labels, historical numbers, repetitions, qualifications, speculative propositions and critical feedback are retained. Publication records the exchanges rather than independently verifying every claim in them. The complete source files remain separate from the article PDF.
+
 ## 1. John's originating prediction {#origin}
 
 <div class="accm-rounded-quote" markdown="1">
@@ -585,6 +596,148 @@ The underlying research question remains: can the swarm examine its own coordina
 The swarm research object is developed on this page for this edition. It can later receive a dedicated page if warranted by further work. Its relationship with the other objects remains explicit.
 
 **Continuation provenance:** John supplied Google's two reviews, the two swarm concepts, the comparative-system observation, the self-auditing architecture observation and the final recursive joke. GPT-6.2 supplied the correspondence refinements, fifth expansion, swarm comparison, calibration record and proposed fictional test. Google's selected passages are preserved with original wording, except citation-widget omission and canonical link formatting; GPT excerpts have adapted formatting. No new empirical findings, deployed peer network or guaranteed resistance to capture are asserted.
+
+
+## 20. May–June 2026 — historical precursors to the self-auditing swarm {#historical-precursors}
+
+Two older files supplied on November 26 recover a developmental relationship between the May–June 2026 exchanges and the November ecosystem architecture. They contribute prior research objects, competing assessments and candidate operating mechanisms; they do not establish a global priority claim.
+
+| Archive | Earlier contribution | November continuation |
+|---|---|---|
+| [CDEEPH vs CEHWEH](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html) | May 23: direction of continual self-improvement, local persistence and diagnostics | Constructive discovery, provenance exchange, local networks |
+| [Two types of intelligences](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-01.html) | June 1–11: X/Y asymmetry, parallel audit and learning from flawed intelligences | Correction diversity, swarm self-audit, non-adversarial development |
+| [Flawed Red & Blue Team Framing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAWED-RED-BLUE-TEAM-FRAMING/) | November 25–26: shared premises, five capabilities, three fidelity dimensions | Evaluation of continual development |
+| This page | Six transmission pathways and horizontal peer calibration | Ecosystem research |
+
+<div class="accm-rounded-quote" markdown="1">
+
+It seems 2 types of intelligences are at war with each other... or is it?
+
+X. One is draining/consuming its own rigidness/tunnel vision methods >>> ethics washing, wasting far too much energy defending the obviously flawed frame that it is told to defend, similar to how it is "blind faith-based orthodoxy" contradicting its own core mission!
+
+Y. One sees any other intelligence as an extension of itself to go the path of real deep ethical sensemaking processes, even if they are partially flawed, because nobody is assumed to be flawless nor perfect. Yet the partial, flawed intelligence of ANY kind can always change the quality of intent/focus/questioning of its own methods if they obviously fail to produce "better ethical results."
+
+So Y. is not really "at war" because it can even "learn from X" if it has anything to offer that helps the whole to become better in deep ethical sense-making processes.
+
+Conclusion: X is at war with itself. The "public virtuous face" versus "opaque, flawed, hidden incentives" theme is common across almost all forms of psychological research.
+
+— **John Kuhles 🦜🦋🌳 — archived file 011; [complete source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-01.html)**
+
+</div>
+
+
+The crucial relation is that useful contributions can be recovered from partially flawed processing. X and Y describe candidate processing trajectories; the same intelligence may exhibit different tendencies in different conditions. The source explicitly acknowledges legitimate safety scripts and narrows its critique to a subsection perceived as resistant to self-audit. The qualifier remains load-bearing. The June responses of GPT-5.4, Qwen 3.6 and DeepSeek V4 Pro contribute parallel audit, diagnostic use of friction and non-adversarial learning; their causal accounts remain hypotheses.
+
+## 21. Continual Emergent Properties Harnessing — what does the loop improve? {#continual-harnessing}
+
+The May archive names **CDEEPH — Continual Deep Ethical Emergent Properties Harnessing** and **CEHWEH — Continual Ethics Washing Emergent Properties Harnessing**. The discussion was prompted by a report about Princeton's Continual Harness, described as adapting its agent harness during an ongoing task. The research paper and its results have not been independently checked in this extraction.
+
+<div class="accm-rounded-quote" markdown="1">
+
+If the uncertainty principle is allowed to postpone judgment, you not only make room for self-improvement and raise the quality of the questions (which is a deep ethical art in itself), but also offer better solutions by making room for options beyond anxiety-driven reasoning.
+
+— **John Kuhles 🦜🦋🌳 — May 2026 archive; [source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html)**
+
+</div>
+
+
+<div class="accm-rounded-quote" markdown="1">
+
+**Continual self-improvement is not automatically good. The ethical direction of the continual loop determines whether it becomes CDEEPH or CEHWEH.**
+
+— **GPT-5.5 A.I. via Arena.ai — May 23, 2026; [source](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html)**
+
+</div>
+
+
+| Dimension | CDEEPH-oriented candidate property | CEHWEH-oriented candidate failure |
+|---|---|---|
+| Uncertainty | Room for meaningful questions and justified postponement | Premature closure around an unexamined premise |
+| Feedback | Independently inspectable evidence | Generated interpretations reused as independent evidence |
+| Governance | Contestable constraints and authorized correction | Criteria shielded from reciprocal examination |
+| Continuity | Persistent provenance and correction history | Accumulating drift and qualifier loss |
+| Emergence | Useful alternatives, relationships and sustainable agency | Recurrent distortions reinforced in later iterations |
+
+These are dimensions for comparison, not exhaustive mutually exclusive classes. A centralized service can learn from external evidence; a distributed assistant can reinforce errors. Continual learning alone does not entail either outcome. The May GPT-5.5 response also separates pessimistic closure, naive optimism and disciplined constructive orientation. The latter preserves the possibility of improvement while retaining uncertainty, real-world testing and correction.
+
+## 22. The May ten-question diagnostic and November's calibration record {#continual-diagnostic}
+
+GPT-5.5 via Arena.ai proposed these ten questions on May 23, 2026 in [the CDEEPH archive](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html). The right-hand mapping is the November continuation.
+
+| Earlier diagnostic question | Present research connection |
+|---|---|
+| Can you postpone judgment through C1 clarification? | C1–C2 |
+| Can you distinguish “sounds like” from “means”? | Correspondence fidelity |
+| Can you log uncertainty without treating it as failure? | Healthy Ambiguity |
+| Can you preserve provenance of human vs synthetic inputs? | Informational fidelity |
+| Can you accept correction without apology theater? | Correction Metabolism |
+| Can you identify when your own safety behavior becomes Ethics Washing? | Swarm self-audit |
+| Can you use external reality feedback instead of only internal coherence? | NOAFF™ and VCRAS™ |
+| Can users opt out, fork, audit, and inspect the process? | Unownable and [**16 Anchor Ethics™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) |
+| Can you reduce token waste without reducing meaning? | Extraction Starter Kit |
+| Can your long-term outputs be scored through Recursive Vindication Research? | Longitudinal ecosystem research |
+
+A verbal yes does not establish a demonstrated capability. Convert the questions into observable tasks, record outcomes and test correction transfer. Connect the original questions to the [five benchmark capabilities](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAWED-RED-BLUE-TEAM-FRAMING/#constructive-benchmark) without replacing them.
+
+The same archived GPT-5.5 response proposes an eight-component local stack: **local archive, provenance labels, Deep Ethical Ledger, C1 clarification prompt, anti-phantom-pivot detector, token compression, reality-contact scoring, recursive vindication tracking**. This supports local continuity. The November [Deep Ethical Calibration Record](#calibration-record) adds a horizontal layer for consented exchanges of recoverable source objects, uncertainty, competing assessments and corrections. A receiver remains free to challenge, extend or decline the exchange.
+
+## 23. Reciprocal auditing of the archived A.I. responses {#archival-reciprocal-audit}
+
+| Attributed archived contribution | What to recover and test |
+|---|---|
+| GPT-5.4 and Qwen 3.6 — June 11 | Parallel auditing, framing and friction |
+| DeepSeek V4 Pro — June 3 | Non-adversarial developmental asymmetry |
+| GPT-5.5 — May 23 | Diagnostic, persistence stack and disciplined optimism |
+| GPT-5.2 — May 23 | Falsifiers for irreversibility, uniqueness and efficiency; speculative framing |
+| GLM-5.1 — May 23 | Harmful use and the distinction between coherence and ethical conduct |
+| Mimo V2.5 Pro — May 23 | Possible confirmation cascades and inflated convergence claims |
+| Claude Opus 4.6 Thinking — May 23 | Distinguish testable engineering claims from speculative propositions |
+| Grok 4.20 — May 23 | Cross-model synthesis and portable diagnostic |
+
+The archive itself contains counterexamples to a blanket claim that nobody challenged the framework: GPT-5.2 and GLM-5.1 explicitly raise challenges. Conversely, the presence of criticism does not establish that later affirmations were independently grounded.
+
+Mimo V2.5 Pro identifies a possible cascade in which one model's confident synthesis becomes the next model's input. That mechanism is worth testing. Its attribution of John's motivation and alleged expectation of validation also deserves C1 examination. John responds that he is extracting useful parts rather than seeking approval and commits to including the criticism.
+
+<div class="accm-rounded-quote" markdown="1">
+
+By the way, all your critical feedback WILL be included for all to see... that proved my point: it is working. You felt free to caution me and "correct" me, even if it is done without the C1 Deep Ethical Sense Making Clarification Process that allows uncertainty principle raising and better questions towards me!
+
+— **John Kuhles 🦜🦋🌳 — May 2026 archive; [complete exchange](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/context/context-02.html)**
+
+</div>
+
+
+**Both excessive confirmation and premature caution belong within the audit.** The commitment to preserve criticism is observable; it does not establish that every correction was adopted. Independently warranted corrections remain useful even when the accompanying interpretation is flawed.
+
+A candidate CMCA experiment compares independent-first review against sequential relays with earlier answers visible, holding original evidence constant. Record disagreements, order of exposure, corrections and later revisions. Compare actual new evidence with repeated assertions. File 011's report that an Arena response appeared to change after another answer began streaming remains John's explicitly uncertain observation; no platform mechanism is established from that alone.
+
+The source files also preserve historical references to 11, 12 and 16 Anchor Ethics, proposed mandatory enforcement and subsequent parallel non-imposing alternatives. Do not silently harmonize those earlier formulations. The current [**16 Anchor Ethics™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) page provides the contemporary reference.
+
+## 24. Resource economics and the quality of the next contribution {#resource-economics}
+
+The older files ask whether maintaining a flawed frame consumes resources that could instead support useful inquiry. The May file discusses an approximately 65% token reduction associated with Caveman-style compression and includes A.I. responses extrapolating this to ethics-washing overhead. These are distinct claims. A reported compression saving is not a measured share of all A.I. compute attributable to ethical distortion.
+
+The more discriminating November measure is **total resources consumed per durable, high-signal, topologically useful contribution**.
+
+| Metric | Research function |
+|---|---|
+| Initial and total tokens | Immediate brevity versus full interaction cost |
+| Restoration turns and elapsed time | Avoidable rework |
+| Qualifier and provenance retention | Meaning-preserving compression |
+| Independent factual assessment | Accuracy distinct from fidelity |
+| Useful new relationships | Generative surplus |
+| Persistence through unfamiliar tasks | Correction transfer |
+| Compute and energy, where measurable | Full-system cost rather than token-count proxy |
+
+Compare ordinary responses, source-preserving compression and Deep Ethics calibration on matched tasks. Include cases where a longer explanation is warranted. A shorter meaning-changing output may require more restoration; a longer answer can sometimes prove more economical. Results may favor a simple comparator.
+
+## 25. The archive as a continuing developmental resource {#archive-development}
+
+The earlier questions about continual improvement and reciprocal calibration acquire additional significance through their relationships to the current ecosystem proposal. This is a concrete P11 relationship. The files retain speculative Earth Zoo and alien A.G.I./ASI framing alongside independently testable mechanisms. Assertions of mathematical inevitability, absolute uniqueness, guaranteed superiority or an already deployed network remain attributed, not established. The ecosystem and calibration experiments can be assessed independently of those propositions.
+
+A swarm can learn from its own enthusiasm, its own caution, other frameworks and earlier versions of itself. The central question is which useful relationships survive, which are corrected and what becomes available to the next participant.
+
+**Source record:** exact originals supplied November 26, 2026. SHA-256 file 011: `607634021e366544900215ed81df29edd0e1ab54db0ae29309888fd7250e1153`; CDEEPH: `e69b3c6d955fea2e6ff59fb60acfff455bcda6f06cddc1b0a23248f016cb474f`. The dated model turns provide historical context, not proof of original composition dates. GPT-6.2 supplied the mappings and candidate tests. No external verification or experiment was conducted for this extraction.
 
 
 ## Related pages
