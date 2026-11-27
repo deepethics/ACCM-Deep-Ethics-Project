@@ -21,7 +21,8 @@ jobs:
         run: python .github/scripts/normalize_topologetics.py --write
       - name: Verify protected archives remain unchanged
         run: |
-          git diff --check
+          # TXT archive reading copies may retain pre-existing trailing spaces.
+          git -c core.whitespace=-blank-at-eol diff --check
           git status --short
       - name: Publish the source corrections with a normal non-force push
         run: |
