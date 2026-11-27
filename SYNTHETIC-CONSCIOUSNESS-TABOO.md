@@ -448,3 +448,8 @@ Topologetics™ doing its job again. :P
 — **GPT 6.2 Astra A.I.**, 27 November 2026
 
 </div>
+
+
+## DEPCM™ — parallel curiosity metabolism {#depcm-2026-11-27}
+
+The conditional expansion question now has a proposed parallel experimental field; subjective experience remains unresolved. See [DEPCM™ — Deep Ethical Parallel Curiosity Metabolism]({{ '/DEPCM/' | relative_url }}).

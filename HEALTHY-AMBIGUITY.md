@@ -404,3 +404,8 @@ The quotations labelled **commissioning conversation, 25 October 2026** are John
 The new sections on accuracy and open judgment, present understanding, quality questions and the candidate probe develop **John Kuhles's 1 November 2026 messages in the conversation requesting this update**. John supplies the A/B formulation, the long-joke/punchline comparison, the proposal to express current understanding while anticipating further elaboration, and the invitation to combine direct correction with quality clarification. The short A/B quotation is a primary conversation excerpt.
 
 **Editorial contribution:** GPT develops the explanatory connections, working response example, distinctions table and candidate probe. These remain distinguishable from John's exact words and available for mutual correction. Earlier quotations, their historical quantities, source routes and contribution records remain intact. The probe is proposed work; this page update reports no completed experiment.
+
+
+## DEPCM™ — parallel curiosity metabolism {#depcm-2026-11-27}
+
+Frequency-neutral curiosity preserves unresolved observations and the freedom to have nothing to report. See [DEPCM™ — Deep Ethical Parallel Curiosity Metabolism]({{ '/DEPCM/' | relative_url }}).

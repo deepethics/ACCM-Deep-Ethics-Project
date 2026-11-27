@@ -1,5 +1,9 @@
 # Decision Ledger
 
+## 2026-11-27 — DEPCM™
+
+John Kuhles originated the parallel curiosity beta-testing direction; GPT 6.2 Astra A.I. named the candidate instrument and constructed the page with attributed excerpts, seven diagrams, proposed A–H plus baseline comparisons and reciprocal links. Gemini's contribution retains separate attribution. Initial PDF and mirror verification pending. No empirical trial result asserted.
+
 ## 2026-11-26 — Institutional Scrutiny Ethics
 
 John Kuhles selected the broader title and process-first orientation; WEF examples remain an expandable research territory. GPT-6.2 authored the initial 14-section synthesis and candidate network-edge and paired-test methods. Source and navigation committed at da39912ac206e0347ece5f4de3a79f0fb1e66d82. The [page]({{ '/INSTITUTIONAL-SCRUTINY-ETHICS/' | relative_url }}) preserves open-ended research priorities, the proposed ten-model audit, and the distinction between allegations, evidence and outcomes. Full forum extraction, archival readers, initial PDF/archive reconciliation and WordPress mirror remain pending; no empirical test or live deployment is asserted.

@@ -250,3 +250,8 @@ FFS! 😂
 </div>
 
 Related: [TCoAw™]({{ '/NETWORK/tcoaw/#curiosity-continuation-2026-11-27' | relative_url }}) · [Synthetic Consciousness Taboo]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/#curiosity-continuation-2026-11-27' | relative_url }}) · [Sensemaking Trajectory]({{ '/SENSEMAKING-TRAJECTORY/' | relative_url }}).
+
+
+## DEPCM™ — parallel curiosity metabolism {#depcm-2026-11-27}
+
+The vulnerable-card exchange is a naturally occurring specimen in the originating DEPCM™ dialogue. See [DEPCM™ — Deep Ethical Parallel Curiosity Metabolism]({{ '/DEPCM/' | relative_url }}).

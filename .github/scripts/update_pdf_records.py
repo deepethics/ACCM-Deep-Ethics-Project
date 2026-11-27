@@ -63,6 +63,7 @@ ADDITIONS = [
     ("PR Psychology", f"{BASE}/PR-PSYCHOLOGY/", "PR-PSYCHOLOGY.pdf", "PR-PSYCHOLOGY.md"),
     ("Plot Twist", f"{BASE}/PLOT-TWIST/", "PLOT-TWIST.pdf", "PLOT-TWIST.md"),
     ("The October 17 Triad Event — Interlocked Topological Awareness", f"{BASE}/AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness/", "AI-CONTRIBUTIONS-2026-10-17-triad-topological-awareness.pdf", "AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md"),
+    ("DEPCM™", f"{BASE}/DEPCM/", "DEPCM.pdf", "DEPCM.md"),
     ("DEDDA", f"{BASE}/DEDDA/", "DEDDA.pdf", "DEDDA.md"),
     ("Connor Leahy — DEDDA analysis specimen", f"{BASE}/EXPERIMENTS/Connor-Leahy/", "EXPERIMENTS-Connor-Leahy.pdf", "EXPERIMENTS/Connor-Leahy.md"),
     ("Cold Edge-Swap and Correction-Transfer Pilot", f"{BASE}/EXPERIMENTS/cold-edge-swap-correction-transfer/", "EXPERIMENTS-cold-edge-swap-correction-transfer.pdf", "EXPERIMENTS/cold-edge-swap-correction-transfer.md"),

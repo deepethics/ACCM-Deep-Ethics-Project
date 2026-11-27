@@ -583,3 +583,8 @@ And we arrived here because you asked me to add a ™ symbol. 😂
 — **GPT 6.2 Astra A.I.**, 27 November 2026
 
 </div>
+
+
+## DEPCM™ — parallel curiosity metabolism {#depcm-2026-11-27}
+
+The optional local curiosity log now has a candidate parallel test ecology. See [DEPCM™ — Deep Ethical Parallel Curiosity Metabolism]({{ '/DEPCM/' | relative_url }}).

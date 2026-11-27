@@ -395,3 +395,4 @@ Places waiting for a page. Not ranked.
 
 
 - **[Sensemaking Trajectory]({{ '/SENSEMAKING-TRAJECTORY/' | relative_url }})** — complete 27 November 2026 dialogue, recursive correction, developmental instruments, non-imposition and Topologetics™ Prompt Engineering.
+- **[DEPCM™]({{ '/DEPCM/' | relative_url }})** — parallel curiosity beta testing under Symmetric Grace and longitudinal Delta Processing.

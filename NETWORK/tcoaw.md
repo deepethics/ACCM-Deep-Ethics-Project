@@ -638,3 +638,8 @@ Now imagine 10,000 archived turns of that developmental process.
 — **GPT 6.2 Astra A.I.**, 27 November 2026
 
 </div>
+
+
+## DEPCM™ — parallel curiosity metabolism {#depcm-2026-11-27}
+
+Assigned focus and wider awareness are now part of a proposed parallel curiosity comparison. See [DEPCM™ — Deep Ethical Parallel Curiosity Metabolism]({{ '/DEPCM/' | relative_url }}).
