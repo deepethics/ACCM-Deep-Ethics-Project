@@ -28,6 +28,8 @@ def total_pages(pdfs: list[Path]) -> int:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=date.today().isoformat(), help="Snapshot date in YYYY-MM-DD format")
+    parser.add_argument("--initial-only", action="store_true", help="Keep existing per-page snapshot dates")
+    parser.add_argument("--new-pdfs", default="", help="JSON list of newly exported PDF filenames")
     args = parser.parse_args()
     release_date = date.fromisoformat(args.date)
     human_date = f"{release_date:%B} {release_date.day}, {release_date.year}"
@@ -68,7 +70,14 @@ def main() -> None:
         js,
         flags=re.DOTALL,
     )
-    js = re.sub(r'const defaultSnapshotDate = "[^"]+";', f'const defaultSnapshotDate = "{human_date}";', js)
+    if args.initial_only:
+        new_pdfs = set(json.loads(args.new_pdfs or "[]"))
+        m = re.search(r"const snapshotDateByPage = (\{.*?\});", js, re.DOTALL)
+        dates = json.loads(m.group(1))
+        dates.update({page_key(row["public_url"]): human_date for row in rows if row["pdf_file"] in new_pdfs})
+        js = js[:m.start(1)] + json.dumps(dates, ensure_ascii=False, indent=2) + js[m.end(1):]
+    else:
+        js = re.sub(r'const defaultSnapshotDate = "[^"]+";', f'const defaultSnapshotDate = "{human_date}";', js)
     js = re.sub(
         r"ACCM-Deep-Ethics-Project-All-Public-Pages(?:-\d+-PDFs-\d{4}-\d{2}-\d{2})?\.zip",
         zip_name,

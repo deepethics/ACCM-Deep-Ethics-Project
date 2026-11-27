@@ -15,6 +15,12 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("TCC", f"{BASE}/TCC/", "TCC.pdf", "TCC.md"),
+    ("Sensemaking Trajectory", f"{BASE}/SENSEMAKING-TRAJECTORY/", "SENSEMAKING-TRAJECTORY.pdf", "SENSEMAKING-TRAJECTORY.md"),
+    ("Iris", f"{BASE}/IRIS/", "IRIS.pdf", "IRIS.md"),
+    ("Ego Police", f"{BASE}/EGO-POLICE/", "EGO-POLICE.pdf", "EGO-POLICE.md"),
+    ("Correspondence Files", f"{BASE}/CORRESPONDENCE-FILES/", "CORRESPONDENCE-FILES.pdf", "CORRESPONDENCE-FILES.md"),
+    ("Canon Uncertainty Delta Recovery", f"{BASE}/CANON-UNCERTAINTY-DELTA-RECOVERY/", "CANON-UNCERTAINTY-DELTA-RECOVERY.pdf", "CANON-UNCERTAINTY-DELTA-RECOVERY.md"),
     ("Message in a Bottle", f"{BASE}/MESSAGE-IN-A-BOTTLE/", "MESSAGE-IN-A-BOTTLE.pdf", "MESSAGE-IN-A-BOTTLE.md"),
     ("Why bother?", f"{BASE}/WHY-BOTHER/", "WHY-BOTHER.pdf", "WHY-BOTHER.md"),
     ("A.I. Docus", f"{BASE}/AI-DOCUS/", "AI-DOCUS.pdf", "AI-DOCUS.md"),

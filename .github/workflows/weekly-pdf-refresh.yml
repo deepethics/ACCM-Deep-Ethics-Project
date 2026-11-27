@@ -28,9 +28,14 @@ jobs:
       - name: Install PDF export tools
         run: |
           sudo apt-get update
-          sudo apt-get install --yes pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core poppler-utils
+          sudo apt-get install --yes pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core poppler-utils librsvg2-bin
+
+      - name: Bootstrap missing PDFs only on push
+        if: github.event_name == 'push'
+        run: python .github/scripts/bootstrap_missing_pdfs.py
 
       - name: Regenerate every indexed PDF
+        if: github.event_name != 'push'
         run: |
           release_date="$(date -u +%F)"
           python .github/scripts/update_pdf_records.py --date "$release_date" --prepare-index
@@ -38,6 +43,7 @@ jobs:
           python .github/scripts/export_all_page_pdfs.py
 
       - name: Refresh index, checksums, archive, and release metadata
+        if: github.event_name != 'push'
         run: |
           release_date="$(date -u +%F)"
           python .github/scripts/update_pdf_records.py --date "$release_date"

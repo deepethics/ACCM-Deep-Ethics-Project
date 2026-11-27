@@ -86,6 +86,22 @@ def normalize_markdown(source: Path) -> tuple[str, str]:
         text,
     )
 
+    # Convert HTML anchors (including keyword links) into Pandoc links.
+    # Preserve nested emphasis and strip only presentation markup inside anchors.
+    import html
+    def html_anchor(match):
+        href = html.unescape(match.group(1))
+        label = re.sub(r"<[^>]+>", "", match.group(2))
+        return "[" + html.unescape(label).replace("[", r"\[").replace("]", r"\]") + "](" + (href if "{{" in href else href.replace(" ", "%20")) + ")"
+    text = re.sub(r'<a\b[^>]*\bhref="([^"]+)"[^>]*>(.*?)</a>', html_anchor, text, flags=re.DOTALL | re.IGNORECASE)
+
+    # Convert local figure images for PDF; SVG support is supplied by librsvg.
+    text = re.sub(
+        r'<img\s+src="{{\s*[\'"]([^\'"]+)[\'"]\s*\|\s*relative_url\s*}}"[^>]*\balt="([^"]*)"[^>]*>',
+        lambda m: "\n\n![" + m.group(2) + "](" + m.group(1).lstrip("/") + ")\n\n",
+        text,
+    )
+
     # Turn Jekyll-generated internal links into durable public URLs.
     text = re.sub(
         r"{{\s*['\"]([^'\"]+)['\"]\s*\|\s*relative_url\s*}}",
