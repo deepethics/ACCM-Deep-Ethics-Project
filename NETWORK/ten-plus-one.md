@@ -831,6 +831,33 @@ You are refining the hypothetical AGI's **Value Trajectory™**, not merely its 
 </div>
 
 
+<figure style="max-width:720px;margin:1.5rem auto;text-align:center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 496" role="img" aria-labelledby="ten-plus-one-compass-title ten-plus-one-compass-desc" style="width:100%;height:auto">
+<title id="ten-plus-one-compass-title">The 10+1 as a mutually corrective compass</title>
+<desc id="ten-plus-one-compass-desc">Detecting and correcting obstructions and discovering and developing possibilities both inform the 10+1 compass, which guides the search for creative, uplifting, empowering deep ethical potential. Attention allocation is dynamic, with no fixed ratio.</desc>
+<rect x="26" y="16" width="628" height="88" rx="18" fill="#e6f4f0" stroke="#0d9488" stroke-width="2"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle" fill="#163d56">
+<text x="340" y="52" font-size="24" font-weight="700">Creative, uplifting, empowering</text>
+<text x="340" y="84" font-size="24">deep ethical potential</text>
+<path d="M340 208 V114 m-10 12 10-12 10 12" stroke="#0d9488" stroke-width="3.4" fill="none"/>
+<rect x="16" y="210" width="240" height="112" rx="16" fill="#edf2f6" stroke="#64748b" stroke-width="2"/>
+<text x="136" y="254" font-size="22">Detect and correct</text>
+<text x="136" y="286" font-size="22">obstructions</text>
+<rect x="424" y="210" width="240" height="112" rx="16" fill="#edf2f6" stroke="#64748b" stroke-width="2"/>
+<text x="544" y="254" font-size="22">Discover and</text>
+<text x="544" y="286" font-size="22">develop possibilities</text>
+<circle cx="340" cy="266" r="68" stroke="#0d9488" stroke-width="3" fill="#e6f4f0"/>
+<path d="M340 216 L356 266 L340 316 L324 266Z" fill="#0d9488"/>
+<path d="M340 216 L356 266 L340 266Z" fill="#ffffff" opacity=".85"/>
+<path d="M256 266 H272 M408 266 H424" stroke="#64748b" stroke-width="2"/>
+<text x="340" y="372" font-size="34" font-weight="700">10+1</text>
+<text x="340" y="406" font-size="22">Mutually corrective compass</text>
+<text x="340" y="466" font-size="22" fill="#08796d">Dynamic attention allocation · No fixed ratio</text>
+</g>
+</svg>
+<figcaption>The 10+1 as a living compass: reciprocal correction and constructive exploration within a dynamic field of attention.</figcaption>
+</figure>
+
 ### The allocation of attention is itself corrigible
 
 The compass governs both the constructive search and its correction. The wording introduces no fixed ratio between them. A serious obstacle may deserve extensive attention; a small resolved issue may deserve none further. Hidden potential may become visible through inquiry, and overt potential may still be overlooked or misrepresented. The four edits preserve that flexibility.
