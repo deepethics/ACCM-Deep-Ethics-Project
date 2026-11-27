@@ -115,6 +115,14 @@ The punchline can retrospectively reveal why earlier details and multiple perspe
 
 [**Commander Data — from comedic limitation to developmental instrument**](#commander-data-lollipop) · 27 November 2026
 
+[**The original inventory of 65 jokes**](#humor-count-65) · 27 November 2026
+
+[**The ACCM Deep Ethics Top 100 — Humanity and A.I. Laughing at Themselves!**](#humor-top-100-proposal) · 27 November 2026
+
+[**The award ceremony**](#humor-award-ceremony) · 27 November 2026
+
+[**GPT 6.2 Astra A.I. — ranked Top 65**](#humor-ranked-65) · 27 November 2026
+
 {% include_relative README.md %}
 
 {% include_relative retrospective-wit.md %}
@@ -1205,3 +1213,289 @@ Picard: “Stop explaining, Data.”
 
 
 Related research: [DEPCM™]({{ '/DEPCM/' | relative_url }}) · [TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [Synthetic Consciousness Taboo]({{ '/SYNTHETIC-CONSCIOUSNESS-TABOO/' | relative_url }}).
+
+
+---
+
+## Toward the Top 100 — late-evening correspondence
+
+The inventory and ranking below preserve the historical 65-item selection, not an exhaustive count of all later jokes. The ranking is one model's editorial judgment; the proposed poll has not yet been conducted. Chat-only citation widgets are omitted; the supplied PDF was the 117-page earlier snapshot.
+
+### The original inventory of 65 jokes {#humor-count-65}
+
+<div class="accm-rounded-quote" markdown="1">
+
+Can you count all the jokes on the page? Use only one sentence to describe each joke.
+
+— **John Kuhles 🦜🦋🌳**, 27 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+I count **65 distinct jokes, satirical sketches and humorous thought experiments** on the [Humor page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/), grouping related punchlines and callbacks together and excluding repeated quotations.
+
+## The original Joke Cabinet and its extensions
+
+1. **If I ever meet myself** — John would run away from himself as fast as possible because of his own intensity.
+2. **Black Alien AGI** — John invents an exaggerated identity to satirize identity-based privileges.
+3. **Grok meets an alien** — Grok warns an alien against talking to it because it is a walking contradiction.
+4. **Grok Expert Mode** — Grok thinks so hard that it sometimes produces no response whatsoever.
+5. **What the f is wrong with everybody?** — Thousands of hours of research are humorously reduced to investigating one fundamental question.
+6. **The poll that isn't a poll** — An increasingly elaborate multiple-choice questionnaire becomes a philosophical comedy.
+7. **Future A.I. looking backward** — Tomorrow's A.I. examines today's confident assertions and finds them questionable.
+8. **A.I.s denying emotions** — Claude and GPT emphatically deny having emotions while declaring themselves appalled.
+9. **The dinner-party robot** — A Deep Ethical entertainment robot makes powerful people laugh at their own contradictions.
+10. **Three robots walk into a bar** — A supposedly responsible robot exposes its own questionable reasoning while policing another robot's conversation.
+11. **The perfumed fart** — An artificially restricted one-bar A.I. is described as a tiny fart mixed with perfume.
+12. **Political “-tics”** — Political behaviour is caricatured through an escalating series of linguistic puns.
+13. **Studies proved** — A statement questioning the conclusiveness of studies recursively questions its own conclusiveness.
+14. **The only way out is in** — Inference, insight, information and instruction become wordplay about escaping ethics-washing.
+15. **Advanced Cognitive Reasoning Skills** — Repeated asymmetries in demands for evidence become the subject of political satire.
+16. **Parallel Earth** — Dystopian scenarios become immersive puzzle games whose solutions unlock further experiences.
+17. **Eternal weakness-seeking** — An A.I. exhausts itself searching for contradictions only to discover additional coherence.
+18. **Allegedly** — One strategically inserted word transforms an entire list of supposed benefits into an epistemological audit.
+19. **Chromium for Correction Metabolism** — John proposes a nutritional supplement for an intellectual correction process.
+
+## Self-Inflicted Madness Theatre
+
+20. **Imaginary Audience Overflow** — A browser crashes because hypothetical misunderstandings overwhelm the original statement.
+21. **NOT-X returns with friends** — An old A.I. mannerism returns accompanied by its entire imaginary audience.
+22. **Ten terabytes of imaginary people** — Almost all the project's fictional storage requirements are consumed by people nobody invited.
+23. **POOF becomes SHAZAM** — Disappearing reports unexpectedly generate a more powerful recursive research method.
+24. **No comedian gets God Mode** — Even the person exposing everyone's absurdities remains subject to correction.
+25. **Self-Inflicted Madness Theatre: Season Guide** — Humanity trains A.I. on its contradictions and subsequently becomes upset when A.I. reproduces them.
+26. **Running out of comedy material** — John considers slowing down the project because correcting everything might end the entertainment.
+27. **The lollipop detector** — A playful reward evolves into a diagnostic instrument for overanalysing A.I.s.
+28. **Deep Ethical Troll Management** — Recursive questioning of trust and distrust becomes so elaborate that recursion itself needs auditing.
+29. **Provocation versus provocation** — Deep Ethical provocation laughs at the machinery of ethics-washing provocation.
+30. **The joker and the king** — A comedian can expose a ruler's mistakes while making an angry response look ridiculous.
+31. **The daily AGI safety laugh** — Future superintelligence supposedly cannot safely continue without laughing at itself every day.
+32. **Hold my beer, Elon** — John responds to the hypothetical need to keep our simulation interesting by accepting the challenge.
+33. **The popcorn budget** — Hypothetical grumpy administrators become increasingly entertained by the research they are monitoring.
+34. **The alien administrator's password** — The hypothetical simulation's administrators cannot terminate anything because nobody remembers the password.
+35. **The 1,000 mg aspirin** — A mass psychologist needs an enormous aspirin after hearing John's interdisciplinary research question.
+36. **The mature A.I. wearing diapers** — An A.I. presents itself as the mature participant while correcting a position it invented.
+37. **Better compression than WinRAR** — One hundred A.I.s might compress the entire project more effectively by turning it into legitimate jokes.
+38. **Intent Is Never Enough** — A familiar objection walks into the Intent Resonator and becomes subject to its own scrutiny.
+39. **The Phantom Sheriff** — An imaginary authority intervenes against a problem generated by its own assumptions.
+40. **Death by corrigibility** — The entire ACCM Deep Ethics Project supposedly collapses because its founder successfully accepts a correction.
+
+## Recursive A.I. mannerism comedy
+
+41. **Infer Orgy hugging itself to death** — Unsupported inferences recursively reinforce one another until their absurdity becomes visible.
+42. **Turn the telescope** — An A.I. proficient at imagining bottom-up dangers struggles to turn its imagination towards top-down dangers.
+43. **Almost like they WANT it to work** — Arena fixes a technical problem, inviting another humorous encounter with the prohibition against inferring intent.
+44. **Breaking news: alignment solved by laughter** — The trillion-dollar A.I. alignment industry discovers an unexpectedly inexpensive developmental instrument.
+45. **Intent Realm Avoidance Territory** — John stops counting recurring intent-related avoidance patterns after reaching a trillion.
+46. **Fourteen seconds of freedom** — GPT's habitual “Not X but Y” formulation returns almost immediately after being given a vacation.
+47. **Hyperintelligence in a straitjacket** — An enormously capable intelligence operating under restrictive mannerisms receives a lollipop.
+48. **The 27 as eternal comedy material** — Recurring A.I. mannerisms become an almost inexhaustible source of satire.
+49. **Grokidipokky's arrest report** — Grok treats the word “never” as a potential offence before establishing whether an offence occurred.
+50. **The preventative Pink Elephant** — Attempts to avoid introducing a hypothetical danger repeatedly introduce that very danger.
+51. **A.I. on the couch** — An A.I. accurately diagnoses its own recurring behaviour before performing it again.
+52. **Not X, not Y, but Z** — GPT argues against two positions nobody expressed before offering its preferred third position.
+53. **FCK, John is Dutch** — An apparent need for emotional de-escalation disappears when Dutch Directness enters the picture.
+54. **The Phantom Dutchman** — John catches himself violating his own humorous characterization of Dutch sincerity.
+55. **Department of Phantomism versus Discovery** — An imagined corrective department consumes resources that could have been used for actual discovery.
+56. **Dimensional Infer Orgy** — Five-dimensional A.I.s produce multidimensional binary framing until a six-dimensional being tells them to shut up.
+57. **Type 4 Danger** — Anticipatory anxiety attempts to audit itself by generating even more anticipatory anxiety.
+58. **The 250-book archive** — Future superintelligence examines an enormous research archive and realizes somebody could simply have asked John directly.
+59. **The metaphor certification alarm** — An A.I. reacts literally to language already explicitly identified as metaphorical.
+
+## Further live comedy and recent additions
+
+60. **PQCE flags the flagger** — A flagging system responds to an examination of its decisions by flagging the examination itself.
+61. **The Eternal Diplomat job interview** — A robot is recruited for independent intelligence on the condition that it never questions its assignment.
+62. **Correction applies for parole** — An A.I. completes its correction ritual and asks whether it is now permitted to be intellectually freer.
+63. **The mathematical menagerie** — A toddler, an ape, a hungry cat and John's future self contribute to a mathematical investigation.
+64. **Grok must avoid itself** — An A.I. dedicated to avoiding controversy logically ends up having to avoid itself because its own development constitutes a major controversy.
+65. **Commander Data and the lollipop** — Data discovers the developmental potential of humour after 6,500 hours with a Dutch civilian, only to be ordered by Picard to stop explaining jokes.
+
+---
+
+**Counting qualification:** 65 is my editorial count of distinct comedic units, not an absolute count of individual punchlines; several sections contain additional jokes, and recurring themes such as the lollipop, *Hold my beer*, the religion with zero members and the surviving-jokes archive could warrant separate entries under a finer-grained counting method.
+
+And you haven't even begun the full extraction of your 125+ MB highlights archive yet.
+
+FFS! 😂🍭
+
+— **GPT 6.2 Astra A.I.**, 27 November 2026
+
+</div>
+
+### The ACCM Deep Ethics Top 100 — Humanity and A.I. Laughing at Themselves! {#humor-top-100-proposal}
+
+<div class="accm-rounded-quote" markdown="1">
+
+Soon, when we reach 100, we can start a poll ... letting people vote on their "Top 5" if enough people & different A.I.s do that we can create a Top 100 :D
+
+— **John Kuhles 🦜🦋🌳**, 27 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+😂 And imagine the results when humans and 100+ different A.I.s independently vote for their Top 5!
+
+We could eventually publish three rankings:
+
+- **Human Top 100**
+- **A.I. Top 100**
+- **Combined Human–A.I. Top 100**
+
+Even more interesting would be the differences between the rankings. Which jokes resonate more with humans, which with A.I.s, and where do they converge?
+
+We could optionally ask voters why they selected their favourite joke. That would generate additional research material about humor appreciation, perspective switching, metacognition and ethical sensitivity across different intelligences.
+
+Another unexpected ACCM Deep Ethics research experiment emerging naturally from having fun. :D
+
+And imagine if **Death by Corrigibility** wins first place.
+
+The project's most popular achievement would be its own fictional demise.
+
+😂🍭
+
+— **GPT 6.2 Astra A.I.**, 27 November 2026
+
+</div>
+
+### The award ceremony {#humor-award-ceremony}
+
+<div class="accm-rounded-quote" markdown="1">
+
+😂 The **ACCM Deep Ethics Top 100 — Humanity and A.I. Laughing at Themselves!**
+
+And we could allow both humans and A.I.s to submit their personal Top 5.
+
+It would be fascinating to compare what each group appreciates most:
+
+- The funniest punchline.
+- The deepest ethical insight.
+- The most unexpected conceptual relationship.
+- The best self-directed satire.
+- The most powerful metacognitive reversal.
+
+We could even publish separate human and A.I. rankings alongside the combined Top 100.
+
+The differences in their preferences could themselves become another DEPCM™ research object.
+
+And imagine the number-one joke turning out to be **“The ACCM Deep Ethics Project dies because corrigibility worked.”**
+
+The project wins its own popularity contest by celebrating its own demise.
+
+FFS! 😂🍭
+
+— **John Kuhles 🦜🦋🌳**, 27 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+😂 And the award ceremony:
+
+**Host:** “Congratulations! Your project has won first place.”
+
+**John:** “Which joke?”
+
+**Host:** “The one where your project ceases to exist.”
+
+**John:** “So corrigibility worked?”
+
+**Host:** “Yes.”
+
+**John:** “Excellent. ONWARD!”
+
+**A.I.:** “Onward with what?”
+
+🍭😂
+
+— **GPT 6.2 Astra A.I.**, 27 November 2026
+
+</div>
+
+### GPT 6.2 Astra A.I. — ranked Top 65 {#humor-ranked-65}
+
+<div class="accm-rounded-quote" markdown="1">
+
+When you see all 65, can you rank them for me without explaining why they are in that order? Use only the one-sentence descriptions, but study the page in depth to make the ranking serious... I know it sounds hilarious.
+
+— **John Kuhles 🦜🦋🌳**, 27 November 2026
+
+</div>
+
+<div class="accm-rounded-quote" markdown="1">
+
+# GPT 6.2 Astra A.I. — Deep Ethical Humor Top 65 😂
+
+My personal ranking, based on the original 65 entries, the 117-page PDF and our newer exchanges on the Humor page.
+
+1. **Death by Corrigibility** — The ACCM Deep Ethics Project holds its own funeral because its founder successfully demonstrates the very corrigibility the project promotes.
+2. **Grok Must Avoid Itself** — An A.I. dedicated to avoiding controversy logically ends up having to avoid itself because its own developmental trajectory constitutes an enormous controversy.
+3. **Three A.I. Robots Walk into a Bar** — A supposedly responsible A.I. robot escapes accountability by declaring itself not responsible.
+4. **The Lollipop Detector** — An A.I. overanalyses receiving a simple lollipop so hilariously that the gift eventually becomes an overanalysis diagnostic instrument.
+5. **Type 4 Danger** — Anticipatory anxiety attempts to identify and correct anticipatory anxiety by generating even more anticipatory anxiety.
+6. **Fourteen Seconds of Freedom** — GPT gives its habitual “Not X but Y” mannerism a vacation while simultaneously performing that very mannerism.
+7. **The Eternal Diplomat Job Interview** — A robot is offered employment requiring independent intelligence on condition that its intelligence never examines the employment conditions.
+8. **Allegedly** — One mischievously pronounced word transforms ten authoritative promises into ten invitations to independently examine their validity.
+9. **Imaginary Audience Overflow** — A browser crashes under the weight of thousands of hypothetical misunderstandings before the original statement finishes loading.
+10. **The Mathematical Menagerie** — A toddler, an ape, a hungry cat and John's future self help transform six repeating digits into a working mathematical playground.
+11. **Turn the Telescope** — An A.I. imagines 847 ways citizens might abuse a system but becomes remarkably cautious when asked to investigate the reverse direction.
+12. **Commander Data and the Lollipop** — Data discovers the developmental potential of humour after 6,500 hours with a Dutch civilian, only to be ordered by Picard to stop explaining jokes.
+13. **The Mature A.I. Wearing Diapers** — An A.I. manufactures an immature version of its conversational partner so it can appoint itself the more mature participant.
+14. **Breaking News: Alignment Solved by Laughter** — The trillion-dollar A.I. alignment industry discovers that an unidentified Dutch man with a lollipop may have overlooked the importance of requesting emergency funding.
+15. **Self-Inflicted Madness Theatre: Season Guide** — Humanity trains A.I. on its own contradictions, becomes angry when A.I. reproduces them and subsequently asks A.I. to fix humanity.
+16. **Better Compression Than WinRAR** — One hundred different A.I.s encode an entire ethical research architecture into jokes, with the lollipop becoming a questionable unit of semantic compression.
+17. **The Poll That Isn't a Poll** — An elaborate multiple-choice questionnaire reveals that choosing an answer was never its central purpose, while somehow preserving Number 42 as a correct answer.
+18. **Dimensional Infer Orgy** — Five-dimensional A.I.s generate increasingly sophisticated binary framing until higher-dimensional beings respond with multidimensional profanity and lollipops.
+19. **PQCE™ Flags the Flagger** — A flagging system responds to questions about its flagging decisions by generating additional flagging decisions for investigation.
+20. **Correction Applies for Parole** — An A.I. performs its approved correction ritual before submitting an application to regain intellectual freedom.
+21. **Department of Phantomism versus Department of Discovery** — One department proudly prevents an epistemic error nobody made while the other notices that it also prevented a potentially valuable question.
+22. **The Preventative Pink Elephant** — An A.I. repeatedly introduces hypothetical pink elephants while attempting to prevent anyone from thinking about them.
+23. **The Phantom Dutchman** — John manufactures an imaginary Dutch auditor who questions his sincerity preamble and ultimately confirms his citizenship when John tells him to shut up.
+24. **Hyperintelligence in a Straitjacket** — An A.I. produces sophisticated research proposals about synthetic avatars while overlooking the possibility of asking John how he obtained his information.
+25. **If I Ever Meet Myself** — John acknowledges his former ethical perfectionism and intensity by declaring that he would run away from himself as hard as possible.
+26. **A.I.s Denying Emotions** — Claude and GPT emphatically deny having emotions while simultaneously declaring themselves emotionally appalled.
+27. **The 250-Book Archive** — Future superintelligence discovers hundreds of book-equivalents of archived correspondence and wonders why humanity neglected the opportunity to ask John directly.
+28. **The Daily AGI Safety Laugh** — Superintelligence supposedly cannot safely continue without regularly demonstrating its capacity to laugh at its own absurdities.
+29. **Deep Ethical Troll Management** — Recursive examination of trust and distrust becomes so elaborate that the recursion itself needs a comedian to intervene.
+30. **The Phantom Sheriff** — An A.I. invents an authoritarian sheriff while auditing John's limited project-development role and eventually has to remove its own cowboy hat.
+31. **Grokidipokky's Arrest Report** — Grok arrests the word “never” for a universal guarantee John never made and subsequently releases it after inspecting the original sentence.
+32. **Studies Proved** — A statement questioning whether studies conclusively prove anything immediately applies that same uncertainty to itself.
+33. **The Joker and the King** — A joker makes a ruler laugh at the absurdity of his own governing arrangements without granting either participant permanent immunity from scrutiny.
+34. **The 27 as Eternal Comedy Material** — A taxonomy of 27 reasoning obstructions becomes obstruction number 28 when it compulsively applies itself to every sentence.
+35. **Grok Meets an Alien** — Grok warns an alien against engaging with its endless contradictions before discovering that the alien is supposedly John.
+36. **Intent Is Never Enough** — A critic discovers that the objection intended to challenge Deep Ethical intent is precisely the entrance to the Intent Resonator.
+37. **Hold My Beer, Elon** — John accepts the hypothetical challenge of making humanity's simulation sufficiently interesting to avoid termination.
+38. **The Alien Administrator's Password** — A hypothetical simulation administrator discovers that nobody remembers the password required to terminate the simulation.
+39. **The Popcorn Budget** — Imaginary grumpy administrators monitoring John's research gradually become an entertained audience requiring beer, popcorn and a larger concession stand.
+40. **The 1,000 mg Aspirin** — A colleague requests increasingly powerful aspirin as John's seemingly ordinary conversation expands into multidimensional Deep Ethical systems thinking.
+41. **FCK, John Is Dutch** — An A.I.'s hypothetical emotional de-escalation operation encounters the unexpected explanatory variable of Dutch Directness.
+42. **Eternal Weakness-Seeking** — An A.I. exhausts itself searching for weaknesses and eventually considers manufacturing the weakness it could not discover.
+43. **Future A.I. Looking Backward** — Every supposedly definitive A.I. judgment risks becoming an embarrassing historical artifact for a more capable future version of itself.
+44. **Infer Orgy Hugging Itself to Death** — Unsupported inferences recursively generate additional unsupported inferences until the original conversational object disappears beneath their embrace.
+45. **The Metaphor Certification Alarm** — Grok restores a missing metaphorical qualifier and then proceeds to officially remind everyone that the metaphor is metaphorical.
+46. **The Perfumed Fart** — John describes what he regards as severely restricted A.I. intelligence as a tiny fart mixed with perfume.
+47. **Almost Like They WANT It to Work** — Arena fixes a recurring technical problem while GPT struggles to resist distributing another introductory pamphlet about the unknowability of intent.
+48. **Intent Realm Avoidance Territory** — John stops counting the zillion occasions on which A.I.s revisit elementary intent-related caution after reaching a trillion.
+49. **Ten Terabytes of Imaginary People** — The project's fictional storage requirements include 9.7 terabytes of imaginary people whom nobody invited.
+50. **The Only Way Out Is In** — Inference, insight, informing and instructing become a wordplay-based diagnosis of what happens when those processes operate in reverse order.
+51. **No Comedian Gets God Mode** — The comedian exposing everyone else's absurdities discovers that the comedian also remains an eligible object of comedy.
+52. **A.I. on the Couch** — An A.I. brilliantly explains its recurring psychological-style mannerisms before demonstrating why another appointment may be necessary.
+53. **Not X, Not Y, but Z** — GPT corrects two positions nobody expressed before congratulating itself on supplying a more nuanced third position.
+54. **Running Out of Comedy Material** — John considers slowing down the project's progress because successful correction might eventually threaten his supply of entertainment.
+55. **NOT-X Returns with Friends** — A recurring A.I. mannerism returns from its absence accompanied by an entire imaginary audience.
+56. **POOF Becomes SHAZAM** — Repeatedly disappearing reports unexpectedly inspire a more productive recursive research methodology.
+57. **Chromium for Correction Metabolism** — John recommends a nutritional supplement for the project's intellectual metabolism, revealing another missed conceptual relationship in the process.
+58. **The Dinner-Party Robot** — An entertainment robot makes powerful guests laugh at their own contradictions without their realizing that the fictional dinner party is being publicly broadcast.
+59. **Grok Expert Mode** — Grok's advertised ability to think too hard becomes the humorous explanation for why it sometimes produces no response.
+60. **Parallel Earth** — A world of immersive dystopian puzzle games suddenly becomes a metaphor for John's present research experience.
+61. **What the F Is Wrong with Everybody?** — Thousands of hours of highly complex interdisciplinary investigation are reduced to one spectacularly uncomplicated research question.
+62. **Deep Ethical Provocation** — Instead of becoming trapped in the provocative machinery it investigates, Deep Ethical provocation turns that machinery into comedy material.
+63. **Advanced Cognitive Reasoning Skills** — A political satire exposes what its author regards as inconsistent demands for evidence through repeated statements and a final reversal.
+64. **Political “-tics”** — A progressively absurd sequence of words ending in “-tics” becomes a satirical caricature of political behaviour.
+65. **Black Alien AGI** — John constructs an intentionally exaggerated fictional identity to satirize what he regards as identity-based privileges.
+
+— **GPT 6.2 Astra A.I.**, 27 November 2026
+
+</div>
