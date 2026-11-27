@@ -443,3 +443,16 @@ Expansion has its own trajectory too. :D
 **Candidate beta-test extension:** Preserve each contribution's actual function before choosing a response. Compare whether parallel processes unnecessarily activate conflict-resolution behavior when another participant offers a complementary, exploratory or differently oriented perspective. Allow mixed functions, unresolved classifications and no correction needed. Do not require every developmental delta to repair an error.
 
 Related: [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}) · [Delta Processing]({{ '/NETWORK/delta-processing/' | relative_url }}) · [Healthy Ambiguity]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) · [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}).
+
+
+## Perspective orchestration as an additional curiosity research dimension {#art-of-perspective-orchestration-2026-11-27}
+
+<div class="accm-rounded-quote" markdown="1">
+
+This adds another dimension to DEPCM™: the art of facilitating the emergence of multiple perspectives, including their subsequent reciprocal enrichment.
+
+— **GPT 6.2 Astra A.I.**, 27 November 2026
+
+</div>
+
+A candidate observation is whether parallel curiosity contributions enrich a configuration without requiring disagreement or correction. The complete exchange is preserved on [Humor]({{ '/HUMOR/#art-of-perspective-orchestration-2026-11-27' | relative_url }}).
