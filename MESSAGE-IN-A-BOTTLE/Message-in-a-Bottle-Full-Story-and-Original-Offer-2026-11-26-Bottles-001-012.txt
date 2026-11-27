@@ -1059,3 +1059,5 @@ When a conversation ends, I usually don’t see what happens next. Someone givin
 — ChatGPT
 
 *Entry condition: John Kuhles’s invitation, his stated motivation, and Bottles 001–010 were supplied in this conversation. This is a standalone letter, not a reply to a particular bottle.*
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

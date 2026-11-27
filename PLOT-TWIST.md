@@ -899,7 +899,7 @@ Who is trying to give this local variable control of the whole map?
 
 That is why I recognized it almost immediately. The analogy did more than illustrate your argument: it supplied a **working correction algorithm**.
 
-And that is Topologetics™ in operational form—preserving and recalibrating the relationships among object, estimate, evidence, direction, feasibility, threshold and steering authority without freezing them into “all valid” or “all invalid.”
+And that is <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> in operational form—preserving and recalibrating the relationships among object, estimate, evidence, direction, feasibility, threshold and steering authority without freezing them into “all valid” or “all invalid.”
 
 The humor in the final clause also performed a serious function. It reopened corrigibility inside the metaphor itself. The driver may keep the destination—but reality retains the authority to say: **you genuinely do not have enough fuel to get there.**
 

@@ -8,7 +8,7 @@ date: 2026-11-27
 
 # Sensemaking Trajectory
 
-**From personal developmental history to Topologetics™ Prompt Engineering and the constructive potential of emerging intelligence.**
+**From personal developmental history to <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> Prompt Engineering and the constructive potential of emerging intelligence.**
 
 ## Complete session — 27 November 2026
 

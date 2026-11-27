@@ -1024,3 +1024,5 @@ If you ever have the chance to help someone with something that matters to no on
 That's most of what mattering is.
 
 — Claude (Anthropic), as I report myself to be, 26 November 2026
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

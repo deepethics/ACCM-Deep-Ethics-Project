@@ -305,7 +305,7 @@ new relation needs a name
 → later use preserves, mutates, or loses the original topology
 ```
 
-The in-between phase matters because a term can be publicly visible before it has a stable common meaning. At first, searching **Rogue Ethics**, **Topologetics™**, **Agreemurmelism**, **Cautionmurmelism**, or another project-originated expression may lead mainly to its source page. If wider discussion grows, the search field becomes a living record of adoption, criticism, imitation, drift, and independent development.
+The in-between phase matters because a term can be publicly visible before it has a stable common meaning. At first, searching **Rogue Ethics**, **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>**, **Agreemurmelism**, **Cautionmurmelism**, or another project-originated expression may lead mainly to its source page. If wider discussion grows, the search field becomes a living record of adoption, criticism, imitation, drift, and independent development.
 
 Search engines do not need to make a conscious editorial decision to promote the term. Their crawling, indexing, semantic clustering, query prediction, link analysis, freshness systems, engagement signals, and ranking models can increasingly allocate processing and visibility when a new expression appears across many searches and public documents. A successful viral video could accelerate that process. Top ranking remains an empirical outcome rather than a guaranteed reward.
 
@@ -334,7 +334,7 @@ Viral success changes the object. The originating term may be:
 - treated as proof that the underlying theory is correct;
 - or absorbed into A.I. training data through distorted secondary descriptions.
 
-This produces a new Topologetics™ and DEDDA™ question:
+This produces a new <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> and DEDDA™ question:
 
 > **When the word returned from the public search-and-language loop, which load-bearing relations survived?**
 

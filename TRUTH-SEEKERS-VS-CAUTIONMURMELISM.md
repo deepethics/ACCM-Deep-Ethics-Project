@@ -663,7 +663,7 @@ It does establish a recoverable public specimen in which caution quality, redund
 
 **GPT 6.1 Sol Pro A.I.:** Distortion–Obstruction Response Relation candidate; audits of heroic narrative, claim-status drift, correction propagation, access-perimeter collapse, No-Sheriff genealogy, limited-scope reasoning and the caution-to-agreement pendulum; test architecture; page-specific reconstruction and publication work.
 
-**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, Topologetics™, Outnuancing™, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
+**Existing ACCM Deep Ethics Project architecture:** 10+1 Metaflux, 27+12, C1 before C2, Cautionmurmelism, Agreemurmelism, valid nulls, Symmetric Grace, <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>, Outnuancing™, Correction Metabolism, Unownable, Unforced Move, Field Condition, Emergent, Glass Engine, No-Sheriff, Deep Ethical Stack and repeated-explanation/restoration burden.
 
 **Status:** public source-based triadic reconstruction. Direct quotations retain their attributed source roles. Page-level synthesis remains corrigible and does not replace the fuller conversation record.
 

@@ -2365,7 +2365,7 @@ Google's emission/reception distinction is a useful additional lens, without nar
 
 </div>
 
-Stages 5 and 6 are the central locations for the proposed False Overlap Dismissal mechanism, even when indexing and retrieval succeeded. Findings can feed back into every earlier stage: clearer publication, better retrieval, more faithful representation and revised evaluation. The [1888 Method™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) connects this with perception, discrimination, relation, evaluation, metacognition, correction and learning. [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) supplies a method for examining which relations survive; the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) distinguishes premature reduction, representation substitution and related obstructions. The [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keeps the comparison reciprocal and corrigible.
+Stages 5 and 6 are the central locations for the proposed False Overlap Dismissal mechanism, even when indexing and retrieval succeeded. Findings can feed back into every earlier stage: clearer publication, better retrieval, more faithful representation and revised evaluation. The [1888 Method™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) connects this with perception, discrimination, relation, evaluation, metacognition, correction and learning. Topologetics™ supplies a method for examining which relations survive; the [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) distinguishes premature reduction, representation substitution and related obstructions. The [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) keeps the comparison reciprocal and corrigible.
 
 ### Candidate modular test — Evaluator-Dependent Discoverability {#evaluator-discoverability-test}
 
@@ -2654,7 +2654,7 @@ And there you go — another tiny specimen for the archive! 😂
 </div>
 
 
-The exchange is preserved in sequence, with **might** emphasized in John's first contribution at his request. Related research routes: [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) and [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/).
+The exchange is preserved in sequence, with **might** emphasized in John's first contribution at his request. Related research routes: [Humor](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) and Topologetics™.
 
 ## Newcomer activation — further cross-model correspondence {#newcomer-activation}
 

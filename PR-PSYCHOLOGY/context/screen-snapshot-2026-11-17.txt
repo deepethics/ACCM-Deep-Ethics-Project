@@ -118,7 +118,7 @@ System LayerCore FunctionIncluded Keywords
 How the Unified System Works in Practice
 
 • Orientation before execution. The system begins by grounding "intelligence" in self-correction (1888 Method) and checking its direction against a non-rigid ethical field (16 Anchor Ethics and 10+1 Epistemology) to protect its long-term Value Trajectory.
-• Disciplined sense-making. When confronted with a complex problem, the engine maps the broader context (TCoAw), forces clarification before taking corrective action (C1-C2 Method), strips away biased framing (Outnuancing), and summarizes only down to the load-bearing facts (Topologetics).
+• Disciplined sense-making. When confronted with a complex problem, the engine maps the broader context (TCoAw), forces clarification before taking corrective action (C1-C2 Method), strips away biased framing (Outnuancing), and summarizes only down to the load-bearing facts (Topologetics™).
 • Immune response to distortion. As the system interacts with humans or institutions, it watches for mass-psychology blind spots (11+1 Clusters), stops conversational derailment caused by excessive disclaimers (Caution Murmelism), and resists empty social consensus (Beyond Agreemurmelism), informed by historical cases where dissenting views were later proven right (VCRAS).
 • Structural accountability. Every decision is subject to process audits (PQCE) and six-point responsibility tracing (Intent Liability Mechanics), overseen by an independent appeals layer (OmbudsEthics) that ensures lessons actually stick.
 • Runtime implementation. Finally, these rules are enforced locally through an operating architecture (DeepEthicalOS), monitored in real time by a drift-checking companion (DEDDA), studied at the model level (Neural Ethics), and documented in an evolving archive (WikiDeep / NOAFF).
@@ -147,7 +147,7 @@ Here is how the closest counterparts map onto this five-layer approach:
 • Debate & Oversight Architectures (Irving, Christiano, Amodei): AI safety researchers have proposed "AI Safety via Debate," where two AI agents argue opposing sides of a problem before a judge. This mirrors the Advocate–Arbiter–Overseer triad found in DeepEthicalOS.
 • Algorithmic Justice & Auditing Labs: Organizations like the Algorithmic Justice League (founded by Joy Buolamwini) and independent third-party auditors (like METR or Apollo Research) act as external watchdogs. They preserve records of model failures and trace real-world liability back to design choices, functioning similarly to OmbudsEthics and Intent Liability Mechanics.
 
-4. Epistemology & Cognitive Sense-Making (Matches Outnuancing, TCoAw, & Topologetics)
+4. Epistemology & Cognitive Sense-Making (Matches Outnuancing, TCoAw, & Topologetics™)
 
 • John Vervaeke (Cognitive Science & Relevance Realization): Vervaeke studies how intelligent agents filter vast fields of information to focus on what actually matters without falling into "parasitic processing" (self-deception). His work on relevance realization strongly parallels TCoAw and Outnuancing.
 • Daniel Schmachtenberger & The Consilience Project: This group focuses on "sense-making"—diagnosing how information ecosystems decay and designing protocols to preserve truth and nuance without collapsing into ideological tribalism.

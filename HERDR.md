@@ -125,7 +125,7 @@ The first can support the second. It cannot substitute for it.
 | **Object Reconstructor** | Build the strongest faithful version of the request and relevant project topology | Object boundary, answer-changing relations, unresolved ambiguities |
 | **Builder** | Implement the page, code or data change in an isolated worktree | Reviewable artifact and exact changed paths |
 | **Provenance Keeper** | Separate John’s words, third-party claims, A.I.-attributed synthesis and verified sources | Claim-status ledger and source map |
-| **Topologetics™ Auditor** | Detect dropped qualifiers, severed edges, nearest-neighbor substitutions and hidden perimeter changes | Material deltas, or a valid null |
+| **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> Auditor** | Detect dropped qualifiers, severed edges, nearest-neighbor substitutions and hidden perimeter changes | Material deltas, or a valid null |
 | **Verifier** | Run tests, inspect rendered output and check the public result | Evidence of local and public behavior |
 | **Deep Ethical Arbiter** | Compare disagreements on their warrants and effects without reducing the process to majority voting | Corrigible disposition with “Here is why” |
 

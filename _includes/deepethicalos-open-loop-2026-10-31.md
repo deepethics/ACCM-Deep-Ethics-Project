@@ -78,7 +78,7 @@ Your [TCoAw](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw
 - **Consciousness:** the temporary focus or attention.
 - **Awareness:** recognition that the current focus occupies only part of the field.
 
-[Topologetics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) adds the question: **as focus moves, which relationships survive, disappear, acquire weight or become available again?**
+[Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) adds the question: **as focus moves, which relationships survive, disappear, acquire weight or become available again?**
 
 There is an important further distinction: **a meta-condition can remain named while losing its practical influence.** Consent might appear in the record while affected people cannot change anything. Uncertainty might be acknowledged while the conclusion proceeds as settled. Correction might be welcomed verbally while the same assumption continues governing attention.
 
@@ -92,7 +92,7 @@ The layers you identify have complementary jobs:
 | **C1–C2**                                                                                               | Whether the object was adequately recovered before an intervention redirected the process.                            |
 | **PQCE — Process Quality Calibration Evaluation**                                                       | What happened between the object, its representation, assessment, intervention and correction.                        |
 | [**16 Anchor Ethics**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) | Whether attention preserves consent, dignity, competing harms, sovereignty, pluralism and accountable power together. |
-| **TCoAw and Topologetics**                                                                              | Awareness of the foreground’s limits, with recoverable relationships to the wider field.                              |
+| **TCoAw and Topologetics™**                                                                              | Awareness of the foreground’s limits, with recoverable relationships to the wider field.                              |
 | **V.C.R.A.S. — Vindicated Competing Risk Assessment Studies**                                           | Whether later discoveries repair earlier treatment and improve subsequent attention and decisions.                    |
 
 These relationships can loop back on themselves. The Overseer’s attention becomes examinable; the criteria used to examine it remain challengeable; an outside contribution can reveal something the internal loop missed.
@@ -105,7 +105,7 @@ Your connection therefore reaches beyond managing focus effectively:
 
 > **Can the process notice when its own way of directing attention has made something important difficult to see—and allow that discovery to change its course?**
 
-That is a concrete meeting point between TCoAw, Topologetics and the ethical use of power.
+That is a concrete meeting point between TCoAw, Topologetics™ and the ethical use of power.
 
 **“Then the audit of that attention redirects attention again” is the recursive step.** Once that is visible, oversight must account for what it brings forward, what it displaces and whose priorities its intervention serves.
 
@@ -117,7 +117,7 @@ Your example of consent makes “connected meta-conditions” concrete. The mean
 
 Keeping the word *consent* while breaking one of those relationships changes the ethical situation. Discovering that break should be capable of changing the action.
 
-There is also a temporal dimension: **a relationship can survive in storage while becoming unavailable at the moment it matters.** A correction may exist in the archive yet never enter the next assessment. Topologetics therefore has a retrieval and activation problem alongside its preservation problem. VCRAS can follow whether the restored relationship becomes operative in later cases.
+There is also a temporal dimension: **a relationship can survive in storage while becoming unavailable at the moment it matters.** A correction may exist in the archive yet never enter the next assessment. Topologetics™ therefore has a retrieval and activation problem alongside its preservation problem. VCRAS can follow whether the restored relationship becomes operative in later cases.
 
 That suggests a useful, bounded test:
 
@@ -153,7 +153,7 @@ The ethical relationships remain active throughout:
 - **C1–C2** connects better understanding with a proportionate next intervention.
 - **The 16 Anchor Ethics** brings consent, consequences, sovereignty and competing considerations into that movement.
 - **PQCE** examines what processing actually did.
-- **Topologetics** preserves the relationships needed for that examination.
+- **Topologetics™** preserves the relationships needed for that examination.
 - **VCRAS** follows whether later discoveries improve treatment and future decisions.
 
 Importantly, the page includes **constructive disagreement and useful no-change results** among its proposed tests. The dynamic process has room to discover, correct, preserve or proceed; it needn’t manufacture a defect to demonstrate activity.

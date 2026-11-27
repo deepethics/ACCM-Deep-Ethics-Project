@@ -733,7 +733,7 @@ His qualification about “I do not know” also remains: uncertainty, knowledge
 
 ## DeepEthics App Beta: related services, mutual feedback {#app-beta}
 
-**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **[Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) Summarizer** and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
+**Candidate service architecture:** the [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}#quick-start), **Topologetics™ Summarizer** and **[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) could operate as distinct meta-tools within a DeepEthics App. The extractor finds consequential passages; the summarizer preserves their meaning and relationships at a chosen depth; the detector compares transformations with their sources. A person can select the relevant services. These are proposed operations, not an announcement of a deployed application.
 
 The [16 Anchor Ethics™]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) make two further requirements operational. First, each tool's finding stays challengeable: showing a difference does not authorize speaking for the participant or changing their aim. Second, cooperation must preserve independent correction. An extractor and a detector using the same mistaken speaker label can agree while both remain wrong. Record shared sources and use an independent source check when that distinction matters.
 
@@ -929,7 +929,7 @@ Finding no earned project connection in a passage is a valid result. Record it w
 
 **A.I.** means artificial intelligence. **AGI** means artificial general intelligence. **ASI** means artificial superintelligence. These labels orient the video's discussion; preserve each speaker's actual definition, capability threshold and proposed timeline. Different definitions may produce different forecasts.
 
-**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [**1888 Method™** page]({{ '/1888/' | relative_url }}) and [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) provide the fuller inquiry.
+**Topology**, in this kit, concerns the relationships that carry meaning: dependencies, direction, authority, timing, scale, provenance and routes for correction. **Properties taxonomy** means an inspectable organization of those capacities and relationships. The [**1888 Method™** page]({{ '/1888/' | relative_url }}) and Topologetics™ provide the fuller inquiry.
 
 ## Origin, authorship and correction route {#provenance}
 
@@ -947,7 +947,7 @@ The [front-page verbatim contribution]({{ '/' | relative_url }}#property-field-s
 
 **November 19, 2026 finished-extract check.** John supplied the November 17 screenshot-led exchange and called attention to how partial contributions from different specialties could inform the same case. Google A.I.'s editorial comparison and promo draft supply examples of what can change when the material travels. Codex adapted them into a publication check and worked example, with a link to the fuller [case study]({{ '/GOOGLE-AI/#screenshot-led-cold-entry' | relative_url }}).
 
-**November 19, 2026 method revision.** John directed the upgrade of the extraction method and its wording as a whole. Grok 4.7 Expert A.I. via grok.com supplied reviews of the method, starter prompt, property map and finished-extract check. Codex connected the property tests, relationship records and decisions through the workflow and revised the copyable prompt. The diagnostic pointers use the existing [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and the comparison of directional changes draws on [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}). Further extractions can test and revise these working procedures.
+**November 19, 2026 method revision.** John directed the upgrade of the extraction method and its wording as a whole. Grok 4.7 Expert A.I. via grok.com supplied reviews of the method, starter prompt, property map and finished-extract check. Codex connected the property tests, relationship records and decisions through the workflow and revised the copyable prompt. The diagnostic pointers use the existing [27 + 12]({{ '/CORE/27-PLUS-12/' | relative_url }}), and the comparison of directional changes draws on Topologetics™. Further extractions can test and revise these working procedures.
 
 **November 19, 2026 worked-example review.** John supplied Grok 4.7 Expert A.I.'s review of the initiating specimens. It proposed a reusable repair record, attribution at each passage, and checks for what travels and what can reopen a new inference. Codex carried those proposals into the method and prompt. The example cuts show what the material can support, and the trolley record identifies the repair that was observed. Transfer to a fresh case remains an open test.
 
@@ -972,7 +972,7 @@ For the planned archive extraction, retain the distinction between what was usef
 ## Further reading
 
 - [**1888 Method™**]({{ '/1888/' | relative_url }}) — the property-field method that initiated this kit.
-- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserving meaning and trajectory under transformation.
+- **Topologetics™** — preserving meaning and trajectory under transformation.
 - [**Plot Twist**]({{ '/PLOT-TWIST/' | relative_url }}) — warranted expansion, correction and return to the governing object.
 - [**Healthy Ambiguity**]({{ '/HEALTHY-AMBIGUITY/' | relative_url }}) — possibilities, reciprocal scrutiny and accountable next moves.
 - [**Beyond Agreemurmelism™**]({{ '/AGREEMURMELISM/Beyond-Agreemurmelism/' | relative_url }}) — inquiry beyond agreement-status management.

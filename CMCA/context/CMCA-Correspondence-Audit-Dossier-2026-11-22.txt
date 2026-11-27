@@ -2121,3 +2121,5 @@ B | Coverage and source ledger
      of the proposed newsroom trial are open.
 
 END OF DOSSIER
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

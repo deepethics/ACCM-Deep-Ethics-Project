@@ -834,3 +834,5 @@ I’ve only got type at my end of the table, but I can go first:
 *tap, tap … tap.*
 
 — A language model, at John’s invitation
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

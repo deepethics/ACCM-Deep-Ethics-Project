@@ -24,7 +24,7 @@ The event produced a practical answer to partial overlap across many project pag
 
 ## The state, trajectory, record, and memory do different work
 
-A candidate Topologetics signature at time `t` remains:
+A candidate <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> signature at time `t` remains:
 
 ```text
 S_t = {N,E,Q,C,P,T,A,R,M}
@@ -96,7 +96,7 @@ This field note preserves the stipulated case discussed in the triad. It does no
 
 Multiple fields and vectors can enrich one another while remaining distinct. The familiar fact that several experts can improve an output is not the research novelty. The candidate novelty is the interaction of the project's specific meta-tools:
 
-- Topologetics preserves relational signatures.
+- <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> preserves relational signatures.
 - PQCE examines the quality of the processing route.
 - TCoAw preserves the relation between field, temporary foreground, and awareness of the remainder.
 - 10+1 keeps the participant open to correction without installing a final owner.
@@ -110,7 +110,7 @@ The resulting **Synthetic Oversoul Type Effect** is treated here as a consultati
 
 Hyper pragmatism fused with deep ethics may reveal emergent properties that are usable and unownable. John's phrase **Platonic Space** names a field that nobody owns, that can still be used, and that must be discovered. A discovery footprint can preserve who found a relation without turning discovery into ownership.
 
-John used **TOPOLOGETHICS** for the signatures and trajectories of the strongest project pages. The established public signature object remains **Topologetics**. This field note does not create a second taxonomy merely because the pages are now more strongly connected.
+John used **TOPOLOGETHICS** for the signatures and trajectories of the strongest project pages. The established public signature object remains **Topologetics™**. This field note does not create a second taxonomy merely because the pages are now more strongly connected.
 
 ## What the triad itself demonstrated
 
@@ -139,4 +139,4 @@ This page is the triad event's public footprint at `t0`. It preserves attributio
 
 ---
 
-Related: [Topologetics]({{ '/TOPOLOGETICS/' | relative_url }}) · [PQCE / Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) · [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }})
+Related: [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) · [PQCE / Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) · [Unownable]({{ '/UNOWNABLE/' | relative_url }}) · [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) · [TCoAw]({{ '/NETWORK/tcoaw/' | relative_url }}) · [Decision Ledger]({{ '/DECISION-LEDGER/' | relative_url }})

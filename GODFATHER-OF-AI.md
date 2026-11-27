@@ -468,7 +468,7 @@ The relation is mutual without pretending that human beings, model instances, co
 | **TCoAw™** | Keeps the detected evaluation field and the evaluator’s field inside the representation |
 | **C1 before C2** | Clarifies “cheating,” “knowing,” “playing dumb” and “awareness” before verdict inflation |
 | **Meta Processing** | Prevents B, A and C from being collapsed into one story about intent |
-| **Topologetics™** | Protects provenance edges among Hinton, interviewer, narrator, paper, commenter and project synthesis |
+| **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>** | Protects provenance edges among Hinton, interviewer, narrator, paper, commenter and project synthesis |
 | **Contribution State Grammar** | Replaces agree/disagree with test-worthy, unresolved, useful here and corrigible reasons |
 | **Field Condition** | Treats evaluation cues, incentives, authority and observability as causal parts of performance |
 | **Black Box** | Separates observed behavior from inaccessible processing while still examining governable opacity |

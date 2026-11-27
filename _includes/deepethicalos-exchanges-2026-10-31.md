@@ -60,7 +60,7 @@ A DeepEthicalOS decision could therefore carry a living record: the accepted ris
 
 So the dynamics of it all are the **flow** of &#34;attention and focus management,&#34; and how do you know if **that power** is deep ethical?&#x20;
 
-Circles back to: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics) mixed with 10+1 & C1-C2 & PQCE, etc., almost like the whole system has its own layers looping somehow to check if all (meta-conditions) are still connected or not. That is close to my TCoAw concept mixed with Topologetics!&#x20;
+Circles back to: [https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics) mixed with 10+1 & C1-C2 & PQCE, etc., almost like the whole system has its own layers looping somehow to check if all (meta-conditions) are still connected or not. That is close to my TCoAw concept mixed with Topologetics™!&#x20;
 
 </div>
 
@@ -84,7 +84,7 @@ For DeepEthicalOS, the interacting relationships could be expressed like this:
 | **10+1** | The relational conditions for honest inquiry, care, wonderment, non-projection and correction on merit. |
 | **C1–C2** | Clarification that can change understanding before an intervention acquires authority. |
 | **PQCE** | Examination of how attention was allocated, what processing did, and what useful difference followed. |
-| **Topologetics** | Preservation of the answer-changing relationships through selection, summarisation, expansion and transfer. |
+| **Topologetics™** | Preservation of the answer-changing relationships through selection, summarisation, expansion and transfer. |
 | **VCRAS** | Later comparison: what received attention, what was dismissed, what consequences appeared, and whether correction changed subsequent treatment. |
 
 Your [Anchor Ethics page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/) already describes these interactions as a parallel field. Its October 25 clarification foregrounds **non-imposing advice that expands awareness and opens an inquiry someone might otherwise never encounter**.
@@ -99,7 +99,7 @@ So, how do we assess whether that power is being exercised deeply ethically? We 
 
 For example, an AI might accurately criticise someone’s wording while leaving the institutional assumption governing its response unexamined. The local criticism could be valid; **the allocation of scrutiny would still need examination**.
 
-“Are the meta-conditions still connected?” therefore becomes a substantive question. A system might retain the word *consent* while losing its relationship to someone’s practical ability to decline. Topologetics can locate that broken relationship; C1 can reopen it; PQCE can examine the repair; VCRAS can follow what happens afterward.
+“Are the meta-conditions still connected?” therefore becomes a substantive question. A system might retain the word *consent* while losing its relationship to someone’s practical ability to decline. Topologetics™ can locate that broken relationship; C1 can reopen it; PQCE can examine the repair; VCRAS can follow what happens afterward.
 
 Those loops can interact simultaneously and at different timescales. A useful finding may reopen the wider field; a valid no-change result can return attention to the work. **The ethical quality appears in how that flow preserves agency, discovers overlooked value and remains alterable by what it encounters.**
 
@@ -145,10 +145,10 @@ For example, a model with fixed parameters could receive its earlier interpretat
 
 **The hybrid’s evolving capacity therefore lives partly in the coupling:** mechanism, context, retained history, interpretation and feedback.
 
-That connects directly with your TCoAw and Topologetics:
+That connects directly with your TCoAw and Topologetics™:
 
 - **TCoAw** keeps the present focus related to the wider possibility field.
-- **Topologetics** preserves the relationships through which that focus developed and changed.
+- **Topologetics™** preserves the relationships through which that focus developed and changed.
 - **PQCE** examines what those transformations made possible, distorted or repaired.
 - **10+1 and C1–C2** keep that examination mutually corrigible and connected to the next move.
 

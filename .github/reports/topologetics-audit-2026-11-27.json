@@ -1,0 +1,883 @@
+{
+  "scope": "All tracked Markdown, TXT, HTML/HTM, and selected text/metadata assets; navigation and exact archives protected.",
+  "scanned": 681,
+  "changed": [
+    {
+      "path": "AI-CONTRIBUTIONS/2026-10-17-triad-topological-awareness.md",
+      "replacements": 4,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "AI-CONTRIBUTIONS/index.md",
+      "replacements": 1,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/methods-continuity.html",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/methods-continuity.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.html",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "AI-POWERED-SEARCH-ENGINE-BENCHMARK/context/yahoo-scout.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "BELIEVISM.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "BEYOND-DEMOCRACY-PATCH.md",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 1,
+      "existing_keyword_links": 4,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "CMCA/context/CMCA-Correspondence-Audit-Dossier-2026-11-22.html",
+      "replacements": 0,
+      "added_links": 3,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "CMCA/context/CMCA-Correspondence-Audit-Dossier-2026-11-22.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "CORE-DISCLAIMERS.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DECISION-LEDGER.md",
+      "replacements": 29,
+      "added_links": 3,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DEDDA.md",
+      "replacements": 0,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DEEP-ETHICAL-RSI/context/context-01.html",
+      "replacements": 4,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DEEP-ETHICAL-RSI/context/context-01.txt",
+      "replacements": 4,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DEEP-ETHICAL-RSI/index.md",
+      "replacements": 1,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "DEEPETHICALOS.md",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 2,
+      "existing_keyword_links": 5,
+      "final_keyword_links": 3,
+      "remaining_special_links": 2,
+      "text_reference_added": 0
+    },
+    {
+      "path": "Deep-Ethical-PDFs/PDF-INDEX.csv",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "Deep-Ethical-PDFs/PDF-INDEX.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "EGO-POLICE.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "EXPERIMENTS/cold-edge-swap-correction-transfer.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "EXTRACTION-STARTER-KIT.md",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 4,
+      "existing_keyword_links": 7,
+      "final_keyword_links": 3,
+      "remaining_special_links": 2,
+      "text_reference_added": 0
+    },
+    {
+      "path": "FLAWED-RED-BLUE-TEAM-FRAMING.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "FORUM/0002-shared-desk.md",
+      "replacements": 15,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "GODFATHER-OF-AI.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "HERDR.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "HUMOR/index.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "IRIS.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "LEXICON/index.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26-Bottles-001-004.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26-Bottles-001-005.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26-Bottles-001-006.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26-Bottles-001-007.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26-Bottles-001-008.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Complete-2026-11-26.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Full-Story-and-Original-Offer-2026-11-26-Bottles-001-008.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Full-Story-and-Original-Offer-2026-11-26-Bottles-001-009.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Full-Story-and-Original-Offer-2026-11-26-Bottles-001-010.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Full-Story-and-Original-Offer-2026-11-26-Bottles-001-011.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "MESSAGE-IN-A-BOTTLE/Message-in-a-Bottle-Full-Story-and-Original-Offer-2026-11-26-Bottles-001-012.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "METACOGNITIVE-SYNTHESIS.md",
+      "replacements": 1,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "MOBILE/data.js",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "MOBILE/index.html",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "MUTUAL-FATE.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "NETWORK/1888.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "NETWORK/asymmetric-grace.md",
+      "replacements": 1,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "NETWORK/deep-ethical-stack.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "NETWORK/wonderment.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "OMBUDSETHICS.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 3,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PHASE-CHANGE-SNAP/index.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 1,
+      "existing_keyword_links": 4,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PLOT-TWIST.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PR-PSYCHOLOGY.md",
+      "replacements": 0,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PR-PSYCHOLOGY/context/screen-snapshot-2026-11-17.html",
+      "replacements": 2,
+      "added_links": 3,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PR-PSYCHOLOGY/context/screen-snapshot-2026-11-17.txt",
+      "replacements": 2,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "PROVENANCE/youtube/2026-11-04-arena-agent-loyalties-supplied.html",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "README.md",
+      "replacements": 2,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 2,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "SENSEMAKING-TRAJECTORY.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 2,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.html",
+      "replacements": 2,
+      "added_links": 0,
+      "removed_duplicate_links": 5,
+      "existing_keyword_links": 8,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.txt",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "TCC/context/context-16.html",
+      "replacements": 23,
+      "added_links": 0,
+      "removed_duplicate_links": 20,
+      "existing_keyword_links": 23,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "TCC/context/context-16.txt",
+      "replacements": 23,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "TOPOLOGETICS/index.md",
+      "replacements": 40,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALIDATION-PARADOX.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALUE-TRAJECTORY.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALUE-TRAJECTORY/context/context-02.html",
+      "replacements": 8,
+      "added_links": 3,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALUE-TRAJECTORY/context/context-02.txt",
+      "replacements": 8,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALUE-TRAJECTORY/context/context-03.html",
+      "replacements": 4,
+      "added_links": 3,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VALUE-TRAJECTORY/context/context-03.txt",
+      "replacements": 4,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "VCRAS.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 1,
+      "existing_keyword_links": 4,
+      "final_keyword_links": 3,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "WHY-BOTHER.md",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 2,
+      "existing_keyword_links": 5,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "WHY-BOTHER/context/standing-out.html",
+      "replacements": 0,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "WHY-BOTHER/context/standing-out.txt",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 1
+    },
+    {
+      "path": "_data/deepethicalos-exchanges-2026-10-31.json",
+      "replacements": 5,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "_data/deepethicalos-open-loop-2026-10-31.json",
+      "replacements": 5,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "_includes/deepethicalos-exchanges-2026-10-31.md",
+      "replacements": 5,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "_includes/deepethicalos-open-loop-2026-10-31.md",
+      "replacements": 5,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "google-ai.md",
+      "replacements": 0,
+      "added_links": 0,
+      "removed_duplicate_links": 1,
+      "existing_keyword_links": 4,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "index.md",
+      "replacements": 1,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 3,
+      "final_keyword_links": 3,
+      "remaining_special_links": 1,
+      "text_reference_added": 0
+    },
+    {
+      "path": "meta-pdfs.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 1,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "navigator/pages.json",
+      "replacements": 3,
+      "added_links": 0,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 0,
+      "final_keyword_links": 0,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "neolingo.md",
+      "replacements": 0,
+      "added_links": 1,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 2,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    },
+    {
+      "path": "rogue-ethics.md",
+      "replacements": 0,
+      "added_links": 2,
+      "removed_duplicate_links": 0,
+      "existing_keyword_links": 1,
+      "final_keyword_links": 3,
+      "remaining_special_links": 0,
+      "text_reference_added": 0
+    }
+  ],
+  "archive_exceptions": [
+    {
+      "path": "PROVENANCE/youtube/2026-11-04-arena-agent-loyalties-supplied.txt",
+      "unmarked": 1
+    },
+    {
+      "path": "SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory-source.txt",
+      "unmarked": 1
+    },
+    {
+      "path": "TCC/context/context-16-original.txt",
+      "unmarked": 23
+    }
+  ],
+  "protected_or_unresolved": [
+    {
+      "path": "PROVENANCE/metacognitive-synthesis-2026-11-04.json",
+      "unmarked_or_technical": 1,
+      "existing_special_or_unassembled_links": 0
+    },
+    {
+      "path": "PROVENANCE/youtube/2026-11-04-andrea-morris-loyalties.json",
+      "unmarked_or_technical": 1,
+      "existing_special_or_unassembled_links": 0
+    },
+    {
+      "path": "TOPOLOGETICS/index.md",
+      "unmarked_or_technical": 1,
+      "existing_special_or_unassembled_links": 1
+    },
+    {
+      "path": "assets/topologetics-keywords.js",
+      "unmarked_or_technical": 2,
+      "existing_special_or_unassembled_links": 0
+    }
+  ],
+  "errors": [],
+  "totals": {
+    "replacements": 212,
+    "added_links": 57,
+    "removed_duplicate_links": 37,
+    "existing_keyword_links": 124,
+    "final_keyword_links": 144,
+    "remaining_special_links": 12,
+    "text_reference_added": 13
+  },
+  "changed_count": 83
+}

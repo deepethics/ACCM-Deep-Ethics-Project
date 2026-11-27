@@ -668,7 +668,7 @@ Emergent asks:       What properties arise from the interaction?
 Asymmetric Grace:    Who receives room, scrutiny, appeal, and cost?
 Meta Processing:     What happened to the object in the middle?
 TCoAw:               What wider relation field did temporary focus exclude?
-Topologetics:        Which relations must survive transformation?
+Topologetics™:        Which relations must survive transformation?
 Phase Change Snap:   What small Δ reorganized the visible trajectory?
 ```
 
@@ -1723,7 +1723,7 @@ It changes which intelligence is allowed to ask the next one. :P
 - [**A Deeper Introduction — Before the Verdict**]({{ '/DEEPER-INTRODUCTION/' | relative_url }})
 - [**Latent Space, Temporary Field Conditions, and the Glass Engine**]({{ '/NETWORK/latent-space/' | relative_url }})
 - [**Black Box — Who Controls the Pressure?**]({{ '/BLACK-BOX/' | relative_url }})
-- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }})
+- **Topologetics™**
 - [**Meta Processing**]({{ '/NETWORK/meta-processing/' | relative_url }})
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }})
 - [**TCoAw™ — Conceptual Topological Reasoning**]({{ '/NETWORK/tcoaw/' | relative_url }})

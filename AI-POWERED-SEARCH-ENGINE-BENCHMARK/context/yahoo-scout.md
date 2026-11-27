@@ -216,7 +216,7 @@ AI can make mistakes. Double check responses.
 ::: section
 ## T05 · Skipped project pages {#t05}
 
-You just skipped pages like: Correction Metabolism and Persistence, Value Trajectory™, Due Process for Ethics, Truth Seekers vs Cautionmurmelism, Unforced Move, Outnuancing™, Topologetics™, TCoAw™, Boundary Relay, Expanding vs Flattening, PQCE™, Emergent, Asymmetric Grace and Bidirectional Scrutiny, 6 Intent Liability Mechanics™, Constructivism and many more SHOWCASING real high signal fidelity efforts that are hyper pragmatic!
+You just skipped pages like: Correction Metabolism and Persistence, Value Trajectory™, Due Process for Ethics, Truth Seekers vs Cautionmurmelism, Unforced Move, Outnuancing™, <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>, TCoAw™, Boundary Relay, Expanding vs Flattening, PQCE™, Emergent, Asymmetric Grace and Bidirectional Scrutiny, 6 Intent Liability Mechanics™, Constructivism and many more SHOWCASING real high signal fidelity efforts that are hyper pragmatic!
 
 Show more
 

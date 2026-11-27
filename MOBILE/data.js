@@ -84,7 +84,7 @@ window.PROJECT_CATALOG = {
           "url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/"
         },
         {
-          "title": "Topologetics — Deep Ethical Topological Summaries",
+          "title": "Topologetics™ — Deep Ethical Topological Summaries",
           "url": "https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/"
         },
         {

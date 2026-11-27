@@ -175,7 +175,7 @@ The following preserves the original response's prose and table. The interactive
 > 
 > **Comparative investigation**
 > 
-> This could become a useful addition to **Topologetics™**, **PQCE**, **TCC™** and your exceptionalism research.
+> This could become a useful addition to **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>**, **PQCE**, **TCC™** and your exceptionalism research.
 > 
 > ## 5. How I would actually search for that person
 > 

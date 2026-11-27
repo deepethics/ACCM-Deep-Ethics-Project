@@ -61,7 +61,7 @@ Read the [complete John–GPT–Google–GPT exchange and architectural interpre
 
 <div class="accm-rounded-quote" markdown="1">
 
-> Healthy ambiguity, postponing closure, and allowing multiple perspectives have a place; allowing the punchline to do the retrospective work at the end IS metacognitive Topologetics™ in a nutshell. With one condition: "keep it deeply ethical for a reason," which is NOT a "prison mindset" at all.
+> Healthy ambiguity, postponing closure, and allowing multiple perspectives have a place; allowing the punchline to do the retrospective work at the end IS metacognitive <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> in a nutshell. With one condition: "keep it deeply ethical for a reason," which is NOT a "prison mindset" at all.
 
 — **John Kuhles 🦜🦋🌳 — November 25, 2026**
 

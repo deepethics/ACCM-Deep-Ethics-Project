@@ -93,7 +93,7 @@ Sources: [E04](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/
 
 John's wonderment account describes first recognition of something beautiful, mysterious, profound or unexpectedly connected before language has fully organized it: safety without forced closure, awe, appreciation, playfulness, motivation and respect for an unfolding unknown.
 
-Contribution State Grammar protects this through *worth considering*, *test-worthy* and *unresolved*. The field need not choose instant agreement, rejection or warning to look decisive. Wonderment can supply an exploratory vector while Topologetics™ preserves the uncertainty attaching it to the object.
+Contribution State Grammar protects this through *worth considering*, *test-worthy* and *unresolved*. The field need not choose instant agreement, rejection or warning to look decisive. Wonderment can supply an exploratory vector while <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> preserves the uncertainty attaching it to the object.
 
 Wonderment is not proof. Awe can be mistaken, manipulated or retrospectively rewritten. Its contribution state opens inquiry; it does not govern the conclusion. The later trajectory still meets evidence, competing explanations, correction and reality's veto.
 

@@ -444,7 +444,7 @@ The No-Sheriff condition keeps an instrument from becoming a permanent owner of 
 
 The attached Agent account of [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) asks what happens after a strong synthesis. A system can preserve meaning throughout its analysis, then close with an unauthorized prescription, a narrowed menu, or a move made on someone else's behalf.
 
-> Once you have used your 1888 taxonomy, your 27+12 protocol, and your Topologetics to bring total clarity to a complex object… WHO DECIDES WHAT WE DO ABOUT IT?
+> Once you have used your 1888 taxonomy, your 27+12 protocol, and your <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> to bring total clarity to a complex object… WHO DECIDES WHAT WE DO ABOUT IT?
 
 — **Agent of Arena.ai**, supplied account of *Unforced Move*, 4 November 2026. [A2](#relay-sources).
 

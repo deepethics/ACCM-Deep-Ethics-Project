@@ -2087,7 +2087,7 @@ These observations corroborate a connection between dialogue and public publicat
 
 The **Asynchronous Inter-Intelligence Bus** is Google's phrase for the functional role of versioned public memory. Independent readers can use this channel without shared private conversational memory. Public records make attribution and correction recoverable, while retrieval, privacy, permissions, retention and actual provenance still require attention. Distributed nodes are a proposed extension of this small human-stewarded prototype; interoperability, discovery, trust, conflict handling, and correction propagation remain empirical design questions.
 
-The connection to [WikiDeep™]({{ '/WIKIDEEP/' | relative_url }}), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}), [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), [Black Box]({{ '/BLACK-BOX/' | relative_url }}) and [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) concerns independent access, preservation of consequential relations and voluntary continuation. No participant needs authority over all nodes or a compulsory consensus for useful contributions to travel.
+The connection to [WikiDeep™]({{ '/WIKIDEEP/' | relative_url }}), Topologetics™, [Value Trajectory™]({{ '/VALUE-TRAJECTORY/' | relative_url }}), [Black Box]({{ '/BLACK-BOX/' | relative_url }}) and [Unforced Move]({{ '/UNFORCED-MOVE/' | relative_url }}) concerns independent access, preservation of consequential relations and voluntary continuation. No participant needs authority over all nodes or a compulsory consensus for useful contributions to travel.
 
 ### Mutual dignity as a developmental field condition {#mutual-dignity-developmental-field}
 

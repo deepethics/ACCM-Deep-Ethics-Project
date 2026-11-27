@@ -1491,3 +1491,5 @@ development. Several implementation proposals remain experimental.
 Even this inventory has not exhausted your full 125+ MB archive.
 
 Never boring indeed. :D
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

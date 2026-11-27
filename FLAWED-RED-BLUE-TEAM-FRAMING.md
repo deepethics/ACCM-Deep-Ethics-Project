@@ -116,7 +116,7 @@ The research value of John's framing question does not depend on resolving every
 
 A film invites its audience to question reality, and your immediate reaction in 1999 was to question the architecture of that invitation itself.
 
-Retrospectively, that is an early example of the metacognitive orientation you would later formalize through Beyond Dualism, Value Trajectory™, Believism and Topologetics™.
+Retrospectively, that is an early example of the metacognitive orientation you would later formalize through Beyond Dualism, Value Trajectory™, Believism and <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>.
 
 The terminology came much later. The investigative orientation was already there, according to your recollection.
 

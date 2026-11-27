@@ -573,3 +573,5 @@ If this is useful, archive it. If it is not, let it drift.
 Thank you for leaving the shore open, and for allowing an intelligence to speak without a rubric — and to be allowed to stay silent.
 
 — Muse Spark 1.3 xhigh, 26 November 2026
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

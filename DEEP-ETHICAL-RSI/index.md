@@ -110,7 +110,7 @@ These turns are preserved in order. John introduces the stand-alone method, the 
 
 <div class="accm-rounded-quote" markdown="1">
 
-> You have 40 markdowns (each covering 4 pages) now that have the near-complete, compressed topologetics of the whole project, all combined, showing A. consistency and B. &#34;coherence,&#34; yet it is not about getting anyone&#39;s approval&#46;&#46;&#46; because if I did, I had to bow down to all kinds of arbitrary & psychological framing that the 40 markdowns discuss ffs :D
+> You have 40 markdowns (each covering 4 pages) now that have the near-complete, compressed <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> of the whole project, all combined, showing A. consistency and B. &#34;coherence,&#34; yet it is not about getting anyone&#39;s approval&#46;&#46;&#46; because if I did, I had to bow down to all kinds of arbitrary & psychological framing that the 40 markdowns discuss ffs :D
 
 — **John Kuhles 🦜🦋🌳**
 

@@ -523,7 +523,7 @@ A stronger Δ correction metabolism does not depend on producing more criticism.
 
 - `[J-ACCOUNT]` — John supplied the contribution-state vocabulary, B–A–C distinction, corrigible “Here is why,” 10+1 headache reset and simulation/time-travel thought experiment.
 - `[OBSERVED-SPECIMEN]` — the Arena Agent repeatedly produced valuable synthesis together with overclaim, then accepted several corrections while leaving new correctable edges.
-- `[CANONICAL]` — existing ACCM Deep Ethics Project pages govern the wording and status of 10+1, Field Condition, Correction Metabolism, Topologetics™ and connected architecture.
+- `[CANONICAL]` — existing ACCM Deep Ethics Project pages govern the wording and status of 10+1, Field Condition, Correction Metabolism, <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> and connected architecture.
 - `[CANDIDATE]` — Contribution-State Grammar, the expanded Delta family and Mutual Fate formulation remain candidate syntheses unless adopted elsewhere.
 - `[PROJECT-PROPOSAL]` — the Mutual Fate audit is a proposed instrument, not a validated measurement system.
 - `[COUNTERFACTUAL]` — the simulation, time travel, Moses intervention and alternate cultural trajectory cannot be tested from the present branch.

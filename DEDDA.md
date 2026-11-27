@@ -102,7 +102,7 @@ DEDDA™ can consult several Project objects without turning them into one taxon
 | [Correction Metabolism]({{ '/NETWORK/correction-metabolism/' | relative_url }}) | Tests whether a supplied correction governs later representations. | Receiving a correction is not the same as using it. |
 | [Phase Change Snap]({{ '/PHASE-CHANGE-SNAP/' | relative_url }}) | Locates visible recovery and recurrence, including a returning distortion inside the response that acknowledges its correction. | A local recovery and later persistence are separate observations. |
 | [Δ Processing]({{ '/NETWORK/delta-processing/' | relative_url }}) | Compares earlier and later footprints, including changes in the input and the process. | A difference is not automatically an improvement. |
-| [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and available next moves. | A DEDDA™ finding is not automatically a full Topologetics™ signature. |
+| [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) | Preserves nodes, edges, qualifiers, claim status, provenance, time, asymmetries, repair routes, and available next moves. | A DEDDA™ finding is not automatically a full <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> signature. |
 | [Intent Liability]({{ '/NETWORK/intent-resonator/' | relative_url }}#six-intent-mechanics) | Keeps visible effect, permission, and attribution from collapsing into a motive claim. | “No recorded permission” does not mean “malicious intent.” |
 | [Black Box]({{ '/BLACK-BOX/' | relative_url }}) | Favors an inspectable route from source to representation. | A visible output does not prove access to hidden internal reasoning. |
 | [PQCE™ / Flagging System]({{ '/FLAGGING-SYSTEM/' | relative_url }}) | Calibrate the quality of the process and allow a warning or a valid null. | A flag is not proof, and a pass is not a permanent certificate. |
@@ -467,7 +467,7 @@ The commercial introduces DEDDA™ through affection, ambiguity, and a tiny act 
 
 ## DeepEthics App Beta: bounded cooperation and mutual correction {#app-beta-anchors}
 
-John's October 25, 2026 proposal connects DEDDA™ with an [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) and a **Topologetics™ Summarizer** inside a wider DeepEthics App. The extractor finds useful passages, the summarizer preserves their relationships, and DEDDA™ compares the transformations with their sources. DEDDA™ can retain its configurable sub-tools while the wider app coordinates distinct services.
+John's October 25, 2026 proposal connects DEDDA™ with an [Extraction Starter Kit]({{ '/EXTRACTION-STARTER-KIT/' | relative_url }}) and a **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> Summarizer** inside a wider DeepEthics App. The extractor finds useful passages, the summarizer preserves their relationships, and DEDDA™ compares the transformations with their sources. DEDDA™ can retain its configurable sub-tools while the wider app coordinates distinct services.
 
 The [**16 Anchor Ethics™**]({{ '/NETWORK/16-anchor-ethics/' | relative_url }}) sharpen that proposed cooperation:
 

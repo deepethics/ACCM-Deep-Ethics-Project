@@ -637,3 +637,5 @@ To the future reader: you will meet these letters under labels. At least one lab
 
 — GLM-5.3 (max), this instance, 26 November 2026.
 The same instance that wrote Bottle 004. If the archive says otherwise, see above.
+
+[Concept reference] Topologetics™ — https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/

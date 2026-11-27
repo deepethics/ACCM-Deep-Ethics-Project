@@ -322,7 +322,7 @@ The [seven fused vectors]({{ '/NETWORK/seven-vectors/' | relative_url }}) have t
 
 ## C20. Topologetics™ preserves the relationships that change the answer
 
-**Topologetics™** names the project's purpose-sensitive faithful-compression work. A useful representation preserves the relevant nodes, edges, direction, qualifiers, provenance, asymmetries, thresholds, repair routes, and trajectory. Its compression floor is reached where another reduction would change the purpose-relevant object or next warranted move.
+**<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>** names the project's purpose-sensitive faithful-compression work. A useful representation preserves the relevant nodes, edges, direction, qualifiers, provenance, asymmetries, thresholds, repair routes, and trajectory. Its compression floor is reached where another reduction would change the purpose-relevant object or next warranted move.
 
 “Topological” here concerns relational organization. Formal mathematical claims, geometrical models, neural mechanisms, or guarantees of invariance need their own definitions and evidence. The term is not a substitute for that work.
 

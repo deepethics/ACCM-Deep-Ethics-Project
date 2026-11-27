@@ -34,7 +34,7 @@ John's clarification restores the polarity:
 
 </div>
 
-The Deep Ethical topologetics signature is:
+The Deep Ethical <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> signature is:
 
 ```text
 diagnosed imbalance

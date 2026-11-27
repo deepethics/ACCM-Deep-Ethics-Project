@@ -1282,7 +1282,7 @@ Evidence may support only particular domains, actors, periods or failure classes
 
 ## 23. The research field in one sentence
 
-> **VCRAS is the Deep Ethical, longitudinal study of how competing risk assessments are represented, flagged, acted upon, later vindicated or disconfirmed, corrected or resisted, remembered or erased, and recursively inherited—using ⇄ Delta Δ Processing and Topologetics to preserve the relations that determine whether yesterday's correction improves tomorrow's intelligence.**
+> **VCRAS is the Deep Ethical, longitudinal study of how competing risk assessments are represented, flagged, acted upon, later vindicated or disconfirmed, corrected or resisted, remembered or erased, and recursively inherited—using ⇄ Delta Δ Processing and Topologetics™ to preserve the relations that determine whether yesterday's correction improves tomorrow's intelligence.**
 
 Its compact challenge is:
 
@@ -1313,7 +1313,7 @@ Its compact challenge is:
 ## Related pages
 
 - [**DeepEthicalOS™ — three exchanges**]({{ '/DEEPETHICALOS/#three-exchanges-2026-10-31' | relative_url }}) — supplies the full John–GPT contributions behind the DEANO application to risk authority, attention history and later correction.
-- [**Topologetics™**]({{ '/TOPOLOGETICS/' | relative_url }}) — preserves the load-bearing topology of each longitudinal case.
+- **Topologetics™** — preserves the load-bearing topology of each longitudinal case.
 - [**Flagging System / PQCE™**]({{ '/FLAGGING-SYSTEM/' | relative_url }}) — evaluates whether classification replaced adequate examination and whether correction can reach the judging process.
 - [**Cognitive Warfare Mass Psychology**]({{ '/COGNITIVE-WARFARE/' | relative_url }}) — studies cognition, classification and defence across institutional and A.I. systems.
 - [**Asymmetric Grace and Bidirectional Scrutiny**]({{ '/NETWORK/asymmetric-grace/' | relative_url }}) — examines unequal uncertainty, procedure, consequence and memory.

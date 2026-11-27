@@ -72,7 +72,7 @@ Cluster 8 stays one coupled cluster: **8a** platform and reach, **8b** generativ
 
 [Expanded reference](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/).
 
-**Topologetics™** is the developing Deep Ethical practice of producing purpose-bounded **Topological Summaries of the Object**. It preserves load-bearing nodes and answer-changing relations—including direction, timing, qualifiers, claim status, provenance, asymmetries, consequences, humor architecture, and correction routes—while distinguishing source relations from summarizer inference.
+**<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>** is the developing Deep Ethical practice of producing purpose-bounded **Topological Summaries of the Object**. It preserves load-bearing nodes and answer-changing relations—including direction, timing, qualifiers, claim status, provenance, asymmetries, consequences, humor architecture, and correction routes—while distinguishing source relations from summarizer inference.
 
 Its stopping condition is the **faithful compression floor**: compress until another reduction would remove or reverse an answer-changing relation, then stop. The source remains recoverable, the transformation remains inspectable, and the method permits valid null results and correction of its own topology map.
 

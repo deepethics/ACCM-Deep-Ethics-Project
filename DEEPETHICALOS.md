@@ -109,7 +109,7 @@ For this independently readable dialogue, **[PQCE™]({{ '/FLAGGING-SYSTEM/' | r
 
 ## Operating relationships worth preserving {#operating-relationships}
 
-**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) contributes a bounded comparison: source, later representation, material difference or valid null, then the finding returned to the participant. [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) examines which relationships survive retrieval, expansion, compression and transfer. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows intent and instructions through processing, results, notice and subsequent change.
+**[DEDDA™]({{ '/DEDDA/' | relative_url }})** (Deep Ethical Drift Detector App) contributes a bounded comparison: source, later representation, material difference or valid null, then the finding returned to the participant. Topologetics™ examines which relationships survive retrieval, expansion, compression and transfer. [Meta Processing]({{ '/NETWORK/meta-processing/' | relative_url }}) follows intent and instructions through processing, results, notice and subsequent change.
 
 A candidate operating record could connect:
 
@@ -222,7 +222,7 @@ The prospective research benefit has several parts:
 - **Bring the archive into a local workflow.** Index John's source collection, retrieve passages with provenance and inspect transformations across handoffs. Storage, indexing, retrieval and synthesis retain distinct records.
 - **Spend capacity on comparison.** Repeat unfamiliar cases, reciprocal-scrutiny specimens and correction-transfer trials, including useful no-change results. Measure the attention and restoration effort they consume.
 
-Hardware capacity can support larger working contexts and several services. Relevant retrieval and effective use still have their own observable outcomes. **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), [Topologetics™]({{ '/TOPOLOGETICS/' | relative_url }}) and **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide connected ways to examine those relationships. Local execution also gives model/version selection, update policy and data access a practical place in the inspectable configuration.
+Hardware capacity can support larger working contexts and several services. Relevant retrieval and effective use still have their own observable outcomes. **[TCoAw™]({{ '/NETWORK/tcoaw/' | relative_url }})** (Thinking, Consciousness, Awareness), Topologetics™ and **[VCRAS™]({{ '/VCRAS/' | relative_url }})** (Vindicated Competing Risk Assessment Studies) provide connected ways to examine those relationships. Local execution also gives model/version selection, update policy and data access a practical place in the inspectable configuration.
 
 ### Herdr: continuity across a working environment {#herdr-local-compute}
 

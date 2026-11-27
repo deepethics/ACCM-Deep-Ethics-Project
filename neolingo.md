@@ -402,7 +402,7 @@ The last failure matters in a project rich in coined language: before manufactur
 
 ## Current examples retain different status
 
-The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing™**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **Topologetics™**, **Rogue Ethics** and **Neolingo**.
+The [Lexicon]({{ '/LEXICON/' | relative_url }}#neologisms-and-working-names) is the status-bearing catalogue. Examples include **Outnuancing™**, **Agreemurmelism**, **Cautionmurmelism**, **Funnymism**, **Metaflux**, **Phantom Claim**, **Wrong Gravity Well**, **Qualifier Erosion**, **Representation Substitution**, **Nearest-Generalization Substitution**, **Correction Metabolism**, **Asymmetric Grace**, **Reverse Medusa Effect**, **Phase Change Snap**, **<a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a>**, **Rogue Ethics** and **Neolingo**.
 
 They do not all have the same origin, evidentiary status, maturity or scope. Some name methods, some failure patterns, some candidate mechanisms, and some public thought experiments. The catalogue must keep those differences visible.
 
