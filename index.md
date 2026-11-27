@@ -74,7 +74,7 @@ clear trajectory efforts
 
 ALL to do 1 job:
 
-Seek the partially hidden (covert) and overt deep ethical potential of humanity &#46;&#46;&#46; not wasting time that is not working well &#46;&#46;&#46;
+Seek the partially hidden (covert) and/or overt deep ethical creative, uplifting, empowering potential of humanity &#46;&#46;&#46; not wasting too much time on what is not working well, but still remain within the **[10+1]({{ '/NETWORK/ten-plus-one/' | relative_url }})** baseline.
 
 And imagine it has NO CLUE about what my project is all about &#46;&#46;&#46;
 
