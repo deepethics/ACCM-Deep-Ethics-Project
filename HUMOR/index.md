@@ -1808,15 +1808,15 @@ Carr's description of jokes as pleasure bribes and opportunities to widen the Ov
 
 | Jimmy Carr's observation | ACCM Deep Ethics connection |
 |---|---|
-| Being interested precedes being interesting | Authentic Wonderment |
-| Jokes are little puzzles | TCoAw™ |
-| Thinking previously unthinkable thoughts | Allow Constructive Controversy Mode |
-| Widening the conversational Overton window | Outnuancing™ |
-| Constantly thinking and recording discoveries | Longitudinal Delta Processing |
-| Graft and craft | Correction Metabolism |
-| How you study matters | 1888 Method™ |
-| Learning how to give attention | Metacognitive awareness |
-| Giving another person attention | Mutual dignity and care |
+| Being interested precedes being interesting | [**Authentic Wonderment**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/wonderment/) |
+| Jokes are little puzzles | [**TCoAw™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) |
+| Thinking previously unthinkable thoughts | [**Allow Constructive Controversy Mode**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/) |
+| Widening the conversational Overton window | [**Outnuancing™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/outnuancing/) |
+| Constantly thinking and recording discoveries | [**Longitudinal Delta Processing**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/) |
+| Graft and craft | [**Correction Metabolism**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) |
+| How you study matters | [**1888 Method™**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/1888/) |
+| Learning how to give attention | [**Metacognitive awareness**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/) |
+| Giving another person attention | [**Mutual dignity and care**](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/mutual-dignity/) |
 
 ## 3. The distinction between what and how
 
