@@ -5,13 +5,13 @@ description: "John Kuhles’s perspective on Thinking, Consciousness, Awareness,
 permalink: /NETWORK/tcoaw/
 ---
 
-**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#awareness' | relative_url }}).
-
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/tcoaw/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-tcoaw.pdf">📄 PDF edition</a>
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
+
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#awareness' | relative_url }}).
 
 # TCoAw™ as Conceptual Topological Reasoning
 

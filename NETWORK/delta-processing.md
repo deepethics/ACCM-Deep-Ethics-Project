@@ -4,14 +4,14 @@ title: "Δ Processing — What Changed?"
 permalink: /NETWORK/delta-processing/
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
-
-
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/delta-processing/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/NETWORK-delta-processing.pdf">📄 PDF edition</a>
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
+
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+
 
 # Δ Processing — What Changed?
 

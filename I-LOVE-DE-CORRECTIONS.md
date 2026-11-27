@@ -5,13 +5,13 @@ description: "Why correction on merit can be welcome, how it improves the qualit
 permalink: /I-LOVE-DE-CORRECTIONS/
 ---
 
-**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#correction' | relative_url }}).
-
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/I-LOVE-DE-CORRECTIONS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/I-LOVE-DE-CORRECTIONS.pdf">📄 PDF edition</a>
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
+
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#correction' | relative_url }}).
 
 <!-- ACCM_PDF_OMIT_START -->
 <style>

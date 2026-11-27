@@ -6,6 +6,12 @@ permalink: /CANON-UNCERTAINTY-DELTA-RECOVERY/
 date: 2026-11-26
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANON-UNCERTAINTY-DELTA-RECOVERY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/CANON-UNCERTAINTY-DELTA-RECOVERY.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # ʘ∞ΔR™
 
 **How can an intelligence preserve the original object, keep uncertainty open, make transformations visible, recover lost meaning and determine whether intervention is warranted?**

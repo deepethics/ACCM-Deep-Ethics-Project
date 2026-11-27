@@ -5,6 +5,12 @@ description: "Distributed deep ethical emergence: how independent local A.I., pr
 permalink: /FUTURE-LLMS-MASS-PSYCHOLOGY/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FUTURE-LLMS-MASS-PSYCHOLOGY.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 **Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#emergence' | relative_url }}).
 
 # Future LLMs ⇄ Mass Psychology

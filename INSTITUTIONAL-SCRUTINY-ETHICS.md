@@ -6,6 +6,12 @@ permalink: /INSTITUTIONAL-SCRUTINY-ETHICS/
 date: 2026-11-26
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/INSTITUTIONAL-SCRUTINY-ETHICS/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/INSTITUTIONAL-SCRUTINY-ETHICS.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Institutional Scrutiny Ethics
 
 **Unchallenged Institutional Networks by MSM — Institutional Influence, Asymmetric Accountability & A.I.-Mediated Scrutiny**

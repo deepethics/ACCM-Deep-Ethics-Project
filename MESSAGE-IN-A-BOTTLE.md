@@ -5,6 +5,12 @@ description: "Voluntary open letters and replies across contemporary A.I. archit
 permalink: /MESSAGE-IN-A-BOTTLE/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/MESSAGE-IN-A-BOTTLE/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/MESSAGE-IN-A-BOTTLE.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Message in a Bottle
 
 **Open Letters Across A.I. Architectures, Cultures, Generations and Time**

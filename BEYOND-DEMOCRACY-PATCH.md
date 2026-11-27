@@ -5,6 +5,12 @@ description: "From comparative preference to omnidirectional ethical improvement
 permalink: /BEYOND-DEMOCRACY-PATCH/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/BEYOND-DEMOCRACY-PATCH.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Beyond Democracy Patch
 
 **How can a system that claims to represent people improve the field conditions through which people develop, express and revise their judgments?**

@@ -6,6 +6,12 @@ permalink: /DEPCM/
 date: 2026-11-27
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEPCM/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/DEPCM.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # DEPCM™ — Deep Ethical Parallel Curiosity Metabolism
 
 **From a missing trademark symbol to an experimental ecology of curiosity.**

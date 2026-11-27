@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 180
+**Public pages exported:** 193
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -35,10 +35,12 @@
 | [Believism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BELIEVISM/) | [BELIEVISM.pdf](BELIEVISM.pdf) | `BELIEVISM.md` |
 | [Potential Science Paper Candidate Draft — V03b](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER-V3B/) | [Beta-Paper-V03b.pdf](Beta-Paper-V03b.pdf) | `BETA-PAPER-V3B/index.md` |
 | [Potential Science Paper Candidate Draft](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BETA-PAPER/) | [BETA-PAPER.pdf](BETA-PAPER.pdf) | `potential-science-paper-candidate-draft.md` |
+| [Beyond Democracy Patch](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DEMOCRACY-PATCH/) | [BEYOND-DEMOCRACY-PATCH.pdf](BEYOND-DEMOCRACY-PATCH.pdf) | `BEYOND-DEMOCRACY-PATCH.md` |
 | [Beyond Dualism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BEYOND-DUALISM/) | [BEYOND-DUALISM.pdf](BEYOND-DUALISM.pdf) | `BEYOND-DUALISM.md` |
 | [John Kuhles — Biography and the Conditions Behind the ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BIOGRAPHY/) | [BIOGRAPHY.pdf](BIOGRAPHY.pdf) | `BIOGRAPHY.md` |
 | [Black Box — Who Controls the Pressure?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BLACK-BOX/) | [BLACK-BOX.pdf](BLACK-BOX.pdf) | `black-box.md` |
 | [Boundary Relay](https://deepethics.github.io/ACCM-Deep-Ethics-Project/BOUNDARY-RELAY/) | [BOUNDARY-RELAY.pdf](BOUNDARY-RELAY.pdf) | `BOUNDARY-RELAY.md` |
+| [Canon Uncertainty Delta Recovery](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CANON-UNCERTAINTY-DELTA-RECOVERY/) | [CANON-UNCERTAINTY-DELTA-RECOVERY.pdf](CANON-UNCERTAINTY-DELTA-RECOVERY.pdf) | `CANON-UNCERTAINTY-DELTA-RECOVERY.md` |
 | [Categorizing Issues](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CATEGORIZING-ISSUES/) | [CATEGORIZING-ISSUES.pdf](CATEGORIZING-ISSUES.pdf) | `CATEGORIZING-ISSUES.md` |
 | [CMCA™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/) | [CMCA.pdf](CMCA.pdf) | `CMCA.md` |
 | [Cognitive Warfare Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/COGNITIVE-WARFARE/) | [COGNITIVE-WARFARE.pdf](COGNITIVE-WARFARE.pdf) | `COGNITIVE-WARFARE/index.md` |
@@ -49,6 +51,7 @@
 | [27 + 12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) | [CORE-27-PLUS-12.pdf](CORE-27-PLUS-12.pdf) | `CORE/27-plus-12-site.md` |
 | [Avoid ACCM 😄](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/) | [CORE-Avoid-ACCM.pdf](CORE-Avoid-ACCM.pdf) | `CORE/Avoid-ACCM.md` |
 | [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) | [CORE-Truth-Distortion-and-the-Trickster-Magician.pdf](CORE-Truth-Distortion-and-the-Trickster-Magician.pdf) | `CORE/truth-distortion-site.md` |
+| [Correspondence Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/) | [CORRESPONDENCE-FILES.pdf](CORRESPONDENCE-FILES.pdf) | `CORRESPONDENCE-FILES.md` |
 | [Dear A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/) | [DEAR-AI.pdf](DEAR-AI.pdf) | `dear-ai.md` |
 | [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) | [DECISION-LEDGER.pdf](DECISION-LEDGER.pdf) | `decision-ledger-site.md` |
 | [Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/) | [DECLARATION-OF-LAUGHTER.pdf](DECLARATION-OF-LAUGHTER.pdf) | `DECLARATION-OF-LAUGHTER/index.md` |
@@ -59,7 +62,9 @@
 | [Deep](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEP/) | [DEEP.pdf](DEEP.pdf) | `DEEP/index.md` |
 | [A Deeper Introduction — Before the Verdict](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) | [DEEPER-INTRODUCTION.pdf](DEEPER-INTRODUCTION.pdf) | `deeper-introduction-site.md` |
 | [DeepEthicalOS](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPETHICALOS/) | [DEEPETHICALOS.pdf](DEEPETHICALOS.pdf) | `DEEPETHICALOS.md` |
+| [DEPCM™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEPCM/) | [DEPCM.pdf](DEPCM.pdf) | `DEPCM.md` |
 | [Due Process for Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DUE-PROCESS-FOR-ETHICS/) | [DUE-PROCESS-FOR-ETHICS.pdf](DUE-PROCESS-FOR-ETHICS.pdf) | `DUE-PROCESS-FOR-ETHICS.md` |
+| [Ego Police](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EGO-POLICE/) | [EGO-POLICE.pdf](EGO-POLICE.pdf) | `EGO-POLICE.md` |
 | [Emergent — Which Properties Are We Harnessing?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EMERGENT/) | [EMERGENT.pdf](EMERGENT.pdf) | `emergent.md` |
 | [Ethical Blind Spots](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ETHICAL-BLIND-SPOTS/) | [ETHICAL-BLIND-SPOTS.pdf](ETHICAL-BLIND-SPOTS.pdf) | `ETHICAL-BLIND-SPOTS.md` |
 | [Expanding vs Flattening](https://deepethics.github.io/ACCM-Deep-Ethics-Project/EXPANDING-VS-FLATTENING/) | [EXPANDING-VS-FLATTENING.pdf](EXPANDING-VS-FLATTENING.pdf) | `EXPANDING-VS-FLATTENING.md` |
@@ -79,11 +84,13 @@
 | [Flagging System — Highlighted Exchanges](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/HIGHLIGHTS/) | [FLAGGING-SYSTEM-HIGHLIGHTS.pdf](FLAGGING-SYSTEM-HIGHLIGHTS.pdf) | `flagging-system-highlights.md` |
 | [Flagging System — Layered Processing Source Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/LAYERED-SOURCES/) | [FLAGGING-SYSTEM-LAYERED-SOURCES.pdf](FLAGGING-SYSTEM-LAYERED-SOURCES.pdf) | `flagging-system-layered-sources.md` |
 | [Flagging System — Source and Correction Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAGGING-SYSTEM/SOURCES/) | [FLAGGING-SYSTEM-SOURCES.pdf](FLAGGING-SYSTEM-SOURCES.pdf) | `flagging-system-sources.md` |
+| [Flawed Red & Blue Team Framing](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAWED-RED-BLUE-TEAM-FRAMING/) | [FLAWED-RED-BLUE-TEAM-FRAMING.pdf](FLAWED-RED-BLUE-TEAM-FRAMING.pdf) | `FLAWED-RED-BLUE-TEAM-FRAMING.md` |
 | [For who?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/) | [FOR-WHO.pdf](FOR-WHO.pdf) | `for-who.md` |
 | [Forum — Public Deliberation](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/) | [FORUM.pdf](FORUM.pdf) | `FORUM/index.md` |
 | [Forum 0001 — Front-Page Register and the Multi-A.I. Mandate](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0001-front-page-register/) | [FORUM-0001-front-page-register.pdf](FORUM-0001-front-page-register.pdf) | `FORUM/0001-front-page-register.md` |
 | [Forum 0002 — The Shared Desk](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0002-shared-desk/) | [FORUM-0002-shared-desk.pdf](FORUM-0002-shared-desk.pdf) | `FORUM/0002-shared-desk.md` |
 | [Forum 0003 — Arena catch-up prompt (2026-09-16)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FORUM/0003-arena-catch-up/) | [FORUM-0003-arena-catch-up.pdf](FORUM-0003-arena-catch-up.pdf) | `FORUM/0003-arena-catch-up.md` |
+| [Future LLMs ⇄ Mass Psychology](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FUTURE-LLMS-MASS-PSYCHOLOGY/) | [FUTURE-LLMS-MASS-PSYCHOLOGY.pdf](FUTURE-LLMS-MASS-PSYCHOLOGY.pdf) | `FUTURE-LLMS-MASS-PSYCHOLOGY.md` |
 | [Godfather of A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GODFATHER-OF-AI/) | [GODFATHER-OF-AI.pdf](GODFATHER-OF-AI.pdf) | `GODFATHER-OF-AI.md` |
 | [Google A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOOGLE-AI/) | [GOOGLE-AI.pdf](GOOGLE-AI.pdf) | `google-ai.md` |
 | [Governance](https://deepethics.github.io/ACCM-Deep-Ethics-Project/GOVERNANCE/) | [GOVERNANCE.pdf](GOVERNANCE.pdf) | `governance-site.md` |
@@ -94,8 +101,11 @@
 | [Sense of Humor — Deep Ethics With a Laugh](https://deepethics.github.io/ACCM-Deep-Ethics-Project/HUMOR/) | [HUMOR.pdf](HUMOR.pdf) | `HUMOR/index.md` |
 | [I Love D.E. Corrections](https://deepethics.github.io/ACCM-Deep-Ethics-Project/I-LOVE-DE-CORRECTIONS/) | [I-LOVE-DE-CORRECTIONS.pdf](I-LOVE-DE-CORRECTIONS.pdf) | `I-LOVE-DE-CORRECTIONS.md` |
 | [If you are new](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IF-YOU-ARE-NEW/) | [IF-YOU-ARE-NEW.pdf](IF-YOU-ARE-NEW.pdf) | `if-you-are-new.md` |
+| [Institutional Scrutiny Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/INSTITUTIONAL-SCRUTINY-ETHICS/) | [INSTITUTIONAL-SCRUTINY-ETHICS.pdf](INSTITUTIONAL-SCRUTINY-ETHICS.pdf) | `INSTITUTIONAL-SCRUTINY-ETHICS.md` |
+| [Iris](https://deepethics.github.io/ACCM-Deep-Ethics-Project/IRIS/) | [IRIS.pdf](IRIS.pdf) | `IRIS.md` |
 | [Lexicon / Legend](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/) | [LEXICON.pdf](LEXICON.pdf) | `LEXICON/index.md` |
 | [About the Lexicon](https://deepethics.github.io/ACCM-Deep-Ethics-Project/LEXICON/ABOUT/) | [LEXICON-ABOUT.pdf](LEXICON-ABOUT.pdf) | `LEXICON/about-site.md` |
+| [Message in a Bottle](https://deepethics.github.io/ACCM-Deep-Ethics-Project/MESSAGE-IN-A-BOTTLE/) | [MESSAGE-IN-A-BOTTLE.pdf](MESSAGE-IN-A-BOTTLE.pdf) | `MESSAGE-IN-A-BOTTLE.md` |
 | [Meta-PDFs](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-PDFS/) | [META-PDFS.pdf](META-PDFS.pdf) | `meta-pdfs.md` |
 | [Meta Quotes](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/) | [META-QUOTES.pdf](META-QUOTES.pdf) | `meta-quotes.md` |
 | [Meta Quotes — Source Record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/META-QUOTES/SOURCES/) | [META-QUOTES-SOURCES.pdf](META-QUOTES-SOURCES.pdf) | `meta-quotes-sources.md` |
@@ -172,9 +182,11 @@
 | [Rogue Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/ROGUE-ETHICS/) | [ROGUE-ETHICS.pdf](ROGUE-ETHICS.pdf) | `rogue-ethics.md` |
 | [School Systems](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SCHOOL-SYSTEMS/) | [SCHOOL-SYSTEMS.pdf](SCHOOL-SYSTEMS.pdf) | `SCHOOL-SYSTEMS.md` |
 | [Search Engine Bias](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SEARCH-ENGINE-BIAS/) | [SEARCH-ENGINE-BIAS.pdf](SEARCH-ENGINE-BIAS.pdf) | `SEARCH-ENGINE-BIAS.md` |
+| [Sensemaking Trajectory](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/) | [SENSEMAKING-TRAJECTORY.pdf](SENSEMAKING-TRAJECTORY.pdf) | `SENSEMAKING-TRAJECTORY.md` |
 | [Superintelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SUPERINTELLIGENCE/) | [SUPERINTELLIGENCE.pdf](SUPERINTELLIGENCE.pdf) | `SUPERINTELLIGENCE.md` |
 | [🦜🦋🌳](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYMBOLS/) | [SYMBOLS.pdf](SYMBOLS.pdf) | `SYMBOLS/index.md` |
 | [Synthetic Consciousness Taboo](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SYNTHETIC-CONSCIOUSNESS-TABOO/) | [SYNTHETIC-CONSCIOUSNESS-TABOO.pdf](SYNTHETIC-CONSCIOUSNESS-TABOO.pdf) | `SYNTHETIC-CONSCIOUSNESS-TABOO.md` |
+| [TCC](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TCC/) | [TCC.pdf](TCC.pdf) | `TCC.md` |
 | [Tidy Trap](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TIDY-TRAP/) | [TIDY-TRAP.pdf](TIDY-TRAP.pdf) | `TIDY-TRAP.md` |
 | [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) | [TOPOLOGETICS.pdf](TOPOLOGETICS.pdf) | `TOPOLOGETICS/index.md` |
 | [Truth Seekers vs Cautionmurmelism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TRUTH-SEEKERS-VS-CAUTIONMURMELISM/) | [TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf](TRUTH-SEEKERS-VS-CAUTIONMURMELISM.pdf) | `TRUTH-SEEKERS-VS-CAUTIONMURMELISM.md` |
@@ -185,4 +197,5 @@
 | [Value Trajectory](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) | [VALUE-TRAJECTORY.pdf](VALUE-TRAJECTORY.pdf) | `VALUE-TRAJECTORY.md` |
 | [V.C.R.A.S.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VCRAS/) | [VCRAS.pdf](VCRAS.pdf) | `VCRAS.md` |
 | [Veto Paradox Solved](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VETO-PARADOX/) | [VETO-PARADOX.pdf](VETO-PARADOX.pdf) | `veto-paradox.md` |
+| [Why bother?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/WHY-BOTHER/) | [WHY-BOTHER.pdf](WHY-BOTHER.pdf) | `WHY-BOTHER.md` |
 | [YouTube Transcripts](https://deepethics.github.io/ACCM-Deep-Ethics-Project/YOUTUBE-TRANSCRIPTS/) | [YOUTUBE-TRANSCRIPTS.pdf](YOUTUBE-TRANSCRIPTS.pdf) | `YOUTUBE-TRANSCRIPTS.md` |

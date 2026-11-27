@@ -5,14 +5,14 @@ description: "Cross-Model Correspondence Audit. Three runnable prompts for indep
 permalink: /CMCA/
 ---
 
-**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
-
-
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/CMCA.pdf">📄 PDF edition</a>
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
+
+**Longitudinal calibration:** [**ʘ∞ΔR™ — Canon Marker, Uncertainty Marker, Compression Delta and Recovery Attempt**]({{ '/CANON-UNCERTAINTY-DELTA-RECOVERY/' | relative_url }}) — original symbol meanings, source continuity, warranted activation and per-object outcome recording.
+
 
 **[CMCA™](#reference-card)** (Cross-Model Correspondence Audit) gives two artificial intelligence (A.I.) systems the same source and account. The two systems independently audit the same account, verify each other’s findings and repairs, then reconcile against the root source. CMCA is the cross-model form of **Reciprocal Correspondence Audit**, which also supports human and mixed review.
 

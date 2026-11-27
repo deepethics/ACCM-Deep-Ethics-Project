@@ -5,6 +5,12 @@ description: Complete reading editions and downloadable text files from John Kuh
 permalink: /CORRESPONDENCE-FILES/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/CORRESPONDENCE-FILES.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Correspondence Files
 
 Read the source an article draws from. This directory brings together complete public reading editions from John Kuhles’s archive. Each entry points to the existing HTML reader and text download. Where a file contains exchanges with A.I.s, their contributions retain their own attribution.

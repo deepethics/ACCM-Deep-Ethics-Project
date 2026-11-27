@@ -6,6 +6,12 @@ permalink: /SENSEMAKING-TRAJECTORY/
 date: 2026-11-27
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/SENSEMAKING-TRAJECTORY.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Sensemaking Trajectory
 
 **From personal developmental history to <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/" target="_blank" rel="noopener">Topologetics™</a> Prompt Engineering and the constructive potential of emerging intelligence.**

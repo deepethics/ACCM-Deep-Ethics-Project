@@ -5,6 +5,12 @@ description: "The Matrix pill choice, shared evaluation premises, constructive e
 permalink: /FLAWED-RED-BLUE-TEAM-FRAMING/
 ---
 
+<!-- ACCM_FORMAT_LINKS_START -->
+<div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
+<strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/FLAWED-RED-BLUE-TEAM-FRAMING/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/FLAWED-RED-BLUE-TEAM-FRAMING.pdf">📄 PDF edition</a>
+</div>
+<!-- ACCM_FORMAT_LINKS_END -->
+
 # Flawed Red & Blue Team Framing
 
 **Who examines the premises shared by the red team and the blue team?**

@@ -6,13 +6,13 @@ permalink: /PR-PSYCHOLOGY/
 date: 2026-10-19
 ---
 
-**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#mass-psychology' | relative_url }}).
-
 <!-- ACCM_FORMAT_LINKS_START -->
 <div class="accm-source-format-links" role="navigation" aria-label="Available page formats">
 <strong>Available formats:</strong> <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/PR-PSYCHOLOGY/">🌐 Public HTML page</a><span aria-hidden="true"> · </span><a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PR-PSYCHOLOGY.pdf">📄 PDF edition</a>
 </div>
 <!-- ACCM_FORMAT_LINKS_END -->
+
+**Deeper source correspondence:** [Complete source readers and downloadable text files]({{ '/CORRESPONDENCE-FILES/#mass-psychology' | relative_url }}).
 
 <p><strong>Recovery routes:</strong> <a href="https://github.com/deepethics/ACCM-Deep-Ethics-Project/blob/main/PR-PSYCHOLOGY.md">GitHub source</a> · <a href="https://deepethics.github.io/ACCM-Deep-Ethics-Project/Deep-Ethical-PDFs/PR-PSYCHOLOGY.pdf">PDF edition</a> · <a href="{{ '/DECISION-LEDGER/' | relative_url }}#pr-psychology-living-page-2026-10-19">Decision Ledger record</a>.</p>
 
