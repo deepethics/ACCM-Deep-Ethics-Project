@@ -393,3 +393,5 @@ Places waiting for a page. Not ranked.
 
 {% include goal-page-links.md %}
 
+
+- **[Sensemaking Trajectory]({{ '/SENSEMAKING-TRAJECTORY/' | relative_url }})** — complete 27 November 2026 dialogue, recursive correction, developmental instruments, non-imposition and Topologetics™ Prompt Engineering.

@@ -309,3 +309,11 @@ Existing public text records, including complete supplied files and separately i
 ## Reusing a source
 
 Link directly to the complete reader in the new page’s source record. Use the filename or a descriptive label and identify the relevant passage when possible. Check the text before treating two uploads as copies; preserve distinct revisions separately. Generic filenames such as “Pasted text” need their collection context. An excerpt can be useful when identified as such; it does not stand in for a complete edition.
+
+### SENSEMAKING TRAJECTORY
+
+| Source | HTML | TXT |
+|---|---|---|
+| 27 November 2026 — John Kuhles and GPT 6.2 Astra A.I. | [Complete reading edition](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.html) | [Download TXT](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.txt) |
+
+[Sensemaking Trajectory concept page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/). The mother-factor attachment uploaded as (4) was compared with the existing TCC reading edition: differences concern spelling and research-statistic updates; the existing reader remains the preferred route.
