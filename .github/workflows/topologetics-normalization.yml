@@ -1,0 +1,41 @@
+name: Normalize Topologetics terminology (one-time source audit)
+on:
+  push:
+    paths:
+      - ".github/workflows/topologetics-normalization.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: topologetics-source-normalization
+  cancel-in-progress: false
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Audit tracked reading editions and source files
+        run: python .github/scripts/normalize_topologetics.py --write
+      - name: Verify protected archives remain unchanged
+        run: |
+          git diff --check
+          git status --short
+      - name: Publish the source corrections with a normal non-force push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
+          git add .github/reports/topologetics-audit-2026-11-27.json
+          if git diff --cached --quiet; then
+            echo "No source corrections to commit."
+          else
+            git commit -m "Normalize Topologetics™ across public reading editions and source files"
+            git push origin HEAD:main
+          fi
+      - name: Request deployment of the resulting main branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run jekyll-gh-pages.yml --ref main
