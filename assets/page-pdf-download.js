@@ -98,7 +98,8 @@
   "/MESSAGE-IN-A-BOTTLE/": "November 27, 2026",
   "/SENSEMAKING-TRAJECTORY/": "November 27, 2026",
   "/TCC/": "November 27, 2026",
-  "/WHY-BOTHER/": "November 27, 2026"
+  "/WHY-BOTHER/": "November 27, 2026",
+  "/HUMOR/": "November 27, 2026"
 };
 
   function buildServices(pdfFile, sourceFile, position) {
