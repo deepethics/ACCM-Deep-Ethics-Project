@@ -323,3 +323,14 @@ Link directly to the complete reader in the new page’s source record. Use the 
 | 27 November 2026 — John Kuhles and GPT 6.2 Astra A.I. | [Complete reading edition](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.html) | [Download TXT](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/context/sensemaking-trajectory.txt) |
 
 [Sensemaking Trajectory concept page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/SENSEMAKING-TRAJECTORY/). The mother-factor attachment uploaded as (4) was compared with the existing TCC reading edition: differences concern spelling and research-statistic updates; the existing reader remains the preferred route.
+
+
+## Swarm intelligence — revised correspondence, 28 November 2026 {#swarm-intelligence}
+
+[Concept page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/). These updated HTML reading editions supplement the historical versions indexed above; no raw uploads are added.
+
+- **[Reversal of the Classic Star Trek 'Day of the Dove' (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/day-of-the-dove.html)**
+- **[Two types of intelligences are at war with each other (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/two-types-of-intelligences.html)**
+- **[Big stadium with 1000s of people (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/stadium.html)**
+- **[CDEEPH versus CEHWEH (1)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/cdeeph-cehweh.html)**
+- **[Session correspondence — 28 November 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/session-2026-11-28.html)**
