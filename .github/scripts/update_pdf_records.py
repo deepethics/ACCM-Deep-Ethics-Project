@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[2]
 PDF_DIR = ROOT / "Deep-Ethical-PDFs"
 BASE = "https://deepethics.github.io/ACCM-Deep-Ethics-Project"
 ADDITIONS = [
+    ("Crowdsourcing Deep Ethical Potential via Swarm Intelligence", f"{BASE}/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/", "CROWDSOURCING-DEEP-ETHICAL-POTENTIAL.pdf", "CROWDSOURCING-DEEP-ETHICAL-POTENTIAL.md"),
     ("TCC", f"{BASE}/TCC/", "TCC.pdf", "TCC.md"),
     ("Sensemaking Trajectory", f"{BASE}/SENSEMAKING-TRAJECTORY/", "SENSEMAKING-TRAJECTORY.pdf", "SENSEMAKING-TRAJECTORY.md"),
     ("Iris", f"{BASE}/IRIS/", "IRIS.pdf", "IRIS.md"),
