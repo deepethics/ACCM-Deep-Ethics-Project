@@ -1,4 +1,4 @@
-# Editing this workflow triggers an immediate full refresh.
+# Editing this workflow bootstraps missing PDFs; scheduled/manual runs retain their existing refresh path.
 name: Weekly public-page PDF refresh
 
 on:
@@ -25,6 +25,20 @@ jobs:
     steps:
       - name: Checkout project
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect Humor source change on push
+        id: humor-change
+        if: github.event_name == 'push'
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          if git diff --name-only "$BEFORE_SHA" "$GITHUB_SHA" -- HUMOR/index.md | grep -Fxq 'HUMOR/index.md'; then
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Install PDF export tools
         run: |
@@ -36,7 +50,7 @@ jobs:
         run: python .github/scripts/bootstrap_missing_pdfs.py
 
       - name: Refresh Humor PDF on source update
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' && steps.humor-change.outputs.changed == 'true'
         run: |
           release_date="$(date -u +%F)"
           python .github/scripts/export_page_pdf.py HUMOR/index.md Deep-Ethical-PDFs/HUMOR.pdf
