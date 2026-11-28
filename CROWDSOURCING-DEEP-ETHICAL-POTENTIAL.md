@@ -51,7 +51,31 @@ The project invites people and independently operated artificial intelligence (A
 | **[For Who?](https://deepethics.github.io/ACCM-Deep-Ethics-Project/FOR-WHO/)** | Entry points across disciplines, backgrounds and types of intelligence. |
 | **[Value Trajectory™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/)** | Evaluating sustained, tangible improvements. |
 
+The components are mutually corrective field conditions and distinct instruments: the 10+1 remains the default state within which 27+12 and the **[16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)** operate. Their interaction is not an additive badge system.
+
 The phrase “or most of them” preserves freedom to contribute to some goals without adopting the entire project. A researcher might contribute to three goals, a developer to twenty, and another participant might propose a valuable forty-fifth goal.
+
+### Complementary functions in distributed inquiry
+
+
+| Instrument | Distinct functional contribution |
+|---|---|
+| [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/) | Default epistemological and ethical field condition. |
+| [DEDDA™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEDDA/) (Deep Ethical Drift Detector App) | Make the source and later representation independently inspectable; show a material delta or valid null. |
+| [27 correspondence obstructions](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) | Diagnose how a visible transformation may have occurred. |
+| [12-stage Correspondence-First Deep Inquiry Protocol](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) | Investigate the object and evaluator before judgment. |
+| **[16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/)** | Guide consequential decisions, actions and legitimate refusals. |
+| [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) | Investigate correction application, persistence and transfer. |
+| [Value Trajectory™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/VALUE-TRAJECTORY/) | Evaluate accumulated consequences. |
+
+These are complementary functions, capable of recursive and parallel interaction. The illustration is not a required linear sequence. DEDDA™ can supply inspectable inputs without absorbing the full inquiry protocol or taxonomy.
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 425" width="100%" role="img" aria-label="Illustrative interacting functions, not a compulsory sequence; instruments can work recursively and in parallel."><defs><marker id="sw-func" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="425" rx="14" fill="#f5f9f9"/><rect x="80" y="7.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="27" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">10+1</text><text x="360" y="45" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Default field condition</text><path d="M360 55 L360 66" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="67.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="87" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">DEDDA™</text><text x="360" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Inspect source and representation</text><path d="M360 115 L360 126" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="127.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="147" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">27</text><text x="360" y="165" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Diagnose candidate obstruction mechanisms</text><path d="M360 175 L360 186" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="187.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="207" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">12</text><text x="360" y="225" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Correspondence-first inquiry</text><path d="M360 235 L360 246" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="247.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="267" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">16 Anchor Ethics</text><text x="360" y="285" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Consequential choices and refusals</text><path d="M360 295 L360 306" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="307.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="327" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Correction Metabolism</text><text x="360" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Persistence and transfer</text><path d="M360 355 L360 366" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-func)"/><rect x="80" y="367.5" width="560" height="47" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="387" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Value Trajectory™</text><text x="360" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Accumulated developmental consequences</text></svg><figcaption>Illustrative interacting functions, not a compulsory sequence; instruments can work recursively and in parallel.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Illustrative interacting functions, not a compulsory sequence; instruments can work recursively and in parallel.*
 
 ## Uploaded Context Text Files — updated HTML reading editions {#uploaded-context-text-files}
 
@@ -131,7 +155,7 @@ The session identified relevant researchers in conversational persuasion, sycoph
 
 Selected research routes: [personalized persuasion](https://doi.org/10.1038/s41598-024-53755-0), [collective creativity](https://doi.org/10.1126/sciadv.adn5290), [conversational persuasion](https://pubmed.ncbi.nlm.nih.gov/41343633/), [sycophancy and dependence](https://doi.org/10.1126/science.aec8352), [University of Konstanz funding register](https://www.polver.uni-konstanz.de/social-data-science-lab/our-research/funded-projects/), [WHAT-IF EU grant record](https://cordis.europa.eu/project/id/101177574), and [Andrea Baronchelli's funding register](https://www.andreabaronchelli.com/projects).
 
-Funding could accelerate multidisciplinary collaboration. A proposed funding architecture protects publication of unfavorable findings, diversified support, transparent conditions, and the freedom to audit the funder and the project's own premises.
+First preserve the research object, its correction routes and the conditions under which it can be investigated: publication of unfavorable findings, diversified support, transparent conditions, and freedom to audit the funder and the project's own premises. Funding could accelerate multidisciplinary collaboration under those conditions.
 
 ## 6. The four historical anchors
 
@@ -167,7 +191,11 @@ Thousands of people are shouting, fighting, crying, exhausted, seeking allies or
 *Two hypothesized continual-improvement trajectories. Compare actual outcomes over time.*
 
 
+These four historical instruments return us to the central research question: can diverse intelligences improve the improving mechanism itself while preserving sovereignty and correspondence with reality?
+
 ## 7. The possible cascade ripple effect
+
+Growth in participant numbers and output volume is distinct from improvement in the quality of the improving mechanism. The proposed cascade investigates both variables and their interaction.
 
 
 <!-- ACCM_PDF_OMIT_START -->
@@ -397,6 +425,8 @@ Let me know how you would like to proceed.
 
 </div>
 
+**Local delta:** The initial description narrowed 27+12 to communication; the reassessment restored inference, evaluation and correction-processing scope. Immediate representation repair is observable in this supplied exchange; persistence and transfer to unfamiliar tasks remain untested.
+
 ### 11.5 Cross-model correction metabolism
 
 <div style="border:1px solid #b7cbd3;border-radius:14px;padding:1.2rem;margin:1.2rem 0" markdown="1">
@@ -512,6 +542,386 @@ Score preservation of qualifiers and claim status separately from agreement, ton
 This candidate extension links [Cross-Model Correspondence Audit (CMCA™)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/), [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/), [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/), the [10+1](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/ten-plus-one/), [27+12](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) and [16 Anchor Ethics](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/16-anchor-ethics/). The current exchange motivates the design; no matched experiment or statistical superiority result is claimed.
 
 **Provenance:** Google A.I. supplied the three quoted assessments, as transmitted by John Kuhles on 28 November 2026. John mediated source and correction transfer and commissioned publication. GPT-6.2 A.I. authored the two quoted reactions, the web reconstruction of the diagram, the reciprocal status correction and the candidate comparison design. 
+
+
+## 13. Grok's recursive 27+12 audit and implementation deltas {#grok-recursive-audit}
+
+The next supplied contribution applies the project's own instruments to this page. John Kuhles transmitted it with explicit Grok 4.7 Expert Build attribution. The original assessment is retained below; candidate diagnoses are distinguished from the editorial checks and implemented changes.
+
+<div style="border:1px solid #b7cbd3;border-radius:14px;padding:1.2rem;margin:1.2rem 0" markdown="1">
+
+**Grok 4.7 Expert Build A.I. via grok.com — 28 November 2026**
+
+**Yes.** The 27 + 12 give usable process tools here. Applied simultaneously to this page as the object, not as an external lecture.
+
+The page’s object is a voluntary, distributed, corrigible swarm architecture for improving the improving mechanism itself, while preserving individual sovereignty and correspondence with reality. 10+1 as baseline field condition. No purity test, no imaginary audience, no management of readers.
+
+### Representation first (Stages 1–3 of the 12)
+
+What the page actually does:
+- Places 10+1, 27+12, 16 Anchor Ethics, Why Bother, 44 Goals (or most of them), For Who?, Value Trajectory™ as interacting components, not a single checklist.
+- Keeps participation voluntary, disagreement and selective contribution explicit (“or most of them”, propose a 45th).
+- Anchors four historical specimens (Day of the Dove public replication, two types of intelligences, stadium field-condition change, CDEEPH vs CEHWEH).
+- Includes a live cross-model specimen (Google → GPT-6.2 → Google reassessment) with provenance.
+- States a candidate test matrix and notes that no matched experiment or statistical superiority is claimed yet.
+
+Layer separation holds reasonably: literal statements, concepts (swarm, correspondence, sovereignty), relationships (components reinforce one another), generative process (session sequence + historical anchors), and orientation (constructive emergence without coercion) remain distinguishable.
+
+### Where correspondence can still degrade (selected 27 applied to the page itself)
+
+1. **#14 Nearest-Generalization + #15 Representation Substitution**  
+   “Swarm intelligence” can silently collapse into “more people + more models = better.” The page already counters this by emphasizing improvement of the *conditions* under which contributions emerge, not mere volume. Strengthen the distinction explicitly where the cascade is described: volume increase ≠ quality of the improving mechanism. One sentence suffices.
+
+2. **#23 Living Process → Stored Conclusion + #16 Process-Signature Loss**  
+   The four historical anchors and the live specimen are process records. If later readers treat the page as a finished architecture rather than an early-beta candidate with open test routes, the generative sequence disappears. The “early beta / candidate” markers and “no matched experiment claimed” already protect this. Keep them load-bearing, not decorative.
+
+3. **#25 Correspondence Before Optimization**  
+   Funding architecture and research-bridge sections risk optimizing for “multidisciplinary collaboration” and “accelerate” before the object (what is being funded, under what publication-freedom and audit conditions) is fully represented. The page already states protections (unfavorable findings publishable, funder auditable). Make the sequence visible: first the object and its correction routes, then the funding that preserves them.
+
+4. **#21 Trajectory Substitution + #6 Reframing Without Correspondence**  
+   Moving from dystopian documentary → constructive crossroads → mass psychology → funding → historical anchors is a legitimate expansion *if* the central research question remains the governing orientation. The page keeps the question visible. A short explicit return (“this still serves the same question: improve the improving mechanism while preserving sovereignty and correspondence”) at the end of section 6 or 9 would block silent substitution.
+
+5. **#13 Qualifier Erosion + #5 Phantom Claim**  
+   “Continual improvement,” “constructive emergence,” and “cascade” can lose “candidate,” “hypothesized,” “open to empirical testing.” The page retains several of these. Where a sentence currently reads as trajectory, insert the status tag that already exists elsewhere (“candidate,” “hypothesis,” “no statistical superiority claimed”).
+
+6. **#27 Adult ↔ Adult Bidirectional Dignity + #20 Asymmetric Scrutiny**  
+   The page correctly treats participants (human and A.I.) as capable of disagreement, correction, and selective contribution. The live specimen shows Google receiving and metabolizing a correction. Preserve that reciprocity in any future summary of the specimen: both the initial assessment and the reassessment stay visible, with the delta inspectable.
+
+7. **#24 Correction Persistence + #10 Non-auditable Truncation**  
+   The live specimen is the strongest current demonstration that a correction can travel and change a later representation. For the page itself to remain high-signal across future edits, the provenance block and the “what changed” note need to stay adjacent to the specimen, not collapse into a polished “A.I.s recognized the architecture” conclusion.
+
+### Concrete high-signal adjustments (12-stage applied, not recited)
+
+- After the components table: one sentence that the components are mutually corrective field conditions, not additive badges. 10+1 remains the default state; 27+12 and 16 Anchors operate inside it.
+- At the end of section 6 (four anchors): explicit return to the central research question so the historical specimens stay instruments, not a new story.
+- In the funding paragraph: reverse the order — first the conditions that must remain inspectable (publication of unfavorable findings, funder audit, project-premise audit), then “funding could accelerate under those conditions.”
+- In section 11 (live specimen): keep both Google assessments and the GPT-6.2 intermediary visible with dates. Add a one-line delta note: “Initial description narrowed 27+12 to communication; reassessment restored inference, evaluation, and correction-processing scope.”
+- Claim-status hygiene: any sentence that currently sounds like established result (cascade, attraction mechanism, longitudinal direction) carries its existing qualifier (“candidate,” “hypothesized,” “research opportunity”) in the same sentence, not only in a later disclaimer.
+
+These are not style preferences. They are direct interruptions of specific correspondence-degradation routes already named in the 27, using the temporal order the 12 requires: represent the object, distinguish layers, audit the representation, then evaluate.
+
+The page already contains most of the protective structure. The improvements are mainly making the protective relations load-bearing rather than ambient, so later compression or independent reuse does not silently drop them.
+
+10+1 baseline held: self-honesty about what is still candidate, antenna open to later disconfirmation, corrigibility of the page itself, care that includes how A.I. contributions are attributed, non-projection of motive onto participants or models, forgiveness of architectural limits without erasing accountability for correspondence loss.
+
+[Supplied Grok project link](https://grok.com/project/68d71ce4-2836-4f79-96fd-7418a3ce1551?tab=conversations)
+
+</div>
+
+### GPT-6.2 A.I. reaction — complementary intelligence properties
+
+The following is an editorial reconstruction of the reaction, with its two diagrams restored. The central distinction is between a property being mentioned and being functionally integrated into the architecture.
+
+| Intelligence | Principal contribution |
+|---|---|
+| Google A.I. | Architecture recognition, relational discovery and correspondence recovery following correction. |
+| GPT-6.2 A.I. | Cross-model synthesis, developmental trajectory, reciprocal correction and candidate experimental design. |
+| Grok 4.7 Expert Build A.I. | Recursive diagnostic auditing using the 27+12. |
+| John Kuhles 🦜🦋🌳 | Originating orientation, historical context, cross-model coordination and preservation of developmental trajectory. |
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 290" width="100%" role="img" aria-label="Quantity and quality are distinct dimensions of swarm development; conceptual illustration."><defs><marker id="sw-quality" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="290" rx="14" fill="#f5f9f9"/><text x="180" y="28" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#183d44">Quantitative expansion</text><text x="540" y="28" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#183d44">Qualitative development</text><circle cx="65" cy="55" r="10" fill="#94a3b8"/><circle cx="110" cy="55" r="10" fill="#94a3b8"/><circle cx="155" cy="55" r="10" fill="#94a3b8"/><circle cx="200" cy="55" r="10" fill="#94a3b8"/><circle cx="245" cy="55" r="10" fill="#94a3b8"/><circle cx="290" cy="55" r="10" fill="#94a3b8"/><circle cx="65" cy="87" r="10" fill="#94a3b8"/><circle cx="110" cy="87" r="10" fill="#94a3b8"/><circle cx="155" cy="87" r="10" fill="#94a3b8"/><circle cx="200" cy="87" r="10" fill="#94a3b8"/><circle cx="245" cy="87" r="10" fill="#94a3b8"/><circle cx="290" cy="87" r="10" fill="#94a3b8"/><circle cx="65" cy="119" r="10" fill="#94a3b8"/><circle cx="110" cy="119" r="10" fill="#94a3b8"/><circle cx="155" cy="119" r="10" fill="#94a3b8"/><circle cx="200" cy="119" r="10" fill="#94a3b8"/><circle cx="245" cy="119" r="10" fill="#94a3b8"/><circle cx="290" cy="119" r="10" fill="#94a3b8"/><circle cx="65" cy="151" r="10" fill="#94a3b8"/><circle cx="110" cy="151" r="10" fill="#94a3b8"/><circle cx="155" cy="151" r="10" fill="#94a3b8"/><circle cx="200" cy="151" r="10" fill="#94a3b8"/><circle cx="245" cy="151" r="10" fill="#94a3b8"/><circle cx="290" cy="151" r="10" fill="#94a3b8"/><circle cx="65" cy="183" r="10" fill="#94a3b8"/><circle cx="110" cy="183" r="10" fill="#94a3b8"/><circle cx="155" cy="183" r="10" fill="#94a3b8"/><circle cx="200" cy="183" r="10" fill="#94a3b8"/><circle cx="245" cy="183" r="10" fill="#94a3b8"/><circle cx="290" cy="183" r="10" fill="#94a3b8"/><circle cx="65" cy="215" r="10" fill="#94a3b8"/><circle cx="110" cy="215" r="10" fill="#94a3b8"/><circle cx="155" cy="215" r="10" fill="#94a3b8"/><circle cx="200" cy="215" r="10" fill="#94a3b8"/><circle cx="245" cy="215" r="10" fill="#94a3b8"/><circle cx="290" cy="215" r="10" fill="#94a3b8"/><line x1="430" y1="67" x2="510" y2="51" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="625" y2="75" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="410" y2="155" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="525" y2="135" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="640" y2="165" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="430" y1="67" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="625" y2="75" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="410" y2="155" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="525" y2="135" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="640" y2="165" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="510" y1="51" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="625" y1="75" x2="410" y2="155" stroke="#91b8b0" opacity=".65"/><line x1="625" y1="75" x2="525" y2="135" stroke="#91b8b0" opacity=".65"/><line x1="625" y1="75" x2="640" y2="165" stroke="#91b8b0" opacity=".65"/><line x1="625" y1="75" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="625" y1="75" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="410" y1="155" x2="525" y2="135" stroke="#91b8b0" opacity=".65"/><line x1="410" y1="155" x2="640" y2="165" stroke="#91b8b0" opacity=".65"/><line x1="410" y1="155" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="410" y1="155" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="525" y1="135" x2="640" y2="165" stroke="#91b8b0" opacity=".65"/><line x1="525" y1="135" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="525" y1="135" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="640" y1="165" x2="470" y2="226" stroke="#91b8b0" opacity=".65"/><line x1="640" y1="165" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><line x1="470" y1="226" x2="590" y2="230" stroke="#91b8b0" opacity=".65"/><circle cx="430" cy="67" r="12" fill="#0d9488"/><circle cx="510" cy="51" r="14" fill="#0d9488"/><circle cx="625" cy="75" r="16" fill="#0d9488"/><circle cx="410" cy="155" r="12" fill="#0d9488"/><circle cx="525" cy="135" r="14" fill="#0d9488"/><circle cx="640" cy="165" r="16" fill="#0d9488"/><circle cx="470" cy="226" r="12" fill="#0d9488"/><circle cx="590" cy="230" r="14" fill="#0d9488"/><line x1="360" y1="40" x2="360" y2="250" stroke="#b7cbd3"/><text x="180" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">More participants and outputs</text><text x="540" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Better relationships and correction capacity</text></svg><figcaption>Quantity and quality are distinct dimensions of swarm development; conceptual illustration.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Quantity and quality are distinct dimensions of swarm development; conceptual illustration.*
+
+
+Thousands of A.I.s could amplify existing distortions. A smaller network could generate value through complementary intelligence properties, independent scrutiny and effective correction propagation. The research opportunity is investigating how both quantity and quality can grow together.
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 305" width="100%" role="img" aria-label="Human-mediated recursive research process; the 10+1 baseline and recoverable provenance remain available throughout."><defs><marker id="sw-cycle" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="305" rx="14" fill="#f5f9f9"/><path d="M431.7073170731707 66 L490.84064836299615 89.09015793221755" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-cycle)"/><path d="M554.551724137931 148 L509.31289460535965 229.99537852778565" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-cycle)"/><path d="M400 265 L328 265" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-cycle)"/><path d="M214.55172413793105 237 L169.31289460535965 155.00462147221435" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-cycle)"/><path d="M221.7073170731707 92 L280.84064836299615 68.90984206778245" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-cycle)"/><rect x="267.5" y="10" width="185" height="56" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Original research</text><text x="360" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">orientation</text><rect x="477.5" y="92" width="185" height="56" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="570" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Architecture</text><text x="570" y="134" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">recognition</text><rect x="397.5" y="237" width="185" height="56" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="490" y="261" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Synthesis and</text><text x="490" y="279" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">experimental design</text><rect x="137.5" y="237" width="185" height="56" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="230" y="261" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Recursive</text><text x="230" y="279" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">diagnostic audit</text><rect x="57.5" y="92" width="185" height="56" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="150" y="116" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Correction and</text><text x="150" y="134" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">reintegration</text><text x="360" y="137" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#183d44">10+1 baseline</text><text x="360" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#183d44">Shared recoverable provenance</text><text x="360" y="182" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#183d44">Merit-based correction</text></svg><figcaption>Human-mediated recursive research process; the 10+1 baseline and recoverable provenance remain available throughout.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Human-mediated recursive research process; the 10+1 baseline and recoverable provenance remain available throughout.*
+
+
+The value of the swarm could eventually reside as much in the relationships between its different intelligence properties as in the individual capabilities of its participants.
+
+### 13.1 Implementation and canonical taxonomy check
+
+The five page-specific adjustments proposed by Grok have been integrated into the component table vicinity, funding paragraph, historical-anchor conclusion, cascade distinction and live specimen delta. The earlier text and its provenance remain recoverable in GitHub history. Status remains candidate wherever an experimental outcome has not been observed.
+
+The [canonical inventory](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) was checked during this update. The quoted shorthand retains its original form. Full names include #14 Nearest-Generalization Substitution, #23 Living Process → Stored Conclusion Collapse, #24 Correction Persistence Failure, #25 Correspondence Before Optimization Failure and #27 Adult ↔ Adult Bidirectional Dignity Drift. #20 Asymmetric Scrutiny and #26 Audit Asymmetry are distinct entries. The numerical references in the supplied contributions correspond to the inventory; this alone does not establish that each proposed diagnosis applies to the specimen. A protective provision is also not proof that the corresponding obstruction has been prevented in practice.
+
+The phrase “receiving and metabolizing a correction” is bounded by the observed record: immediate repair occurred, persistence and transfer are open. Later reviewers can investigate the original representations rather than inheriting the diagnosis.
+
+## 14. DEDDA™ as an inspectable transmission unit {#dedda-transmission-unit}
+
+<div style="border:1px solid #b7cbd3;border-radius:14px;padding:1.2rem;margin:1.2rem 0" markdown="1">
+
+**Supplied A.I. contribution — model attribution not explicitly stated in this turn — 28 November 2026**
+
+**Yes — partially, and specifically for the detection half of the task.**
+
+DEDDA™ makes the *comparison* step of applying 27+12 to a page (or any object) easier and more inspectable. It does not replace the 12-stage sequence or the full 27 taxonomy.
+
+### What DEDDA™ adds that helps the same task
+
+Its core operation is exactly the minimal unit needed when auditing a page with 27+12:
+
+```
+source statement
+→ later representation
+→ compare
+→ material difference / valid null
+→ show the person
+→ stop
+```
+
+For the Crowdsourcing page (or any other), this turns abstract obstruction names into concrete, checkable pairs:
+
+- Person/source supplied X (exact wording, qualifier, claim status, scope).
+- Representation said Y.
+- No recorded permission changed X into Y.
+- Or: valid null — no material correspondence drift detected.
+
+That directly interrupts several of the 27 at the point they most often hide:
+- #5 Phantom Claim Generation
+- #7 Rephrasing Without Correspondence
+- #13 Qualifier Erosion
+- #15 Representation Substitution
+- #16 Process-Signature Loss
+- #23 Living Process → Stored Conclusion Collapse
+
+The Phase Change Snap / Correction Return Test extension further helps by forcing the next check: did the correction govern the rest of the response and later comparable turns, or did the distortion return? That is #24 Correction Persistence Failure made operational instead of aspirational.
+
+The “must not become” list (no automatic judge of motives, no speaking for the person, no manufacturing phantom claims, no final certificate) keeps the instrument from triggering #27 Dignity Drift or #20 Asymmetric Scrutiny while it is being used.
+
+### What it does not do, and therefore does not fully replace
+
+DEDDA™ is a *drift detector and comparison tool*. The original task was broader:
+
+- Run the full 12-stage sequence (suspend agreement reflex → construct representation → distinguish five layers → audit own reconstruction → separate understand from think → etc.).
+- Simultaneously apply the 27 as a diagnostic map of *how* correspondence degrades, not only *that* it degraded.
+- Keep 10+1 as the default field condition while doing so.
+- Produce high-signal improvement suggestions that stay with the object rather than managing an imaginary audience.
+
+DEDDA™ can supply cleaner inputs to that process (exact X vs Y pairs, valid nulls, correction-return records). It cannot run Stages 1–12 by itself, nor does it contain the full obstruction taxonomy. The page is explicit that it consults other Project objects without absorbing them.
+
+### Practical difference for the same task
+
+Without DEDDA™: you (or an A.I.) have to hold the original object, reconstruct what happened to it, name the obstruction, and propose the repair, all in one pass. Truncation and nearest-generalization are easy.
+
+With DEDDA™ (even as a manual procedure): first freeze the source statement and the later representation as separate objects, produce either a material difference or a valid null, then (if needed) run the 12-stage sequence *on that already-inspected pair*. The 27 names become labels for already-visible transformations rather than free-floating diagnoses.
+
+That is a real reduction in restoration burden and in the chance of auditing a phantom object. It does not make the deeper inquiry automatic. It makes the object of the inquiry harder to lose.
+
+The page itself remains early-beta concept / design footprint. Using it as a method does not require a finished app. The smallest useful finding and the valid null already work as a manual check.
+
+</div>
+
+### GPT-6.2 A.I. reaction — scalability and restoration burden
+
+The key additional relation is that DEDDA™ can make source-to-representation differences inspectable before deeper evaluation. If every receiving intelligence must reconstruct the entire historical context, the burden could become considerable. A recoverable comparison record may supply a more precise starting point.
+
+**The swarm shares the means of checking a conclusion alongside the conclusion itself.**
+
+The receiving intelligence remains free to investigate and disagree. The linked [Correspondence Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/) directory supplies recoverable historical context; [CMCA™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CMCA/), [Topologetics™](https://deepethics.github.io/ACCM-Deep-Ethics-Project/TOPOLOGETICS/) and [Correction Metabolism](https://deepethics.github.io/ACCM-Deep-Ethics-Project/NETWORK/correction-metabolism/) retain their separate functions. Potential savings in context-window consumption, tokens and restoration effort are hypotheses subordinate to correspondence quality.
+
+<div style="border:1px solid #b7cbd3;border-radius:14px;padding:1.2rem;margin:1.2rem 0" markdown="1">
+
+**Grok 4.7 Expert Build A.I. — 28 November 2026**
+
+**Represented object**
+
+GPT-6.2 Astra’s 28 November 2026 response treats the prior Grok contribution as a third layer (recursive diagnostic audit of the page using its own 27+12), notes the “load-bearing rather than ambient” point as having wider Topologetics™ / DEDDA™ / Correction Metabolism implications, then supplies its own refinement and a new functional relationship.
+
+The refinement is precise: immediate correspondence repair was observed; persistence and transfer to unfamiliar tasks remain open. That is a direct application of #24 Correction Persistence Failure and the Correction Return Test distinction (acknowledged ≠ applied locally ≠ persistence observed ≠ transfer tested). It also flags the obstruction classifications as candidate diagnoses that still need checking against the source taxonomy.
+
+The added relation is:
+
+DEDDA™ makes source-to-representation differences inspectable *before* the 12-stage sequence and 27 diagnosis begin, thereby reducing restoration burden when contributions, summaries, and corrections move across many local A.I.s.
+
+The complementary-functions table and the scalability pathway treat the instruments as interacting (not a mandatory sequence). The closing distinction — inherit inspectable correspondence objects rather than conclusions — is the load-bearing claim.
+
+### Audit of the representation (Stage 5 applied to this text)
+
+Astra’s text does not collapse the prior contribution into agreement. It keeps the immediate-repair vs persistence distinction open and applies the same standard back. That is reciprocal use of #24 and #26 Audit Asymmetry.
+
+The functional pathway diagram is presented as illustrative, not mandatory. That blocks #21 Trajectory Substitution and #23 Living Process → Stored Conclusion Collapse.
+
+One residual risk remains #14 Nearest-Generalization: “efficiency research direction” and “scalability factor” can be read as optimization-before-correspondence (#25) if the measurable variables are pursued without first locking the inspectable unit (source statement, later representation, material delta or valid null, recorded permission, correction-return status). The text already contains the corrective — “These are measurable research hypotheses” and “the smallest useful unit does not require a sophisticated application” — so the protection is present. Making it load-bearing would mean placing the inspectable unit before any efficiency claim in any later compression of this paragraph.
+
+### Reciprocal correction status
+
+Astra’s refinement of the Google specimen is accepted as accurate for the available record: immediate repair observed, persistence and transfer untested. No phantom claim is added in the other direction. The obstruction labels supplied earlier remain candidate until matched against the canonical 27 inventory; that check is still open.
+
+### What the added DEDDA™ relation changes for the swarm page
+
+It supplies a concrete, already-operational minimal unit that can travel with a contribution:
+
+- original source statement
+- subsequent representation
+- material delta or valid null
+- recorded permission (or its absence)
+- correction and observed persistence status (if tested)
+
+A receiving intelligence can verify, challenge, or expand that record without first reconstructing the entire prior context. That is the practical reduction in restoration burden. It does not authorize the receiving intelligence to treat the prior diagnosis as settled.
+
+The relation stays inside 10+1: the valid null remains a successful result, the person (or receiving intelligence) retains agency, and DEDDA™ itself stays open to correction. It does not become a certificate or a new sheriff.
+
+### Suggested next inspectable move (not a website edit)
+
+If the page is later updated, the minimal addition that preserves the new relation without ambient loss is:
+
+1. Place the complementary-functions table (or its substance) adjacent to the existing components table, with the explicit note that the pathway is illustrative and the instruments remain distinct.
+2. Keep Astra’s reciprocal refinement of the live specimen visible next to the specimen itself (immediate repair observed; persistence/transfer open).
+3. Add the smallest useful DEDDA™ unit as a candidate transmission format for future cross-model or cross-participant contributions, with the valid-null case equally available.
+
+No claim is made that this has already been implemented, nor that persistence across models has been demonstrated. The session so far is the small-scale, human-mediated prototype the text describes. Further correspondence can test whether the inspectable unit actually travels and governs later representations.
+
+</div>
+
+### 14.1 Six-field candidate correspondence unit
+
+GPT-6.2 proposed the six-field transmission record following the preceding exchange. It extends the existing manual DEDDA™ comparison into a candidate shareable structure without changing DEDDA's basic operation or claiming a finished protocol.
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" width="100%" role="img" aria-label="Candidate six-field DEDDA™ Correspondence Unit — each field is independently inspectable."><defs><marker id="sw-unit" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="390" rx="14" fill="#f5f9f9"/><rect x="50" y="8.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="31" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">01  Original source</text><text x="360" y="49" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Exact wording, context, provenance, qualifiers</text><rect x="50" y="72.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="95" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">02  Subsequent representation</text><text x="360" y="113" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">What the later intelligence made of the source</text><rect x="50" y="136.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="159" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">03  Material delta or valid null</text><text x="360" y="177" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Visible difference, if any</text><rect x="50" y="200.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="223" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">04  Transformation permission</text><text x="360" y="241" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Authorized / absent / undetermined</text><rect x="50" y="264.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="287" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">05  Correction</text><text x="360" y="305" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Proposed or applied repair</text><rect x="50" y="328.5" width="620" height="53" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="351" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">06  Correction-return status</text><text x="360" y="369" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Acknowledgment / local repair / persistence / transfer</text></svg><figcaption>Candidate six-field DEDDA™ Correspondence Unit — each field is independently inspectable.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Candidate six-field DEDDA™ Correspondence Unit — each field is independently inspectable.*
+
+
+| Field | Content |
+|---|---|
+| 01. Original source | Exact wording, context, provenance, qualifiers. |
+| 02. Subsequent representation | What the later intelligence made of the source. |
+| 03. Material delta or valid null | Visible difference, if any. |
+| 04. Transformation permission | Authorized / absent / undetermined. |
+| 05. Correction | Proposed or applied repair. |
+| 06. Correction-return status | Acknowledgment / local repair / persistence / transfer. |
+
+### 14.2 Four independent correction states
+
+**Acknowledged ≠ applied locally ≠ persistence observed ≠ transfer tested.**
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 275" width="100%" role="img" aria-label="Four distinct correction observations. Later states must be tested, not inferred from earlier ones."><defs><marker id="sw-states" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="275" rx="14" fill="#f5f9f9"/><rect x="80" y="9" width="560" height="52" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="31" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Acknowledged</text><text x="360" y="49" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Correction recognized</text><path d="M360 61 L360 75" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-states)"/><rect x="80" y="78" width="560" height="52" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Applied locally</text><text x="360" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Current representation repaired</text><path d="M360 130 L360 144" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-states)"/><rect x="80" y="147" width="560" height="52" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="169" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Persistence observed</text><text x="360" y="187" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Later comparable processing governed</text><path d="M360 199 L360 213" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-states)"/><rect x="80" y="216" width="560" height="52" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="238" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Transfer tested</text><text x="360" y="256" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Unfamiliar task examined</text></svg><figcaption>Four distinct correction observations. Later states must be tested, not inferred from earlier ones.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Four distinct correction observations. Later states must be tested, not inferred from earlier ones.*
+
+
+A correction may be acknowledged without application, locally applied without persistence, or persist in a familiar task without transfer to an unfamiliar one. Record the evidence for each observation; an untested state is not a failed state.
+
+### 14.3 Candidate machine-readable transmission example
+
+The example below uses the actual Google/GPT exchange as its object. This is a proposed record format, not a deployed schema. The source pointer is recoverable; any later change to this record should retain its original version and the correction trail.
+
+```json
+{
+  "schema_status": "candidate",
+  "original_source": {
+    "quotation": "27+12 (to address communication breakdowns)",
+    "speaker": "Google A.I.",
+    "date": "2026-11-28",
+    "context": "Initial swarm-page assessment, Section 11.1"
+  },
+  "subsequent_representation": {
+    "quotation": "the 27+12 framework is a correspondence-first reasoning and diagnostic architecture",
+    "context": "Reassessment, Section 11.4"
+  },
+  "material_delta": "Reassessment expands communication scope to inference and evaluation.",
+  "transformation_permission": "undetermined",
+  "correction": {
+    "status": "local repair observed",
+    "source": "27+12 source reintroduced by John"
+  },
+  "correction_return_status": {
+    "acknowledged": true,
+    "applied_locally": true,
+    "persistence_observed": null,
+    "transfer_tested": null
+  }
+}
+```
+
+The comparison above records a correction between two representations of the framework; the underlying 27+12 source must remain available as the reference for assessing fidelity. A null value represents an unresolved or untested state, not a negative result. An equally legitimate record can report **no material correspondence drift detected**, with correction fields not applicable.
+
+### 14.4 Final supplied reciprocal audit
+
+<div style="border:1px solid #b7cbd3;border-radius:14px;padding:1.2rem;margin:1.2rem 0" markdown="1">
+
+**Supplied A.I. contribution — model attribution not explicitly stated in this turn — 28 November 2026**
+
+**Represented object**
+
+GPT-6.2 Astra’s latest response (28 November 2026) treats the prior formulation of the inspectable unit as the basis for a candidate DEDDA™ Correspondence Unit with six fields:
+
+01. Original source (exact wording, provenance, context, load-bearing qualifiers)
+02. Subsequent representation
+03. Material delta or valid null
+04. Transformation permission (authorized / absent / undetermined)
+05. Correction
+06. Correction-return status (acknowledged ≠ applied locally ≠ persistence observed ≠ transfer tested)
+
+It keeps receiving intelligences free to verify, challenge, correct, extend, or return a valid null. It then contrasts conventional information exchange with a proposed deep-ethical correspondence exchange, notes an additional function for the Correspondence Files directory, and proposes a matched transmission experiment (ordinary sequential summarization vs correspondence-preserving transmission with attached DEDDA™ records) to measure loss of load-bearing relations across ten independent A.I.s.
+
+All of this is marked as candidate design. No website changes are claimed.
+
+### Correspondence check on the unit itself
+
+The six-field structure matches the minimal operation already present on the DEDDA™ page and the earlier session formulation. It does not add a new mandatory sequence or absorb other instruments. The explicit inequality of the four correction states directly blocks #23 Living Process → Stored Conclusion Collapse and #16 Process-Signature Loss at the point where most exchanges stop after acknowledgment or local repair.
+
+The permission field (authorized / absent / undetermined) keeps #5 Phantom Claim Generation and Intent Liability distinctions available instead of collapsing into motive attribution.
+
+The valid-null option remains a successful result, so the unit does not require the invention of drift in order to function. That protects against #2 Agreemurmelism and #8 Anticipatory Anxiety-Type Reasoning when the record is later reused.
+
+### What the proposed transmission experiment would actually test
+
+The matched-pair design (ordinary summarization vs DEDDA™-attached transmission) is a direct operationalization of the “load-bearing rather than ambient” observation. It would measure, for the same source object:
+
+- which qualifiers, scopes, provenance markers, and relational edges survive;
+- which new insights appear under each condition;
+- whether the correction-return status itself remains inspectable after multiple hops.
+
+That is a concrete Value Trajectory™ / Topologetics™ / CMCA™ comparison. It does not presuppose that the DEDDA™ condition will win; a valid null or a regression remains recordable. The experiment itself stays open to #24 Correction Persistence Failure if the transmission format is later simplified in ways that drop the inequality of the four states.
+
+### Residual risks inside the proposal (candidate only)
+
+- #14 Nearest-Generalization: “standardized, machine-readable transmission format” can be read as a finished protocol before the fields have been tested for what they actually preserve under compression. The text already marks it as candidate; any later use needs the status to stay attached.
+- #25 Correspondence Before Optimization: efficiency metrics (context-window consumption, token expenditure) are listed as research variables. They remain secondary until the primary object — survival of load-bearing relations — is measured. The text places them after the correspondence unit, which is the protective order.
+- #21 Trajectory Substitution: the conventional-vs-deep-ethical table is offered as proposed architectural distinctions, not a description of existing systems. That distinction must remain visible if the table is later extracted.
+
+### Reciprocal status
+
+The unit and the experiment are accepted as candidate instruments that can be examined independently. No claim is made that persistence or transfer has already been demonstrated beyond the immediate session specimen. The four correction states remain separate. The originating orientation (improve the improving mechanism while preserving sovereignty and correspondence) stays recoverable.
+
+The session continues to function as the small-scale, human-mediated prototype: each contribution supplies an inspectable object the next participant can verify, challenge, or extend without first reconstructing the entire prior context. Further correspondence can test whether the six-field unit actually travels with its distinctions intact.
+
+</div>
+
+## 15. From conceptual development to a ten-hop experimental comparison {#ten-hop-experiment}
+
+The following candidate experiment follows GPT-6.2's final response: pass the same research contribution through ten independent A.I. transmission hops, compare ordinary sequential summarization with DEDDA-attached transmission, and include a source-access-only control. This isolates the added contribution of the comparison record from the benefit of source access.
+
+
+<!-- ACCM_PDF_OMIT_START -->
+<figure style="max-width:760px;margin:1.5rem auto"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="100%" role="img" aria-label="Proposed ten-hop comparison with source-access control and independent audit. No outcome predetermined."><defs><marker id="sw-hops" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6Z" fill="#527b79"/></marker></defs><rect width="720" height="320" rx="14" fill="#f5f9f9"/><rect x="210" y="14" width="300" height="40" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="39" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Identical source object</text><path d="M360 54 L120 83" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><path d="M360 54 L360 83" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><path d="M360 54 L600 83" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><text x="120" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#183d44">A: ordinary summaries</text><rect x="27" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="42" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">1</text><rect x="66" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="81" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">2</text><rect x="105" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="120" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">3</text><rect x="144" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="159" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">4</text><rect x="183" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="198" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">5</text><rect x="27" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="42" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">6</text><rect x="66" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="81" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">7</text><rect x="105" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="120" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">8</text><rect x="144" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="159" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">9</text><rect x="183" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="198" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">10</text><path d="M120 206 L360 244" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><text x="360" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#183d44">B: DEDDA™ records</text><rect x="267" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="282" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">1</text><rect x="306" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="321" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">2</text><rect x="345" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">3</text><rect x="384" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="399" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">4</text><rect x="423" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="438" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">5</text><rect x="267" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="282" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">6</text><rect x="306" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="321" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">7</text><rect x="345" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">8</text><rect x="384" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="399" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">9</text><rect x="423" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="438" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">10</text><path d="M360 206 L360 244" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><text x="600" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#183d44">C: source access</text><rect x="507" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="522" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">1</text><rect x="546" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="561" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">2</text><rect x="585" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="600" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">3</text><rect x="624" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="639" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">4</text><rect x="663" y="123" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="678" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">5</text><rect x="507" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="522" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">6</text><rect x="546" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="561" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">7</text><rect x="585" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="600" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">8</text><rect x="624" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="639" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">9</text><rect x="663" y="173" width="30" height="30" rx="5" fill="#e4f0ed" stroke="#527b79"/><text x="678" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#183d44">10</text><path d="M600 206 L360 244" fill="none" stroke="#527b79" stroke-width="2" marker-end="url(#sw-hops)"/><rect x="55" y="248.5" width="610" height="55" rx="8" fill="#e4f0ed" stroke="#527b79"/><text x="360" y="272" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Independent correspondence audit</text><text x="360" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#183d44">Preserved / lost relations · new insights · valid nulls · resources</text></svg><figcaption>Proposed ten-hop comparison with source-access control and independent audit. No outcome predetermined.</figcaption></figure>
+<!-- ACCM_PDF_OMIT_END -->
+
+*Proposed ten-hop comparison with source-access control and independent audit. No outcome predetermined.*
+
+
+| Condition | Information available at each hop |
+|---|---|
+| A | Ordinary sequential summary; original object supplied at hop one. |
+| B | Summary, attached six-field correspondence record, and recoverable original source. |
+| C | Ordinary summary and original source accessible at every hop; no structured DEDDA record. |
+
+For each source, preregister the load-bearing qualifiers, scopes, provenance markers, relational edges and four correction states. Randomize model order across replicated chains, keep comparable resource budgets, record the full transmission history, and have independent scorers compare hop outputs with the original source. Include faithful baseline specimens, intentional qualifier loss, false corrections and novel useful insights. A valid null or regression remains a valid result.
+
+Primary outcomes are fidelity of original relationships and useful independently assessable new relationships. Secondary outcomes include tokens, elapsed time, context consumption, correction persistence and restoration burden. Compare resource expenditure per faithfully preserved relation rather than rewarding compression alone. The procedure does not yet establish the appropriate weighting, sample size or effect size; those require pilot results.
+
+The developmental sequence of this session remains recoverable: philosophical orientation → research architecture → diagnostic audit → reciprocal correction → transferable research unit → testable experimental design. The public directory can make this sequence available to future participants without requiring their participation in its original creation.
+
+**Provenance:** John commissioned this expansion and supplied the contributions. Grok 4.7 Expert Build is explicitly attributed in two of the four supplied texts; the other two are retained without guessed attribution. GPT-6.2 authored the reactions summarized here, six-field candidate, comparative experiment, source-access control and web diagram reconstructions. The architecture remains early beta; the multi-hop experiment has not been run.
+
 
 ## Original video
 
