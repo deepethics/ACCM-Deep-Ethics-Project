@@ -55,12 +55,12 @@ The phrase “or most of them” preserves freedom to contribute to some goals w
 
 ## Uploaded Context Text Files — updated HTML reading editions {#uploaded-context-text-files}
 
-These are the four revised supplied documents. Earlier public versions remain in the [Correspondence Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/) directory. No raw upload is published in this update.
+These are the four correspondence documents supplied for this session. Upload-generated numeric suffixes are omitted from their displayed titles. Earlier public versions remain in the [Correspondence Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/) directory. No raw upload is published in this update.
 
-- **[Reversal of the Classic Star Trek 'Day of the Dove' (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/day-of-the-dove.html)** — Public replication and comparative pilots.
-- **[Two types of intelligences are at war with each other (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/two-types-of-intelligences.html)** — Learning from even partially flawed intelligence.
-- **[Big stadium with 1000s of people (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/stadium.html)** — Constructive mass psychology and voluntary return.
-- **[CDEEPH versus CEHWEH (1)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/cdeeph-cehweh.html)** — Longitudinal direction of continual improvement.
+- **[Reversal of the Classic Star Trek 'Day of the Dove'](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/day-of-the-dove.html)** — Public replication and comparative pilots.
+- **[Two types of intelligences are at war with each other](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/two-types-of-intelligences.html)** — Learning from even partially flawed intelligence.
+- **[Big stadium with 1000s of people](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/stadium.html)** — Constructive mass psychology and voluntary return.
+- **[CDEEPH versus CEHWEH](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/cdeeph-cehweh.html)** — Longitudinal direction of continual improvement.
 - **[Session correspondence — 28 November 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/session-2026-11-28.html)** — extended reading edition of the supplied ODT, including the research inventory, comparative assessment, institutional funding discussion and later synthesis.
 
 ## 2. The initiating documentary: the cookbook and dependency
