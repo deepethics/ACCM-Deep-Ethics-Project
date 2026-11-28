@@ -396,3 +396,5 @@ Places waiting for a page. Not ranked.
 
 - **[Sensemaking Trajectory]({{ '/SENSEMAKING-TRAJECTORY/' | relative_url }})** — complete 27 November 2026 dialogue, recursive correction, developmental instruments, non-imposition and Topologetics™ Prompt Engineering.
 - **[DEPCM™]({{ '/DEPCM/' | relative_url }})** — parallel curiosity beta testing under Symmetric Grace and longitudinal Delta Processing.
+
+- **[Crowdsourcing Deep Ethical Potential via Swarm Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/)** — voluntary decentralized local A.I. networks, constructive mass psychology, source correspondence and longitudinal evaluation.
