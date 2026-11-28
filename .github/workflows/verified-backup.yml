@@ -1,0 +1,76 @@
+name: Verified public project backup
+on:
+  push:
+    branches: ['backup/2026-11-28']
+    paths: ['.github/workflows/verified-backup.yml']
+permissions:
+  contents: read
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror, verify and package pinned public source and Wiki
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --mirror https://github.com/deepethics/ACCM-Deep-Ethics-Project.git main.git
+          git clone --mirror https://github.com/deepethics/ACCM-Deep-Ethics-Project.wiki.git wiki.git
+          git -C main.git fsck --full
+          git -C wiki.git fsck --full
+          git -C main.git cat-file -e 2a4c505462a82131c26e36f3d89a52d6b1c0c82f^{commit}
+          mkdir -p payload
+          git -C main.git bundle create "$PWD/payload/main.bundle" --all
+          git -C wiki.git bundle create "$PWD/payload/wiki.bundle" --all
+          git -C main.git bundle verify "$PWD/payload/main.bundle"
+          git -C wiki.git bundle verify "$PWD/payload/wiki.bundle"
+          git clone --mirror payload/main.bundle restore-main.git
+          git clone --mirror payload/wiki.bundle restore-wiki.git
+          git -C restore-main.git fsck --full
+          git -C restore-wiki.git fsck --full
+          python - <<'PY'
+          import subprocess as s, pathlib as P, hashlib as H, json, zipfile as Z, stat
+          root=P.Path("payload")
+          def git(repo,*args): return s.check_output(["git","-C",repo,*args])
+          def snap(repo,commit,folder):
+              records=[]
+              for item in git(repo,"ls-tree","-rz",commit).split(b"\0"):
+                  if not item: continue
+                  meta,name=item.split(b"\t",1)
+                  mode,kind,oid=meta.decode().split()
+                  path=name.decode()
+                  if kind!="blob":
+                      records.append(dict(path=path,mode=mode,object=oid,kind=kind,included=False))
+                      continue
+                  data=git(repo,"cat-file","blob",oid)
+                  assert H.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()==oid
+                  dest=root/folder/path
+                  dest.parent.mkdir(parents=True,exist_ok=True)
+                  dest.write_bytes(data)
+                  records.append(dict(path=path,mode=mode,object=oid,bytes=len(data),sha256=H.sha256(data).hexdigest(),lfs_pointer=data.startswith(b"version https://git-lfs.github.com/spec/v1\n"),included=True))
+              return records
+          main="2a4c505462a82131c26e36f3d89a52d6b1c0c82f"
+          wiki=git("wiki.git","rev-parse","HEAD").decode().strip()
+          m=snap("main.git",main,"main")
+          w=snap("wiki.git",wiki,"wiki")
+          manifest=dict(main_commit=main,wiki_commit=wiki,main_files=m,wiki_files=w,scope="Tracked blobs and reachable history; private Admin, sibling repositories, GitHub-only metadata, external media, LFS payloads and submodule contents excluded. Git modes in manifest.")
+          (root/"MANIFEST.json").write_text(json.dumps(manifest,indent=2))
+          (root/"RESTORE.md").write_text("Extract ZIP. Read MANIFEST.json for pinned commits and modes. Restore history using git clone main.bundle or git clone wiki.bundle; check out the recorded commit. Readable snapshots are in main/ and wiki/. Git bundle verification and fresh mirror restoration were performed. Private Admin excluded.\n")
+          paths=sorted(p for p in root.rglob("*") if p.is_file())
+          (root/"SHA256SUMS.txt").write_text("".join(H.sha256(p.read_bytes()).hexdigest()+"  "+p.relative_to(root).as_posix()+"\n" for p in paths))
+          paths=sorted(p for p in root.rglob("*") if p.is_file())
+          out=P.Path("ACCM-Deep-Ethics-Project-Backup-2026-11-28-2a4c505.zip")
+          with Z.ZipFile(out,"w",Z.ZIP_DEFLATED) as z:
+              for p in paths: z.write(p,p.relative_to(root).as_posix())
+          with Z.ZipFile(out) as z:
+              assert z.testzip() is None
+              assert set(z.namelist())=={p.relative_to(root).as_posix() for p in paths}
+              for p in paths: assert H.sha256(z.read(p.relative_to(root).as_posix())).digest()==H.sha256(p.read_bytes()).digest()
+          print("main",main,"files",len(m),"wiki",wiki,"files",len(w),"ZIP bytes",out.stat().st_size,"SHA256",H.sha256(out.read_bytes()).hexdigest())
+          PY
+      - name: Upload verified archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: ACCM-Deep-Ethics-Project-Backup-2026-11-28-2a4c505
+          path: ACCM-Deep-Ethics-Project-Backup-2026-11-28-2a4c505.zip
+          compression-level: 0
+          retention-days: 30
