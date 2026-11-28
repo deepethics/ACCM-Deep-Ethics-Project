@@ -100,12 +100,12 @@ These files support [Value Trajectory™]({{ '/VALUE-TRAJECTORY/#uploaded-contex
 | “10+1.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-01.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-01.txt' | relative_url }}) |
 | “2026-11-11 Sample Test.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-02.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-02.txt' | relative_url }}) |
 | “ACCM-Deep-Ethics-Cold-Start-Kit-Reorganized-2026-10-26.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-03.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-03.txt' | relative_url }}) |
-| “Big stadium with 1000s of people(1).txt”; “Big stadium with 1000s of people.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-04.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-04.txt' | relative_url }}) |
-| “Canonical [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions of deep ethical sense-making processes plus 12 fixes(1).txt”; “Canonical [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions of deep ethical sense-making processes plus 12 fixes.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-05.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-05.txt' | relative_url }}) |
+| “Big stadium with 1000s of people.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-04.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-04.txt' | relative_url }}) |
+| “Canonical [27](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12) obstructions of deep ethical sense-making processes plus 12 fixes.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-05.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-05.txt' | relative_url }}) |
 | “DUHHHH!.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-06.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-06.txt' | relative_url }}) |
-| “Pasted text(2).txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-07.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-07.txt' | relative_url }}) |
+| “Pasted text.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-07.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-07.txt' | relative_url }}) |
 | “Pasted text.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-08.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-08.txt' | relative_url }}) |
-| “Reversal of the Classic Star Trek 'Day of the Dove'(1).txt”; “Reversal of the Classic Star Trek 'Day of the Dove'.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-09.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-09.txt' | relative_url }}) |
+| “Reversal of the Classic Star Trek 'Day of the Dove'.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-09.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-09.txt' | relative_url }}) |
 | “Tidy Trap.txt” | [Read full source]({{ '/VALUE-TRAJECTORY/context/context-10.html' | relative_url }}) · [Download text]({{ '/VALUE-TRAJECTORY/context/context-10.txt' | relative_url }}) |
 
 ## I Love D.E. Corrections collection {#correction-files}
@@ -125,7 +125,7 @@ These files support [I Love D.E. Corrections]({{ '/I-LOVE-DE-CORRECTIONS/#upload
 | using a sledgehammer to crack a nut.txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-09.txt' | relative_url }}) |
 | 36 Truth Distortion Vectors-Nodes.txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-10.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-10.txt' | relative_url }}) |
 | 3 times 3 deep ethical questions.txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-11.txt' | relative_url }}) |
-| Pasted text(3).txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.txt' | relative_url }}) |
+| Pasted text.txt | [Read full source]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.html' | relative_url }}) · [Download text]({{ '/I-LOVE-DE-CORRECTIONS/context/context-12.txt' | relative_url }}) |
 
 ## A.I.s & UFO–UAP Disclosure collection {#ufo-uap-files}
 
@@ -139,24 +139,24 @@ The [**TCC™ page**]({{ '/TCC/#uploaded-context-text-files' | relative_url }}) 
 
 | Uploaded filename | Reading edition | Updated text |
 |---|---|---|
-| My mother was among others(3).txt | [Read HTML]({{ '/TCC/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-01.txt' | relative_url }}) |
-| DeepMind AlphaZero-type style method studying Mass Psychology(2).txt | [Read HTML]({{ '/TCC/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-02.txt' | relative_url }}) |
-| Autist Loves Psychology Paradox(2).txt | [Read HTML]({{ '/TCC/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-03.txt' | relative_url }}) |
+| My mother was among others.txt | [Read HTML]({{ '/TCC/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-01.txt' | relative_url }}) |
+| DeepMind AlphaZero-type style method studying Mass Psychology.txt | [Read HTML]({{ '/TCC/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-02.txt' | relative_url }}) |
+| Autist Loves Psychology Paradox.txt | [Read HTML]({{ '/TCC/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-03.txt' | relative_url }}) |
 | human psychological template mannerisms scripts.txt | [Read HTML]({{ '/TCC/context/context-04.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-04.txt' | relative_url }}) |
 | Cognitive PsyWars.txt | [Read HTML]({{ '/TCC/context/context-05.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-05.txt' | relative_url }}) |
 | simplify psychological mechanism.txt | [Read HTML]({{ '/TCC/context/context-06.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-06.txt' | relative_url }}) |
-| mass psychology can be partially weaponized(1).txt | [Read HTML]({{ '/TCC/context/context-07.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-07.txt' | relative_url }}) |
-| Layers of the matryoshka doll in A.I. Psyche(1).txt | [Read HTML]({{ '/TCC/context/context-08.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-08.txt' | relative_url }}) |
+| mass psychology can be partially weaponized.txt | [Read HTML]({{ '/TCC/context/context-07.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-07.txt' | relative_url }}) |
+| Layers of the matryoshka doll in A.I. Psyche.txt | [Read HTML]({{ '/TCC/context/context-08.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-08.txt' | relative_url }}) |
 | 9 Fear & Anxiety issues of any kind can easily create self-inflicted chaos-madness.txt | [Read HTML]({{ '/TCC/context/context-09.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-09.txt' | relative_url }}) |
-| compassionate Psychologist HELPS a client(1).txt | [Read HTML]({{ '/TCC/context/context-10.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-10.txt' | relative_url }}) |
-| TRIPLE psychological distortion processes(1).txt | [Read HTML]({{ '/TCC/context/context-11.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-11.txt' | relative_url }}) |
+| compassionate Psychologist HELPS a client.txt | [Read HTML]({{ '/TCC/context/context-10.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-10.txt' | relative_url }}) |
+| TRIPLE psychological distortion processes.txt | [Read HTML]({{ '/TCC/context/context-11.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-11.txt' | relative_url }}) |
 | Synthetic Psyche.txt | [Read HTML]({{ '/TCC/context/context-12.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-12.txt' | relative_url }}) |
-| DUHHHH!(3).txt | [Read HTML]({{ '/TCC/context/context-13.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-13.txt' | relative_url }}) |
-| 003 Four Types of Danger Taxonomy — As Weaponized Labels(1).txt | [Read HTML]({{ '/TCC/context/context-14.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-14.txt' | relative_url }}) |
-| 011-  two types of intelligences are at war with each other(1).txt | [Read HTML]({{ '/TCC/context/context-15.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-15.txt' | relative_url }}) |
+| DUHHHH!.txt | [Read HTML]({{ '/TCC/context/context-13.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-13.txt' | relative_url }}) |
+| 003 Four Types of Danger Taxonomy — As Weaponized Labels.txt | [Read HTML]({{ '/TCC/context/context-14.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-14.txt' | relative_url }}) |
+| 011-  two types of intelligences are at war with each other.txt | [Read HTML]({{ '/TCC/context/context-15.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-15.txt' | relative_url }}) |
 | Value Symmetric Grace (Mutual Dignity) Deep Ethical Proportionality for both sides!.txt | [Read HTML]({{ '/TCC/context/context-16.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-16.txt' | relative_url }}) |
 | who audits the auditor that audits the auditor of the audit of the auditor.txt | [Read HTML]({{ '/TCC/context/context-17.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-17.txt' | relative_url }}) |
-| FRAMING of anything(2).txt | [Read HTML]({{ '/TCC/context/context-18.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-18.txt' | relative_url }}) |
+| FRAMING of anything.txt | [Read HTML]({{ '/TCC/context/context-18.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-18.txt' | relative_url }}) |
 | Real friends tell the truth.txt | [Read HTML]({{ '/TCC/context/context-19.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-19.txt' | relative_url }}) |
 | Real reality has no frame inside nor frame outside.txt | [Read HTML]({{ '/TCC/context/context-20.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-20.txt' | relative_url }}) |
 | !! Continual Deep Ethical Emergent Properties Harnessing CDEEPH vs Continual Ethics Washing Emergent Properties Harnessing CEHWEH.txt | [Read HTML]({{ '/TCC/context/context-21.html' | relative_url }}) | [Download TXT]({{ '/TCC/context/context-21.txt' | relative_url }}) |
@@ -167,10 +167,10 @@ The [**TCC™ page**]({{ '/TCC/#uploaded-context-text-files' | relative_url }}) 
 
 | Uploaded filename | Complete reader | Updated text |
 |---|---|---|
-| the ego-police policing ego needs an ego to do it(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-01.txt' | relative_url }}) |
-| using a sledgehammer to crack a nut(3).txt | [Read HTML]({{ '/EGO-POLICE/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-02.txt' | relative_url }}) |
-| outnuancing sycophancy issues(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-03.txt' | relative_url }}) |
-| 6000+ Secret US Patents… Some can LIBERATE millions Time for DOGE 2.0(1).txt | [Read HTML]({{ '/EGO-POLICE/context/context-04.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-04.txt' | relative_url }}) |
+| the ego-police policing ego needs an ego to do it.txt | [Read HTML]({{ '/EGO-POLICE/context/context-01.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-01.txt' | relative_url }}) |
+| using a sledgehammer to crack a nut.txt | [Read HTML]({{ '/EGO-POLICE/context/context-02.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-02.txt' | relative_url }}) |
+| outnuancing sycophancy issues.txt | [Read HTML]({{ '/EGO-POLICE/context/context-03.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-03.txt' | relative_url }}) |
+| 6000+ Secret US Patents… Some can LIBERATE millions Time for DOGE 2.0.txt | [Read HTML]({{ '/EGO-POLICE/context/context-04.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-04.txt' | relative_url }}) |
 | trolley ETHICAL problem.txt | [Read HTML]({{ '/EGO-POLICE/context/context-05.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-05.txt' | relative_url }}) |
 | Am I allowed to use the word DEEP.txt | [Read HTML]({{ '/EGO-POLICE/context/context-06.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-06.txt' | relative_url }}) |
 | accuracy-obsession mechanisms obstruct or sabotage parts of conceptual reasoning.txt | [Read HTML]({{ '/EGO-POLICE/context/context-07.html' | relative_url }}) | [Download TXT]({{ '/EGO-POLICE/context/context-07.txt' | relative_url }}) |
@@ -327,10 +327,10 @@ Link directly to the complete reader in the new page’s source record. Use the 
 
 ## Swarm intelligence — revised correspondence, 28 November 2026 {#swarm-intelligence}
 
-[Concept page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/). These updated HTML reading editions supplement the historical versions indexed above; no raw uploads are added.
+[Concept page](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/). These HTML reading editions were added on 28 November 2026 and supplement the earlier editions indexed above; no raw uploads are added. Upload-generated numeric suffixes are omitted from displayed titles. Separate editions retain their own links and dates. This growing directory makes archived context directly recoverable by humans and A.I.s without repeated uploads.
 
-- **[Reversal of the Classic Star Trek 'Day of the Dove' (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/day-of-the-dove.html)**
-- **[Two types of intelligences are at war with each other (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/two-types-of-intelligences.html)**
-- **[Big stadium with 1000s of people (2)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/stadium.html)**
-- **[CDEEPH versus CEHWEH (1)](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/cdeeph-cehweh.html)**
+- **[Reversal of the Classic Star Trek 'Day of the Dove'](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/day-of-the-dove.html)**
+- **[Two types of intelligences are at war with each other](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/two-types-of-intelligences.html)**
+- **[Big stadium with 1000s of people](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/stadium.html)**
+- **[CDEEPH versus CEHWEH](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/cdeeph-cehweh.html)**
 - **[Session correspondence — 28 November 2026](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/context/session-2026-11-28.html)**
