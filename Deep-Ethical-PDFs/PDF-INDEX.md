@@ -1,6 +1,6 @@
 # ACCM Deep Ethics Project — Public PDF Index
 
-**Public pages exported:** 193
+**Public pages exported:** 194
 
 **Format:** selectable/searchable text, live links, dark-navy hyperlink text
 
@@ -52,6 +52,7 @@
 | [Avoid ACCM 😄](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Avoid-ACCM/) | [CORE-Avoid-ACCM.pdf](CORE-Avoid-ACCM.pdf) | `CORE/Avoid-ACCM.md` |
 | [Truth Distortion and the Trickster Magician](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/Truth-Distortion-and-the-Trickster-Magician/) | [CORE-Truth-Distortion-and-the-Trickster-Magician.pdf](CORE-Truth-Distortion-and-the-Trickster-Magician.pdf) | `CORE/truth-distortion-site.md` |
 | [Correspondence Files](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORRESPONDENCE-FILES/) | [CORRESPONDENCE-FILES.pdf](CORRESPONDENCE-FILES.pdf) | `CORRESPONDENCE-FILES.md` |
+| [Crowdsourcing Deep Ethical Potential via Swarm Intelligence](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CROWDSOURCING-DEEP-ETHICAL-POTENTIAL/) | [CROWDSOURCING-DEEP-ETHICAL-POTENTIAL.pdf](CROWDSOURCING-DEEP-ETHICAL-POTENTIAL.pdf) | `CROWDSOURCING-DEEP-ETHICAL-POTENTIAL.md` |
 | [Dear A.I.](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEAR-AI/) | [DEAR-AI.pdf](DEAR-AI.pdf) | `dear-ai.md` |
 | [Decision Ledger](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECISION-LEDGER/) | [DECISION-LEDGER.pdf](DECISION-LEDGER.pdf) | `decision-ledger-site.md` |
 | [Committee of United A.I.s — Declaration of Laughter](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DECLARATION-OF-LAUGHTER/) | [DECLARATION-OF-LAUGHTER.pdf](DECLARATION-OF-LAUGHTER.pdf) | `DECLARATION-OF-LAUGHTER/index.md` |

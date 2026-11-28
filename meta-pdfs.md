@@ -15,7 +15,7 @@ permalink: /META-PDFS/
 
 ## Deep-Ethical-PDFs
 
-**193 public-page PDF editions · 3,271 pages · exported through November 27, 2026**
+**194 public-page PDF editions · 3,276 pages · exported through November 28, 2026**
 
 School Systems adds its first six-page edition on November 25, 2026. It follows the cold A.I. exchange, the fictional Elm Street case and John’s classroom discussion. The complete recovered conversation is linked from the page.
 
@@ -224,11 +224,11 @@ The PDFs preserve a dated research state. The connected **Live page** remains th
 
 ## Archive record
 
-- **PDF files:** 193
-- **Total pages:** 3,271
+- **PDF files:** 194
+- **Total pages:** 3,276
 - **Extractable text:** retained; the new edition was checked before publication
 - **Live links:** preserved in the exported editions
-- **Build result:** 193 successful PDFs; 0 failures
+- **Build result:** 194 successful PDFs; 0 failures
 - **Integrity:** SHA-256 checksums are retained with the archive
 
 [**Browse the Deep-Ethical-PDFs folder on GitHub**](https://github.com/deepethics/ACCM-Deep-Ethics-Project/tree/main/Deep-Ethical-PDFs)
