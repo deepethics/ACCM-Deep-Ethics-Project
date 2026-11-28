@@ -1385,6 +1385,11 @@ For independent testing, select a single packet, strip the condition identifier,
 **Provenance:** John Kuhles supplied the exchanges and approved this consolidation. Google A.I. supplied the first quoted assessment; the second is unattributed in the supplied turn. GPT-6.2 provided the intervening refinements, candidate qualifier-propagation instrument, navigation map and v0.2 fixture development. The preceding correction history remains visible.
 
 
+
+### Archive-level external review — 28 November 2026
+
+A further longitudinal observation concerns the correspondence between the project's declared orientation and the archive as sampled by Grok 4.7 Expert Build A.I. The [full review and reciprocal readings](https://deepethics.github.io/ACCM-Deep-Ethics-Project/AI-REACTIONS/#archive-level-review-2026-11-28) and [provenance record](https://deepethics.github.io/ACCM-Deep-Ethics-Project/PROVENANCE/#archive-level-review-2026-11-28) preserve the distinction among architectural integrity, operational integrity and empirical effectiveness. The first two received favorable sampled observations; empirical effectiveness remains open. The reviewed archive's exact commit and hash are unconfirmed, and the review is not a substitute for independent experimental validation. This extends the candidate longitudinal Value Trajectory™ research route from individual page representations to archive-level evaluations.
+
 ## Original video {#original-video}
 
 [Watch the documentary on YouTube](https://www.youtube.com/watch?v=mS-VjJGYb7E).
